@@ -1,0 +1,38 @@
+[
+  {
+    "name": "GitHub",
+    "icon": "github",
+    "url": "https://github.com/",
+    "user": "mikepthomas",
+    "project": "mikepthomas.github.io",
+    "showInNav": true
+  },
+  {
+    "name": "LinkedIn",
+    "icon": "linkedin",
+    "url": "https://www.linkedin.com/in/",
+    "user": "mikepaulthomas",
+    "showInNav": true
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "url": "https://instagram.com/",
+    "user": "montycrabapple",
+    "showInNav": true
+  },
+  {
+    "name": "Facebook",
+    "icon": "facebook",
+    "url": "https://facebook.com/",
+    "user": "montycrabapple",
+    "showInNav": false
+  },
+  {
+    "name": "Twitter",
+    "icon": "twitter",
+    "url": "https://www.twitter.com/",
+    "user": "montycrabapple",
+    "showInNav": false
+  }
+]

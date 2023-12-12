@@ -24,6 +24,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+// Import Font Awesome styles
+@import '~@fortawesome/fontawesome-svg-core/styles.css';
+
 // Import parts of Bootstrap
 // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
 @import '~bootstrap/scss/functions';
@@ -44,19 +47,19 @@ $font-size-base: 0.8rem !default;
 
 // 6. Optionally include any other parts as needed
 @import '~bootstrap/scss/utilities';
-//@import '~bootstrap/scss/reboot';
-//@import '~bootstrap/scss/type';
-@import '~bootstrap/scss/images';
-//@import '~bootstrap/scss/containers';
-//@import '~bootstrap/scss/grid';
+@import '~bootstrap/scss/reboot';
+@import '~bootstrap/scss/type';
+//@import '~bootstrap/scss/images';
+@import '~bootstrap/scss/containers';
+@import '~bootstrap/scss/grid';
 @import '~bootstrap/scss/tables';
 //@import '~bootstrap/scss/forms';
 //@import '~bootstrap/scss/buttons';
-//@import '~bootstrap/scss/transitions';
+@import '~bootstrap/scss/transitions';
 //@import '~bootstrap/scss/dropdown';
 //@import '~bootstrap/scss/button-group';
-//@import '~bootstrap/scss/nav';
-//@import '~bootstrap/scss/navbar';
+@import '~bootstrap/scss/nav';
+@import '~bootstrap/scss/navbar';
 //@import '~bootstrap/scss/card';
 //@import '~bootstrap/scss/accordion';
 //@import '~bootstrap/scss/breadcrumb';
