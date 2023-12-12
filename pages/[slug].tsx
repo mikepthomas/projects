@@ -11,6 +11,7 @@ import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import markdownToHtml from '../lib/markdownToHtml'
 import type PostType from '../interfaces/post'
+import { basePath } from '../next.config'
 
 type Props = {
   post: PostType
@@ -35,7 +36,11 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>{title}</title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta
+                  name="description"
+                  content={post.excerpt}
+                />
+                <meta property="og:image" content={`${basePath}${post.ogImage.url}`} />
               </Head>
               <PostHeader
                 title={post.title}
@@ -61,6 +66,7 @@ type Params = {
 export async function getStaticProps({ params }: Params) {
   const post = getPostBySlug(params.slug, [
     'title',
+    'excerpt',
     'date',
     'slug',
     'author',
