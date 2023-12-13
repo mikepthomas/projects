@@ -1,4 +1,4 @@
-import { CMS_NAME } from '../lib/constants'
+import { CMS_NAME } from '../lib/constants';
 
 const Intro = () => {
   return (
@@ -7,10 +7,11 @@ const Intro = () => {
         {CMS_NAME}.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Just some things I have planned to do for the next few <s>months</s> <s>years</s> decades...
+        Just some things I have planned to do for the next few <s>months</s>{' '}
+        <s>years</s> decades...
       </h4>
     </section>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;

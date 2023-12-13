@@ -28,7 +28,7 @@ import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler } from 'reactstrap';
 
 import SocialLink, { SocialData } from './social-link';
 
-import { basePath } from '../../next.config'
+import { basePath } from '../../next.config';
 import styles from './navigation.module.scss';
 
 interface Props {
@@ -51,7 +51,11 @@ export default function Navigation(props: Props) {
       </a>
       <Navbar color="dark" dark={true} expand="md" fixed="top">
         <NavbarBrand href="/">
-          <img className={styles['navbar-logo']} src={`${basePath}/logo-blue.png`} alt="Mike Thomas" />
+          <img
+            className={styles['navbar-logo']}
+            src={`${basePath}/logo-blue.png`}
+            alt="Mike Thomas"
+          />
         </NavbarBrand>
         <NavbarToggler onClick={() => setIsOpen(!isOpen)} />
         <Collapse isOpen={isOpen} navbar={true}>

@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import { basePath } from '../next.config'
+import Head from 'next/head';
+import { basePath } from '../next.config';
 
 const Meta = () => {
   return (
@@ -29,10 +29,13 @@ const Meta = () => {
       />
       <link rel="shortcut icon" href={`${basePath}/favicon/favicon.ico`} />
       <meta name="msapplication-TileColor" content="#000000" />
-      <meta name="msapplication-config" content={`${basePath}/favicon/browserconfig.xml`} />
+      <meta
+        name="msapplication-config"
+        content={`${basePath}/favicon/browserconfig.xml`}
+      />
       <meta name="theme-color" content="#000" />
     </Head>
-  )
-}
+  );
+};
 
-export default Meta
+export default Meta;

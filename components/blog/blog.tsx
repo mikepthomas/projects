@@ -27,15 +27,15 @@ import React from 'react';
 import { Col, Container, Row } from 'reactstrap';
 
 type Props = {
-    content: string
-}
+  content: string;
+};
 
 export default function Blog({ content }: Props) {
-    return (
-        <Container className="nav-padding projects-page">
+  return (
+    <Container className="nav-padding projects-page">
       <Row>
         <Col className="markdown" lg="8">
-            <div dangerouslySetInnerHTML={{ __html: content }} />
+          <div dangerouslySetInnerHTML={{ __html: content }} />
         </Col>
         <Col lg="4">
           <div className="position-sticky">
@@ -129,14 +129,10 @@ export default function Blog({ content }: Props) {
                   <a href="/projects/red-rocket">Red Rocket Truck Stop</a>
                 </li>
                 <li>
-                  <a href="/projects/sanctuary-hills">
-                    Sanctuary Hills House
-                  </a>
+                  <a href="/projects/sanctuary-hills">Sanctuary Hills House</a>
                 </li>
                 <li>
-                  <a href="/projects/printer-filament">
-                    3D Printer Filament
-                  </a>
+                  <a href="/projects/printer-filament">3D Printer Filament</a>
                 </li>
                 <li>
                   <a href="/projects/eurorack-modular-synth">
@@ -167,5 +163,5 @@ export default function Blog({ content }: Props) {
         </Col>
       </Row>
     </Container>
-    );
+  );
 }

@@ -29,12 +29,13 @@ import { Col, Container } from 'reactstrap';
 export default function Footer() {
   return (
     <Container>
-      <footer className='d-flex flex-wrap py-3 border-top text-muted'>
-        <Col className='d-flex align-items-center'>
-          &copy; 2016-{new Date().getFullYear()} Mike Thomas, All rights reserved.
+      <footer className="d-flex flex-wrap py-3 border-top text-muted">
+        <Col className="d-flex align-items-center">
+          &copy; 2016-{new Date().getFullYear()} Mike Thomas, All rights
+          reserved.
         </Col>
-        <Col className='d-flex justify-content-end'>
-          <a href='#__next'>Back to top</a>
+        <Col className="d-flex justify-content-end">
+          <a href="#__next">Back to top</a>
         </Col>
       </footer>
     </Container>
