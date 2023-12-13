@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import React from 'react';
-import { Col, Container, NavLink } from 'reactstrap';
+import { Col, Container } from 'reactstrap';
 
 export default function Footer() {
   return (
@@ -34,9 +34,7 @@ export default function Footer() {
           &copy; 2016-{new Date().getFullYear()} Mike Thomas, All rights reserved.
         </Col>
         <Col className='d-flex justify-content-end'>
-          <NavLink className='underline hover:text-blue-600 duration-200 transition-colors' href='#__next'>
-            Back to top
-          </NavLink>
+          <a href='#__next'>Back to top</a>
         </Col>
       </footer>
     </Container>

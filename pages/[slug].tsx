@@ -1,7 +1,6 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import { Container } from 'reactstrap';
-import PostBody from '../components/post-body'
 import Header from '../components/header'
 import PostHeader from '../components/post-header'
 import Layout from '../components/layout'
@@ -12,6 +11,7 @@ import { CMS_NAME } from '../lib/constants'
 import markdownToHtml from '../lib/markdownToHtml'
 import type PostType from '../interfaces/post'
 import { basePath } from '../next.config'
+import { Blog } from '../components'
 
 type Props = {
   post: PostType
@@ -32,7 +32,7 @@ export default function Post({ post, morePosts }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="mb-20">
               <Head>
                 <title>{title}</title>
                 <meta
@@ -47,7 +47,7 @@ export default function Post({ post, morePosts }: Props) {
                 date={post.date}
                 author={post.author}
               />
-              <PostBody content={post.content} />
+              <Blog content={post.content} />
             </article>
           </>
         )}

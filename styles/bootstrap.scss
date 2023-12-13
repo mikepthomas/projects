@@ -83,11 +83,8 @@ $font-size-base: 0.8rem !default;
 @import '~bootstrap/scss/utilities/api';
 
 // 8. Add additional custom code here
-html,
-body,
-#__next {
-  height: 100%;
-  scroll-padding-top: 75px;
+html {
+  scroll-padding-top: 70px;
 }
 table {
   @extend .table;
@@ -107,6 +104,6 @@ ul {
   @extend .img-thumbnail;
   border-radius: 8px;
 }
-.nav-padding {
-  padding-top: 75px;
+.position-sticky {
+  top: 70px;
 }

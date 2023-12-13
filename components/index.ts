@@ -23,5 +23,6 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+export { default as Blog } from './blog/blog';
 export { default as Footer } from './footer/footer';
 export { default as Navigation } from './navigation/navigation';
