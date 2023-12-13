@@ -28,8 +28,6 @@ import { NavItem, NavLink } from 'reactstrap';
 import { IconName } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import styles from './navigation.module.scss';
-
 export interface SocialData {
   name: string;
   icon: string;

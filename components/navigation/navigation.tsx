@@ -39,7 +39,7 @@ export default function Navigation(props: Props) {
   const [isOpen, setIsOpen] = React.useState(false);
   const github = props.social.filter((item) => item.name === 'GitHub')[0];
   return (
-    <div className="Navigation">
+    <div className="navigation">
       <a
         className={styles['github-banner'] + ' d-none d-md-block'}
         href={`${github.url}${github.user}/${github.project}`}

@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import Container from '../components/container'
+import { Container } from 'reactstrap';
 import PostBody from '../components/post-body'
 import Header from '../components/header'
 import PostHeader from '../components/post-header'
@@ -16,17 +16,16 @@ import { basePath } from '../next.config'
 type Props = {
   post: PostType
   morePosts: PostType[]
-  preview?: boolean
 }
 
-export default function Post({ post, morePosts, preview }: Props) {
+export default function Post({ post, morePosts }: Props) {
   const router = useRouter()
   const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
-    <Layout preview={preview}>
+    <Layout>
       <Container>
         <Header />
         {router.isFallback ? (

@@ -49,7 +49,7 @@ $font-size-base: 0.8rem !default;
 @import '~bootstrap/scss/utilities';
 @import '~bootstrap/scss/reboot';
 @import '~bootstrap/scss/type';
-//@import '~bootstrap/scss/images';
+@import '~bootstrap/scss/images';
 @import '~bootstrap/scss/containers';
 @import '~bootstrap/scss/grid';
 @import '~bootstrap/scss/tables';
@@ -87,6 +87,7 @@ html,
 body,
 #__next {
   height: 100%;
+  scroll-padding-top: 75px;
 }
 table {
   @extend .table;
@@ -100,6 +101,11 @@ table {
 }
 ul {
   padding-left: 15px;
+}
+.markdown img {
+  @extend .img-fluid;
+  @extend .img-thumbnail;
+  border-radius: 8px;
 }
 .nav-padding {
   padding-top: 75px;

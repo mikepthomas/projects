@@ -23,30 +23,22 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import { fab } from '@fortawesome/free-brands-svg-icons';
-import { fas } from '@fortawesome/free-solid-svg-icons';
-import {
-  faAnchor,
-  faBuildingShield,
-  faCalendarAlt,
-  faChalkboardTeacher,
-  faLaptopCode,
-  faUserGraduate,
-  faWarehouse,
-} from '@fortawesome/free-solid-svg-icons';
+import React from 'react';
+import { Col, Container, NavLink } from 'reactstrap';
 
-const { library } = require('@fortawesome/fontawesome-svg-core');
-
-export default function register() {
-  library.add(
-    faAnchor,
-    faBuildingShield,
-    faCalendarAlt,
-    faChalkboardTeacher,
-    faLaptopCode,
-    faUserGraduate,
-    faWarehouse,
-    fab,
-    fas,
+export default function Footer() {
+  return (
+    <Container>
+      <footer className='d-flex flex-wrap py-3 border-top text-muted'>
+        <Col className='d-flex align-items-center'>
+          &copy; 2016-{new Date().getFullYear()} Mike Thomas, All rights reserved.
+        </Col>
+        <Col className='d-flex justify-content-end'>
+          <NavLink className='underline hover:text-blue-600 duration-200 transition-colors' href='#__next'>
+            Back to top
+          </NavLink>
+        </Col>
+      </footer>
+    </Container>
   );
 }
