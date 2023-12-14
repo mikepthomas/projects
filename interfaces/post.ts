@@ -4,12 +4,9 @@ type PostType = {
   slug: string;
   title: string;
   date: string;
-  coverImage: string;
+  preview: string;
   author: Author;
-  excerpt: string;
-  ogImage: {
-    url: string;
-  };
+  description: string;
   content: string;
 };
 

@@ -1,6 +1,9 @@
 import fs from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
+import { basePath } from '../next.config';
+import authorData from '../data/author.json';
+import Post from '../interfaces/post';
 
 const postsDirectory = join(process.cwd(), '_posts');
 
@@ -14,23 +17,35 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 
-  type Items = {
-    [key: string]: string;
+  const items: Post = {
+    slug: '',
+    title: '',
+    date: '',
+    preview: '',
+    author: {
+      name: '',
+      picture: '',
+    },
+    description: '',
+    content: '',
   };
-
-  const items: Items = {};
 
   // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
+    if (typeof data[field] !== 'undefined') {
+      items[field] = data[field];
+    }
     if (field === 'slug') {
-      items[field] = realSlug;
+      items[field] = realSlug.replace(`${basePath}/`, '');
     }
     if (field === 'content') {
       items[field] = content;
     }
-
-    if (typeof data[field] !== 'undefined') {
-      items[field] = data[field];
+    if (field === 'date') {
+      items[field] = data[field].toISOString();
+    }
+    if (field === 'author') {
+      items[field] = authorData.find((item) => item.name === data[field]);
     }
   });
 

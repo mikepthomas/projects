@@ -89,6 +89,7 @@ html {
 table {
   @extend .table;
   @extend .table-bordered;
+  @extend .table-hover;
   @extend .table-sm;
   @extend .table-striped;
 

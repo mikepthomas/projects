@@ -6,6 +6,7 @@ import remarkRehype from 'remark-rehype';
 import remarkToc from 'remark-toc';
 import rehypeSlug from 'rehype-slug';
 import rehypeStringify from 'rehype-stringify';
+import rehypeWrapAll from 'rehype-wrap-all';
 
 export default async function markdownToHtml(markdown: string) {
   const result = await unified()
@@ -15,6 +16,10 @@ export default async function markdownToHtml(markdown: string) {
     .use(remarkToc)
     .use(remarkRehype)
     .use(rehypeSlug)
+    .use(rehypeWrapAll, {
+      selector: 'table',
+      wrapper: 'div.table-responsive',
+    })
     .use(rehypeStringify)
     .process(markdown);
 
