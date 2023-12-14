@@ -1,0 +1,144 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "template": "[[workspace]]/.frontmatter/templates/default.md",
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Created date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Last Modified date",
+          "name": "lastmod",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isModifiedDate": true
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "dataFile",
+          "dataFileId": "author",
+          "dataFileKey": "name",
+          "dataFileValue": "name",
+          "multiple": false
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags",
+          "taxonomyLimit": 3
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories",
+          "taxonomyLimit": 3
+        }
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.seoContentLengh": 2400,
+  "frontMatter.framework.id": "next",
+  "frontMatter.content.publicFolder": "public",
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.website.host": "https://mikethomas.info",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "projects",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.data.files": [
+    {
+      "id": "author",
+      "title": "Author",
+      "file": "[[workspace]]/data/author.json",
+      "fileType": "json",
+      "labelField": "name",
+      "singleEntry": false,
+      "schema": {
+        "title": "Author",
+        "type": "object",
+        "required": ["name", "picture"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "picture": {
+            "type": "string",
+            "title": "Picture Path"
+          }
+        }
+      }
+    },
+    {
+      "id": "social",
+      "title": "Social",
+      "file": "[[workspace]]/data/social.json",
+      "fileType": "json",
+      "labelField": "name",
+      "singleEntry": false,
+      "schema": {
+        "title": "SocialItem",
+        "type": "object",
+        "required": ["name", "icon", "url", "user", "showInNav"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "icon": {
+            "type": "string",
+            "title": "Icon Name"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL"
+          },
+          "user": {
+            "type": "string",
+            "title": "Username"
+          },
+          "project": {
+            "type": "string",
+            "title": "Project"
+          },
+          "showInNav": {
+            "type": "boolean",
+            "title": "Show in navigation"
+          }
+        }
+      }
+    }
+  ]
+}
