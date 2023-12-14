@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Avatar from './avatar';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
@@ -32,6 +33,7 @@ const PostPreview = ({
         </Link>
       </h3>
       <div className="text-lg mb-4">
+        <FontAwesomeIcon className="mr-2" icon={['fas', 'calendar-day']} />
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{description}</p>
