@@ -41,8 +41,8 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
     if (field === 'content') {
       items[field] = content;
     }
-    if (field === 'date') {
-      items[field] = data[field].toISOString();
+    if (field === 'date' || field === 'lastmod') {
+      items[field] = data[field] ? data[field].toISOString() : null;
     }
     if (field === 'author') {
       items[field] = authorData.find((item) => item.name === data[field]);

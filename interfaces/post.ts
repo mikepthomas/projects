@@ -4,6 +4,7 @@ type PostType = {
   slug: string;
   title: string;
   date: string;
+  lastmod?: string;
   preview: string;
   author: Author;
   description: string;

@@ -100,10 +100,16 @@ table {
 ul {
   padding-left: 15px;
 }
-.markdown img {
-  @extend .img-fluid;
-  @extend .img-thumbnail;
-  border-radius: 8px;
+.markdown {
+  img {
+    @extend .img-fluid;
+    @extend .img-thumbnail;
+    border-radius: 8px;
+  }
+  blockquote {
+    border-left: $spacer * 0.25 solid $gray-200;
+    padding-left: $spacer;
+  }
 }
 .position-sticky {
   top: 70px;

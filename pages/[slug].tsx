@@ -45,6 +45,7 @@ export default function Post({ post, morePosts }: Props) {
                 title={post.title}
                 coverImage={post.preview}
                 date={post.date}
+                lastmod={post.lastmod}
                 author={post.author}
               />
               <Blog content={post.content} />
@@ -67,6 +68,7 @@ export async function getStaticProps({ params }: Params) {
     'title',
     'description',
     'date',
+    'lastmod',
     'slug',
     'author',
     'content',
