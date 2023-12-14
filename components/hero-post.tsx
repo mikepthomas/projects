@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Avatar from './avatar';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
@@ -34,6 +35,7 @@ const HeroPost = ({
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
+            <FontAwesomeIcon className="mr-2" icon={['fas', 'calendar-day']} />
             <DateFormatter dateString={date} />
           </div>
         </div>
