@@ -29,6 +29,7 @@ import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler } from 'reactstrap';
 import SocialLink, { SocialData } from './social-link';
 
 import { basePath } from '../../next.config';
+import { CMS_NAME } from '../../lib/constants';
 import styles from './navigation.module.scss';
 
 interface Props {
@@ -42,7 +43,7 @@ export default function Navigation(props: Props) {
     <div className="navigation">
       <a
         className={styles['github-banner'] + ' d-none d-md-block'}
-        href={`${github.url}${github.user}/${github.project}`}
+        href={`${github.url}${github.user}/${CMS_NAME.toLowerCase()}`}
       >
         <img
           src="https://raw.githubusercontent.com/aral/fork-me-on-github-retina-ribbons/master/images-uncompressed/fork-me-right-orange.png"

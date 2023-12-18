@@ -129,10 +129,6 @@
             "type": "string",
             "title": "Username"
           },
-          "project": {
-            "type": "string",
-            "title": "Project"
-          },
           "showInNav": {
             "type": "boolean",
             "title": "Show in navigation"

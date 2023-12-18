@@ -1,1 +1,179 @@
-{}
+{
+  "public": {
+    "assets": {
+      "blog": {
+        "3d-lab-print-piper-cub": {
+          "piper-cub-hero.png": {
+            "caption": "Image © 2022 3D LabPrint",
+            "alt": "3D LabPrint Piper Cub",
+            "title": "Piper Cub Hero"
+          }
+        },
+        "eurorack-modular-synth": {
+          "keystep-pro.jpg": {
+            "alt": "A KeyStep Pro in its original box",
+            "title": "KeyStep Pro"
+          }
+        },
+        "printer-am8": {
+          "printer-am8-hero.jpg": {
+            "alt": "3D Printer frame in a bashed up box",
+            "title": "AM8 Printer Hero Image"
+          }
+        },
+        "printer-enclosure": {
+          "enclosure-hero.jpg": {
+            "alt": "Lack Table 3D Printer Enclosure",
+            "title": "3D Printer Enclosure Hero"
+          }
+        },
+        "printer-failures": {
+          "printer-failures-hero.jpg": {
+            "alt": "Broken cable chain held together with cable ties",
+            "title": "3D Printer Failures Hero"
+          }
+        },
+        "printer": {
+          "printer-hero.jpg": {
+            "alt": "Stock Anet A8, fully assembled",
+            "title": "3D Printer Hero"
+          }
+        },
+        "printer-printed-upgrades": {
+          "printed-items.jpg": {
+            "alt": "All the upgrades from one spool of filament",
+            "title": "3D Printed Upgrades"
+          }
+        },
+        "printer-hardware-upgrades": {
+          "skr-upgrade-hero.jpg": {
+            "alt": "Designing a case for the new control board",
+            "title": "Hardware Upgrades Hero"
+          }
+        },
+        "printer-filament": {
+          "filament-hero.jpg": {
+            "alt": "A stack of some 3D Printer filament",
+            "title": "3D Printer Filament Hero"
+          }
+        },
+        "printer-klipper-fan-hat": {
+          "klipper-fan-hat-hero.jpg": {
+            "alt": "An unassembled Klipper Fan Hat with some electronic components",
+            "title": "Klipper Fan Hat Hero"
+          }
+        },
+        "single-board-computers": {
+          "raspberry-pi-hero.jpg": {
+            "alt": "A number of original Raspberry Pis in cases",
+            "title": "Raspberry Pi Hero"
+          }
+        },
+        "macro-pi": {
+          "macro-pi-hero.jpg": {
+            "alt": "A bunch of components needed to build a Macro Pi",
+            "title": "Macro Pi Hero"
+          }
+        },
+        "solar-wifi-weather-station": {
+          "solar-wifi-weather-station-hero.jpg": {
+            "alt": "Some PCBs and sensors for the weather station",
+            "title": "Solar Wifi Weather Station Hero"
+          }
+        },
+        "printer-rook": {
+          "rook-2020-frame.jpg": {
+            "alt": "Assembled Rook 2020 Printer frame",
+            "title": "Rook 2020 Frame"
+          }
+        },
+        "printer-enraged-rabbit-carrot-feeder": {
+          "enraged-rabbit-carrot-feeder-hero.jpg": {
+            "alt": "Enraged Rabbit Carrot Feeder Parts",
+            "title": "Enraged Rabbit Carrot Feeder Hero"
+          }
+        },
+        "printer-hypercube": {
+          "hypercube-hero.jpg": {
+            "alt": "Printed parts for Hypercube",
+            "title": "Hypercube Hero"
+          }
+        },
+        "guitar": {
+          "guitar-hero.jpg": {
+            "alt": "Guitar Fully Assembled",
+            "title": "Guitar Hero"
+          }
+        },
+        "openrc-f1": {
+          "openrc-hero.jpg": {
+            "alt": "OpenRC F1 Complete",
+            "title": "OpenRC Hero"
+          }
+        },
+        "openrc-mini-quad": {
+          "mini-quad-hero.jpg": {
+            "alt": "Parts to build a OpenRC FPV Mini Quad",
+            "title": "Mini Quad Hero"
+          }
+        },
+        "openrc-truggy": {
+          "truggy-hero.jpg": {
+            "alt": "Partially assembled OpenRC Truggy",
+            "title": "Truggy Hero"
+          }
+        },
+        "red-rocket": {
+          "red-rocket-hero.jpg": {
+            "alt": "Red Rocket Truck Stop main building with roof on",
+            "title": "Red Rocket Hero"
+          }
+        },
+        "sanctuary-hills": {
+          "sanctuary-hills-house-hero.jpg": {
+            "caption": "Image © 2020 Modiphius Entertainment",
+            "alt": "3D render of the Sanctuary Hills House from Fallout 4",
+            "title": "Sanctuary Hills House Hero"
+          }
+        },
+        "3d-sets-accessories": {
+          "3d-sets-accessories-hero.jpg": {
+            "alt": "Parts to build a 3D Sets Car Hauler Trailer",
+            "title": "3D Sets Accessories Hero"
+          }
+        },
+        "3d-sets-landy": {
+          "3d-sets-landy-hero.jpg": {
+            "alt": "Parts to build a 3D Sets Landy remote controlled car",
+            "title": "3D Sets Landy Hero"
+          }
+        },
+        "printer-polyformer": {
+          "polyformer-hero.jpg": {
+            "caption": "Image © 2022 Reiten Design",
+            "alt": "An Assembled Polyformer",
+            "title": "Polyformer Hero"
+          }
+        },
+        "printer-voron-0.2": {
+          "voron-0.2-hero.jpg": {
+            "alt": "Parts to build a Voron 0.2 3D Printer",
+            "title": "Voron 0.2 Hero"
+          }
+        },
+        "printer-voron-1.8": {
+          "voron-hero.jpg": {
+            "alt": "A partially assembled Voron 1.8 3D Printer",
+            "title": "Voron Hero"
+          }
+        },
+        "printer-voron-mods": {
+          "corner-cable-cover.jpg": {
+            "alt": "The Corner Cable Cover Mod to hide LED Strip cables around the corner extrusions",
+            "title": "Corner Cable Cover"
+          }
+        }
+      }
+    }
+  }
+}

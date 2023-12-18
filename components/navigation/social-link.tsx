@@ -33,7 +33,6 @@ export interface SocialData {
   icon: string;
   url: string;
   user: string;
-  project?: string;
   showInNav: boolean;
 }
 

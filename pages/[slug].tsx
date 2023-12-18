@@ -32,10 +32,11 @@ export default function Post({ post, morePosts }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-20">
+            <article className="mb-16">
               <Head>
                 <title>{title}</title>
                 <meta name="description" content={post.description} />
+                <meta name="keywords" content={post.keywords?.toString()} />
                 <meta
                   property="og:image"
                   content={`${basePath}${post.preview}`}
@@ -73,6 +74,7 @@ export async function getStaticProps({ params }: Params) {
     'author',
     'content',
     'preview',
+    'keywords',
   ]);
   const content = await markdownToHtml(post.content || '');
 

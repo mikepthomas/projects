@@ -1,6 +1,16 @@
 {
   "taxonomy": {
-    "tags": [],
-    "categories": []
+    "tags": [
+      "Anet A8",
+      "ESPHome",
+      "Music",
+      "Polyformer",
+      "Raspberry Pi",
+      "Remote Control",
+      "Rook",
+      "Voron",
+      "Wargames"
+    ],
+    "categories": ["3D Printing", "Electronics", "Photography", "Software"]
   }
 }

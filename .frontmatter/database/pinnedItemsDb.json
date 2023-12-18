@@ -1,1 +1,6 @@
-{}
+{
+  "pinned": [
+    "[[workspace]]/_posts/eurorack-modular-synth.md",
+    "[[workspace]]/_posts/single-board-computers.md"
+  ]
+}

@@ -8,6 +8,9 @@ type PostType = {
   preview: string;
   author: Author;
   description: string;
+  tags: string[];
+  categories: string[];
+  keywords: string[];
   content: string;
 };
 

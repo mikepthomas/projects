@@ -27,6 +27,9 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
       picture: '',
     },
     description: '',
+    tags: [],
+    categories: [],
+    keywords: [],
     content: '',
   };
 
