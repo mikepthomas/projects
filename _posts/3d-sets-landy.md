@@ -142,7 +142,7 @@ Sourcing parts for a Land Rover inspired remote control car, the [3D Sets Landy]
 
 ## Gearbox
 
-I am not sure which gearbox I am going to use. I may start with the geared gearbox first as I can reuse the electronics from my [OpenRC F1 car](openrc-f1.md) and then order the parts and build the belted gearbox at a later stage.
+I am not sure which gearbox I am going to use. I may start with the geared gearbox first as I can reuse the electronics from my [OpenRC F1 car](openrc-f1) and then order the parts and build the belted gearbox at a later stage.
 
 ## Arms
 
@@ -210,12 +210,12 @@ I am not sure which gearbox I am going to use. I may start with the geared gearb
 
 ## Grill
 
-| Item           | Quantity | Material                                                       | Printed | Notes                                                                                                 |
-| -------------- | -------- | -------------------------------------------------------------- | :-----: | ----------------------------------------------------------------------------------------------------- |
-| Front light    | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                       |
-| Grill          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Print the [Grill with headlamp guards](3d-sets-accessories.md#rock-sliders-and-grill) version instead |
-| Hinge A        | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                       |
-| Winker - front | 4        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                       |
+| Item           | Quantity | Material                                                       | Printed | Notes                                                                                              |
+| -------------- | -------- | -------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------------------------------- |
+| Front light    | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                    |
+| Grill          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Print the [Grill with headlamp guards](3d-sets-accessories#rock-sliders-and-grill) version instead |
+| Hinge A        | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                    |
+| Winker - front | 4        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                    |
 
 ## Fender & Hood
 
@@ -230,17 +230,17 @@ I am not sure which gearbox I am going to use. I may start with the geared gearb
 
 ## Bumpers & Rear Door
 
-| Item             | Quantity | Material                                                       | Printed | Notes                                                                                                       |
-| ---------------- | -------- | -------------------------------------------------------------- | :-----: | ----------------------------------------------------------------------------------------------------------- |
-| Front Bumper     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                             |
-| Front frame end  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                             |
-| Hinge A - pickup | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                             |
-| Hinge B - pickup | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                             |
-| Rear Door        | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                             |
-| Rear Door Sill   | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                             |
-| Rear Bumper      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories.md#landy-rear-bumper) version |
-| Rear frame end   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories.md#landy-rear-bumper) version |
-| Servo Guard      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                             |
+| Item             | Quantity | Material                                                       | Printed | Notes                                                                                                    |
+| ---------------- | -------- | -------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------------------------------------- |
+| Front Bumper     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                          |
+| Front frame end  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                          |
+| Hinge A - pickup | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                          |
+| Hinge B - pickup | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
+| Rear Door        | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
+| Rear Door Sill   | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
+| Rear Bumper      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
+| Rear frame end   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
+| Servo Guard      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                          |
 
 ## Doors
 
