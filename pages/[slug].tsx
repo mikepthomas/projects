@@ -7,7 +7,7 @@ import Layout from '../components/layout';
 import { getPostBySlug, getAllPosts } from '../lib/api';
 import PostTitle from '../components/post-title';
 import Head from 'next/head';
-import { CMS_NAME } from '../lib/constants';
+import { HOME_TITLE } from '../lib/constants';
 import markdownToHtml from '../lib/markdownToHtml';
 import type PostType from '../interfaces/post';
 import { basePath } from '../next.config';
@@ -20,7 +20,7 @@ type Props = {
 
 export default function Post({ post, morePosts }: Props) {
   const router = useRouter();
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | ${HOME_TITLE}`;
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />;
   }

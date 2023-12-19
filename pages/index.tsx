@@ -5,7 +5,7 @@ import Intro from '../components/intro';
 import Layout from '../components/layout';
 import { getAllPosts } from '../lib/api';
 import Head from 'next/head';
-import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants';
+import { HOME_OG_IMAGE_URL, HOME_TITLE } from '../lib/constants';
 import Post from '../interfaces/post';
 
 type Props = {
@@ -19,11 +19,8 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
-          <meta
-            name="description"
-            content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
-          />
+          <title>{HOME_TITLE}</title>
+          <meta name="description" content={HOME_TITLE} />
           <meta property="og:image" content={HOME_OG_IMAGE_URL} />
         </Head>
         <Container>
