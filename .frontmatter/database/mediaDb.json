@@ -79,6 +79,10 @@
           "solar-wifi-weather-station-hero.jpg": {
             "alt": "Some PCBs and sensors for the weather station",
             "title": "Solar Wifi Weather Station Hero"
+          },
+          "solar-wifi-weather-station-assembled.jpg": {
+            "alt": "A Fully assembled Solar Wifi Weather Station V2.0 PCB",
+            "title": "Solar Wifi Weather Station Assembled"
           }
         },
         "printer-rook": {

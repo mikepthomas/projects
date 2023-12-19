@@ -1,7 +1,7 @@
 ---
 title: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2023-12-08
+lastmod: 2023-12-19T20:09:20.781Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/raspberry-pi-hero.jpg
@@ -247,8 +247,8 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 
 # Wemos
 
-| Item              | Case                                                     | Flashed with                   | Hostname          | Notes                        |
-| ----------------- | -------------------------------------------------------- | ------------------------------ | ----------------- | ---------------------------- |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-1 | Assembled, currently testing |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-2 |                              |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-3 |                              |
+| Item              | Case                                                     | Flashed with                   | Hostname          | Notes                                                               |
+| ----------------- | -------------------------------------------------------- | ------------------------------ | ----------------- | ------------------------------------------------------------------- |
+| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-1 | [Assembled, currently testing](solar-wifi-weather-station#assembly) |
+| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-2 |                                                                     |
+| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-3 |                                                                     |
