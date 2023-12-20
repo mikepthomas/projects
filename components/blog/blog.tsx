@@ -31,7 +31,7 @@ import remarkBehead from 'remark-behead';
 import remarkEmoji from 'remark-emoji';
 import remarkGfm from 'remark-gfm';
 import remarkToc from 'remark-toc';
-import rehypePresetMinify from 'rehype-minify-whitespace';
+import rehypeMinifyWhitespace from 'rehype-minify-whitespace';
 import rehypePrism from 'rehype-prism-plus';
 import rehypeSlug from 'rehype-slug';
 
@@ -48,13 +48,13 @@ export default function Blog({ content }: Props) {
         <Col className="markdown" lg="8">
           <Markdown
             components={getComponents()}
-            rehypePlugins={[rehypePrism, rehypeSlug, rehypePresetMinify]}
             remarkPlugins={[
               [remarkBehead, { minDepth: 2 }],
               remarkEmoji,
               remarkGfm,
               [remarkToc, { maxDepth: 3, ordered: true }],
             ]}
+            rehypePlugins={[rehypePrism, rehypeSlug, rehypeMinifyWhitespace]}
           >
             {content}
           </Markdown>
