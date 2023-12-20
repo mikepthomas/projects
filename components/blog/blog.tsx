@@ -24,7 +24,17 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import React from 'react';
+import Markdown from 'react-markdown';
 import { Col, Container, Row } from 'reactstrap';
+import remarkBehead from 'remark-behead';
+import remarkEmoji from 'remark-emoji';
+import remarkGfm from 'remark-gfm';
+import remarkToc from 'remark-toc';
+import rehypePresetMinify from 'rehype-minify-whitespace';
+import rehypePrism from 'rehype-prism-plus';
+import rehypeSlug from 'rehype-slug';
+
+import { getComponents } from '../../lib/markdownComponents';
 
 type Props = {
   content: string;
@@ -35,7 +45,18 @@ export default function Blog({ content }: Props) {
     <Container className="nav-padding projects-page">
       <Row>
         <Col className="markdown" lg="8">
-          <div dangerouslySetInnerHTML={{ __html: content }} />
+          <Markdown
+            components={getComponents()}
+            rehypePlugins={[rehypePrism, rehypeSlug, rehypePresetMinify]}
+            remarkPlugins={[
+              [remarkBehead, { minDepth: 2 }],
+              remarkEmoji,
+              remarkGfm,
+              [remarkToc, { maxDepth: 3, ordered: true }],
+            ]}
+          >
+            {content}
+          </Markdown>
         </Col>
         <Col lg="4">
           <div className="position-sticky">

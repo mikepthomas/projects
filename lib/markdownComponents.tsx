@@ -23,36 +23,35 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import {
-  faApple,
-  faGithub,
-  faInstagram,
-  faLinkedin,
-} from '@fortawesome/free-brands-svg-icons';
-import {
-  faAnchor,
-  faBuildingShield,
-  faCalendarAlt,
-  faChalkboardTeacher,
-  faLaptopCode,
-  faUserGraduate,
-  faWarehouse,
-} from '@fortawesome/free-solid-svg-icons';
+import React from 'react';
+import { Table } from 'reactstrap';
+import { motion } from 'framer-motion';
+import Link from 'next/link';
 
-const { library } = require('@fortawesome/fontawesome-svg-core');
+import { basePath } from '../next.config';
 
-export default function register() {
-  library.add(
-    faApple,
-    faAnchor,
-    faBuildingShield,
-    faCalendarAlt,
-    faChalkboardTeacher,
-    faGithub,
-    faInstagram,
-    faLaptopCode,
-    faLinkedin,
-    faUserGraduate,
-    faWarehouse,
-  );
+export function getComponents() {
+  return {
+    a: ({ children, href }) => {
+      if (href?.match(/^(https?:)?\/\//)) {
+        return (
+          <a href={href} rel="noopener noreferrer" target="_blank">
+            {children}
+          </a>
+        );
+      } else {
+        return <Link href={href}>{children}</Link>;
+      }
+    },
+    img: ({ alt, src }) => (
+      <motion.span
+        initial={{ opacity: 0 }}
+        whileInView={{ opacity: 1 }}
+        viewport={{ once: true }}
+      >
+        <img src={src.startsWith('/') ? `${basePath}${src}` : src} alt={alt} />
+      </motion.span>
+    ),
+    table: ({ children }) => <Table responsive>{children}</Table>,
+  };
 }

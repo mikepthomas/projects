@@ -8,7 +8,6 @@ import { getPostBySlug, getAllPosts } from '../lib/api';
 import PostTitle from '../components/post-title';
 import Head from 'next/head';
 import { HOME_TITLE } from '../lib/constants';
-import markdownToHtml from '../lib/markdownToHtml';
 import type PostType from '../interfaces/post';
 import { basePath } from '../next.config';
 import { Blog } from '../components';
@@ -76,14 +75,9 @@ export async function getStaticProps({ params }: Params) {
     'preview',
     'keywords',
   ]);
-  const content = await markdownToHtml(post.content || '');
-
   return {
     props: {
-      post: {
-        ...post,
-        content,
-      },
+      post,
     },
   };
 }
