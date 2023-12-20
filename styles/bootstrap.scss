@@ -89,17 +89,6 @@ $font-size-base: 0.8rem !default;
 html {
   scroll-padding-top: 65px;
 }
-table {
-  @extend .table;
-  @extend .table-bordered;
-  @extend .table-hover;
-  @extend .table-sm;
-  @extend .table-striped;
-
-  thead {
-    @extend .table-dark;
-  }
-}
 ul {
   padding-left: 15px;
 }
@@ -109,8 +98,6 @@ ul {
     padding-left: $spacer;
   }
   img {
-    @extend .img-fluid;
-    @extend .img-thumbnail;
     border-radius: 8px;
   }
   pre::before,
@@ -120,9 +107,14 @@ ul {
   strong em {
     color: $danger;
   }
-  table td {
-    .img-thumbnail {
-      padding: 0;
+  table {
+    td {
+      .img-thumbnail {
+        padding: 0;
+      }
+    }
+    thead {
+      @extend .table-dark;
     }
   }
 }

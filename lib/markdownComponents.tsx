@@ -49,9 +49,17 @@ export function getComponents() {
         whileInView={{ opacity: 1 }}
         viewport={{ once: true }}
       >
-        <img src={src.startsWith('/') ? `${basePath}${src}` : src} alt={alt} />
+        <img
+          className="img-fluid img-thumbnail"
+          src={src.startsWith('/') ? `${basePath}${src}` : src}
+          alt={alt}
+        />
       </motion.span>
     ),
-    table: ({ children }) => <Table responsive>{children}</Table>,
+    table: ({ children }) => (
+      <Table bordered hover responsive size="sm" striped>
+        {children}
+      </Table>
+    ),
   };
 }
