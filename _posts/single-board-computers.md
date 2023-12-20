@@ -1,7 +1,7 @@
 ---
 title: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2023-12-19T20:09:20.781Z
+lastmod: 2023-12-20T18:42:11.751Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/raspberry-pi-hero.jpg
@@ -25,15 +25,15 @@ This page lists all of the single board computers I own and is mainly for me to 
 
 ![Arduino Robot](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/arduino-robot.jpg)
 
-| Item                                                                              | Case            | Flashed with                                                                   | Notes                                                                                     |
-| --------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [Arduino Duemilanove](https://docs.arduino.cc/retired/boards/arduino-duemilanove) | Tracked Robot   | Blink Sketch                                                                   | With [Arduino XBee Shield](https://docs.arduino.cc/retired/shields/arduino-xbee-shield)   |
-| Arduino Mega 2560 Clone                                                           |                 | [Klipper Firmware](https://www.klipper3d.org)                                  | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5                         |
-| Arduino Uno Clone                                                                 | Breadboard Case | [ArduinoISP](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP) |                                                                                           |
-| Arduino Uno                                                                       |                 | Blink Sketch                                                                   |                                                                                           |
-| Arduino Uno R2                                                                    |                 | Blink Sketch                                                                   |                                                                                           |
-| [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3)                       | Clear Case      | Blink Sketch                                                                   | Boxed with [DFRobot I/O Expansion Shield V7.0](https://www.dfrobot.com/product-1009.html) |
-| [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3)                       | Clear Case      | Blink Sketch                                                                   | Boxed with [DFRobot I/O Expansion Shield V7.0](https://www.dfrobot.com/product-1009.html) |
+| Item                                                                              | Case            | Flashed with                                                                                                                               | Notes                                                                                     |
+| --------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Arduino Duemilanove](https://docs.arduino.cc/retired/boards/arduino-duemilanove) | Tracked Robot   | Blink Sketch                                                                                                                               | With [Arduino XBee Shield](https://docs.arduino.cc/retired/shields/arduino-xbee-shield)   |
+| Arduino Mega 2560 Clone                                                           |                 | [Klipper Firmware](https://www.klipper3d.org)                                                                                              | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5                         |
+| Arduino Uno Clone                                                                 | Breadboard Case | [ArduinoISP](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP)                                                             |                                                                                           |
+| Arduino Uno                                                                       | Clear Case      | Blink Sketch                                                                                                                               |                                                                                           |
+| Arduino Uno R2                                                                    | Clear Case      | Blink Sketch                                                                                                                               |                                                                                           |
+| [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3)                       | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | Boxed with [DFRobot I/O Expansion Shield V7.0](https://www.dfrobot.com/product-1009.html) |
+| [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3)                       | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | Boxed with [DFRobot I/O Expansion Shield V7.0](https://www.dfrobot.com/product-1009.html) |
 
 # BBC
 
