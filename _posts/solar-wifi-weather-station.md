@@ -55,7 +55,7 @@ Quantities are for 1 PCB.
 
 # Assembly
 
-![A Fully assembled Solar Wifi Weather Station V2.0 PCB](/projects/assets/blog/solar-wifi-weather-station/solar-wifi-weather-station-assembled.jpg)
+![A Fully assembled Solar Wifi Weather Station V2.0 PCB](/assets/blog/solar-wifi-weather-station/solar-wifi-weather-station-assembled.jpg)
 
 # Software
 
