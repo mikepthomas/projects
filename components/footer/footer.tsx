@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import Link from 'next/link';
 import React from 'react';
 import { Col, Container } from 'reactstrap';
 
@@ -35,7 +36,7 @@ export default function Footer() {
           reserved.
         </Col>
         <Col className="d-flex justify-content-end">
-          <a href="#__next">Back to top</a>
+          <Link href="#__next">Back to top</Link>
         </Col>
       </footer>
     </Container>

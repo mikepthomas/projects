@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import Link from 'next/link';
 import React from 'react';
 import Markdown from 'react-markdown';
 import { Col, Container, Row } from 'reactstrap';
@@ -67,116 +68,108 @@ export default function Blog({ content }: Props) {
               </p>
               <ul>
                 <li>
-                  <a href="/projects/printer">Anet A8</a>
+                  <Link href="printer">Anet A8</Link>
                   <ul>
                     <li>
-                      <a href="/projects/printer-failures">Failures</a>
+                      <Link href="printer-failures">Failures</Link>
                     </li>
                     <li>
-                      <a href="/projects/printer-printed-upgrades">
+                      <Link href="printer-printed-upgrades">
                         3D Printed Upgrades
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="/projects/printer-enclosure">
-                        3D Printer Enclosure
-                      </a>
+                      <Link href="printer-enclosure">3D Printer Enclosure</Link>
                     </li>
                     <li>
-                      <a href="/projects/printer-hardware-upgrades">
+                      <Link href="printer-hardware-upgrades">
                         Hardware Upgrades
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="/projects/printer-am8">AM8 Switchwire</a>
+                      <Link href="printer-am8">AM8 Switchwire</Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/projects/printer-hypercube">
+                  <Link href="printer-hypercube">
                     <s>Hypercube CoreXY Upgrade</s>
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/projects/printer-rook">Rook 2020</a>
+                  <Link href="printer-rook">Rook 2020</Link>
                 </li>
                 <li>
-                  <a href="/projects/printer-voron-0.2">Voron 0.2</a>
+                  <Link href="printer-voron-0.2">Voron 0.2</Link>
                 </li>
                 <li>
-                  <a href="/projects/printer-voron-1.8">Voron 1.8</a>
+                  <Link href="printer-voron-1.8">Voron 1.8</Link>
                   <ul>
                     <li>
-                      <a href="/projects/printer-voron-1.8-mods">
-                        Voron 1.8 Mods
-                      </a>
+                      <Link href="printer-voron-1.8-mods">Voron 1.8 Mods</Link>
                     </li>
                     <li>
-                      <a href="/projects/printer-enraged-rabbit-carrot-feeder">
+                      <Link href="printer-enraged-rabbit-carrot-feeder">
                         Enraged Rabbit Carrot Feeder
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="/projects/printer-polyformer">Polyformer</a>
+                  <Link href="printer-polyformer">Polyformer</Link>
                 </li>
                 <li>
-                  <a href="/projects/3d-lab-print-piper-cub">
+                  <Link href="3d-lab-print-piper-cub">
                     3D LabPrint Piper Cub
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/projects/3d-sets-landy">3D Sets Landy</a>
+                  <Link href="3d-sets-landy">3D Sets Landy</Link>
                 </li>
                 <li>
-                  <a href="/projects/3d-sets-accessories">
-                    3D Sets Accessories
-                  </a>
+                  <Link href="3d-sets-accessories">3D Sets Accessories</Link>
                 </li>
                 <li>
-                  <a href="/projects/openrc-f1">OpenRC F1</a>
+                  <Link href="openrc-f1">OpenRC F1</Link>
                 </li>
                 <li>
-                  <a href="/projects/openrc-truggy">OpenRC Truggy</a>
+                  <Link href="openrc-truggy">OpenRC Truggy</Link>
                 </li>
                 <li>
-                  <a href="/projects/openrc-mini-quad">OpenRC Mini Quad</a>
+                  <Link href="openrc-mini-quad">OpenRC Mini Quad</Link>
                 </li>
                 <li>
-                  <a href="/projects/guitar">Guitar</a>
+                  <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
-                  <a href="/projects/red-rocket">Red Rocket Truck Stop</a>
+                  <Link href="red-rocket">Red Rocket Truck Stop</Link>
                 </li>
                 <li>
-                  <a href="/projects/sanctuary-hills">Sanctuary Hills House</a>
+                  <Link href="sanctuary-hills">Sanctuary Hills House</Link>
                 </li>
                 <li>
-                  <a href="/projects/printer-filament">3D Printer Filament</a>
+                  <Link href="printer-filament">3D Printer Filament</Link>
                 </li>
                 <li>
-                  <a href="/projects/eurorack-modular-synth">
+                  <Link href="eurorack-modular-synth">
                     Eurorack Modular Synth
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/projects/printer-klipper-fan-hat">
-                    Klipper Fan Hat
-                  </a>
+                  <Link href="printer-klipper-fan-hat">Klipper Fan Hat</Link>
                 </li>
                 <li>
-                  <a href="/projects/macro-pi">Macro Pi</a>
+                  <Link href="macro-pi">Macro Pi</Link>
                 </li>
                 <li>
-                  <a href="/projects/solar-wifi-weather-station">
+                  <Link href="solar-wifi-weather-station">
                     Solar Wifi Weather Station
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/projects/single-board-computers">
+                  <Link href="single-board-computers">
                     Single Board Computers
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
