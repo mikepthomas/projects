@@ -217,10 +217,11 @@ I have printed the [Filament Sensor](https://github.com/EtteGit/EnragedRabbitPro
 
 ### Electronics
 
-| Item                           | Quantity | Received | Notes    |
-| ------------------------------ | -------- | -------- | -------- |
-| Neopixel                       | 8        |          | Optional |
-| Wire for LEDs & micro switches | 8        |          |          |
+| Item                                 | Quantity | Received | Notes    |
+| ------------------------------------ | -------- | -------- | -------- |
+| Omron D2F-5L or D2F-01L Micro Switch | 8        | 8        |          |
+| Neopixel                             | 8        |          | Optional |
+| Wire for LEDs & micro switches       | 8        |          |          |
 
 ### Hardware
 
