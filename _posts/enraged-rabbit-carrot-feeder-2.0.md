@@ -272,8 +272,8 @@ I have printed the [Filament Sensor](https://github.com/EtteGit/EnragedRabbitPro
 | Item                                                                                                                                                                     | Quantity | Material                                                                 | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
 | [Coupler_Block_180](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_Coupler_Block_180_xN.stl) | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)            |   :x:   |       |
+| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)            |   :x:   |       |
+| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
 
 ### Support Arm
 
