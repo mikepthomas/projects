@@ -91,12 +91,6 @@
             "title": "Rook 2020 Frame"
           }
         },
-        "printer-enraged-rabbit-carrot-feeder": {
-          "enraged-rabbit-carrot-feeder-hero.jpg": {
-            "alt": "Enraged Rabbit Carrot Feeder Parts",
-            "title": "Enraged Rabbit Carrot Feeder Hero"
-          }
-        },
         "printer-hypercube": {
           "hypercube-hero.jpg": {
             "alt": "Printed parts for Hypercube",
@@ -175,6 +169,26 @@
           "corner-cable-cover.jpg": {
             "alt": "The Corner Cable Cover Mod to hide LED Strip cables around the corner extrusions",
             "title": "Corner Cable Cover"
+          }
+        },
+        "enraged-rabbit-carrot-feeder-1.1": {
+          "enraged-rabbit-carrot-patch.jpg": {
+            "alt": "An assembled Enraged Rabbit Carrot Patch",
+            "title": "Enraged Rabbit Carrot Patch"
+          },
+          "enraged-rabbit-carrot-feeder-1.1-hero.jpg": {
+            "alt": "An assembled Enraged Rabbit Carrot Feeder V1.1",
+            "title": "Enraged Rabbit Carrot Feeder 1.1 Hero"
+          }
+        },
+        "enraged-rabbit-carrot-feeder-2.0": {
+          "clockwork-assembled.jpg": {
+            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
+            "title": "Clockwork Assembled"
+          },
+          "enraged-rabbit-carrot-feeder-2.0-hero.jpg": {
+            "alt": "A box of bits to assemble an Enraged Rabbit Carrot Feeder",
+            "title": "Enraged Rabbit Carrot Feeder 2.0 Hero"
           }
         }
       }

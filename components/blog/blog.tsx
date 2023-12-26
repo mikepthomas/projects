@@ -90,6 +90,11 @@ export default function Blog({ content }: Props) {
                     <li>
                       <Link href="printer-am8">AM8 Switchwire</Link>
                     </li>
+                    <li>
+                      <Link href="enraged-rabbit-carrot-feeder-1.1">
+                        Enraged Rabbit Carrot Feeder V1.1
+                      </Link>
+                    </li>
                   </ul>
                 </li>
                 <li>
@@ -110,8 +115,8 @@ export default function Blog({ content }: Props) {
                       <Link href="printer-voron-1.8-mods">Voron 1.8 Mods</Link>
                     </li>
                     <li>
-                      <Link href="printer-enraged-rabbit-carrot-feeder">
-                        Enraged Rabbit Carrot Feeder
+                      <Link href="enraged-rabbit-carrot-feeder-2.0">
+                        Enraged Rabbit Carrot Feeder V2.0
                       </Link>
                     </li>
                   </ul>
