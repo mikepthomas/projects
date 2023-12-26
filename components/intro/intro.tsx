@@ -23,8 +23,34 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
+import React from 'react';
+import { Container } from 'reactstrap';
+
+import styles from './intro.module.scss';
+
+export default function Intro() {
+  return (
+    <div className={styles['intro']}>
+      <Container className={styles['intro-text']}>
+        <h1>Hello, world!</h1>
+        <p>
+          I'm Mike - a Software Engineer in Cardiff with a broad knowledge of
+          all aspects of the software development lifecycle. I am skilled in
+          eliciting requirements, designing, coding and testing complex software
+          systems using modern techniques and technologies.
+        </p>
+        <p className="d-none d-md-block">
+          I am experienced in a number of programming languages including Scala,
+          Java, JavaScript and TypeScript and have a deep understanding of
+          desktop and mobile operating systems such as Windows, Linux, macOS,
+          iOS and Android.
+        </p>
+        <p className="d-none d-md-block">
+          I have worked within an agile team environment (Scrum and Kanban)
+          using the source control tools Subversion and Git and I am familiar
+          with continuous integration tools such as Jenkins and Hudson.
+        </p>
+      </Container>
+    </div>
+  );
+}

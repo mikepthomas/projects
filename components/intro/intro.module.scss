@@ -1,4 +1,4 @@
-/*
+/* 
  * Copyright (c) 2016-2023, Mike Thomas
  * All rights reserved.
  *
@@ -23,8 +23,50 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
+@import '~bootstrap/scss/_functions';
+@import '~bootstrap/scss/_variables';
+@import '~bootstrap/scss/mixins/_breakpoints';
+
+.intro {
+  background-image: url('/projects/banner-sm.jpg');
+  background-repeat: no-repeat;
+  background-position: 75% 100%;
+  background-size: cover;
+  color: whitesmoke;
+  min-height: 100vh;
+  text-shadow:
+    3px 3px 3px $dark,
+    0 0 1px $black;
+
+  @include media-breakpoint-down(sm) {
+    .container {
+      width: 100%;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    background-image: url('/projects/banner-md.jpg');
+  }
+
+  @include media-breakpoint-up(xl) {
+    background-image: url('/projects/banner.jpg');
+    background-attachment: fixed;
+    background-position-x: 0;
+  }
+}
+
+.intro-text {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 10%;
+
+  h1 {
+    font-family: 'Press Start 2P';
+  }
+
+  p {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+}

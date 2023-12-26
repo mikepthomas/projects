@@ -24,12 +24,6 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-// Import Font Awesome styles
-@import '~@fortawesome/fontawesome-svg-core/styles.css';
-
-// Import Prism styles
-@import '~prismjs/themes/prism-coy.css';
-
 // Import parts of Bootstrap
 // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
 @import '~bootstrap/scss/functions';
@@ -92,32 +86,6 @@ html {
 ul {
   padding-left: 15px;
 }
-.markdown {
-  blockquote {
-    border-left: $spacer * 0.25 solid $gray-200;
-    padding-left: $spacer;
-  }
-  img {
-    border-radius: 8px;
-  }
-  pre::before,
-  pre::after {
-    box-shadow: 0px 0px 0px;
-  }
-  strong em {
-    color: $danger;
-  }
-  table {
-    td {
-      .img-thumbnail {
-        padding: 0;
-      }
-    }
-    thead {
-      @extend .table-dark;
-    }
-  }
-}
-.position-sticky {
-  top: 75px;
+table thead {
+  @extend .table-dark;
 }

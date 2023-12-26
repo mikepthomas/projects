@@ -35,6 +35,7 @@ import rehypeMinifyWhitespace from 'rehype-minify-whitespace';
 import rehypePrism from 'rehype-prism-plus';
 import rehypeSlug from 'rehype-slug';
 
+import styles from './blog.module.scss';
 import { getComponents } from '../../lib/markdownComponents';
 
 type Props = {
@@ -45,7 +46,7 @@ export default function Blog({ content }: Props) {
   return (
     <Container className="nav-padding projects-page">
       <Row>
-        <Col className="markdown" lg="8">
+        <Col className={styles['markdown']} lg="8">
           <Markdown
             components={getComponents()}
             remarkPlugins={[
@@ -60,7 +61,7 @@ export default function Blog({ content }: Props) {
           </Markdown>
         </Col>
         <Col lg="4">
-          <div className="position-sticky">
+          <div className={styles['sidebar'] + ' position-sticky'}>
             <div className="p-4 mb-3 bg-light rounded">
               <p>
                 Some projects I am working on and I have planned over the next

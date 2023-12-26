@@ -1,6 +1,8 @@
 import { AppProps } from 'next/app';
+
+import '../styles/tailwind.css';
 import '../styles/bootstrap.scss';
-import '../styles/index.css';
+import '../styles/index.scss';
 
 import setupFontAwesome from '../lib/setupFontAwesome';
 
