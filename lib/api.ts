@@ -19,6 +19,7 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
 
   const items: Post = {
     slug: '',
+    related: [],
     title: '',
     date: '',
     preview: '',
