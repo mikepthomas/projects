@@ -6,6 +6,8 @@ author: Mike Thomas
 description: Sourcing and printing parts to assemble a Polyformer to make my own filament from empty plastic drinks bottles.
 preview: /assets/blog/printer-polyformer/polyformer-hero.jpg
 slug: /projects/printer-polyformer
+related:
+  - /projects/printer-filament
 draft: false
 tags:
   - Polyformer

@@ -5,10 +5,10 @@ lastmod: 2023-07-19
 author: Mike Thomas
 description: How I built the Red Rocket Truck Stop from Fallout 4.
 preview: /assets/blog/red-rocket/red-rocket-hero.jpg
-slug: /projects/printer
+slug: /projects/red-rocket
 draft: false
 tags:
-  - Wargames
+  - Toys
 categories:
   - 3D Printing
 keywords:

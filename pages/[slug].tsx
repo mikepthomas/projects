@@ -14,10 +14,10 @@ import { Blog } from '../components';
 
 type Props = {
   post: PostType;
-  morePosts: PostType[];
+  related: PostType[];
 };
 
-export default function Post({ post, morePosts }: Props) {
+export default function Post({ post, related }: Props) {
   const router = useRouter();
   const title = `${post.title} | ${HOME_TITLE}`;
   if (!router.isFallback && !post?.slug) {
@@ -48,7 +48,7 @@ export default function Post({ post, morePosts }: Props) {
                 lastmod={post.lastmod}
                 author={post.author}
               />
-              <Blog content={post.content} />
+              <Blog content={post.content} related={related} />
             </article>
           </>
         )}
@@ -70,14 +70,24 @@ export async function getStaticProps({ params }: Params) {
     'date',
     'lastmod',
     'slug',
+    'related',
     'author',
     'content',
     'preview',
     'keywords',
   ]);
+  const related =
+    post.related?.map((item) =>
+      getPostBySlug(item.replace(`${basePath}/`, ''), [
+        'title',
+        'slug',
+        'preview',
+      ]),
+    ) || [];
   return {
     props: {
       post,
+      related,
     },
   };
 }

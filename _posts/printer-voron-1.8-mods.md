@@ -5,7 +5,7 @@ lastmod: 2023-12-02
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
-slug: /projects/printer-voron-mods
+slug: /projects/printer-voron-1.8-mods
 draft: false
 tags:
   - Voron

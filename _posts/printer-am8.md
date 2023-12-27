@@ -6,6 +6,8 @@ author: Mike Thomas
 description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire Mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
 slug: /projects/printer-am8
+related:
+  - /projects/printer-hypercube
 draft: false
 tags:
   - Anet A8

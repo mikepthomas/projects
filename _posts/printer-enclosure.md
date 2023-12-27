@@ -6,6 +6,8 @@ author: Mike Thomas
 description: Creating a 3D printer enclosure using 2 Ikea Lack tables.
 preview: /assets/blog/printer-enclosure/enclosure-hero.jpg
 slug: /projects/printer-enclosure
+related:
+  - /projects/printer-filament
 draft: false
 tags:
   - Anet A8

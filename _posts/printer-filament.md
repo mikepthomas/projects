@@ -1,5 +1,5 @@
 ---
-title: 3D Printer Filament list
+title: 3D Printer Filament
 date: 2022-01-22
 lastmod: 2023-08-10
 author: Mike Thomas

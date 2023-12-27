@@ -6,6 +6,11 @@ author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
 slug: /projects/printer-voron-1.8
+related:
+  - /projects/printer-voron-1.8-mods
+  - /projects/printer-enclosure
+  - /projects/printer-hypercube
+  - /projects/enraged-rabbit-carrot-feeder-2.0
 draft: false
 tags:
   - Voron

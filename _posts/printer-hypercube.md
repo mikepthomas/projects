@@ -6,6 +6,8 @@ author: Mike Thomas
 description: I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY Hypercube style printer. This was abandoned for building a Voron instead.
 preview: /assets/blog/printer-hypercube/hypercube-hero.jpg
 slug: /projects/printer-hypercube
+related:
+  - /projects/printer-am8
 draft: false
 tags:
   - Anet A8

@@ -6,6 +6,8 @@ author: Mike Thomas
 description: Sourcing parts for a Land Rover inspired remote control car, the 3D Sets Landy!
 preview: /assets/blog/3d-sets-landy/3d-sets-landy-hero.jpg
 slug: /projects/3d-sets-landy
+related:
+  - /projects/3d-sets-accessories
 draft: false
 tags:
   - Remote Control

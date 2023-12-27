@@ -5,6 +5,12 @@ author: Mike Thomas
 description: This project was to assemble a cheap 3D printer with the premise to eventually make it better by upgrading components and 3D printing improved parts.
 preview: /assets/blog/printer/printer-hero.jpg
 slug: /projects/printer
+related:
+  - /projects/printer-failures
+  - /projects/printer-printed-upgrades
+  - /projects/printer-hardware-upgrades
+  - /projects/printer-am8
+  - /projects/printer-enclosure
 draft: false
 tags:
   - Anet A8

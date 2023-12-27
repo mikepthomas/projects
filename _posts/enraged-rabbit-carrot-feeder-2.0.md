@@ -5,6 +5,8 @@ author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
 slug: /projects/enraged-rabbit-carrot-feeder-2.0
+related:
+  - /projects/enraged-rabbit-carrot-feeder-1.1
 draft: false
 tags:
   - Voron

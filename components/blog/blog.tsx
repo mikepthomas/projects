@@ -37,12 +37,14 @@ import rehypeSlug from 'rehype-slug';
 
 import styles from './blog.module.scss';
 import { getComponents } from '../../lib/markdownComponents';
+import type PostType from '../../interfaces/post';
 
 type Props = {
   content: string;
+  related: PostType[];
 };
 
-export default function Blog({ content }: Props) {
+export default function Blog({ content, related }: Props) {
   return (
     <Container className="nav-padding projects-page">
       <Row>
@@ -67,40 +69,24 @@ export default function Blog({ content }: Props) {
                 Some projects I am working on and I have planned over the next
                 few <s>months</s> <s>years</s> decades...
               </p>
+              {related.length > 0 ? (
+                <>
+                  <h5>Related Content</h5>
+                  <ul>
+                    {related.map((item) => (
+                      <li>
+                        <a href={item.slug}>{item.title}</a>
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              ) : (
+                ''
+              )}
+              <h5>Elsewhere</h5>
               <ul>
                 <li>
                   <Link href="printer">Anet A8</Link>
-                  <ul>
-                    <li>
-                      <Link href="printer-failures">Failures</Link>
-                    </li>
-                    <li>
-                      <Link href="printer-printed-upgrades">
-                        3D Printed Upgrades
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="printer-enclosure">3D Printer Enclosure</Link>
-                    </li>
-                    <li>
-                      <Link href="printer-hardware-upgrades">
-                        Hardware Upgrades
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="printer-am8">AM8 Switchwire</Link>
-                    </li>
-                    <li>
-                      <Link href="enraged-rabbit-carrot-feeder-1.1">
-                        Enraged Rabbit Carrot Feeder V1.1
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <Link href="printer-hypercube">
-                    <s>Hypercube CoreXY Upgrade</s>
-                  </Link>
                 </li>
                 <li>
                   <Link href="printer-rook">Rook 2020</Link>
@@ -110,16 +96,6 @@ export default function Blog({ content }: Props) {
                 </li>
                 <li>
                   <Link href="printer-voron-1.8">Voron 1.8</Link>
-                  <ul>
-                    <li>
-                      <Link href="printer-voron-1.8-mods">Voron 1.8 Mods</Link>
-                    </li>
-                    <li>
-                      <Link href="enraged-rabbit-carrot-feeder-2.0">
-                        Enraged Rabbit Carrot Feeder V2.0
-                      </Link>
-                    </li>
-                  </ul>
                 </li>
                 <li>
                   <Link href="printer-polyformer">Polyformer</Link>
@@ -131,9 +107,6 @@ export default function Blog({ content }: Props) {
                 </li>
                 <li>
                   <Link href="3d-sets-landy">3D Sets Landy</Link>
-                </li>
-                <li>
-                  <Link href="3d-sets-accessories">3D Sets Accessories</Link>
                 </li>
                 <li>
                   <Link href="openrc-f1">OpenRC F1</Link>
@@ -148,13 +121,15 @@ export default function Blog({ content }: Props) {
                   <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
+                  <Link href="marble-machine">
+                    Out of Marbles, Marble Machine
+                  </Link>
+                </li>
+                <li>
                   <Link href="red-rocket">Red Rocket Truck Stop</Link>
                 </li>
                 <li>
                   <Link href="sanctuary-hills">Sanctuary Hills House</Link>
-                </li>
-                <li>
-                  <Link href="printer-filament">3D Printer Filament</Link>
                 </li>
                 <li>
                   <Link href="eurorack-modular-synth">

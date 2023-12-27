@@ -6,6 +6,8 @@ author: Mike Thomas
 description: Re-building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the AM8.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-1.1/enraged-rabbit-carrot-feeder-1.1-hero.jpg
 slug: /projects/enraged-rabbit-carrot-feeder-1.1
+related:
+  - /projects/enraged-rabbit-carrot-feeder-2.0
 draft: false
 tags:
   - Anet A8

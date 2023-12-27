@@ -47,6 +47,14 @@
           "isPreviewImage": true
         },
         {
+          "title": "Related Content",
+          "name": "related",
+          "type": "contentRelationship",
+          "contentTypeName": "default",
+          "contentTypeValue": "slug",
+          "multiple": true
+        },
+        {
           "title": "Is in draft",
           "name": "draft",
           "type": "draft"
