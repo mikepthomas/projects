@@ -190,6 +190,20 @@
             "alt": "A box of bits to assemble an Enraged Rabbit Carrot Feeder",
             "title": "Enraged Rabbit Carrot Feeder 2.0 Hero"
           }
+        },
+        "marble-machine": {
+          "marble-machine-hero.jpg": {
+            "alt": "Base of the marble machine that has just finished printing",
+            "title": "Marble Machine Hero"
+          },
+          "marble-machine-base.jpg": {
+            "alt": "Electronics installed into the base of the marble machine",
+            "title": "Marble Machine Base"
+          },
+          "marble-machine-assembled.jpg": {
+            "alt": "The Out of Marbles, marble machine fully assembled",
+            "title": "Marble Machine Assembled"
+          }
         }
       }
     }
