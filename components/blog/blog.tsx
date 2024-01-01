@@ -73,8 +73,8 @@ export default function Blog({ content, related }: Props) {
                 <>
                   <h5>Related Content</h5>
                   <ul>
-                    {related.map((item) => (
-                      <li>
+                    {related.map((item, index) => (
+                      <li key={index}>
                         <Link href={item.slug}>{item.title}</Link>
                       </li>
                     ))}
