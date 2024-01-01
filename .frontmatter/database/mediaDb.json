@@ -37,6 +37,135 @@
           "printer-hero.jpg": {
             "alt": "Stock Anet A8, fully assembled",
             "title": "3D Printer Hero"
+          },
+          "01-before-assembly.jpg": {
+            "alt": "An unassembled Anet A8 in original packaging",
+            "title": "Before Assembly"
+          },
+          "02-mid-frame.jpg": {
+            "alt": "Assembled Mid Frame",
+            "title": "Mid Frame"
+          },
+          "03-top-frame.jpg": {
+            "alt": "Adding the top frame lock plates",
+            "title": "Top Frame"
+          },
+          "04-y-axis-motor.jpg": {
+            "alt": "Installing the Y-Axis motor to the back plate",
+            "title": "Y-Axis Motor"
+          },
+          "05-rear-frame.jpg": {
+            "alt": "Adding the back plate to the rear of the frame",
+            "title": "Rear Frame"
+          },
+          "06-y-axis-tensioner.jpg": {
+            "caption": "",
+            "alt": "Y-Axis bearing support on Front Plate",
+            "title": "Y-Axis Tensioner"
+          },
+          "07-y-axis-install.jpg": {
+            "alt": "Installing the Y-Axis threaded rods",
+            "title": "Y-Axis install"
+          },
+          "08-y-axis-rods.jpg": {
+            "alt": "Installing the Y-Axis bearings and smooth rods",
+            "title": "Y-Axis Rods"
+          },
+          "09-bed-carriage.jpg": {
+            "alt": "Screwing the Bed Carriage together",
+            "title": "Bed Carriage"
+          },
+          "10-bed-carriage-install.jpg": {
+            "alt": "Bed Carriage installed on the printer",
+            "title": "Bed Carriage Install"
+          },
+          "11-y-belt.jpg": {
+            "alt": "Installing the belt to the bed",
+            "title": "Y Belt"
+          },
+          "12-heated-bed.jpg": {
+            "alt": "Adding the heated bed with adjusting springs",
+            "title": "Heated Bed"
+          },
+          "13-z-axis-motors.jpg": {
+            "alt": "Z-Axis motors and limit switch installed",
+            "title": "Z-Axis Motors"
+          },
+          "14-z-axis-rods.jpg": {
+            "alt": "Smooth rods for the Z-Axis",
+            "title": "Z-Axis Rods"
+          },
+          "15-lead-screws.jpg": {
+            "alt": "Adding in the lead screws",
+            "title": "Lead Screws"
+          },
+          "16-x-axis-rods.jpg": {
+            "alt": "X-Axis bearings on the smooth rods",
+            "title": "X-Axis Rods"
+          },
+          "17-extruder.jpg": {
+            "alt": "Fully assembled Anet A8 Extruder",
+            "title": "Extruder"
+          },
+          "18-x-axis-carriage.jpg": {
+            "alt": "Screwing the X-Axis carriage to the bearings",
+            "title": "X-Axis Carriage"
+          },
+          "19-extruder-install.jpg": {
+            "alt": "Extruder Installed on the X-Axis carriage",
+            "title": "Extruder Install"
+          },
+          "20-part-cooling-fan.jpg": {
+            "alt": "Adding the part cooling fan",
+            "title": "Part Cooling Fan"
+          },
+          "21-x-axis-motor.jpg": {
+            "alt": "X-Axis motor is attached to the Z-Axis nut support",
+            "title": "X-Axis Motor"
+          },
+          "22-x-axis-complete.jpg": {
+            "alt": "The completed X-Axis",
+            "title": "X-Axis Complete"
+          },
+          "23-display.jpg": {
+            "alt": "Installing the Display",
+            "title": "Display"
+          },
+          "24-power-supply.jpg": {
+            "alt": "Bolting the power supply to the side of the frame",
+            "title": "Power Supply"
+          },
+          "25-control-board.jpg": {
+            "alt": "Installing the control board",
+            "title": "Control Board"
+          },
+          "26-wiring.jpg": {
+            "alt": "A mess of wires before they are installed",
+            "title": "Wiring"
+          },
+          "27-initial-power-on.jpg": {
+            "alt": "Not letting out the magic smoke",
+            "title": "Initial Power On"
+          },
+          "28-she-lives.jpg": {
+            "alt": "Printer booted up for the first time",
+            "title": "She Lives"
+          },
+          "29-wire-management.jpg": {
+            "alt": "Tidying up the wiring",
+            "title": "Wire Management"
+          },
+          "30-first-print.jpg": {
+            "alt": "First ever print on the printer; a Benchy boat",
+            "title": "First Print"
+          },
+          "safety-upgrades.jpg": {
+            "alt": "Goodies to upgrade the printer",
+            "title": "Safety Upgrades"
+          },
+          "auto-level-sensor.jpg": {
+            "alt": "Auto Level Sensor Installed",
+            "title": "Auto Level Sensor"
           }
         },
         "printer-printed-upgrades": {
