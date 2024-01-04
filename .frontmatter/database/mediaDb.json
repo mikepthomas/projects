@@ -193,9 +193,66 @@
           }
         },
         "single-board-computers": {
-          "raspberry-pi-hero.jpg": {
-            "alt": "A number of original Raspberry Pis in cases",
+          "single-board-computers-hero.jpg": {
+            "alt": "Raspberry Pis are used for tinkering",
             "title": "Raspberry Pi Hero"
+          },
+          "arduino-robot.jpg": {
+            "alt": "An Arduino Tracked Robot",
+            "title": "Arduino Robot"
+          },
+          "bbc-micro-bit.jpg": {
+            "alt": "BBC micro:bit",
+            "title": "BBC Micro Bit"
+          },
+          "bigtreetech-pi.jpg": {
+            "alt": "BigTreeTech Pi with Rubber Duck",
+            "title": "BigTreeTech Pi"
+          },
+          "odroid-cloudshell2.jpg": {
+            "alt": "NAS based on an Odroid XU4",
+            "title": "Odroid CloudShell 2"
+          },
+          "chip.jpg": { "alt": "$9 Bag of Chip", "title": "Chip" },
+          "raspberry-pi-zero-cluster.jpg": {
+            "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
+            "title": "Raspberry Pi Zero Cluster"
+          },
+          "raspberry-pi-1.jpg": {
+            "alt": "OCR Education Kit for Raspberry Pi",
+            "title": "Raspberry Pi 1"
+          },
+          "original-raspberry-pi-1.jpg": {
+            "alt": "My Original Raspberry Pi 1",
+            "title": "Original Raspberry Pi 1"
+          },
+          "raspberry-pi-2-cluster.jpg": {
+            "alt": "My original Raspberry Pi cluster",
+            "title": "Raspberry Pi 2 Cluster"
+          },
+          "flight-tracker.jpg": {
+            "alt": "FlightAware setup for tracking aircraft",
+            "title": "Flight Tracker"
+          },
+          "raspberry-pi-3-cluster.jpg": {
+            "alt": "Updated Raspberry Pi cluster for Docker Swarm",
+            "title": "Raspberry Pi 3 Cluster"
+          },
+          "pi400.jpg": {
+            "alt": "My Raspberry Pi 400 setup on my desk",
+            "title": "Pi 400"
+          },
+          "maker-pi-pico.jpg": {
+            "alt": "Board designed for tinkering using a Pi Pico",
+            "title": "Maker Pi Pico"
+          },
+          "raspberry-pi-5.jpg": {
+            "alt": "The latest addition to my Raspberry Pi collection",
+            "title": "Raspberry Pi 5"
+          },
+          "teensy-audio-guestbook.jpg": {
+            "alt": "Retro telephone used as a guestbook at my wedding",
+            "title": "Teensy Audio Guestbook"
           }
         },
         "macro-pi": {

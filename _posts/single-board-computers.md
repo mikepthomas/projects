@@ -1,10 +1,10 @@
 ---
 title: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2023-12-20T18:42:11.751Z
+lastmod: 2024-01-04T22:12:04.132Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
-preview: /assets/blog/single-board-computers/raspberry-pi-hero.jpg
+preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 draft: false
 tags:
@@ -23,7 +23,7 @@ This page lists all of the single board computers I own and is mainly for me to 
 
 # Arduino
 
-![Arduino Robot](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/arduino-robot.jpg)
+![An Arduino Tracked Robot](/assets/blog/single-board-computers/arduino-robot.jpg)
 
 | Item                                                                              | Case            | Flashed with                                                                                                                               | Notes                                                                                     |
 | --------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ This page lists all of the single board computers I own and is mainly for me to 
 
 # BBC
 
-![BBC micro:bit](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/bbc-micro-bit.jpg)
+![BBC micro:bit](/assets/blog/single-board-computers/bbc-micro-bit.jpg)
 
 The micro:bit is an inexpensive board designed to teach children how to code.
 
@@ -47,7 +47,7 @@ The micro:bit is an inexpensive board designed to teach children how to code.
 
 # BigTreeTech
 
-![BigTreeTech Pi](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/bigtreetech-pi.jpg)
+![BigTreeTech Pi with Rubber Duck](/assets/blog/single-board-computers/bigtreetech-pi.jpg)
 
 BigTreeTech make mainboards to control 3D printers. :duck:
 
@@ -87,7 +87,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 # Hardkernel
 
-![Odroid CloudShell 2](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/odroid-cloudshell2.jpg)
+![NAS based on an Odroid XU4](/assets/blog/single-board-computers/odroid-cloudshell2.jpg)
 
 I purchased the Odroid XU4 and CloudShell enclosure to use as a Network Attached Storage (NAS) server to replace an old outdated and failing 1TB Western Digital MyBook World edition NAS.
 
@@ -108,7 +108,7 @@ Mellow make mainboards to control 3D printers.
 
 # Next Thing Co
 
-![Chip](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/chip.jpg)
+![$9 Bag of Chip](/assets/blog/single-board-computers/chip.jpg)
 
 Dubbed as "The World's First Nine Dollar Computer" I purchased a CHIP in about November 2016 as a toy to play about with however I hardly used it and eventually the company Next Thing Co. entered insolvency it quickly became unsupported.
 
@@ -120,7 +120,7 @@ However mine still works albeit on a very old operating system version.
 
 # Raspberry Pi Zero
 
-![Raspberry Pi Zero Cluster](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/raspberry-pi-zero-cluster.jpg)
+![8086 Cluster Hat with 4 Raspberry Pi Zeros](/assets/blog/single-board-computers/raspberry-pi-zero-cluster.jpg)
 
 My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quite cool due to it using USB gadget mode of the Raspberry Pi Zero to boot up the Raspberry Pis over USB therefore they do not require their own MicroSD cards and can share the storage of the controller Pi.
 
@@ -138,7 +138,7 @@ My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quit
 
 # Raspberry Pi 1
 
-![My Original Raspberry Pi 1](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/original-raspberry-pi-1.jpg)
+![OCR Education Kit for Raspberry Pi](/assets/blog/single-board-computers/raspberry-pi-1.jpg)
 
 | Item                       | Revision | SoC     | RAM   | Case                               | Storage               | OS                                             | Hostname | Notes                                                                        |
 | -------------------------- | -------- | ------- | ----- | ---------------------------------- | --------------------- | ---------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
@@ -155,9 +155,13 @@ My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quit
 | Raspberry Pi Model B+ V1.2 | 0010     | BCM2835 | 512MB | CanaKit Raspberry Pi Case (Clear)  | Shared with `camera1` |                                                |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow)            |
 | Raspberry Pi Model B+ V1.2 | 0013     | BCM2835 | 512MB | CanaKit Raspberry Pi Case (Clear)  | Shared with `camera2` |                                                |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow)            |
 
+![My Original Raspberry Pi 1](/assets/blog/single-board-computers/original-raspberry-pi-1.jpg)
+
+This is my original Raspberry Pi in an Adafruit acrylic case. I soldered the LCD display myself!
+
 # Raspberry Pi 2
 
-![Raspberry Pi 2 Cluster](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/raspberry-pi-2-cluster.jpg)
+![My original Raspberry Pi cluster](/assets/blog/single-board-computers/raspberry-pi-2-cluster.jpg)
 
 This was my original Raspberry Pi cluster, It was originally 4 layers however I managed to find a case that fit perfectly to add an additional layer. If you look hard enough, you will see that the fan of the bottom layer is in a slightly different place and the standoffs are slightly shorter.
 
@@ -172,13 +176,13 @@ The cluster was set up to learn [Ansible](https://www.ansible.com) as the Raspbe
 | Raspberry Pi 2 Model B V1.1 | a01041   | BCM2836 | 1GB | Cluster Case         | 16GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Buster   | node5    |                                                                                                                |
 | Raspberry Pi 2 Model B V1.2 | a02042   | BCM2837 | 1GB | Flirc Aluminium Case | 16GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Bullseye | piaware  | Boxed With FlightAware Pro Stick Plus, ADS-B installed via [Docker](https://sdr-enthusiasts.gitbook.io/ads-b/) |
 
-![Flight Tracker](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/flight-tracker.jpg)
+![FlightAware setup for tracking aircraft](/assets/blog/single-board-computers/flight-tracker.jpg)
 
 As I live fairly close to Cardiff International Airport and notice many aircraft flying over my house I have set up a flight tracker find out some more information about the planes and contribute the flight tracking information to [FlightAware](https://flightaware.com/adsb/stats/user/mikepthomas) for others to benefit from the information too.
 
 # Raspberry Pi 3
 
-![Raspberry Pi 3 Cluster](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/raspberry-pi-3-cluster.jpg)
+![Updated Raspberry Pi cluster for Docker Swarm](/assets/blog/single-board-computers/raspberry-pi-3-cluster.jpg)
 
 I got this case from eBay, it was not in the best shape, very dusty and scratched, it cost me £68.55 but it did contain 3 Raspberry Pi 3s (including one with broken Wifi and Bluetooth) and a few Micro USB Chargers Ethernet cables. The case also came with a switch that fits at the bottom perfectly.
 
@@ -202,7 +206,7 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 
 # Raspberry Pi 4
 
-![Raspberry Pi 400](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/pi400.jpg)
+![My Raspberry Pi 400 setup on my desk](/assets/blog/single-board-computers/pi400.jpg)
 
 | Item                        | Revision | SoC     | RAM | Case                                                                    | Storage                     | OS                                                                                                 | Hostname | Notes                                                                                                              |
 | --------------------------- | -------- | ------- | --- | ----------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -214,13 +218,15 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 
 # Raspberry Pi 5
 
+![The latest addition to my Raspberry Pi collection](/assets/blog/single-board-computers/raspberry-pi-5.jpg)
+
 | Item                        | Revision | SoC     | RAM | Case                               | Storage                  | OS                                                           | Hostname    | Notes                             |
 | --------------------------- | -------- | ------- | --- | ---------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------- | --------------------------------- |
 | Raspberry Pi 5 Model B V1.0 | c04170   | BCM2712 | 4GB | Official Raspberry Pi 5 Case (Red) | 256GB MicroSD (Integral) | Raspberry Pi OS Lite (64-bit), Manually Installed KDE Plasma | raspberrypi | Boxed with official Active Cooler |
 
 # Raspberry Pi Pico
 
-![Maker Pi Pico](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/maker-pi-pico.jpg)
+![Board designed for tinkering using a Pi Pico](/assets/blog/single-board-computers/maker-pi-pico.jpg)
 
 | Item                                | Case                                                                                                        | Flashed with                                                                 | Notes                           |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------- |
@@ -239,7 +245,7 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 
 # Teensy
 
-![Teensy Audio Guestbook](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/single-board-computers/teensy-audio-guestbook.jpg)
+![Retro telephone used as a guestbook at my wedding](/assets/blog/single-board-computers/teensy-audio-guestbook.jpg)
 
 | Item       | Case            | Flashed with                                                            | Notes                         |
 | ---------- | --------------- | ----------------------------------------------------------------------- | ----------------------------- |
