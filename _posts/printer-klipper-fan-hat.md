@@ -49,11 +49,11 @@ Two versions of the board have been produced:
 
 I used [PCBWay](https://pcbway.com/) to produce the PCBs.
 
-![Klipper Fan Hat Front](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-front.jpg)
+![3D render of the front of the Klipper Fan Hat](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-front.jpg)
 
 Although currently untested, the main branch contains the updated version of the board, V2, with a few revisions to fix some bugs that were found when testing the first version of the board.
 
-![Klipper Fan Hat Back](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-back.jpg)
+![3D render of the back of the Klipper Fan Hat](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-back.jpg)
 
 # Parts Required
 
@@ -104,7 +104,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | DIP-8 Socket               | 1        | 20       | Not required, but makes switching EEPROM modules out easier for testing |
 | DS18B20 Temperature Sensor | 1        | 5        |                                                                         |
 
-![Klipper Fan Hat In Hand](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
+![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 
 **_NOTE:_** Some of the images on this page show Version 1 of the PCB, It was originally called the `Klipper Expander Hat` however I have subsequently renamed it to `Klipper Fan Hat` as decided on the [Voron Discord](https://discord.com/channels/460117602945990666/540528535262068739/1090833386421112933) this was so that should not be confused with the `Klipper Expander`.
 
@@ -116,7 +116,7 @@ At present assembly testing has only been done with Version 1 of the Klipper Fan
 
 Excuse the messy soldering, this is the first time I have tried to solder Surface Mount Device (SMD) components, and the pads are TINY, I'm probably going to need to invest in a TS100 (...and provides an excuse to buy a shiny new toy).
 
-![Klipper Fan Hat Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-assembled.jpg)
+![An assembled Klipper Fan Hat](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-assembled.jpg)
 
 The first time powering the Hat up, I connected the Mosfets to 5V from the Raspberry Pi USB input. All 5 Fan output LEDs lit up which made me happy, however, this happiness was short lived, as I unfortunately found a major design flaw in my design...
 
@@ -126,13 +126,13 @@ I used one of my abused Raspberry Pis that I did not mind if I destroyed by rele
 
 I have connected a 12V power supply to VCC for testing, however it should also work for 24V. I switched the power selector jumpers for the Fan mosfets to VCC and tried to switch 12V Fans which also worked succesfully. I have also connected a mini OLED display to the I2C bus and managed to get it to output the default Klipper display.
 
-![Klipper Fan Hat Testing](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-testing.jpg)
+![Testing the Klipper Fan Hat](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-testing.jpg)
 
 I have yet to test the Serial port; it just passes the connections directly to the GPIO pins the same way as the I2C port does, so I am pretty sure it will work.
 
 Now to the major design flaw - I neglected to check if the Raspberry Pi is capable of analog input (spoiler - it's not) I have looked into adding an Analog to Digital Converter (ADC), however it will take up quite a bit of space on the board and I am unsure if I could get it to work with Klipper. I have therefore opted to remove the thermistor ports in favour of 2 General Purpose Input/Output connectors for connecting items such as Filament Runout Sensors instead.
 
-![1 Wire Temperature Sensor](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/1-wire-temp-sensor.jpg)
+![Testing a 1-wire temperature sensor](/assets/blog/printer-klipper-fan-hat/1-wire-temp-sensor.jpg)
 
 If a temperature sensor is required, I have tested a couple of different DS18B20 temperature sensors, they connect to the 1-wire port and are be [compatable with Klipper](https://www.klipper3d.org/Config_Reference.html#ds18b20-temperature-sensor). It is also possible to connect a HTU21D Temperature and Humidity sensor to the I2C port that is also [compatible with Klipper](https://www.klipper3d.org/Config_Reference.html#htu21d-sensor).
 
@@ -142,11 +142,11 @@ After further testing, I have noticed I have used some incorrect resistor values
 
 These have been tested by connecting the 1-wire and the two GPIO pins to a [rotary encoder](https://github.com/mikepthomas/Klipper-Fan-Hat/blob/main/Software/klipper-fan-hat.cfg#L67-L69), and I have also tested a microswitch acting as a [filament runout sensor](https://github.com/mikepthomas/Klipper-Fan-Hat/blob/main/Software/klipper-fan-hat.cfg#L115-L118). Both of which worked perfectly and I have added example configuration sections to the Klipper config file.
 
-![Klipper Fan Hat Rotary Encoder](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-rotary-encoder.jpg)
+![Testing a rotary encoder](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-rotary-encoder.jpg)
 
 ## The Road to V2
 
-![Klipper Fan Hat Version 2](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-fan-hat-version-2.jpg)
+![Holding Version 2 of the PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-version-2.jpg)
 
 After my testing I identified a few improvements that I have now made and are available in the master branch:
 
@@ -549,7 +549,7 @@ Done.
 
 Restart the Pi and we can then [copy the config out of the device tree into the klipper config directory](#remaining-configuration).
 
-![EEPROM Connection to RPi](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/eeprom-connection-to-rpi.jpg)
+![Flashing an EEPROM with a Raspberry Pi](/assets/blog/printer-klipper-fan-hat/eeprom-connection-to-rpi.jpg)
 
 # Klipper Setup
 
@@ -578,7 +578,7 @@ make menuconfig
 
 In the menu, set `Micro-controller Architecture` to `Linux process`, then save and exit.
 
-![Klipper Config](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/klipper-config.jpg)
+![Klipper Firmware Configuration screen](/assets/blog/printer-klipper-fan-hat/klipper-config.jpg)
 
 To build and install the new micro-controller code, run:
 
@@ -606,13 +606,13 @@ cat /proc/device-tree/hat/custom_1 > ~/printer_data/config/klipper-fan-hat.cfg
 
 SPI should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by running `sudo raspi-config` and enabling SPI under the `Interfacing options` menu.
 
-![Enable SPI](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/enable-spi.jpg)
+![Using raspi-config to enable the SPI interface](/assets/blog/printer-klipper-fan-hat/enable-spi.jpg)
 
 ## Optional: Enabling I2C
 
 I2C should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by running `sudo raspi-config` and enabling I2C under the `Interfacing options` menu.
 
-![Enable I2C](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/enable-i2c.jpg)
+![Using raspi-config to enable the I2C interface](/assets/blog/printer-klipper-fan-hat/enable-i2c.jpg)
 
 If planning to use I2C for the MPU accelerometer, it is also required to set the baud rate to 400000 by: adding/uncommenting `dtparam=i2c_arm=on,i2c_arm_baudrate=400000` in `/boot/config.txt` (or `/boot/firmware/config.txt` in some distros).
 This should also be automatically be enabled by the hat EEPROM however you can do it manually if you have any problems.
@@ -621,7 +621,7 @@ This should also be automatically be enabled by the hat EEPROM however you can d
 
 If you require, you can enable the 1-wire interface by running `sudo raspi-config` and enabling 1-wire under the `Interfacing options` menu.
 
-![Enable 1-wire](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-klipper-fan-hat/enable-1-wire.jpg)
+![Using raspi-config to enable the 1-wire interface](/assets/blog/printer-klipper-fan-hat/enable-1-wire.jpg)
 
 you can then find any conneted sensors serial numbers with: `ls /sys/bus/w1/devices/`
 

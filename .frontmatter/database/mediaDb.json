@@ -190,6 +190,58 @@
           "klipper-fan-hat-hero.jpg": {
             "alt": "An unassembled Klipper Fan Hat with some electronic components",
             "title": "Klipper Fan Hat Hero"
+          },
+          "klipper-fan-hat-front.jpg": {
+            "alt": "3D render of the front of the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Front"
+          },
+          "klipper-fan-hat-back.jpg": {
+            "alt": "3D render of the back of the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Back"
+          },
+          "klipper-fan-hat-in-hand.jpg": {
+            "alt": "Holding a Klipper Fan Hat PCB",
+            "title": "Klipper Fan Hat In Hand"
+          },
+          "klipper-fan-hat-assembled.jpg": {
+            "alt": "An assembled Klipper Fan Hat",
+            "title": "Klipper Fan Hat Assembled"
+          },
+          "klipper-fan-hat-testing.jpg": {
+            "alt": "Testing the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Testing"
+          },
+          "1-wire-temp-sensor.jpg": {
+            "alt": "Testing a 1-wire temperature sensor",
+            "title": "1 Wire Temperature Sensor"
+          },
+          "klipper-fan-hat-rotary-encoder.jpg": {
+            "alt": "Testing a rotary encoder",
+            "title": "Klipper Fan Hat Rotary Encoder"
+          },
+          "klipper-fan-hat-version-2.jpg": {
+            "alt": "Holding Version 2 of the PCB",
+            "title": "Klipper Fan Hat Version 2"
+          },
+          "eeprom-connection-to-rpi.jpg": {
+            "alt": "Flashing an EEPROM with a Raspberry Pi",
+            "title": "EEPROM Connection to RPi"
+          },
+          "klipper-config.jpg": {
+            "alt": "Klipper Firmware Configuration screen",
+            "title": "Klipper Config"
+          },
+          "enable-spi.jpg": {
+            "alt": "Using raspi-config to enable the SPI interface",
+            "title": "Enable SPI"
+          },
+          "enable-1-wire.jpg": {
+            "alt": "Using raspi-config to enable the 1-wire interface",
+            "title": "Enable 1-wire"
+          },
+          "enable-i2c.jpg": {
+            "alt": "Using raspi-config to enable the I2C interface",
+            "title": "Enable I2C"
           }
         },
         "single-board-computers": {
