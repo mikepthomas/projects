@@ -230,7 +230,72 @@
           "guitar-hero.jpg": {
             "alt": "Guitar Fully Assembled",
             "title": "Guitar Hero"
-          }
+          },
+          "01-sourcing-parts.jpg": {
+            "alt": "Sourcing Main Components",
+            "title": "Sourcing Parts"
+          },
+          "02-finished-sourcing.jpg": {
+            "alt": "Sourcing Smaller Parts",
+            "title": "Finished Sourcing"
+          },
+          "03-first-part-front.jpg": {
+            "alt": "First Part Attached (Front)",
+            "title": "First Part Front"
+          },
+          "04-first-part-rear.jpg": {
+            "alt": "First Part Attached (Rear)",
+            "title": "First Part Rear"
+          },
+          "05-second-part.jpg": {
+            "alt": "Second Part Attached",
+            "title": "Second Part"
+          },
+          "06-tension-springs.jpg": {
+            "alt": "Adding Tremolo Spring Bracket",
+            "title": "Tension Springs"
+          },
+          "07-third-part-back.jpg": {
+            "alt": "Third Part Attached (Rear)",
+            "title": "Third Part Back"
+          },
+          "08-third-part-front.jpg": {
+            "alt": "Third Part Attached (Front)",
+            "title": "Third Part Front"
+          },
+          "09-full-length.jpg": {
+            "alt": "The Full Length of the Guitar",
+            "title": "Full Length"
+          },
+          "10-sides.jpg": {
+            "alt": "Printing sides to the guitar",
+            "title": "Sides"
+          },
+          "11-sides-install.jpg": {
+            "alt": "Installing the Right Side",
+            "title": "Sides Install"
+          },
+          "12-almost-there.jpg": {
+            "alt": "Broken Part when Installing the Left Side",
+            "title": "Almost There"
+          },
+          "13-sides-clamping.jpg": {
+            "alt": "Cracked Dove Tail",
+            "title": "Sides Clamping"
+          },
+          "14-body-finished.jpg": {
+            "alt": "Body Assembled",
+            "title": "Body Finished"
+          },
+          "15-electronics.jpg": {
+            "alt": "Adding the Electronics",
+            "title": "Electronics"
+          },
+          "16-rear-cover.jpg": {
+            "alt": "Designed a Rear Cover",
+            "title": "Rear Cover"
+          },
+          "17-finished.jpg": { "alt": "All Finished", "title": "Finished" }
         },
         "openrc-f1": {
           "openrc-hero.jpg": {
