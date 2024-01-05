@@ -184,9 +184,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Frame
 
-![Voron 0.2 Frame](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/frame.jpg)
+![3D render of the Voron 0.2 Frame](/assets/blog/printer-voron-0.2/voron-design/frame.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Y Rails
 
@@ -240,9 +240,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## A/B Drives
 
-![Voron 0.2 A/B Drives](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/a-b-drives.jpg)
+![3D render of the Voron 0.2 A/B Drives](/assets/blog/printer-voron-0.2/voron-design/a-b-drives.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: A Drive
 
@@ -266,9 +266,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## A/B Idlers
 
-![Voron 0.2 A/B Idlers](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/a-b-idlers.jpg)
+![3D render of the Voron 0.2 A/B Idlers](/assets/blog/printer-voron-0.2/voron-design/a-b-idlers.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: A Idler
 
@@ -288,9 +288,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Z Axis
 
-![Voron 0.2 Z Axis](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/z-axis.jpg)
+![3D render of the Voron 0.2 Z-Axis](/assets/blog/printer-voron-0.2/voron-design/z-axis.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Leadscrew Nut
 
@@ -326,9 +326,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## X Axis
 
-![Voron 0.2 X Axis](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/x-axis.jpg)
+![3D render of the Voron 0.2 X-Axis](/assets/blog/printer-voron-0.2/voron-design/x-axis.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: XY Joint Left
 
@@ -363,9 +363,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## A/B Belts
 
-![Voron 0.2 A/B Belts](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/a-b-belts.jpg)
+![3D render of the Voron 0.2 A/B Belts](/assets/blog/printer-voron-0.2/voron-design/a-b-belts.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: X Carriage
 
@@ -376,9 +376,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Print Bed
 
-![Voron 0.2 Print Bed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/print-bed.jpg)
+![3D render of the Voron 0.2 ](/assets/blog/printer-voron-0.2/voron-design/print-bed.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Print Bed
 
@@ -388,9 +388,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Print Head
 
-![Voron 0.2 Print Head](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/print-head.jpg)
+![3D render of the Voron 0.2 Print Head](/assets/blog/printer-voron-0.2/voron-design/print-head.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Mini Stealthburner
 
@@ -433,9 +433,9 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ## Electronics & Wiring
 
-![Voron 0.2 Electronics & Wiring](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/electronics-and-wiring.jpg)
+![3D render of the Voron 0.2 Electronics & Wiring](/assets/blog/printer-voron-0.2/voron-design/electronics-and-wiring.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Rear Panel
 
@@ -455,9 +455,9 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ## Skirts & Panels
 
-![Voron 0.2 Skirts & Panels](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/skirts-and-panels.jpg)
+![3D render of the Voron 0.2 Skirts & Panels](/assets/blog/printer-voron-0.2/voron-design/skirts-and-panels.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod by Maverick](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Stealth_Skirts). The first 10 layers of the skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
@@ -632,9 +632,9 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ## Extrusion Tophat
 
-![Voron 0.2 Extrusion Tophat](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-0.2/extrusion-tophat.jpg)
+![3D render of the Voron 0.2 Extrusion Tophat](/assets/blog/printer-voron-0.2/voron-design/extrusion-tophat.jpg)
 
-> Image &copy; 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Top Panel
 
@@ -683,7 +683,7 @@ The V6 no longer requires you to cut up the fans like you used to hve to do with
 
 ### :negative_squared_cross_mark: Assembly
 
-![Nevermore Filter Parts](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-mods/nevermore-filter.jpg)
+![Parts to build a Nevermore Filter](/assets/blog/printer-voron-0.2/nevermore-filter.jpg)
 
 #### Parts Used
 
@@ -697,3 +697,9 @@ The V6 no longer requires you to cut up the fans like you used to hve to do with
 | M3x16 SHCS                         | 1        |
 | M3x6 SHCS                          | 1        |
 | M3 Hammer Head T-nuts              | 1        |
+
+## Assembly Complete
+
+![3D Render of the Voron 0.2 Complete](/assets/blog/printer-voron-0.2/voron-design/assembly-complete.jpg)
+
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)

@@ -77,6 +77,35 @@
   "frontMatter.taxonomy.seoContentLengh": 2400,
   "frontMatter.framework.id": "next",
   "frontMatter.content.publicFolder": "public",
+  "frontMatter.content.snippets": {
+    "Code Highlight": {
+      "description": "Creates a code highlighting box",
+      "body": ["```[[type]]", "[[selection]]", "```"],
+      "fields": [
+        {
+          "name": "type",
+          "title": "Language",
+          "type": "choice",
+          "choices": ["", "bash", "html", "css", "typescript"],
+          "default": ""
+        },
+        {
+          "name": "selection",
+          "title": "Selection",
+          "type": "string",
+          "default": "FM_SELECTED_TEXT"
+        }
+      ]
+    },
+    "Insert image with caption": {
+      "description": "Insert image with title & caption",
+      "openingTags": "%",
+      "closingTags": "%",
+      "body": ["## %title%", "", "![%&alt%](%&mediaUrl%)", "", "> %&caption%"],
+      "isMediaSnippet": true
+    }
+  },
+  "frontMatter.snippets.wrapper.enabled": false,
   "frontMatter.preview.host": "http://localhost:3000",
   "frontMatter.website.host": "https://mikethomas.info",
   "frontMatter.content.pageFolders": [

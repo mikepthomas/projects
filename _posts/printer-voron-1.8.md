@@ -30,7 +30,7 @@ The quantities here are from the 1.8 BOM, however I am planning on swapping out 
 
 ## Fasteners
 
-![LDO Hardware Kit](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/ldo-hardware-kit.jpg)
+![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-1.8/ldo-hardware-kit.jpg)
 
 I am aware that [the LDO Hardware Kit I purchased is for the 2.4](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) and not the 1.8, however, all of the parts are the same except for the Knurled Nuts and it doesn't contain the Yellow Die Spring. I got a good discount on it (original price £83, I got it for £50) and I have sourced the missing quantities of parts from elsewhere. I should also have many spares left over for Mods and future projects.
 
@@ -72,9 +72,9 @@ I am aware that [the LDO Hardware Kit I purchased is for the 2.4](https://www.pr
 
 ## Frame
 
-![LDO Frame Kit](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/voron-frame.jpg)
+![3D render of the Voron 1.8 Frame](/assets/blog/printer-voron-1.8/voron-design/frame.jpg)
 
-I have looked into a few different options for a new frame for my 3D Printer and eventually settled on an LDO frame kit for a Voron 1.8. All these parts (Except for the DIN rails) come from this kit.
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                     | Quantity | Received | Notes                                 |
 | ---------------------------------------- | -------- | -------- | ------------------------------------- |
@@ -88,11 +88,15 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | Misumi HFSB5-2020-200-TPW                | 2        | 2        |                                       |
 | Misumi HFSB5-2020-420-AH45-BH375         | 2        | 2        |                                       |
 
+![Starting assembly of the frame](/assets/blog/printer-voron-1.8/voron-frame.jpg)
+
+I have looked into a few different options for a new frame for my 3D Printer and eventually settled on an LDO frame kit for a Voron 1.8. All these parts (Except for the DIN rails) come from this kit.
+
 ## Motion
 
-![Voron 1.8 Belt Path](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/belt-path.jpg)
+![3D render of the Voron 1.8 Belt Path](/assets/blog/printer-voron-1.8/voron-design/belt-path.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                       | Quantity | Received | Notes                                         |
 | ------------------------------------------ | -------- | -------- | --------------------------------------------- |
@@ -109,9 +113,9 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 ## Print Bed
 
-![Voron 1.8 Print Bed and Wire Path](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/print-bed-and-wire-path.jpg)
+![3D render of the Voron 1.8 Print Bed and Wire Path](/assets/blog/printer-voron-1.8/voron-design/print-bed-and-wire-path.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                                        | Quantity | Received | Notes |
 | ----------------------------------------------------------- | -------- | -------- | ----- |
@@ -145,7 +149,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 ## Electronics
 
-![LDO Motor Kit](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/ldo-motors.jpg)
+![An LDO Motors V1/2 HT Motor Kit](/assets/blog/printer-voron-1.8/ldo-motors.jpg)
 
 | Item                               | Quantity | Received | Notes                                                                                                                                    |
 | ---------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -178,9 +182,9 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 ## Panels
 
-![Voron 1.8 Panels](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/panels.jpg)
+![3D render of the Voron 1.8 Panels](/assets/blog/printer-voron-1.8/voron-design/panels.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                 | Quantity | Received | Notes                                                                                                                                                                            |
 | ------------------------------------ | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -212,7 +216,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 # Assembling The Frame
 
-![LDO Frame Kit Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/voron-frame-assembled.jpg)
+![LDO Motors Frame Kit Assembled](/assets/blog/printer-voron-1.8/voron-frame-assembled.jpg)
 
 ## Parts Used
 
@@ -240,17 +244,17 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Gantry
 
-![Voron 1.8 Gantry](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/gantry.jpg)
+![3D render of the Voron 1.8 Gantry](/assets/blog/printer-voron-1.8/voron-design/gantry.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 Some of the gantry parts (specifically the AB Drive Units and Front Idlers) will be replaced with the upgraded versions from the Trident as they should fit the 1.8.
 
 ### :white_check_mark: AB Drive Units
 
-![Voron 1.8 AB Drive Units](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/ab-drive.jpg)
+![3D render of the Voron 1.8 AB Drive Units](/assets/blog/printer-voron-1.8/voron-design/ab-drive.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                                                                                                             | Quantity | Material                                                                 | Size  | Weight | Cost  |      Printed       | Notes                     |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------------------- |
@@ -260,13 +264,13 @@ Some of the gantry parts (specifically the AB Drive Units and Front Idlers) will
 | [b_drive_frame_lower](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | 7.93m | 20.21g | £0.38 | :heavy_check_mark: | This is a Trident Part    |
 | [b_drive_frame_upper](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | 8.18m | 20.85g | £0.40 | :heavy_check_mark: | This is a Trident r1 Part |
 
-![ABS A Drive Unit](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/a-drive-abs-tuning.jpg)
+![An A Drive Unit printed in ABS with different settings](/assets/blog/printer-voron-1.8/a-drive-abs-tuning.jpg)
 
 The lower A drive was the first time I have tried to print with ABS. The upper was printed after a few tweaks to my slicer settings and updates to my Marlin firmware configuration. I am now quite happy with the results and will carry on printing the rest of the parts.
 
 #### Assembly
 
-![Voron Trident AB Drive Units](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/ab-drive-complete.jpg)
+![Voron Trident AB Drive Units complete](/assets/blog/printer-voron-1.8/ab-drive-complete.jpg)
 
 ##### Parts Used
 
@@ -283,9 +287,9 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 
 ### :white_check_mark: Front Idlers
 
-![Voron 1.8 Front Idlers](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/front-idlers.jpg)
+![3D render of the Voron 1.8 Front Idlers](/assets/blog/printer-voron-1.8/voron-design/front-idlers.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                                                                                                           | Quantity | Material                                                                 | Size  | Weight | Cost  |      Printed       | Notes                     |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------------------- |
@@ -296,7 +300,7 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 
 #### Assembly
 
-![Voron Trident Front Idlers](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/front-idlers-complete.jpg)
+![Voron Trident Front Idlers](/assets/blog/printer-voron-1.8/front-idlers-complete.jpg)
 
 The screws on the front of the idlers move the tensioners forwards and backwards, this allows for easy adjustment of the belt tension.
 
@@ -318,7 +322,7 @@ Both fully assembled AB Drive Units are required to install the rear crossbar.
 
 #### Assembly
 
-![Installed the rear crossbar](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/rear-crossbar-installed.jpg)
+![Installed the rear crossbar](/assets/blog/printer-voron-1.8/rear-crossbar-installed.jpg)
 
 ##### Parts Used
 
@@ -330,17 +334,17 @@ Both fully assembled AB Drive Units are required to install the rear crossbar.
 
 ### :white_check_mark: Linear Rails
 
-![Cleaning the bearings with IPA](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bearings-cleaning.jpg)
+![Cleaning the bearings with IPA](/assets/blog/printer-voron-1.8/bearings-cleaning.jpg)
 
 The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
 
 I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
 
-![Bearings assembled and ready for assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bearings-assembled.jpg)
+![Bearings assembled and ready for assembly](/assets/blog/printer-voron-1.8/bearings-assembled.jpg)
 
 #### Assembly
 
-![Installed the front idlers and linear rails](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/linear-rails-installed.jpg)
+![Installed the front idlers and linear rails](/assets/blog/printer-voron-1.8/linear-rails-installed.jpg)
 
 ##### Parts Used
 
@@ -356,15 +360,15 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 ## Z Axis
 
-![Voron 1.8 Z Axis](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/z-axis.jpg)
+![3D render of the Voron 1.8 Z Axis](/assets/blog/printer-voron-1.8/voron-design/z-axis.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 ### :white_check_mark: Bed Frame
 
-![Voron 1.8 Bed Frame](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bed-frame.jpg)
+![3D render of the Voron 1.8 Bed Frame](/assets/blog/printer-voron-1.8/voron-design/bed-frame.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                                                                                        | Quantity | Material                                                                 | Size   | Weight | Cost  |      Printed       | Notes                                               |
 | ----------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | ------ | ------ | ----- | :----------------: | --------------------------------------------------- |
@@ -374,7 +378,7 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 #### Assembly
 
-![Assembled Bed Frame](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bed-frame-assembled.jpg)
+![The Assembled Bed Frame](/assets/blog/printer-voron-1.8/bed-frame-assembled.jpg)
 
 The bed frame will not only hold the bed, but will also be a base for the [Z endstop](#endstops), some [Wago mounts](printer-voron-1.8-mods#wago-mounts) to connect the low voltage connections to the endstop and thermistor and the mains connections to the bed, and also [Bed Fans](printer-voron-1.8-mods#bed-fans) to circulate hot air around to heat up the enclosure.
 
@@ -400,7 +404,7 @@ The bed frame will not only hold the bed, but will also be a base for the [Z end
 
 #### Assembly
 
-![Assembled Z Axis](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/z-axis-assembled.jpg)
+![The Z-Axis fully assembled](/assets/blog/printer-voron-1.8/z-axis-assembled.jpg)
 
 ##### Parts Used
 
@@ -419,9 +423,9 @@ The bed frame will not only hold the bed, but will also be a base for the [Z end
 
 The X Axis was flipped on the Trident (linear rails are on the bottom of the extrusion like the V2, this will not work on the 1.8 as the guide rails are mounted to the bottom of the extrusion too). I had originally wanted to use the Trident toolhead carriage with a single MGN12 linear rail, however due to the changes on the X axis the endstops were moved to the XY Joints not the toolhead. Because of this I wouldn't have anywhere to mount my endstop so I am not using an MGN12 rail here and instead using the dual MGN9s of the original design.
 
-![Voron 1.8 X Axis](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/x-axis.jpg)
+![3D render of the Voron 1.8 X Axis](/assets/blog/printer-voron-1.8/voron-design/x-axis.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 ### :white_check_mark: XY Joints
 
@@ -435,7 +439,7 @@ The X Axis was flipped on the Trident (linear rails are on the bottom of the ext
 
 #### Assembly
 
-![XY Joints Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/xy-joints-assembled.jpg)
+![X/Y Joints and Linear rails assembled on the Gantry](/assets/blog/printer-voron-1.8/xy-joints-assembled.jpg)
 
 The bolts on the linear rails and the X axis extrusion are left loose at this stage as they will need to be aligned when the X carriage is installed. I have left the little white plastic clips on the rails here so that the blocks do not fall off the ends of the linear rails.
 
@@ -469,7 +473,7 @@ The bolts on the linear rails and the X axis extrusion are left loose at this st
 
 #### Assembly
 
-![X Carriage Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/x-carriage-assembled.jpg)
+![X Carriage Installed and Gantry added to frame](/assets/blog/printer-voron-1.8/x-carriage-assembled.jpg)
 
 The stock design uses an inductive probe in the toolhead, either a PL-08N or an Omron TL-Q5MC2. I do have a XY-08N which is similar to the PL-08N, however, due to the close proximity to the hotend the inductive probe has a tendency to melt. Therefore I have chosen instead to use [Klicky Probe](printer-voron-1.8-mods#klicky-probe).
 
@@ -492,7 +496,7 @@ The stock design uses an inductive probe in the toolhead, either a PL-08N or an 
 
 #### Assembly
 
-![Belts Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/belts-installed.jpg)
+![Belts routed and Installed](/assets/blog/printer-voron-1.8/belts-installed.jpg)
 
 The belts are routed in a layout that is known as [CoreXY](https://corexy.com/theory.html). When one motor rotates the toolhead will move diagonally, when both motors rotate in the same direction the toolhead will move in the X axis and when both motors rotate in opposite directions the toolhead will move in the Y axis.
 
@@ -504,9 +508,9 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 
 ## Afterburner
 
-![Afterburner](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/afterburner.jpg)
+![3D render of the Voron 1.8 Afterburner](/assets/blog/printer-voron-1.8/voron-design/afterburner.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 I built the Afterburner toolhead but will upgrade to the [Stealthburner](https://vorondesign.com/voron_stealthburner) toolhead now that it has been released. However, I will keep the original Afterburner extruder, the Clockwork 1 rather than upgrade to Clockwork 2, There are a number of reasons for deciding this:
 
@@ -533,7 +537,7 @@ I built the Afterburner toolhead but will upgrade to the [Stealthburner](https:/
 
 #### Assembly
 
-![Clockwork 1 installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/clockwork-installed.jpg)
+![Clockwork 1 extruder installed](/assets/blog/printer-voron-1.8/clockwork-installed.jpg)
 
 ##### Parts Used
 
@@ -583,7 +587,7 @@ I built the Afterburner toolhead but will upgrade to the [Stealthburner](https:/
 
 #### Assembly
 
-![Afterburner Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/afterburner-assembled.jpg)
+![Afterburner Toolhead Assembled](/assets/blog/printer-voron-1.8/afterburner-assembled.jpg)
 
 ##### Parts Used
 
@@ -626,7 +630,7 @@ I built the Afterburner toolhead but will upgrade to the [Stealthburner](https:/
 
 #### Assembly
 
-![Y Endstop](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/y-endstop.jpg)
+![Y endstop attached to the frame](/assets/blog/printer-voron-1.8/y-endstop.jpg)
 
 As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to the opposite side of the machine to allow space for the toolhead wires to pass through the wire cover. The side panels will have 1mm foam tape on them and therefore, should allow enough clearance for the endstop wires to tuck between the panel and the outside of the extrusion. The wire will then be bundled with the B Motor wires down into the electronics compartment.
 
@@ -657,7 +661,7 @@ As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to t
 
 #### Assembly
 
-![Cable Chains](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/cable-chains.jpg)
+![Routing the wires to the toolhead using Cable Chains](/assets/blog/printer-voron-1.8/cable-chains.jpg)
 
 I have applied some Super Lube PTFE grease to the silicone cables inside the cable chains and anchored the cables at each end with cable ties using the chain wire anchors from the Trident r1 update.
 As I am using multi coloured cables I have also added a bit of cable sleeving over the bare wires between the chains and into the rear electronics compartment these are also held in place with the cable ties at the end of the cable chains, and do not run through the chain.
@@ -738,9 +742,9 @@ It appears that these parts are not specified in the manual, I will use them for
 
 ## Bottom Compartment
 
-![Voron 1.8 Skirts and Bottom Compartment](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/skirts-and-bottom-compartment.jpg)
+![3D render of the Voron 1.8 Skirts and Bottom Compartment](/assets/blog/printer-voron-1.8/voron-design/skirts-and-bottom-compartment.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 The bottom compartment is designed to hold the high voltage components such as the main power supply, the power supply for the Raspberry Pi and Neopixel light strips, and Solid State Relay (SSR) for the heated bed. I will also be placing a [BigTreeTech 24V UPS module](printer-voron-1.8-mods#btt-ups-24v-din-mount) to add capacators across the 24V supply to smooth out the power supplying the MCUs.
 
@@ -757,11 +761,11 @@ The bottom compartment is designed to hold the high voltage components such as t
 
 #### Assembly
 
-![Power Skirt](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/power-skirt.jpg)
+![Power switch and keystone jacks added to the skirt](/assets/blog/printer-voron-1.8/power-skirt.jpg)
 
 Before attaching the power skirt to the printer the power socket and Keystone inserts are installed into the part.
 
-![Skirts Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/skirts-installed.jpg)
+![Skirts Installed on the bottom of the printer](/assets/blog/printer-voron-1.8/skirts-installed.jpg)
 
 ##### Parts Used
 
@@ -794,7 +798,7 @@ Before attaching the power skirt to the printer the power socket and Keystone in
 
 #### Assembly
 
-![DIN Rail Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/din-rail-installed.jpg)
+![Single DIN Rail installed in the bottom of the printer](/assets/blog/printer-voron-1.8/din-rail-installed.jpg)
 
 ##### Parts Used
 
@@ -816,7 +820,7 @@ Before attaching the power skirt to the printer the power socket and Keystone in
 
 #### Assembly
 
-![Bottom Compartment Electronics](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bottom-compartment-electronics.jpg)
+![High voltage electronics are installed in the bottom](/assets/blog/printer-voron-1.8/bottom-compartment-electronics.jpg)
 
 ##### Parts Used
 
@@ -833,9 +837,9 @@ Before attaching the power skirt to the printer the power socket and Keystone in
 
 ## Electronics Compartment
 
-![Voron 1.8 Electronics Compartment](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/electronics-compartment.jpg)
+![3D render of the Voron 1.8 Electronics Compartment](/assets/blog/printer-voron-1.8/voron-design/electronics-compartment.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 The rear electronics compartment is designed to house the low voltage components for the printer. The compartment was removed from the 1.8's successor the Trident, however I wanted to have the separation between the low and high voltage components and also wanted space to expand and add additional compenents without being restricted to the space beneath the printer.
 
@@ -855,11 +859,11 @@ The rear electronics compartment is designed to house the low voltage components
 
 #### Assembly
 
-![Rear Electronics Enclosure](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/rear-electronics-enclosure.jpg)
+![The V1.8 has a separate enclosure for the low voltage electronics](/assets/blog/printer-voron-1.8/rear-electronics-enclosure.jpg)
 
 The manual says to install the DIN Rails after fitting the enclosure. I found it easier to add the DIN rails to the enclosure and afterwards install the assembly to the frame.
 
-![Rear DIN Rails](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/rear-din-rails.jpg)
+![Two DIN Rails are installed in the Rear Electronics Enclosure](/assets/blog/printer-voron-1.8/rear-din-rails.jpg)
 
 I have also purchased an additional DIN rail than what was specified on the BOM as the manual displays 2 installed and it will give the flexability to place additional components in the rear of the printer.
 
@@ -879,6 +883,10 @@ I have also purchased an additional DIN rail than what was specified on the BOM 
 | Misumi HFSB5-2020-420          | 1        |
 
 ### :wrench: Rear Electronics Brackets
+
+![3D render of the Voron 1.8 Electronics](/assets/blog/printer-voron-1.8/voron-design/electronics.jpg)
+
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 I managed purchase a SKR 1.4 (the non Turbo verion) cheaply to replace the [SKR 1.4 Turbo I have in my Anet A8](printer-hardware-upgrades) and planed to install the SKR 1.4 Turbo here. I chose this to enable me to swap the boards with minimal re-wiring, and without the need to re-print a new case for my Anet A8.
 I have also purchased the [BTT EXP-MOT motor expansion module](https://github.com/bigtreetech/BTT-Expansion-module/tree/master/BTT%20EXP-MOT) to allow me to install additional stepper motor drivers to run the [Enraged Rabbit Carrot Feeder](printer-enraged-rabbit-carrot-feeder) and potentially add a [3rd Z Stepper Motor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yeri/V1_3Z).
@@ -900,7 +908,7 @@ However, I have recently purchased a Mellow Fly Super 8 V1.0 from the Voron Disc
 
 #### Assembly
 
-![Controller Fan Mount](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/controller-fan-mount.jpg)
+![A Fan to cool the electronics](/assets/blog/printer-voron-1.8/controller-fan-mount.jpg)
 
 ##### Parts Used
 
@@ -925,12 +933,12 @@ However, I have recently purchased a Mellow Fly Super 8 V1.0 from the Voron Disc
 
 #### Assembly
 
-![Electronics Panel Holder](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/rear-handles.jpg)
+![Electronics Panel Holder replaced by handles](/assets/blog/printer-voron-1.8/rear-handles.jpg)
 
 The [Electronics Compartment](#electronics-compartment) has a couple of parts to rest the elecronics panel on called `panel_holder`s I have replaced these with the front handles from the 2.2 to enable me to move the printer about a little easier and to also keep a little bit of space behind the printer to allow the electronics compartment fan to breathe.
 I also plan on installing the [Klipper Expander](printer-voron-1.8-mods#klipper-expander) in the space at the bottom of the electronics compartment just above the handle shown.
 
-![Electronics Panel](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/electronics-panel-installed.jpg)
+![The V1.8 has 3D printed locks to hold on the back panel](/assets/blog/printer-voron-1.8/electronics-panel-installed.jpg)
 
 ##### Parts Used
 
@@ -943,9 +951,9 @@ I also plan on installing the [Klipper Expander](printer-voron-1.8-mods#klipper-
 
 ## Rear Panel and Exhaust
 
-![Voron 1.8 Rear Panel and Exhaust](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/rear-panel-and-exhaust.jpg)
+![3D render of the Voron 1.8 Rear Panel and Exhaust](/assets/blog/printer-voron-1.8/voron-design/rear-panel-and-exhaust.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Exhaust Filter
 
@@ -959,7 +967,7 @@ I also plan on installing the [Klipper Expander](printer-voron-1.8-mods#klipper-
 
 #### Assembly
 
-![Exhaust Filter](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/exhaust-filter.jpg)
+![An enclosure to hold a filter](/assets/blog/printer-voron-1.8/exhaust-filter.jpg)
 
 I originally printed this in PETG that would be fitted to [my HyperCube upgrade](printer-hypercube). I will replace with the [Exhaust Mount Side Entry](printer-voron-1.8-mods#exhaust-mount-side-entry) mod to allow me to pass 2 bowden tubes through to experiment with a [dual bowden setup using 2 M4 extruders](printer-voron-1.8-mods#voron-m4).
 
@@ -971,7 +979,7 @@ I originally printed this in PETG that would be fitted to [my HyperCube upgrade]
 
 ### :white_check_mark: Print Surface
 
-![Print Bed Parts](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/print-bed-parts.jpg)
+![Individual parts for the heated print bed](/assets/blog/printer-voron-1.8/print-bed-parts.jpg)
 
 #### Assembly
 
@@ -992,7 +1000,7 @@ Once the magnet was applied I used a 3mm drill bit from the undersde of the tool
 
 #### Assembly
 
-![Heater Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/heater-installed.jpg)
+![The Bed Heater installed and sealed with RTV](/assets/blog/printer-voron-1.8/heater-installed.jpg)
 
 I flipped over the tooling plate and applied the Kenovo heater mat to the center of the bottom of the tooling plate in the same way as the magnet above, ensuring the wires come out of the rear of the bed.
 
@@ -1013,12 +1021,12 @@ After 24 hours I removed the weights and applied some masking tape 1cm from the 
 
 #### Assembly
 
-![Bed Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bed-installed.jpg)
+![Bed installed in the frame of the printer](/assets/blog/printer-voron-1.8/bed-installed.jpg)
 
 When mounting the bed, I noticed the mounting holes in the aluminum plate I purchased are a little different to the mounting holes in the [Drawings](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/Drawings/Voron_1.8_300mm_Bed_Drawing.pdf), my rear bed mounting holes are about 265mm from the front rather than 262mm.
 I have redesigned the front bed mount move the front mounting hole forward a few millimeters to compensate
 
-![Bed Mount](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bed-mount.jpg)
+![My modified Bed Mount for my non-standard bed](/assets/blog/printer-voron-1.8/bed-mount.jpg)
 
 ##### Parts Used
 
@@ -1047,9 +1055,9 @@ I have redesigned the front bed mount move the front mounting hole forward a few
 
 ## Panel Mounting
 
-![Voron 1.8 Panels](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/panels.jpg)
+![3D render of the Voron 1.8 Panels](/assets/blog/printer-voron-1.8/voron-design/panels.jpg)
 
-> Image &copy; 2020 [Voron Design](https://www.vorondesign.com/)
+> Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 ### :wrench: Panel Mounts
 
@@ -1068,7 +1076,7 @@ I have redesigned the front bed mount move the front mounting hole forward a few
 
 #### Assembly
 
-![Bottom Panel](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/bottom-panel.jpg)
+![Steve Builds would approve, I've fitted the bottom panel](/assets/blog/printer-voron-1.8/bottom-panel.jpg)
 
 ##### Parts Used
 
@@ -1109,7 +1117,7 @@ I have redesigned the front bed mount move the front mounting hole forward a few
 
 #### Assembly
 
-![Spool Holders](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-voron-1.8/spool-holders.jpg)
+![Spool Holders with Red PTFE guides](/assets/blog/printer-voron-1.8/spool-holders.jpg)
 
 ##### Parts Used
 

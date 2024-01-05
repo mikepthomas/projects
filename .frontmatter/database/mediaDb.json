@@ -460,18 +460,357 @@
           "voron-0.2-hero.jpg": {
             "alt": "Parts to build a Voron 0.2 3D Printer",
             "title": "Voron 0.2 Hero"
+          },
+          "voron-design": {
+            "frame.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Frame",
+              "title": "Frame"
+            },
+            "a-b-drives.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 A/B Drives",
+              "title": "A/B Drives"
+            },
+            "a-b-idlers.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 A/B Idlers",
+              "title": "A/B Idlers"
+            },
+            "z-axis.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Z-Axis",
+              "title": "Z-Axis"
+            },
+            "x-axis.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 X-Axis",
+              "title": "X-Axis"
+            },
+            "a-b-belts.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 A/B Belts",
+              "title": "A/B Belts"
+            },
+            "print-bed.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 ",
+              "title": "Print Bed"
+            },
+            "print-head.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Print Head",
+              "title": "Print Head"
+            },
+            "electronics-and-wiring.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Electronics & Wiring",
+              "title": "Electronics and Wiring"
+            },
+            "skirts-and-panels.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Skirts & Panels",
+              "title": "Skirts and Panels"
+            },
+            "extrusion-tophat.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 0.2 Extrusion Tophat",
+              "title": "Extrusion Tophat"
+            },
+            "assembly-complete.jpg": {
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D Render of the Voron 0.2 Complete",
+              "title": "Assembly Complete"
+            }
+          },
+          "nevermore-filter.jpg": {
+            "alt": "Parts to build a Nevermore Filter",
+            "title": "Nevermore Filter"
           }
         },
         "printer-voron-1.8": {
           "voron-hero.jpg": {
             "alt": "A partially assembled Voron 1.8 3D Printer",
             "title": "Voron Hero"
+          },
+          "voron-design": {
+            "frame.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Frame",
+              "title": "Frame"
+            },
+            "belt-path.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Belt Path",
+              "title": "Belt Path"
+            },
+            "print-bed-and-wire-path.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Print Bed and Wire Path",
+              "title": "Print Bed and Wire Path"
+            },
+            "panels.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Panels",
+              "title": "Panels"
+            },
+            "gantry.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Gantry",
+              "title": "Gantry"
+            },
+            "ab-drive.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 AB Drive Units",
+              "title": "AB Drive Units"
+            },
+            "front-idlers.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Front Idlers",
+              "title": "Front Idlers"
+            },
+            "z-axis.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Z Axis",
+              "title": "Z-Axis"
+            },
+            "bed-frame.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Bed Frame",
+              "title": "Bed Frame"
+            },
+            "x-axis.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 X Axis",
+              "title": "X-Axis"
+            },
+            "afterburner.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Afterburner",
+              "title": "Afterburner"
+            },
+            "skirts-and-bottom-compartment.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Skirts and Bottom Compartment",
+              "title": "Skirts and Bottom Compartment"
+            },
+            "electronics-compartment.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Electronics Compartment",
+              "title": "Electronics Compartment"
+            },
+            "electronics.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Electronics",
+              "title": "Electronics"
+            },
+            "rear-panel-and-exhaust.jpg": {
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 1.8 Rear Panel and Exhaust",
+              "title": "Rear Panel and Exhaust"
+            }
+          },
+          "ldo-hardware-kit.jpg": {
+            "alt": "A big ol' bag of nuts n' bolts",
+            "title": "LDO Hardware Kit"
+          },
+          "voron-frame.jpg": {
+            "alt": "Starting assembly of the frame",
+            "title": "Voron Frame"
+          },
+          "ldo-motors.jpg": {
+            "alt": "An LDO Motors V1/2 HT Motor Kit",
+            "title": "LDO Motors"
+          },
+          "voron-frame-assembled.jpg": {
+            "alt": "LDO Motors Frame Kit Assembled",
+            "title": "Voron Frame Assembled"
+          },
+          "a-drive-abs-tuning.jpg": {
+            "alt": "An A Drive Unit printed in ABS with different settings",
+            "title": "A Drive ABS Tuning"
+          },
+          "ab-drive-complete.jpg": {
+            "alt": "Voron Trident AB Drive Units complete",
+            "title": "A/B Drive Complete"
+          },
+          "front-idlers-complete.jpg": {
+            "alt": "Voron Trident Front Idlers",
+            "title": "Front Idlers Complete"
+          },
+          "rear-crossbar-installed.jpg": {
+            "alt": "Installed the rear crossbar",
+            "title": "Rear Crossbar Installed"
+          },
+          "bearings-cleaning.jpg": {
+            "alt": "Cleaning the bearings with IPA",
+            "title": "Bearings Cleaning"
+          },
+          "bearings-assembled.jpg": {
+            "alt": "Bearings assembled and ready for assembly",
+            "title": "Bearings Assembled"
+          },
+          "linear-rails-installed.jpg": {
+            "alt": "Installed the front idlers and linear rails",
+            "title": "Linear Rails Installed"
+          },
+          "bed-frame-assembled.jpg": {
+            "alt": "The Assembled Bed Frame",
+            "title": "Bed Frame Assembled"
+          },
+          "z-axis-assembled.jpg": {
+            "alt": "The Z-Axis fully assembled",
+            "title": "Z Axis Assembled"
+          },
+          "xy-joints-assembled.jpg": {
+            "alt": "X/Y Joints and Linear rails assembled on the Gantry",
+            "title": "X/Y Joints Assembled"
+          },
+          "x-carriage-assembled.jpg": {
+            "alt": "X Carriage Installed and Gantry added to frame",
+            "title": "X Carriage Assembled"
+          },
+          "belts-installed.jpg": {
+            "alt": "Belts routed and Installed",
+            "title": "Belts Installed"
+          },
+          "clockwork-installed.jpg": {
+            "alt": "Clockwork 1 extruder installed",
+            "title": "Clockwork Installed"
+          },
+          "afterburner-assembled.jpg": {
+            "alt": "Afterburner Toolhead Assembled",
+            "title": "Afterburner Assembled"
+          },
+          "y-endstop.jpg": {
+            "alt": "Y endstop attached to the frame",
+            "title": "Y Endstop"
+          },
+          "cable-chains.jpg": {
+            "alt": "Routing the wires to the toolhead using Cable Chains",
+            "title": "Cable Chains"
+          },
+          "power-skirt.jpg": {
+            "alt": "Power switch and keystone jacks added to the skirt",
+            "title": "Power Skirt"
+          },
+          "skirts-installed.jpg": {
+            "alt": "Skirts Installed on the bottom of the printer",
+            "title": "Skirts Installed"
+          },
+          "din-rail-installed.jpg": {
+            "alt": "Single DIN Rail installed in the bottom of the printer",
+            "title": "DIN Rail Installed"
+          },
+          "bottom-compartment-electronics.jpg": {
+            "alt": "High voltage electronics are installed in the bottom",
+            "title": "Bottom Compartment Electronics"
+          },
+          "rear-electronics-enclosure.jpg": {
+            "alt": "The V1.8 has a separate enclosure for the low voltage electronics",
+            "title": "Rear Electronics Enclosure"
+          },
+          "rear-din-rails.jpg": {
+            "alt": "Two DIN Rails are installed in the Rear Electronics Enclosure",
+            "title": "Rear DIN Rails"
+          },
+          "controller-fan-mount.jpg": {
+            "alt": "A Fan to cool the electronics",
+            "title": "Controller Fan Mount"
+          },
+          "rear-handles.jpg": {
+            "alt": "Electronics Panel Holder replaced by handles",
+            "title": "Rear Handles"
+          },
+          "electronics-panel-installed.jpg": {
+            "alt": "The V1.8 has 3D printed locks to hold on the back panel",
+            "title": "Electronics Panel Installed"
+          },
+          "exhaust-filter.jpg": {
+            "alt": "An enclosure to hold a filter",
+            "title": "Exhaust Filter"
+          },
+          "print-bed-parts.jpg": {
+            "alt": "Individual parts for the heated print bed",
+            "title": "Print Bed Parts"
+          },
+          "heater-installed.jpg": {
+            "alt": "The Bed Heater installed and sealed with RTV",
+            "title": "Heater Installed"
+          },
+          "bed-installed.jpg": {
+            "alt": "Bed installed in the frame of the printer",
+            "title": "Bed Installed"
+          },
+          "bed-mount.jpg": {
+            "alt": "My modified Bed Mount for my non-standard bed",
+            "title": "Bed Mount"
+          },
+          "bottom-panel.jpg": {
+            "alt": "Steve Builds would approve, I've fitted the bottom panel",
+            "title": "Bottom Panel"
+          },
+          "spool-holders.jpg": {
+            "alt": "Spool Holders with Red PTFE guides",
+            "title": "Spool Holders"
           }
         },
         "printer-voron-mods": {
           "corner-cable-cover.jpg": {
             "alt": "The Corner Cable Cover Mod to hide LED Strip cables around the corner extrusions",
             "title": "Corner Cable Cover"
+          },
+          "exhaust-mount-side-entry.jpg": {
+            "alt": "Modified Exhaust filter with multiple PTFE entry points",
+            "title": "Exhaust Mount Side Entry"
+          },
+          "clamping-door-hinges.jpg": {
+            "alt": "Door Hinges that do not require VHB Tape",
+            "title": "Clamping Door Hinges"
+          },
+          "magnetic-grill-cover.jpg": {
+            "alt": "Cover to hold in chamber temperature whilst printing",
+            "title": "Magnetic Grill Cover"
+          },
+          "magnetic-grill-cover-removed.jpg": {
+            "alt": "Cover removed to allow ventilation",
+            "title": "Magnetic Grill Cover Removed"
+          },
+          "sexbolt-z-endstop.jpg": {
+            "alt": "Z endstop based on a PCB",
+            "title": "Sexbolt Z Endstop"
+          },
+          "display-mount.jpg": {
+            "alt": "Display Mount that can be tilted for a better view",
+            "title": "Display Mount"
+          },
+          "display-mount-installed.jpg": {
+            "alt": "The Display Mount installed on the printer",
+            "title": "Display Mount Installed"
+          },
+          "display-mount-flat.jpg": {
+            "alt": "Display Mount Folded Flat out of the way",
+            "title": "Display Mount Flat"
+          },
+          "mosfet-mounts.jpg": {
+            "alt": "Mount to hold 4 External Mosfets",
+            "title": "Mosfet Mounts"
+          },
+          "klicky-probe.jpg": {
+            "alt": "Klicky Probe installed on the printer",
+            "title": "Klicky Probe"
+          },
+          "wago-mounts.jpg": {
+            "alt": "Wago Mounts to make wiring up the printer electronics easier",
+            "title": "Wago Mounts"
+          },
+          "corner-cable-cover-rear.jpg": {
+            "alt": "Rear of the Corner Cable Covers showing holes to route the cables",
+            "title": "Corner Cable Cover Rear"
+          },
+          "deck-panel-support-clips.jpg": {
+            "alt": "Decorative clips to hold in the deck panel",
+            "title": "Deck Panel Support Clips"
           }
         },
         "enraged-rabbit-carrot-feeder-1.1": {
