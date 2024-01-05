@@ -39,7 +39,7 @@ After purchasing the frame, I found a [project on Reddit](https://www.reddit.com
 
 I have purchased an SKR 1.4 to run the printer as I will be using the Anet A8's SKR 1.4 Turbo for the [Voron 1.8](printer-voron-1.8).
 
-It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the [Marlin configuration](https://github.com/mikepthomas/Marlin/tree/2.1.x-Anet-SKR-1.4) that I currently use is not set up to use the CoreXZ kinematics the AM8 Switchwire uses. The SKR 1.4 has 5 stepper motors which will be enough to run the 2 XZ stepper motors, the Y Stepper and eventually [2 M4 extruders](printer-voron-1.8-mods#voron-m4) which will be left over when I have built the [ERCF](printer-enraged-rabbit-carrot-feeder).
+It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the [Marlin configuration](https://github.com/mikepthomas/Marlin/tree/2.1.x-Anet-SKR-1.4) that I currently use is not set up to use the CoreXZ kinematics the AM8 Switchwire uses. The SKR 1.4 has 5 stepper motors which will be enough to run the 2 XZ stepper motors, the Y Stepper and eventually [2 M4 extruders](printer-voron-1.8-mods#voron-m4) which will be left over when I have built the [ERCF](enraged-rabbit-carrot-feeder-1.1).
 
 # Sourcing Parts
 

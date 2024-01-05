@@ -515,7 +515,7 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 I built the Afterburner toolhead but will upgrade to the [Stealthburner](https://vorondesign.com/voron_stealthburner) toolhead now that it has been released. However, I will keep the original Afterburner extruder, the Clockwork 1 rather than upgrade to Clockwork 2, There are a number of reasons for deciding this:
 
 1. I was planning on adding the [AB-BN By Badnoob](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) for a larger cooling fan, this was integrated into the design of the Stealthburner.
-2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](printer-enraged-rabbit-carrot-feeder) which is not currently compatible with Clockwork 2.
+2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-2.0) which is not currently compatible with Clockwork 2.
 3. I want to add the [ERCF Afterburner Toolhead PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB) which is also not currently compatible with Clockwork 2.
 4. The Stealthburner has an integrated mount for an [ADXL345 for Klipper Input Shaper](https://www.klipper3d.org/Measuring_Resonances.html).
 5. The Stealthburner also integrates some cool RGB LEDs (and who doesn't like a bit of RGB?).
@@ -889,7 +889,7 @@ I have also purchased an additional DIN rail than what was specified on the BOM 
 > Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
 I managed purchase a SKR 1.4 (the non Turbo verion) cheaply to replace the [SKR 1.4 Turbo I have in my Anet A8](printer-hardware-upgrades) and planed to install the SKR 1.4 Turbo here. I chose this to enable me to swap the boards with minimal re-wiring, and without the need to re-print a new case for my Anet A8.
-I have also purchased the [BTT EXP-MOT motor expansion module](https://github.com/bigtreetech/BTT-Expansion-module/tree/master/BTT%20EXP-MOT) to allow me to install additional stepper motor drivers to run the [Enraged Rabbit Carrot Feeder](printer-enraged-rabbit-carrot-feeder) and potentially add a [3rd Z Stepper Motor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yeri/V1_3Z).
+I have also purchased the [BTT EXP-MOT motor expansion module](https://github.com/bigtreetech/BTT-Expansion-module/tree/master/BTT%20EXP-MOT) to allow me to install additional stepper motor drivers to run the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-2.0) and potentially add a [3rd Z Stepper Motor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yeri/V1_3Z).
 
 However, I have recently purchased a Mellow Fly Super 8 V1.0 from the Voron Discord Garage Sale channel. This will allow me to run 8 Stepper Motors from a single board, simplifying the setup.
 
