@@ -8,9 +8,10 @@ type Props = {
   title: string;
   src: string;
   slug?: string;
+  imageHasPriority?: boolean;
 };
 
-const CoverImage = ({ title, src, slug }: Props) => {
+const CoverImage = ({ title, src, slug, imageHasPriority = false }: Props) => {
   const image = (
     <Image
       src={`${basePath}${src}`}
@@ -20,7 +21,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
       })}
       width={1280}
       height={960}
-      priority
+      priority={imageHasPriority}
     />
   );
   return (

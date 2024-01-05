@@ -32,7 +32,7 @@ const PostHeader = ({ title, coverImage, date, lastmod, author }: Props) => {
         )}
       </div>
       <div className="mb-6 sm:mx-0">
-        <CoverImage title={title} src={coverImage} />
+        <CoverImage title={title} src={coverImage} imageHasPriority />
       </div>
     </>
   );
