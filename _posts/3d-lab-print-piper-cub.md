@@ -15,7 +15,7 @@ keywords:
   - Piper Cub
 ---
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 # Table of contents
 
@@ -63,9 +63,9 @@ Sourcing parts for a [Piper Cub](https://3dlabprint.com/shop/piperj3cub/) remote
 
 ## Wings
 
-![Wings](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/3d-lab-print-piper-cub/wings.png)
+![Assembly instructions for Wings](/assets/blog/3d-lab-print-piper-cub/3d-labprint/wings.png)
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 | Item        | Quantity | Material                                                            | Printed | Notes |
 | ----------- | -------- | ------------------------------------------------------------------- | :-----: | ----- |
@@ -87,9 +87,9 @@ Sourcing parts for a [Piper Cub](https://3dlabprint.com/shop/piperj3cub/) remote
 
 ## Body
 
-![Body](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/3d-lab-print-piper-cub/body.png)
+![Assembly instructions for Body](/assets/blog/3d-lab-print-piper-cub/3d-labprint/body.png)
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 | Item                | Quantity | Material                                                            | Printed | Notes |
 | ------------------- | -------- | ------------------------------------------------------------------- | :-----: | ----- |
@@ -107,9 +107,9 @@ Sourcing parts for a [Piper Cub](https://3dlabprint.com/shop/piperj3cub/) remote
 
 ## Tail
 
-![Tail](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/3d-lab-print-piper-cub/tail.png)
+![Assembly instructions for Tail](/assets/blog/3d-lab-print-piper-cub/3d-labprint/tail.png)
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 | Item          | Quantity | Material                                                            | Printed | Notes |
 | ------------- | -------- | ------------------------------------------------------------------- | :-----: | ----- |
@@ -132,9 +132,9 @@ Sourcing parts for a [Piper Cub](https://3dlabprint.com/shop/piperj3cub/) remote
 
 ## Wheels
 
-![Wheels](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/3d-lab-print-piper-cub/wheels.png)
+![Assembly instructions for Wheels](/assets/blog/3d-lab-print-piper-cub/3d-labprint/wheels.png)
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 | Item            | Quantity | Material                                             | Printed | Notes |
 | --------------- | -------- | ---------------------------------------------------- | :-----: | ----- |
@@ -146,9 +146,9 @@ Sourcing parts for a [Piper Cub](https://3dlabprint.com/shop/piperj3cub/) remote
 
 ## Floats
 
-![Floats](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/3d-lab-print-piper-cub/floats.png)
+![Assembly instructions for Floats](/assets/blog/3d-lab-print-piper-cub/3d-labprint/floats.png)
 
-> Image &copy; 2022 [3D LabPrint](https://3dlabprint.com/)
+> Image © 2022 [3D LabPrint](https://3dlabprint.com/)
 
 | Item               | Quantity | Material                                                            | Printed | Notes |
 | ------------------ | -------- | ------------------------------------------------------------------- | :-----: | ----- |

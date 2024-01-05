@@ -4,9 +4,36 @@
       "blog": {
         "3d-lab-print-piper-cub": {
           "piper-cub-hero.png": {
-            "caption": "Image © 2022 3D LabPrint",
+            "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
             "alt": "3D LabPrint Piper Cub",
             "title": "Piper Cub Hero"
+          },
+          "3d-labprint": {
+            "wings.png": {
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
+              "alt": "Assembly instructions for Wings",
+              "title": "Wings"
+            },
+            "body.png": {
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
+              "alt": "Assembly instructions for Body",
+              "title": "Body"
+            },
+            "tail.png": {
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
+              "alt": "Assembly instructions for Tail",
+              "title": "Tail"
+            },
+            "wheels.png": {
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
+              "alt": "Assembly instructions for Wheels",
+              "title": "Wheels"
+            },
+            "floats.png": {
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com/)",
+              "alt": "Assembly instructions for Floats",
+              "title": "Floats"
+            }
           }
         },
         "eurorack-modular-synth": {
