@@ -1,6 +1,6 @@
 ---
 title: 3D Printing the Red Rocket Truck Stop
-date: 2021-04-20
+date: 2021-04-12
 lastmod: 2023-07-19
 author: Mike Thomas
 description: How I built the Red Rocket Truck Stop from Fallout 4.
@@ -42,7 +42,7 @@ keywords:
 | Right Wall A   | 1        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) | 4h 17m | 12.32m | 36.75g | £0.84 | :heavy_check_mark: |       |
 | Right Wall B   | 2        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) | 4h 44m | 14.75m | 43.99g | £1.01 | :heavy_check_mark: |       |
 
-![Red Rocket Walls](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/red-rocket/walls.jpg)
+![Red Rocket Walls](/assets/blog/red-rocket/walls.jpg)
 
 ## Main Roof
 
@@ -58,7 +58,7 @@ keywords:
 | Roof D              | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 18h 56m | 73.9m  | 220.41g | £4.36 | :heavy_check_mark: |       |
 | Optional Shop Front | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 1h 59m  | 7.72m  | 23.02g  | £0.46 | :heavy_check_mark: |       |
 
-![Red Rocket Roof](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/red-rocket/roof.jpg)
+![Red Rocket Roof](/assets/blog/red-rocket/roof.jpg)
 
 ## Canopy
 
@@ -109,7 +109,7 @@ keywords:
 | Scattered Tiles #5   | 1        | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) | 4h 6m  | 10.68m | 31.86g | £0.73 | :heavy_check_mark: |       |
 | Pump Paving          | 1        | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) | 4h 3m  | 13.23m | 39.46g | £0.91 | :heavy_check_mark: |       |
 
-![Red Rocket Floor](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/red-rocket/floor.jpg)
+![Red Rocket Floor](/assets/blog/red-rocket/floor.jpg)
 
 ## Accessories
 
@@ -136,7 +136,7 @@ keywords:
 
 # What is it for?
 
-![Fallout: Wasteland Warefare](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/red-rocket/fallout-wasteland-warefare.jpg)
+![Fallout: Wasteland Warefare with the Roleplaying Game expansion](/assets/blog/red-rocket/fallout-wasteland-warefare.jpg)
 
 This was printed for the Wargame [Fallout: Wasteland Warfare by Modiphius](https://www.modiphius.net/pages/fallout-wasteland-warfare).
 

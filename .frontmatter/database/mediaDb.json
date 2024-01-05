@@ -428,6 +428,13 @@
           "red-rocket-hero.jpg": {
             "alt": "Red Rocket Truck Stop main building with roof on",
             "title": "Red Rocket Hero"
+          },
+          "walls.jpg": { "alt": "Red Rocket Walls", "title": "Walls" },
+          "floor.jpg": { "alt": "Red Rocket Floor", "title": "Floor" },
+          "roof.jpg": { "alt": "Red Rocket Roof", "title": "Roof" },
+          "fallout-wasteland-warefare.jpg": {
+            "alt": "Fallout: Wasteland Warefare with the Roleplaying Game expansion",
+            "title": "Fallout: Wasteland Warefare"
           }
         },
         "sanctuary-hills": {
