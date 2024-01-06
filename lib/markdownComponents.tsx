@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2023, Mike Thomas
+ * Copyright (c) 2016-2024, Mike Thomas
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -23,7 +23,6 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import React from 'react';
 import { Table } from 'reactstrap';
 import { motion } from 'framer-motion';
 import Link from 'next/link';

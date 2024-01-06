@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2023, Mike Thomas
+ * Copyright (c) 2016-2024, Mike Thomas
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -24,7 +24,6 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import Link from 'next/link';
-import React from 'react';
 import { Col, Container } from 'reactstrap';
 
 export default function Footer() {

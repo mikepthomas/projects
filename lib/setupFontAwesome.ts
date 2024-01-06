@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2023, Mike Thomas
+ * Copyright (c) 2016-2024, Mike Thomas
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
