@@ -19,7 +19,7 @@ keywords:
 
 # Front Wheel Assembly
 
-![Front Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/e2/53/2b/53/72/Front_Wheel_Assembly_preview_featured.jpg)
+![Front Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/e2/53/2b/53/72/Front_Wheel_Assembly_display_large.jpg)
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
@@ -36,11 +36,11 @@ keywords:
 | 7    | 1        | [AHC Countersunk Allen Key Bolts](https://www.amazon.co.uk/gp/product/B00GR404L8)      | Stainless Steel                                                         |        | M3x8mm     |        | £4.39 (Pack of 500)     |                    |                                                                                               |
 | 8    | 1        | [OPENRC F1 Rain Tires](https://www.thingiverse.com/thing:999257/files)                 | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)                     | 2h 16m | 8.72m      | 26.02g | £0.57                   | :heavy_check_mark: | Replaced with [Tamiya F104 Tyres](#tamiya-f104-tyres)                                         |
 
-![Front Tyres](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/front-tyres.jpg)
+![Printed TPU Tyres](/assets/blog/openrc-f1/front-tyres.jpg)
 
 # Front BOM Assembly
 
-![Front BOM Assembly Diagram](https://cdn.thingiverse.com/renders/a6/8d/e8/c3/31/Front_BOM_Assembly_preview_featured.jpg)
+![Front BOM Assembly Diagram](https://cdn.thingiverse.com/renders/a6/8d/e8/c3/31/Front_BOM_Assembly_display_large.jpg)
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
@@ -56,11 +56,11 @@ keywords:
 | 8    | 2        | [Front Wheel Assembly](#front-wheel-assembly)                                                                    |                                                     |       |        |        |                       |                    |       |
 | 9    | 2        | [OpenRC F1 Stackable Steering Pin](https://www.thingiverse.com/thing:3107676/files)                              | [Ziro PLA (Black)](printer-filament#ziro-pla-black) | 10m   | 0.46m  | 1.38g  | £0.02                 | :heavy_check_mark: |       |
 
-![Front BOM Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/front-bom-assembly.jpg)
+![Front End Assembled](/assets/blog/openrc-f1/front-bom-assembly.jpg)
 
 # Rear Wheel Assembly
 
-![Rear Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/24/b9/79/f2/e5/Rear_Wheel_Assembly_preview_featured.jpg)
+![Rear Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/24/b9/79/f2/e5/Rear_Wheel_Assembly_display_large.jpg)
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
@@ -71,11 +71,11 @@ keywords:
 | 1    | 1        | [Rear Rim](https://www.thingiverse.com/thing:1193309/files)            | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 2h 8m  | 3.95m | 11.77g | £0.23 | :heavy_check_mark: | Replaced with [Tamiya F104 Tyres](#tamiya-f104-tyres) |
 | 2    | 1        | [OPENRC F1 Rain Tires](https://www.thingiverse.com/thing:999257/files) | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)                     | 2h 16m | 8.72m | 26.02g | £0.57 | :heavy_check_mark: | Replaced with [Tamiya F104 Tyres](#tamiya-f104-tyres) |
 
-![Rear Wheel Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/rear-wheel-assembly.jpg)
+![Printed Rear Axle](/assets/blog/openrc-f1/rear-wheel-assembly.jpg)
 
 # Rear Axle Assembly
 
-![Rear Axle Assembly Diagram](https://cdn.thingiverse.com/renders/44/24/da/87/7b/Rear_Axle_Assembly_preview_featured.jpg)
+![Rear Axle Assembly Diagram](https://cdn.thingiverse.com/renders/44/24/da/87/7b/Rear_Axle_Assembly_display_large.jpg)
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
@@ -94,11 +94,11 @@ keywords:
 | 10   | 1        | [Rear Axle Holder Left](https://www.thingiverse.com/thing:1193309/files)                                                                                | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue)           | 36m    | 1.87m     | 5.56g  | £0.10                   | :heavy_check_mark: | Originally in Grey but wanted in body colour |
 | 11   | 2        | [Wheel Lock Nut](https://www.thingiverse.com/thing:1193309/files)                                                                                       | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 6m     | 0.16m     | 0.48g  | £0.01                   | :heavy_check_mark: |                                              |
 
-![Rear Axel Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/rear-axle-assembly.jpg)
+![Rear End Assembled](/assets/blog/openrc-f1/rear-axle-assembly.jpg)
 
 # Chassis Assembly
 
-![Chassis Assembly Diagram](https://cdn.thingiverse.com/renders/b0/b3/37/79/ad/Chassie_Assembly_preview_featured.jpg)
+![Chassis Assembly Diagram](https://cdn.thingiverse.com/renders/b0/b3/37/79/ad/Chassie_Assembly_display_large.jpg)
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
@@ -114,11 +114,11 @@ keywords:
 | 7    | 1        | [Rear Axle Assembly](#rear-axle-assembly)                                                                                 |                                                                         |        |         |        |                         |                    |       |
 | 8    | 2        | [AHC Countersunk Allen Key Bolts](https://www.amazon.co.uk/gp/product/B00WMNMOLG)                                         | Stainless Steel                                                         |        | M3x12mm |        | £16.86 (1020 Piece set) |                    |       |
 
-![Chassis Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/chassis-assembly.jpg)
+![Testing the layout of the electronics](/assets/blog/openrc-f1/chassis-assembly.jpg)
 
 # Body
 
-![OpenRC F1 Body](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/complete.jpg)
+![OpenRC F1 Body Installed](/assets/blog/openrc-f1/complete.jpg)
 
 | Item                                                                                      | Quantity | Material                                                                | Time   | Size   | Weight | Cost  |      Printed       | Notes                          |
 | ----------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ------ | ----- | :----------------: | ------------------------------ |
@@ -169,7 +169,7 @@ keywords:
 
 # Tamiya F104 Tyres
 
-![Tamiya F104 Tyres](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/tamiya-f104-tyres.jpg)
+![Installing some proper rubber RC car tyres](/assets/blog/openrc-f1/tamiya-f104-tyres.jpg)
 
 | Item                                                                                  | Quantity | Material                                                                | Time   | Size   | Weight | Cost              |      Printed       | Notes |
 | ------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ------ | ----------------- | :----------------: | ----- |
@@ -180,18 +180,18 @@ keywords:
 
 To make the tyres soft enough to be usable, they need to have a very low percentage of infil, therefore they are quite fragile and can be easily split.
 
-![Tyres Split](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/tyres-split.jpg)
+![The TPU Tyres are quite hard to print](/assets/blog/openrc-f1/tyres-split.jpg)
 
 To get better grip and have harder wearing tyres, it's recommended to use off-the-shelf rubber tyres specifically desgned for radio controlled cars.
 
 # Electronics Box
 
-![Electronics Box Layout](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/electronics-box-layout.jpg)
+![Designing a box to hold the electronics](/assets/blog/openrc-f1/electronics-box-layout.jpg)
 
 This was one of the first items I modified. I used SketchUp 2017 to edit an existing electronics box to fit the battery I purchased. You can also [view the design on the SketchUp website](https://app.sketchup.com/share/tc/europe/eDflgsYeHGA?stoken=uL6KUMBR9SgNFsqt7Iui99P_QAL9iSydfDcQVslXiyaSsP3Mw8FabXYOr0XHB1bj&source=web).
 
-![Electronics Box Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/electronics-box-assembled.jpg)
+![Electronics added into the printed box](/assets/blog/openrc-f1/electronics-box-assembled.jpg)
 
 The source file and STL is [available to download on my 3D Printing repository on GitHub](https://github.com/mikepthomas/3dprinting/blob/main/Designs/OpenRC%20F1%20Battery%20Box/Battery%20Box.stl).
 
-![Electronics Box Installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-f1/electronics-box-installed.jpg)
+![The Electronics box installed in the car](/assets/blog/openrc-f1/electronics-box-installed.jpg)

@@ -437,18 +437,127 @@
           "openrc-hero.jpg": {
             "alt": "OpenRC F1 Complete",
             "title": "OpenRC Hero"
+          },
+          "front-tyres.jpg": {
+            "alt": "Printed TPU Tyres",
+            "title": "Front Tyres"
+          },
+          "front-bom-assembly.jpg": {
+            "alt": "Front End Assembled",
+            "title": "Front BOM Assembly"
+          },
+          "rear-wheel-assembly.jpg": {
+            "alt": "Printed Rear Axle",
+            "title": "Rear Wheel Assembly"
+          },
+          "rear-axle-assembly.jpg": {
+            "alt": "Rear End Assembled",
+            "title": "Rear Axle Assembly"
+          },
+          "chassis-assembly.jpg": {
+            "alt": "Testing the layout of the electronics",
+            "title": "Chassis Assembly"
+          },
+          "complete.jpg": {
+            "alt": "OpenRC F1 Body Installed",
+            "title": "Complete"
+          },
+          "tamiya-f104-tyres.jpg": {
+            "alt": "Installing some proper rubber RC car tyres",
+            "title": "Tamiya F104 Tyres"
+          },
+          "tyres-split.jpg": {
+            "alt": "The TPU Tyres are quite hard to print",
+            "title": "Tyres Split"
+          },
+          "electronics-box-layout.jpg": {
+            "alt": "Designing a box to hold the electronics",
+            "title": "Electronics Box Layout"
+          },
+          "electronics-box-assembled.jpg": {
+            "alt": "Electronics added into the printed box",
+            "title": "Electronics Box Assembled"
+          },
+          "electronics-box-installed.jpg": {
+            "alt": "The Electronics box installed in the car",
+            "title": "Electronics Box Installed"
           }
         },
         "openrc-mini-quad": {
           "mini-quad-hero.jpg": {
-            "alt": "Parts to build a OpenRC FPV Mini Quad",
+            "alt": "Mini Quad Fully Assembled",
             "title": "Mini Quad Hero"
+          },
+          "mini-quad-parts.jpg": {
+            "alt": "Parts to build a OpenRC FPV Mini Quad",
+            "title": "Mini Quad Parts"
+          },
+          "flight-stack.jpg": {
+            "alt": "Installing the ESC",
+            "title": "Flight Stack"
+          },
+          "motors.jpg": { "alt": "Installing the Motors", "title": "Motors" },
+          "top-deck.jpg": {
+            "alt": "Installing the Top Deck",
+            "title": "Top Deck"
+          },
+          "almost-finished.jpg": {
+            "alt": "Test Fitting the Battery",
+            "title": "Almost Finished"
+          },
+          "props-on.jpg": {
+            "alt": "Danger! Props are installed on the motor",
+            "title": "Props On"
           }
         },
         "openrc-truggy": {
           "truggy-hero.jpg": {
             "alt": "Partially assembled OpenRC Truggy",
             "title": "Truggy Hero"
+          },
+          "openrc": {
+            "front-c-hub-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Front C-Hub Assembly",
+              "title": "Front C-Hub Assembly"
+            },
+            "differential-housing-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Differential Housing Assembly",
+              "title": "Differential Housing Assembly"
+            },
+            "front-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Front Assembly",
+              "title": "Front Assembly"
+            },
+            "rear-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Rear Assembly",
+              "title": "Rear Assembly"
+            },
+            "steering-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Steering Assembly",
+              "title": "Steering Assembly"
+            },
+            "chassis-assembly.png": {
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com/)",
+              "alt": "Exploded diagram of the Chassis Assembly",
+              "title": "Chassis Assembly"
+            }
+          },
+          "differential-housing-assembly-complete.jpg": {
+            "alt": "Metal gears in 3D printed differentials",
+            "title": "Differential Housing Assembly Complete"
+          },
+          "rear-assembly-assembled.jpg": {
+            "alt": "Laying out the drivechain",
+            "title": "Rear Assembly Assembled"
+          },
+          "truggy-complete.jpg": {
+            "alt": "OpenRC Truggy Completed",
+            "title": "Truggy Complete"
           }
         },
         "red-rocket": {
@@ -875,6 +984,10 @@
           "marble-machine-base.jpg": {
             "alt": "Electronics installed into the base of the marble machine",
             "title": "Marble Machine Base"
+          },
+          "chain-marble-bucket.jpg": {
+            "alt": "Installing the Chain, Marble Buckets and Gears",
+            "title": "Chain Marble Bucket"
           },
           "marble-machine-assembled.jpg": {
             "alt": "The Out of Marbles, marble machine fully assembled",

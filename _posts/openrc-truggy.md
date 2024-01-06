@@ -19,9 +19,9 @@ keywords:
 
 # Front C-Hub Assembly
 
-![Front C-Hub Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/front-c-hub-assembly.png)
+![Exploded diagram of the Front C-Hub Assembly](/assets/blog/openrc-truggy/openrc/front-c-hub-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                                | Quantity | Material                                                                | Time | Size      | Weight | Cost                |      Printed       | Notes |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | --------- | ------ | ------------------- | :----------------: | ----- |
@@ -34,9 +34,9 @@ keywords:
 
 # Differential Housing Assembly
 
-![Differential Housing Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/differential-housing-assembly.png)
+![Exploded diagram of the Differential Housing Assembly](/assets/blog/openrc-truggy/openrc/differential-housing-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 **_NOTE:_** Quantities are for 1 Diff, 2 differential housing assemblies are required
 
@@ -55,13 +55,13 @@ keywords:
 | [Aussel Pan Head Screw Bolts](https://www.amazon.co.uk/gp/product/B071J1CQWS)     | 2        | Stainless Steel                                     |        | M3x10 BHCS |        | £8.49 (300 Piece set)   |                    |       |
 | [Aussel M3 Nuts](https://www.amazon.co.uk/gp/product/B071J1CQWS)                  | 7        | Stainless Steel                                     |        | M3         |        | Included in above       |                    |       |
 
-![Differential Housing Assembly Complete](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/differential-housing-assembly-complete.jpg)
+![Metal gears in 3D printed differentials](/assets/blog/openrc-truggy/differential-housing-assembly-complete.jpg)
 
 # Front Assembly
 
-![Front Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/front-assembly.png)
+![Exploded diagram of the Front Assembly](/assets/blog/openrc-truggy/openrc/front-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                                | Quantity | Material                                                                | Time   | Size       | Weight | Cost                    |      Printed       | Notes                                                                     |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ------------------------------------------------------------------------- |
@@ -85,9 +85,9 @@ keywords:
 
 # Rear Assembly
 
-![Rear Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/rear-assembly.png)
+![Exploded diagram of the Rear Assembly](/assets/blog/openrc-truggy/openrc/rear-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                                | Quantity | Material                                                                | Time   | Size       | Weight | Cost                    |      Printed       | Notes                                                                     |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ------------------------------------------------------------------------- |
@@ -112,13 +112,13 @@ keywords:
 | [Wishbone_Small_Part](https://www.thingiverse.com/thing:3939239/files)              | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 53m    | 2.79m      | 8.33g  | £0.16                   | :heavy_check_mark: |                                                                           |
 | [Wishbone Pin Holder](https://www.thingiverse.com/thing:3939239/files)              | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)                     |        |            |        |                         | :heavy_check_mark: | printed with [Differential Housing Lower](#differential-housing-assembly) |
 
-![Rear Assembly Assembled](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/rear-assembly-assembled.jpg)
+![Laying out the drivechain](/assets/blog/openrc-truggy/rear-assembly-assembled.jpg)
 
 # Steering Assembly
 
-![Steering Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/steering-assembly.png)
+![Exploded diagram of the Steering Assembly](/assets/blog/openrc-truggy/openrc/steering-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                                | Quantity | Material                                            | Time   | Size       | Weight | Cost                    |      Printed       | Notes |
 | ----------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ----- |
@@ -134,9 +134,9 @@ keywords:
 
 # Chassis Assembly
 
-![Chassis Assembly](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/chassis-assembly.png)
+![Exploded diagram of the Chassis Assembly](/assets/blog/openrc-truggy/openrc/chassis-assembly.png)
 
-> Image &copy; 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                             | Quantity | Material                                                                | Time   | Size   | Weight | Cost                    |      Printed       | Notes |
 | -------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ------ | ----------------------- | :----------------: | ----- |
@@ -173,7 +173,7 @@ keywords:
 | [Wing](https://www.thingiverse.com/thing:1254930/files)               | 1        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black) | 5h 51m | 17.02m | 50.78g | £1.12                 | :heavy_check_mark: |                                                                                                          |
 | [Wing Holder](https://www.thingiverse.com/thing:1364643/files)        | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black) | 1h 11m | 3.69m  | 10.99g | £0.18                 | :heavy_check_mark: |                                                                                                          |
 
-![OpenRC Truggy Complete](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/openrc-truggy/truggy-complete.jpg)
+![OpenRC Truggy Completed](/assets/blog/openrc-truggy/truggy-complete.jpg)
 
 # Electronics
 

@@ -39,6 +39,8 @@ All parts were sourced from the [Official Motorized Hardware Kit](https://outofm
 
 ## Printing Parts
 
+![Installing the Chain, Marble Buckets and Gears](/assets/blog/marble-machine/chain-marble-bucket.jpg)
+
 | Item                | Quantity | Material                                              |      Printed       | Notes |
 | ------------------- | -------- | ----------------------------------------------------- | :----------------: | ----- |
 | Axle                | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
