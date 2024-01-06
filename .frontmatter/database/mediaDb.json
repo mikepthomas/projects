@@ -52,6 +52,39 @@
           "enclosure-hero.jpg": {
             "alt": "Lack Table 3D Printer Enclosure",
             "title": "3D Printer Enclosure Hero"
+          },
+          "lack-table-one.jpg": {
+            "alt": "Assembling Lack Tables",
+            "title": "Lack Table One"
+          },
+          "lack-table-two.jpg": {
+            "alt": "Attaching the 3D Printed Risers",
+            "title": "Lack Table Two"
+          },
+          "assembled.jpg": {
+            "alt": "Lack Table Enclosure Assembled",
+            "title": "Assembled"
+          },
+          "cat-approved.jpg": {
+            "alt": "Enclosure - Cat Approved",
+            "title": "Cat Approved"
+          },
+          "temporary-abs-enclosure.jpg": {
+            "alt": "Temporary Setup for Printing ABS",
+            "title": "Temporary ABS Enclosure"
+          },
+          "filament.jpg": {
+            "alt": "I may have a filament purchasing problem",
+            "title": "Filament"
+          },
+          "new-ikea-ivar.jpg": {
+            "alt": "New Enclosure built using Ikea Ivar cabinet",
+            "title": "New Ikea Ivar"
+          },
+          "hinges.jpg": { "alt": "3D Printed Hinges", "title": "Hinges" },
+          "carbon-filter-exhaust.jpg": {
+            "alt": "Voron Carbon Exhaust Filter",
+            "title": "Carbon Filter Exhaust"
           }
         },
         "printer-failures": {
