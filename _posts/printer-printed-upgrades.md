@@ -27,11 +27,11 @@ This project was to take a cheap 3D printer and make it better by upgrading comp
 
 [Fan duct from Thingyverse](https://www.thingiverse.com/thing:1954001) by user [lokster](https://www.thingiverse.com/lokster)
 
-![Original Anet A8 Fan Duct](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/original-fan-duct.jpg)
+![Original Anet A8 Fan Duct](/assets/blog/printer-printed-upgrades/original-fan-duct.jpg)
 
 This was a required upgrade as the original Anet A8 fan duct started to melt.
 
-![Semi-Circular Anet A8 Fan Duct](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/semi-circular-fan-duct.jpg)
+![Semi-Circular Anet A8 Fan Duct](/assets/blog/printer-printed-upgrades/semi-circular-fan-duct.jpg)
 
 ## Anet A8 Extruder Button
 
@@ -43,15 +43,15 @@ To feed and remove the filament from the printer you have to press down quite ha
 
 [Frame brace from Thingyverse](https://www.thingiverse.com/thing:1672959) by user [Electrico](https://www.thingiverse.com/Electrico)
 
-![Anet A8 T corner](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/t-corner.jpg)
+![Anet A8 T corner](/assets/blog/printer-printed-upgrades/t-corner.jpg)
 
 This didn't stiffen up the frame as much as I would like... to improve print quality, it was replaced by the [Hulk Frame Brace for the Anet A8](#hulk-frame-brace-for-the-anet-a8).
 
-![Anet A8 T corner installed](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/t-corner-installed.jpg)
+![Anet A8 T corner installed](/assets/blog/printer-printed-upgrades/t-corner-installed.jpg)
 
 # Cosmetic Upgrades
 
-![Cosmetic Upgrades](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/cosmetic-upgrades.jpg)
+![Some printed cosmetic Upgrades](/assets/blog/printer-printed-upgrades/cosmetic-upgrades.jpg)
 
 ## Anet A8 Tool holder
 
@@ -91,13 +91,13 @@ A little holder for the Micro SD adapter that came with the kit. I mounted this 
 
 # Electronics Upgrades
 
-![Electronics Upgrades](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/electronics-upgrades.jpg)
+![Parts to update the printer electronics](/assets/blog/printer-printed-upgrades/electronics-upgrades.jpg)
 
 ## Anet A8 - Micro SD Card Extension Cable Case with Card Storage
 
 [SD Card Extender from Thingyverse](https://www.thingiverse.com/thing:2527250) by user [amrus2011](https://www.thingiverse.com/amrus2011)
 
-![SD Card Extender](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/sd-card-extender.jpg)
+![Relocating the SD card socket](/assets/blog/printer-printed-upgrades/sd-card-extender.jpg)
 
 This allows me mount an [SD Card Extender](https://www.amazon.co.uk/gp/product/B01C8CUDIQ) to move the SD card slot from the rear of the printer, to the front, to be able to easily insert and remove the SD card.
 
@@ -105,15 +105,15 @@ This allows me mount an [SD Card Extender](https://www.amazon.co.uk/gp/product/B
 
 [Electronics Case from Thingyverse](https://www.thingiverse.com/thing:2670756) by user [FqFKrazz](https://www.thingiverse.com/FqFKrazz)
 
-![Anet A8 Electronics Case](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/electronics-case.jpg)
+![Anet A8 Electronics Case](/assets/blog/printer-printed-upgrades/electronics-case.jpg)
 
 This electronics case was chosen as it is compatible with the [Hulk Frame Brace for the Anet A8](#hulk-frame-brace-for-the-anet-a8) and can house 2 [Mosfets](printer#safety-upgrades), one for the heated bed and one for the hotend.
 
-![Anet A8 Electronics Case Mosfet](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/mosfet.jpg)
+![Anet A8 Electronics Case Mosfet](/assets/blog/printer-printed-upgrades/mosfet.jpg)
 
 The case, once installed really tidied up the printer's wires and made it easier to move around.
 
-![Anet A8 Electronics Case Before and After](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/electronics-case-before-after.jpg)
+![Anet A8 Electronics Case Before and After](/assets/blog/printer-printed-upgrades/electronics-case-before-after.jpg)
 
 ## Anet A8 30A PSU Adapter
 
@@ -149,13 +149,13 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 
 # Frame Bracing
 
-![Frame Bracing](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/frame-brace.jpg)
+![Frame Bracing](/assets/blog/printer-printed-upgrades/frame-brace.jpg)
 
 ## Anet A8 Brackets to Reduce X-Axis Motion
 
 [X axis brackets from Thingyverse](https://www.thingiverse.com/thing:3382602) by user [Mr_Dan](https://www.thingiverse.com/Mr_Dan)
 
-![X-Axis Brackets](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/x-axis-brackets.jpg)
+![Brackets to stiffen the top of the frame](/assets/blog/printer-printed-upgrades/x-axis-brackets.jpg)
 
 Stiffens up the top of the frame. Leo_N's version did not fit my printer.
 
@@ -191,7 +191,7 @@ I added this filament guide to stop the filament rubbing against the frame whils
 
 # Motion Upgrades
 
-![Motion Upgrades](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/motion-upgrades.jpg)
+![Upgrades for the motion system](/assets/blog/printer-printed-upgrades/motion-upgrades.jpg)
 
 ## Anet A8 Improved X-belt Tensioner
 
@@ -203,7 +203,7 @@ Belt tensioner to allow fine adjustment of the X-Axis belt. This has been replac
 
 [Belt Tensioner from Thingyverse](https://www.thingiverse.com/thing:2149867) by user [CH35C0](https://www.thingiverse.com/CH35C0)
 
-![Y-Axis Belt Tensioner](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/y-belt-tensioner.jpg)
+![Y-Axis Belt Tensioner](/assets/blog/printer-printed-upgrades/y-belt-tensioner.jpg)
 
 Belt tensioner to allow fine adjustment of the Y-Axis belt. This has been replaced with a [version that can accept a GT2 pulley with teeth](#anet-a8-y-belt-tensioner-for-toothed-idler).
 
@@ -221,13 +221,13 @@ Belt tensioner to allow fine adjustment of the Y-Axis belt. This has been replac
 
 [Belt Tensioner from Thingyverse](https://www.thingiverse.com/thing:2341663) by user [musta](https://www.thingiverse.com/musta)
 
-![Updated Y-Axis Belt Tensioner](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/y-belt-tensioner-updated.jpg)
+![Updated Y-Axis Belt Tensioner](/assets/blog/printer-printed-upgrades/y-belt-tensioner-updated.jpg)
 
 ## Anet A8 lightweight and unobtrusive X-axis cable chain
 
 [Cable Chain from Thingyverse](https://www.thingiverse.com/thing:2785408) by user [juh](https://www.thingiverse.com/juh)
 
-![X-Axis Chain](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/x-axis-chain.jpg)
+![X-Axis Drag Chain](/assets/blog/printer-printed-upgrades/x-axis-chain.jpg)
 
 This was replaced by [a different version](#anet-a8-x-axis-cable-chain-with-z-end-stop) after I upgraded to a [touch screen TFT screen](printer-hardware-upgrades#tft24-mount) to increase the available Z-Axis travel.
 
@@ -241,7 +241,7 @@ A cable chain for the heated bed wires.
 
 [Cable Chain from Thingyverse](https://www.thingiverse.com/thing:2115095) by user [The_Random_Engineer](https://www.thingiverse.com/The_Random_Engineer)
 
-![Updated X-Axis Chain](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/x-axis-chain-updated.jpg)
+![Updated X-Axis Chain](/assets/blog/printer-printed-upgrades/x-axis-chain-updated.jpg)
 
 As I have removed the Z-Axis endstop when installing an [Auto Bed Levelling sensor](printer#auto-bed-levelling) I replaced the [cable chain motor mount with this version](#cable-chain-x-motor-mount).
 
@@ -257,7 +257,7 @@ I only used the long cable chain and links with holes to enclose the cables with
 
 # Extruder Upgrades
 
-![Extruder Upgrades](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/extruder-upgrades.jpg)
+![Bed levelling upgrades](/assets/blog/printer-printed-upgrades/extruder-upgrades.jpg)
 
 ## Anet A8 Extruder Fan Spacer
 
@@ -279,7 +279,7 @@ An insert for the extruder housing to stop flexible filament from wrapping itsel
 
 # Bed Upgrades
 
-![Bed Upgrades](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-printed-upgrades/bed-upgrades.jpg)
+![Parts to upgrade the bed](/assets/blog/printer-printed-upgrades/bed-upgrades.jpg)
 
 ## Anet A8 2 Piece Y Axis Belt Clamp
 

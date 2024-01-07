@@ -91,6 +91,62 @@
           "printer-failures-hero.jpg": {
             "alt": "Broken cable chain held together with cable ties",
             "title": "3D Printer Failures Hero"
+          },
+          "first-print.jpg": {
+            "alt": "My first ever print",
+            "title": "First Print"
+          },
+          "cable-chain.jpg": {
+            "alt": "Cables not fitting in cable chain",
+            "title": "Cable Chain"
+          },
+          "fan-duct-melted.jpg": {
+            "alt": "Hot nozzle through fan duct",
+            "title": "Fan Duct Melted"
+          },
+          "cooling-fan-broken.jpg": {
+            "alt": "Allen key in cooling fan",
+            "title": "Cooling Fan Broken"
+          },
+          "cooling-fan-noctua.jpg": {
+            "alt": "Replacement Noctua fan",
+            "title": "Cooling Fan Noctua"
+          },
+          "heater-wire-wear.jpg": {
+            "alt": "Heater wire worn through",
+            "title": "Heater Wire Wear"
+          },
+          "cable-chain-melted.jpg": {
+            "alt": "Cable chain melted by new heater",
+            "title": "Cable Chain Melted"
+          },
+          "cable-chain-weakened.jpg": {
+            "alt": "Weakened cable chain from movement",
+            "title": "Cable Chain Weakened"
+          },
+          "worn-belt.jpg": {
+            "alt": "X Axis belt worn through",
+            "title": "Worn Belt"
+          },
+          "broken-probe-wire.jpg": {
+            "alt": "3D Touch wired snapped due to movement",
+            "title": "Broken Probe Wire"
+          },
+          "bearing-failure.jpg": {
+            "alt": "Bearings Failed in cheap idlers",
+            "title": "Bearing Failure"
+          },
+          "fan-duct-deformed.jpg": {
+            "alt": "Fan Duct Deformed printing ABS",
+            "title": "Fan Duct Deformed"
+          },
+          "broken-cable-ends.jpg": {
+            "alt": "Multiple broken pieces whilst trying to make cables",
+            "title": "Broken Cable Ends"
+          },
+          "cables-complete.jpg": {
+            "alt": "Finally managed to make the cables without breaking the ends",
+            "title": "Cables Complete"
           }
         },
         "printer": {
@@ -232,12 +288,151 @@
           "printed-items.jpg": {
             "alt": "All the upgrades from one spool of filament",
             "title": "3D Printed Upgrades"
+          },
+          "original-fan-duct.jpg": {
+            "alt": "Original Anet A8 Fan Duct",
+            "title": "Original Fan Duct"
+          },
+          "semi-circular-fan-duct.jpg": {
+            "alt": "Semi-Circular Anet A8 Fan Duct",
+            "title": "Semi-Circular Fan Duct"
+          },
+          "t-corner.jpg": { "alt": "Anet A8 T corner", "title": "T corner" },
+          "t-corner-installed.jpg": {
+            "alt": "Anet A8 T corner installed",
+            "title": "T corner installed"
+          },
+          "cosmetic-upgrades.jpg": {
+            "alt": "Some printed cosmetic Upgrades",
+            "title": "Cosmetic Upgrades"
+          },
+          "electronics-upgrades.jpg": {
+            "alt": "Parts to update the printer electronics",
+            "title": "Electronics Upgrades"
+          },
+          "sd-card-extender.jpg": {
+            "alt": "Relocating the SD card socket",
+            "title": "SD Card Extender"
+          },
+          "electronics-case.jpg": {
+            "alt": "Anet A8 Electronics Case",
+            "title": "Electronics Case"
+          },
+          "mosfet.jpg": {
+            "alt": "Anet A8 Electronics Case Mosfet",
+            "title": "Mosfet"
+          },
+          "electronics-case-before-after.jpg": {
+            "alt": "Anet A8 Electronics Case Before and After",
+            "title": "Electronics Case Before and After"
+          },
+          "frame-brace.jpg": { "alt": "Frame Bracing", "title": "Frame Brace" },
+          "x-axis-brackets.jpg": {
+            "alt": "Brackets to stiffen the top of the frame",
+            "title": "X-Axis Brackets"
+          },
+          "motion-upgrades.jpg": {
+            "alt": "Upgrades for the motion system",
+            "title": "Motion Upgrades"
+          },
+          "y-belt-tensioner.jpg": {
+            "alt": "Y-Axis Belt Tensioner",
+            "title": "Y Belt Tensioner"
+          },
+          "y-belt-tensioner-updated.jpg": {
+            "alt": "Updated Y-Axis Belt Tensioner",
+            "title": "Y Belt Tensioner Updated"
+          },
+          "x-axis-chain.jpg": {
+            "alt": "X-Axis Drag Chain",
+            "title": "X-Axis Chain"
+          },
+          "x-axis-chain-updated.jpg": {
+            "alt": "Updated X-Axis Chain",
+            "title": "X-Axis Chain Updated"
+          },
+          "extruder-upgrades.jpg": {
+            "alt": "Bed levelling upgrades",
+            "title": "Extruder Upgrades"
+          },
+          "bed-upgrades.jpg": {
+            "alt": "Parts to upgrade the bed",
+            "title": "Bed Upgrades"
           }
         },
         "printer-hardware-upgrades": {
           "skr-upgrade-hero.jpg": {
-            "alt": "Designing a case for the new control board",
+            "alt": "Testing the firmware with Pronterface",
             "title": "Hardware Upgrades Hero"
+          },
+          "designing-case.jpg": {
+            "alt": "Designing a case for the new control board",
+            "title": "Designing Case"
+          },
+          "wiring.jpg": {
+            "alt": "Making adaptor wires for the existing cables",
+            "title": "Wiring"
+          },
+          "benchy.jpg": { "alt": "The obligatory Benchy", "title": "Benchy" },
+          "design.jpg": {
+            "alt": "Using Fusion 360 to design a mount for the control board",
+            "title": "Design"
+          },
+          "electronics-case.jpg": {
+            "alt": "Before mounting the new electronics case",
+            "title": "Electronics Case"
+          },
+          "firmware.jpg": {
+            "alt": "Marlin firmware for the BTT SKR 1.4 on an Anet A8",
+            "title": "Firmware"
+          },
+          "tft-mount.jpg": {
+            "alt": "TFT24 mounted to the printer",
+            "title": "TFT Mount"
+          },
+          "smart-filament-sensor.jpg": {
+            "alt": "Smart filament sensor amongst a few other upgrades",
+            "title": "Smart Filament Sensor"
+          },
+          "relay-mount.jpg": {
+            "alt": "The Relay board installed in the power supply mount",
+            "title": "Relay Mount"
+          },
+          "silicone-bed-mounts.jpg": {
+            "alt": "Hard Silicone Bed Mounts",
+            "title": "Silicone Bed Mounts"
+          },
+          "led-strip.jpg": {
+            "alt": "Neopixel LED Strip",
+            "title": "LED Strip"
+          },
+          "optical-endstop.jpg": {
+            "alt": "Optical Endstop installed on X Axis",
+            "title": "Optical Endstop"
+          },
+          "ldo-motor-installed.jpg": {
+            "alt": "LDO X Motor",
+            "title": "LDO Motor Installed"
+          },
+          "vfas-in-print.jpg": {
+            "alt": "Vertical Fine Artifacts shown on a printed part",
+            "title": "VFAs in print"
+          },
+          "drylin-bearings.jpg": {
+            "alt": "Rebuilding the X-Axis to install Drylin Bearings",
+            "title": "Drylin Bearings"
+          },
+          "baked-on-adhesive.jpg": {
+            "alt": "Heat + adhesive = bad time",
+            "title": "Baked On Adhesive"
+          },
+          "adhesive-removed.jpg": {
+            "alt": "Finally removed the baked on adhesive",
+            "title": "Adhesive Removed"
+          },
+          "pei-flex-plate.jpg": {
+            "alt": "PEI Flex Plate installed",
+            "title": "PEI Flex Plate"
           }
         },
         "printer-filament": {
