@@ -1241,6 +1241,64 @@
             "alt": "The Out of Marbles, marble machine fully assembled",
             "title": "Marble Machine Assembled"
           }
+        },
+        "knick-knacks": {
+          "vive-cable-clips.jpg": {
+            "alt": "Cable Clips to hold the cable out of the way for the Vive Headset",
+            "title": "Vive Cable Clips"
+          },
+          "vive-controller-protector-print.jpg": {
+            "alt": "Showing off the print quality of the Anet A8",
+            "title": "Vive Controller Protector Print"
+          },
+          "vive-controller-holder-complete.jpg": {
+            "alt": "Stand to hold the controllers for my VR Setup",
+            "title": "Vive Controller Holder Complete"
+          },
+          "vive-controller-protector.jpg": {
+            "alt": "Plastic protector to help stop damage from using controllers in VR",
+            "title": "Vive Controller Protector"
+          },
+          "vive-controller-holder-printing.jpg": {
+            "alt": "Printing the Vive Controller Holder",
+            "title": "Vive Controller Holder Printing"
+          },
+          "camera-battery-holder.jpg": {
+            "alt": "Box to hold 2 Camera Batteries and 2 SD Cards",
+            "title": "Camera Battery Holder"
+          },
+          "bullet-bill.jpg": {
+            "alt": "Bullet Bill Prop",
+            "title": "Bullet Bill"
+          },
+          "lego-man-arm.jpg": {
+            "alt": "Giant Lego Man Arm",
+            "title": "Lego Man Arm"
+          },
+          "lego-man-torso.jpg": {
+            "alt": "Comparison with an actual Lego man torso",
+            "title": "Lego Man Torso"
+          },
+          "lego-man-almost-complete.jpg": {
+            "alt": "Almost Completed Giant Lego Man",
+            "title": "Lego Man Almost Complete"
+          },
+          "lego-man-complete.jpg": {
+            "alt": "Adding the Head and Arms",
+            "title": "Lego Man Complete"
+          },
+          "knick-knacks-hero.jpg": {
+            "alt": "Printing a Giant Lego Man for my Lego Collection",
+            "title": "Knick Knacks Hero"
+          },
+          "benchy-wave.jpg": {
+            "alt": "Wave to display a benchy boat",
+            "title": "Benchy Wave"
+          },
+          "plane-kit.jpg": {
+            "alt": "Print-in-place aeroplane kit",
+            "title": "Plane Kit"
+          }
         }
       }
     }

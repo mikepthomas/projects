@@ -117,12 +117,10 @@ export default function Blog({ content, related }: Props) {
                   <Link href="openrc-mini-quad">OpenRC Mini Quad</Link>
                 </li>
                 <li>
-                  <Link href="guitar">Guitar</Link>
+                  <Link href="knick-knacks">Knick Knacks</Link>
                 </li>
                 <li>
-                  <Link href="marble-machine">
-                    Out of Marbles, Marble Machine
-                  </Link>
+                  <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
                   <Link href="red-rocket">Red Rocket Truck Stop</Link>
