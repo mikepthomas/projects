@@ -102,7 +102,7 @@ As I have a slightly longer Y axis compared to the Anet Evolution, I have redesi
 
 I remixed the Belt Idlers from the [reinforced ones](https://www.thingiverse.com/thing:3853322) by [yoloswagersaurus](https://www.thingiverse.com/yoloswagersaurus) I extended the Y rod clamps by 13mm to make the full width of the Y clamps 25mm.
 
-![Belt Idlers with extended Y clamps](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-hypercube/belt-idlers.png)
+![Belt Idlers with extended Y clamps](/assets/blog/printer-hypercube/belt-idlers.png)
 
 | Item                                                                                                                    | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
@@ -113,7 +113,7 @@ I remixed the XY Motor brackets from the ones from the Anet Evolution (Nut Remix
 
 To support the Y motor, I want to add a [Y Motor support bracket](https://www.thingiverse.com/thing:3015584), however this if for the Hypercube Evolution and therefore, will only fit 3030 aluminium extrusion. I have redesigned this to fit the motor bracket that fit 2020 extrusion
 
-![Y motor suport bracket](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-hypercube/y-motor-support-bracket.png)
+![Y motor suport bracket with extended Y clamps](/assets/blog/printer-hypercube/y-motor-support-bracket.png)
 
 | Item                                                                                                                                                         | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
@@ -130,7 +130,7 @@ As I will be using standard Nema 17 motors, with separate lead screws, connected
 
 I have designed a holder for the bearing to sit on top of the couplers inspired by the [Z Axis Motor With Bearing Holder](https://www.thingiverse.com/thing:2780754) by [butchja](https://www.thingiverse.com/butchja)
 
-![Z Motor Bearing Support](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-hypercube/z-motor-bearing-support.png)
+![Part to add a bearing to support the lead screws](/assets/blog/printer-hypercube/z-motor-bearing-support.png)
 
 | Item                                                                                                                                   | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
@@ -161,7 +161,7 @@ I have remixed the Z Rail Arms to recess the screw head so that I can use socket
 
 The bearing clamps to mount the bed carriage to the Z axis are from the Anet Evolution however, as I am using [Igus DryLin RJ4JP 01-08 Bearings](https://www.igus.com/product/990). The bearings are not as snug in the holders as the stainless steel ones. Therefore, I took inspiration from [this Z Bearing Fixer](https://www.thingiverse.com/thing:3095514) by [Budiman7x](https://www.thingiverse.com/Budiman7x) and redesigned them to fit my smaller 8mm guide rods.
 
-![Z Bearing Fixer](https://github.com/mikepthomas/mikepthomas.github.io/raw/develop/src/img/printer-hypercube/z-bearing-fixer.png)
+![Clamp to secure the Z-Axis bearings](/assets/blog/printer-hypercube/z-bearing-fixer.png)
 
 | Item                                                                                                                                               | Quantity | Material                                                            | Size   | Weight | Cost  |      Printed       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: |
@@ -170,6 +170,19 @@ The bearing clamps to mount the bed carriage to the Z axis are from the Anet Evo
 | [2_Z_Nut_Braket](https://www.thingiverse.com/thing:2786292/files)                                                                                  | 2        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 5.37m  | 18.72g | £0.36 | :heavy_check_mark: |
 
 When the bed frame is assembled I will measure the difference between the bed and the frame and create some Bed Mounts remixed from something like the [Anet Evolution Printerbed Holder](https://www.thingiverse.com/thing:3351036).
+
+## Z Rail Arms
+
+I have added some M3 nut traps to the Z Rail Arms. I have also printed 2 additional Bottom mounts to use at the top of the Z rails to allow more space for the Y Axis to move.
+
+![Stock rail arms with added m3 nut traps](/assets/blog/printer-hypercube/z-rail-arms.png)
+
+| Item                                                                                                                                                  | Quantity | Material                                                      | Size  | Weight | Cost  |      Printed       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
+| [Z Rail Arm Bottom Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Left.stl)   | ~1~ 2    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.11m | 9.5g   | £0.18 | :heavy_check_mark: |
+| [Z Rail Arm Bottom Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Right.stl) | ~1~ 2    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.11m | 9.49g  | £0.18 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.92m | 18.09g | £0.35 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.92m | 18.08g | £0.35 | :heavy_check_mark: |
 
 # Case
 

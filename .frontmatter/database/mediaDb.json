@@ -393,6 +393,26 @@
           "hypercube-hero.jpg": {
             "alt": "Printed parts for Hypercube",
             "title": "Hypercube Hero"
+          },
+          "belt-idlers.png": {
+            "alt": "Belt Idlers with extended Y clamps",
+            "title": "Belt Idlers"
+          },
+          "y-motor-support-bracket.png": {
+            "alt": "Y motor suport bracket with extended Y clamps",
+            "title": "Y Motor Suport Bracket"
+          },
+          "z-motor-bearing-support.png": {
+            "alt": "Part to add a bearing to support the lead screws",
+            "title": "Z Motor Bearing Support"
+          },
+          "z-bearing-fixer.png": {
+            "alt": "Clamp to secure the Z-Axis bearings",
+            "title": "Z Bearing Fixer"
+          },
+          "z-rail-arms.png": {
+            "alt": "Stock rail arms with added m3 nut traps",
+            "title": "Z Rail Arms"
           }
         },
         "guitar": {
