@@ -1,7 +1,7 @@
 ---
 title: Voron Modifications and Upgrades
 date: 2022-04-27
-lastmod: 2023-12-02
+lastmod: 2024-01-09T18:23:18.840Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
@@ -518,6 +518,8 @@ There are three different mounts, one vertical, one horizontal and one for DIN r
 | [KlipperExpander_VerticalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_VerticalMount.STL)     | 1        |                                                      |       |        |       |        :x:         |       |
 
 ### :wrench: Assembly
+
+![Timmit99's Klipper Expander PCB](/assets/blog/printer-voron-mods/klipper-expander.jpg)
 
 I have printed the horizontal mount as I am planning on mounting the Klipper Expander on the bottom of the rear electronics compartment.
 

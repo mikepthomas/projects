@@ -936,9 +936,14 @@ However, I have recently purchased a Mellow Fly Super 8 V1.0 from the Voron Disc
 ![Electronics Panel Holder replaced by handles](/assets/blog/printer-voron-1.8/rear-handles.jpg)
 
 The [Electronics Compartment](#electronics-compartment) has a couple of parts to rest the elecronics panel on called `panel_holder`s I have replaced these with the front handles from the 2.2 to enable me to move the printer about a little easier and to also keep a little bit of space behind the printer to allow the electronics compartment fan to breathe.
+
 I also plan on installing the [Klipper Expander](printer-voron-1.8-mods#klipper-expander) in the space at the bottom of the electronics compartment just above the handle shown.
 
-![The V1.8 has 3D printed locks to hold on the back panel](/assets/blog/printer-voron-1.8/electronics-panel-installed.jpg)
+![3D printed locks to hold on the back panel](/assets/blog/printer-voron-1.8/rear-panel-locks.jpg)
+
+The V1.8 has 3D printed locks to hold on the back panel; This makes accessing the electronics easy as installing and removing it is completely tool free.
+
+![The panel to cover the electronics is installed](/assets/blog/printer-voron-1.8/electronics-panel-installed.jpg)
 
 ##### Parts Used
 

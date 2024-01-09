@@ -1114,7 +1114,7 @@
             "title": "Rear Handles"
           },
           "electronics-panel-installed.jpg": {
-            "alt": "The V1.8 has 3D printed locks to hold on the back panel",
+            "alt": "The panel to cover the electronics is installed",
             "title": "Electronics Panel Installed"
           },
           "exhaust-filter.jpg": {
@@ -1144,6 +1144,10 @@
           "spool-holders.jpg": {
             "alt": "Spool Holders with Red PTFE guides",
             "title": "Spool Holders"
+          },
+          "rear-panel-locks.jpg": {
+            "alt": "3D printed locks to hold on the back panel",
+            "title": "Rear Panel Locks"
           }
         },
         "printer-voron-mods": {
@@ -1202,6 +1206,10 @@
           "deck-panel-support-clips.jpg": {
             "alt": "Decorative clips to hold in the deck panel",
             "title": "Deck Panel Support Clips"
+          },
+          "klipper-expander.jpg": {
+            "alt": "Timmit99's Klipper Expander PCB",
+            "title": "Klipper Expander"
           }
         },
         "enraged-rabbit-carrot-feeder-1.1": {
