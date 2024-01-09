@@ -1,6 +1,7 @@
 ---
 title: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
+lastmod: 2024-01-09T18:07:16.693Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -34,8 +35,8 @@ Building a the second version of the [Enraged Rabbit Carrot Feeder](https://gith
 | NEMA14 Motor 14HS11-1004S            | 1        | 1        | LDO-35STH28-1004A |
 | NEMA17 Motor 17HS08-1004S            | 1        | 1        | LDO-42STH20-1004A |
 | Savox SH-0255MG servo                | 1        | 1        |                   |
-| TMC2209 Stepper drivers              | 2        |          | 2 on order        |
-| Binky Encoder                        | 1        |          | 1 on order        |
+| TMC2209 Stepper drivers              | 2        |          | 4 on order        |
+| Binky Encoder                        | 1        | 1        |                   |
 | Omron D2F-5L or D2F-01L Micro Switch | 1        | 1        |                   |
 | WS2812 LED Strip for ERCF LED Apron  | 8        | 8        | Optional          |
 
@@ -88,7 +89,7 @@ Building a the second version of the [Enraged Rabbit Carrot Feeder](https://gith
 | Item                                             | Quantity | Received | Notes               |
 | ------------------------------------------------ | -------- | -------- | ------------------- |
 | 2.7mm zip ties                                   | 10       |          |                     |
-| 3mm x 2mm Round Neodymium Magnets                | 2        |          | 50 on order         |
+| 3mm x 2mm Round Neodymium Magnets                | 2        | 50       |                     |
 | 6x15mm compression spring with 1mm wire diameter | 1        |          | 2 on order          |
 | 6mm x 3mm Round Neodymium Magnets                | 16       | 23       |                     |
 | 7X7 Drag chain                                   | 1        | 1        | 264mm for 8 channel |

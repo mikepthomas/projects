@@ -1,7 +1,7 @@
 ---
 title: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2023-08-10
+lastmod: 2024-01-09T18:07:16.693Z
 author: Mike Thomas
 description: Building the smallest of the Voron printers, the Voron Zero.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -50,11 +50,13 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Frame Extrusions
 
-| Item                     | Quantity | Received | Notes                            |
-| ------------------------ | -------- | -------- | -------------------------------- |
-| Makerbeam XL 15x15 200mm | 16       | 16       |                                  |
-| Makerbeam XL 15x15 100mm | 3        |          | Using Kirigami Bed Mount instead |
-| Kirigami Bed Mount       | 1        | 1        |                                  |
+| Item                               | Quantity | Received | Notes                            |
+| ---------------------------------- | -------- | -------- | -------------------------------- |
+| Makerbeam XL 15x15 200mm           | 16       | 16       |                                  |
+| Makerbeam XL 15x15 100mm           | 3        |          | Using Kirigami Bed Mount instead |
+| Siboor Kirigami Bed Mount          | 1        | 1        |                                  |
+| Siboor CNC Slide Back Plate        | 1        |          | 1 on order                       |
+| Fysetc Profile Installation Helper | 1        | 1        |                                  |
 
 ## Extrusion Tophat Frame Extrusions
 
@@ -65,27 +67,29 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes |
-| -------------------------------------------------------- | -------- | -------- | ----- |
-| Meanwell LRS-150-24                                      | 1        | 1        |       |
-| Bigtreetech SKR Pico                                     | 1        | 1        |       |
-| Raspberry Pi 4                                           | 1        | 1        |       |
-| MicroSD Card                                             | 1        | 1        |       |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        |       |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        |       |
-| 3010 blower fans 24V                                     | 2        | 2        |       |
-| 3010 axial fan 24V                                       | 2        | 2        |       |
-| 3510 axial fan 24V                                       | 4        | 5        |       |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |       |
-| C13 Power Cord                                           | 1        | 1        |       |
-| IEC320 C14 inlet                                         | 1        | 1        |       |
-| Hotend                                                   | 1        | 1        |       |
-| 24V Heater Cartridge                                     | 1        | 1        |       |
-| Hotend thermistor                                        | 1        | 1        |       |
-| V0 Display                                               | 1        | 1        |       |
-| 3M 5952 VHB tape                                         | 1        | 1        |       |
-| Adafruit Sequins                                         | 2        | 5        |       |
-| Rainbow Barf LED                                         | 1        | 1        |       |
+| Item                                                     | Quantity | Received | Notes      |
+| -------------------------------------------------------- | -------- | -------- | ---------- |
+| Meanwell LRS-150-24                                      | 1        | 1        |            |
+| Bigtreetech SKR Pico                                     | 1        | 1        |            |
+| Raspberry Pi 4                                           | 1        | 1        |            |
+| MicroSD Card                                             | 1        | 1        |            |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        |            |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        |            |
+| 3010 blower fans 24V                                     | 2        | 2        |            |
+| 3010 axial fan 24V                                       | 2        | 2        |            |
+| 3510 axial fan 24V                                       | 4        | 5        |            |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |            |
+| C13 Power Cord                                           | 1        | 1        |            |
+| IEC320 C14 inlet                                         | 1        | 1        |            |
+| Hotend                                                   | 1        | 1        |            |
+| 24V Heater Cartridge                                     | 1        | 1        |            |
+| Hotend thermistor                                        | 1        | 1        |            |
+| 3M 5952 VHB tape                                         | 1        | 1        |            |
+| Fysetc Neopixel Sequins                                  | 2        | 4        |            |
+| Siboor V0 Display                                        | 1        |          | 1 on order |
+| Siboor Bed LED PCB                                       | 1        | 1        |            |
+| Siboor XH2.54 PCB 2P-2P                                  | 1        | 1        |            |
+| Wago connectors (221-412)                                | 2        | 2        |            |
 
 ## Cables
 
