@@ -6,8 +6,12 @@ author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
+related:
+  - /projects/macro-pi
+  - /projects/solar-wifi-weather-station
 draft: false
 tags:
+  - Computers
   - Raspberry Pi
 categories:
   - Electronics

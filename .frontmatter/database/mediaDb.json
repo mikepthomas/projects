@@ -1307,6 +1307,205 @@
             "alt": "Print-in-place aeroplane kit",
             "title": "Plane Kit"
           }
+        },
+        "cameras": {
+          "cameras-hero.jpg": {
+            "alt": "My collection of Cameras",
+            "title": "Cameras Hero"
+          },
+          "cosina-csl.jpg": {
+            "alt": "A Cosina CSL Film Camera",
+            "title": "Cosina CSL"
+          },
+          "cosina-csr.jpg": {
+            "alt": "A Cosina CSR Film Camera",
+            "title": "Cosina CSR"
+          },
+          "kodak-open.jpg": {
+            "alt": "No. 1 Pocket Kodak Jr ready to take pictures",
+            "title": "Kodak Open"
+          },
+          "kodak-closed.jpg": {
+            "alt": "No. 1 Pocket Kodak Jr folds up quite small",
+            "title": "Kodak Closed"
+          },
+          "box-brownie-open.jpg": {
+            "alt": "No. 2 Brownie Model F Open",
+            "title": "Box Brownie Open"
+          },
+          "box-brownie-closed.jpg": {
+            "alt": "No. 2 Brownie Model F is a little rough around the edges",
+            "title": "Box Brownie Closed"
+          },
+          "minolta-xg-m.jpg": {
+            "alt": "A great charity shop find",
+            "title": "Minolta XG-M"
+          },
+          "minolta-xg-m-on-film.jpg": {
+            "caption": "This photo was taken on my [Nikon F-801](#f-801)",
+            "alt": "Film photograph of my Minolta XG-M",
+            "title": "Minolta XG-M On Film"
+          },
+          "repaired-lens-scratched.jpg": {
+            "alt": "Deep scratches on the side of a lens",
+            "title": "Repaired Lens Scratched"
+          },
+          "nikon-cameras.jpg": {
+            "alt": "My Nikon cameras with some accessories",
+            "title": "Nikon Cameras"
+          },
+          "nikon-f-801.jpg": {
+            "alt": "A Nikon F-801 Film Camera",
+            "title": "Nikon F-801"
+          },
+          "nikon-f-801-on-film.jpg": {
+            "caption": "This photo was taken on my [Minolta XG-M](#xg-m)",
+            "alt": "Film photograph of my Nikon F-801",
+            "title": "Nikon F-801 On Film"
+          },
+          "nikon-d3100-lens-extended.jpg": {
+            "alt": "Nikon D3100 with a Tamaron lens fully extended",
+            "title": "Nikon D3100 Lens Extended"
+          },
+          "tripod.jpg": {
+            "alt": "Digital Camera on a Tripod",
+            "title": "Tripod"
+          },
+          "nikon-d7000-screen.jpg": {
+            "alt": "Screen on the top of a Nikon D7000",
+            "title": "Nikon D7000 Screen"
+          },
+          "nikon-d7000-back.jpg": {
+            "alt": "Screen on the back of a Nikon D7000",
+            "title": "Nikon D7000 Back"
+          },
+          "praktica-bc-1.jpg": {
+            "alt": "A Praktica BC 1 Film Camera",
+            "title": "Praktica BC 1"
+          },
+          "zenit-e.jpg": { "alt": "A Zenit-E Film Camera", "title": "Zenit-E" },
+          "industar-50-2.jpg": {
+            "alt": "An Industar-50-2 Lens",
+            "title": "Industar-50-2"
+          },
+          "lomochrome-film.jpg": {
+            "alt": "A roll of 35mm Film",
+            "title": "Lomochrome Film"
+          },
+          "chemicals.jpg": {
+            "alt": "Film developing chemicals",
+            "title": "Chemicals"
+          },
+          "developing.jpg": {
+            "alt": "Tools for developing Black and White film",
+            "title": "Developing"
+          },
+          "developed-film.jpg": {
+            "alt": "Developed film hanging up to dry",
+            "title": "Developed Film"
+          },
+          "kodak-film.jpg": {
+            "alt": "Some developed 35mm colour film",
+            "title": "Kodak Film"
+          }
+        },
+        "thinkpad": {
+          "thinkpad-hero.jpg": {
+            "alt": "My Thinkpad X220",
+            "title": "Thinkpad Hero"
+          },
+          "freenode-exhibitor.jpg": {
+            "alt": "My Exhibitor Lanyard from Freenode Live",
+            "title": "Freenode Exhibitor"
+          },
+          "upgrades.jpg": {
+            "alt": "Parts to upgrade my Thinkpad X220",
+            "title": "Upgrades"
+          },
+          "cracked.jpg": {
+            "alt": "Cracked plastics on a laptop",
+            "title": "Cracked"
+          },
+          "bluetooth.jpg": {
+            "alt": "The Bluetooth module is separate from the Wifi module",
+            "title": "Bluetooth"
+          },
+          "cable-routing.jpg": {
+            "alt": "The Cables are routed through the keyboard carrier",
+            "title": "Cable Routing"
+          },
+          "mainboard-screw-locations.jpg": {
+            "alt": "There are only a few screws holding the motherboard in",
+            "title": "Mainboard Screw Locations"
+          },
+          "4g-modem.jpg": {
+            "alt": "4G Modem installed in the machine",
+            "title": "4G Modem"
+          },
+          "they-are-multiplying.jpg": {
+            "alt": "So good I brought it twice",
+            "title": "They Are Multiplying"
+          },
+          "generic-ssd.jpg": {
+            "alt": "A Generic SSD Module",
+            "title": "Generic SSD"
+          },
+          "crucial-ssd.jpg": {
+            "alt": "A Crucial SSD Module",
+            "title": "Crucial SSD"
+          },
+          "samsung-ssd.jpg": {
+            "alt": "A Samsung SSD Module",
+            "title": "Samsung SSD"
+          },
+          "stock-bios.jpg": {
+            "alt": "The Stock Thinkpad X220 BIOS screen",
+            "title": "Stock BIOS"
+          },
+          "flashing-tools.jpg": {
+            "alt": "Tools to flash the BIOS chip in the laptop",
+            "title": "Flashing Tools"
+          },
+          "raspberry-pi-connection.jpg": {
+            "alt": "Connecting a Raspberry Pi to Flash the BIOS",
+            "title": "Raspberry Pi Connection"
+          },
+          "bios-backup.jpg": {
+            "alt": "Backing up the Stock BIOS",
+            "title": "BIOS Backup"
+          },
+          "bios-flashing.jpg": {
+            "alt": "Flashing Coreboot with SeaBIOS Payload",
+            "title": "BIOS Flashing"
+          },
+          "seabios.jpg": {
+            "alt": "SeaBIOS running on the laptop",
+            "title": "SeaBIOS"
+          },
+          "chromium-os.jpg": {
+            "alt": "Chromium OS running on the X220",
+            "title": "Chromium OS"
+          },
+          "chromium-os-developer-build.jpg": {
+            "alt": "I compiled the OS myself from the original source code",
+            "title": "Chromium OS Developer Build"
+          },
+          "linux-from-scratch.jpg": {
+            "alt": "Linux From Scratch running on the X220",
+            "title": "Linux From Scratch"
+          },
+          "mac-os.jpg": {
+            "alt": "Mac OS running on the X220",
+            "title": "Mac OS"
+          },
+          "ubuntu.jpg": {
+            "alt": "Ubuntu running on the X220",
+            "title": "Ubuntu"
+          },
+          "windows-11.jpg": {
+            "alt": "Windows 11 running on the X220",
+            "title": "Windows 11"
+          }
         }
       }
     }
