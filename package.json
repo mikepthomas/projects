@@ -6,7 +6,7 @@
     "start": "next start",
     "typecheck": "tsc",
     "lint": "prettier --single-quote --write .",
-    "predeploy": "next build",
+    "predeploy": "npm run lint && npm run build",
     "deploy": "gh-pages -b gh-pages -d out -t"
   },
   "dependencies": {
