@@ -1,7 +1,7 @@
 ---
 title: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-01-10T16:52:57.290Z
+lastmod: 2024-01-11T21:18:43.082Z
 author: Mike Thomas
 description: Building the smallest of the Voron printers, the Voron Zero.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -372,6 +372,8 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: X Carriage
+
+**_NOTE:_** These parts are not required when using the [Siboor CNC Slide Back Plate](https://www.aliexpress.com/item/1005004251753946.html).
 
 | Item                                                                                                                   | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                    |
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
