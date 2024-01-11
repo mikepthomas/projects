@@ -19,7 +19,7 @@ keywords:
 
 # Intro
 
-Printing Upgrades and Accessories for the [3D Sets Landy](https://3dsets.com/product/model-3-landy-4x4-pickup/)
+Printing Upgrades and Accessories for the [3D Sets Landy](https://3dsets.com/product/model-3-landy-4x4-pickup/).
 
 # Rock Sliders and Grill
 
@@ -35,6 +35,8 @@ Printing Upgrades and Accessories for the [3D Sets Landy](https://3dsets.com/pro
 | Rock Slider A - right       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
 
 # Car Hauler
+
+Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-jumbo-car-hauler/).
 
 ![3D Sets Car Hauler](https://3dsets.com/wp-content/uploads/2022/06/img-599-900x600.jpeg)
 

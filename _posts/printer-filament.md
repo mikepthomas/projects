@@ -27,7 +27,7 @@ This is a list of 3D printer filament I have purchased over the years and how I 
 
 ## Amazon Basics PETG (Red)
 
-This filament was originally brought to upgrade my printer to a Core XY style Hypercube the [Anet Evolution](https://www.thingiverse.com/thing:2786292).
+This filament was originally brought to upgrade my printer to a Core XY style [Hypercube](printer-hypercube).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -75,7 +75,7 @@ This filament was brought to print the parts close to the hotend of [my printer]
 
 ## PrimaValue PLA (Black)
 
-This filament was originally brought to print an [Out of Marbles Marble Machine](https://outofmarbles.com/).
+This filament was originally brought to print the barge boards and turning vanes of the [OpenRC F1 Car](openrc-f1).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                             | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -83,7 +83,7 @@ This filament was originally brought to print an [Out of Marbles Marble Machine]
 
 ## PrimaValue PLA (Blue)
 
-This filament was originally brought to print the body of the [OpenRC F1 Car project](openrc-f1).
+This filament was originally brought to print the body of the [OpenRC F1 Car](openrc-f1).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -107,7 +107,7 @@ This filament was originally brought to print the body of the [Guitar project](g
 
 ## Tinmorry PETG (Black)
 
-This filament was originally brought to upgrade my printer to a Core XY style Hypercube the [Anet Evolution](https://www.thingiverse.com/thing:2786292).
+This filament was originally brought to upgrade my printer to a Core XY style [Hypercube](printer-hypercube).
 
 |                            Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -147,7 +147,7 @@ This filament was originally brought to print the walls of the [Red Rocket](red-
 
 ## Ziro PLA (Black)
 
-This filament was originally brought to print the barge boards and turning vanes of the [OpenRC F1 Car](openrc-f1).
+This filament was originally brought to print an [Out of Marbles Marble Machine](marble-machine).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -155,7 +155,7 @@ This filament was originally brought to print the barge boards and turning vanes
 
 ## Ziro PLA (Yellow)
 
-This filament was originally brought to print an [Out of Marbles Marble Machine](https://outofmarbles.com/).
+This filament was originally brought to print an [Out of Marbles Marble Machine](marble-machine).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                        | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -285,7 +285,7 @@ This filament will be used to print some of the accent parts for the [Voron 0.2]
 
 ## eSun ABS+ (Silver)
 
-This filament was originally brought to print the frame on a [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-jumbo-car-hauler/).
+This filament was originally brought to print the frame on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
 
 |                            Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -301,7 +301,7 @@ This filament was originally brought to print the [3D LabPrint Piper Cub](3d-lab
 
 ## eSun PLA (Wood)
 
-This filament was originally brought to print the wood panels on a [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-jumbo-car-hauler/).
+This filament was originally brought to print the wood panels on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                               | Avg Cost | KGs Purchased | Notes                                                                       |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
