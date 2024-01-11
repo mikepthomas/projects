@@ -1,7 +1,7 @@
 ---
 title: 3D Printer Filament
 date: 2022-01-22
-lastmod: 2023-08-10
+lastmod: 2024-01-11T20:44:44.073Z
 author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -178,6 +178,8 @@ This filament was originally brought to print the main parts for my [Voron 1.8](
 | ![#0E0F12](https://via.placeholder.com/13/0E0F12/0E0F12.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07FQ5MC78) | £16.33   | 5             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
 
 ## eSun ABS+ (Blue)
+
+This filament will be used to print the accent parts for the [AM8 Switchwire](printer-am8).
 
 |                            Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                         | Purchased From                                | Avg Cost | KGs Purchased | Notes                                                                       |
 | :----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |

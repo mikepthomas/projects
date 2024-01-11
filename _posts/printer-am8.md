@@ -1,13 +1,14 @@
 ---
 title: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
-lastmod: 2023-11-12
+lastmod: 2024-01-11T20:44:44.073Z
 author: Mike Thomas
 description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire Mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
 slug: /projects/printer-am8
 related:
   - /projects/printer-hypercube
+  - /projects/enraged-rabbit-carrot-feeder-1.1
 draft: false
 tags:
   - Anet A8
@@ -25,7 +26,7 @@ The [AM8](https://www.thingiverse.com/thing:2263216) is a drop in replacement fo
 
 # Frame
 
-Since upgrading to SuperSlicer, I have pushed my printing speeds to the limit of what stock Anet A8 acrylic frame can cope with.
+Since upgrading to PrusaSlicer, I have pushed my printing speeds to the limit of what stock Anet A8 acrylic frame can cope with.
 
 I have [stiffened the frame as much as I can with 3D printed upgrades](printer-printed-upgrades#frame-bracing) however, the frame really could do with a metal frame to print faster.
 
@@ -37,9 +38,9 @@ After purchasing the frame, I found a [project on Reddit](https://www.reddit.com
 
 # Software
 
-I have purchased an SKR 1.4 to run the printer as I will be using the Anet A8's SKR 1.4 Turbo for the [Voron 1.8](printer-voron-1.8).
+I have an extra SKR Pico that I received when I purchased a Formbot [Voron 0.2](printer-voron-0.2) kit.
 
-It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the [Marlin configuration](https://github.com/mikepthomas/Marlin/tree/2.1.x-Anet-SKR-1.4) that I currently use is not set up to use the CoreXZ kinematics the AM8 Switchwire uses. The SKR 1.4 has 5 stepper motors which will be enough to run the 2 XZ stepper motors, the Y Stepper and eventually [2 M4 extruders](printer-voron-1.8-mods#voron-m4) which will be left over when I have built the [ERCF](enraged-rabbit-carrot-feeder-1.1).
+It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the Pico does not support Marlin. The SKR Pico has 4 integrated stepper motors which will be enough to run the 2 XZ stepper motors, the Y Stepper and the Extuder.
 
 # Sourcing Parts
 
@@ -88,14 +89,81 @@ It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the [M
 
 ## AM8 Switchwire
 
+I have chosen Blue as the accent colour to match the printed parts that I inherited when I purchased an already built [Enraged Rabbit Carrot Feeder](/projects/enraged-rabbit-carrot-feeder-1.1) which will be rebuilt into a 6 channel so that it will fit on the top of this printer.
+
 ### Accessories
 
-I will probably skip these and use right angle M6 threaded hole brackets to mount some rubber compressor feet that are used in the original Switchwire.
+I will probably skip printing the TPU feet and use [right angle M6 threaded hole brackets](https://www.aliexpress.com/item/1005001608610023.html) to mount some rubber compressor feet that are used on the original Switchwire.
 
-| Item                                                                                                                  | Quantity | Material                                            | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | :-----: | ----- |
-| [Foot Left](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Left%202x.stl)   | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black) |   :x:   |       |
-| [Foot Right](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Right%202x.stl) | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black) |   :x:   |       |
+| Item                                                                                                                                                                | Quantity | Material                                             | Printed | Notes                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------------------------------------------------ |
+| [2020 Cable Clip](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/2020%20Cable%20Clip.stl)                                        | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                                        |
+| [Foot Left](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Left%202x.stl)                                                 | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not Required if using Switchwire compressor feet       |
+| [Foot Right](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Right%202x.stl)                                               | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not Required if using Switchwire compressor feet       |
+| [Lightweight LM8UU Bearing Block](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Lightweight%20LM8UU%20Bearing%20Block%207x.stl) | 7        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required when using stock aluminium bearing blocks |
+| [Printhead Cable Duct](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Printhead%20Cable%20Duct.stl)                              | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |                                                        |
+| [LCD Controller Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/%5BA%5D%20LCD%20Controller%20Mount.stl)                    | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |                                                        |
+
+### Electronics
+
+| Item                                                                                                                                                  | Quantity | Material                                             | Printed | Notes                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------------------------------------------------------------------------------------------------------ |
+| [MeanWell LRS-350-24 Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Electronics/MeanWell%20LRS-350-24%20Mount%202x.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Version for Meanwell LRS-320-24, will probably use [stock AM8 version](printer-am8#electronics-housing)      |
+| [skr_pico_mount_v2](https://www.printables.com/model/244991-ender-3-skr-pico-mount-for-voron-switchwire-conver/files)                                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | This is a remix by [thomasfjen](https://www.printables.com/social/222021-thomasfjen), 1 for Pico & 1 for RPi |
+
+### XZ Axis
+
+| Item                                                                                                                                                                           | Quantity | Material                                             | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | :-----: | ----- |
+| [XZ Idler Pulley Mount Left A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Idler%20Pulley%20Mount%20Left%20A.stl)                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Idler Pulley Mount Right A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Idler%20Pulley%20Mount%20Right%20A.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Joint Left A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Left%20A.stl)                                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Joint Left B with Z Endstop Screw](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Left%20B%20with%20Z%20Endstop%20Screw.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Joint Right A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Right%20A.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Joint Right B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Right%20B.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Motor Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/X_Z%20Motor%20Mount%202x.stl)                                                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Z Rod Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Z%20Rod%20Mount%204x.stl)                                                        | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [XZ Idler Pulley Mount Left B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20XZ%20Idler%20Pulley%20Mount%20Left%20B.stl)           | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |       |
+| [XZ Idler Pulley Mount Right B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20XZ%20Idler%20Pulley%20Mount%20Right%20B.stl)         | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |       |
+| [Z Endstop Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20Z%20Endstop%20Mount.stl)                                           | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |       |
+
+#### Printhead
+
+##### Anet A8
+
+| Item                                                                                                                                                              | Quantity | Material                                             | Printed | Notes        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------ |
+| [Belt Clamp Body](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/Belt%20Clamp%20Body.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [Belt Clamp Lid](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/Belt%20Clamp%20Lid%202x.stl)                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [X Rod Mount](<https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/%5BA%5D%20X%20Rod%20Mount%20(45mm)%202x.stl>) | 2        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   | 45mm version |
+
+##### Voron Afterburner
+
+| Item                                                                                                                                                                                        | Quantity | Material                                             | Printed | Notes        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------ |
+| [Belt Clamp Body](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/Belt%20Clamp%20Body.stl)                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [Belt Clamp Lid](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/Belt%20Clamp%20Lid%202x.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [PL-08N Probe Bracket](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/PL-08N%20Probe%20Bracket%201x.stl)                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [VORON Afterburner Adapter Left](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/VORON%20Afterburner%20Adapter%20Left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [VORON Afterburner Adapter Right](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/VORON%20Afterburner%20Adapter%20Right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |              |
+| [X Rod Mount](<https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/VORON%20Afterburner/%5BA%5D%20X%20Rod%20Mount%20(40mm)%202x.stl>)                 | 2        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   | 40mm version |
+
+### Y Axis
+
+| Item                                                                                                                                            | Quantity | Material                                             | Printed | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ----- |
+| [Belt Clamp](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Belt%20Clamp.stl)                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Y Idler Pulley Mount A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Idler%20Pulley%20Mount%20A.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Y Idler Pulley Mount B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Idler%20Pulley%20Mount%20B.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Y Motor Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Motor%20Mount.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Y Rod Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Rod%20Mount%203x.stl)                          | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [Y Rod Mount with Endstop](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Rod%20Mount%20with%20Endstop.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+
+## Original AM8 Parts
+
+The AM8 thingyverse page provides [a nice build guide with the order of assembly](https://cdn.thingiverse.com/assets/18/96/c9/fc/38/Build_Guide.pdf).
+
+These parts are to convert to more standard Anet A8 kinematics and are mainly remixes for the original AM8. I will not be printing these parts unless I have issues with the Switchwire mod.
 
 ### Bottom Frame
 
@@ -105,71 +173,6 @@ I will probably skip these and use right angle M6 threaded hole brackets to moun
 | [Bottom_Tee_Plate](https://www.thingiverse.com/thing:2263216/files)               | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                                                     |
 | [Bottom_Tee_Plate_Chain_Adapter](https://www.thingiverse.com/thing:2472832/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Celphor](https://www.thingiverse.com/Celphor)   |
 | [Z_Corner_Bracket](https://www.thingiverse.com/thing:2577774/files)               | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [mariob92](https://www.thingiverse.com/mariob92) |
-
-### Electronics
-
-| Item                                                                                                                  | Quantity | Material                                                                | Printed | Notes                                                                                |
-| --------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ------------------------------------------------------------------------------------ |
-| [PSU_Mount](https://www.thingiverse.com/thing:2430529/files)                                                          | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [dziliak](https://www.thingiverse.com/dziliak)                    |
-| [skr_1.4_mount](https://www.printables.com/model/349157-skr-14-turbo-2020-bracket/files)                              | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [adp97](https://www.printables.com/social/52844-adp97n)           |
-| [skr_pico_mount_v2](https://www.printables.com/model/244991-ender-3-skr-pico-mount-for-voron-switchwire-conver/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [thomasfjen](https://www.printables.com/social/222021-thomasfjen) |
-
-### XZ Axis
-
-| Item                                                                                                                                                                           | Quantity | Material                                                                | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | :-----: | ----- |
-| [XZ Idler Pulley Mount Left A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Idler%20Pulley%20Mount%20Left%20A.stl)                     | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Idler Pulley Mount Right A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Idler%20Pulley%20Mount%20Right%20A.stl)                   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Joint Left A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Left%20A.stl)                                                   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Joint Left B with Z Endstop Screw](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Left%20B%20with%20Z%20Endstop%20Screw.stl) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Joint Right A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Right%20A.stl)                                                 | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Joint Right B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/XZ%20Joint%20Right%20B.stl)                                                 | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Motor Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/X_Z%20Motor%20Mount%202x.stl)                                                 | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Z Rod Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Z%20Rod%20Mount%204x.stl)                                                        | 4        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Idler Pulley Mount Left B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20XZ%20Idler%20Pulley%20Mount%20Left%20B.stl)           | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [XZ Idler Pulley Mount Right B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20XZ%20Idler%20Pulley%20Mount%20Right%20B.stl)         | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Z Endstop Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/%5BA%5D%20Z%20Endstop%20Mount.stl)                                           | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-
-#### Printhead
-
-| Item                                                                                                                                                              | Quantity | Material                                                                | Printed | Notes        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ------------ |
-| [Belt Clamp Body](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/Belt%20Clamp%20Body.stl)                   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |              |
-| [Belt Clamp Lid](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/Belt%20Clamp%20Lid%202x.stl)                | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |              |
-| [X Rod Mount](<https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/XZ%20Axis/Printheads/Anet%20A8/%5BA%5D%20X%20Rod%20Mount%20(45mm)%202x.stl>) | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | 45mm version |
-
-### Y Axis
-
-| Item                                                                                                                                            | Quantity | Material                                                                | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ----- |
-| [Belt Clamp](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Belt%20Clamp.stl)                                   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Y Idler Pulley Mount A](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Idler%20Pulley%20Mount%20A.stl)     | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Y Idler Pulley Mount B](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Idler%20Pulley%20Mount%20B.stl)     | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Y Motor Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Motor%20Mount.stl)                           | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Y Rod Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Rod%20Mount%203x.stl)                          | 3        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-| [Y Rod Mount with Endstop](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Y%20Axis/Y%20Rod%20Mount%20with%20Endstop.stl) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |       |
-
-### Extras
-
-| Item                                                                            | Quantity | Material                                                                | Printed | Notes                                                                         |
-| ------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ----------------------------------------------------------------------------- |
-| [2040_End_Cap](https://www.thingiverse.com/thing:2396127/files)                 | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Reediculous](https://www.thingiverse.com/Reediculous)     |
-| [front_right_corner_with_logo](https://www.thingiverse.com/thing:2449095/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [jaseatwey](https://www.thingiverse.com/jaseatwey)         |
-| [LED_Strip_Clip](https://www.thingiverse.com/thing:2797157/files)               | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [AUREL_14](https://www.thingiverse.com/AUREL_14)           |
-| [LED_Strip_Holder](https://www.thingiverse.com/thing:2797157/files)             | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [AUREL_14](https://www.thingiverse.com/AUREL_14)           |
-| [Power_Supply_Cover](https://www.thingiverse.com/thing:2744900/files)           | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [thorinair](https://www.thingiverse.com/thorinair)         |
-| [t_slot_cover](https://www.thingiverse.com/thing:2449095/files)                 | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [jaseatwey](https://www.thingiverse.com/jaseatwey)         |
-| [TL_Smoother_mount](https://www.thingiverse.com/thing:3194074/files)            | 5        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Doublehelix88](https://www.thingiverse.com/Doublehelix88) |
-| [Tool_Caddy](https://www.thingiverse.com/thing:2441957/files)                   | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [kayOs](https://www.thingiverse.com/kayOs)                 |
-| [Tool_Holder](https://www.thingiverse.com/thing:2764362/files)                  | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [zimonkaizoku](https://www.thingiverse.com/zimonkaizoku)   |
-
-**_NOTE:_** Colours are provisional, I will probably add in Black as an accent colour for some parts.
-
-## Original AM8 Parts
-
-The AM8 thingyverse page provides [a nice build guide with the order of assembly](https://cdn.thingiverse.com/assets/18/96/c9/fc/38/Build_Guide.pdf).
-
-These parts are to convert to more standard Anet A8 kinematics and are mainly remixes for the original AM8. I will not be printing these parts unless I have issues with the Switchwire mod.
 
 ### Y Axis
 
@@ -196,6 +199,13 @@ These parts are to convert to more standard Anet A8 kinematics and are mainly re
 
 ### Electronics Housing
 
+These are for upgraded PSU and SKR 1.4 Mainboard
+
+| Item                                                                                     | Quantity | Material                                                                | Printed | Notes                                                                      |
+| ---------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------- |
+| [PSU_Mount](https://www.thingiverse.com/thing:2430529/files)                             | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [dziliak](https://www.thingiverse.com/dziliak)          |
+| [skr_1.4_mount](https://www.printables.com/model/349157-skr-14-turbo-2020-bracket/files) | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [adp97](https://www.printables.com/social/52844-adp97n) |
+
 These are for the original Anet A8 Mainboard.
 
 | Item                                                                   | Quantity | Material                                                                | Printed | Notes                                                                         |
@@ -219,3 +229,17 @@ These are for the upgraded screen from an Anet A6.
 | [LCD_Cover_Front](https://www.thingiverse.com/thing:4943812/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [eat_sleep_make_repeat](https://www.thingiverse.com/eat_sleep_make_repeat) |
 | [LCD_Cover_SD](https://www.thingiverse.com/thing:4943812/files)    | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [eat_sleep_make_repeat](https://www.thingiverse.com/eat_sleep_make_repeat) |
 | [LCD_Cover_USB](https://www.thingiverse.com/thing:4943812/files)   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [eat_sleep_make_repeat](https://www.thingiverse.com/eat_sleep_make_repeat) |
+
+### Extras
+
+| Item                                                                            | Quantity | Material                                                                | Printed | Notes                                                                         |
+| ------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ----------------------------------------------------------------------------- |
+| [2040_End_Cap](https://www.thingiverse.com/thing:2396127/files)                 | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Reediculous](https://www.thingiverse.com/Reediculous)     |
+| [front_right_corner_with_logo](https://www.thingiverse.com/thing:2449095/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [jaseatwey](https://www.thingiverse.com/jaseatwey)         |
+| [LED_Strip_Clip](https://www.thingiverse.com/thing:2797157/files)               | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [AUREL_14](https://www.thingiverse.com/AUREL_14)           |
+| [LED_Strip_Holder](https://www.thingiverse.com/thing:2797157/files)             | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [AUREL_14](https://www.thingiverse.com/AUREL_14)           |
+| [Power_Supply_Cover](https://www.thingiverse.com/thing:2744900/files)           | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [thorinair](https://www.thingiverse.com/thorinair)         |
+| [t_slot_cover](https://www.thingiverse.com/thing:2449095/files)                 | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [jaseatwey](https://www.thingiverse.com/jaseatwey)         |
+| [TL_Smoother_mount](https://www.thingiverse.com/thing:3194074/files)            | 5        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Doublehelix88](https://www.thingiverse.com/Doublehelix88) |
+| [Tool_Caddy](https://www.thingiverse.com/thing:2441957/files)                   | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [kayOs](https://www.thingiverse.com/kayOs)                 |
+| [Tool_Holder](https://www.thingiverse.com/thing:2764362/files)                  | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [zimonkaizoku](https://www.thingiverse.com/zimonkaizoku)   |
