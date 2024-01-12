@@ -1,7 +1,7 @@
 ---
 title: Creating a Printed Circuit Board to control fans in Klipper
 date: 2023-03-21
-lastmod: 2023-12-11
+lastmod: 2024-01-12T18:06:23.345Z
 author: Mike Thomas
 description: Creating a Raspberry Pi Hat to control additional fans using the Raspberry Pi as a Secondary MCU in Klipper Firmware.
 preview: /assets/blog/printer-klipper-fan-hat/klipper-fan-hat-hero.jpg
@@ -76,7 +76,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | 3 Pin JST-XH Header               | 1        | 20                 | J4                              |
 | 4 Pin JST-XH Header               | 1        | 20                 | J3                              |
 | 5 Pin JST-XH Header               | 1        | 20                 | J2                              |
-| 40 Pin Raspberry Pi Header        | 1        | 5                  | J8                              |
+| 40 Pin Raspberry Pi Header        | 1        | 7                  | J8                              |
 | Dupont Pin Headers                | 41 Pins  | 10 x 40 pin strips | J7, JP1-JP5, WP1, GPIO20-GPIO25 |
 | Jumper Cap 2.54mm                 | 6        | 109                | JP1-JP5, WP1                    |
 | KF301 Screw Terminal (5mm pitch)  | 1        | 10                 | J1                              |
@@ -93,7 +93,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | 4.7kΩ Resistor (1206 Package)           | 7        | 103      | R4, R17-R22            |
 | 10kΩ Resistor (1206 Package)            | 5        | 111      | R8, R10, R12, R14, R16 |
 | LED Red (1206 Package)                  | 7        | 105      | D1-D7                  |
-| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 50       | Q1-Q5                  |
+| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 50       | 50 on order, Q1-Q5     |
 
 ## Misc
 
