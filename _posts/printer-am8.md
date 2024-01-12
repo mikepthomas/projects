@@ -1,7 +1,7 @@
 ---
 title: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
-lastmod: 2024-01-11T20:44:44.073Z
+lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas
 description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire Mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
@@ -243,3 +243,14 @@ These are for the upgraded screen from an Anet A6.
 | [TL_Smoother_mount](https://www.thingiverse.com/thing:3194074/files)            | 5        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Doublehelix88](https://www.thingiverse.com/Doublehelix88) |
 | [Tool_Caddy](https://www.thingiverse.com/thing:2441957/files)                   | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [kayOs](https://www.thingiverse.com/kayOs)                 |
 | [Tool_Holder](https://www.thingiverse.com/thing:2764362/files)                  | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [zimonkaizoku](https://www.thingiverse.com/zimonkaizoku)   |
+
+## Smart Filament Sensor Mount
+
+Mount for the BigTreeTech Smart filment sensor V1.0 that I already have. There are two different mounts, one vertical and one horizontal.
+
+| Item                                                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
+| [BTT_Sensor_Mount_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_A.stl) | 2        |                                                      |       |        |       |        :x:         | This is a Voron Users Mod by Empusas |
+| [BTT_Sensor_Mount_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_B.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.71m | 9.46g  | £0.18 | :heavy_check_mark: | This is a Voron Users Mod by Empusas |
+
+I have printed the 'B' mounts as I am planning on mounting 2 of them, 1 on the top of each upright extrusion along with an [M4 extruder](printer-voron-1.8-mods#voron-m4) on each side. I have had to mirror one part along the Y axis when importing to the slicer as I want a mirrored version for opposite sides of the printer.

@@ -1,7 +1,7 @@
 ---
 title: Voron Modifications and Upgrades
 date: 2022-04-27
-lastmod: 2024-01-09T18:23:18.840Z
+lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
@@ -142,23 +142,21 @@ Cleans the nozzle before printing and has endstops to locate the magnetic bed.
 
 ## Smart Filament Sensor Mount
 
-Mount for the BigTreeTech Smart filment sensor that I already have. There are two different mounts, one vertical and one horizontal.
+Mount for the BigTreeTech Smart filment sensor V2.
 
-| Item                                                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
-| [BTT_Sensor_Mount_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_A.stl) | 2        |                                                      |       |        |       |        :x:         | This is a Voron Users Mod by Empusas |
-| [BTT_Sensor_Mount_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_B.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.71m | 9.46g  | £0.18 | :heavy_check_mark: | This is a Voron Users Mod by Empusas |
+| Item                                                           | Quantity | Material | Size | Weight | Cost | Printed | Notes                                                                           |
+| -------------------------------------------------------------- | -------- | -------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| [btt_sfs_mount](https://www.printables.com/model/673702/files) | 2        |          |      |        |      |   :x:   | This is a Mod by [Lecso](https://www.printables.com/@Lecso_113752). 6mm version |
 
 ### :negative_squared_cross_mark: Assembly
 
-I have printed the 'B' mounts as I am planning on mounting them on the top rear extrusion just before the bowden enters the Exhaust Filter. I have had to mirror the part along the Y axis when importing as I want the bowden to be as close to inline of the [Side Entry Exhaust Filter](#exhaust-mount-side-entry).
-
 #### Parts Used
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| M3 Hammer Head T-nuts | 2        |
-| M3x8 SHCS             | 2        |
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| BigTreeTech Smart Filament Sensor V2 | 2        |
+| M3 Hammer Head T-nuts                | 4        |
+| M3x8 SHCS                            | 4        |
 
 ## Magnetic Grill Cover
 

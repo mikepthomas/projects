@@ -1,7 +1,7 @@
 ---
 title: Assembling my first Voron printer
 date: 2022-02-17
-lastmod: 2023-12-02
+lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
@@ -151,34 +151,35 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 ![An LDO Motors V1/2 HT Motor Kit](/assets/blog/printer-voron-1.8/ldo-motors.jpg)
 
-| Item                               | Quantity | Received | Notes                                                                                                                                    |
-| ---------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| NEMA17 Motor 17HS19-2004S          | 2        | 2        | Ordered some [larger ones than that are in the LDO Voron V1/V2 HT Motor Kit](https://www.onetwo3d.co.uk/product/ldo-42sth48-2004mahvrn/) |
-| SPDT KW10 Limit Micro Switch       | 3        | 30       |                                                                                                                                          |
-| PL-08N Inductive Probe             | 1        | 1        | Purchased an Omron TL-Q5MC2. Going to replace with [Klicky Probe](printer-voron-1.8-mods#klicky-probe)                                   |
-| E3D V6 Bowden Hotend Kit (24V)     | 1        | 1        |                                                                                                                                          |
-| 40x40x20 Centrifugal Fan (24V)     | 1        | 1        |                                                                                                                                          |
-| 40x40x10 Axial Fan (24V)           | 1        | 1        |                                                                                                                                          |
-| 50x50x15 Centrifugal Fan (24V)     | 1        | 1        | For Stealthburner                                                                                                                        |
-| Mini 12864 Display                 | 1        | 1        |                                                                                                                                          |
-| Inlet Power Socket IEC320 C14      | 1        | 1        |                                                                                                                                          |
-| Keystone CAT6 Insert (Optional)    | 1        | 2        | 1 Ethernet and 1 USB                                                                                                                     |
-| 60x60x20 Fan (24V)                 | 2        | 2        |                                                                                                                                          |
-| SKR 1.4                            | 1        | 1        | I have the Turbo version                                                                                                                 |
-| TMC2209 Stepper Motor Driver       | 5        | 5        |                                                                                                                                          |
-| USB Cable A-male B-male            | 1        | 1        |                                                                                                                                          |
-| Raspberry Pi 4                     | 1        | 1        | 4GB RAM Version                                                                                                                          |
-| Mean Well LRS-200-24 PSU           | 1        | 1        |                                                                                                                                          |
-| Mean Well RS-25-5 PSU              | 1        | 1        |                                                                                                                                          |
-| Omron G3A-210B-DC5 SSR             | 1        | 1        |                                                                                                                                          |
-| DIN Rail Mount Bracket for G3A SSR | 1        | 1        |                                                                                                                                          |
-| BAT85 Diode                        | 1        | 7        | I have purched the ERCF toolhead board which has the BAT85 Diode integrated.                                                             |
-| C13 Power Cord                     | 1        | 3        |                                                                                                                                          |
-| Thermal Fuse (120C)                | 1        | 5        |                                                                                                                                          |
-| NEMA17 Motor 17HS08-1004S          | 1        | 1        | In LDO Voron V1/V2 HT Motor Kit                                                                                                          |
-| NEMA17 TR8x4 300mm Linear Stepper  | 2        | 2        | In LDO V1 Z Motor Kit                                                                                                                    |
-| ERCF Afterburner Tool-Head PCB     | 1        | 1        |                                                                                                                                          |
-| NeoPixel RGBW Mini Button PCB      | 3        | 3        | For Stealthburner                                                                                                                        |
+| Item                                 | Quantity | Received | Notes                                                                                                                                    |
+| ------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| NEMA17 Motor 17HS19-2004S            | 2        | 2        | Ordered some [larger ones than that are in the LDO Voron V1/V2 HT Motor Kit](https://www.onetwo3d.co.uk/product/ldo-42sth48-2004mahvrn/) |
+| SPDT KW10 Limit Micro Switch         | 3        | 30       |                                                                                                                                          |
+| PL-08N Inductive Probe               | 1        | 1        | Purchased an Omron TL-Q5MC2. Going to replace with [Klicky Probe](printer-voron-1.8-mods#klicky-probe)                                   |
+| E3D V6 Bowden Hotend Kit (24V)       | 1        | 1        |                                                                                                                                          |
+| 40x40x20 Centrifugal Fan (24V)       | 1        | 1        |                                                                                                                                          |
+| 40x40x10 Axial Fan (24V)             | 1        | 1        |                                                                                                                                          |
+| 50x50x15 Centrifugal Fan (24V)       | 1        | 1        | For Stealthburner                                                                                                                        |
+| Mini 12864 Display                   | 1        | 1        |                                                                                                                                          |
+| Inlet Power Socket IEC320 C14        | 1        | 1        |                                                                                                                                          |
+| Keystone CAT6 Insert (Optional)      | 1        | 2        | 1 Ethernet and 1 USB                                                                                                                     |
+| 60x60x20 Fan (24V)                   | 2        | 2        |                                                                                                                                          |
+| BigTreeTech SKR 1.4                  | 1        | 1        | I have the Turbo version                                                                                                                 |
+| TMC2209 Stepper Motor Driver         | 5        | 5        |                                                                                                                                          |
+| USB Cable A-male B-male              | 1        | 1        |                                                                                                                                          |
+| Raspberry Pi 4                       | 1        | 1        | 4GB RAM Version                                                                                                                          |
+| Mean Well LRS-200-24 PSU             | 1        | 1        |                                                                                                                                          |
+| Mean Well RS-25-5 PSU                | 1        | 1        |                                                                                                                                          |
+| Omron G3A-210B-DC5 SSR               | 1        | 1        |                                                                                                                                          |
+| DIN Rail Mount Bracket for G3A SSR   | 1        | 1        |                                                                                                                                          |
+| BAT85 Diode                          | 1        | 7        | I have purched the ERCF toolhead board which has the BAT85 Diode integrated.                                                             |
+| C13 Power Cord                       | 1        | 3        |                                                                                                                                          |
+| Thermal Fuse (120C)                  | 1        | 5        |                                                                                                                                          |
+| NEMA17 Motor 17HS08-1004S            | 1        | 1        | In LDO Voron V1/V2 HT Motor Kit                                                                                                          |
+| NEMA17 TR8x4 300mm Linear Stepper    | 2        | 2        | In LDO V1 Z Motor Kit                                                                                                                    |
+| ERCF Afterburner Tool-Head PCB       | 1        | 1        |                                                                                                                                          |
+| NeoPixel RGBW Mini Button PCB        | 3        | 3        | For Stealthburner                                                                                                                        |
+| BigTreeTech Smart Filament Sensor V2 | 2        |          | 2 on order                                                                                                                               |
 
 ## Panels
 
