@@ -1,7 +1,7 @@
 ---
 title: 3D Printer Filament
 date: 2022-01-22
-lastmod: 2024-01-11T20:44:44.073Z
+lastmod: 2024-01-12T17:36:08.845Z
 author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -123,7 +123,7 @@ This filament was originally brought to upgrade the parts near the hotend and be
 
 ## Tinmorry PLA (Black)
 
-This filament was originally brought to print a [box insert](https://www.thingiverse.com/thing:3197502) for the game [Fallout: Wasteland Warfare](https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-two-player-starter-set).
+This filament was originally brought to print a [box insert](red-rocket#box-insert) for the game [Fallout: Wasteland Warfare](https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-two-player-starter-set).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -306,6 +306,14 @@ This filament was originally brought to print the wood panels on a [3D Sets Car 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                               | Avg Cost | KGs Purchased | Notes                                                                       |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
 | ![#D7AE74](https://via.placeholder.com/13/D7AE74/D7AE74.png) | 215 (1st Layer) 210 (Others) | 60       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%PLA%2B%20(Wood).ini>) | [3D Jake](https://www.3djake.uk/esun/wood-2) | £27.98   | 0.5           | [Datasheet](https://www.esun3d.com/uploads/eSUN_Wood-Filament_TDS_V4.0.pdf) |
+
+# Filament Clips
+
+Going Forward, the first print I will be making when opening a new spool of filament is the [K2 Filament Clip](https://www.printables.com/model/292793), this should help the filament not get tangled on the spool and floats on spool while printing, so that it will not get lost.
+
+| Item                                                     | Quantity    | Material                                   | Printed | Notes           |
+| -------------------------------------------------------- | ----------- | ------------------------------------------ | :-----: | --------------- |
+| [K2_Clip](https://www.printables.com/model/292793/files) | 1 per spool | Same as spool of filament I am using it on |   :x:   | Locking version |
 
 # In Summary
 

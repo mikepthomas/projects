@@ -1,7 +1,7 @@
 ---
 title: Out of Marbles, Marble Machine
 date: 2020-11-03
-lastmod: 2023-12-27T14:43:15.545Z
+lastmod: 2024-01-12T16:57:44.644Z
 author: Mike Thomas
 description: Printing a Marble Machine
 preview: /assets/blog/marble-machine/marble-machine-hero.jpg
@@ -63,3 +63,12 @@ All parts were sourced from the [Official Motorized Hardware Kit](https://outofm
 | Base           | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)   | :heavy_check_mark: |       |
 | Top            | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
 | Triple Twister | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
+
+# Circular Marble Tray
+
+| Item                                                               | Quantity | Material                                            | Printed | Notes |
+| ------------------------------------------------------------------ | -------- | --------------------------------------------------- | :-----: | ----- |
+| [Marble_Tray](https://www.thingiverse.com/thing:5135034/files)     | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black) |   :x:   |       |
+| [Marble_Tray_Lid](https://www.thingiverse.com/thing:5135034/files) | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-Black) |   :x:   |       |
+
+**_NOTE:_** Coloured Text can be achieved by making a Filament Change (M600) at layer 7.

@@ -1,7 +1,7 @@
 ---
 title: 3D Printing the Red Rocket Truck Stop
 date: 2021-04-12
-lastmod: 2023-07-19
+lastmod: 2024-01-12T16:51:09.498Z
 author: Mike Thomas
 description: How I built the Red Rocket Truck Stop from Fallout 4.
 preview: /assets/blog/red-rocket/red-rocket-hero.jpg
@@ -141,3 +141,23 @@ keywords:
 This was printed for the Wargame [Fallout: Wasteland Warfare by Modiphius](https://www.modiphius.net/pages/fallout-wasteland-warfare).
 
 You can [purchase the STLs and print your own from their website](https://www.modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl).
+
+## Box Insert
+
+| Item                                                                      | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Big_Cards](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Small_Cards](https://www.thingiverse.com/thing:3197502/files)            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Deathclaw](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3](https://www.thingiverse.com/thing:3197502/files)                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3-Lid](https://www.thingiverse.com/thing:3197502/files)             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token4](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Dice](https://www.thingiverse.com/thing:3197502/files)                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal](https://www.thingiverse.com/thing:3197502/files)      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40Horizontal](https://www.thingiverse.com/thing:3197502/files)       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |

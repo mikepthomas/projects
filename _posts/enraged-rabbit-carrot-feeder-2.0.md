@@ -1,7 +1,7 @@
 ---
 title: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-01-09T18:07:16.693Z
+lastmod: 2024-01-12T17:43:41.722Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -24,6 +24,8 @@ keywords:
 Building a the second version of the [Enraged Rabbit Carrot Feeder](https://github.com/Enraged-Rabbit-Community/ERCF_v2) to print using multiple colours of filament on the Voron.
 
 # Enraged Rabbit Carrot Feeder
+
+For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Happy-Hare/blob/main/doc/ercf_v2.md) and there is also a fork of KlipperScreen, [KlipperScreen Happy Hare Edition](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition).
 
 ## Sourcing Parts
 

@@ -1,7 +1,7 @@
 ---
 title: Printed Toys and Knick Knacks
 date: 2018-06-05
-lastmod: 2024-01-07T21:02:48.675Z
+lastmod: 2024-01-12T17:05:34.028Z
 author: Mike Thomas
 description: Small Toys and Knick Knacks that I have printed.
 preview: /assets/blog/knick-knacks/knick-knacks-hero.jpg
@@ -135,3 +135,41 @@ Here you can see the size difference between the giant Lego man and a regular Le
 | [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | :heavy_check_mark: |       |
 | [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
 | [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
+
+# Ikea Skådis Wall Spacers
+
+I have some of these peg boards holding my tools on the wall in my shed, however the stock spacers are too short to reach the wall due to the wooden beams.
+I will need to check the actual distance to the wall before printing.
+
+| Item                                                                               | Quantity | Material                                                 | Printed | Notes        |
+| ---------------------------------------------------------------------------------- | -------- | -------------------------------------------------------- | :-----: | ------------ |
+| [Ikea*Skådis_wall_spacer*-\_50mm](https://www.thingiverse.com/thing:3053161/files) | 2        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural) |   :x:   | 50mm version |
+
+# Dirty Dozen Puzzle
+
+An interesting puzzle that uses 12 of the same pieces to make a cool grid shape. will probably print in eSun ABS+ as I have multiple colours and I think it would look great with each piece in a different colour.
+
+| Item                                                                  | Quantity | Material  | Printed | Notes |
+| --------------------------------------------------------------------- | -------- | --------- | :-----: | ----- |
+| [Dirty_Dozen_Puzzle](https://www.thingiverse.com/thing:3811073/files) | 12       | eSun ABS+ |   :x:   |       |
+
+# Torque Wrench Handle
+
+Small torque wrench to tighten 3D Printer nozzles. There are multiple versions available, But i will probably start with the 2.5Nm version as the notes mention:
+
+> More than about 3Nm is not possible without the bit holder is glued into the rotor, otherwise it would slip.
+
+# Sourcing Parts
+
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Bitholder with Magnet | 1        | 1        |       |
+| Adapter ¼" to ¼"      | 1        | 1        |       |
+
+# Printing Parts
+
+| Item                                                            | Quantity | Material | Printed | Notes         |
+| --------------------------------------------------------------- | -------- | -------- | :-----: | ------------- |
+| [Torque_Cap](https://www.thingiverse.com/thing:2613057/files)   | 1        |          |   :x:   | 2.5Nm version |
+| [Torque_Case](https://www.thingiverse.com/thing:2613057/files)  | 1        |          |   :x:   | 2.5Nm version |
+| [Torque_Rotor](https://www.thingiverse.com/thing:2613057/files) | 1        |          |   :x:   | 2.5Nm version |
