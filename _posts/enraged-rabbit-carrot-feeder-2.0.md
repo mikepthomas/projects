@@ -1,7 +1,7 @@
 ---
 title: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-01-12T17:43:41.722Z
+lastmod: 2024-01-13T12:31:47.160Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -33,49 +33,49 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 | Item                                 | Quantity | Received | Notes             |
 | ------------------------------------ | -------- | -------- | ----------------- |
-| BigTreeTech MMB CAN V1.0             | 1        |          | 1 on order        |
+| BigTreeTech MMB CAN V1.0             | 1        | 1        |                   |
 | NEMA14 Motor 14HS11-1004S            | 1        | 1        | LDO-35STH28-1004A |
 | NEMA17 Motor 17HS08-1004S            | 1        | 1        | LDO-42STH20-1004A |
 | Savox SH-0255MG servo                | 1        | 1        |                   |
-| TMC2209 Stepper drivers              | 2        |          | 4 on order        |
+| TMC2209 Stepper drivers              | 2        | 2        | 2 on order        |
 | Binky Encoder                        | 1        | 1        |                   |
 | Omron D2F-5L or D2F-01L Micro Switch | 1        | 1        |                   |
 | WS2812 LED Strip for ERCF LED Apron  | 8        | 8        | Optional          |
 
 ### Hardware
 
-| Item                      | Quantity | Received | Notes                           |
-| ------------------------- | -------- | -------- | ------------------------------- |
-| 9 sets of bondtechs gears | 9        | 7        |                                 |
-| 2020 T-Slot extrusion     | 1        |          | 239mm for 8 channel, 1 on order |
-| 8mm smooth rods           | 2        | 2        | 237mm for 8 channel             |
-| D-cut 5mm shaft           | 1        | 1        | 256mm for 8 channel             |
-| Drylin RJ4JP-01-08        | 2        | 2        |                                 |
-| V623ZZ or 623ZZ bearing   | 1        | 1        | I already have MR623ZZ          |
-| MR85ZZ bearings           | 6        | 6        |                                 |
+| Item                      | Quantity | Received | Notes                  |
+| ------------------------- | -------- | -------- | ---------------------- |
+| 9 sets of bondtechs gears | 9        | 7        |                        |
+| 2020 T-Slot extrusion     | 1        | 1        | 239mm for 8 channel    |
+| 8mm smooth rods           | 2        | 2        | 237mm for 8 channel    |
+| D-cut 5mm shaft           | 1        | 1        | 256mm for 8 channel    |
+| Drylin RJ4JP-01-08        | 2        | 2        |                        |
+| V623ZZ or 623ZZ bearing   | 1        | 1        | I already have MR623ZZ |
+| MR85ZZ bearings           | 6        | 6        |                        |
 
 ### Fasteners
 
-| Item                   | Quantity | Received | Notes       |
-| ---------------------- | -------- | -------- | ----------- |
-| M2x8 Self-Tapping      | 3        |          | 50 on order |
-| M2x10 SHCS             | 5        | 2        |             |
-| M3 threaded inserts    | 29       | 32       |             |
-| M3x3 set screws        | 8        |          | 50 on order |
-| M3x6 SHCS              | 1        |          |             |
-| M3x8 BHCS              | 5        | 5        |             |
-| M3x8 FHCS              | 4        |          |             |
-| M3x8 SHCS              | 34       | 22       |             |
-| M3x12 SHCS             | 6        | 3        |             |
-| M3x16 SHCS             | 10       | 13       |             |
-| M3x20 SHCS             | 8        | 7        |             |
-| M3x25 SHCS             | 1        |          |             |
-| M3x40 SHCS             | 2        | 2        |             |
-| M3 T-Spring nuts       | 17       |          |             |
-| M3 DIN125 Steel Washer | 2        | 13       |             |
-| M5x30 BHCS             | 2        | 2        |             |
-| M5x16 BHCS             | 1        | 1        |             |
-| M5 nylock nuts         | 3        | 6        |             |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| M2x8 Self-Tapping      | 3        | 51       |       |
+| M2x10 SHCS             | 5        | 2        |       |
+| M3 threaded inserts    | 29       | 32       |       |
+| M3x3 set screws        | 8        | 51       |       |
+| M3x6 SHCS              | 1        |          |       |
+| M3x8 BHCS              | 5        | 5        |       |
+| M3x8 FHCS              | 4        |          |       |
+| M3x8 SHCS              | 34       | 22       |       |
+| M3x12 SHCS             | 6        | 3        |       |
+| M3x16 SHCS             | 10       | 13       |       |
+| M3x20 SHCS             | 8        | 7        |       |
+| M3x25 SHCS             | 1        |          |       |
+| M3x40 SHCS             | 2        | 2        |       |
+| M3 T-Spring nuts       | 17       |          |       |
+| M3 DIN125 Steel Washer | 2        | 13       |       |
+| M5x30 BHCS             | 2        | 2        |       |
+| M5x16 BHCS             | 1        | 1        |       |
+| M5 nylock nuts         | 3        | 6        |       |
 
 ### Motion
 
@@ -92,7 +92,7 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 | ------------------------------------------------ | -------- | -------- | ------------------- |
 | 2.7mm zip ties                                   | 10       |          |                     |
 | 3mm x 2mm Round Neodymium Magnets                | 2        | 50       |                     |
-| 6x15mm compression spring with 1mm wire diameter | 1        |          | 2 on order          |
+| 6x15mm compression spring with 1mm wire diameter | 1        | 2        |                     |
 | 6mm x 3mm Round Neodymium Magnets                | 16       | 23       |                     |
 | 7X7 Drag chain                                   | 1        | 1        | 264mm for 8 channel |
 | Bowden Clip                                      | 10       | 10       | Red                 |
@@ -236,25 +236,25 @@ I have printed the [Filament Sensor](https://github.com/EtteGit/EnragedRabbitPro
 
 ### Fasteners
 
-| Item                | Quantity | Received | Notes       |
-| ------------------- | -------- | -------- | ----------- |
-| M2x8mm Self-Tapping | 16       |          | 50 on order |
-| M3 threaded inserts | 11       | 32       |             |
-| M3x3mm set screws   | 4        |          | 50 on order |
-| M3x8 SHCS           | 37       | 16       |             |
-| M3x16 SHCS          | 8        | 8        |             |
-| M3x25mm SHCS        | 8        |          |             |
-| M3 T-Spring nuts    | 8        |          |             |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| M2x8mm Self-Tapping | 16       | 51       |       |
+| M3 threaded inserts | 11       | 32       |       |
+| M3x3mm set screws   | 4        | 51       |       |
+| M3x8 SHCS           | 37       | 16       |       |
+| M3x16 SHCS          | 8        | 8        |       |
+| M3x25mm SHCS        | 8        |          |       |
+| M3 T-Spring nuts    | 8        |          |       |
 
 ### Misc
 
-| Item                             | Quantity | Received | Notes       |
-| -------------------------------- | -------- | -------- | ----------- |
-| 2.7mm zip ties                   | 4        |          |             |
-| 5.5 mm ball bearing              | 8        |          | 50 on order |
-| Bowden Clip                      | 16       | 16       |             |
-| Bowden Fitting                   | 16       | 16       |             |
-| PTFE Tube (4mm OD 3mm ID) - 30cm | 400mm    | 6m       |             |
+| Item                             | Quantity | Received | Notes |
+| -------------------------------- | -------- | -------- | ----- |
+| 2.7mm zip ties                   | 4        |          |       |
+| 5.5 mm ball bearing              | 8        | 53       |       |
+| Bowden Clip                      | 16       | 16       |       |
+| Bowden Fitting                   | 16       | 16       |       |
+| PTFE Tube (4mm OD 3mm ID) - 30cm | 400mm    | 6m       |       |
 
 ## Printing Parts
 
