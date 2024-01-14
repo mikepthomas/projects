@@ -1,7 +1,7 @@
 ---
 title: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-01-13T12:31:47.160Z
+lastmod: 2024-01-14T20:56:25.519Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -44,15 +44,15 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Hardware
 
-| Item                      | Quantity | Received | Notes                  |
-| ------------------------- | -------- | -------- | ---------------------- |
-| 9 sets of bondtechs gears | 9        | 7        |                        |
-| 2020 T-Slot extrusion     | 1        | 1        | 239mm for 8 channel    |
-| 8mm smooth rods           | 2        | 2        | 237mm for 8 channel    |
-| D-cut 5mm shaft           | 1        | 1        | 256mm for 8 channel    |
-| Drylin RJ4JP-01-08        | 2        | 2        |                        |
-| V623ZZ or 623ZZ bearing   | 1        | 1        | I already have MR623ZZ |
-| MR85ZZ bearings           | 6        | 6        |                        |
+| Item                      | Quantity | Received | Notes                           |
+| ------------------------- | -------- | -------- | ------------------------------- |
+| 9 sets of bondtechs gears | 9        | 1        | 8 on order                      |
+| 2020 T-Slot extrusion     | 1        | 1        | 239mm for 8 channel             |
+| 8mm smooth rods           | 2        | 2        | 237mm for 8 channel             |
+| D-cut 5mm shaft           | 1        |          | 1 on order, 256mm for 8 channel |
+| Drylin RJ4JP-01-08        | 2        | 2        |                                 |
+| V623ZZ or 623ZZ bearing   | 1        | 1        | I already have MR623ZZ          |
+| MR85ZZ bearings           | 6        | 6        |                                 |
 
 ### Fasteners
 
