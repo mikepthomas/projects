@@ -24,8 +24,8 @@ export default function Post({ post, related }: Props) {
   }
   return (
     <Layout>
+      <Breadcrumbs pageName={post.title} />
       <Container>
-        <Breadcrumbs pageName={post.title} />
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (

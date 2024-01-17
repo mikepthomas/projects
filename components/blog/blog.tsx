@@ -65,10 +65,6 @@ export default function Blog({ content, related }: Props) {
         <Col lg="4">
           <div className={cn(styles['sidebar'], 'position-sticky')}>
             <div className="p-4 mb-3 bg-light rounded">
-              <p>
-                Some projects I am working on and I have planned over the next
-                few <s>months</s> <s>years</s> decades...
-              </p>
               {related.length > 0 ? (
                 <>
                   <h5>Related Content</h5>

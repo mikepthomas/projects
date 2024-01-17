@@ -23,9 +23,12 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import cn from 'classnames';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Link from 'next/link';
 import { Breadcrumb, BreadcrumbItem, Container } from 'reactstrap';
+
+import styles from './breadcrumbs.module.scss';
 import { CMS_NAME } from '../../lib/constants';
 
 type Props = {
@@ -34,9 +37,12 @@ type Props = {
 
 const Breadcrumbs = ({ pageName }: Props) => {
   return (
-    <Container>
-      <nav className="mb-12 pt-20" aria-label="breadcrumb">
-        <Breadcrumb className="p-3 bg-light rounded">
+    <>
+      <nav
+        className={cn(styles['breadcrumbs'], 'position-sticky')}
+        aria-label="breadcrumb"
+      >
+        <Breadcrumb className="p-3 bg-light">
           <BreadcrumbItem>
             <a href="/">
               <FontAwesomeIcon className="mr-2" icon={['fas', 'home']} />
@@ -49,7 +55,7 @@ const Breadcrumbs = ({ pageName }: Props) => {
           <BreadcrumbItem active>{pageName}</BreadcrumbItem>
         </Breadcrumb>
       </nav>
-    </Container>
+    </>
   );
 };
 
