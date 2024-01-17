@@ -67,7 +67,7 @@ I received this filament from a giveaway on [one of Nero 3D's live streams](http
 
 ## PolyTerra Matte PLA (Teal)
 
-This filament was brought to print a protective case and wall mount and plates for [my pi-top [4]](https://www.thingiverse.com/pi-top/designs).
+This filament was brought to print a protective case, wall mount and plates for [my pi-top [4]](https://www.thingiverse.com/pi-top/designs).
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                   | Cost   | KGs Purchased | Notes                                                                  |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------- | ---------------------------------------------------------------------- |
