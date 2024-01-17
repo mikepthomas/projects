@@ -10,11 +10,12 @@ related:
   - /projects/3d-sets-accessories
 draft: false
 tags:
+  - 3D Sets
   - Remote Control
 categories:
   - 3D Printing
 keywords:
-  - 3D Sets Landy
+  - Landy
 ---
 
 # Table of contents

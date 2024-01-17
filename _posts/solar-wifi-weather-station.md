@@ -9,6 +9,7 @@ slug: /projects/solar-wifi-weather-station
 draft: false
 tags:
   - ESPHome
+  - Printed Circuit Board
 categories:
   - Electronics
   - Software

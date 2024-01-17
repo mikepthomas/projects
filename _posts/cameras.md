@@ -8,7 +8,12 @@ preview: /assets/blog/cameras/cameras-hero.jpg
 slug: /projects/cameras
 draft: false
 tags:
+  - Cosina
+  - Kodak
+  - Minolta
   - Nikon
+  - Praktica
+  - Zenith
 categories:
   - Photography
 keywords:

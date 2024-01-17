@@ -8,11 +8,12 @@ preview: /assets/blog/openrc-mini-quad/mini-quad-hero.jpg
 slug: /projects/openrc-mini-quad
 draft: false
 tags:
+  - OpenRC
   - Remote Control
 categories:
   - 3D Printing
 keywords:
-  - OpenRC
+  - Mini Quad
 ---
 
 # Table of contents

@@ -11,6 +11,7 @@ related:
 draft: false
 tags:
   - Anet A8
+  - Multi Material
 categories:
   - 3D Printing
 keywords:

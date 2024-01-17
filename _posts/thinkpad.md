@@ -9,6 +9,7 @@ slug: /projects/thinkpad
 draft: false
 tags:
   - Computers
+  - Raspberry Pi
 categories:
   - Software
 keywords:

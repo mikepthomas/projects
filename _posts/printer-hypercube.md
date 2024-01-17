@@ -10,6 +10,7 @@ related:
   - /projects/printer-am8
 draft: false
 tags:
+  - 3D Printer
   - Anet A8
 categories:
   - 3D Printing

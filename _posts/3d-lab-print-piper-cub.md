@@ -8,6 +8,7 @@ preview: /assets/blog/3d-lab-print-piper-cub/piper-cub-hero.png
 slug: /projects/3d-lab-print-piper-cub
 draft: false
 tags:
+  - 3D LabPrint
   - Remote Control
 categories:
   - 3D Printing

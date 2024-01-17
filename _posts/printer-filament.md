@@ -9,6 +9,7 @@ slug: /projects/printer-filament
 draft: false
 tags:
   - Anet A8
+  - Polyformer
   - Rook
   - Voron
 categories:

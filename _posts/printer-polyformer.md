@@ -10,6 +10,7 @@ related:
   - /projects/printer-filament
 draft: false
 tags:
+  - 3D Printer
   - Polyformer
 categories:
   - 3D Printing

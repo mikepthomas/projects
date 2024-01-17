@@ -8,6 +8,7 @@ preview: /assets/blog/printer-rook/rook-2020-frame.jpg
 slug: /projects/printer-rook
 draft: false
 tags:
+  - 3D Printer
   - Rook
 categories:
   - 3D Printing

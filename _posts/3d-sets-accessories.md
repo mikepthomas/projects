@@ -8,11 +8,12 @@ preview: /assets/blog/3d-sets-accessories/3d-sets-accessories-hero.jpg
 slug: /projects/3d-sets-accessories
 draft: false
 tags:
+  - 3D Sets
   - Remote Control
 categories:
   - 3D Printing
 keywords:
-  - 3D Sets Landy
+  - Landy
 ---
 
 # Table of contents

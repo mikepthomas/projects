@@ -8,6 +8,7 @@ preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
 draft: false
 tags:
+  - 3D Printer
   - Voron
 categories:
   - 3D Printing

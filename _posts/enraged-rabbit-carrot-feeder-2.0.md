@@ -10,6 +10,7 @@ related:
   - /projects/enraged-rabbit-carrot-feeder-1.1
 draft: false
 tags:
+  - Multi Material
   - Voron
 categories:
   - 3D Printing

@@ -8,6 +8,7 @@ preview: /assets/blog/marble-machine/marble-machine-hero.jpg
 slug: /projects/marble-machine
 draft: false
 tags:
+  - Out of Marbles
   - Toys
 categories:
   - 3D Printing

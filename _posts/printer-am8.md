@@ -11,6 +11,7 @@ related:
   - /projects/enraged-rabbit-carrot-feeder-1.1
 draft: false
 tags:
+  - 3D Printer
   - Anet A8
 categories:
   - 3D Printing

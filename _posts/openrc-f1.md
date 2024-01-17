@@ -8,11 +8,12 @@ preview: /assets/blog/openrc-f1/openrc-hero.jpg
 slug: /projects/openrc-f1
 draft: false
 tags:
+  - OpenRC
   - Remote Control
 categories:
   - 3D Printing
 keywords:
-  - OpenRC
+  - F1
 ---
 
 # Table of contents

@@ -8,11 +8,12 @@ preview: /assets/blog/openrc-truggy/truggy-hero.jpg
 slug: /projects/openrc-truggy
 draft: false
 tags:
+  - OpenRC
   - Remote Control
 categories:
   - 3D Printing
 keywords:
-  - OpenRC
+  - Truggy
 ---
 
 # Table of contents

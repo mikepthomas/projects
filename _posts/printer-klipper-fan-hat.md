@@ -8,6 +8,7 @@ preview: /assets/blog/printer-klipper-fan-hat/klipper-fan-hat-hero.jpg
 slug: /projects/printer-klipper-fan-hat
 draft: false
 tags:
+  - Printed Circuit Board
   - Raspberry Pi
 categories:
   - 3D Printing

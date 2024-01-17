@@ -9,6 +9,7 @@ slug: /projects/eurorack-modular-synth
 draft: false
 tags:
   - Music
+  - Printed Circuit Board
 categories:
   - Electronics
 keywords:

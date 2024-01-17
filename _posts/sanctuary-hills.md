@@ -8,6 +8,7 @@ preview: /assets/blog/sanctuary-hills/sanctuary-hills-house-hero.jpg
 slug: /projects/sanctuary-hills
 draft: false
 tags:
+  - Fallout Wasteland Warfare
   - Toys
 categories:
   - 3D Printing

@@ -10,6 +10,8 @@ related:
   - /projects/marble-machine
 draft: false
 tags:
+  - HTC Vive
+  - Lego
   - Toys
 categories:
   - 3D Printing

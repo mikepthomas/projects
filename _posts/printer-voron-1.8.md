@@ -13,6 +13,7 @@ related:
   - /projects/enraged-rabbit-carrot-feeder-2.0
 draft: false
 tags:
+  - 3D Printer
   - Voron
 categories:
   - 3D Printing

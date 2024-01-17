@@ -8,6 +8,7 @@ preview: /assets/blog/red-rocket/red-rocket-hero.jpg
 slug: /projects/red-rocket
 draft: false
 tags:
+  - Fallout Wasteland Warfare
   - Toys
 categories:
   - 3D Printing
