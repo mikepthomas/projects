@@ -34,8 +34,8 @@ const Tags = ({ tags }: Props) => {
     <>
       {tags ? (
         <Container className="mb-6">
-          {tags.map((tag) => (
-            <Badge className="mr-2" color="orange" pill>
+          {tags.map((tag, index) => (
+            <Badge key={index} className="mr-2" color="orange" pill>
               {tag}
             </Badge>
           ))}
