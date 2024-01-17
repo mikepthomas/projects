@@ -65,7 +65,7 @@ I received this filament from a giveaway on [one of Nero 3D's live streams](http
 | :----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------------------------------------------ |
 | ![#101820](https://via.placeholder.com/13/101820/101820.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyLite%20PLA%20Pro%20(Black).ini>) | [Polymaker](https://us.polymaker.com/products/polylite-pla-pro?variant=39574346334265) | £16.01 | 2             | [Datasheet](https://cdn.shopify.com/s/files/1/0548/7299/7945/files/Polylite_PLA_Pro_EN_V5.1.pdf) |
 
-## PolyTerra PLA Matte (Teal)
+## PolyTerra Matte PLA (Teal)
 
 This filament was brought to print a protective case and wall mount and plates for [my pi-top [4]](https://www.thingiverse.com/pi-top/designs).
 
