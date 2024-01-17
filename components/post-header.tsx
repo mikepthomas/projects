@@ -26,7 +26,7 @@ const PostHeader = ({
 }: Props) => {
   return (
     <>
-      <Container className="mt-20 mb-6">
+      <Container className="mt-24 mb-6">
         <PostTitle>{title}</PostTitle>
       </Container>
       <Container className="mb-6">
