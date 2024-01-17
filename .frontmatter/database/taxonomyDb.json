@@ -1,17 +1,32 @@
 {
   "taxonomy": {
     "tags": [
+      "3D LabPrint",
+      "3D Printer",
+      "3D Sets",
       "Anet A8",
       "Computers",
+      "Cosina",
       "ESPHome",
+      "Fallout Wasteland Warfare",
+      "HTC Vive",
+      "Kodak",
+      "Lego",
+      "Minolta",
+      "Multi Material",
       "Music",
       "Nikon",
+      "OpenRC",
+      "Out of Marbles",
       "Polyformer",
+      "Praktica",
+      "Printed Circuit Board",
       "Raspberry Pi",
       "Remote Control",
       "Rook",
       "Toys",
-      "Voron"
+      "Voron",
+      "Zenith"
     ],
     "categories": ["3D Printing", "Electronics", "Photography", "Software"]
   }

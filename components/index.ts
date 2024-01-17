@@ -25,6 +25,8 @@
  */
 export { default as About } from './about/about';
 export { default as Blog } from './blog/blog';
+export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
 export { default as Footer } from './footer/footer';
 export { default as Intro } from './intro/intro';
 export { default as Navigation } from './navigation/navigation';
+export { default as Tags } from './tags/tags';

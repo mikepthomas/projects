@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import cn from 'classnames';
 import React from 'react';
 import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler } from 'reactstrap';
 
@@ -42,7 +43,7 @@ export default function Navigation(props: Props) {
   return (
     <div className="navigation">
       <a
-        className={styles['github-banner'] + ' d-none d-md-block'}
+        className={cn(styles['github-banner'], 'd-none d-md-block')}
         href={`${github.url}${github.user}/${CMS_NAME.toLowerCase()}`}
       >
         <img

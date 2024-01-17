@@ -23,40 +23,34 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import {
-  faApple,
-  faGithub,
-  faInstagram,
-  faLinkedin,
-} from '@fortawesome/free-brands-svg-icons';
-import {
-  faAnchor,
-  faBuildingShield,
-  faCalendarAlt,
-  faCalendarDay,
-  faChalkboardTeacher,
-  faHome,
-  faLaptopCode,
-  faUserGraduate,
-  faWarehouse,
-} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Link from 'next/link';
+import { Breadcrumb, BreadcrumbItem, Container } from 'reactstrap';
+import { CMS_NAME } from '../../lib/constants';
 
-const { library } = require('@fortawesome/fontawesome-svg-core');
+type Props = {
+  pageName: string;
+};
 
-export default function register() {
-  library.add(
-    faApple,
-    faAnchor,
-    faBuildingShield,
-    faCalendarAlt,
-    faCalendarDay,
-    faChalkboardTeacher,
-    faGithub,
-    faHome,
-    faInstagram,
-    faLaptopCode,
-    faLinkedin,
-    faUserGraduate,
-    faWarehouse,
+const Breadcrumbs = ({ pageName }: Props) => {
+  return (
+    <Container>
+      <nav className="mb-12 pt-20" aria-label="breadcrumb">
+        <Breadcrumb className="p-3 bg-light rounded">
+          <BreadcrumbItem>
+            <a href="/">
+              <FontAwesomeIcon className="mr-2" icon={['fas', 'home']} />
+              Home
+            </a>
+          </BreadcrumbItem>
+          <BreadcrumbItem>
+            <Link href="/">{CMS_NAME}</Link>
+          </BreadcrumbItem>
+          <BreadcrumbItem active>{pageName}</BreadcrumbItem>
+        </Breadcrumb>
+      </nav>
+    </Container>
   );
-}
+};
+
+export default Breadcrumbs;

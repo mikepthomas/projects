@@ -5,18 +5,25 @@ import Image from 'next/image';
 import { basePath } from '../next.config';
 
 type Props = {
+  className?: string;
   title: string;
   src: string;
   slug?: string;
   imageHasPriority?: boolean;
 };
 
-const CoverImage = ({ title, src, slug, imageHasPriority = false }: Props) => {
+const CoverImage = ({
+  className = 'shadow-sm w-full',
+  title,
+  src,
+  slug,
+  imageHasPriority = false,
+}: Props) => {
   const image = (
     <Image
       src={`${basePath}${src}`}
       alt={`Cover Image for ${title}`}
-      className={cn('shadow-sm w-full', {
+      className={cn(className, {
         'hover:shadow-lg transition-shadow duration-200': slug,
       })}
       width={1280}

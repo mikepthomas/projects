@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import cn from 'classnames';
 import Link from 'next/link';
 import Markdown from 'react-markdown';
 import { Col, Container, Row } from 'reactstrap';
@@ -62,7 +63,7 @@ export default function Blog({ content, related }: Props) {
           </Markdown>
         </Col>
         <Col lg="4">
-          <div className={styles['sidebar'] + ' position-sticky'}>
+          <div className={cn(styles['sidebar'], 'position-sticky')}>
             <div className="p-4 mb-3 bg-light rounded">
               <p>
                 Some projects I am working on and I have planned over the next

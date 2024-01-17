@@ -1,7 +1,6 @@
 import { useRouter } from 'next/router';
 import ErrorPage from 'next/error';
 import { Container } from 'reactstrap';
-import Header from '../components/header';
 import PostHeader from '../components/post-header';
 import Layout from '../components/layout';
 import { getPostBySlug, getAllPosts } from '../lib/api';
@@ -10,7 +9,7 @@ import Head from 'next/head';
 import { HOME_TITLE } from '../lib/constants';
 import type PostType from '../interfaces/post';
 import { basePath } from '../next.config';
-import { Blog } from '../components';
+import { Blog, Breadcrumbs } from '../components';
 
 type Props = {
   post: PostType;
@@ -26,7 +25,7 @@ export default function Post({ post, related }: Props) {
   return (
     <Layout>
       <Container>
-        <Header />
+        <Breadcrumbs pageName={post.title} />
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
@@ -47,6 +46,7 @@ export default function Post({ post, related }: Props) {
                 date={post.date}
                 lastmod={post.lastmod}
                 author={post.author}
+                tags={post.tags}
               />
               <Blog content={post.content} related={related} />
             </article>
@@ -75,6 +75,7 @@ export async function getStaticProps({ params }: Params) {
     'content',
     'preview',
     'keywords',
+    'tags',
   ]);
   const related =
     post.related?.map((item) =>
