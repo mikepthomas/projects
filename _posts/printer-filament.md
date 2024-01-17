@@ -1,7 +1,7 @@
 ---
 title: 3D Printer Filament
 date: 2022-01-22
-lastmod: 2024-01-12T17:36:08.845Z
+lastmod: 2024-01-17T10:44:14.656Z
 author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -53,17 +53,25 @@ This filament was originally brought to print the [StealthBurner](https://vorond
 
 I received this filament from a giveaway on [one of Steve Builds' live streams](https://www.youtube.com/watch?v=dnAZ1nw6Euk&t=10950s).
 
-|                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                               | Purchased From                                                                        | Cost  | KGs Purchased | Notes                                                                                                           |
-| :----------------------------------------------------------: | ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- | ------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![#FAD61B](https://via.placeholder.com/13/FAD61B/FAD61B.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyLite%20LW-PLA%20(Yellow).ini>) | [Polymaker](https://us.polymaker.com/products/polylite-lw-pla?variant=40603758559289) | £0.00 | 0.8           | [Datasheet](https://cdn.shopify.com/s/files/1/0548/7299/7945/files/PolyLite_LW-PLA_TDS_US_5.1.pdf?v=1641783192) |
+|                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                               | Purchased From                                                                        | Cost  | KGs Purchased | Notes                                                                                              |
+| :----------------------------------------------------------: | ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- | ------------- | -------------------------------------------------------------------------------------------------- |
+| ![#FAD61B](https://via.placeholder.com/13/FAD61B/FAD61B.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyLite%20LW-PLA%20(Yellow).ini>) | [Polymaker](https://us.polymaker.com/products/polylite-lw-pla?variant=40603758559289) | £0.00 | 0.8           | [Datasheet](https://cdn.shopify.com/s/files/1/0548/7299/7945/files/PolyLite_LW-PLA_TDS_US_5.1.pdf) |
 
 ## PolyLite PLA Pro (Black)
 
 I received this filament from a giveaway on [one of Nero 3D's live streams](https://www.youtube.com/watch?v=5hN7Y-ngjQY&t=11190s).
 
-|                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                                                         | Cost  | KGs Purchased | Notes                                                                                                         |
-| :----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- | ------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![#101820](https://via.placeholder.com/13/101820/101820.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyLite%20PLA%20Pro%20(Black).ini>) | [Polymaker](https://us.polymaker.com/products/polylite-pla-pro?variant=39574346334265) | £0.00 | 1             | [Datasheet](https://cdn.shopify.com/s/files/1/0548/7299/7945/files/Polylite_PLA_Pro_EN_V5.1.pdf?v=1640831958) |
+|                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                                                         | Cost   | KGs Purchased | Notes                                                                                            |
+| :----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------ | ------------- | ------------------------------------------------------------------------------------------------ |
+| ![#101820](https://via.placeholder.com/13/101820/101820.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyLite%20PLA%20Pro%20(Black).ini>) | [Polymaker](https://us.polymaker.com/products/polylite-pla-pro?variant=39574346334265) | £16.01 | 2             | [Datasheet](https://cdn.shopify.com/s/files/1/0548/7299/7945/files/Polylite_PLA_Pro_EN_V5.1.pdf) |
+
+## PolyTerra PLA Matte (Teal)
+
+This filament was brought to print a protective case and wall mount and plates for [my pi-top [4]](https://www.thingiverse.com/pi-top/designs).
+
+|                            Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                   | Cost   | KGs Purchased | Notes                                                                  |
+| :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------- | ---------------------------------------------------------------------- |
+| ![#5AABB1](https://via.placeholder.com/13/5AABB1/5AABB1.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyTerra%20Matte%20PLA%20(Teal).ini>) | [Amazon](https://www.amazon.co.uk/dp/B08QMCNWMW) | £21.94 | 1             | [Material Database](https://app.polymaker.com/details/PolyTerra%20PLA) |
 
 ## PrimaValue ABS (Dark Grey)
 
