@@ -6,6 +6,8 @@ author: Mike Thomas
 description: Building the smallest of the Voron printers, the Voron Zero.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
+related:
+  - /projects/nevermore-filter
 draft: false
 tags:
   - 3D Printer
@@ -672,38 +674,6 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | Item                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                   |
 | ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------- |
 | [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by chirpy2605 |
-
-## Nevermore Micro V6
-
-The [Nevermore Micro V6](https://github.com/nevermore3d/Nevermore_Micro) filters the encosure to reduce the smell of printing ABS. [Carbon refill is available from here](https://www.onetwo3d.co.uk/product/nevermore3d-carbon/).
-
-The V6 no longer requires you to cut up the fans like you used to hve to do with the V5.
-
-| Item                                                                                                                                    | Quantity | Material                                               | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----- |
-| [v0_90deg_Cartridge](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/v0/v0_90deg_Cartridge.stl)                           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
-| [v0_Plenum_Delta_GDStime_Winsinn](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/v0/v0_Plenum_Delta_GDStime_Winsinn.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
-| [V6_Plenum_Lid](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/STL/V6_Plenum_Lid.stl)                                    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
-| [V6_Jalousie_Slicer](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/STL/%5Ba%5DV6_Jalousie_Slicer.stl)                   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |   :x:   |       |
-| [1515_Frame_Connector](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/STL/Optional_stuff/1515_Frame_Connector.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
-| [JST_Holder](https://github.com/nevermore3d/Nevermore_Micro/blob/master/V6/STL/Optional_stuff/2xJST_Holder%5Bno_cut_fan_wires%5D.stl)   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
-
-### :negative_squared_cross_mark: Assembly
-
-![Parts to build a Nevermore Filter](/assets/blog/printer-voron-0.2/nevermore-filter.jpg)
-
-#### Parts Used
-
-| Item                               | Quantity |
-| ---------------------------------- | -------- |
-| 5015 Centrifugal Fan (24V)         | 2        |
-| 6mm x 3mm Round Neodymium Magnets  | 8        |
-| Acid-free Activated Carbon Pack    | 1        |
-| JST XH Connector Header 2 Position | 3        |
-| M3 threaded inserts                | 2        |
-| M3x16 SHCS                         | 1        |
-| M3x6 SHCS                          | 1        |
-| M3 Hammer Head T-nuts              | 1        |
 
 ## Assembly Complete
 

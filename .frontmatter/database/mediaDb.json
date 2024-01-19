@@ -913,10 +913,6 @@
               "alt": "3D Render of the Voron 0.2 Complete",
               "title": "Assembly Complete"
             }
-          },
-          "nevermore-filter.jpg": {
-            "alt": "Parts to build a Nevermore Filter",
-            "title": "Nevermore Filter"
           }
         },
         "printer-voron-1.8": {
@@ -1505,6 +1501,12 @@
           "windows-11.jpg": {
             "alt": "Windows 11 running on the X220",
             "title": "Windows 11"
+          }
+        },
+        "nevermore-filter": {
+          "nevermore-filter-hero.jpg": {
+            "alt": "Parts to build a Nevermore Filter",
+            "title": "Nevermore Filter Hero"
           }
         }
       }

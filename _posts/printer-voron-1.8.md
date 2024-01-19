@@ -11,6 +11,7 @@ related:
   - /projects/printer-enclosure
   - /projects/printer-hypercube
   - /projects/enraged-rabbit-carrot-feeder-2.0
+  - /projects/nevermore-filter
 draft: false
 tags:
   - 3D Printer
