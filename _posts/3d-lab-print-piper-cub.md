@@ -1,5 +1,6 @@
 ---
 title: 3D LabPrint Piper Cub
+heading: 3D LabPrint Piper Cub RC Aeroplane
 date: 2022-07-22
 lastmod: 2023-06-30
 author: Mike Thomas

@@ -1,21 +1,23 @@
 ---
-title: Assembling the smallest Voron printer
+title: Voron 0.2
+heading: Assembling the smallest Voron printer
 date: 2023-04-03
 lastmod: 2024-01-11T21:18:43.082Z
 author: Mike Thomas
-description: Building the smallest of the Voron printers, the Voron Zero.
+description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
 related:
   - /projects/nevermore-filter
 draft: false
 tags:
-  - 3D Printer
+  - CoreXY
   - Voron
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Printer
+promoted: true
 ---
 
 # Table of contents

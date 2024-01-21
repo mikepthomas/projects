@@ -1,5 +1,6 @@
 ---
-title: 3D Printing upgrades for a 3D printer
+title: 3D Printed Upgrades
+heading: 3D Printing upgrades for a 3D printer
 date: 2018-05-26
 lastmod: 2022-04-19
 author: Mike Thomas

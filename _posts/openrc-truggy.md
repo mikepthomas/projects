@@ -1,5 +1,6 @@
 ---
-title: 3D Printing the OpenRC Truggy
+title: OpenRC Truggy
+heading: 3D Printing the OpenRC Truggy
 date: 2020-08-28
 lastmod: 2023-07-25
 author: Mike Thomas
@@ -14,6 +15,7 @@ categories:
   - 3D Printing
 keywords:
   - Truggy
+promoted: true
 ---
 
 # Table of contents

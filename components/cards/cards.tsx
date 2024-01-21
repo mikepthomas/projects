@@ -26,10 +26,14 @@
 import { Col, Container, Row } from 'reactstrap';
 
 import Card from './project-card';
+import Post from '../../interfaces/post';
 import { PROJECTS_PATH } from '../../lib/constants';
-import { basePath } from '../../next.config';
 
-export default function Cards() {
+type Props = {
+  promotedPosts: Post[];
+};
+
+export default function Cards({ promotedPosts }: Props) {
   return (
     <>
       <Container>
@@ -87,42 +91,20 @@ export default function Cards() {
           3D printing projects
         </h2>
         <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
-          <Col>
-            <Card
-              name="OpenRC F1"
-              link={`${PROJECTS_PATH}/openrc-f1`}
-              image={`${basePath}/assets/blog/openrc-f1/openrc-hero.jpg`}
-            >
-              Printing a Formula 1 style remote control car.
-            </Card>
-          </Col>
-          <Col>
-            <Card
-              name="OpenRC Truggy"
-              link={`${PROJECTS_PATH}/openrc-truggy`}
-              image={`${basePath}/assets/blog/openrc-truggy/truggy-hero.jpg`}
-            >
-              Logical advancement from the OpenRC F1.
-            </Card>
-          </Col>
-          <Col>
-            <Card
-              name="Guitar"
-              link={`${PROJECTS_PATH}/guitar`}
-              image={`${basePath}/assets/blog/guitar/12-almost-there.jpg`}
-            >
-              Building a guitar with a 3D printed body.
-            </Card>
-          </Col>
-          <Col>
-            <Card
-              name="Red Rocket"
-              link={`${PROJECTS_PATH}/red-rocket`}
-              image={`${basePath}/assets/blog/red-rocket/red-rocket-hero.jpg`}
-            >
-              3D Printing the Red Rocket Truck Stop from Fallout 4.
-            </Card>
-          </Col>
+          {promotedPosts
+            .filter((post) => post.categories.includes('3D Printing'))
+            .map((post, index) => (
+              <Col>
+                <Card
+                  key={index}
+                  name={post.title}
+                  link={`${PROJECTS_PATH}/${post.slug}`}
+                  image={post.preview}
+                >
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
         </Row>
         <hr />
       </Container>
@@ -131,26 +113,41 @@ export default function Cards() {
           3D printers
         </h2>
         <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
-          <Col>
-            <Card name="Anet A8" link={`${PROJECTS_PATH}/printer`}>
-              My first 3D printer.
-            </Card>
-          </Col>
-          <Col>
-            <Card name="Rook 2020" link={`${PROJECTS_PATH}/printer-rook`}>
-              3D Printing a cheap CoreXY 3D Printer.
-            </Card>
-          </Col>
-          <Col>
-            <Card name="Voron 0.2" link={`${PROJECTS_PATH}/printer-voron-0.2`}>
-              Printing parts to assemble a Voron 0.2 3D printer.
-            </Card>
-          </Col>
-          <Col>
-            <Card name="Voron 1.8" link={`${PROJECTS_PATH}/printer-voron-1.8`}>
-              Printing parts to assemble a Voron 1.8 3D printer.
-            </Card>
-          </Col>
+          {promotedPosts
+            .filter((post) => post.categories.includes('3D Printer'))
+            .map((post, index) => (
+              <Col>
+                <Card
+                  key={index}
+                  name={post.title}
+                  link={`${PROJECTS_PATH}/${post.slug}`}
+                >
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
+        </Row>
+        <hr />
+      </Container>
+      <Container>
+        <h2 className="mb-3" id="electronics-projects">
+          Electronics projects
+        </h2>
+        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+          {promotedPosts
+            .filter((post) => post.categories.includes('Electronics'))
+            .map((post, index) => (
+              <Col>
+                <Card
+                  key={index}
+                  name={post.title}
+                  link={`${PROJECTS_PATH}/${post.slug}`}
+                  image={post.preview}
+                >
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
         </Row>
         <hr />
       </Container>

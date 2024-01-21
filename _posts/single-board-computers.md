@@ -1,5 +1,6 @@
 ---
-title: Single Board Computers and Microcontrollers
+title: Single Board Computers
+heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
 lastmod: 2024-01-12T22:06:24.344Z
 author: Mike Thomas

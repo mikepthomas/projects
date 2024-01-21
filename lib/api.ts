@@ -1,9 +1,10 @@
 import fs from 'fs';
-import { join } from 'path';
 import matter from 'gray-matter';
-import { basePath } from '../next.config';
+import { join } from 'path';
+
 import authorData from '../data/author.json';
 import Post from '../interfaces/post';
+import { basePath } from '../next.config';
 
 const postsDirectory = join(process.cwd(), '_posts');
 
@@ -21,6 +22,7 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
     slug: '',
     related: [],
     title: '',
+    heading: '',
     date: '',
     preview: '',
     author: {
@@ -31,6 +33,7 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
     tags: [],
     categories: [],
     keywords: [],
+    promoted: false,
     content: '',
   };
 
@@ -62,5 +65,16 @@ export function getAllPosts(fields: string[] = []) {
     .map((slug) => getPostBySlug(slug, fields))
     // sort posts by date in descending order
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+  return posts;
+}
+
+export function getPromotedPosts(fields: string[] = []) {
+  const posts = getAllPosts(fields.concat('promoted'))
+    .filter((post) => post.promoted)
+    .sort((a, b) => {
+      if (a.title < b.title) return -1;
+      if (a.title > b.title) return 1;
+      return 0;
+    });
   return posts;
 }

@@ -1,5 +1,6 @@
 ---
-title: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
+title: Enraged Rabbit Carrot Feeder 2.0
+heading: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
 lastmod: 2024-01-14T20:56:25.519Z
 author: Mike Thomas

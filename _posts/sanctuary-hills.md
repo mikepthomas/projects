@@ -1,5 +1,6 @@
 ---
-title: 3D Printing a Sanctuary Hills House from Fallout 4
+title: Sanctuary Hills House
+heading: 3D Printing a Sanctuary Hills House from Fallout 4
 date: 2023-07-26
 lastmod: 2023-08-10
 author: Mike Thomas

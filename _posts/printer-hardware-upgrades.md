@@ -1,5 +1,6 @@
 ---
 title: Printer Hardware Upgrades
+heading: 3D Printer Hardware Upgrades
 date: 2021-05-12
 lastmod: 2023-11-12
 author: Mike Thomas

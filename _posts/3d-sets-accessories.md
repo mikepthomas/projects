@@ -1,5 +1,6 @@
 ---
-title: Accessories for the 3D Sets Landy
+title: 3D Sets Accessories
+heading: Accessories for the 3D Sets Landy
 date: 2023-08-01
 lastmod: 2023-08-10
 author: Mike Thomas

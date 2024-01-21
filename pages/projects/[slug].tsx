@@ -42,7 +42,7 @@ export default function Post({ post, related }: Props) {
                 />
               </Head>
               <PostHeader
-                title={post.title}
+                title={post.heading}
                 coverImage={post.preview}
                 date={post.date}
                 lastmod={post.lastmod}
@@ -67,6 +67,7 @@ type Params = {
 export async function getStaticProps({ params }: Params) {
   const post = getPostBySlug(params.slug, [
     'title',
+    'heading',
     'description',
     'date',
     'lastmod',

@@ -1,5 +1,6 @@
 ---
-title: Voron Modifications and Upgrades
+title: Voron 1.8 Modifications
+heading: Voron 1.8 Modifications and Upgrades
 date: 2022-04-27
 lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas

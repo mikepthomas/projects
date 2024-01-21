@@ -1,5 +1,6 @@
 ---
-title: Upgrading the Anet A8 to an AM8 Switchwire
+title: AM8 Switchwire
+heading: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
 lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas
@@ -11,10 +12,10 @@ related:
   - /projects/enraged-rabbit-carrot-feeder-1.1
 draft: false
 tags:
-  - 3D Printer
   - Anet A8
+  - CoreXZ
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - AM8
 ---

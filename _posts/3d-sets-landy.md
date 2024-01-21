@@ -1,5 +1,6 @@
 ---
-title: 3D Sets Landy 4x4 Pickup
+title: 3D Sets Landy
+heading: 3D Sets Landy 4x4 Pickup
 date: 2022-06-22
 lastmod: 2023-08-10
 author: Mike Thomas

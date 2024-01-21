@@ -27,6 +27,7 @@
   overflow: hidden;
 
   img {
+    border-radius: 0;
     transition:
       transform 0.25s,
       filter 0.25s ease-in-out;

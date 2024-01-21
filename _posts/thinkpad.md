@@ -1,5 +1,6 @@
 ---
-title: Adventures with Thinkpads
+title: Thinkpads
+heading: Adventures with Thinkpads
 date: 2017-11-13
 lastmod: 2024-01-10T18:45:00.050Z
 author: Mike Thomas

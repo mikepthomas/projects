@@ -1,5 +1,6 @@
 ---
-title: Macro Keyboard based on the Raspberry Pi Pico
+title: Macro Pi
+heading: Macro Keyboard based on the Raspberry Pi Pico
 date: 2023-11-12
 author: Mike Thomas
 description: A 3D printed macro keyboard based on the Raspberry Pi Pico.
@@ -12,6 +13,7 @@ categories:
   - Electronics
 keywords:
   - Macro
+promoted: true
 ---
 
 # Table of contents

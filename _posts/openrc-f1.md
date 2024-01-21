@@ -1,5 +1,6 @@
 ---
-title: 3D Printing an OpenRC F1 radio controlled car
+title: OpenRC F1
+heading: 3D Printing an OpenRC F1 radio controlled car
 date: 2018-06-28
 lastmod: 2023-08-01
 author: Mike Thomas
@@ -14,6 +15,7 @@ categories:
   - 3D Printing
 keywords:
   - F1
+promoted: true
 ---
 
 # Table of contents

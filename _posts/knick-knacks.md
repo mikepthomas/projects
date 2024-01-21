@@ -1,5 +1,6 @@
 ---
-title: Printed Toys and Knick Knacks
+title: Knick Knacks
+heading: Printed Toys and Knick Knacks
 date: 2018-06-05
 lastmod: 2024-01-12T17:05:34.028Z
 author: Mike Thomas

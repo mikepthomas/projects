@@ -1,5 +1,6 @@
 ---
-title: Creating a Printed Circuit Board to control fans in Klipper
+title: Klipper Fan Hat
+heading: Creating a Printed Circuit Board to control fans in Klipper
 date: 2023-03-21
 lastmod: 2024-01-12T18:06:23.345Z
 author: Mike Thomas
@@ -11,11 +12,11 @@ tags:
   - Printed Circuit Board
   - Raspberry Pi
 categories:
-  - 3D Printing
   - Electronics
   - Software
 keywords:
   - Klipper
+promoted: true
 ---
 
 # Table of contents

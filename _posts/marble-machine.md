@@ -1,5 +1,6 @@
 ---
-title: Out of Marbles, Marble Machine
+title: Marble Machine
+heading: Out of Marbles, Marble Machine
 date: 2020-11-03
 lastmod: 2024-01-12T16:57:44.644Z
 author: Mike Thomas

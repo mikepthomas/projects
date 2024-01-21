@@ -1,5 +1,6 @@
 ---
-title: Creating a solar powered weather station
+title: Solar Wi-fi Weather Station
+heading: Creating a solar powered weather station
 date: 2023-06-27
 lastmod: 2023-12-19T19:50:48.115Z
 author: Mike Thomas
@@ -15,6 +16,7 @@ categories:
   - Software
 keywords:
   - Weather Station
+promoted: true
 ---
 
 # Table of contents

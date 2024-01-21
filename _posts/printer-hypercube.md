@@ -1,5 +1,6 @@
 ---
-title: Upgrading my Anet A8 to a Hypercube
+title: Hypercube
+heading: Upgrading my Anet A8 to a Hypercube
 date: 2022-02-15
 lastmod: 2022-03-30
 author: Mike Thomas
@@ -10,10 +11,10 @@ related:
   - /projects/printer-am8
 draft: false
 tags:
-  - 3D Printer
   - Anet A8
+  - CoreXY
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Hypercube
 ---

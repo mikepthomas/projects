@@ -1,5 +1,6 @@
 ---
-title: Assembling a Nevermore Filter
+title: Nevermore Filter
+heading: Assembling a Nevermore Filter
 date: 2024-01-19T22:33:50.401Z
 author: Mike Thomas
 description: The Nevermore filters the encosure to reduce the smell of printing ABS.
@@ -7,7 +8,6 @@ preview: /assets/blog/nevermore-filter/nevermore-filter-hero.jpg
 slug: /projects/nevermore-filter
 draft: false
 tags:
-  - 3D Printer
   - Voron
 categories:
   - 3D Printing

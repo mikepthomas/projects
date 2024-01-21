@@ -1,5 +1,6 @@
 ---
-title: Making 3D Printer Filament from Empty Plastic Bottles
+title: Polyformer
+heading: Making 3D Printer Filament from Empty Plastic Bottles
 date: 2023-02-03
 lastmod: 2023-02-19
 author: Mike Thomas
@@ -10,10 +11,9 @@ related:
   - /projects/printer-filament
 draft: false
 tags:
-  - 3D Printer
   - Polyformer
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Filament
 ---

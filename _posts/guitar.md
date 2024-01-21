@@ -1,9 +1,10 @@
 ---
-title: 3D Printing an electric guitar
+title: Guitar
+heading: 3D Printing an electric guitar
 date: 2018-08-02
 lastmod: 2023-07-23
 author: Mike Thomas
-description: How I built a 3D printed Electric Guitar from scratch.
+description: How I built an Electric Guitar with a 3D printed body from scratch.
 preview: /assets/blog/guitar/guitar-hero.jpg
 slug: /projects/guitar
 draft: false
@@ -11,9 +12,9 @@ tags:
   - Music
 categories:
   - 3D Printing
-  - Electronics
 keywords:
   - Guitar
+promoted: true
 ---
 
 # Table of contents

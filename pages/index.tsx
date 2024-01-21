@@ -24,13 +24,19 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import Head from 'next/head';
+
 import { About, Cards, Intro, Timeline } from '../components';
 import Layout from '../components/layout';
+import experienceData from '../data/experience.json';
+import { getPromotedPosts } from '../lib/api';
+import Post from '../interfaces/post';
 import { HOME_OG_IMAGE_URL, HOME_TITLE } from '../lib/constants';
 
-import experienceData from '../data/experience.json';
+type Props = {
+  promotedPosts: Post[];
+};
 
-export default function Home() {
+export default function Home({ promotedPosts }: Props) {
   return (
     <Layout>
       <Head>
@@ -40,8 +46,22 @@ export default function Home() {
       </Head>
       <Intro />
       <About />
-      <Cards />
+      <Cards promotedPosts={promotedPosts} />
       <Timeline experience={experienceData} />
     </Layout>
   );
 }
+
+export const getStaticProps = async () => {
+  const promotedPosts = getPromotedPosts([
+    'title',
+    'slug',
+    'preview',
+    'description',
+    'categories',
+  ]);
+
+  return {
+    props: { promotedPosts },
+  };
+};

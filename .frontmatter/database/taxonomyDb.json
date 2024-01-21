@@ -2,10 +2,12 @@
   "taxonomy": {
     "tags": [
       "3D LabPrint",
-      "3D Printer",
       "3D Sets",
       "Anet A8",
+      "Cartesian",
       "Computers",
+      "CoreXY",
+      "CoreXZ",
       "Cosina",
       "ESPHome",
       "Fallout Wasteland Warfare",
@@ -28,6 +30,12 @@
       "Voron",
       "Zenith"
     ],
-    "categories": ["3D Printing", "Electronics", "Photography", "Software"]
+    "categories": [
+      "3D Printer",
+      "3D Printing",
+      "Electronics",
+      "Photography",
+      "Software"
+    ]
   }
 }

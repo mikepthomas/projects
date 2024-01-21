@@ -1,5 +1,6 @@
 ---
-title: Building a DIY Eurorack Modular Synth
+title: Eurorack Modular Synth
+heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
 lastmod: 2023-12-11
 author: Mike Thomas
@@ -14,6 +15,7 @@ categories:
   - Electronics
 keywords:
   - Eurorack
+promoted: true
 ---
 
 # Table of contents

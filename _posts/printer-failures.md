@@ -1,5 +1,6 @@
 ---
-title: 3D Printer Failures
+title: Printer Failures
+heading: 3D Printer Failures
 date: 2018-05-21
 lastmod: 2022-04-01
 author: Mike Thomas

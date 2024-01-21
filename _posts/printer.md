@@ -1,8 +1,9 @@
 ---
-title: Assembly of an Anet A8 3D printer
+title: Anet A8
+heading: Assembly of an Anet A8 3D printer
 date: 2018-05-19
 author: Mike Thomas
-description: This project was to assemble a cheap 3D printer with the premise to eventually make it better by upgrading components and 3D printing improved parts.
+description: This project was to assemble my first 3D printer with the premise to eventually make it better by upgrading components and 3D printing improved parts.
 preview: /assets/blog/printer/printer-hero.jpg
 slug: /projects/printer
 related:
@@ -13,12 +14,13 @@ related:
   - /projects/printer-enclosure
 draft: false
 tags:
-  - 3D Printer
   - Anet A8
+  - Cartesian
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Printer
+promoted: true
 ---
 
 # Table of contents

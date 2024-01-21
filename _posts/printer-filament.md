@@ -1,5 +1,6 @@
 ---
-title: 3D Printer Filament
+title: Printer Filament
+heading: 3D Printer Filament
 date: 2022-01-22
 lastmod: 2024-01-17T10:44:14.656Z
 author: Mike Thomas

@@ -1,5 +1,6 @@
 ---
-title: 3D Printing an FPV OpenRC Mini Quad
+title: OpenRC Mini Quad
+heading: 3D Printing an FPV OpenRC Mini Quad
 date: 2019-08-30
 lastmod: 2023-07-17
 author: Mike Thomas

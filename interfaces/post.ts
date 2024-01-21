@@ -4,6 +4,7 @@ type PostType = {
   slug: string;
   related: string[];
   title: string;
+  heading: string;
   date: string;
   lastmod?: string;
   preview: string;
@@ -12,6 +13,7 @@ type PostType = {
   tags: string[];
   categories: string[];
   keywords: string[];
+  promoted: boolean;
   content: string;
 };
 

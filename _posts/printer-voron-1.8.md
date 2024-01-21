@@ -1,9 +1,10 @@
 ---
-title: Assembling my first Voron printer
+title: Voron 1.8
+heading: Assembling my first Voron printer
 date: 2022-02-17
 lastmod: 2024-01-12T18:04:16.970Z
 author: Mike Thomas
-description: The steps I have taken to print and source parts to assemble a Voron 1.8.
+description: The steps I have taken to print and source parts to assemble a Voron 1.8 3D printer.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
 slug: /projects/printer-voron-1.8
 related:
@@ -14,12 +15,13 @@ related:
   - /projects/nevermore-filter
 draft: false
 tags:
-  - 3D Printer
+  - CoreXY
   - Voron
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Printer
+promoted: true
 ---
 
 # Table of contents

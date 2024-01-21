@@ -1,19 +1,21 @@
 ---
-title: 3D Printing a cheap CoreXY 3D Printer
+title: Rook 2020
+heading: 3D Printing the Rook, a cheap CoreXY 3D Printer
 date: 2023-02-02
 lastmod: 2024-01-04T19:42:32.168Z
 author: Mike Thomas
-description: Sourcing and printing parts to assemble a Rook 2020 MK1 3D Printer.
+description: Sourcing and printing parts to 3D print and assemble a cheap CoreXY 3D Printer, the Rook 2020 MK1.
 preview: /assets/blog/printer-rook/rook-2020-frame.jpg
 slug: /projects/printer-rook
 draft: false
 tags:
-  - 3D Printer
+  - CoreXY
   - Rook
 categories:
-  - 3D Printing
+  - 3D Printer
 keywords:
   - Printer
+promoted: true
 ---
 
 # Table of contents

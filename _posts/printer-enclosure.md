@@ -1,5 +1,6 @@
 ---
-title: 3D Printer Enclosure
+title: Printer Enclosure
+heading: 3D Printer Enclosure
 date: 2018-07-05
 lastmod: 2023-08-25
 author: Mike Thomas
