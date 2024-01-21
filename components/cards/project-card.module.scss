@@ -1,4 +1,4 @@
-/*
+/* 
  * Copyright (c) 2016-2024, Mike Thomas
  * All rights reserved.
  *
@@ -23,12 +23,20 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+.zoom {
+  overflow: hidden;
+
+  img {
+    transition:
+      transform 0.25s,
+      filter 0.25s ease-in-out;
+    filter: brightness(75%);
+  }
+
+  &:hover {
+    img {
+      filter: brightness(100%);
+      transform: scale(1.1);
+    }
+  }
+}

@@ -23,12 +23,27 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+import { Container } from 'reactstrap';
+
+import styles from './timeline.module.scss';
+import TimelinePanel from './timeline-panel';
+import Experience from '../../interfaces/experience';
+
+interface Props {
+  experience: Experience[];
+}
+
+export default function Timeline(props: Props) {
+  return (
+    <Container>
+      <h2 className="mb-3" id="timeline">
+        How I've got here!
+      </h2>
+      <ul className={styles['timeline']}>
+        {props.experience.map((item, key) => (
+          <TimelinePanel key={key} {...item} />
+        ))}
+      </ul>
+    </Container>
+  );
+}

@@ -23,12 +23,26 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+import { differenceInCalendarMonths, format, formatDuration } from 'date-fns';
+
+export function formatDate(date?: string): string {
+  if (date === undefined) {
+    return 'Present';
+  } else {
+    return format(new Date(date), 'MMMM yyyy');
+  }
+}
+
+export function formatYearsAndMonths(startDate: string, endDate?: string) {
+  let start = new Date(startDate);
+  let end = endDate ? new Date(endDate) : new Date();
+  let monthCount = differenceInCalendarMonths(end, start);
+  let out = formatDuration(
+    {
+      years: Math.floor(Number(monthCount) / 12),
+      months: Number(monthCount) % 12,
+    },
+    { delimiter: ', ' },
+  );
+  return `(${out})`;
+}

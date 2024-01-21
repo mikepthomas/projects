@@ -23,12 +23,59 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+import cn from 'classnames';
+import Link from 'next/link';
+import {
+  Card,
+  CardBody,
+  CardFooter,
+  CardHeader,
+  CardImg,
+  CardSubtitle,
+  CardText,
+} from 'reactstrap';
+
+import styles from './project-card.module.scss';
+
+interface Props {
+  archived?: boolean;
+  children: string;
+  image?: string;
+  link: string;
+  target?: string;
+  name: string;
+}
+
+export default function ProjectCard(props: Props) {
+  return (
+    <Card className="h-100" color="light">
+      <CardHeader tag="h3">{props.name}</CardHeader>
+      {props.image ? (
+        <Link
+          href={props.link}
+          target={props.target}
+          className={cn(styles['zoom'], 'card-link')}
+        >
+          <CardImg src={props.image} />
+        </Link>
+      ) : null}
+      <CardBody>
+        {props.archived ? (
+          <CardSubtitle className="text-muted" tag="h4">
+            Archived:
+          </CardSubtitle>
+        ) : null}
+        <CardText>{props.children}</CardText>
+      </CardBody>
+      <CardFooter className="text-end">
+        <Link
+          className="btn btn-outline-primary card-link"
+          href={props.link}
+          target={props.target}
+        >
+          View details »
+        </Link>
+      </CardFooter>
+    </Card>
+  );
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "startDate": "2018-02-19T00:00:00.000Z",
+    "city": "Cardiff",
+    "location": "The British Broadcasting Corporation",
+    "url": "http://www.bbc.co.uk",
+    "color": "primary",
+    "icon": "fa-solid fa-laptop-code"
+  },
+  {
+    "title": "Senior Java Developer",
+    "startDate": "2014-03-01T00:00:00.000Z",
+    "endDate": "2018-02-09T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "Unite Students",
+    "url": "http://www.unitestudents.com",
+    "description": "Supporting Student and Group websites utilising Oracle Fusion Middleware. Projects include visual redesign of Corporate website to use new corporate branding and the launch of brand new responsive Students website. Current projects include integrating website with new back-end booking system and migrating current systems to new hardware.",
+    "color": "primary",
+    "icon": "fa-solid fa-laptop-code"
+  },
+  {
+    "title": "Reservist",
+    "startDate": "2014-02-01T00:00:00.000Z",
+    "endDate": "2015-12-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "Royal Navy",
+    "url": "http://www.royalnavy.mod.uk",
+    "color": "info",
+    "icon": "fa-solid fa-anchor",
+    "inverted": true
+  },
+  {
+    "title": "Software Developer",
+    "startDate": "2012-08-01T00:00:00.000Z",
+    "endDate": "2014-02-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "Quote Exchange, Brightside Group",
+    "url": "http://www.quoteexchange.co.uk",
+    "description": "Responsible for developing well designed and documented, highly scalable, highly available web based systems as well as providing day-to-day operational support and development. Current projects include creating an insurance comparison website using Java frameworks (Struts 2 and Spring) with Relational Databases (SQL Server and MySQL) and developing supporting websites to collect risk data for third party insurance companies. Previous project was to create a distributed regression test tool using Selenium Grid to automate the testing of websites.",
+    "color": "primary",
+    "icon": "fa-solid fa-laptop-code"
+  },
+  {
+    "title": "Third Year BSc (Hons) Software Engineering",
+    "startDate": "2011-09-01T00:00:00.000Z",
+    "endDate": "2012-07-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "University of the West of England",
+    "url": "http://www.uwe.ac.uk",
+    "description": "* Advanced Topics in Web Development [54%]\n* Components and Services [50%]\n* Computing Project [60%]\n* Embedded Systems Development [67%]\n* Professional, Legal &amp; Commercial Issues [52%]\n* Requirements Engineering [64%]",
+    "color": "success",
+    "icon": "fa-solid fa-user-graduate",
+    "inverted": true
+  },
+  {
+    "title": "Information Systems Technical Support",
+    "startDate": "2010-07-01T00:00:00.000Z",
+    "endDate": "2011-08-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "University of the West of England",
+    "url": "http://www.uwe.ac.uk",
+    "description": "Administrator for the one of the Faculty of Environment and Technology’s Databases (FOLD); Duties included supporting administration staff with database queries and HTML reports, writing technical documentation using the Docbook documentation standard, updating look and feel of publicly accessible pages to be more in-line with main University website and a member of the design team for the new SQL Server database and started translation and migration of existing data to the new .Net based system.",
+    "color": "primary",
+    "icon": "fa-solid fa-laptop-code"
+  },
+  {
+    "title": "Back of House Specialist",
+    "startDate": "2009-12-01T00:00:00.000Z",
+    "endDate": "2012-08-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "Apple Retail",
+    "url": "http://www.apple.co.uk",
+    "description": "Inventory control for a large technology retailer. Main Duties include the timely and accurate receiving, tracking and maintenance of store merchandise in the store and stock room and to support the front of house team so that they can meet and exceed the customers' needs.",
+    "color": "info",
+    "icon": "fa-brands fa-apple",
+    "inverted": true
+  },
+  {
+    "title": "Second Year BSc (Hons) Software Engineering",
+    "startDate": "2009-09-01T00:00:00.000Z",
+    "endDate": "2010-07-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "University of the West of England",
+    "url": "http://www.uwe.ac.uk",
+    "description": "* Client-Server Programming [79%]\n* Computer Networks and Operating Systems [71%]\n* Data, Schemas and Applications [74%]\n* Project Management [70%]\n* Software Design [83%]\n* Software Engineering [53%]",
+    "color": "success",
+    "icon": "fa-solid fa-user-graduate",
+    "inverted": true
+  },
+  {
+    "title": "Supervisor Security Officer",
+    "startDate": "2009-06-01T00:00:00.000Z",
+    "endDate": "2009-09-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "RMB & Associates Ltd",
+    "description": "Retail Security Officer working in stores such as Topshop and Outfit. Responsibilities involved dye tag density checks, incident reporting, bag checking and store patrols.",
+    "color": "danger",
+    "icon": "fa-solid fa-building-shield"
+  },
+  {
+    "title": "First Year BSc (Hons) Software Engineering",
+    "startDate": "2008-09-01T00:00:00.000Z",
+    "endDate": "2009-07-01T00:00:00.000Z",
+    "city": "Bristol",
+    "location": "University of the West of England",
+    "url": "http://www.uwe.ac.uk",
+    "description": "* Analytical Modelling [87%]\n* Computer Science Concepts [80%]\n* Computer Systems [65%]\n* Information Systems Application Contexts [59%]\n* Introduction to Program Development [92%]\n* Systems Development [72%]",
+    "color": "success",
+    "icon": "fa-solid fa-user-graduate",
+    "inverted": true
+  },
+  {
+    "title": "Contract Support Officer",
+    "startDate": "2007-08-01T00:00:00.000Z",
+    "endDate": "2008-05-01T00:00:00.000Z",
+    "city": "Milford Haven",
+    "location": "Securitas Security Services",
+    "url": "http://www.securitas.uk.com",
+    "description": "Static Security Officer during the construction of South Hook LNG, Milford Haven, one of the largest Liquefied Natural Gas re-gasification Terminal in Europe. Responsibilities included physical security of the facility, access control, site patrols and vehicle searches.",
+    "color": "danger",
+    "icon": "fa-solid fa-building-shield"
+  },
+  {
+    "title": "Parts Advisor",
+    "endDate": "2007-08-01T00:00:00.000Z",
+    "startDate": "2004-07-01T00:00:00.000Z",
+    "city": "Slebech",
+    "location": "Green Bower Garages",
+    "description": "Duties included stock control, satisfying all customer requirements and increasing all aspects of the BMW car parts and accessories business through direct selling, vehicle workshop and body shop.",
+    "color": "warning",
+    "icon": "fa-solid fa-warehouse"
+  },
+  {
+    "title": "Advanced Level Qualifications",
+    "startDate": "2002-09-01T00:00:00.000Z",
+    "endDate": "2004-07-01T00:00:00.000Z",
+    "city": "Haverfordwest",
+    "location": "Pembrokeshire College",
+    "url": "http://www.pembrokeshire.ac.uk",
+    "description": "* Double Award AVCE in ICT [B,B]\n* Advanced Subsidiary Physics [E]",
+    "color": "dark",
+    "icon": "fa-solid fa-chalkboard-teacher",
+    "inverted": true
+  },
+  {
+    "title": "General Certificate of Secondary Education Qualifications",
+    "startDate": "1997-09-01T00:00:00.000Z",
+    "endDate": "2002-07-01T00:00:00.000Z",
+    "city": "Haverfordwest",
+    "location": "Sir Thomas Picton School",
+    "description": "* Eight Full Course [Seven Grade C and Above]\n* Two Short Course [A and B]",
+    "color": "dark",
+    "icon": "fa-solid fa-chalkboard-teacher",
+    "inverted": true
+  }
+]

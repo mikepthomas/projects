@@ -27,14 +27,14 @@ import cn from 'classnames';
 import React from 'react';
 import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler } from 'reactstrap';
 
-import SocialLink, { SocialData } from './social-link';
-
-import { basePath } from '../../next.config';
-import { CMS_NAME } from '../../lib/constants';
 import styles from './navigation.module.scss';
+import SocialLink from './social-link';
+import Social from '../../interfaces/social';
+import { CMS_NAME } from '../../lib/constants';
+import { basePath } from '../../next.config';
 
 interface Props {
-  social: SocialData[];
+  social: Social[];
 }
 
 export default function Navigation(props: Props) {

@@ -140,6 +140,58 @@
       }
     },
     {
+      "id": "experience",
+      "title": "Experience",
+      "file": "[[workspace]]/data/experience.json",
+      "fileType": "json",
+      "labelField": "title",
+      "singleEntry": false,
+      "schema": {
+        "title": "Experience",
+        "type": "object",
+        "required": ["title", "startDate", "city", "location", "color", "icon"],
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "startDate": {
+            "type": "string",
+            "title": "Start Date"
+          },
+          "endDate": {
+            "type": "string",
+            "title": "End Date"
+          },
+          "city": {
+            "type": "string",
+            "title": "City"
+          },
+          "location": {
+            "type": "string",
+            "title": "Location"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description",
+            "multiline": true
+          },
+          "color": {
+            "type": "string",
+            "title": "Color"
+          },
+          "icon": {
+            "type": "string",
+            "title": "Icon"
+          }
+        }
+      }
+    },
+    {
       "id": "social",
       "title": "Social",
       "file": "[[workspace]]/data/social.json",

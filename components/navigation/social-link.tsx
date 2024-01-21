@@ -27,15 +27,9 @@ import { NavItem, NavLink } from 'reactstrap';
 import { IconName } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-export interface SocialData {
-  name: string;
-  icon: string;
-  url: string;
-  user: string;
-  showInNav: boolean;
-}
+import Social from '../../interfaces/social';
 
-export default function SocialLink(props: SocialData) {
+export default function SocialLink(props: Social) {
   return (
     <NavItem>
       <NavLink href={props.url + props.user} target="_blank">
