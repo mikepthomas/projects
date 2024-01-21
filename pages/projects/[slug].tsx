@@ -1,15 +1,16 @@
-import { useRouter } from 'next/router';
 import ErrorPage from 'next/error';
-import { Container } from 'reactstrap';
-import PostHeader from '../components/post-header';
-import Layout from '../components/layout';
-import { getPostBySlug, getAllPosts } from '../lib/api';
-import PostTitle from '../components/post-title';
 import Head from 'next/head';
-import { HOME_TITLE } from '../lib/constants';
-import type PostType from '../interfaces/post';
-import { basePath } from '../next.config';
-import { Blog, Breadcrumbs } from '../components';
+import { useRouter } from 'next/router';
+import { Container } from 'reactstrap';
+
+import { Blog, Breadcrumbs } from '../../components';
+import Layout from '../../components/layout';
+import PostHeader from '../../components/post-header';
+import PostTitle from '../../components/post-title';
+import type PostType from '../../interfaces/post';
+import { getPostBySlug, getAllPosts } from '../../lib/api';
+import { HOME_TITLE, PROJECTS_PATH } from '../../lib/constants';
+import { basePath } from '../../next.config';
 
 type Props = {
   post: PostType;
@@ -79,7 +80,7 @@ export async function getStaticProps({ params }: Params) {
   ]);
   const related =
     post.related?.map((item) =>
-      getPostBySlug(item.replace(`${basePath}/`, ''), [
+      getPostBySlug(item.replace(PROJECTS_PATH, ''), [
         'title',
         'slug',
         'preview',

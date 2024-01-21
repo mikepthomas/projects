@@ -1,9 +1,11 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Avatar from './avatar';
-import DateFormatter from './date-formatter';
-import CoverImage from './cover-image';
 import Link from 'next/link';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
+import Avatar from './avatar';
+import CoverImage from './cover-image';
+import DateFormatter from './date-formatter';
 import type Author from '../interfaces/author';
+import { PROJECTS_PATH } from '../lib/constants';
 
 type Props = {
   title: string;
@@ -28,7 +30,7 @@ const PostPreview = ({
         <CoverImage slug={slug} title={title} src={coverImage} />
       </div>
       <h3 className="text-3xl mb-3 leading-snug">
-        <Link as={`/${slug}`} href="/[slug]">
+        <Link as={`${PROJECTS_PATH}/${slug}`} href={`${PROJECTS_PATH}/[slug]`}>
           {title}
         </Link>
       </h3>

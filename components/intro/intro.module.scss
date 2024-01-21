@@ -28,7 +28,7 @@
 @import '~bootstrap/scss/mixins/_breakpoints';
 
 .intro {
-  background-image: url('/projects/banner-sm.jpg');
+  background-image: url('/banner-sm.jpg');
   background-repeat: no-repeat;
   background-position: 75% 100%;
   background-size: cover;
@@ -45,11 +45,11 @@
   }
 
   @include media-breakpoint-up(md) {
-    background-image: url('/projects/banner-md.jpg');
+    background-image: url('/banner-md.jpg');
   }
 
   @include media-breakpoint-up(xl) {
-    background-image: url('/projects/banner.jpg');
+    background-image: url('/banner.jpg');
     background-attachment: fixed;
     background-position-x: 0;
   }

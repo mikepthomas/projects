@@ -2,6 +2,7 @@ import cn from 'classnames';
 import Link from 'next/link';
 import Image from 'next/image';
 
+import { PROJECTS_PATH } from '../lib/constants';
 import { basePath } from '../next.config';
 
 type Props = {
@@ -34,7 +35,11 @@ const CoverImage = ({
   return (
     <div className="sm:mx-0">
       {slug ? (
-        <Link as={`/${slug}`} href="/[slug]" aria-label={title}>
+        <Link
+          as={`${PROJECTS_PATH}/${slug}`}
+          href={`${PROJECTS_PATH}/[slug]`}
+          aria-label={title}
+        >
           {image}
         </Link>
       ) : (

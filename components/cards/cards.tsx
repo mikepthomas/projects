@@ -26,6 +26,8 @@
 import { Col, Container, Row } from 'reactstrap';
 
 import Card from './project-card';
+import { PROJECTS_PATH } from '../../lib/constants';
+import { basePath } from '../../next.config';
 
 export default function Cards() {
   return (
@@ -88,8 +90,8 @@ export default function Cards() {
           <Col>
             <Card
               name="OpenRC F1"
-              link="openrc-f1"
-              image="/projects/assets/blog/openrc-f1/openrc-hero.jpg"
+              link={`${PROJECTS_PATH}/openrc-f1`}
+              image={`${basePath}/assets/blog/openrc-f1/openrc-hero.jpg`}
             >
               Printing a Formula 1 style remote control car.
             </Card>
@@ -97,8 +99,8 @@ export default function Cards() {
           <Col>
             <Card
               name="OpenRC Truggy"
-              link="openrc-truggy"
-              image="/projects/assets/blog/openrc-truggy/truggy-hero.jpg"
+              link={`${PROJECTS_PATH}/openrc-truggy`}
+              image={`${basePath}/assets/blog/openrc-truggy/truggy-hero.jpg`}
             >
               Logical advancement from the OpenRC F1.
             </Card>
@@ -106,8 +108,8 @@ export default function Cards() {
           <Col>
             <Card
               name="Guitar"
-              link="guitar"
-              image="/projects/assets/blog/guitar/12-almost-there.jpg"
+              link={`${PROJECTS_PATH}/guitar`}
+              image={`${basePath}/assets/blog/guitar/12-almost-there.jpg`}
             >
               Building a guitar with a 3D printed body.
             </Card>
@@ -115,8 +117,8 @@ export default function Cards() {
           <Col>
             <Card
               name="Red Rocket"
-              link="red-rocket"
-              image="/projects/assets/blog/red-rocket/red-rocket-hero.jpg"
+              link={`${PROJECTS_PATH}/red-rocket`}
+              image={`${basePath}/assets/blog/red-rocket/red-rocket-hero.jpg`}
             >
               3D Printing the Red Rocket Truck Stop from Fallout 4.
             </Card>
@@ -130,22 +132,22 @@ export default function Cards() {
         </h2>
         <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
           <Col>
-            <Card name="Anet A8" link="printer">
+            <Card name="Anet A8" link={`${PROJECTS_PATH}/printer`}>
               My first 3D printer.
             </Card>
           </Col>
           <Col>
-            <Card name="Rook 2020" link="printer-rook">
+            <Card name="Rook 2020" link={`${PROJECTS_PATH}/printer-rook`}>
               3D Printing a cheap CoreXY 3D Printer.
             </Card>
           </Col>
           <Col>
-            <Card name="Voron 0.2" link="printer-voron-0.2">
+            <Card name="Voron 0.2" link={`${PROJECTS_PATH}/printer-voron-0.2`}>
               Printing parts to assemble a Voron 0.2 3D printer.
             </Card>
           </Col>
           <Col>
-            <Card name="Voron 1.8" link="printer-voron-1.8">
+            <Card name="Voron 1.8" link={`${PROJECTS_PATH}/printer-voron-1.8`}>
               Printing parts to assemble a Voron 1.8 3D printer.
             </Card>
           </Col>

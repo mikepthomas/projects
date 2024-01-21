@@ -29,7 +29,7 @@ import Link from 'next/link';
 import { Breadcrumb, BreadcrumbItem, Container } from 'reactstrap';
 
 import styles from './breadcrumbs.module.scss';
-import { CMS_NAME } from '../../lib/constants';
+import { CMS_NAME, PROJECTS_PATH } from '../../lib/constants';
 
 type Props = {
   pageName: string;
@@ -44,13 +44,13 @@ const Breadcrumbs = ({ pageName }: Props) => {
       >
         <Breadcrumb className="p-3 bg-light">
           <BreadcrumbItem>
-            <a href="/">
+            <Link href="/">
               <FontAwesomeIcon className="mr-2" icon={['fas', 'home']} />
               Home
-            </a>
+            </Link>
           </BreadcrumbItem>
           <BreadcrumbItem>
-            <Link href="/">{CMS_NAME}</Link>
+            <Link href={PROJECTS_PATH}>{CMS_NAME}</Link>
           </BreadcrumbItem>
           <BreadcrumbItem active>{pageName}</BreadcrumbItem>
         </Breadcrumb>

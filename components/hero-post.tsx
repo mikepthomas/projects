@@ -1,9 +1,11 @@
+import Link from 'next/link';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import Avatar from './avatar';
 import DateFormatter from './date-formatter';
 import CoverImage from './cover-image';
-import Link from 'next/link';
 import type Author from '../interfaces/author';
+import { PROJECTS_PATH } from '../lib/constants';
 
 type Props = {
   title: string;
@@ -35,7 +37,11 @@ const HeroPost = ({
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
-            <Link as={`/${slug}`} href="/[slug]" className="hover:underline">
+            <Link
+              as={`${PROJECTS_PATH}/${slug}`}
+              href={`${PROJECTS_PATH}/[slug]`}
+              className="hover:underline"
+            >
               {title}
             </Link>
           </h3>
