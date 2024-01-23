@@ -1501,6 +1501,10 @@
           "windows-11.jpg": {
             "alt": "Windows 11 running on the X220",
             "title": "Windows 11"
+          },
+          "bluetooth-upgrade.jpg": {
+            "alt": "A Bluetooth 4.0 compatable card salvaged from a broken X230",
+            "title": "Bluetooth Upgrade"
           }
         },
         "nevermore-filter": {

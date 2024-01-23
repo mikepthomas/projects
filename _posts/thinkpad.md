@@ -2,7 +2,7 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-01-10T18:45:00.050Z
+lastmod: 2024-01-23T20:15:07.332Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
@@ -40,6 +40,8 @@ I brought the laptop for cheap from a seller on eBay. The laptop was quite dirty
 ![The Bluetooth module is separate from the Wifi module](/assets/blog/thinkpad/bluetooth.jpg)
 
 Bluetooth can be upgraded to Bluetooth 4.0 by simply swapping out the daughter card located under the palm rest.
+
+![A Bluetooth 4.0 compatable card salvaged from a broken X230](/assets/blog/thinkpad/bluetooth-upgrade.jpg)
 
 ## Processor Upgrade
 
