@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-01-12T22:06:24.344Z
+lastmod: 2024-01-24T00:59:48.558Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -64,6 +64,13 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | [BigTreeTech SKR Pico](https://biqu.equipment/collections/control-board/products/btt-skr-pico-v1-0)                                                                                                       | [Voron 0.2](printer-voron-0.2) |                       | [Klipper Firmware](https://www.klipper3d.org)                        | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech SKR Pico](https://biqu.equipment/collections/control-board/products/btt-skr-pico-v1-0)                                                                                                       |                                |                       | [Klipper Firmware](https://www.klipper3d.org)                        | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech U2C V2.1](https://docs.meteyou.wtf/btt-u2c-v2.x/)                                                                                                                                            |                                |                       | [CandleLight Firmware](https://github.com/candle-usb/candleLight_fw) | CANBUS adapter to communicate with CAN Enabled 3D printer boards         |
+
+# Custom
+
+| Item                                                             | Case                           | Flashed with                                  | Notes                                      |
+| ---------------------------------------------------------------- | ------------------------------ | --------------------------------------------- | ------------------------------------------ |
+| [ERCF Easy BRD](https://github.com/Tircown/ERCF-easy-brd)        | [AM8](printer-am8)             | [Klipper Firmware](https://www.klipper3d.org) | by [Tircown](https://github.com/Tircown)   |
+| [Klipper Expander](https://github.com/timmit99/Klipper-Expander) | [Voron 1.8](printer-voron-1.8) | [Klipper Firmware](https://www.klipper3d.org) | by [timmit99](https://github.com/timmit99) |
 
 # Espressif
 
