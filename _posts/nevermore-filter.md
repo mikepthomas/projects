@@ -2,6 +2,7 @@
 title: Nevermore Filter
 heading: Assembling a Nevermore Filter
 date: 2024-01-19T22:33:50.401Z
+lastmod: 2024-01-26T16:22:32.011Z
 author: Mike Thomas
 description: The Nevermore filters the encosure to reduce the smell of printing ABS.
 preview: /assets/blog/nevermore-filter/nevermore-filter-hero.jpg
@@ -29,43 +30,48 @@ This version will be used on the [Voron 1.8](printer-voron-1.8)
 
 ### Fasteners
 
-| Item                | Quantity | Received | Notes       |
-| ------------------- | -------- | -------- | ----------- |
-| M2x4 FHCS           | 7        |          | 7 on order  |
-| M3x6 BHCS           | 18       |          | 18 on order |
-| M3x8 BHCS           | 2        |          | 2 on order  |
-| M3x10 BHCS          | 7        |          | 7 on order  |
-| M3x12 BHCS          | 4        |          | 4 on order  |
-| M3x12 SHCS          | 7        |          | 7 on order  |
-| M3x25 SHCS          | 4        |          | 4 on order  |
-| M3 Hex Nut          | 1        |          | 1 on order  |
-| M3 threaded inserts | 24       |          | 24 on order |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| M2x4 FHCS           | 7        | 7        |       |
+| M3x6 BHCS           | 18       | 18       |       |
+| M3x6 SHCS           | 12       | 12       |       |
+| M3x8 SHCS           | 2        | 2        |       |
+| M3x10 BHCS          | 4        | 4        |       |
+| M3x10 SHCS          | 4        | 4        |       |
+| M3x12 BHCS          | 4        | 4        |       |
+| M3x12 SHCS          | 7        | 7        |       |
+| M3x16 BHCS          | 1        | 1        |       |
+| M3x16 SHCS          | 1        | 1        |       |
+| M3x20 SHCS          | 2        | 3        |       |
+| M3x25 SHCS          | 4        | 4        |       |
+| M3 Hex Nut          | 1        | 1        |       |
+| M3 threaded inserts | 28       | 36       |       |
 
 ### Electronics
 
-| Item                                   | Quantity | Received | Notes          |
-| -------------------------------------- | -------- | -------- | -------------- |
-| Raspberry Pi Pico W (plus header pins) | 1        |          | 1 on order     |
-| SPG40 sensors                          | 2        |          | 2 on order     |
-| BME280 sensors                         | 2        |          | 2 on order     |
-| Mateksys 6-30V voltage regulator       | 1        |          | 1 on order     |
-| M8 threaded DC connector               | 1        |          | 1 on order     |
-| 6-pin 1.25mm pitch JST connector       | 1        |          | 1 on order     |
-| 4-pin 1.25mm pitch JST connector       | 2        |          | 2 on order     |
-| JST-PH 4-pin male GPU fan connector    | 1        |          | 1 on order     |
-| AWG26 cable                            | 300mm    |          | 300mm on order |
-| 65mm GPU fan                           | 1        |          | 1 on order     |
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| Raspberry Pi Pico W (plus header pins) | 1        | 1        |       |
+| SPG40 sensors                          | 2        | 2        |       |
+| BME280 sensors                         | 2        | 2        |       |
+| Mateksys 6-30V voltage regulator       | 1        | 1        |       |
+| M8 threaded DC connector               | 1        | 1        |       |
+| 6-pin 1.25mm pitch JST connector       | 1        | 1        |       |
+| 4-pin 1.25mm pitch JST connector       | 2        | 2        |       |
+| JST-PH 4-pin male GPU fan connector    | 1        | 1        |       |
+| AWG26 cable                            | 300mm    | 300mm    |       |
+| 65mm GPU fan                           | 1        | 1        |       |
 
 ### Misc
 
-| Item                                   | Quantity | Received | Notes                                          |
-| -------------------------------------- | -------- | -------- | ---------------------------------------------- |
-| Linneo 250mm round polycarbonate sheet | 1        |          | 1 on order, 3mm thick                          |
-| Pneumatic Bowden Fitting M10           | 1        |          | 1 on order                                     |
-| HEPA filters                           | 2        |          | 2 on order, 130×40 mm, same as Xiaomi Mijia G1 |
-| Heat shrink tubing                     | 1        |          | 1 on order                                     |
-| Polymax Neopren Sponge Cord            | 1m       |          | 1m on order, 3mm thick                         |
-| Nevermore XL Carbon refills            | 2        |          | 2 on order                                     |
+| Item                                   | Quantity | Received | Notes                             |
+| -------------------------------------- | -------- | -------- | --------------------------------- |
+| Linneo 250mm round polycarbonate sheet | 1        | 1        | 3mm thick                         |
+| Pneumatic Bowden Fitting M10           | 1        | 1        |                                   |
+| HEPA filters                           | 2        | 2        | 130×40mm, same as Xiaomi Mijia G1 |
+| Heat shrink tubing                     | 1        | 1        |                                   |
+| Polymax Neopren Sponge Cord            | 1m       | 1m       | 3mm thick                         |
+| Nevermore XL Carbon refills            | 2        | 2        |                                   |
 
 ## Printing Parts
 

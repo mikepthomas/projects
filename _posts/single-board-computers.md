@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-01-24T00:59:48.558Z
+lastmod: 2024-01-26T17:17:33.704Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -245,7 +245,7 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 | Datanoise Pico ADK                  | Eurorack Module                                                                                             | [PicoADK Firmware](https://github.com/DatanoiseTV/PicoADK-Firmware-Template) | In original packaging           |
 | Raspberry Pi Pico                   | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                       | [PiPicoMacroKeys](https://github.com/novaspirit/PiPicoMacroKeys)             | In original packaging           |
 | Raspberry Pi Pico H                 | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython](https://micropython.org)                                       |                                 |
-| Raspberry Pi Pico W                 |                                                                                                             |                                                                              | In original packaging           |
+| Raspberry Pi Pico W                 | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller)   | In original packaging           |
 | Raspberry Pi Pico WH                |                                                                                                             | [ESPHome](https://esphome.io/)                                               | Boxed                           |
 | Raspberry Pi RP2040 Microcontroller |                                                                                                             |                                                                              | Bare Chip in original packaging |
 
