@@ -2,7 +2,7 @@
 title: Voron 1.8
 heading: Assembling my first Voron printer
 date: 2022-02-17
-lastmod: 2024-01-12T18:04:16.970Z
+lastmod: 2024-01-27T22:05:27.968Z
 author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8 3D printer.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
@@ -183,7 +183,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | NEMA17 TR8x4 300mm Linear Stepper    | 2        | 2        | In LDO V1 Z Motor Kit                                                                                                                    |
 | ERCF Afterburner Tool-Head PCB       | 1        | 1        |                                                                                                                                          |
 | NeoPixel RGBW Mini Button PCB        | 3        | 3        | For Stealthburner                                                                                                                        |
-| BigTreeTech Smart Filament Sensor V2 | 2        |          | 2 on order                                                                                                                               |
+| BigTreeTech Smart Filament Sensor V2 | 2        | 2        |                                                                                                                                          |
 
 ## Panels
 

@@ -2,7 +2,7 @@
 title: Klipper Fan Hat
 heading: Creating a Printed Circuit Board to control fans in Klipper
 date: 2023-03-21
-lastmod: 2024-01-12T18:06:23.345Z
+lastmod: 2024-01-27T22:05:27.968Z
 author: Mike Thomas
 description: Creating a Raspberry Pi Hat to control additional fans using the Raspberry Pi as a Secondary MCU in Klipper Firmware.
 preview: /assets/blog/printer-klipper-fan-hat/klipper-fan-hat-hero.jpg
@@ -95,7 +95,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | 4.7kΩ Resistor (1206 Package)           | 7        | 103      | R4, R17-R22            |
 | 10kΩ Resistor (1206 Package)            | 5        | 111      | R8, R10, R12, R14, R16 |
 | LED Red (1206 Package)                  | 7        | 105      | D1-D7                  |
-| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 50       | 50 on order, Q1-Q5     |
+| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 100      | Q1-Q5                  |
 
 ## Misc
 
