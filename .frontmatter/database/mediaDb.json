@@ -1505,6 +1505,14 @@
           "bluetooth-upgrade.jpg": {
             "alt": "A Bluetooth 4.0 compatable card salvaged from a broken X230",
             "title": "Bluetooth Upgrade"
+          },
+          "libreboot.jpg": {
+            "alt": "Libreboot running on the laptop",
+            "title": "Libreboot"
+          },
+          "repairing-split-lid.jpg": {
+            "alt": "Using Araldite to fix split lid of the laptop",
+            "title": "Repairing Split Lid"
           }
         },
         "nevermore-filter": {
