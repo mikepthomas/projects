@@ -2,7 +2,7 @@
 title: Cameras
 heading: Digital and Film Cameras
 date: 2018-10-09
-lastmod: 2024-01-10T18:45:00.050Z
+lastmod: 2024-02-11T20:23:33.053Z
 author: Mike Thomas
 description: The many cameras I have aquired over the years.
 preview: /assets/blog/cameras/cameras-hero.jpg
@@ -43,7 +43,7 @@ I brought this as an upgrade to the [Cosina CSL](#csl), the only difference is t
 
 ![No. 1 Pocket Kodak Jr ready to take pictures](/assets/blog/cameras/kodak-open.jpg)
 
-I purchased this as I liked how it looked and did not know if it would actually work. I ran a roll of 120 film through it and to my surprise it actuallt took pictures.
+I purchased this as I liked how it looked and did not know if it would actually work. I ran a roll of 120 film through it and to my surprise it actually took some decent pictures.
 
 ![No. 1 Pocket Kodak Jr folds up quite small](/assets/blog/cameras/kodak-closed.jpg)
 
