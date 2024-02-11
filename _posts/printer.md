@@ -2,7 +2,7 @@
 title: Anet A8
 heading: Assembly of an Anet A8 3D printer
 date: 2018-05-19
-lastmod: 2024-02-11T18:43:13.652Z
+lastmod: 2024-02-11T20:37:15.121Z
 author: Mike Thomas
 description: This project was to assemble my first 3D printer with the premise to eventually make it better by upgrading components and 3D printing improved parts.
 preview: /assets/blog/printer/printer-hero.jpg
@@ -205,7 +205,7 @@ The Y axis belt is then installed and the carriage is moved back and forth along
 
 The heated bed is then attached to the hot bed aluminium plate with 4 springs and wing nuts to allow the bed to be levelled.
 
-**_NOTE:_** I added M3 Nuts here before adding the springs to stop the screws rotating countersink of the heated bed when adjusting the bed with the wing nuts.
+**_NOTE:_** I added M3 Nuts here before adding the springs to stop the screws rotating in the countersink of the heated bed when adjusting the bed with the wing nuts.
 
 #### Parts Used
 
