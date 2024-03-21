@@ -14,6 +14,11 @@
           "single": true
         },
         {
+          "title": "heading",
+          "name": "heading",
+          "type": "string"
+        },
+        {
           "title": "Created date",
           "name": "date",
           "type": "datetime",
@@ -48,6 +53,12 @@
           "isPreviewImage": true
         },
         {
+          "title": "slug",
+          "name": "slug",
+          "type": "string",
+          "single": true
+        },
+        {
           "title": "Related Content",
           "name": "related",
           "type": "contentRelationship",
@@ -71,6 +82,11 @@
           "name": "categories",
           "type": "categories",
           "taxonomyLimit": 3
+        },
+        {
+          "title": "promoted",
+          "name": "promoted",
+          "type": "boolean"
         }
       ]
     }

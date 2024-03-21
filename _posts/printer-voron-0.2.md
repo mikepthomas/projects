@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-01-11T21:18:43.082Z
+lastmod: 2024-03-21T17:09:29.688Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -463,6 +463,31 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | [Fan_Mount_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Bottom_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as his will be replaced by LDO Bottom Fan Panel |
 | [Fan_Mount_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Top_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as his will be replaced by LDO Bottom Fan Panel |
 | [PSU_Cover](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PSU_Cover_x1.STL)               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+
+### :negative_squared_cross_mark: MF Nano
+
+The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [MapleLeafMakers](https://github.com/MapleLeafMakers/MFNano).
+
+| Item                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                            |
+| -------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------- |
+| [cartridge_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_body.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+| [cartridge_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_lid.stl)   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+| [magclip](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/magclip_x2.stl)            | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+| [plenum_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_body.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+| [plenum_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_lid.stl)         | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                           | Quantity |
+| ------------------------------ | -------- |
+| M3x6 BHCS                      | 5        |
+| M3x16 BHCS                     | 2        |
+| 4x6mm Neodimium Magnet         | 8        |
+| 6x3mm Neodimium Magnet         | 12       |
+| M3 Threaded Insert             | 3        |
+| 50x50x15 Centrifugal Fan (24V) | 1        |
 
 ## Skirts & Panels
 
