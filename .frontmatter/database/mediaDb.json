@@ -560,6 +560,31 @@
           "teensy-audio-guestbook.jpg": {
             "alt": "Retro telephone used as a guestbook at my wedding",
             "title": "Teensy Audio Guestbook"
+          },
+          "klipper-expander.jpg": {
+            "title": "Klipper Expander",
+            "caption": "",
+            "alt": "Board designed to add additional functionality to a Printer running Klipper firmware"
+          },
+          "mellow-boards.jpg": {
+            "title": "Mellow Boards",
+            "caption": "",
+            "alt": "3D Printer mainboards made by Mellow"
+          },
+          "party-in-the-back.jpg": {
+            "title": "Party In The Back",
+            "caption": "",
+            "alt": "A small 3D Printer mainboard with some big stepper drivers "
+          },
+          "pikvm.jpg": {
+            "title": "PiKVM",
+            "caption": "",
+            "alt": "A Raspberry Pi powered KVM Switch"
+          },
+          "wifi-arduino-85.jpg": {
+            "title": "Wifi Arduino 85",
+            "caption": "",
+            "alt": "A Relay board with a ATtiny85 and an ESP-01"
           }
         },
         "macro-pi": {
