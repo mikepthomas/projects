@@ -2,7 +2,7 @@
 title: Voron 1.8 Modifications
 heading: Voron 1.8 Modifications and Upgrades
 date: 2022-04-27
-lastmod: 2024-01-12T18:04:16.970Z
+lastmod: 2024-03-21T17:26:49.763Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
@@ -283,9 +283,9 @@ The SKR 1.4 Turbo only has 1 controllable fan header, I have purchased a few [mo
 
 Will make moving the printer around a little easier when assembled.
 
-| Item                                                                                                                             | Quantity | Material                                             | Size   | Weight | Cost  | Printed | Notes                              |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :-----: | ---------------------------------- |
-| [sturdy_handles](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/jeoje/Sturdy_Handles/STL/sturdy_handles.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 20.24m | 54.14g | £1.03 |   :x:   | This is a Voron Users Mod by jeoje |
+| Item                                                                                                                             | Quantity | Material                                             | Size   | Weight | Cost  | Printed | Notes                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :-----: | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [sturdy_handles](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/jeoje/Sturdy_Handles/STL/sturdy_handles.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 20.24m | 54.14g | £1.03 |   :x:   | This is a Voron Users Mod by jeoje. Not required as replacing with [LDO Carry Handles](https://www.onetwo3d.co.uk/product/ldo-carry-handles/) |
 
 ### :negative_squared_cross_mark: Assembly
 
