@@ -23,13 +23,39 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as RaspberryPiColoriser } from './raspberry-pi/raspberry-pi-coloriser';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+import { ReactNode } from 'react';
+
+import ColorCommon, {
+  ColorOldStyle,
+  ColorPiZero,
+  ColorPi1,
+  ColorPi2,
+  ColorPi3,
+  ColorPi4,
+  ColorPi5,
+} from './boards';
+import ColorPins from './pins';
+import { Props } from './raspberry-pi';
+
+const ColorParts = (children: ReactNode) => {
+  [
+    ColorCommon,
+    ColorOldStyle,
+    ColorPiZero,
+    ColorPi1,
+    ColorPi2,
+    ColorPi3,
+    ColorPi4,
+    ColorPi5,
+    ColorPins,
+  ].forEach((func) => (children = func(children)));
+  return children;
+};
+
+const RaspberryPiColoriser = ({ children, className }: Props) => (
+  <span className={className}>
+    {className === 'code-line' ? ColorParts(children) : children}
+  </span>
+);
+
+export default RaspberryPiColoriser;

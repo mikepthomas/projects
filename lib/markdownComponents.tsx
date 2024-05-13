@@ -23,10 +23,12 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import cn from 'classnames';
 import { Table } from 'reactstrap';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 
+import { RaspberryPiColoriser } from '../components';
 import { basePath } from '../next.config';
 
 export function getComponents() {
@@ -54,6 +56,22 @@ export function getComponents() {
           alt={alt}
         />
       </motion.span>
+    ),
+    pre: ({ children, className }) => (
+      <pre
+        className={
+          className
+            ? className
+            : cn('bg-dark', 'mb-3', 'p-4', 'rounded', 'text-light')
+        }
+      >
+        {children}
+      </pre>
+    ),
+    span: ({ children, className }) => (
+      <RaspberryPiColoriser className={className}>
+        {children}
+      </RaspberryPiColoriser>
     ),
     table: ({ children }) => (
       <Table bordered hover responsive size="sm" striped>

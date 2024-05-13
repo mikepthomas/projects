@@ -23,13 +23,27 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as RaspberryPiColoriser } from './raspberry-pi/raspberry-pi-coloriser';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+import { Children, ReactNode } from 'react';
+
+import { RaspberryPi, SilkScreen } from '../raspberry-pi';
+
+export default function ColorBoards(children: ReactNode) {
+  switch (Children.toArray(children).toString()) {
+    // Pi Model 2B  V1.1
+    case '|      Pi Model 2B  V1.1         |\n':
+      return (
+        <RaspberryPi>
+          |      <SilkScreen>Pi Model 2B  V1.1</SilkScreen>         |
+        </RaspberryPi>
+      );
+    // Pi Model 2B  V1.2
+    case '|      Pi Model 2B  V1.2         |\n':
+      return (
+        <RaspberryPi>
+          |      <SilkScreen>Pi Model 2B  V1.2</SilkScreen>         |
+        </RaspberryPi>
+      );
+    default:
+      return children;
+  }
+}

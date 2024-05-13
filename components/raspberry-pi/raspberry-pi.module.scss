@@ -1,4 +1,4 @@
-/*
+/* 
  * Copyright (c) 2016-2024, Mike Thomas
  * All rights reserved.
  *
@@ -23,13 +23,69 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-export { default as About } from './about/about';
-export { default as Blog } from './blog/blog';
-export { default as Breadcrumbs } from './breadcrumbs/breadcrumbs';
-export { default as Cards } from './cards/cards';
-export { default as Footer } from './footer/footer';
-export { default as Intro } from './intro/intro';
-export { default as Navigation } from './navigation/navigation';
-export { default as RaspberryPiColoriser } from './raspberry-pi/raspberry-pi-coloriser';
-export { default as Tags } from './tags/tags';
-export { default as Timeline } from './timeline/timeline';
+
+.raspberrypi {
+  display: block;
+  line-height: 1.2em;
+}
+
+// Materials
+.metal {
+  background-color: lightgray;
+  color: black;
+}
+.pcb {
+  background-color: limegreen;
+  color: lightgray;
+}
+.plastic {
+  background-color: black;
+}
+.silkscreen {
+  color: white;
+}
+
+// Pins
+.gpio {
+  color: lime;
+}
+.ground {
+  color: grey;
+}
+.pin {
+  color: gold;
+}
+.power3v {
+  color: cyan;
+}
+.power5v {
+  color: coral;
+}
+
+// Modifiers
+.audio {
+  background-color: darkturquoise !important;
+}
+.accent {
+  background-color: firebrick;
+}
+.case {
+  background-color: lightgray;
+  color: black;
+}
+.composite {
+  background-color: gold !important;
+  color: black;
+}
+.highlight {
+  color: red;
+}
+.transparent {
+  background-color: transparent;
+}
+.usb3 {
+  color: blue !important;
+}
+.vent {
+  color: black;
+}

@@ -33,6 +33,7 @@ import remarkGfm from 'remark-gfm';
 import remarkToc from 'remark-toc';
 import rehypeMinifyWhitespace from 'rehype-minify-whitespace';
 import rehypePrism from 'rehype-prism-plus';
+import rehypeReact from 'rehype-react';
 import rehypeSlug from 'rehype-slug';
 
 import styles from './blog.module.scss';
@@ -57,7 +58,12 @@ export default function Blog({ content, related }: Props) {
               remarkGfm,
               [remarkToc, { maxDepth: 3, ordered: true }],
             ]}
-            rehypePlugins={[rehypePrism, rehypeSlug, rehypeMinifyWhitespace]}
+            rehypePlugins={[
+              rehypePrism,
+              rehypeReact,
+              rehypeSlug,
+              rehypeMinifyWhitespace,
+            ]}
           >
             {content}
           </Markdown>
