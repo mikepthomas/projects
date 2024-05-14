@@ -43,9 +43,15 @@ export default function Navigation(props: Props) {
   return (
     <div className="navigation">
       <a
-        className={cn(styles['github-banner'], 'github-fork-ribbon', 'd-none', 'd-md-block')}
+        className={cn(
+          styles['github-banner'],
+          'github-fork-ribbon',
+          'd-none',
+          'd-md-block',
+        )}
         href={`${github.url}${github.user}/${CMS_NAME.toLowerCase()}`}
-        target="_blank" rel="noopener noreferrer"
+        target="_blank"
+        rel="noopener noreferrer"
         data-ribbon="Fork me on GitHub"
         title="Fork me on GitHub"
       >

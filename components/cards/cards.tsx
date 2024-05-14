@@ -116,10 +116,7 @@ export default function Cards({ promotedPosts }: Props) {
             .filter((post) => post.categories.includes('3D Printer'))
             .map((post, index) => (
               <Col key={index}>
-                <Card
-                  name={post.title}
-                  link={`${PROJECTS_PATH}/${post.slug}`}
-                >
+                <Card name={post.title} link={`${PROJECTS_PATH}/${post.slug}`}>
                   {post.description}
                 </Card>
               </Col>
