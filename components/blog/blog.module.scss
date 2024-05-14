@@ -39,7 +39,8 @@
     color: $danger;
   }
   table td {
-    .img-thumbnail {
+    img {
+      border: 0;
       padding: 0;
     }
   }
