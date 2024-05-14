@@ -23,13 +23,14 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+@import '~bootstrap/scss/_functions';
+@import '~bootstrap/scss/_variables';
+
 .github-banner {
-  img {
-    position: fixed;
-    top: 0;
-    right: 0;
-    border: 0;
-    z-index: 10000;
+  position: fixed;
+
+  &:before {
+    background-color: $orange;
   }
 }
 

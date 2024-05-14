@@ -94,9 +94,8 @@ export default function Cards({ promotedPosts }: Props) {
           {promotedPosts
             .filter((post) => post.categories.includes('3D Printing'))
             .map((post, index) => (
-              <Col>
+              <Col key={index}>
                 <Card
-                  key={index}
                   name={post.title}
                   link={`${PROJECTS_PATH}/${post.slug}`}
                   image={post.preview}
@@ -116,9 +115,8 @@ export default function Cards({ promotedPosts }: Props) {
           {promotedPosts
             .filter((post) => post.categories.includes('3D Printer'))
             .map((post, index) => (
-              <Col>
+              <Col key={index}>
                 <Card
-                  key={index}
                   name={post.title}
                   link={`${PROJECTS_PATH}/${post.slug}`}
                 >
@@ -137,9 +135,8 @@ export default function Cards({ promotedPosts }: Props) {
           {promotedPosts
             .filter((post) => post.categories.includes('Electronics'))
             .map((post, index) => (
-              <Col>
+              <Col key={index}>
                 <Card
-                  key={index}
                   name={post.title}
                   link={`${PROJECTS_PATH}/${post.slug}`}
                   image={post.preview}

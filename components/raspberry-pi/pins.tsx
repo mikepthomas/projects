@@ -461,7 +461,7 @@ export default function ColorPins(children: ReactNode) {
       return (
         <>
           For further information, please refer to 
-          <a href="https://pinout.xyz/" target="_blank">
+          <a href="https://pinout.xyz/" target="_blank" rel="noopener noreferrer">
             https://pinout.xyz/
           </a>
           <br />
