@@ -457,6 +457,16 @@ export default function ColorPins(children: ReactNode) {
           <br />
         </>
       );
+    case 'For further information, please refer to https://pinout.xyz/\n':
+      return (
+        <>
+          For further information, please refer to 
+          <a href="https://pinout.xyz/" target="_blank">
+            https://pinout.xyz/
+          </a>
+          <br />
+        </>
+      );
     default:
       return children;
   }
