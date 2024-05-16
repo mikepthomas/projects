@@ -1082,6 +1082,10 @@
             "alt": "Belts routed and Installed",
             "title": "Belts Installed"
           },
+          "clockwork-assembled.jpg": {
+            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
+            "title": "Clockwork Assembled"
+          },
           "clockwork-installed.jpg": {
             "alt": "Clockwork 1 extruder installed",
             "title": "Clockwork Installed"
@@ -1240,10 +1244,6 @@
           }
         },
         "enraged-rabbit-carrot-feeder-2.0": {
-          "clockwork-assembled.jpg": {
-            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
-            "title": "Clockwork Assembled"
-          },
           "enraged-rabbit-carrot-feeder-2.0-hero.jpg": {
             "alt": "A box of bits to assemble an Enraged Rabbit Carrot Feeder",
             "title": "Enraged Rabbit Carrot Feeder 2.0 Hero"
