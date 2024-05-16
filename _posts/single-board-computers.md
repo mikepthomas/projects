@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-05-14T17:41:24.627Z
+lastmod: 2024-05-16T20:47:57.359Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -63,7 +63,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | [BigTreeTech MMB CAN V1.0](https://biqu.equipment/products/bigtreetech-mmb)                                                                                                                               | [Enraged Rabbit Cotton Tail](enraged-rabbit-carrot-feeder-2.0#enraged-rabbit-cotton-tail) |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | With 4 [EZ2209](https://bttwiki.com/EZ2209.html)s                        |
 | [BigTreeTech Pi V1.2](https://biqu.equipment/products/bigtreetech-btt-pi-v1-2)                                                                                                                            |                                                                                           |                       | [CB1](https://github.com/bigtreetech/CB1)                                                                       | With [U2C v1.0 CAN Adapter Module](https://docs.meteyou.wtf/btt-pi-u2c/) |
 | [BigTreeTech SKR V1.4](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3) | [Anet A8](printer)                                                                        | 8GB MicroSD (Sandisk) | [Marlin Firmware](https://marlinfw.org/)                                                                        | 3D printer Mainboard based on LPC1768                                    |
-| [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                                                 |                                                                                           |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on LPC1769                                    |
+| [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                                                 | [Voron 1.8](printer-voron-1.8)                                                            |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on LPC1769                                    |
 | [BigTreeTech SKR Pico](https://biqu.equipment/collections/control-board/products/btt-skr-pico-v1-0)                                                                                                       | [Voron 0.2](printer-voron-0.2)                                                            |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech SKR Pico](https://biqu.equipment/collections/control-board/products/btt-skr-pico-v1-0)                                                                                                       |                                                                                           |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech U2C V2.1](https://docs.meteyou.wtf/btt-u2c-v2.x/)                                                                                                                                            |                                                                                           |                       | [CandleLight Firmware](https://github.com/candle-usb/candleLight_fw)                                            | CANBUS adapter to communicate with CAN Enabled 3D printer boards         |
@@ -104,7 +104,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 | Item                                          | Case                           | Flashed with                                  | Notes                                                                   |
 | --------------------------------------------- | ------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------- |
-| [PITB](https://github.com/FYSETC/FYSETC-PITB) | [Voron 1.8](printer-voron-1.8) | [Klipper Firmware](https://www.klipper3d.org) | 3D printer Expansion board based on RP2040 with 2 large TMC5160 Drivers |
+| [PITB](https://github.com/FYSETC/FYSETC-PITB) | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware](https://www.klipper3d.org) | 3D printer Expansion board based on RP2040 with 2 large TMC5160 Drivers |
 
 # Hardkernel
 
@@ -124,10 +124,10 @@ I purchased the Odroid XU4 and CloudShell enclosure to use as a Network Attached
 
 Mellow make mainboards to control 3D printers.
 
-| Item                                                       | Case                           | Storage                | Flashed with                                    | Notes                                      |
-| ---------------------------------------------------------- | ------------------------------ | ---------------------- | ----------------------------------------------- | ------------------------------------------ |
-| [Fly RRF E3](https://github.com/Mellow-3D/FLY-RRF-E3)      | [Rook 2020](printer-rook)      | 8GB MicroSD (Generic)  | [RepRapFirmware](https://teamgloomy.github.io/) | With 4 Mellow Fly TMC2225 stepper drivers  |
-| [Fly Super 8](https://mellow-3d.github.io/fly_super8.html) | [Voron 1.8](printer-voron-1.8) | 8GB MicroSD (Kingston) | [Klipper Firmware](https://www.klipper3d.org)   | With 12 Mellow Fly TMC2130 stepper drivers |
+| Item                                                       | Case                           | Storage               | Flashed with                                    | Notes                                      |
+| ---------------------------------------------------------- | ------------------------------ | --------------------- | ----------------------------------------------- | ------------------------------------------ |
+| [Fly RRF E3](https://github.com/Mellow-3D/FLY-RRF-E3)      | [Rook 2020](printer-rook)      | 8GB MicroSD (Generic) | [RepRapFirmware](https://teamgloomy.github.io/) | With 4 Mellow Fly TMC2225 stepper drivers  |
+| [Fly Super 8](https://mellow-3d.github.io/fly_super8.html) | [Voron 2.4](printer-voron-2.4) | 8GB MicroSD (Generic) | [Klipper Firmware](https://www.klipper3d.org)   | With 12 Mellow Fly TMC2130 stepper drivers |
 
 # Next Thing Co
 
@@ -640,9 +640,9 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi A+ rev 1.1
 
-| Item                    | Revision | RAM   | Case                           | Storage               | OS  | Hostname | Notes                                                             |
-| ----------------------- | -------- | ----- | ------------------------------ | --------------------- | --- | -------- | ----------------------------------------------------------------- |
-| Raspberry Pi A+ rev 1.1 | 0015     | 256MB | ModMyPi VESA-Pi+ Model A+ Case | 8GB MicroSD (Generic) |     |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
+| Item                    | Revision | RAM   | Case                           | Storage | OS  | Hostname | Notes                                                             |
+| ----------------------- | -------- | ----- | ------------------------------ | ------- | --- | -------- | ----------------------------------------------------------------- |
+| Raspberry Pi A+ rev 1.1 | 0015     | 256MB | ModMyPi VESA-Pi+ Model A+ Case |         |     |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
 
 ```
 Description        : Raspberry Pi A+ rev 1.1
@@ -899,9 +899,9 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 
 ## Raspberry Pi 3A+ rev 1.0
 
-| Item                     | Revision | RAM   | Case               | Power Supply          | Storage                 | OS                                         | Hostname | Notes |
-| ------------------------ | -------- | ----- | ------------------ | --------------------- | ----------------------- | ------------------------------------------ | -------- | ----- |
-| Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [AM8](printer-am8) | Mean Well RS-25-5 PSU | 64GB MicroSD (Integral) | [MainsailOS](https://docs-os.mainsail.xyz) | am8      | Boxed |
+| Item                     | Revision | RAM   | Case               | Power Supply | Storage                 | OS                                         | Hostname | Notes |
+| ------------------------ | -------- | ----- | ------------------ | ------------ | ----------------------- | ------------------------------------------ | -------- | ----- |
+| Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [AM8](printer-am8) |              | 64GB MicroSD (Integral) | [MainsailOS](https://docs-os.mainsail.xyz) | am8      | Boxed |
 
 ```
 Description        : Raspberry Pi 3A+ rev 1.0
@@ -1308,11 +1308,11 @@ For further information, please refer to https://pinout.xyz/
 
 I use a Raspberry Pi 4 under my desk as a KVM switch using [PiKVM](https://pikvm.org/) alongside an [Ezcoo EZ-SW41HA-KVMU3L](https://docs.pikvm.org/ezcoo/) to access 4 machines over my network.
 
-| Item                    | Revision | RAM | Case                                                  | Power Supply                                 | Storage                     | OS                                               | Hostname | Notes                                                                                                                                                            |
-| ----------------------- | -------- | --- | ----------------------------------------------------- | -------------------------------------------- | --------------------------- | ------------------------------------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.5 | a03115   | 1GB | [Voron 1.8](printer-voron-1.8)                        | Mean Well RS-25-5 PSU                        | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz)       | voron1   | With [Geekworm P165-B](https://wiki.geekworm.com/P165) Heatsink and [HighPi Pro 5V PWM Fan](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled) |
-| Raspberry Pi 4B rev 1.5 | b03115   | 2GB | [Geekworm KVM-A3](https://wiki.geekworm.com/PiKVM-A3) | OKdo USB C Fixed Head Power Supply (Black)   | 32GB MicroSD (Sandisk Edge) | [PiKVM v3](https://pikvm.org/download/)          | pikvm    |                                                                                                                                                                  |
-| Raspberry Pi 4B rev 1.5 | c03115   | 4GB | Official Raspberry Pi 4 Case (Black)                  | Official Raspberry Pi 4 Power Supply (Black) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye |          |                                                                                                                                                                  |
+| Item                    | Revision | RAM | Case                                                  | Power Supply                               | Storage                     | OS                                         | Hostname | Notes                                                                                                                                                            |
+| ----------------------- | -------- | --- | ----------------------------------------------------- | ------------------------------------------ | --------------------------- | ------------------------------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi 4B rev 1.5 | a03115   | 1GB | [Voron 1.8](printer-voron-1.8)                        | Mean Well RS-25-5 PSU                      | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz) | voron1   | With [Klipper Fan Hat](printer-klipper-fan-hat)                                                                                                                  |
+| Raspberry Pi 4B rev 1.5 | b03115   | 2GB | [Geekworm KVM-A3](https://wiki.geekworm.com/PiKVM-A3) | OKdo USB C Fixed Head Power Supply (Black) | 32GB MicroSD (Sandisk Edge) | [PiKVM v3](https://pikvm.org/download/)    | pikvm    |                                                                                                                                                                  |
+| Raspberry Pi 4B rev 1.5 | c03115   | 4GB | [Voron 2.4](printer-voron-2.4)                        | Mean Well RS-25-5 PSU                      | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz) | voron2   | With [Geekworm P165-B](https://wiki.geekworm.com/P165) Heatsink and [HighPi Pro 5V PWM Fan](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled) |
 
 ```
 Description        : Raspberry Pi 4B rev 1.5
