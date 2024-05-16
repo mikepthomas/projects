@@ -2,7 +2,7 @@
 title: Enraged Rabbit Carrot Feeder 2.0
 heading: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-01-31T22:04:29.786Z
+lastmod: 2024-05-16T18:09:58.350Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -123,82 +123,82 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Filament Blocks
 
-| Item                                                                                                                                       | Quantity | Material                                                                 | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [Base](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Base_xN.stl)                                   | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [End Bypass](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/End_Bypass.stl)                          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Filament Path](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Filament_Path_xN.stl)                 | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Base_Trap_M3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Base_Trap_M3_xN.stl)           | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Base_Trap_V-Shape](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Base_Trap_V-Shape_xN.stl) | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [End_Bypass_Foot](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_End_Bypass_Foot.stl)        | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Latch](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Latch_xN.stl)                         | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tophat](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Tophat_xN.stl)                       | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
+| Item                                                                                                                                       | Quantity | Material                                               | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | :-----: | ----- |
+| [Base](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Base_xN.stl)                                   | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [End Bypass](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/End_Bypass.stl)                          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Filament Path](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Filament_Path_xN.stl)                 | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Base_Trap_M3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Base_Trap_M3_xN.stl)           | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Base_Trap_V-Shape](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Base_Trap_V-Shape_xN.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [End_Bypass_Foot](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_End_Bypass_Foot.stl)        | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Latch](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Latch_xN.stl)                         | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tophat](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/%5Ba%5D_Tophat_xN.stl)                       | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
 
 ### Tag Plates
 
-| Item                                                                                                                                          | Quantity | Material                                                                 | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [Tag_plates_Digit0](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit0_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit1](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit1_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit2_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit3_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit4](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit4_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit5](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit5_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit6](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit6_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_Digit7](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit7_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Tag_plates_0](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_0_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_1](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_1_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_2_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_3_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_4](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_4_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_5](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_5_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_6](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_6_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Tag_plates_7](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_7_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
+| Item                                                                                                                                          | Quantity | Material                                               | Printed | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----- |
+| [Tag_plates_Digit0](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit0_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit1](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit1_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit2_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit3_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit4](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit4_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit5](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit5_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit6](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit6_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_Digit7](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/Tag_plates_Digit7_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Tag_plates_0](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_0_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_1](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_1_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_2](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_2_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_3_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_4](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_4_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_5](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_5_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_6](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_6_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Tag_plates_7](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Filament_Blocks/Tag_Plates/%5Ba%5D_Tag_plates_7_x2.stl)   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
 
 ### Gear Box
 
-| Item                                                                                                                                     | Quantity | Material                                                                 | Printed | Notes          |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | -------------- |
-| [Gear_Box_Back](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Gear_Box_Back.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                |
-| [Gear_Box_Front](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Gear_Box_Front.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                |
-| [Motor_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Motor_Arm_NEMA14.stl)                          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   | Nema14 Version |
-| [Bearing_Spacer](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Bearing_Spacer_x2.stl)            | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [Gear_Box_Bottom_Panel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Gear_Box_Bottom_Panel.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [Gear_Box_Top_Panel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Gear_Box_Top_Panel.stl)       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [Knob](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Knob.stl)                                   | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [Logo_Plate](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Logo_Plate.stl)                       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [M4_80T_Wheel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_M4_80T_Wheel.stl)                   | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
-| [Side_Latch](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Side_Latch_x2.stl)                    | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                |
+| Item                                                                                                                                     | Quantity | Material                                               | Printed | Notes          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | -------------- |
+| [Gear_Box_Back](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Gear_Box_Back.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                |
+| [Gear_Box_Front](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Gear_Box_Front.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                |
+| [Motor_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/Motor_Arm_NEMA14.stl)                          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | Nema14 Version |
+| [Bearing_Spacer](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Bearing_Spacer_x2.stl)            | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Gear_Box_Bottom_Panel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Gear_Box_Bottom_Panel.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Gear_Box_Top_Panel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Gear_Box_Top_Panel.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Knob](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Knob.stl)                                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Logo_Plate](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Logo_Plate.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [M4_80T_Wheel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_M4_80T_Wheel.stl)                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Side_Latch](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Gear_Box/%5Ba%5D_Side_Latch_x2.stl)                    | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
 
 ### Linear Axis
 
-| Item                                                                                                                                                          | Quantity | Material                                                                 | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [Linear_Axis_Idler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/Linear_Axis_Idler_Block.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Linear_Axis_Selector_Motor_Support](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/Linear_Axis_Selector_Motor_Support.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [Drag_Chain_Anchor_Bottom](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/%5Ba%5D_Drag_Chain_Anchor_Bottom.stl)             | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Motor_Lock](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/%5Ba%5D_Motor_Lock.stl)                                         | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
+| Item                                                                                                                                                          | Quantity | Material                                               | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----- |
+| [Linear_Axis_Idler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/Linear_Axis_Idler_Block.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Linear_Axis_Selector_Motor_Support](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/Linear_Axis_Selector_Motor_Support.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [Drag_Chain_Anchor_Bottom](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/%5Ba%5D_Drag_Chain_Anchor_Bottom.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Motor_Lock](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Linear_Axis/%5Ba%5D_Motor_Lock.stl)                                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
 
 ### Selector
 
-| Item                                                                                                                                         | Quantity | Material                                                                 | Printed | Notes           |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | --------------- |
-| [Belt_Tensioner](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Belt_Tensioner.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                 |
-| [Drag_Chain_Anchor](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Drag_Chain_Anchor.stl)                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                 |
-| [Encoder_Left](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Encoder_Flat_Bearing_Option/Encoder_Left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   | MB623ZZ version |
-| [Encoder_Right](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Encoder_Flat_Bearing_Option/Encoder_Right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   | MB623ZZ version |
-| [Selector_Door](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Door.stl)                             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                 |
-| [Selector_Spring_Cap](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Spring_Cap.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                 |
-| [Servo_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Servo_Mount_Savox.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   | Savox version   |
-| [Selector_Cart](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Selector_Cart.stl)                     | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |                 |
-| [Servo_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Servo_Arm_Savox.stl)                       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   | Savox version   |
-| [Encoder_Slotted_Wheel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Bo%5D_Encoder_Slotted_Wheel.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |                 |
+| Item                                                                                                                                         | Quantity | Material                                               | Printed | Notes           |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | --------------- |
+| [Belt_Tensioner](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Belt_Tensioner.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
+| [Drag_Chain_Anchor](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Drag_Chain_Anchor.stl)                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
+| [Encoder_Left](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Encoder_Flat_Bearing_Option/Encoder_Left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | MB623ZZ version |
+| [Encoder_Right](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Encoder_Flat_Bearing_Option/Encoder_Right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | MB623ZZ version |
+| [Selector_Door](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Door.stl)                             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
+| [Selector_Spring_Cap](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Spring_Cap.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
+| [Servo_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Servo_Mount_Savox.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | Savox version   |
+| [Selector_Cart](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Selector_Cart.stl)                     | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                 |
+| [Servo_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Servo_Arm_Savox.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | Savox version   |
+| [Encoder_Slotted_Wheel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Bo%5D_Encoder_Slotted_Wheel.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
 
 ### Supports
 
-| Item                                                                                                                                | Quantity | Material                                                                 | Printed | Notes       |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | ----------- |
-| [Support_Feet](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Supports/V1_V2/%5Ba%5D_Support_Feet_4mm_x4.stl) | 4        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   | 4mm version |
+| Item                                                                                                                                | Quantity | Material                                               | Printed | Notes       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----------- |
+| [Support_Feet](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Supports/V1_V2/%5Ba%5D_Support_Feet_4mm_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | 4mm version |
 
 ### Tools
 
@@ -276,20 +276,20 @@ I have printed the [Filament Sensor](https://github.com/EtteGit/EnragedRabbitPro
 
 ### Coupler Block
 
-| Item                                                                                                                                                                     | Quantity | Material                                                                 | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [Coupler_Block_180](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_Coupler_Block_180_xN.stl) | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)            |   :x:   |       |
-| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
+| Item                                                                                                                                                                     | Quantity | Material                                                      | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | :-----: | ----- |
+| [Coupler_Block_180](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_Coupler_Block_180_xN.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |   :x:   |       |
+| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
+| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |   :x:   |       |
 
 ### Support Arm
 
-| Item                                                                                                                                                                                  | Quantity | Material                                                                 | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [BTT_MMB_Box_Lid](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_BTT_MMB_Box_Lid.stl)                       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [BTT_MMB_Support_Arm_Endcap](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_BTT_MMB_Support_Arm_Endcap.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Support_Arm_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_Support_Arm_Mount_xN.stl)                | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [Support_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_Support_Arm_xN.stl)                            | 8        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
+| Item                                                                                                                                                                                  | Quantity | Material                                               | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----- |
+| [BTT_MMB_Box_Lid](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_BTT_MMB_Box_Lid.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [BTT_MMB_Support_Arm_Endcap](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_BTT_MMB_Support_Arm_Endcap.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Support_Arm_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_Support_Arm_Mount_xN.stl)                | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+| [Support_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Support_Arm/%5Ba%5D_Support_Arm_xN.stl)                            | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
 
 ### Tools
 
