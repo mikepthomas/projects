@@ -72,30 +72,30 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes                   |
-| -------------------------------------------------------- | -------- | -------- | ----------------------- |
-| Meanwell LRS-150-24                                      | 1        | 1        |                         |
-| Bigtreetech SKR Pico                                     | 1        | 1        |                         |
-| Raspberry Pi 4                                           | 1        | 1        |                         |
-| MicroSD Card                                             | 1        | 1        |                         |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        |                         |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        |                         |
-| 3010 blower fans 24V                                     | 2        | 2        |                         |
-| 3010 axial fan 24V                                       | 2        |          | 2 on order. LDO Branded |
-| 3510 axial fan 24V                                       | 4        | 5        |                         |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |                         |
-| C13 Power Cord                                           | 1        | 1        |                         |
-| IEC320 C14 inlet                                         | 1        | 1        |                         |
-| Hotend                                                   | 1        | 1        |                         |
-| 24V Heater Cartridge                                     | 1        | 1        |                         |
-| Hotend thermistor                                        | 1        | 1        |                         |
-| 3M 5952 VHB tape                                         | 1        | 1        |                         |
-| Fysetc Neopixel Sequins                                  | 2        | 4        |                         |
-| Siboor V0 Display                                        | 1        | 1        |                         |
-| Siboor Bed LED PCB                                       | 1        | 1        |                         |
-| Siboor XH2.54 PCB 2P-2P                                  | 1        | 1        |                         |
-| Wago connectors (221-412)                                | 2        | 2        |                         |
-| 100R resistor PCB for NeoPixels                          | 2        |          | 2 on order              |
+| Item                                                     | Quantity | Received | Notes    |
+| -------------------------------------------------------- | -------- | -------- | -------- |
+| Meanwell LRS-150-24                                      | 1        | 1        |          |
+| Bigtreetech SKR Pico                                     | 1        | 1        |          |
+| Raspberry Pi 4                                           | 1        | 1        |          |
+| MicroSD Card                                             | 1        | 1        |          |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        |          |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        |          |
+| 3010 blower fans 24V                                     | 2        | 2        |          |
+| 3010 axial fan 24V                                       | 2        | 2        | LDO Fans |
+| 3510 axial fan 24V                                       | 4        | 5        |          |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |          |
+| C13 Power Cord                                           | 1        | 1        |          |
+| IEC320 C14 inlet                                         | 1        | 1        |          |
+| Hotend                                                   | 1        | 1        |          |
+| 24V Heater Cartridge                                     | 1        | 1        |          |
+| Hotend thermistor                                        | 1        | 1        |          |
+| 3M 5952 VHB tape                                         | 1        | 1        |          |
+| Fysetc Neopixel Sequins                                  | 2        | 4        |          |
+| Siboor V0 Display                                        | 1        | 1        |          |
+| Siboor Bed LED PCB                                       | 1        | 1        |          |
+| Siboor XH2.54 PCB 2P-2P                                  | 1        | 1        |          |
+| Wago connectors (221-412)                                | 2        | 2        |          |
+| 100R resistor PCB for NeoPixels                          | 2        | 2        |          |
 
 ## Cables
 
