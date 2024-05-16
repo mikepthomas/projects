@@ -212,12 +212,6 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 | [Pulley_Tool](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Tools/Pulley_Tool_NEMA17.stl)                  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Nema17 version |
 | [Slotted_Wheel_Push_Tool](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Tools/Slotted_Wheel_Push_Tool.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
 
-### Filament Sensor
-
-![ERCF Clockwork Extruder with Toolhead PCB](/assets/blog/enraged-rabbit-carrot-feeder-2.0/clockwork-assembled.jpg)
-
-I have printed the [Filament Sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Filament_Sensor) for the [Afterburner toolhead documented here](printer-voron-1.8#afterburner).
-
 # Enraged Rabbit Cotton Tail
 
 ## Sourcing Parts

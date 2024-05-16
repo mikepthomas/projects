@@ -510,12 +510,14 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 I built the Afterburner toolhead but will eventually add the [StealthBurner Main Body](voron-stealthburner#stealthburner). However, I will keep the original Afterburner extruder, the Clockwork 1 rather than upgrade to Clockwork 2, There are a number of reasons for deciding this:
 
 1. I was planning on adding the [AB-BN By Badnoob](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) for a larger cooling fan, this was integrated into the design of the StealthBurner.
-2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-2.0) which is not currently compatible with Clockwork 2.
+2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-1.1) which is not currently compatible with Clockwork 2.
 3. I want to add the [ERCF Afterburner Toolhead PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB) which is also not currently compatible with Clockwork 2.
 4. The StealthBurner has an integrated mount for an [ADXL345 for Klipper Input Shaper](https://www.klipper3d.org/Measuring_Resonances.html).
 5. The StealthBurner also integrates some cool RGB LEDs (and who doesn't like a bit of RGB?).
 
 ### :white_check_mark: Clockwork
+
+![ERCF Clockwork Extruder with Toolhead PCB](/assets/blog/printer-voron-1.8/clockwork-assembled.jpg)
 
 | Item                                                                                                                                                                          | Quantity | Material                                                                 |      Printed       | Notes                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------- |
