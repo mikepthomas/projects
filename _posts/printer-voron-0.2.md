@@ -465,6 +465,12 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | [Fan_Mount_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Top_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as his will be replaced by LDO Bottom Fan Panel |
 | [PSU_Cover](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PSU_Cover_x1.STL)               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
 
+### :negative_squared_cross_mark: DIN Rail Mount
+
+| Item                                                                                                     | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                   |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------- |
+| [DIN_Rail_Mount](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/DIN_Rail_Mount_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by chirpy2605 |
+
 ### :negative_squared_cross_mark: MF Nano
 
 The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [MapleLeafMakers](https://github.com/MapleLeafMakers/MFNano).
