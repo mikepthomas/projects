@@ -4,7 +4,7 @@ heading: Assembling the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
 lastmod: 2024-05-16T17:59:58.726Z
 author: Mike Thomas
-description: The steps I have taken to print and source parts to assemble a Voron 2.4 3D printer.
+description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
 slug: /projects/printer-voron-2.4
 related:
