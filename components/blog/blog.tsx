@@ -100,6 +100,9 @@ export default function Blog({ content, related }: Props) {
                   <Link href="printer-voron-1.8">Voron 1.8</Link>
                 </li>
                 <li>
+                  <Link href="printer-voron-2.4">Voron 2.4</Link>
+                </li>
+                <li>
                   <Link href="printer-polyformer">Polyformer</Link>
                 </li>
                 <li>

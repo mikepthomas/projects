@@ -1022,10 +1022,6 @@
               "title": "Rear Panel and Exhaust"
             }
           },
-          "ldo-hardware-kit.jpg": {
-            "alt": "A big ol' bag of nuts n' bolts",
-            "title": "LDO Hardware Kit"
-          },
           "voron-frame.jpg": {
             "alt": "Starting assembly of the frame",
             "title": "Voron Frame"
@@ -1544,6 +1540,119 @@
           "nevermore-filter-hero.jpg": {
             "alt": "Parts to build a Nevermore Filter",
             "title": "Nevermore Filter Hero"
+          }
+        },
+        "printer-voron-2.4": {
+          "voron-design": {
+            "a-b-belts.jpg": {
+              "title": "A/B Belts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 A/B Belts"
+            },
+            "a-b-drives-and-idlers.jpg": {
+              "title": "A/B Drives and Idlers",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 A/B Drives and Idlers"
+            },
+            "controller-board.jpg": {
+              "title": "Controller Board",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Controller Board"
+            },
+            "electronics.jpg": {
+              "title": "Electronics",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Electronics"
+            },
+            "frame.jpg": {
+              "title": "Frame",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Frame"
+            },
+            "gantry.jpg": {
+              "title": "Gantry",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Gantry"
+            },
+            "panels.jpg": {
+              "title": "Panels",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Panels"
+            },
+            "print-bed.jpg": {
+              "title": "Print Bed",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Print Bed"
+            },
+            "skirts.jpg": {
+              "title": "Skirts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Skirts"
+            },
+            "stealthburner.jpg": {
+              "title": "Stealthburner",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Stealthburner"
+            },
+            "wiring.jpg": {
+              "title": "Wiring",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "Image of the Voron 2.4 Wiring"
+            },
+            "z-axis.jpg": {
+              "title": "Z Axis",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Z Axis"
+            },
+            "z-drives.jpg": {
+              "title": "Z Drives",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron 2.4 Z Drives"
+            }
+          },
+          "voron-hero.jpg": {
+            "title": "Voron Hero",
+            "caption": "LDO Hardware Kit",
+            "alt": "A big ol' bag of nuts n' bolts"
+          }
+        },
+        "voron-stealthburner": {
+          "stealthburner-hero.jpg": {
+            "title": "StealthBurner Hero",
+            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+            "alt": "3D render of the Voron StealthBurner Toolhead"
+          },
+          "voron-design": {
+            "axdl345-mount.jpg": {
+              "title": "ADXL345 Mount",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron StealthBurner ADXL345 Mount"
+            },
+            "clockwork-2.jpg": {
+              "title": "ClockWork 2",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron ClockWork 2"
+            },
+            "stealthburner.jpg": {
+              "title": "StealthBurner",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron StealthBurner"
+            },
+            "tool-cartridge.jpg": {
+              "title": "Tool Cartridge",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron StealthBurner Tool Cartridge"
+            },
+            "x-carriage.jpg": {
+              "title": "X Carriage",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron StealthBurner X Carriage"
+            },
+            "stealthburner-assembled.jpg": {
+              "title": "Stealthburner Assembled",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron StealthBurner Assembled"
+            }
           }
         }
       }

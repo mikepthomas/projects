@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-03-21T17:09:29.688Z
+lastmod: 2024-05-16T17:59:58.726Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -59,7 +59,7 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | ---------------------------------- | -------- | -------- | -------------------------------- |
 | Makerbeam XL 15x15 200mm           | 16       | 16       |                                  |
 | Makerbeam XL 15x15 100mm           | 3        |          | Using Kirigami Bed Mount instead |
-| Siboor Kirigami Bed Mount          | 1        | 1        |                                  |
+| LDO Kirigami Bed Mount             | 1        | 1        |                                  |
 | Siboor CNC Slide Back Plate        | 1        | 1        |                                  |
 | Fysetc Profile Installation Helper | 1        | 1        |                                  |
 
@@ -203,20 +203,20 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                  |
 | ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
 | [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with either 4 Siboor PCB Rail Mounts or 2 LDO Rail Mounts |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                        |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                        |
 
 ### :negative_squared_cross_mark: Z Rails
 
 | Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                  |
 | ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
 | [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with either 4 Siboor PCB Rail Mounts or 2 LDO Rail Mounts |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Z Axis
 
 | Item                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                    |
 | ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------ |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Replace with Z cover mod |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Replace with Z cover mod |
 
 ### :negative_squared_cross_mark: Bed Carrier
 
@@ -228,25 +228,23 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ### :negative_squared_cross_mark: Kirigami Bed
 
-| Item                                                                                                                                                           | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------- |
-| [Kirigami_Bed_Spacer](https://github.com/stvptrsn/Voron_Stuff/blob/main/Voron_0/Kirigami/Kirigami_Bed_Spacer.stl)                                              | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Voron Users Mod by stvptrsn |
-| [kirigami_wago_mount](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/kirigami_wago_mount.stl)                                     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part           |
-| [logo_insert](https://github.com/MapleLeafMakers/Stealth_Bed_Front/blob/main/STL/logo_insert.stl)                                                              | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |      |        |      |   :x:   | This is a Maple Leaf Makers Part      |
-| [main_body_kirigami](https://github.com/MapleLeafMakers/Stealth_Bed_Front/blob/main/STL/%5Ba%5D_main_body_kirigami.stl)                                        | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)        |      |        |      |   :x:   | This is a Maple Leaf Makers Part      |
-| [rainbow_barf_diffuser](https://github.com/MapleLeafMakers/Stealth_Bed_Front/blob/main/STL/%5Bc%5D_rainbow_barf_diffuser.stl)                                  | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |      |        |      |   :x:   | This is a Maple Leaf Makers Part      |
-| [rainbow_barf_carrier](https://github.com/MapleLeafMakers/Stealth_Bed_Front/blob/main/STL/rainbow_barf_carrier.stl)                                            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Maple Leaf Makers Part      |
-| [stealth_chain_mount](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/v0.2_beta/STL/VORON_v0.2_stealth_chain_mount.stl)                       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)        |      |        |      |   :x:   | This is a Beta Kirigami Bed Part      |
-| [stealth_chain_mount_5mm_spacer](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/v0.2_beta/STL/VORON_v0.2_stealth_chain_mount_5mm_spacer.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |      |        |      |   :x:   | This is a Beta Kirigami Bed Part      |
-| [stealth_nut_block](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/v0.2_beta/STL/VORON_v0.2_stealth_nut_block.stl)                           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |      |        |      |   :x:   | This is a Beta Kirigami Bed Part      |
-| [stealth_wire_guide](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/v0.2_beta/STL/VORON_v0.2_stealth_wire_guide.stl)                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |      |        |      |   :x:   | This is a Beta Kirigami Bed Part      |
+| Item                                                                                                                                                        | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------- |
+| [Kirigami_Bed_Spacer](https://github.com/stvptrsn/Voron_Stuff/blob/main/Voron_0/Kirigami/Kirigami_Bed_Spacer.stl)                                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Voron Users Mod by stvptrsn                                        |
+| [Kirigami_LDO_Breakout_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Kirigami_LDO_Breakout_Mount.stl)                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a LDO Kirigami Bed Part                                              |
+| [Stealth_Bed_Main_Body](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Stealth_Bed_Main_Body.stl)                                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a LDO Kirigami Bed Part                                              |
+| [Stealth_Bed_Diffuser](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/%5Bc%5D_Stealth_Bed_Diffuser.stl)                              | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |      |        |      |   :x:   | This is a LDO Kirigami Bed Part, Not Required as I have a Resin Printed one. |
+| [stealth_chain_mount](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                  |
+| [stealth_chain_mount_5mm_spacer](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount_5mm_spacer.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                  |
+| [stealth_nut_block](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_nut_block.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                  |
+| [stealth_wire_guide](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_wire_guide.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                  |
 
 ### :negative_squared_cross_mark: Z Endstop
 
 | Item                                                                                                          | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                     |
 | ------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------- |
-| [Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Replace with Z cover mod                                                  |
-| [deck_plate_cover](https://www.printables.com/model/405522/files)                                             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [MarekZCMB](https://www.printables.com/@MarekZCMB_58830) |
+| [Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Replace with Z cover mod                                                  |
+| [deck_plate_cover](https://www.printables.com/model/405522/files)                                             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a mod by [MarekZCMB](https://www.printables.com/@MarekZCMB_58830) |
 
 ## A/B Drives
 
@@ -262,7 +260,7 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | [A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 5.91m | 15.07g | £0.26 | :heavy_check_mark: |       |
 | [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)               | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
 | [A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
-| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         |       |
+| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
 
 ### :negative_squared_cross_mark: B Drive
 
@@ -272,7 +270,7 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | [B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 5.91m | 15.07g | £0.26 | :heavy_check_mark: |       |
 | [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)               | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
 | [B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
-| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         |       |
+| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |       |        :x:         |       |
 
 ## A/B Idlers
 
@@ -304,9 +302,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ### :negative_squared_cross_mark: Leadscrew Nut
 
-| Item                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                          |
-| ----------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
-| [T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as this is replaced by the Kirigami Bed nut block |
+| Item                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                          |
+| ----------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
+| [T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as this is replaced by the Kirigami Bed nut block |
 
 ### :negative_squared_cross_mark: Feet
 
@@ -319,20 +317,22 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | [Foot_Accent_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_A_x2.stl)       | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                           |
 | [Foot_Accent_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_B_x2.stl)       | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                           |
 
-### :negative_squared_cross_mark: Stealth Skirts Feet
+### :negative_squared_cross_mark: Stealth Skirts Extended Feet
 
-| Item                                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------- |
-| [Left_Front_Foot](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Front_Foot_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Mains_Inlet_Foot](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Mains_Inlet_Foot_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Right_Front_Foot](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Front_Foot_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Right_Rear_Foot](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Foot_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| Item                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                           |
+| -------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------- |
+| [feet-accent-m](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)           | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| [feet-accent](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)             | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| [Back_Left_Foot_inlet](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| [Back_Right_Foot_FS](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| [Front_Left_Foot-extend](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| [Front_Right_Foot-extend](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
 
 ### :negative_squared_cross_mark: Leadscrew
 
 | Item                                                                                                      | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
 | --------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Z_Motor_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Motor_Mount_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [Z_Motor_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Motor_Mount_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |       |
 
 ## X Axis
 
@@ -396,7 +396,7 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 | Item                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                               |
 | ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------- |
-| [Thumb_Nut](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Thumb_Nut_x3.stl) | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | May substitute these for metal ones |
+| [Thumb_Nut](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Thumb_Nut_x3.stl) | 3        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | May substitute these for metal ones |
 
 ## Print Head
 
@@ -408,18 +408,18 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 | Item                                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------- |
-| [Strain_Relief_Body](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/Strain_Relief_Body_x1.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as this will be replaced by the Picobilical Version        |
-| [Strain_Relief_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/Strain_Relief_Spacer_x2.stl)     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                         |
-| [Guidler](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_Guidler_x1.STL)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                         |
+| [Strain_Relief_Body](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/Strain_Relief_Body_x1.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as this will be replaced by the Picobilical Version        |
+| [Strain_Relief_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/Strain_Relief_Spacer_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                         |
+| [Guidler](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_Guidler_x1.STL)                       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                         |
 | [Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_Latch_x1.stl)                           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                         |
 | [MiniSB_Cowling](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_MiniSB_Cowling_x1.STL)         | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Not Required as this will be replaced by Multi-color Mini Stealthburner |
 | [MiniSB_MidBody](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_MiniSB_MidBody_x1.STL)         | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                         |
 | [MiniSB_Motor_Plate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_MiniSB_Motor_Plate_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                         |
-| [Shuttle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_Shuttle_x1.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                         |
+| [Shuttle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner/%5Ba%5D_Shuttle_x1.stl)                       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                         |
 
 ### :negative_squared_cross_mark: Multi-color Mini Stealthburner
 
-I will print this using the [Multi-Colour Prints with a Single Nozzle](https://docs.vorondesign.com/community/howto/mikhail/multi-colour-prints-with-a-single-nozzle.html) guide. The main colour will be Orange with Accents in Purple.
+I will print this using the [Multi-Colour Prints with a Single Nozzle](https://docs.vorondesign.com/community/howto/mikhail/multi-colour-prints-with-a-single-nozzle.html) guide. The main colour will be Orange with Accents in Black.
 
 | Item                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                               |
 | ------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
@@ -433,15 +433,15 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: AXDL345 Mount
 
-| Item                                                                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------- |
-| [MiniSB_adxl_mount_ldo_15mm](https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Toolheads/ADXL_Mounts/MiniSB_adxl_mount_ldo_15mm_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | LDO Version, Not required as Picobilical has ADXL sensor on toolhead board |
+| Item                                                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------- |
+| [MiniSB_adxl_mount_ldo_15mm](https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Toolheads/ADXL_Mounts/MiniSB_adxl_mount_ldo_15mm_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | LDO Version, Not required as Picobilical has ADXL sensor on toolhead board |
 
 ### :negative_squared_cross_mark: Picobilical
 
-| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                          |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------ |
-| [toolhead_spacer_v02](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/toolhead_spacer_v02.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a LDO Picobilical Part |
+| Item                                                                                                                | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                          |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------ |
+| [toolhead_spacer_v02](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/toolhead_spacer_v02.stl) | 1        | [eSun ABS+ (black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO Picobilical Part |
 
 ## Electronics & Wiring
 
@@ -473,7 +473,7 @@ The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [
 | -------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------- |
 | [cartridge_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_body.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
 | [cartridge_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_lid.stl)   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
-| [magclip](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/magclip_x2.stl)            | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
+| [magclip](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/magclip_x2.stl)            | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
 | [plenum_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_body.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
 | [plenum_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_lid.stl)         | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by MapleLeafMakers |
 
@@ -496,7 +496,7 @@ The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod by Maverick](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Stealth_Skirts). The first 10 layers of the skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
+I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod by Maverick](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Stealth_Skirts). The first 10 layers of the skirt parts will be printed in Orange and then I will perform a filament swap to Black to achieve two-tone skirts.
 
 ### :negative_squared_cross_mark: Fan Panel
 
@@ -516,11 +516,11 @@ I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod 
 
 | Item                                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------- |
-| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [Left_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_A_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [Left_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_B_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 
 ### :negative_squared_cross_mark: Right Side Skirts
 
@@ -533,11 +533,11 @@ I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod 
 
 | Item                                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------- |
-| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [Right_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_A_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 | [Right_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_B_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 
 ### :negative_squared_cross_mark: Rear Skirt
 
@@ -561,17 +561,17 @@ I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod 
 
 ### :negative_squared_cross_mark: Front Stealth Skirts
 
-| Item                                                                                                                                               | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------- |
-| [Left_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Front_Skirt_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Logo_Insert_x2.stl)             | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
-| [Right_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Front_Skirt_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| Item                                                                                                                                               | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------- |
+| [Left_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Front_Skirt_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Logo_Insert_x2.stl)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
+| [Right_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Front_Skirt_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by Maverick |
 
 ### :negative_squared_cross_mark: Display
 
 | Item                                                                                                                      | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                                                |
 | ------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------- |
-| [Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate |
+| [Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate |
 | [Display_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Left_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   |                                                                      |
 | [Display_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Right_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   |                                                                      |
 | [Display_Faceplate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)        |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate |
@@ -579,7 +579,7 @@ I Plan on replacing the stock Trident style skirts with the [Stealth Skirts mod 
 
 ### :negative_squared_cross_mark: Multi-color Display Faceplate
 
-I will print this using the [Multi-Colour Prints with a Single Nozzle](https://docs.vorondesign.com/community/howto/mikhail/multi-colour-prints-with-a-single-nozzle.html) guide. The main colour will be Orange with Accents in Purple.
+I will print this using the [Multi-Colour Prints with a Single Nozzle](https://docs.vorondesign.com/community/howto/mikhail/multi-colour-prints-with-a-single-nozzle.html) guide. The main colour will be Orange with Accents in Black.
 
 | Item                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                               |
 | ---------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
@@ -588,73 +588,73 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Picobilical Motor Panel
 
-| Item                                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                          |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------ |
-| [frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a LDO Picobilical Part |
+| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                          |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------ |
+| [frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO Picobilical Part |
 
 ### :negative_squared_cross_mark: Detachable Spool Holder
 
 | Item                                                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes              |
 | --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------ |
 | [Spool_Holder](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder.stl)             | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a LDO Part |
-| [Spool_Holder_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder_Mount.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a LDO Part |
+| [Spool_Holder_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder_Mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a LDO Part |
 
 ### :negative_squared_cross_mark: Rear Panels
 
-| Item                                                                                                                               | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [Rear_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Left_Clip_x1.stl)   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [Rear_Bottom_Right_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Right_Clip_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Hinge_A_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Bottom_x1.stl)                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Hinge_B_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Bottom_x1.stl)                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| Item                                                                                                                               | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                       | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [Rear_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Left_Clip_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [Rear_Bottom_Right_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Right_Clip_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Hinge_A_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Bottom_x1.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Hinge_B_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Bottom_x1.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Left Panel
 
-| Item                                                                                                                                           | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------- |
-| [Left_Bottom_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Front_Panel_Clip_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Left_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Rear_Panel_Clip_x1.stl)   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Left_Top_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Front_Panel_Clip_x1.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Left_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Rear_Panel_Clip_x1.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                                   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| Item                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------- |
+| [Left_Bottom_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Front_Panel_Clip_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Left_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Rear_Panel_Clip_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Left_Top_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Front_Panel_Clip_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Left_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Rear_Panel_Clip_x1.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                                   | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
 
 ### :negative_squared_cross_mark: Left RGB Side Panel
 
-| Item                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------ |
-| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                   | ~4~ 3    | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 1 Not Required as I plan on printing the Stealth Handles mod |
-| [Panel_Clip_Corner_Bottom_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_A_x1.STL) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Top_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_A_x1.STL)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
+| Item                                                                                                                                   | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------ |
+| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                   | ~4~ 3    | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 1 Not Required as I plan on printing the Stealth Handles mod |
+| [Panel_Clip_Corner_Bottom_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_A_x1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Top_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_A_x1.STL)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
 
 ### :negative_squared_cross_mark: Right Panel
 
-| Item                                                                                                                                           | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------- |
-| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                                   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Right_Bottom_Front_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Front_Hinge_x1.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Right_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Rear_Panel_Clip_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Right_Top_Left_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Left_Hinge_x1.stl)                 | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
-| [Right_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Rear_Panel_Clip_x1.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| Item                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------- |
+| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                                   | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Right_Bottom_Front_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Front_Hinge_x1.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Right_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Rear_Panel_Clip_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Right_Top_Left_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Left_Hinge_x1.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
+| [Right_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Rear_Panel_Clip_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the RGB Side Panels mod |
 
 ### :negative_squared_cross_mark: Right RGB Side Panel
 
-| Item                                                                                                                                           | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------ |
-| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                           | ~4~ 3    | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 1 Not Required as I plan on printing the Stealth Handles mod |
-| [Panel_Clip_Corner_Bottom_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_Hinge_x1.STL) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Top_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_Hinge_x1.STL)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
-| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                              |
+| Item                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------ |
+| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                           | ~4~ 3    | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 1 Not Required as I plan on printing the Stealth Handles mod |
+| [Panel_Clip_Corner_Bottom_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_Hinge_x1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Top_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_Hinge_x1.STL)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
+| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                              |
 
 ### :negative_squared_cross_mark: Stealth Handles
 
 | Item                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                           |
 | -------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
-| [handle_a](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_a.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Maple Leaf Makers Part, may need to modify to fit RGB Side Panels mod |
-| [handle_b](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_b.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Maple Leaf Makers Part, may need to modify to fit RGB Side Panels mod |
+| [handle_a](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_a.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Maple Leaf Makers Part, may need to modify to fit RGB Side Panels mod |
+| [handle_b](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_b.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Maple Leaf Makers Part, may need to modify to fit RGB Side Panels mod |
 
 ### :negative_squared_cross_mark: Front Panel
 
@@ -662,10 +662,10 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
 | [Door_Handle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Handle_x1.STL)                           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |       |
 | [Door_Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Latch_x2.STL)                             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)     | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 
 ## Extrusion Tophat
 
@@ -675,33 +675,33 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Top Panel
 
-| Item                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Top_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Top_Clip_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| Item                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [TH_Top_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Top_Clip_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Front & Side Panels
 
-| Item                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Lower_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_x3.stl)               | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Lower_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_Mirror_x3.stl) | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)                 | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl)   | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| Item                                                                                                                   | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [TH_Lower_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_x3.stl)               | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Lower_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_Mirror_x3.stl) | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)                 | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl)   | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Rear Panel
 
-| Item                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Hinge_A_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Top_x1.stl)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Hinge_B_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Top_x1.stl)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| Item                                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [TH_Hinge_A_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Top_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Hinge_B_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Top_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Camera Mount
 
-| Item                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                   |
-| ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------- |
-| [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by chirpy2605 |
+| Item                                                                                              | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                   |
+| ------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------- |
+| [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by chirpy2605 |
 
 ## Assembly Complete
 

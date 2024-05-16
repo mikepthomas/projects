@@ -15,7 +15,6 @@ categories:
   - 3D Printer
 keywords:
   - Printer
-promoted: true
 ---
 
 # Table of contents
