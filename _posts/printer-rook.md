@@ -2,9 +2,9 @@
 title: Rook 2020
 heading: 3D Printing the Rook, a cheap CoreXY 3D Printer
 date: 2023-02-02
-lastmod: 2024-01-04T19:42:32.168Z
+lastmod: 2024-05-16T21:21:44.974Z
 author: Mike Thomas
-description: Sourcing and printing parts to 3D print and assemble a cheap CoreXY 3D Printer, the Rook 2020 MK1.
+description: Sourcing and printing parts to 3D print and assemble a cheap CoreXY 3D Printer, the Rook 2020 MK2.
 preview: /assets/blog/printer-rook/rook-2020-frame.jpg
 slug: /projects/printer-rook
 draft: false
@@ -21,7 +21,7 @@ keywords:
 
 # Sourcing Parts
 
-Sourcing and printing parts to assemble a [Rook 2020 MK1 3D Printer](https://www.printables.com/model/447255).
+Sourcing and printing parts to assemble a [Rook 2020 MK2 3D Printer](https://www.printables.com/model/798733).
 
 ## Printer Frame
 
@@ -80,8 +80,8 @@ Sourcing and printing parts to assemble a [Rook 2020 MK1 3D Printer](https://www
 | Nema 17 Stepper Motors       | 4        | 4        | Using original Anet A8 X/Y/Z1/Z2 Stepper Motors                          |
 | CR10 Style Hotend            | 1        | 1        |                                                                          |
 | Power Supply                 | 1        | 1        | Using original Anet A8 Power Supply                                      |
-| Raspberry Pi Zero            | 1        | 1        | Using Zero 2W                                                            |
-| SKR Pico                     | 1        | 1        |                                                                          |
+| Raspberry Pi Zero            | 1        |          | Not Required as I plan on using RepRap Firmware                          |
+| Mellow Fly E3 RRF            | 1        | 1        |                                                                          |
 | SPDT KW10 Limit Micro Switch | 1        | 1        |                                                                          |
 | V0 Simple Display            | 1        | 1        |                                                                          |
 | 30x30x10 Axial Fan           | 1        | 1        |                                                                          |
@@ -101,40 +101,40 @@ Sourcing and printing parts to assemble a [Rook 2020 MK1 3D Printer](https://www
 
 ## Frame
 
-| Item                                                                                         | Quantity | Material                                                       | Printed | Notes                                                         |
-| -------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ------------------------------------------------------------- |
-| [Foot](https://www.printables.com/model/447255/files)                                        | 4        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [OPTIONAL_Foot_Spacer](https://www.printables.com/model/447255/files)                        | 4        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [Optional_Idler_Mount_Lower_Front_2020_Left](https://www.printables.com/model/447255/files)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [Optional_Idler_Mount_Lower_Front_2020_Right](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [Left_Motor_Mount](https://www.printables.com/model/447255/files)                            | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [Right_Motor_Mount](https://www.printables.com/model/447255/files)                           | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [Motor_Tensioner](https://www.printables.com/model/447255/files)                             | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
-| [90angle](https://www.printables.com/model/666819/files)                                     | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [Kanrog](https://www.printables.com/@Kanrog) |
+| Item                                                                  | Quantity | Material                                                       | Printed | Notes                                                         |
+| --------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ------------------------------------------------------------- |
+| [foot_Mount](https://www.printables.com/model/798733/files)           | 4        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [OPTIONAL_Foot_Spacer](https://www.printables.com/model/447255/files) | 4        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a Rook 2020 MK1 Part                                  |
+| [Front_Left_Idler](https://www.printables.com/model/798733/files)     | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [Front_Right_Idler](https://www.printables.com/model/798733/files)    | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [Left_Motor_Mount](https://www.printables.com/model/798733/files)     | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [Right_Motor_Mount](https://www.printables.com/model/798733/files)    | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [Front_Idler](https://www.printables.com/model/798733/files)          | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                               |
+| [90angle](https://www.printables.com/model/666819/files)              | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [Kanrog](https://www.printables.com/@Kanrog) |
 
 ## Z Axis
 
 | Item                                                                                      | Quantity | Material                                                       | Printed | Notes |
 | ----------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ----- |
-| [Optional_Skirt_Z-motor_No_Gear_Reduction](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
-| [Z_Endstop_Mount](https://www.printables.com/model/447255/files)                          | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
-| [Z_Idler_Mount](https://www.printables.com/model/447255/files)                            | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| [optional_skirt_z-motor_no_gear_reduction](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| [Z_Endstop_adjustable](https://www.printables.com/model/798733/files)                     | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| [z_idler_mount](https://www.printables.com/model/798733/files)                            | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
 
 ## Gantry
 
 | Item                                                              | Quantity | Material                                                       | Printed | Notes                                                                             |
 | ----------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | --------------------------------------------------------------------------------- |
-| [Left_Y_carriage](https://www.printables.com/model/447255/files)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
-| [Right_Y_carriage](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
+| [Left_Y_Carriage](https://www.printables.com/model/798733/files)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
+| [Right_Y_Carriage](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
 | [belt_tie_v2](https://www.printables.com/model/389235/files)      | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [kyledavis_351660](https://www.printables.com/@kyledavis_351660) |
 
 ## Toolhead
 
-| Item                                                                              | Quantity | Material                                                       | Printed | Notes |
-| --------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ----- |
-| [Fan_Shroud_4010_Modded_Fan_Inlet](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
-| [Rookery \_ Belt Cradle](https://www.printables.com/model/447255/files)           | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
-| [Rookery_CR10_Key](https://www.printables.com/model/447255/files)                 | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| Item                                                                              | Quantity | Material                                                       | Printed | Notes                        |
+| --------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ---------------------------- |
+| [Fan_Shroud_4010_Modded_Fan_Inlet](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a Rook 2020 MK1 Part |
+| [Rookery \_ Belt Cradle](https://www.printables.com/model/447255/files)           | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a Rook 2020 MK1 Part |
+| [Rookery_CR10_Key](https://www.printables.com/model/447255/files)                 | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a Rook 2020 MK1 Part |
 
 ## Side-mounted spool and Extruder
 
@@ -145,19 +145,19 @@ Sourcing and printing parts to assemble a [Rook 2020 MK1 3D Printer](https://www
 
 ## Skirts
 
-| Item                                                                   | Quantity | Material                                                       | Printed | Notes |
-| ---------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ----- |
-| [Skirt](https://www.printables.com/model/447255/files)                 | 3        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
-| [Optional_Skirt_Backer](https://www.printables.com/model/447255/files) | 3        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| Item                                                                           | Quantity | Material                                                       | Printed | Notes |
+| ------------------------------------------------------------------------------ | -------- | -------------------------------------------------------------- | :-----: | ----- |
+| [Skirt](https://www.printables.com/model/798733/files)                         | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
+| [Optional_Skirt_30mm-fan_Mount](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |       |
 
 ## Panels
 
 | Item                                                                 | Quantity | Material                                                       | Printed | Notes                                                             |
 | -------------------------------------------------------------------- | -------- | -------------------------------------------------------------- | :-----: | ----------------------------------------------------------------- |
-| [Bottom_Panel_Rear_Right](https://www.printables.com/model/447255)   | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
-| [Bottom_Panel_Rear_Left](https://www.printables.com/model/447255)    | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
-| [Bottom_Panel_Front_Right](https://www.printables.com/model/447255)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
-| [Bottom_Panel_Front_Left](https://www.printables.com/model/447255)   | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
+| [Bottom_Panel_Rear_Right](https://www.printables.com/model/798733)   | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
+| [Bottom_Panel_Rear_Left](https://www.printables.com/model/798733)    | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
+| [Bottom_Panel_Front_Right](https://www.printables.com/model/798733)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
+| [Bottom_Panel_Front_Left](https://www.printables.com/model/798733)   | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                   |
 | [Rook2020-BackPanel](https://www.printables.com/model/501946)        | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe) |
 | [LRS-150-Case-Lid](https://www.printables.com/model/397744)          | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe) |
 | [LRS-150-Case-Heat-Inserts](https://www.printables.com/model/397744) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe) |
