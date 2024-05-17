@@ -59,24 +59,24 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ## Motion
 
-| Item                                       | Quantity | Received | Notes            |
-| ------------------------------------------ | -------- | -------- | ---------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        |          | Powge Motion Kit |
-| Ø5x35mm Shaft (trim to size)               | 1        |          | Powge Motion Kit |
-| Linear Rail MGN9H 350mm                    | 6        |          |                  |
-| Linear Rail MGN12H 350mm                   | 1        |          |                  |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |          | Powge Motion Kit |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |          | Powge Motion Kit |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        |          | Powge Motion Kit |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        |          | Powge Motion Kit |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        |          | Powge Motion Kit |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        |          | Powge Motion Kit |
-| GT2 20T Pulley (5mm ID 6mm W)              | 3        |          | Powge Motion Kit |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit |
-| F695 Bearing                               | 20       |          | Powge Motion Kit |
-| BMG Extruder Components Kit                | 1        | 1        |                  |
-| 625 Bearing                                | 12       |          | Powge Motion Kit |
+| Item                                       | Quantity | Received | Notes                      |
+| ------------------------------------------ | -------- | -------- | -------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        |          | Powge Motion Kit On Order. |
+| Ø5x35mm Shaft (trim to size)               | 1        |          | Powge Motion Kit On Order. |
+| Linear Rail MGN9H 350mm                    | 6        |          |                            |
+| Linear Rail MGN12H 350mm                   | 1        |          |                            |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |          | Powge Motion Kit On Order. |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |          | Powge Motion Kit On Order. |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        |          | Powge Motion Kit On Order. |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit On Order. |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        |          | Powge Motion Kit On Order. |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        |          | Powge Motion Kit On Order. |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        |          | Powge Motion Kit On Order. |
+| GT2 20T Pulley (5mm ID 6mm W)              | 3        |          | Powge Motion Kit On Order. |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit On Order. |
+| F695 Bearing                               | 20       |          | Powge Motion Kit On Order. |
+| BMG Extruder Components Kit                | 1        | 1        |                            |
+| 625 Bearing                                | 12       |          | Powge Motion Kit On Order. |
 
 ## Electronics
 
@@ -108,14 +108,14 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | C13 Power Cord                                        | 1        | 1        |                                                                                                                                                                                                                                            |
 | BAT85 Diode                                           | 1        | 7        |                                                                                                                                                                                                                                            |
 | 60x60x20 Fan (24V)                                    | 3        | 2        | Delta Fans, 1 not required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                                                                                                             |
-| 40x40x20 Centrifugal Fan (24V)                        | 1        | 1        |                                                                                                                                                                                                                                            |
-| 40x40x10 Axial Fan (24V)                              | 1        |          |                                                                                                                                                                                                                                            |
+| 40x40x20 Centrifugal Fan (24V)                        | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
+| 40x40x10 Axial Fan (24V)                              | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
 
 ## Vibration Management
 
-| Item                            | Quantity | Received | Notes |
-| ------------------------------- | -------- | -------- | ----- |
-| Rubber Foot (1.5x.75", 38x19mm) | 4        |          |       |
+| Item                            | Quantity | Received | Notes     |
+| ------------------------------- | -------- | -------- | --------- |
+| Rubber Foot (1.5x.75", 38x19mm) | 4        |          | On Order. |
 
 ## Frame
 
@@ -131,7 +131,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Misumi HFSB5-2020-400                           | 2        | 2        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-380                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-290                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        |          |                                                                                          |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        |          | On Order.                                                                                |
 
 ## Misc
 
@@ -179,18 +179,18 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not Required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable) |
 | 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                                                                            |
 | 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable                                                                      |
-| 10x15 Generic Cable Chain (495mm)                              | 1        |          |                                                                                                                               |
+| 10x15 Generic Cable Chain (495mm)                              | 1        |          | On Order.                                                                                                                     |
 | 10x10 Generic Cable Chain (355mm)                              | 2        | 2        |                                                                                                                               |
 
 ## Panels
 
-| Item                                 | Quantity | Received | Notes                                                                                                                                          |
-| ------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coroplast Sheet - 433x453x4 mm       | 1        |          | [Linneo Voron 2.4r2 Aluminium Composite Panels](https://www.onetwo3d.co.uk/product/linneo-voron-2-4r2-aluminium-composite-panels-back-bottom/) |
-| Coroplast Sheet - 419x419x4 mm       | 2        |          | [Linneo Voron 2.4r2 Aluminium Composite Panels](https://www.onetwo3d.co.uk/product/linneo-voron-2-4r2-aluminium-composite-panels-back-bottom/) |
-| Acrylic Sheet Clear - 433x453x3 mm   | 2        |          | [Linneo Voron V2.4 Polycarbonate Panels](https://www.onetwo3d.co.uk/product/linneo-voron-v2-4-polycarbonate-pc-panels/)                        |
-| Acrylic Sheet Clear - 433x433x3 mm   | 1        |          | [Linneo Voron V2.4 Polycarbonate Panels](https://www.onetwo3d.co.uk/product/linneo-voron-v2-4-polycarbonate-pc-panels/)                        |
-| Acrylic Sheet Clear - 216.5x453x3 mm | 2        |          | [Linneo Voron V2.4 Polycarbonate Panels](https://www.onetwo3d.co.uk/product/linneo-voron-v2-4-polycarbonate-pc-panels/)                        |
+| Item                                 | Quantity | Received | Notes                          |
+| ------------------------------------ | -------- | -------- | ------------------------------ |
+| Coroplast Sheet - 433x453x4 mm       | 1        |          | ACM Panels On Order.           |
+| Coroplast Sheet - 419x419x4 mm       | 2        |          | ACM Panels On Order.           |
+| Acrylic Sheet Clear - 433x453x3 mm   | 2        |          | Polycarbonate Panels On Order. |
+| Acrylic Sheet Clear - 433x433x3 mm   | 1        |          | Polycarbonate Panels On Order. |
+| Acrylic Sheet Clear - 216.5x453x3 mm | 2        |          | Polycarbonate Panels On Order. |
 
 ## Buildplate
 
@@ -200,10 +200,10 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 | Item                                                        | Quantity | Received | Notes                    |
 | ----------------------------------------------------------- | -------- | -------- | ------------------------ |
-| Spring Steel Flexible Print Surface - 12"x12"               | 1        |          |                          |
+| Spring Steel Flexible Print Surface - 12"x12"               | 1        |          | On Order.                |
 | MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | Mandela Rose Works Plate |
 | Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | Keenovo 150 220V 400W    |
-| Adhesive Magnetic Sheet - 12"x12"                           | 1        |          |                          |
+| Adhesive Magnetic Sheet - 12"x12"                           | 1        |          | On Order.                |
 
 # Printing Parts
 
