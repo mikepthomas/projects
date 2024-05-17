@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Assembling the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-17T16:28:27.764Z
+lastmod: 2024-05-17T21:46:18.784Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -89,7 +89,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          |                                                                                                                                                                                                                                            |
 | USB Cable for selected controller                     | 1        | 1        |                                                                                                                                                                                                                                            |
 | TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          |                                                                                                                                                                                                                                            |
-| Thermal Fuse (150C)                                   | 1        | 1        |                                                                                                                                                                                                                                            |
+| Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8.) build.                                                                                                                                                                    |
 | TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                                                                                                                                                         |
 | RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                                                                                                                            |
 | Omron G3A-210B-DC5 SSR                                | 1        |          |                                                                                                                                                                                                                                            |
@@ -211,13 +211,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Tools
 
-| Item                                                                                                                               | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------- |
-| [MGN12_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN12_rail_guide_x2.stl)                        | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                                                        |
-| [MGN9_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN9_rail_guide_x2.stl)                          | 2        |                                                      |      |        |      |   :x:   | Not Required as I will use the ones I printed for [Voron 1.8](printer-voron-1.8#tools) |
-| [bed_hole_marking_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bed_hole_marking_template_x1_Rev2.STL) | 1        |                                                      |      |        |      |   :x:   | Not Required as the bed I purchased has pre-drilled holes                              |
-| [bottom_panel_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bottom_panel_template.stl)                 | 1        |                                                      |      |        |      |   :x:   | Not Required as the panels I purchased are designed for V2.4r2                         |
-| [pulley_jig](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/pulley_jig.stl)                                       | 1        |                                                      |      |        |      |   :x:   | Not Required as I will use the one I printed for [Voron 1.8](printer-voron-1.8#tools)  |
+| Item                                                                                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------- |
+| [Bed_Support_Alignment_Tool_300_Corners](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_300_Corners_x4.stl)               | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel                                               |
+| [Bed_Support_Alignment_Tool_Center_250_300_350](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel                                               |
+| [MGN12_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN12_rail_guide_x2.stl)                                                                                                    | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                                                        |
+| [MGN9_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN9_rail_guide_x2.stl)                                                                                                      | 2        |                                                      |      |        |      |   :x:   | Not Required as I will use the ones I printed for [Voron 1.8](printer-voron-1.8#tools) |
+| [bed_hole_marking_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bed_hole_marking_template_x1_Rev2.STL)                                                                             | 1        |                                                      |      |        |      |   :x:   | Not Required as the bed I purchased has pre-drilled holes                              |
+| [bottom_panel_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bottom_panel_template.stl)                                                                                             | 1        |                                                      |      |        |      |   :x:   | Not Required as the panels I purchased are designed for V2.4r2                         |
+| [pulley_jig](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/pulley_jig.stl)                                                                                                                   | 1        |                                                      |      |        |      |   :x:   | Not Required as I will use the one I printed for [Voron 1.8](printer-voron-1.8#tools)  |
 
 ## Frame
 
@@ -225,12 +227,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Bed Support Extrusions Alignment Tools
-
-| Item                                                                                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [Bed_Support_Alignment_Tool_300_Corners](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_300_Corners_x4.stl)               | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel |
-| [Bed_Support_Alignment_Tool_Center_250_300_350](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel |
+### :negative_squared_cross_mark: Frame Assembly
 
 #### Assembly
 
@@ -242,6 +239,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M5x16 BHCS            | 20       |
 | M5 Post-install T-nut | 4        |
 | M5 1mm Shim           | 4        |
+| Square Frame Washers  | 16       |
 
 ## Z Drives
 
@@ -333,6 +331,34 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M5x30 BHCS                           | 12       |
 | M5 Post-install T-nut                | 8        |
 
+## Print Bed
+
+![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg)
+
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :negative_squared_cross_mark: Heated Bed
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                                | Quantity |
+| --------------------------------------------------- | -------- |
+| 18AWG Wire (Protective Earth)                       | 300mm    |
+| Adhesive Magnetic Sheet - 305x305mm                 | 1        |
+| Keenovo 150 Silicone AC Heater w/ thermistor (400W) | 1        |
+| M3x6 BHCS                                           | 1        |
+| M3x12 SHCS                                          | 1        |
+| M3x16 SHCS                                          | 4        |
+| M4 Knurled Nut (DIN 466-B)                          | 4        |
+| M3 Post-install T-nut                               | 4        |
+| M3 Washer                                           | 1        |
+| Mandela Rose Works Plate Plate - 305x305mm          | 1        |
+| Ring Crimp Terminal (16-22AWG, #6)                  | 1        |
+| Spring Steel Flexible Print Surface - 305x305mm     | 1        |
+| Thermal Fuse (120C)                                 | 1        |
+
 ## A/B Drives and Idlers
 
 ![3D render of the Voron 2.4 A/B Drives and Idlers](/assets/blog/printer-voron-2.4/voron-design/a-b-drives-and-idlers.jpg)
@@ -347,6 +373,20 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 | [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| F695 Bearing                | 2        |
+| M3x40 SHCS                  | 1        |
+| M3 Threaded Insert (M3x5x4) | 1        |
+| M3 Washer                   | 1        |
+| M5x40 SHCS                  | 1        |
+| M5 1mm Shim                 | 2        |
+| M5 Hexnut                   | 1        |
+
 ### :negative_squared_cross_mark: B Idler
 
 | Item                                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
@@ -355,12 +395,40 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 | [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| F695 Bearing                | 2        |
+| M3x40 SHCS                  | 1        |
+| M3 Threaded Insert (M3x5x4) | 1        |
+| M3 Washer                   | 1        |
+| M5x40 SHCS                  | 1        |
+| M5 1mm Shim                 | 2        |
+| M5 Hexnut                   | 1        |
+
 ### :negative_squared_cross_mark: A Drive
 
 | Item                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| F695 Bearing                  | 6        |
+| GT2 20T Pulley (5mm ID 6mm W) | 1        |
+| LDO 42STH48-2504AC Motor      | 1        |
+| M3x30 SHCS                    | 3        |
+| M3 Threaded Insert (M3x5x4)   | 2        |
+| M5x30 BHCS                    | 2        |
+| M5 1mm Shim                   | 6        |
 
 ### :negative_squared_cross_mark: B Drive
 
@@ -369,17 +437,51 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
+##### Parts Needed
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| F695 Bearing                  | 6        |
+| GT2 20T Pulley (5mm ID 6mm W) | 1        |
+| LDO 42STH48-2504AC Motor      | 1        |
+| M3x30 SHCS                    | 3        |
+| M5x30 BHCS                    | 2        |
+| M5 1mm Shim                   | 6        |
+
 ## Gantry
 
 ![3D render of the Voron 2.4 Gantry](/assets/blog/printer-voron-2.4/voron-design/gantry.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
+### :negative_squared_cross_mark: Gantry Assembly
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| M5x10 BHCS            | 8        |
+| M5 Post-install T-nut | 8        |
+
 ### :negative_squared_cross_mark: Y Axis
 
 | Item                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
 | [z_belt_clip_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_upper_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Linear Rail MGN9H 350mm | 2        |
+| M3x8 SHCS               | 16       |
+| M5x16 BHCS              | 8        |
+| M3 Post-install T-nut   | 20       |
+| M5 Post-install T-nut   | 12       |
 
 ### :negative_squared_cross_mark: Right XY Joint
 
@@ -388,6 +490,18 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| F695 Bearing                         | 2        |
+| GT2 20T Toothed Idler (5mm ID 6mm W) | 1        |
+| M5x40 SHCS                           | 4        |
+| M5 1mm Shim                          | 2        |
+| M5 Hexnut                            | 3        |
+
 ### :negative_squared_cross_mark: Left XY Joint
 
 | Item                                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
@@ -395,11 +509,40 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [xy_joint_left_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [xy_joint_left_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| F695 Bearing                         | 2        |
+| GT2 20T Toothed Idler (5mm ID 6mm W) | 1        |
+| M5x40 SHCS                           | 4        |
+| M5 1mm Shim                          | 2        |
+| M5 Hexnut                            | 3        |
+
 ### :negative_squared_cross_mark: X Axis
 
 | Item                                                                                                                                               | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------- |
 | [xy_joint_cable_bridge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/%5Ba%5D_xy_joint_cable_bridge_3hole.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 3Hole Version |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| Linear Rail MGN12H 350mm    | 1        |
+| M3x8 SHCS                   | 6        |
+| M3x16 SHCS                  | 6        |
+| M3 Post-install T-nut       | 6        |
+| M3 Threaded Insert (M3x5x4) | 3        |
+| M5x10 BHCS                  | 2        |
+| M5x16 BHCS                  | 2        |
+| M5x30 BHCS                  | 2        |
+| M5 1mm Shim                 | 2        |
+| M5 Post-install T-nut       | 6        |
 
 ## Z Axis
 
