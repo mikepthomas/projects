@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Assembling the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-16T18:09:58.350Z
+lastmod: 2024-05-17T16:28:27.764Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -63,8 +63,8 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | ------------------------------------------ | -------- | -------- | -------------------------- |
 | Ø5x60mm Shaft, D Cut                       | 4        |          | Powge Motion Kit On Order. |
 | Ø5x35mm Shaft (trim to size)               | 1        |          | Powge Motion Kit On Order. |
-| Linear Rail MGN9H 350mm                    | 6        |          |                            |
-| Linear Rail MGN12H 350mm                   | 1        |          |                            |
+| Linear Rail MGN9H 350mm                    | 6        |          | Medium Preload On Order.   |
+| Linear Rail MGN12H 350mm                   | 1        |          | Medium Preload On Order.   |
 | GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |          | Powge Motion Kit On Order. |
 | GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |          | Powge Motion Kit On Order. |
 | GT2 Belt Loop (6mm W) - 188mm              | 4        |          | Powge Motion Kit On Order. |
@@ -131,7 +131,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Misumi HFSB5-2020-400                           | 2        | 2        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-380                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-290                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        |          | On Order.                                                                                |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        |          | 400mm On Order.                                                                          |
 
 ## Misc
 
@@ -219,11 +219,60 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [bottom_panel_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bottom_panel_template.stl)                 | 1        |                                                      |      |        |      |   :x:   | Not Required as the panels I purchased are designed for V2.4r2                         |
 | [pulley_jig](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/pulley_jig.stl)                                       | 1        |                                                      |      |        |      |   :x:   | Not Required as I will use the one I printed for [Voron 1.8](printer-voron-1.8#tools)  |
 
+## Frame
+
+![3D render of the Voron 2.4 Frame](/assets/blog/printer-voron-2.4/voron-design/frame.jpg)
+
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :negative_squared_cross_mark: Bed Support Extrusions Alignment Tools
+
+| Item                                                                                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
+| [Bed_Support_Alignment_Tool_300_Corners](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_300_Corners_x4.stl)               | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel |
+| [Bed_Support_Alignment_Tool_Center_250_300_350](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| M5x10 BHCS            | 4        |
+| M5x16 BHCS            | 20       |
+| M5 Post-install T-nut | 4        |
+| M5 1mm Shim           | 4        |
+
 ## Z Drives
 
 ![3D render of the Voron 2.4 Z Drives](/assets/blog/printer-voron-2.4/voron-design/z-drives.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :negative_squared_cross_mark: Z Rails
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Linear Rail MGN9H 350mm | 4        |
+| M3x8 SHCS               | 32       |
+| M3 Post-install T-nut   | 32       |
+
+### :negative_squared_cross_mark: Deck Panel
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| ACM Deck Panel - 419x419x3 mm | 1        |
+| DIN 3 Rails (35mm W) - 400mm  | 2        |
+| M5x10 BHCS                    | 4        |
+| M5 Post-install T-nut         | 4        |
 
 ### :negative_squared_cross_mark: Z Drive
 
@@ -240,6 +289,30 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [z_motor_mount_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_a_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 | [z_motor_mount_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_b_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                            | Quantity |
+| ------------------------------- | -------- |
+| Ø5x60mm Shaft, D Cut            | 4        |
+| 625 Bearing                     | 12       |
+| GT2 16T Pulley (5mm ID 6mm W)   | 4        |
+| GT2 20T Pulley (5mm ID 9mm W)   | 4        |
+| GT2 80T Pulley (5mm ID 6mm W)   | 4        |
+| GT2 Belt Loop (6mm W) - 188mm   | 4        |
+| LDO-42STH40-1684AC Motor        | 4        |
+| M3x8 SHCS                       | 24       |
+| M3x40 SHCS                      | 24       |
+| M3 Threaded Insert (M3x5x4)     | 36       |
+| M5x10 BHCS                      | 8        |
+| M5x16 BHCS                      | 4        |
+| M5x40 SHCS                      | 8        |
+| M5 1mm Shim                     | 16       |
+| M5 Hexnut                       | 4        |
+| M5 Post-install T-nut           | 16       |
+| Rubber Foot (1.5x.75", 38x19mm) | 4        |
+
 ### :negative_squared_cross_mark: Z Idlers
 
 | Item                                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
@@ -247,6 +320,18 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [z_tensioner_9mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/%5Ba%5D_z_tensioner_9mm_x4.stl)     | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
 | [z_tensioner_bracket_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 | [z_tensioner_bracket_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| GT2 20T Toothed Idler (5mm ID 9mm W) | 4        |
+| M3x16 SHCS                           | 4        |
+| M3 Hexnut                            | 4        |
+| M5x30 BHCS                           | 12       |
+| M5 Post-install T-nut                | 8        |
 
 ## A/B Drives and Idlers
 
