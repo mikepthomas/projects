@@ -1082,18 +1082,6 @@
             "alt": "Belts routed and Installed",
             "title": "Belts Installed"
           },
-          "clockwork-assembled.jpg": {
-            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
-            "title": "Clockwork Assembled"
-          },
-          "clockwork-installed.jpg": {
-            "alt": "Clockwork 1 extruder installed",
-            "title": "Clockwork Installed"
-          },
-          "afterburner-assembled.jpg": {
-            "alt": "Afterburner Toolhead Assembled",
-            "title": "Afterburner Assembled"
-          },
           "y-endstop.jpg": {
             "alt": "Y endstop attached to the frame",
             "title": "Y Endstop"
@@ -1614,6 +1602,34 @@
             "title": "Voron Hero",
             "caption": "LDO Hardware Kit",
             "alt": "A big ol' bag of nuts n' bolts"
+          }
+        },
+        "voron-afterburner": {
+          "afterburner-hero.jpg": {
+            "alt": "Afterburner Toolhead Assembled",
+            "title": "Afterburner Hero"
+          },
+          "voron-design": {
+            "afterburner-assembled.jpg": {
+              "title": "AfterBurner Assembled",
+              "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com/)",
+              "alt": "3D render of the Voron AfterBurner Assembled"
+            }
+          },
+          "clockwork-assembled.jpg": {
+            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
+            "title": "Clockwork Assembled"
+          },
+          "clockwork-installed.jpg": {
+            "alt": "Clockwork 1 extruder installed",
+            "title": "Clockwork Installed"
+          }
+        },
+        "voron-m4": {
+          "m4-hero.jpg": {
+            "title": "M4 Hero",
+            "caption": "Image © 2019 [Voron Design](https://www.vorondesign.com/)",
+            "alt": "3D render of the Voron M4 Extruder Assembled"
           }
         },
         "voron-stealthburner": {

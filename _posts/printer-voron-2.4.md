@@ -1,8 +1,8 @@
 ---
 title: Voron 2.4
-heading: Assembling the Flying Gantry Voron
+heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-17T21:46:18.784Z
+lastmod: 2024-05-19T16:25:23.786Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg

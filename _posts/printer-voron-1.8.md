@@ -1,15 +1,16 @@
 ---
 title: Voron 1.8
-heading: Assembling my first Voron printer
+heading: Building my first Voron printer
 date: 2022-02-17
-lastmod: 2024-05-16T18:09:58.350Z
+lastmod: 2024-05-19T16:25:23.786Z
 author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8 3D printer.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
 slug: /projects/printer-voron-1.8
 related:
+  - /projects/voron-afterburner
+  - /projects/voron-m4
   - /projects/printer-voron-1.8-mods
-  - /projects/printer-enclosure
   - /projects/printer-hypercube
   - /projects/nevermore-filter
 draft: false
@@ -172,7 +173,6 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | Thermal Fuse (120C)                  | 1        | 5        |                                                                                                                                          |
 | NEMA17 Motor 17HS08-1004S            | 1        | 1        | In LDO Voron V1/V2 HT Motor Kit                                                                                                          |
 | NEMA17 TR8x4 300mm Linear Stepper    | 2        | 2        | In LDO V1 Z Motor Kit                                                                                                                    |
-| ERCF Afterburner Tool-Head PCB       | 1        | 1        |                                                                                                                                          |
 | BigTreeTech Smart Filament Sensor V2 | 2        | 2        |                                                                                                                                          |
 
 ## Panels
@@ -511,89 +511,11 @@ I built the Afterburner toolhead but will eventually add the [StealthBurner Main
 
 1. I was planning on adding the [AB-BN By Badnoob](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) for a larger cooling fan, this was integrated into the design of the StealthBurner.
 2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-1.1) which is not currently compatible with Clockwork 2.
-3. I want to add the [ERCF Afterburner Toolhead PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB) which is also not currently compatible with Clockwork 2.
+3. I want to add the [ERCF Afterburner Toolhead PCB](voron-afterburner#toolhead-pcb-1) which is also not currently compatible with Clockwork 2.
 4. The StealthBurner has an integrated mount for an [ADXL345 for Klipper Input Shaper](https://www.klipper3d.org/Measuring_Resonances.html).
 5. The StealthBurner also integrates some cool RGB LEDs (and who doesn't like a bit of RGB?).
 
-### :white_check_mark: Clockwork
-
-![ERCF Clockwork Extruder with Toolhead PCB](/assets/blog/printer-voron-1.8/clockwork-assembled.jpg)
-
-| Item                                                                                                                                                                          | Quantity | Material                                                                 |      Printed       | Notes                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------- |
-| [pcb_cover](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover-r1.stl)                             | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User Mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
-| [pcb_cover_clip-on_mount](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover_clip-on_mount-r1.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User Mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
-| [guidler](https://github.com/VoronDesign/Voron-Afterburner/blob/master/STLs/Direct_Feed/%5Ba%5D_guidler.stl)                                                                  | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: |                                                                                  |
-| [ERCF_Sensor_Latch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/%5Ba%5D_AB_ERCF_Sensor_Latch.stl)                                       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | ERCF Filament Sensor Part                                                        |
-| [latch_shuttle](https://github.com/VoronDesign/Voron-Afterburner/blob/master/STLs/Direct_Feed/%5Ba%5D_latch_shuttle.stl)                                                      | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: |                                                                                  |
-| [chain_anchor](https://github.com/VoronDesign/Voron-Afterburner/blob/master/STLs/Direct_Feed/chain_anchor_3hole.stl)                                                          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: | This is the Generic Cable Chain Version                                          |
-| [ERCF_Sensor_Extruder_Body](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/AB_ERCF_Sensor_Extruder_Body.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: | ERCF Filament Sensor Part                                                        |
-| [ERCF_Sensor_Cable_Cover](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/%5Ba%5D_AB_ERCF_Sensor_Cable_Cover.stl)                           | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | ERCF Filament Sensor Part                                                        |
-| [extruder_motor_plate_for_pcb](https://github.com/VoronDesign/Voron-Hardware/blob/master/Afterburner_Toolhead_PCB/STLs/Clockwork/extruder_motor_plate_for_pcb.stl)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: | Afterburner Toolhead PCB Part                                                    |
-| [pcb_spacer](https://github.com/VoronDesign/Voron-Hardware/blob/master/Afterburner_Toolhead_PCB/STLs/Clockwork/pcb_spacer.stl)                                                | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | Afterburner Toolhead PCB Part                                                    |
-
-#### Assembly
-
-![Clockwork 1 extruder installed](/assets/blog/printer-voron-1.8/clockwork-installed.jpg)
-
-##### Parts Used
-
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| 24AWG PTFE Cable (Black)             | 150mm    |
-| 24AWG PTFE Cable (Yellow)            | 150mm    |
-| 24AWG PTFE Cable (Red)               | 150mm    |
-| 6mm x 3mm Round Neodymium Magnets    | 1        |
-| AH3364Q-P-B Hall Effect sensor (SIP) | 1        |
-| BMG Extruder Components Kit          | 1        |
-| ERCF Afterburner Tool-Head PCB       | 1        |
-| Heatshrink tubing                    | 1        |
-| JST XH Connector Plug 3 Position     | 1        |
-| M3 DIN125 Steel Washer               | 1        |
-| M3 Threaded Insert                   | 11       |
-| M3x8 SHCS                            | 5        |
-| M3x20 SHCS                           | 4        |
-| M3x30 SHCS                           | 4        |
-| NEMA17 Motor 17HS08-1004S            | 1        |
-
-### :white_check_mark: Blower Housing
-
-| Item                                                                                                                            | Quantity | Material                                                                 |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | ----- |
-| [blower_housing_front](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/%5Ba%5D_blower_housing_front.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: |       |
-| [blower_housing_rear](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/blower_housing_rear.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: |       |
-| [hotend_fan_mount](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/hotend_fan_mount.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: |       |
-
-#### Assembly
-
-##### Parts Used
-
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| M3x16 SHCS                     | 2        |
-| M3x30 SHCS                     | 2        |
-| 40x40x20 Centrifugal Fan (24V) | 1        |
-| 40x40x10 Axial Fan (24V)       | 1        |
-
-### :white_check_mark: V6 Printhead
-
-| Item                                                                                                                                        | Quantity | Material                                             |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :----------------: | ----- |
-| [printhead_front_e3dv6](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Printheads/E3D_V6/printhead_front_e3dv6.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | :heavy_check_mark: |       |
-| [printhead_rear_e3dv6](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Printheads/E3D_V6/printhead_rear_e3dv6.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | :heavy_check_mark: |       |
-
-#### Assembly
-
-![Afterburner Toolhead Assembled](/assets/blog/printer-voron-1.8/afterburner-assembled.jpg)
-
-##### Parts Used
-
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| M3x12 SHCS                     | 2        |
-| M3x16 SHCS                     | 2        |
-| M3x40 SHCS                     | 2        |
-| E3D V6 Bowden Hotend Kit (24V) | 1        |
+[Assembly of the parts can be found on its own separate page](voron-afterburner).
 
 ## Endstops
 

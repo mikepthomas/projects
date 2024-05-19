@@ -2,7 +2,7 @@
 title: Voron 1.8 Modifications
 heading: Voron 1.8 Modifications and Upgrades
 date: 2022-04-27
-lastmod: 2024-03-21T17:26:49.763Z
+lastmod: 2024-05-19T16:25:23.786Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
@@ -636,80 +636,3 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | Item                     | Quantity |
 | ------------------------ | -------- |
 | M2x10 Self-Tapping Screw | 2        |
-
-## Voron M4
-
-I plan to print two M4 Extruders, 1 standard and 1 mirrored to mount to the back of the printer so that I can experiment with the dual bowden setup.
-
-| Item                                                                                                         | Quantity | Material                                                                 | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | :-----: | ----- |
-| [80t_gear](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_80t_gear.stl)             | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [5x4mm_spacer](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_5x4mm_spacer.stl)     | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [guidler](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_guidler.stl)               | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [guidler_mirror](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_guidler_mirror.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-| [latch_shuttle](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/latch_shuttle.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [end_plate](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/end_plate.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [end_plate_mirror](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/end_plate_mirror.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [motor_plate](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/motor_plate.stl)               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [motor_plate_mirror](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/motor_plate_mirror.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [main_body](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/main_body.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [main_body_mirror](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/main_body_mirror.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |   :x:   |       |
-| [latch](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_latch.stl)                   | 2        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |   :x:   |       |
-
-### :negative_squared_cross_mark: Assembly
-
-#### Parts Used
-
-##### Fasteners
-
-| Item                 | Quantity |
-| -------------------- | -------- |
-| M3x30 SHCS           | 8        |
-| M3x16 SHCS           | 4        |
-| M3x12 SHCS           | 2        |
-| M3x6 BHCS            | 10       |
-| M3 Threaded Insert   | 10       |
-| M3 Washer            | 4        |
-| Thumb Screw Assembly | 2        |
-
-##### Motion
-
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| GT2 Belt Loop (6mm wide) - 188mm     | 2        |
-| GT2 20T (6mm wide) Pulley (5mm bore) | 4        |
-| F695 2RS                             | 4        |
-| Bondtech Drive Gear Set              | 2        |
-| 5mm x 50mm Shaft                     | 2        |
-
-##### Electronics
-
-| Item                      | Quantity |
-| ------------------------- | -------- |
-| NEMA17 Motor 17HS08-1004S | 2        |
-
-##### Bowden
-
-| Item            | Quantity |
-| --------------- | -------- |
-| Bowden Clip     | 2        |
-| Bowden Fitting  | 2        |
-| Bowden Tube (m) | 2        |
-
-## Voron Dual Bowden
-
-| Item                                                                                                                         | Quantity | Material                                             | Printed | Notes                                   |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | --------------------------------------- |
-| [bowden_dual_front_a](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Bowden/bowden_dual_front_a.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                         |
-| [bowden_dual_front_b](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Bowden/bowden_dual_front_b.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                         |
-| [bowden_rear](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Bowden/bowden_rear.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                         |
-| [chain_anchor](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/chain_anchor_3hole.stl)    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | This is the Generic Cable Chain Version |
-
-### :negative_squared_cross_mark: Assembly
-
-#### Parts Used
-
-| Item          | Quantity |
-| ------------- | -------- |
-| Bowden Clip   | 2        |
-| Bowden Collet | 2        |

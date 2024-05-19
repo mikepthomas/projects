@@ -2,10 +2,13 @@
 title: Voron StealthBurner
 heading: Assembling the Voron StealthBurner Toolhead
 date: 2024-05-16T13:21:45.217Z
+lastmod: 2024-05-19T16:25:23.786Z
 author: Mike Thomas
 description: Assembling the toolhead for the Voron 2.4.
 preview: /assets/blog/voron-stealthburner/stealthburner-hero.jpg
 slug: /projects/voron-stealthburner
+related:
+  - /projects/voron-afterburner
 draft: false
 tags:
   - Extruder
@@ -147,11 +150,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: V6 Toolhead
 
-| Item                                                                                                                                                                                                                  | Quantity | Material                                             | Printed | Notes               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------------- |
-| [printhead_v6_r6_front](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_front.stl)                                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                     |
-| [printhead_v6_r6_rear_cw1](https://github.com/VoronDesign/Voron-Stealthburner/blob/66831c984ab8d9dfe8dfd114ca31e2aa4bee8c35/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Clockwork 1 version |
-| [printhead_v6_r6_rear_cw2](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw2.stl)                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Clockwork 2 version |
+| Item                                                                                                                                                                                        | Quantity | Material                                             | Printed | Notes               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------------- |
+| [printhead_v6_r6_front](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_front.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                     |
+| [printhead_v6_r6_rear_cw1](https://github.com/VoronDesign/Voron-Stealthburner/blob/cw1_compatible/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Clockwork 1 version |
+| [printhead_v6_r6_rear_cw2](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw2.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Clockwork 2 version |
 
 ## StealthBurner
 
