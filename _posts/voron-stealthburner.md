@@ -8,6 +8,7 @@ description: Assembling the toolhead for the Voron 2.4.
 preview: /assets/blog/voron-stealthburner/stealthburner-hero.jpg
 slug: /projects/voron-stealthburner
 related:
+  - https://www.vorondesign.com/voron_stealthburner
   - /projects/voron-afterburner
 draft: false
 tags:

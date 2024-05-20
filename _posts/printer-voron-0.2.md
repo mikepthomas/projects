@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
+related:
+  - https://www.vorondesign.com/voron0.2
 draft: false
 tags:
   - CoreXY

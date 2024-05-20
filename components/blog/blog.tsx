@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import cn from 'classnames';
 import Link from 'next/link';
 import Markdown from 'react-markdown';
@@ -77,7 +78,18 @@ export default function Blog({ content, related }: Props) {
                   <ul>
                     {related.map((item, index) => (
                       <li key={index}>
-                        <Link href={item.slug}>{item.title}</Link>
+                        {item.slug.startsWith('https://') ? (
+                          <a
+                            href={item.slug}
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            {item.title}&nbsp;
+                            <FontAwesomeIcon icon={['fas', 'link']} />
+                          </a>
+                        ) : (
+                          <Link href={item.slug}>{item.title}</Link>
+                        )}
                       </li>
                     ))}
                   </ul>

@@ -105,11 +105,13 @@ export async function getStaticProps({ params }: Params) {
   ]);
   const related =
     post.related?.map((item) =>
-      getPostBySlug(item.replace(PROJECTS_PATH, ''), [
-        'title',
-        'slug',
-        'preview',
-      ]),
+      item.startsWith('https://')
+        ? { slug: item, title: item }
+        : getPostBySlug(item.replace(PROJECTS_PATH, ''), [
+            'title',
+            'slug',
+            'preview',
+          ]),
     ) || [];
   return {
     props: {

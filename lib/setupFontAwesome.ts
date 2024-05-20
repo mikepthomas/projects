@@ -37,6 +37,7 @@ import {
   faChalkboardTeacher,
   faHome,
   faLaptopCode,
+  faLink,
   faUserGraduate,
   faWarehouse,
 } from '@fortawesome/free-solid-svg-icons';
@@ -55,6 +56,7 @@ export default function register() {
     faHome,
     faInstagram,
     faLaptopCode,
+    faLink,
     faLinkedin,
     faUserGraduate,
     faWarehouse,
