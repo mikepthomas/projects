@@ -7,7 +7,7 @@
     "typecheck": "tsc",
     "lint": "prettier --single-quote --write .",
     "predeploy": "npm run lint && npm run build",
-    "deploy": "gh-pages -b gh-pages -d out -t"
+    "deploy": "gh-pages -b gh-pages -d out -m 'Deploy Site to GitHub Pages' -f -t"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",

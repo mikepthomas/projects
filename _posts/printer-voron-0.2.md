@@ -2,13 +2,11 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-05-16T17:59:58.726Z
+lastmod: 2024-05-20T11:15:02.143Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
-related:
-  - /projects/nevermore-filter
 draft: false
 tags:
   - CoreXY
@@ -137,18 +135,18 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Panels
 
-| Item                               | Quantity | Received | Notes                                 |
-| ---------------------------------- | -------- | -------- | ------------------------------------- |
-| Acrylic Sheet Clear - 212x230x3mm  | 2        | 2        | Not required as using RGB Side Panels |
-| Acrylic Sheet Clear - 212x239x3mm  | 1        | 1        | Linneo RGB Side Panel Kit             |
-| Acrylic Sheet Smoked - 168x180x3mm | 2        | 2        | Linneo RGB Side Panel Kit             |
-| RGB Side Panel PCB                 | 2        | 2        | Linneo RGB Side Panel Kit             |
-| Upper Rear Panel 212x63x3mm        | 1        | 1        | Linneo Orange ACM                     |
-| Lower Rear Panel 212x185x3mm       | 1        | 1        | Linneo Orange ACM                     |
-| Deck Panel 3mm thick (See DXF)     | 1        | 1        | Linneo Orange ACM                     |
-| Motor Panel 3mm thick (See DXF)    | 1        |          | Not required as using Picobilical     |
-| Bottom Panel 3mm thick (See DXF)   | 1        | 1        | Linneo Orange ACM                     |
-| Mid Panel 3mm thick (See DXF)      | 1        | 1        | Linneo Orange ACM                     |
+| Item                               | Quantity | Received | Notes                                      |
+| ---------------------------------- | -------- | -------- | ------------------------------------------ |
+| Acrylic Sheet Clear - 212x230x3mm  | 2        | 2        | Not required as using RGB Side Panels      |
+| Acrylic Sheet Clear - 212x239x3mm  | 1        | 1        | Not Required as using Mini Fridge Door Kit |
+| Acrylic Sheet Smoked - 168x180x3mm | 2        | 2        | Linneo RGB Side Panel Kit                  |
+| RGB Side Panel PCB                 | 2        | 2        | Linneo RGB Side Panel Kit                  |
+| Upper Rear Panel 212x63x3mm        | 1        | 1        | Linneo Orange ACM                          |
+| Lower Rear Panel 212x185x3mm       | 1        | 1        | Linneo Orange ACM                          |
+| Deck Panel 3mm thick (See DXF)     | 1        | 1        | Linneo Orange ACM                          |
+| Motor Panel 3mm thick (See DXF)    | 1        |          | Not required as using Picobilical          |
+| Bottom Panel 3mm thick (See DXF)   | 1        | 1        | Linneo Orange ACM                          |
+| Mid Panel 3mm thick (See DXF)      | 1        | 1        | Linneo Orange ACM                          |
 
 ## Bowden
 
@@ -180,6 +178,20 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        |       |
 | Bondtech BMG Extruder Kit                    | 1        | 1        |       |
 | MR85 Bearing                                 | 2        | 2        |       |
+
+## Mini-Fridge Door
+
+| Item                                    | Quantity | Received | Notes                                                                                                                        |
+| --------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Ø5x40mm Shaft                           | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| 5mm ID, 7mm OD, 8mm Long Sleeve Bearing | 4        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| 6mm x 3mm Round Neodymium Magnets       | 12       |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| Door Panel 310x210mm                    | 1        |          | [Linneo Voron 0.2 Mini Fridge PC Door Panel](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-mini-fridge-pc-door-panel/) |
+| M3x8 BHCS                               | 10       |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| M3x8 SHCS                               | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| M3x16 SHCS                              | 4        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| Makerbeam XL 15x15 200mm                | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| Makerbeam XL 15x15 330mm                | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
 
 # Printing Parts
 
@@ -664,14 +676,14 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Front Panel
 
-| Item                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Door_Handle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Handle_x1.STL)                           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |       |
-| [Door_Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Latch_x2.STL)                             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| Item                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------------------------------- |
+| [Door_Handle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Handle_x1.STL)                           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
+| [Door_Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Latch_x2.STL)                             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
+| [Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
+| [Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
+| [Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
+| [Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Mini-Fridge Door mod |
 
 ## Extrusion Tophat
 
@@ -708,6 +720,24 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | Item                                                                                              | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                   |
 | ------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------- |
 | [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by chirpy2605 |
+
+## Mini-Fridge Door
+
+### :negative_squared_cross_mark: Door Handle
+
+| Item                                                                                                                                        | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------- |
+| [handle](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_handle%20RevD.stl)           | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
+| [inner_latch](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_inner_latch%20RevD.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
+| [latch_a](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_a%20-%20updated.stl)  | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
+| [latch_b](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_b%20-%20updated.stl)  | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
+
+### :negative_squared_cross_mark: Hinges
+
+| Item                                                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------- |
+| [bottom_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_bottom_hinge_left%20x2.stl) | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
+| [top_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_top_hinge_left%20x2.stl)       | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by TheVoronModder |
 
 ## Assembly Complete
 
