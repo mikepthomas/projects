@@ -1,6 +1,8 @@
 import { AppProps } from 'next/app';
+import { DefaultSeo } from 'next-seo';
 import { GoogleAnalytics } from 'nextjs-google-analytics';
 
+import SEO from '../next-seo.config';
 import { GA_MEASUREMENT_ID } from '../lib/constants';
 
 import '../styles/tailwind.css';
@@ -14,6 +16,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <GoogleAnalytics gaMeasurementId={GA_MEASUREMENT_ID} trackPageViews />
+      <DefaultSeo {...SEO} />
       <Component {...pageProps} />
     </>
   );

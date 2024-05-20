@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 import { Container } from 'reactstrap';
 
 import HeroPost from '../../components/hero-post';
@@ -7,7 +7,7 @@ import Layout from '../../components/layout';
 import MoreStories from '../../components/more-stories';
 import Post from '../../interfaces/post';
 import { getAllPosts } from '../../lib/api';
-import { HOME_OG_IMAGE_URL, HOME_TITLE } from '../../lib/constants';
+import { CMS_NAME, DOMAIN, PROJECTS_PATH } from '../../lib/constants';
 
 type Props = {
   allPosts: Post[];
@@ -19,11 +19,11 @@ export default function Index({ allPosts }: Props) {
   return (
     <>
       <Layout>
-        <Head>
-          <title>{HOME_TITLE}</title>
-          <meta name="description" content={HOME_TITLE} />
-          <meta property="og:image" content={HOME_OG_IMAGE_URL} />
-        </Head>
+        <NextSeo
+          title={CMS_NAME}
+          canonical={`${DOMAIN}${PROJECTS_PATH}`}
+          openGraph={{ url: `${DOMAIN}${PROJECTS_PATH}` }}
+        />
         <Container>
           <Intro />
           {heroPost && (

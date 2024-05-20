@@ -23,14 +23,13 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 
 import { About, Cards, Intro, Timeline } from '../components';
 import Layout from '../components/layout';
 import experienceData from '../data/experience.json';
 import { getPromotedPosts } from '../lib/api';
 import Post from '../interfaces/post';
-import { HOME_OG_IMAGE_URL, HOME_TITLE } from '../lib/constants';
 
 type Props = {
   promotedPosts: Post[];
@@ -39,11 +38,7 @@ type Props = {
 export default function Home({ promotedPosts }: Props) {
   return (
     <Layout>
-      <Head>
-        <title>{HOME_TITLE}</title>
-        <meta name="description" content={HOME_TITLE} />
-        <meta property="og:image" content={HOME_OG_IMAGE_URL} />
-      </Head>
+      <NextSeo title="Home" />
       <Intro />
       <About />
       <Cards promotedPosts={promotedPosts} />

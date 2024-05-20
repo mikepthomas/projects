@@ -1,6 +1,6 @@
 import ErrorPage from 'next/error';
-import Head from 'next/head';
 import { useRouter } from 'next/router';
+import { ArticleJsonLd, NextSeo } from 'next-seo';
 import { Container } from 'reactstrap';
 
 import { Blog, Breadcrumbs } from '../../components';
@@ -9,7 +9,7 @@ import PostHeader from '../../components/post-header';
 import PostTitle from '../../components/post-title';
 import type PostType from '../../interfaces/post';
 import { getPostBySlug, getAllPosts } from '../../lib/api';
-import { HOME_TITLE, PROJECTS_PATH } from '../../lib/constants';
+import { DOMAIN, PROJECTS_PATH } from '../../lib/constants';
 import { basePath } from '../../next.config';
 
 type Props = {
@@ -19,7 +19,6 @@ type Props = {
 
 export default function Post({ post, related }: Props) {
   const router = useRouter();
-  const title = `${post.title} | ${HOME_TITLE}`;
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />;
   }
@@ -32,15 +31,40 @@ export default function Post({ post, related }: Props) {
         ) : (
           <>
             <article className="mb-16">
-              <Head>
-                <title>{title}</title>
-                <meta name="description" content={post.description} />
-                <meta name="keywords" content={post.keywords?.toString()} />
-                <meta
-                  property="og:image"
-                  content={`${basePath}${post.preview}`}
-                />
-              </Head>
+              <NextSeo
+                title={post.title}
+                description={post.description}
+                additionalMetaTags={[
+                  {
+                    name: 'keywords',
+                    content: post.keywords?.toString(),
+                  },
+                ]}
+                canonical={`${DOMAIN}${PROJECTS_PATH}/${post.slug}`}
+                openGraph={{
+                  type: 'article',
+                  article: {
+                    publishedTime: post.date,
+                    modifiedTime: post.lastmod,
+                    tags: post.tags,
+                  },
+                  images: [
+                    {
+                      url: `${DOMAIN}${basePath}${post.preview}`,
+                    },
+                  ],
+                }}
+              />
+              <ArticleJsonLd
+                type="BlogPosting"
+                url={`${DOMAIN}${PROJECTS_PATH}/${post.slug}`}
+                title={post.heading}
+                images={[`${DOMAIN}${basePath}${post.preview}`]}
+                datePublished={post.date}
+                dateModified={post.lastmod}
+                authorName={post.author.name}
+                description={post.description}
+              />
               <PostHeader
                 title={post.heading}
                 coverImage={post.preview}

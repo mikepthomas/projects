@@ -26,6 +26,7 @@
 import cn from 'classnames';
 import { Table } from 'reactstrap';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import Link from 'next/link';
 
 import { RaspberryPiColoriser } from '../components';
@@ -44,19 +45,28 @@ export function getComponents() {
         return <Link href={href}>{children}</Link>;
       }
     },
-    img: ({ alt, src }) => (
-      <motion.span
-        initial={{ opacity: 0 }}
-        whileInView={{ opacity: 1 }}
-        viewport={{ once: true }}
-      >
-        <img
-          className="img-fluid img-thumbnail"
-          src={src.startsWith('/') ? `${basePath}${src}` : src}
-          alt={alt}
-        />
-      </motion.span>
-    ),
+    img: ({ alt, src }) => {
+      const altText = alt?.replace(/ *\{[^)]*\} */g, '');
+      const metaWidth = alt.match(/{([^}]+)x/);
+      const metaHeight = alt.match(/x([^}]+)}/);
+      const width = metaWidth ? metaWidth[1] : '1280';
+      const height = metaHeight ? metaHeight[1] : '960';
+      return (
+        <motion.span
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          viewport={{ once: true }}
+        >
+          <Image
+            className="img-fluid img-thumbnail"
+            src={src.startsWith('/') ? `${basePath}${src}` : src}
+            width={width}
+            height={height}
+            alt={altText}
+          />
+        </motion.span>
+      );
+    },
     pre: ({ children, className }) => (
       <pre
         className={
