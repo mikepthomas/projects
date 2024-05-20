@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "typecheck": "tsc",
     "lint": "prettier --single-quote --write .",
@@ -21,6 +22,7 @@
     "gray-matter": "^4.0.3",
     "next": "latest",
     "next-seo": "^6.4.0",
+    "next-sitemap": "^4.2.3",
     "nextjs-google-analytics": "^2.3.3",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
