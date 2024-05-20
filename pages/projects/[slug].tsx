@@ -43,6 +43,7 @@ export default function Post({ post, related }: Props) {
                 canonical={`${DOMAIN}${PROJECTS_PATH}/${post.slug}`}
                 openGraph={{
                   type: 'article',
+                  title: post.heading,
                   article: {
                     publishedTime: post.date,
                     modifiedTime: post.lastmod,
