@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-05-20T11:15:02.143Z
+lastmod: 2024-05-22T19:46:36.762Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -191,7 +191,7 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | Door Panel 310x210mm                    | 1        |          | [Linneo Voron 0.2 Mini Fridge PC Door Panel](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-mini-fridge-pc-door-panel/) |
 | M3x8 BHCS                               | 10       |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
 | M3x8 SHCS                               | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
-| M3x16 SHCS                              | 4        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
+| M3x16 BHCS                              | 4        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
 | Makerbeam XL 15x15 200mm                | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
 | Makerbeam XL 15x15 330mm                | 2        |          | [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/)         |
 
