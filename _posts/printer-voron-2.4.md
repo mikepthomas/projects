@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-21T21:43:35.107Z
+lastmod: 2024-05-22T19:44:46.004Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -100,7 +100,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Mini 12864 Display                                    | 1        | 1        |                                                                                                                                                                                                                                                                              |
 | Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with Inlet Power Socket IEC320 C14.                                                                                                                                                                                                                                    |
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                                                                              |
-| Mean Well LRS-200-24 PSU                              | 1        |          | On Order.                                                                                                                                                                                                                                                                    |
+| Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                                                              |
 | Keystone CAT6 Insert (Optional)                       | 1        |          |                                                                                                                                                                                                                                                                              |
 | Inductive Probe (See sourcing guide)                  | 1        | 1        | Omron TL-Q5MC2 Probe                                                                                                                                                                                                                                                         |
 | Hotend Kit (24V)                                      | 1        | 1        |                                                                                                                                                                                                                                                                              |
