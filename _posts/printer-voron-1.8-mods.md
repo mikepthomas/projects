@@ -2,7 +2,7 @@
 title: Voron 1.8 Modifications
 heading: Voron 1.8 Modifications and Upgrades
 date: 2022-04-27
-lastmod: 2024-05-19T16:25:23.786Z
+lastmod: 2024-05-22T20:08:31.566Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
@@ -529,26 +529,6 @@ I have printed the horizontal mount as I am planning on mounting the Klipper Exp
 | M3 Hammer Head T-nuts | 2        |
 | M3x8 SHCS             | 4        |
 
-## BTT 5" Screen case
-
-This replaces the [Display Mount](#display-mount) to fit a BigTreeTech PITFT50 touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
-
-| Item                                                     | Quantity | Material                                             | Printed | Notes                                                     |
-| -------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | --------------------------------------------------------- |
-| [back](https://www.thingiverse.com/thing:4837419/files)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                                           |
-| [feets](https://www.thingiverse.com/thing:4837419/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                                           |
-| [plate](https://www.thingiverse.com/thing:4837419/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                                           |
-| [main](https://www.thingiverse.com/thing:4837419/files)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | This will need to be modified to fit the BTT PITFT50 V2.0 |
-
-### :negative_squared_cross_mark: Assembly
-
-#### Parts Used
-
-| Item                                     | Quantity |
-| ---------------------------------------- | -------- |
-| BigTreeTech PITFT50 V2.0                 | 1        |
-| 15 pin Raspberry Pi Display Ribbon Cable | 1m       |
-
 ## Mesh Skirts
 
 These mesh skirts were made using the method decribed in [Eddie the Engineer's Youtube Video](https://www.youtube.com/watch?v=K6sHfXldK4k).
@@ -602,37 +582,3 @@ The bowden is very close to the top panel, this raises the top panel up by 35mm 
 | 1x5mm Foam Tape    | 1-2m     |
 | 1x5mm VHB Tape     | 1-2m     |
 | Super Glue         | 1        |
-
-## LDO Beefy Raspberry Pi Bracket
-
-This replaces the stock [Raspberry Pi Bracket](printer-voron-1.8#electronics-compartment).
-
-| Item                                                                                                                | Quantity | Material                                             | Printed | Notes                   |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ----------------------- |
-| [beefy_raspberry_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/beefy_raspberry_bracket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                         |
-| [pcb_din_clip](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/pcb_din_clip_x3.stl)      | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | This is a Trident Part. |
-
-### :negative_squared_cross_mark: Assembly
-
-#### Parts Used
-
-| Item                     | Quantity |
-| ------------------------ | -------- |
-| M2x10 Self-Tapping Screw | 4        |
-
-## LDO Toolhead Breakout PCB Bracket
-
-A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector from the toolhead to separate connectors making it a little easier to connect to the MCU.
-
-| Item                                                                                                                            | Quantity | Material                                             | Printed | Notes                   |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ----------------------- |
-| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                         |
-| [pcb_din_clip](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/pcb_din_clip_x3.stl)                  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | This is a Trident Part. |
-
-### :negative_squared_cross_mark: Assembly
-
-#### Parts Used
-
-| Item                     | Quantity |
-| ------------------------ | -------- |
-| M2x10 Self-Tapping Screw | 2        |

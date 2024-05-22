@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-22T19:44:46.004Z
+lastmod: 2024-05-22T20:08:31.566Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -97,7 +97,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                                                                                                                                                              |
 | NEMA17 Motor 17HS19-2004S                             | 6        | 5        | 1 More Switchwire Motor On Order. 2 [LDO Speedy Power Motors for A/B](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac/?cgkit_search_word=speedy) & 4 [LDO SwitchWire Motors for Z](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) |
 | NEMA14 Motor 36STH20-1004AHG                          | 1        |          | On Order.                                                                                                                                                                                                                                                                    |
-| Mini 12864 Display                                    | 1        | 1        |                                                                                                                                                                                                                                                                              |
+| Mini 12864 Display                                    | 1        |          | Not Required as I will be using a BigTreeTech PITFT50 V2.0 Display instead.                                                                                                                                                                                                  |
 | Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with Inlet Power Socket IEC320 C14.                                                                                                                                                                                                                                    |
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                                                                              |
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                                                              |
@@ -628,6 +628,23 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | [Fly_Super8_2pc](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Controllers/Mellow/Fly_Super8_2pc.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
+### :negative_squared_cross_mark: LDO Toolhead Breakout PCB Bracket
+
+A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector from the toolhead to separate connectors making it a little easier to connect to the MCU.
+
+| Item                                                                                                                            | Quantity | Material                                             | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ----- |
+| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+
+#### Assembly
+
+#### Parts Used
+
+| Item                     | Quantity |
+| ------------------------ | -------- |
+| M2x10 Self-Tapping Screw | 2        |
+
 ### :negative_squared_cross_mark: Power Inlet
 
 | Item                                                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes             |
@@ -675,13 +692,35 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 
 ### :negative_squared_cross_mark: LCD
 
-| Item                                                                                                                                    | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| Item                                                                                                                                    | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------ |
+| [btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
+| [mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
+| [mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
+| [mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
+| [mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
+
+### :negative_squared_cross_mark: BTT 5" Screen case
+
+This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
+
+| Item                                                                                                                                                           | Quantity | Material                                               | Printed | Notes                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | --------------------------------------- |
+| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | This is a Voron Users Mod by alanho     |
+| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | This is a Voron Users Mod by CannedBass |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                     | Quantity |
+| ---------------------------------------- | -------- |
+| 15 pin Raspberry Pi Display Ribbon Cable | 1m       |
+| BigTreeTech PITFT50 V2.0                 | 1        |
+| M2.5x4 (included in the BTT PITFT50 v2)  | 4        |
+| M3x8 SHCS                                | 6        |
+| M3 Post-install T-nut                    | 2        |
+| M3 Threaded Insert (M3x5x4)              | 4        |
 
 ### :negative_squared_cross_mark: Skirts
 
