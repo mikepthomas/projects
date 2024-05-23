@@ -147,6 +147,26 @@
           "cables-complete.jpg": {
             "alt": "Finally managed to make the cables without breaking the ends",
             "title": "Cables Complete"
+          },
+          "led-strip-deformed.jpg": {
+            "title": "LED Strip Deformed",
+            "caption": "",
+            "alt": "LED Strip Deformed printing ABS"
+          },
+          "overheating-extruder-motor.jpg": {
+            "title": "Overheating Extruder Motor",
+            "caption": "",
+            "alt": "Overheating extruder motor deforming PLA printed extruder chain mount"
+          },
+          "extruder-chain-mount-deformed.jpg": {
+            "title": "Extruder Chain Mount Deformed",
+            "caption": "",
+            "alt": "Extruder Chain Mount deformed from the heat of the motor"
+          },
+          "extruder-chain-mount-in-abs.jpg": {
+            "title": "Extruder Chain Mount In ABS",
+            "caption": "",
+            "alt": "Refitted ABS Printed Chain Mount"
           }
         },
         "printer": {

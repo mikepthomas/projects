@@ -2,7 +2,7 @@
 title: Printer Failures
 heading: 3D Printer Failures
 date: 2018-05-21
-lastmod: 2022-04-01
+lastmod: 2024-05-23T20:21:20.437Z
 author: Mike Thomas
 description: 3D printing is not all plain sailing, sometimes things go wrong. The best thing about building a printer from scratch, is that you also know how to repair it.
 preview: /assets/blog/printer-failures/printer-failures-hero.jpg
@@ -95,8 +95,24 @@ Due to the repetitive sideways movement of the X axis one of the wires of the 3D
 
 The X axis movements started to make a grinding noise, the cheap toothed idlers I purchased have ground their bearings to dust (I also checked the Y axis bearing, it however wasn't making any noise but has also ground the bearings away) I have put back the stock Anet A8 smooth bearings for now and ordered some higher quality toothed ones.
 
-# Fan Duct Deformed
+# Chamber Temperature Heat Creep
 
 ![Fan Duct Deformed printing ABS](/assets/blog/printer-failures/fan-duct-deformed.jpg)
 
-Due to the close proximity to the hot end and the higher temperatures required to print ABS my replacement PETG part cooling fan has stated to deform. I have reprinted it in ABS to withstand the higher temperatures and will also reprint some other parts in ABS that are close to the hot end before they start to fail too.
+Due to the close proximity to the hot end and the higher temperatures required to print ABS my replacement PETG parts near to the hotend and bed have stated to deform. I have reprinted the fan duct and 3D touch sensor holder in ABS to withstand the higher temperatures and removed the LED Strip away from the hotend.
+
+![LED Strip Deformed printing ABS](/assets/blog/printer-failures/led-strip-deformed.jpg)
+
+# Overheating Extruder Motor
+
+![Overheating extruder motor deforming PLA printed extruder chain mount](/assets/blog/printer-failures/overheating-extruder-motor.jpg)
+
+Whilst using a Filament Dryer, and a Filament Runout Sensor at the same time (also with an awkwardly placed spool) there was a little too much friction in the filament path. This put more strain on the extruder motor and therefore caused it to heat up a lot more than usual.
+
+![Extruder Chain Mount deformed from the heat of the motor](/assets/blog/printer-failures/extruder-chain-mount-deformed.jpg)
+
+The extra heat deformed the PLA printed Extruder Chain Mount causing it to release the chain and jammed up the X-Axis. The belt was pulled out of the retaining bracket on the rear of the extruder carriage which caused the print to fail.
+
+![Refitted ABS Printed Chain Mount](/assets/blog/printer-failures/extruder-chain-mount-in-abs.jpg)
+
+I have now reprinted the part in ABS to handle any higher temperatures that the motor can get to and removed any obstructions allowing the filament to move more freely.
