@@ -2,7 +2,7 @@
 title: Voron StealthBurner
 heading: Assembling the Voron StealthBurner Toolhead
 date: 2024-05-16T13:21:45.217Z
-lastmod: 2024-05-19T16:25:23.786Z
+lastmod: 2024-05-25T17:28:26.354Z
 author: Mike Thomas
 description: Assembling the toolhead for the Voron 2.4.
 preview: /assets/blog/voron-stealthburner/stealthburner-hero.jpg
@@ -58,9 +58,9 @@ keywords:
 | Item                                         | Quantity | Received | Notes                                                                                                                                 |
 | -------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | NeoPixel RGBW Mini Button PCB                | 3        | 3        | [Linneo Rainbow Barf LED Harness](https://www.onetwo3d.co.uk/product/linneo-stealthburner-rainbow-barf-2x-rgbw-led-harness-internal/) |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        |          |                                                                                                                                       |
+| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | LDO-36STH20-1004AHG                                                                                                                   |
 | 50x50x15 Centrifugal Fan                     | 1        | 1        | GDSTime Fan                                                                                                                           |
-| 40x40x10 Axial Fan                           | 1        |          |                                                                                                                                       |
+| 40x40x10 Axial Fan                           | 1        | 1        | GDSTime Fan                                                                                                                           |
 
 ## Cables
 
