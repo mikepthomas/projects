@@ -2,7 +2,7 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-02-04T21:05:05.488Z
+lastmod: 2024-05-28T20:33:53.948Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
@@ -198,22 +198,58 @@ It Works! Running the SeaBIOS Payload using [Coreboot](https://www.coreboot.org/
 I used Debian 12 Bookworm to build Libreboot from sources:
 
 ```bash
-git clone https://codeberg.org/libreboot/lbmk
-cd lbmk
-git config --global user.name "Mike Thomas"
-git config --global user.email mikepthomas@outlook.com
-./build dependencies debian
-./build roms list
+$ git clone https://codeberg.org/libreboot/lbmk
+$ cd lbmk
+$ git config --global user.name "Mike Thomas"
+$ git config --global user.email mikepthomas@outlook.com
+$ ./build dependencies debian
+...
+$ ./build roms list
 ```
 
-### Compiling for X220
+### Compiling
 
 ```bash
-./build roms x220_8mb
+$ ./build roms x220_8mb x230_12mb -p grub -d corebootfb -k ukqwerty
 ...
 ...
 ...
+Created CBFS (capacity = 8191460 bytes)
+    BOOTBLOCK
+    CBFS       cbfs_master_header
+    CBFS       fallback/romstage
+Image SIZE 8388608
+    CBFS       cpu_microcode_blob.bin
+    CBFS       fallback/ramstage
+    CBFS       config
+    CBFS       revision
+    CBFS       build_info
+    CBFS       fallback/dsdt.aml
+    CBFS       vbt.bin
+    CBFS       cmos.default
+    CBFS       cmos_layout.bin
+    CBFS       fallback/postcar
+   IFDTOOL
+    DD         Adding Intel Firmware Descriptor
+    IFDTOOL    me.bin -> coreboot.pre
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 8388608 bytes
+File build/me.bin is 86016 bytes
+Adding build/me.bin as the Intel ME section of build/coreboot.pre
 Writing new image to build/coreboot.pre
+    IFDTOOL    gbe.bin -> coreboot.pre
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 8388608 bytes
+File ../../../config/ifd/xx20/gbe is 8192 bytes
+Adding ../../../config/ifd/xx20/gbe as the GbE section of build/coreboot.pre
+Writing new image to build/coreboot.pre
+    IFDTOOL    Unlocking Management Engine
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 8388608 bytes
+Writing new image to build/coreboot.pre
+    HOSTCC     cbfstool/ifittool.o
+    HOSTCC     cbfstool/fit.o
+    HOSTCC     cbfstool/ifittool (link)
     CBFS       coreboot.rom
     CBFSLAYOUT  coreboot.rom
 
@@ -226,202 +262,65 @@ It is possible to perform either the write action or the CBFS add/remove actions
 To see the image's read-only sections as well, rerun with the -w option.
     CBFSPRINT  coreboot.rom
 
+    HOSTCC     cbfstool/ifwitool.o
+    HOSTCC     cbfstool/ifwitool (link)
+    HOSTCC     cbfstool/cse_fpt.o
+    HOSTCC     cbfstool/cse_helpers.o
+    HOSTCC     cbfstool/fpt_hdr_20.o
+    HOSTCC     cbfstool/fpt_hdr_21.o
+    HOSTCC     cbfstool/cse_fpt (link)
+    HOSTCC     cbfstool/cse_serger.o
+    HOSTCC     cbfstool/bpdt_1_6.o
+    HOSTCC     cbfstool/bpdt_1_7.o
+    HOSTCC     cbfstool/subpart_hdr_1.o
+    HOSTCC     cbfstool/subpart_hdr_2.o
+    HOSTCC     cbfstool/subpart_entry_1.o
+    HOSTCC     cbfstool/cse_serger (link)
 FMAP REGION: COREBOOT
 Name                           Offset     Type           Size   Comp
 cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           90320 none
-cpu_microcode_blob.bin         0x16200    microcode       26624 none
-fallback/ramstage              0x1ca40    stage          119136 LZMA (256016 decompressed)
-config                         0x39c00    raw              3094 LZMA (9869 decompressed)
-revision                       0x3a880    raw               720 none
-build_info                     0x3ab80    raw               103 none
-fallback/dsdt.aml              0x3ac40    raw             14608 none
-vbt.bin                        0x3e580    raw              1400 LZMA (3985 decompressed)
-cmos.default                   0x3eb40    cmos_default      256 none
-cmos_layout.bin                0x3ec80    cmos_layout      1976 none
-fallback/postcar               0x3f480    stage           21004 none
-(empty)                        0x44700    null          7892196 none
-bootblock                      0x7cb400   bootblock       18880 none
+fallback/romstage              0x80       stage           90512 none
+cpu_microcode_blob.bin         0x162c0    microcode       26624 none
+fallback/ramstage              0x1cb00    stage          119904 LZMA (258012 decompressed)
+config                         0x39fc0    raw              3161 LZMA (10125 decompressed)
+revision                       0x3ac80    raw               726 none
+build_info                     0x3af80    raw               109 none
+fallback/dsdt.aml              0x3b040    raw             14726 none
+vbt.bin                        0x3ea00    raw              1400 LZMA (3985 decompressed)
+cmos.default                   0x3efc0    cmos_default      256 none
+cmos_layout.bin                0x3f100    cmos_layout      1976 none
+fallback/postcar               0x3f900    stage           21744 none
+(empty)                        0x44e40    null          7890468 none
+bootblock                      0x7cb480   bootblock       18752 none
 
 Built lenovo/x220 (ThinkPad X220)
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
-Done! The files are stored under elf/coreboot_nopayload_DO_NOT_FLASH/
+Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
 
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_colemak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_deqwertz.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_esqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_frazerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_frdvbepo.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_itqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_svenska.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_trqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukdvorak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_usdvorak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_usqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_colemak.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_deqwertz.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_esqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_frazerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_frdvbepo.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_itqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_svenska.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_trqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_ukdvorak.rom
 Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_usdvorak.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_usqwerty.rom
-Running 'make ' for project 'coreboot, target 'x220_8mb''
-mkdirs vendorfiles/xx20/me.bin extract_intel_me: already downloaded
-Running 'make fetch' for project 'coreboot, target 'default''
-download/coreboot default (default): exists
-handle/make/config coreboot x220_8mb: handling config libgfxinit_corebootfb
-Build already exists, so skipping build
-handle/make/config coreboot x220_8mb: handling config libgfxinit_txtmode
-Build already exists, so skipping build
-Done! The files are stored under elf/coreboot_nopayload_DO_NOT_FLASH/
-
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_colemak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_deqwertz.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_esqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_frazerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_frdvbepo.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_itqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_svenska.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_trqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_ukdvorak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_ukqwerty.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_usdvorak.rom
-Creating target image: bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_txtmode_usqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_colemak.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_deqwertz.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_esqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_frazerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_frdvbepo.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_itqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_svenska.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_trqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_ukdvorak.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_ukqwerty.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_usdvorak.rom
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_txtmode_usqwerty.rom
 
 ROM images available in these directories:
 * bin/x220_8mb
+* bin/x230_12mb
 ^^ ROM images available in these directories.
 
 DO NOT flash images from elf/ - please use bin/ instead.
 ```
 
-### Compiling for X230
+## Split X230 image
 
 ```bash
-./build roms x230_12mb
-...
-...
-...
-Writing new image to build/coreboot.pre
-    CBFS       coreboot.rom
-    CBFSLAYOUT  coreboot.rom
-
-This image contains the following sections that can be manipulated with this tool:
-
-'RW_MRC_CACHE' (size 65536, offset 131072)
-'COREBOOT' (CBFS, size 12385792, offset 197120)
-
-It is possible to perform either the write action or the CBFS add/remove actions on every section listed above.
-To see the image's read-only sections as well, rerun with the -w option.
-    CBFSPRINT  coreboot.rom
-
-FMAP REGION: COREBOOT
-Name                           Offset     Type           Size   Comp
-cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           86992 none
-cpu_microcode_blob.bin         0x15500    microcode       26624 none
-fallback/ramstage              0x1bd40    stage          117143 LZMA (250188 decompressed)
-config                         0x38740    raw              3098 LZMA (9875 decompressed)
-revision                       0x393c0    raw               720 none
-build_info                     0x396c0    raw               103 none
-fallback/dsdt.aml              0x39780    raw             14608 none
-vbt.bin                        0x3d0c0    raw              1433 LZMA (4281 decompressed)
-cmos.default                   0x3d6c0    cmos_default      256 none
-cmos_layout.bin                0x3d800    cmos_layout      2012 none
-fallback/postcar               0x3e040    stage           21004 none
-(empty)                        0x432c0    null         12091684 none
-bootblock                      0xbcb400   bootblock       18880 none
-
-Built lenovo/x230 (ThinkPad X230)
-make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
-make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
-make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
-Done! The files are stored under elf/coreboot_nopayload_DO_NOT_FLASH/
-
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_colemak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_deqwertz.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_esqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_frazerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_frdvbepo.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_itqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_svenska.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_trqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_ukdvorak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_usdvorak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_corebootfb_usqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_colemak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_deqwertz.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_esqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_frazerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_frdvbepo.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_itqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_svenska.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_trqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_ukdvorak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_usdvorak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_usqwerty.rom
-Running 'make ' for project 'coreboot, target 'x230_12mb''
-mkdirs vendorfiles/xx30/me.bin extract_intel_me: already downloaded
-Running 'make fetch' for project 'coreboot, target 'default''
-download/coreboot default (default): exists
-handle/make/config coreboot x230_12mb: handling config libgfxinit_corebootfb
-Build already exists, so skipping build
-handle/make/config coreboot x230_12mb: handling config libgfxinit_txtmode
-Build already exists, so skipping build
-Done! The files are stored under elf/coreboot_nopayload_DO_NOT_FLASH/
-
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_colemak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_deqwertz.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_esqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_frazerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_frdvbepo.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_itqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_svenska.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_trqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_ukdvorak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_ukqwerty.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_usdvorak.rom
-Creating target image: bin/x230_12mb/seabios_withgrub_x230_12mb_libgfxinit_txtmode_usqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_colemak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_deqwertz.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_esqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_frazerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_frdvbepo.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_itqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_svenska.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_trqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_ukdvorak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_ukqwerty.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_usdvorak.rom
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_txtmode_usqwerty.rom
-
-ROM images available in these directories:
-* bin/x230_12mb
-^^ ROM images available in these directories.
-
-DO NOT flash images from elf/ - please use bin/ instead.
+$ cd ./bin/x230_12mb/
+$ dd if=grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=top.rom bs=1M skip=8
+4+0 records in
+4+0 records out
+4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0690374 s, 60.8 MB/s
+$ dd if=grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=bottom.rom bs=1M count=8
+8+0 records in
+8+0 records out
+8388608 bytes (8.4 MB, 8.0 MiB) copied, 0.0276864 s, 303 MB/s
 ```
 
 ### Flashing
