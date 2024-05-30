@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-30T20:48:58.085Z
+lastmod: 2024-05-30T22:38:28.548Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -739,9 +739,9 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ### :negative_squared_cross_mark: Power Inlet
 
-| Item                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes               |
-| ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------- |
-| [power_inlet](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_IECGS_1.2mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | IECGS 1.2mm Version |
+| Item                                                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes             |
+| --------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------- |
+| [power_inlet](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_IECGS_1mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | IECGS 1mm Version |
 
 #### Assembly
 
