@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-29T19:58:13.669Z
+lastmod: 2024-05-30T20:48:58.085Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -214,9 +214,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------- |
-| [jig](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/claytono/2.4-extrusion-jig/jig.stl)                                                                                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by claytono                                                  |
-| [Bed_Support_Alignment_Tool_300_Corners](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_300_Corners_x4.stl)               | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel                                               |
-| [Bed_Support_Alignment_Tool_Center_250_300_350](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by GadgetAngel                                               |
+| [jig](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/claytono/2.4-extrusion-jig/jig.stl)                                                                                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `claytono`                                                |
+| [Bed_Support_Alignment_Tool_300_Corners](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_300_Corners_x4.stl)               | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `GadgetAngel`                                             |
+| [Bed_Support_Alignment_Tool_Center_250_300_350](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `GadgetAngel`                                             |
 | [MGN12_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN12_rail_guide_x2.stl)                                                                                                    | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                                                        |
 | [MGN9_rail_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/MGN9_rail_guide_x2.stl)                                                                                                      | 2        |                                                      |      |        |      |   :x:   | Not Required as I will use the ones I printed for [Voron 1.8](printer-voron-1.8#tools) |
 | [bed_hole_marking_template](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/bed_hole_marking_template_x1_Rev2.STL)                                                                             | 1        |                                                      |      |        |      |   :x:   | Not Required as the bed I purchased has pre-drilled holes                              |
@@ -251,6 +251,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Z Rails
 
+| Item                                                                                           | Quantity | Material                                               | Size  | Weight | Cost  | Printed | Notes                   |
+| ---------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :-----: | ----------------------- |
+| [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.51m | 1.31g  | £0.03 |   :x:   | This is an LDO 2.4 Part |
+
 #### Assembly
 
 ##### Parts Needed
@@ -278,10 +282,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes |
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ----- |
-| [belt_tensioner_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_a_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |       |
-| [belt_tensioner_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_b_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |       |
-| [z_drive_baseplate_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_a_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |       |
-| [z_drive_baseplate_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |       |
+| [belt_tensioner_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_a_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.61m  | 1.55g  | £0.03 |        :x:         |       |
+| [belt_tensioner_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_b_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.61m  | 1.55g  | £0.03 |        :x:         |       |
+| [z_drive_baseplate_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_a_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 |        :x:         |       |
+| [z_drive_baseplate_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 |        :x:         |       |
 | [z_drive_main_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_main_a_x2.stl)                   | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 14.13m | 36.03g | £0.59 | :heavy_check_mark: |       |
 | [z_drive_main_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_main_b_x2.stl)                   | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 14.13m | 36.03g | £0.59 | :heavy_check_mark: |       |
 | [z_drive_retainer_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_retainer_a_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 6.75m  | 17.20g | £0.28 | :heavy_check_mark: |       |
@@ -554,16 +558,40 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Z Bearing Blocks
 
-| Item                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [z_belt_clip_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)        | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| Item                                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
+| [z_belt_clip_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl)               | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [z_joint_upper_hall_effect](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_hall_effect.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)                      | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+
+**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                       | Quantity |
+| ------------------------------------------ | -------- |
+| Ø6x3mm Neodimium Magnet                    | 1        |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |
+| M3x30 SHCS                                 | 4        |
+| M5x30 BHCS                                 | 4        |
+| M5 Hexnut                                  | 4        |
 
 ### :negative_squared_cross_mark: Z Joints
 
 | Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [z_joint_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_lower_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item       | Quantity |
+| ---------- | -------- |
+| M3x20 SHCS | 16       |
+| M5x40 SHCS | 4        |
 
 ## A/B Belts
 
@@ -578,6 +606,23 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [probe_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                       | Quantity |
+| ------------------------------------------ | -------- |
+| Ø6x3mm Neodimium Magnet                    | 1        |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |
+| M3x8 SHCS                                  | 4        |
+| M3x12 SHCS                                 | 2        |
+| M3x30 SHCS                                 | 4        |
+| M3 Hexnut                                  | 2        |
+| M3 Threaded Insert (M3x5x4)                | 4        |
+| Omron TL-Q5MC2 Probe                       | 1        |
 
 ## Stealthburner
 
@@ -604,11 +649,27 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | [Raspberry_Pi](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Misc/Raspberry_Pi.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the PiPlate Skirt |
 | [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)              | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the PiPlate Skirt |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                     | Quantity |
+| ------------------------ | -------- |
+| M2x10 Self-tapping Screw | 6        |
+
 ### :negative_squared_cross_mark: 5V PSU
 
 | Item                                                                                                    | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [MW_RS_25](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_RS_25.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item      | Quantity |
+| --------- | -------- |
+| M3x6 BHCS | 2        |
 
 ### :negative_squared_cross_mark: 24V PSU
 
@@ -616,6 +677,16 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [MW_LRS_200](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_LRS_200.stl)              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [PSU_stabilizer_50mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/PSU_stabilizer_50mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| M4x6 BHCS             | 5        |
+| M5x10 BHCS            | 1        |
+| M5 Post-install T-nut | 1        |
 
 ### :negative_squared_cross_mark: Controller Board
 
@@ -627,6 +698,27 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [Fly_Super8_2pc](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Controllers/Mellow/Fly_Super8_2pc.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                     | Quantity |
+| ------------------------ | -------- |
+| M2x10 Self-tapping Screw | 4        |
+| M3x6 BHCS                | 4        |
+
+### :negative_squared_cross_mark: Solid State Relay
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                               | Quantity |
+| ---------------------------------- | -------- |
+| DIN Rail Mount Bracket for G3A SSR | 1        |
+| M4x6 BHCS                          | 2        |
+| Omron G3A-210B-DC5 SSR             | 1        |
 
 ### :negative_squared_cross_mark: LDO Toolhead Breakout PCB Bracket
 
@@ -643,19 +735,64 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 | Item                     | Quantity |
 | ------------------------ | -------- |
-| M2x10 Self-Tapping Screw | 2        |
+| M2x10 Self-Tapping Screw | 6        |
 
 ### :negative_squared_cross_mark: Power Inlet
 
-| Item                                                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes             |
-| --------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------- |
-| [power_inlet](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_IECGS_1mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | IECGS 1mm Version |
+| Item                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes               |
+| ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------- |
+| [power_inlet](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_IECGS_1.2mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | IECGS 1.2mm Version |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x8 SHCS                   | 2        |
+| M3 Post-install T-nut       | 2        |
+| M3 Threaded Insert (M3x5x4) | 3        |
 
 ### :negative_squared_cross_mark: Z Endstop
 
+| Item                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                    |
+| ---------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------- |
+| [nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the Sexbolt Z Endstop |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                             | Quantity |
+| -------------------------------- | -------- |
+| Ø5x35mm Shaft                    | 1        |
+| GT2 20T Pulley (5mm ID 6mm W)    | 1        |
+| JST XH Connector Plug 3 Position | 1        |
+| M2x10 Self-Tapping Screw         | 2        |
+| M3x20 SHCS                       | 2        |
+| M3 Post-install T-nut            | 2        |
+| Omron D2F-01L Micro Switch       | 1        |
+
+### :negative_squared_cross_mark: Sexbolt Z Endstop
+
 | Item                                                                                                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [EndstopHousing](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/STLs/EndstopHousingVoronLogo.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users mod by `hartk1213` |
+| [EndstopHousing](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/STLs/EndstopHousingVoronLogo.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `hartk1213` |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                           | Quantity |
+| ------------------------------ | -------- |
+| 5x7x8 Sleeve Bearings          | 2        |
+| 5mmx20mm Binding Screw         | 1        |
+| 6mmx5mm Stainless Steel Spring | 1        |
+| M2x10 Self-Tapping Screw       | 4        |
+| M4x8 SHCS                      | 1        |
+| M3 Post-install T-nut          | 2        |
+| M3x20 SHCS                     | 2        |
+| Microswitch Z Endstop PCB      | 1        |
 
 ### :negative_squared_cross_mark: X/Y Endstop
 
@@ -663,11 +800,31 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------ |
 | [endstop_pod](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/%5Ba%5D_endstop_pod_D2F_switch.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | D2F Switch Version |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| M3x8 SHCS                  | 2        |
+| M3x30 SHCS                 | 2        |
+| Microswitch XY Endstop PCB | 1        |
+
 ### :negative_squared_cross_mark: Mains Distribution
 
 | Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [wago_221-415_mount_3by5](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3by5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| M5x10 BHCS              | 2        |
+| M5 Post-install T-nut   | 2        |
+| WAGO 221-415 Lever-Nuts | 3        |
 
 ## Wiring
 
@@ -704,10 +861,10 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
 
-| Item                                                                                                                                                           | Quantity | Material                                               | Printed | Notes                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | --------------------------------------- |
-| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | This is a Voron Users Mod by alanho     |
-| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | This is a Voron Users Mod by CannedBass |
+| Item                                                                                                                                                           | Quantity | Material                                               | Printed | Notes                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ----------------------------------------- |
+| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | This is a Voron Users Mod by `alanho`     |
+| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | This is a Voron Users Mod by `CannedBass` |
 
 #### Assembly
 
@@ -742,10 +899,10 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 ### :negative_squared_cross_mark: PiPlate Skirt
 
-| Item                                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by LoganFraser |
-| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by LoganFraser |
+| Item                                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------ |
+| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by `LoganFraser` |
+| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Voron Users Mod by `LoganFraser` |
 
 ### :negative_squared_cross_mark: Bottom Panel
 
