@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-03T17:56:37.572Z
+lastmod: 2024-06-03T21:18:17.987Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -103,7 +103,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                            |
 | Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the PiPlate Skirt                                                                                                                                                                                       |
 | Inductive Probe (See sourcing guide)                  | 1        | 1        | Omron TL-Q5MC2 Probe                                                                                                                                                                                                                       |
-| Hotend Kit (24V)                                      | 1        | 1        |                                                                                                                                                                                                                                            |
+| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak On Order.                                                                                                                                                                                               |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                                            |
 | Controller with 7+ Stepper outputs                    | 1        | 1        | Mellow Super 8                                                                                                                                                                                                                             |
 | C13 Power Cord                                        | 1        | 1        |                                                                                                                                                                                                                                            |
@@ -601,13 +601,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: X Carriage
 
-| Item                                                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [probe_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-
-**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+| Item                                                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [probe_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298) |
+| [x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298) |
+| [x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298) |
 
 #### Assembly
 
@@ -623,6 +621,23 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M3 Hexnut                                  | 2        |
 | M3 Threaded Insert (M3x5x4)                | 4        |
 | Omron TL-Q5MC2 Probe                       | 1        |
+
+### :negative_squared_cross_mark: ChaoticLab CNC Tap
+
+| Item                                                                                                                                          | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [XY_Switch_Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/XY_Switch_Adapter/CNC_Voron_TAP_XY_Switch_Adapter_V2.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                       | Quantity |
+| ------------------------------------------ | -------- |
+| Ø6x3mm Neodimium Magnet                    | 1        |
+| ChaoticLab CNC Tap Kit                     | 1        |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |
+| M3x5 BHCS                                  | 2        |
 
 ## Stealthburner
 
@@ -755,9 +770,9 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ### :negative_squared_cross_mark: Z Endstop
 
-| Item                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                    |
-| ---------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------- |
-| [nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the Sexbolt Z Endstop |
+| Item                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298) |
 
 #### Assembly
 
@@ -772,27 +787,6 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | M3x20 SHCS                       | 2        |
 | M3 Post-install T-nut            | 2        |
 | Omron D2F-01L Micro Switch       | 1        |
-
-### :negative_squared_cross_mark: Sexbolt Z Endstop
-
-| Item                                                                                                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [EndstopHousing](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/STLs/EndstopHousingVoronLogo.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `hartk1213` |
-
-#### Assembly
-
-##### Parts Needed
-
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| 5x7x8 Sleeve Bearings          | 2        |
-| 5mmx20mm Binding Screw         | 1        |
-| 6mmx5mm Stainless Steel Spring | 1        |
-| M2x10 Self-Tapping Screw       | 4        |
-| M4x8 SHCS                      | 1        |
-| M3 Post-install T-nut          | 2        |
-| M3x20 SHCS                     | 2        |
-| Microswitch Z Endstop PCB      | 1        |
 
 ### :negative_squared_cross_mark: X/Y Endstop
 

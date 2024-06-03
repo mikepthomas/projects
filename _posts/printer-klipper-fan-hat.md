@@ -2,7 +2,7 @@
 title: Klipper Fan Hat
 heading: Creating a Printed Circuit Board to control fans in Klipper
 date: 2023-03-21
-lastmod: 2024-01-27T22:05:27.968Z
+lastmod: 2024-06-03T20:59:33.506Z
 author: Mike Thomas
 description: Creating a Raspberry Pi Hat to control additional fans using the Raspberry Pi as a Secondary MCU in Klipper Firmware.
 preview: /assets/blog/printer-klipper-fan-hat/klipper-fan-hat-hero.jpg
@@ -104,7 +104,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | 2510 Axial Fan             | 1        | 2        |                                                                         |
 | CAT24C32 EEPROM            | 1        | 15       | U1                                                                      |
 | DIP-8 Socket               | 1        | 20       | Not required, but makes switching EEPROM modules out easier for testing |
-| DS18B20 Temperature Sensor | 1        | 5        |                                                                         |
+| DS18B20 Temperature Sensor | 1        | 5        | 10 On Order                                                             |
 
 ![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 
