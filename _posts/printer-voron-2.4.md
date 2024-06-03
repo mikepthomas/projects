@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-05-30T22:38:28.548Z
+lastmod: 2024-06-03T17:56:37.572Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -31,32 +31,32 @@ promoted: true
 
 I got a good discount on the Fasteners as the kit is for the original V2.4 and not V2.4R2 (the original price was £83, and I got it for £50) and I have sourced the missing quantities of parts from elsewhere and I should also have many spares left over for Mods and future projects.
 
-| Item                        | Quantity | Received | Notes                                                                                                                     |
-| --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------- |
-| M5x40 SHCS                  | 22       | 27       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5x30 BHCS                  | 22       | 25       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5x16 BHCS                  | 35       | 38       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5x10 BHCS                  | 35       | 38       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5 Post-install T-nut       | 68       | 70       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5 Hexnut                   | 16       | 20       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M5 1mm Shim                 | 42       | 46       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M4x6 BHCS                   | 7        | 9        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x8 SHCS                   | 180      | 190      | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x6 FHCS                   | 8        | 50       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x6 BHCS                   | 11       | 16       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x40 SHCS                  | 30       | 33       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x30 SHCS                  | 25       | 35       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x20 SHCS                  | 22       | 30       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x16 SHCS                  | 20       | 23       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x12 SHCS                  | 41       | 44       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3x10 FHCS                  | 4        | 50       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3 Washer                   | 3        | 3        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3 Threaded Insert (M3x5x4) | 110      | 95       | 50 On Order. In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3 Post-install T-nut       | 96       | 124      | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3 Hexnut                   | 6        | 12       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M3 Hammer Head T-nuts       | 60       | 63       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
-| M2x10 Self-tapping Screw    | 16       | 18       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners)              |
+| Item                        | Quantity | Received | Notes                                                                                                        |
+| --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------ |
+| M5x40 SHCS                  | 22       | 27       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5x30 BHCS                  | 22       | 25       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5x16 BHCS                  | 35       | 38       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5x10 BHCS                  | 35       | 38       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5 Post-install T-nut       | 68       | 70       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5 Hexnut                   | 16       | 20       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M5 1mm Shim                 | 42       | 46       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M4x6 BHCS                   | 7        | 9        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x8 SHCS                   | 180      | 190      | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x6 FHCS                   | 8        | 50       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x6 BHCS                   | 11       | 16       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x40 SHCS                  | 30       | 33       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x30 SHCS                  | 25       | 35       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x20 SHCS                  | 22       | 30       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x16 SHCS                  | 20       | 23       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x12 SHCS                  | 41       | 44       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3x10 FHCS                  | 4        | 50       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3 Washer                   | 3        | 3        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3 Threaded Insert (M3x5x4) | 110      | 145      | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3 Post-install T-nut       | 96       | 124      | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3 Hexnut                   | 6        | 12       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M3 Hammer Head T-nuts       | 60       | 63       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
+| M2x10 Self-tapping Screw    | 16       | 18       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
 
 ## Motion
 
@@ -199,12 +199,12 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                        | Quantity | Received | Notes                    |
-| ----------------------------------------------------------- | -------- | -------- | ------------------------ |
-| Spring Steel Flexible Print Surface - 12"x12"               | 1        |          | On Order.                |
-| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | Mandela Rose Works Plate |
-| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | Keenovo 150 220V 400W    |
-| Adhesive Magnetic Sheet - 12"x12"                           | 1        |          | On Order.                |
+| Item                                                        | Quantity | Received | Notes                                          |
+| ----------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
+| Spring Steel Flexible Print Surface - 12"x12"               | 1        | 1        | Energetic Dual Sided Textured PEI & Smooth PEY |
+| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | Mandela Rose Works Plate                       |
+| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | Keenovo 150 220V 400W                          |
+| Adhesive Magnetic Sheet - 12"x12"                           | 1        | 1        | Came with Energetic Spring Steel Sheet         |
 
 # Printing Parts
 
