@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-03T21:18:17.987Z
+lastmod: 2024-06-04T13:47:46.223Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -60,24 +60,24 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ## Motion
 
-| Item                                       | Quantity | Received | Notes                      |
-| ------------------------------------------ | -------- | -------- | -------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        |          | Powge Motion Kit On Order. |
-| Ø5x35mm Shaft (trim to size)               | 1        |          | Powge Motion Kit On Order. |
-| Linear Rail MGN9H 350mm                    | 6        |          | Medium Preload On Order.   |
-| Linear Rail MGN12H 350mm                   | 1        |          | Medium Preload On Order.   |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |          | Powge Motion Kit On Order. |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |          | Powge Motion Kit On Order. |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        |          | Powge Motion Kit On Order. |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit On Order. |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        |          | Powge Motion Kit On Order. |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        |          | Powge Motion Kit On Order. |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        |          | Powge Motion Kit On Order. |
-| GT2 20T Pulley (5mm ID 6mm W)              | 3        |          | Powge Motion Kit On Order. |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        |          | Powge Motion Kit On Order. |
-| F695 Bearing                               | 20       |          | Powge Motion Kit On Order. |
-| BMG Extruder Components Kit                | 1        | 1        |                            |
-| 625 Bearing                                | 12       |          | Powge Motion Kit On Order. |
+| Item                                       | Quantity | Received | Notes                                                                        |
+| ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| Linear Rail MGN9H 350mm                    | 6        |          | Medium Preload On Order.                                                     |
+| Linear Rail MGN12H 350mm                   | 1        |          | Medium Preload On Order.                                                     |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 20T Pulley (5mm ID 6mm W)              | 3        | 3        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| F695 Bearing                               | 20       | 20       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#electronics) BOM                      |
+| 625 Bearing                                | 12       | 12       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
 
 ## Electronics
 
@@ -102,7 +102,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                                            |
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                            |
 | Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the PiPlate Skirt                                                                                                                                                                                       |
-| Inductive Probe (See sourcing guide)                  | 1        | 1        | Omron TL-Q5MC2 Probe                                                                                                                                                                                                                       |
+| Inductive Probe (See sourcing guide)                  | 1        | 1        | Omron TL-Q5MC2 Probe. Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                                                                                  |
 | Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak On Order.                                                                                                                                                                                               |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                                            |
 | Controller with 7+ Stepper outputs                    | 1        | 1        | Mellow Super 8                                                                                                                                                                                                                             |
@@ -114,9 +114,9 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ## Vibration Management
 
-| Item                            | Quantity | Received | Notes     |
-| ------------------------------- | -------- | -------- | --------- |
-| Rubber Foot (1.5x.75", 38x19mm) | 4        |          | On Order. |
+| Item                            | Quantity | Received | Notes |
+| ------------------------------- | -------- | -------- | ----- |
+| Rubber Foot (1.5x.75", 38x19mm) | 4        | 4        |       |
 
 ## Frame
 
@@ -132,7 +132,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Misumi HFSB5-2020-400                           | 2        | 2        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-380                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
 | Misumi HFSB5-2020-290                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        |          | 400mm On Order.                                                                          |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                                                                                    |
 
 ## Misc
 
@@ -180,7 +180,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not Required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable) |
 | 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                                                                            |
 | 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable                                                                      |
-| 10x15 Generic Cable Chain (495mm)                              | 1        |          | On Order.                                                                                                                     |
+| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        |                                                                                                                               |
 | 10x10 Generic Cable Chain (355mm)                              | 2        | 2        |                                                                                                                               |
 
 ## Panels
@@ -637,7 +637,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Ø6x3mm Neodimium Magnet                    | 1        |
 | ChaoticLab CNC Tap Kit                     | 1        |
 | GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |
-| M3x5 BHCS                                  | 2        |
+| M3x4 BHCS                                  | 2        |
 
 ## Stealthburner
 
