@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-05T21:16:53.058Z
+lastmod: 2024-06-05T21:57:51.161Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -87,28 +87,28 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 | Item                                                  | Quantity | Received | Notes                                                                                                                                                                                                                                      |
 | ----------------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using Inlet Power Socket IEC320 C14 Instead                                                                                                                                                                                                |
+| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                                                                                                      |
 | USB Cable for selected controller                     | 1        | 1        |                                                                                                                                                                                                                                            |
-| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using Inlet Power Socket IEC320 C14 Instead                                                                                                                                                                                                |
+| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                                                                                                      |
 | Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8.) build.                                                                                                                                                                    |
 | TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                                                                                                                                                         |
 | RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                                                                                                                            |
-| Omron G3A-210B-DC5 SSR                                | 1        | 1        |                                                                                                                                                                                                                                            |
+| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU](https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr/)                                                                                                                                       |
 | Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                                                                                                                            |
 | NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 2 [LDO Speedy Power Motors for A/B](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac/?cgkit_search_word=speedy) & 4 [LDO SwitchWire Motors for Z](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) |
 | NEMA14 Motor 36STH20-1004AHG                          | 1        |          | In [StealthBurner](voron-stealthburner#electronics) BOM                                                                                                                                                                                    |
-| Mini 12864 Display                                    | 1        |          | Not Required as I will be using a BigTreeTech PITFT50 V2.0 Display instead.                                                                                                                                                                |
-| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with Inlet Power Socket IEC320 C14.                                                                                                                                                                                                  |
+| Mini 12864 Display                                    | 1        |          | Not Required as I will be using a [BigTreeTech PITFT50 V2.0 Display](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board) instead.                                                                                      |
+| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S).                                                                                                                                                        |
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                                            |
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                            |
 | Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the PiPlate Skirt                                                                                                                                                                                       |
-| Inductive Probe (See sourcing guide)                  | 1        | 1        | Omron TL-Q5MC2 Probe. Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                                                                                  |
+| Inductive Probe (See sourcing guide)                  | 1        | 1        | [Omron TL-Q5MC2](https://www.ia.omron.com/product/item/1924/) Probe. Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                                   |
 | Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak On Order.                                                                                                                                                                                               |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                                            |
-| Controller with 7+ Stepper outputs                    | 1        | 1        | Mellow Super 8                                                                                                                                                                                                                             |
+| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html)                                                                                                                                                                      |
 | C13 Power Cord                                        | 1        | 1        |                                                                                                                                                                                                                                            |
-| BAT85 Diode                                           | 1        | 7        |                                                                                                                                                                                                                                            |
-| 60x60x20 Fan (24V)                                    | 3        | 2        | Delta Fans, 1 Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead                                                                                                                     |
+| BAT85 Diode                                           | 1        |          | Not Required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)                                                                                            |
+| 60x60x20 Fan (24V)                                    | 3        | 2        | [AFB0624HD Delta Fans](https://www.delta-fan.com/Download/Spec/AFB0624VHD.pdf), 1 Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead                                                 |
 | 40x40x20 Centrifugal Fan (24V)                        | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
 | 40x40x10 Axial Fan (24V)                              | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
 
@@ -136,18 +136,18 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ## Misc
 
-| Item                                  | Quantity | Received | Notes |
-| ------------------------------------- | -------- | -------- | ----- |
-| Ø6x3mm Neodimium Magnet               | 8        | 8        |       |
-| Single Sided Foam Tape 3mm Thick (5m) | 1        | 1        |       |
-| Single Sided Foam Tape 1mm Thick (5m) | 1        | 1        |       |
-| PTFE Tube (4mm OD 3mm ID) - 1000mm    | 1        | 1        |       |
-| PTFE Tube (4mm OD 2mm ID) - 300mm     | 1        | 1        |       |
-| Mobil EP1/2 Grease                    | 1        | 1        |       |
-| Loctite Blue Threadlocker Stick       | 1        | 1        |       |
-| Fume Extractor Carbon Filter Element  | 1        | 1        |       |
-| 4mm Threaded Bowden Coupler           | 1        | 1        |       |
-| 3M VHB Tape 5952                      | 1        | 1        |       |
+| Item                                  | Quantity | Received | Notes                                                                                            |
+| ------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
+| Ø6x3mm Neodimium Magnet               | 8        | 8        |                                                                                                  |
+| Single Sided Foam Tape 3mm Thick (5m) | 1        | 1        |                                                                                                  |
+| Single Sided Foam Tape 1mm Thick (5m) | 1        | 1        |                                                                                                  |
+| PTFE Tube (4mm OD 3mm ID) - 1000mm    | 1        | 1        |                                                                                                  |
+| PTFE Tube (4mm OD 2mm ID) - 300mm     | 1        | 1        |                                                                                                  |
+| Mobil EP1/2 Grease                    | 1        | 1        |                                                                                                  |
+| Loctite Blue Threadlocker Stick       | 1        | 1        |                                                                                                  |
+| Fume Extractor Carbon Filter Element  | 1        |          | Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) |
+| 4mm Threaded Bowden Coupler           | 1        | 1        |                                                                                                  |
+| 3M VHB Tape 5952                      | 1        | 1        |                                                                                                  |
 
 ## Cables
 
@@ -180,18 +180,18 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not Required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable) |
 | 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                                                                            |
 | 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable                                                                      |
-| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        |                                                                                                                               |
-| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        |                                                                                                                               |
+| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html)                                                        |
+| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html)                                                        |
 
 ## Panels
 
-| Item                                 | Quantity | Received | Notes                    |
-| ------------------------------------ | -------- | -------- | ------------------------ |
-| Coroplast Sheet - 433x453x4 mm       | 1        | 1        | 3mm ACM Panel            |
-| Coroplast Sheet - 419x419x4 mm       | 2        | 2        | 3mm ACM Panels           |
-| Acrylic Sheet Clear - 433x453x3 mm   | 2        | 2        | 3mm Polycarbonate Panels |
-| Acrylic Sheet Clear - 433x433x3 mm   | 1        | 1        | 3mm Polycarbonate Panel  |
-| Acrylic Sheet Clear - 216.5x453x3 mm | 2        | 2        | 3mm Polycarbonate Panels |
+| Item                                 | Quantity | Received | Notes                                                                                              |
+| ------------------------------------ | -------- | -------- | -------------------------------------------------------------------------------------------------- |
+| Coroplast Sheet - 433x453x4 mm       | 1        | 1        | [3mm ACM Panel](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)      |
+| Coroplast Sheet - 419x419x4 mm       | 2        | 2        | [3mm ACM Panels](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)     |
+| Acrylic Sheet Clear - 433x453x3 mm   | 2        | 2        | [3mm Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/) |
+| Acrylic Sheet Clear - 433x433x3 mm   | 1        | 1        | [3mm Polycarbonate Panel](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/)  |
+| Acrylic Sheet Clear - 216.5x453x3 mm | 2        | 2        | [3mm Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/) |
 
 ## Buildplate
 
@@ -199,12 +199,12 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                        | Quantity | Received | Notes                                          |
-| ----------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
-| Spring Steel Flexible Print Surface - 12"x12"               | 1        | 1        | Energetic Dual Sided Textured PEI & Smooth PEY |
-| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | Mandela Rose Works Plate                       |
-| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | Keenovo 150 220V 400W                          |
-| Adhesive Magnetic Sheet - 12"x12"                           | 1        | 1        | Came with Energetic Spring Steel Sheet         |
+| Item                                                        | Quantity | Received | Notes                                                                                                                                                  |
+| ----------------------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Spring Steel Flexible Print Surface - 12"x12"               | 1        | 1        | [Energetic Dual Sided Textured PEI & Smooth PEY](https://www.aliexpress.com/item/1005006340164332.html)                                                |
+| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | [Mandela Rose Works Non-Magnetic Plate](https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic/) |
+| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | [Keenovo 150 220V 400W](https://www.onetwo3d.co.uk/product/keenovo-heater-pads/)                                                                       |
+| Adhesive Magnetic Sheet - 12"x12"                           | 1        | 1        | Came with Energetic Spring Steel Sheet                                                                                                                 |
 
 # Printing Parts
 
