@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-04T13:47:46.223Z
+lastmod: 2024-06-05T16:30:29.377Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -60,24 +60,24 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ## Motion
 
-| Item                                       | Quantity | Received | Notes                                                                        |
-| ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| Linear Rail MGN9H 350mm                    | 6        |          | Medium Preload On Order.                                                     |
-| Linear Rail MGN12H 350mm                   | 1        |          | Medium Preload On Order.                                                     |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 20T Pulley (5mm ID 6mm W)              | 3        | 3        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| F695 Bearing                               | 20       | 20       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
-| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#electronics) BOM                      |
-| 625 Bearing                                | 12       | 12       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) |
+| Item                                       | Quantity | Received | Notes                                                                                    |
+| ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| Linear Rail MGN9H 350mm                    | 6        | 6        | [Stainless Steel, Medium Preload](https://www.aliexpress.com/item/1005003476565429.html) |
+| Linear Rail MGN12H 350mm                   | 1        | 1        | [Stainless Steel, Medium Preload](https://www.aliexpress.com/item/1005003476565429.html) |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 20T Pulley (5mm ID 6mm W)              | 3        | 3        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| F695 Bearing                               | 20       | 20       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#electronics) BOM                                  |
+| 625 Bearing                                | 12       | 12       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
 
 ## Electronics
 
@@ -938,6 +938,12 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------- |
 | [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
 | [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
+
+### :negative_squared_cross_mark: LDO Aluminum Handlebars
+
+| Item                                                                                                     | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                   |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------- |
+| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is an LDO 2.4 Part |
 
 ### :negative_squared_cross_mark: Doors
 

@@ -2,7 +2,7 @@
 title: Voron StealthBurner
 heading: Assembling the Voron StealthBurner Toolhead
 date: 2024-05-16T13:21:45.217Z
-lastmod: 2024-05-25T17:28:26.354Z
+lastmod: 2024-06-05T16:33:58.369Z
 author: Mike Thomas
 description: Assembling the toolhead for the Voron 2.4.
 preview: /assets/blog/voron-stealthburner/stealthburner-hero.jpg
@@ -93,10 +93,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Tools
 
-| Item                                                                                                                         | Quantity | Material | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | :-----: | ----- |
-| [SB_5015_Cutting_Tool_A](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_A.stl) | 1        |          |   :x:   |       |
-| [SB_5015_Cutting_Tool_B](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_B.stl) | 1        |          |   :x:   |       |
+| Item                                                                                                                                                    | Quantity | Material | Printed | Notes                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | :-----: | ---------------------------- |
+| [LED-PCB_Drill_Template](https://github.com/VoronDesign/Voron-Hardware/blob/master/Stealthburner_Toolhead_PCB/STLs/SB-LED-PCB_Drill_Template_v0.02.stl) | 1        |          |   :x:   | This is a Mod by `hartk1213` |
+| [SB_5015_Cutting_Tool_A](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_A.stl)                            | 1        |          |   :x:   |                              |
+| [SB_5015_Cutting_Tool_B](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_B.stl)                            | 1        |          |   :x:   |                              |
 
 ## ClockWork 2
 
