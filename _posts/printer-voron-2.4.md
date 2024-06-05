@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-05T21:04:58.654Z
+lastmod: 2024-06-05T21:16:53.058Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -268,6 +268,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Deck Panel
 
+| Item                                                                                                                                                                                    | Quantity | Material                                               | Size  | Weight | Cost  | Printed | Notes                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :-----: | -------------------------------------- |
+| [deck_panel_support_lower](<https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/wile-e1/Deck_Panel_Support_Clips/wile.e-deck_panel_support_lower_adjustable(3-6mm).stl>) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.72m | 1.83g  | £0.03 |   :x:   | This is a Voron Users Mod by `wile-e1` |
+| [deck_panel_support_upper](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/wile-e1/Deck_Panel_Support_Clips/wile.e-deck_panel_support_upper.stl)                     | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.93m | 2.36g  | £0.04 |   :x:   | This is a Voron Users Mod by `wile-e1` |
+
 #### Assembly
 
 ##### Parts Needed
@@ -276,6 +281,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ----------------------------- | -------- |
 | ACM Deck Panel - 419x419x3 mm | 1        |
 | DIN 3 Rails (35mm W) - 400mm  | 2        |
+| M3x8 SHCS                     | 8        |
+| M3 Post-install T-nut         | 8        |
 | M5x10 BHCS                    | 4        |
 | M5 Post-install T-nut         | 4        |
 
