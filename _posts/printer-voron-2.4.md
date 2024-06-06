@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-05T21:57:51.161Z
+lastmod: 2024-06-06T17:42:45.904Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -292,8 +292,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ----- |
 | [belt_tensioner_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_a_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.61m  | 1.55g  | £0.03 | :heavy_check_mark: |       |
 | [belt_tensioner_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_b_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.61m  | 1.55g  | £0.03 | :heavy_check_mark: |       |
-| [z_drive_baseplate_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_a_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 |        :x:         |       |
-| [z_drive_baseplate_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 |        :x:         |       |
+| [z_drive_baseplate_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_a_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 | :heavy_check_mark: |       |
+| [z_drive_baseplate_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_z_drive_baseplate_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 3.40m  | 8.66g  | £0.17 | :heavy_check_mark: |       |
 | [z_drive_main_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_main_a_x2.stl)                   | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 14.13m | 36.03g | £0.59 | :heavy_check_mark: |       |
 | [z_drive_main_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_main_b_x2.stl)                   | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 14.13m | 36.03g | £0.59 | :heavy_check_mark: |       |
 | [z_drive_retainer_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_retainer_a_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 6.75m  | 17.20g | £0.28 | :heavy_check_mark: |       |
