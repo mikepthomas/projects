@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-06T17:42:45.904Z
+lastmod: 2024-06-07T17:00:22.855Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -566,13 +566,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Z Bearing Blocks
 
-| Item                                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [z_belt_clip_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl)               | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [z_joint_upper_hall_effect](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_hall_effect.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)                      | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-
-**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+| Item                                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------------------------------------------------------- |
+| [z_belt_clip_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl)               | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                                                                              |
+| [z_joint_upper_hall_effect](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_hall_effect.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) |
+| [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)                      | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) |
 
 #### Assembly
 
@@ -588,9 +586,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Z Joints
 
-| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [z_joint_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_lower_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------------------------------------------------------- |
+| [z_joint_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_lower_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) |
 
 #### Assembly
 
@@ -600,6 +598,32 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ---------- | -------- |
 | M3x20 SHCS | 16       |
 | M5x40 SHCS | 4        |
+
+### :negative_squared_cross_mark: Annex Engineering Reinforced Gantry Mounts
+
+| Item                                                                                                                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------ |
+| [halleffect_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/halleffect_spacer_Rev1.STL)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [microswitch_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/microswitch_spacer_Rev1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [z_bearing_block](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_bearing_block_x4_Rev3.STL)    | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [z_tensioner](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_tensioner_x4_Rev3.STL)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+
+**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                   | Quantity |
+| -------------------------------------- | -------- |
+| Ø6x3mm Neodimium Magnet                | 1        |
+| 02152 ball head screws                 | 4        |
+| M3x12 SHCS                             | 14       |
+| M3x16 SHCS                             | 4        |
+| M3x20 SHCS                             | 2        |
+| M3 Threaded Insert (M3x5x4)            | 4        |
+| M5 Washer (1mm)                        | 4        |
+| M10x20 Hex Socket Set Screw (flat end) | 4        |
 
 ## A/B Belts
 

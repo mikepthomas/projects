@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-05-25T17:28:26.354Z
+lastmod: 2024-06-07T16:06:45.125Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -28,74 +28,74 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Fasteners
 
-| Item                                      | Quantity | Received | Notes                                                       |
-| ----------------------------------------- | -------- | -------- | ----------------------------------------------------------- |
-| 3x6x0.5 Shim Washer                       | 50       | 50       |                                                             |
-| LDO M3 Slide In Nut                       | 40       | 40       | Can be used to install mods or if preloaded nuts are missed |
-| M2 Nut                                    | 55       | 72       |                                                             |
-| M3 Nut                                    | 140      | 151      |                                                             |
-| M2x4 SHCS                                 | 8        | 10       |                                                             |
-| M2x6 SHCS                                 | 70       | 77       |                                                             |
-| M2x6 FHCS                                 | 10       | 15       |                                                             |
-| M2x8 SHCS                                 | 10       | 18       |                                                             |
-| M3x6 BHCS                                 | 40       | 50       |                                                             |
-| M3x6 FHCS                                 | 8        | 10       |                                                             |
-| M3x8 BHCS                                 | 115      | 120      |                                                             |
-| M3x8 FHCS                                 | 5        | 10       |                                                             |
-| M3x10 BHCS                                | 50       | 35       | Fewer needed due to Kirigami Bed Mount                      |
-| M3x12 BHCS                                | 25       | 30       |                                                             |
-| M3x16 BHCS                                | 10       | 15       |                                                             |
-| M3x25 BHCS                                | 10       | 15       |                                                             |
-| M3x30 BHCS                                | 10       | 15       |                                                             |
-| M3x35 BHCS                                | 30       | 35       |                                                             |
-| M3x40 BHCS                                | 10       | 15       |                                                             |
-| M2x10 Self Tapping Screws for Plastic     | 30       | 36       |                                                             |
-| M3 Brass heatstake inserts - short M3x5x4 | 50       | 71       |                                                             |
-| Makerbeam XL M3 t-nut                     | 2        | 2        |                                                             |
+| Item                                      | Quantity | Received | Notes                                                                                                                                                                                                |
+| ----------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3x6x0.5 Shim Washer                       | 50       | 38       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| LDO M3 Slide In Nut                       | 40       | 140      | 100 In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/), 40 from 2 [LDO M3 Slide In Nut Kit](https://www.onetwo3d.co.uk/product/ldo-m3-slide-in-nut-kit/)s |
+| M2 Nut                                    | 55       |          | Not required as Using [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                                                      |
+| M3 Nut                                    | 140      | 155      | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 Lock Nut                               | 6        | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x6 SHCS                                 | 70       | 75       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x6 FHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x8 SHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2.5x6 BHCS                               | 6        | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x6 BHCS                                 | 40       | 63       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x8 BHCS                                 | 115      | 135      | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x8 FHCS                                 | 5        | 7        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x10 BHCS                                | 50       | 37       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/). Fewer needed due to Kirigami Bed Mount                                                                |
+| M3x12 BHCS                                | 25       | 33       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x16 BHCS                                | 10       | 11       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x25 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x30 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x35 BHCS                                | 30       | 33       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x40 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x50 BHCS                                | 2        | 2        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 Brass heatstake inserts - short M3x5x4 | 50       | 60       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| Makerbeam XL M3 t-nut                     | 2        | 3        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 Thumb Nut                              | 3        | 3        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 
 ## Frame Extrusions
 
-| Item                               | Quantity | Received | Notes                            |
-| ---------------------------------- | -------- | -------- | -------------------------------- |
-| Makerbeam XL 15x15 200mm           | 16       | 16       |                                  |
-| Makerbeam XL 15x15 100mm           | 3        |          | Using Kirigami Bed Mount instead |
-| LDO Kirigami Bed Mount             | 1        | 1        |                                  |
-| Siboor CNC Slide Back Plate        | 1        | 1        |                                  |
-| Fysetc Profile Installation Helper | 1        | 1        |                                  |
+| Item                               | Quantity | Received | Notes                                                                                                                    |
+| ---------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Makerbeam XL 15x15 200mm           | 16       | 16       | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)                                     |
+| Makerbeam XL 15x15 100mm           | 3        |          | Not Required, Using [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/) instead |
+| Kirigami Bed Mount                 | 1        | 1        | [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/)                             |
+| Siboor CNC Slide Back Plate        | 1        | 1        |                                                                                                                          |
+| Fysetc Profile Installation Helper | 1        | 1        |                                                                                                                          |
 
 ## Extrusion Tophat Frame Extrusions
 
-| Item                        | Quantity | Received | Notes |
-| --------------------------- | -------- | -------- | ----- |
-| Makerbeam XL 15x15 200mm    | 4        | 4        |       |
-| Makerbeam XL 15x15 80-100mm | 4        | 4        | 100mm |
+| Item                        | Quantity | Received | Notes                                                                                      |
+| --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------ |
+| Makerbeam XL 15x15 200mm    | 4        | 4        | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)       |
+| Makerbeam XL 15x15 80-100mm | 4        | 4        | 100mm In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/) |
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes         |
-| -------------------------------------------------------- | -------- | -------- | ------------- |
-| Meanwell LRS-150-24                                      | 1        | 1        |               |
-| Bigtreetech SKR Pico                                     | 1        | 1        |               |
-| Raspberry Pi 4                                           | 1        | 1        |               |
-| MicroSD Card                                             | 1        | 1        |               |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Seppers |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepers |
-| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans  |
-| 3010 axial fan 24V                                       | 2        | 2        | LDO Fans      |
-| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans  |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |               |
-| C13 Power Cord                                           | 1        | 1        |               |
-| IEC320 C14 inlet                                         | 1        | 1        |               |
-| Hotend                                                   | 1        | 1        |               |
-| 24V Heater Cartridge                                     | 1        | 1        |               |
-| Hotend thermistor                                        | 1        | 1        |               |
-| 3M 5952 VHB tape                                         | 1        | 1        |               |
-| Fysetc Neopixel Sequins                                  | 2        | 4        |               |
-| LDO Bed LED PCB                                          | 1        | 1        |               |
-| LDO XH2.54 PCB 2P-2P                                     | 1        | 1        |               |
-| Siboor V0 Display                                        | 1        | 1        |               |
-| Wago connectors (221-412)                                | 2        | 2        |               |
-| 100R resistor PCB for NeoPixels                          | 2        | 2        |               |
+| Item                                                     | Quantity | Received | Notes                                                                         |
+| -------------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------- |
+| Meanwell LRS-150-24                                      | 1        | 1        |                                                                               |
+| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                               |
+| Raspberry Pi 4                                           | 1        | 1        |                                                                               |
+| MicroSD Card                                             | 1        | 1        |                                                                               |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Sepper Motors                                                           |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Sepper Motor                                                            |
+| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                  |
+| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/) |
+| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans                                                                  |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                               |
+| C13 Power Cord                                           | 1        | 1        |                                                                               |
+| IEC320 C14 inlet                                         | 1        | 1        |                                                                               |
+| Hotend                                                   | 1        | 1        |                                                                               |
+| 24V Heater Cartridge                                     | 1        | 1        |                                                                               |
+| Hotend thermistor                                        | 1        | 1        |                                                                               |
+| 3M 5952 VHB tape                                         | 1        | 1        |                                                                               |
+| Fysetc Neopixel Sequins                                  | 2        | 4        |                                                                               |
+| V0 Display                                               | 1        | 1        |                                                                               |
+| Wago connectors (221-412)                                | 2        | 2        |                                                                               |
+| 100R resistor PCB for NeoPixels                          | 2        | 2        |                                                                               |
 
 ## Cables
 
@@ -105,8 +105,8 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness                                                    |
 | High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness                                                    |
 | Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                                                    |
-| LDO Picobilical kit                                | 1        | 1        |                                                                                           |
-| Thermal Fuse 125C                                  | 1        | 5        |                                                                                           |
+| Umbilical PCB Boards                               | 1        | 1        | [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)    |
+| Thermal Fuse 125C                                  | 1        | 5        | 120C                                                                                      |
 | JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                                                    |
 | Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                                                    |
 | 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        |                                                                                           |
@@ -115,15 +115,14 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Motion
 
-| Item                                    | Quantity | Received | Notes                                      |
-| --------------------------------------- | -------- | -------- | ------------------------------------------ |
-| F623-RS Bearing                         | 24       | 24       |                                            |
-| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        |                                            |
-| Siboor PCB Rail Holders                 | 10       | 10       | May use instead of LDO Nut Bar Mount Kit   |
-| LDO 0.2 Nut Bar Mount                   | 5        | 5        | May use instead of Siboor PCB Rail Holders |
-| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                            |
-| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                            |
-| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                            |
+| Item                                    | Quantity | Received | Notes                                                                |
+| --------------------------------------- | -------- | -------- | -------------------------------------------------------------------- |
+| F623-RS Bearing                         | 24       | 24       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html) |
+| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        |                                                                      |
+| LDO 0.2 Nut Bar Mount                   | 5        | 5        |                                                                      |
+| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                      |
+| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                      |
+| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                      |
 
 ## Buildplate
 
@@ -137,18 +136,18 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Panels
 
-| Item                               | Quantity | Received | Notes                                      |
-| ---------------------------------- | -------- | -------- | ------------------------------------------ |
-| Acrylic Sheet Clear - 212x230x3mm  | 2        | 2        | Not required as using RGB Side Panels      |
-| Acrylic Sheet Clear - 212x239x3mm  | 1        | 1        | Not Required as using Mini Fridge Door Kit |
-| Acrylic Sheet Smoked - 168x180x3mm | 2        | 2        | Linneo RGB Side Panel Kit                  |
-| RGB Side Panel PCB                 | 2        | 2        | Linneo RGB Side Panel Kit                  |
-| Upper Rear Panel 212x63x3mm        | 1        | 1        | Linneo Orange ACM                          |
-| Lower Rear Panel 212x185x3mm       | 1        | 1        | Linneo Orange ACM                          |
-| Deck Panel 3mm thick (See DXF)     | 1        | 1        | Linneo Orange ACM                          |
-| Motor Panel 3mm thick (See DXF)    | 1        |          | Not required as using Picobilical          |
-| Bottom Panel 3mm thick (See DXF)   | 1        | 1        | Linneo Orange ACM                          |
-| Mid Panel 3mm thick (See DXF)      | 1        | 1        | Linneo Orange ACM                          |
+| Item                               | Quantity | Received | Notes                                                                                                                                      |
+| ---------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Acrylic Sheet Clear - 212x230x3mm  | 2        |          | Not required as using [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)              |
+| Acrylic Sheet Clear - 212x239x3mm  | 1        |          | Not Required as using [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/) |
+| Acrylic Sheet Smoked - 168x180x3mm | 2        | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
+| RGBW LED Side Panel PCB            | 2        | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
+| Upper Rear Panel 212x63x3mm        | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Lower Rear Panel 212x185x3mm       | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Deck Panel 3mm thick (See DXF)     | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Motor Panel 3mm thick (See DXF)    | 1        |          | Not required as using [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
+| Bottom Panel 3mm thick (See DXF)   | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Mid Panel 3mm thick (See DXF)      | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
 
 ## Bowden
 
@@ -168,18 +167,18 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Extrusion Tophat Panels
 
-| Item                      | Quantity | Received | Notes              |
-| ------------------------- | -------- | -------- | ------------------ |
-| Top Panel 212x212mm       | 1        | 1        | Linneo Top Hat Kit |
-| Side Panels 212x(71-91)mm | 4        | 4        | Linneo Top Hat Kit |
+| Item                      | Quantity | Received | Notes                                                                                                                                                     |
+| ------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/)                                                        |
+| Side Panels 212x(71-91)mm | 4        | 3        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/). 1 Not Required as I am using the LDO Mini-Fridge Door |
 
 ## Extruder
 
-| Item                                         | Quantity | Received | Notes |
-| -------------------------------------------- | -------- | -------- | ----- |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        |       |
-| Bondtech BMG Extruder Kit                    | 1        | 1        |       |
-| MR85 Bearing                                 | 2        | 2        |       |
+| Item                                         | Quantity | Received | Notes              |
+| -------------------------------------------- | -------- | -------- | ------------------ |
+| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | Moons Sepper Motor |
+| Bondtech BMG Extruder Kit                    | 1        | 1        |                    |
+| MR85 Bearing                                 | 2        | 2        |                    |
 
 ## Mini-Fridge Door
 
@@ -199,12 +198,12 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Tools
 
-| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                                                                                                                                            |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                                                                                                                                            |
-| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl) | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a Voron Users Mod by `zruncho`. These are for the front idlers.                                                                    |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00  |         49         | This is a Voron Users Mod by `zruncho`. The repo says these are for LDO frames only, however I can confirm they fit the Formbot frame too. |
+| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------------- |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                                                                         |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                                                                         |
+| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl) | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a Voron Users Mod by `zruncho`. These are for the front idlers. |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00  |         49         | This is a Voron Users Mod by `zruncho`                                  |
 
 ## Frame
 
@@ -214,16 +213,16 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ### :negative_squared_cross_mark: Y Rails
 
-| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with either 4 Siboor PCB Rail Mounts or 2 LDO Rail Mounts |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                                        |
+| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                               |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with 2 LDO Rail Mounts |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                     |
 
 ### :negative_squared_cross_mark: Z Rails
 
-| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with either 4 Siboor PCB Rail Mounts or 2 LDO Rail Mounts |
+| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                               |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with 2 LDO Rail Mounts |
 | [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Z Axis
@@ -234,11 +233,11 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ### :negative_squared_cross_mark: Bed Carrier
 
-| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                    |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------- |
-| [Front_Bed_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Front_Bed_Mount_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as my kit came with the Kirigami bed mount. |
-| [Rear_Bed_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Left_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as my kit came with the Kirigami bed mount. |
-| [Rear_Bed_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Right_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as my kit came with the Kirigami bed mount. |
+| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                       |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------- |
+| [Front_Bed_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Front_Bed_Mount_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be using the LDO Kirigami bed mount. |
+| [Rear_Bed_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Left_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be using the LDO Kirigami bed mount. |
+| [Rear_Bed_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Right_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be using the LDO Kirigami bed mount. |
 
 ### :negative_squared_cross_mark: Kirigami Bed
 
@@ -372,9 +371,9 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ### :negative_squared_cross_mark: X Axis
 
-| Item                                                                                                                | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                 |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Will replace with either 2 Siboor PCB Rail Mounts or 1 LDO Rail Mount |
+| Item                                                                                                                | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                              |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Will replace with 1 LDO Rail Mount |
 
 ### :negative_squared_cross_mark: Adafruit Y Rails
 
