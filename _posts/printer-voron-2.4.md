@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-17T19:59:47.815Z
+lastmod: 2024-06-18T18:11:54.233Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -299,7 +299,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [z_drive_retainer_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_retainer_a_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 6.75m  | 17.20g | £0.28 | :heavy_check_mark: |       |
 | [z_drive_retainer_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_drive_retainer_b_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 6.75m  | 17.20g | £0.28 | :heavy_check_mark: |       |
 | [z_motor_mount_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_a_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.06m  | 10.36g | £0.17 | :heavy_check_mark: |       |
-| [z_motor_mount_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_b_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.06m  | 10.36g | £0.17 |        :x:         |       |
+| [z_motor_mount_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_b_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.06m  | 10.36g | £0.17 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -330,8 +330,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                     | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [z_tensioner_9mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/%5Ba%5D_z_tensioner_9mm_x4.stl)     | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.79m | 7.12g  | £0.14 | :heavy_check_mark: |       |
-| [z_tensioner_bracket_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
-| [z_tensioner_bracket_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
+| [z_tensioner_bracket_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 |        :x:         |       |
+| [z_tensioner_bracket_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 |        :x:         |       |
 
 #### Assembly
 
@@ -656,10 +656,6 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Omron TL-Q5MC2 Probe                       | 1        |
 
 ### :negative_squared_cross_mark: ChaoticLab CNC Tap
-
-| Item                                                                                                                                          | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [XY_Switch_Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/XY_Switch_Adapter/CNC_Voron_TAP_XY_Switch_Adapter_V2.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 #### Assembly
 
