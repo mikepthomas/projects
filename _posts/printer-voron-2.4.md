@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-18T18:11:54.233Z
+lastmod: 2024-06-19T21:48:10.916Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -103,7 +103,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                            |
 | Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the PiPlate Skirt                                                                                                                                                                                       |
 | Inductive Probe (See sourcing guide)                  | 1        | 1        | [Omron TL-Q5MC2](https://www.ia.omron.com/product/item/1924/) Probe. Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                                   |
-| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak On Order.                                                                                                                                                                                               |
+| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                                                                                                                                                         |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                                            |
 | Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html)                                                                                                                                                                      |
 | C13 Power Cord                                        | 1        | 1        |                                                                                                                                                                                                                                            |
@@ -330,8 +330,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                     | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [z_tensioner_9mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/%5Ba%5D_z_tensioner_9mm_x4.stl)     | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.79m | 7.12g  | £0.14 | :heavy_check_mark: |       |
-| [z_tensioner_bracket_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 |        :x:         |       |
-| [z_tensioner_bracket_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 |        :x:         |       |
+| [z_tensioner_bracket_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 | :heavy_check_mark: |       |
+| [z_tensioner_bracket_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Idlers/z_tensioner_bracket_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.40m | 11.23g | £0.18 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -384,8 +384,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
-| [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
+| [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 |        :x:         |       |
+| [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 |        :x:         |       |
 
 #### Assembly
 
@@ -406,8 +406,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
-| [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         |       |
+| [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 |        :x:         |       |
+| [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 |        :x:         |       |
 
 #### Assembly
 
