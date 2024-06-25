@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-19T21:48:10.916Z
+lastmod: 2024-06-25T20:54:08.676Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -384,8 +384,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 |        :x:         |       |
-| [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 |        :x:         |       |
+| [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 | :heavy_check_mark: |       |
+| [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -406,8 +406,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 |        :x:         |       |
-| [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 |        :x:         |       |
+| [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 | :heavy_check_mark: |       |
+| [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -425,10 +425,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: A Drive
 
-| Item                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.66m | 19.53g | £0.32 | :heavy_check_mark: |       |
+| [a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.55m | 19.25g | £0.31 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -446,10 +446,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: B Drive
 
-| Item                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
+| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.10m | 18.11g | £0.30 |   :x:   |       |
+| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 |   :x:   |       |
 
 ##### Parts Needed
 
