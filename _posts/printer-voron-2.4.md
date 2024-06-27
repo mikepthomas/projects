@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-25T20:54:08.676Z
+lastmod: 2024-06-27T20:34:29.988Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -446,10 +446,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: B Drive
 
-| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.10m | 18.11g | £0.30 |   :x:   |       |
-| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 |   :x:   |       |
+| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.10m | 18.11g | £0.30 | :heavy_check_mark: |       |
+| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 | :heavy_check_mark: |       |
 
 ##### Parts Needed
 
@@ -499,10 +499,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Right XY Joint
 
-| Item                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                                           | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
+| [xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 11.43m | 29.14g | £0.48 | :heavy_check_mark: |       |
+| [xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.80m  | 9.70g  | £0.16 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -518,10 +518,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Left XY Joint
 
-| Item                                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [xy_joint_left_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [xy_joint_left_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                                         | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
+| [xy_joint_left_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 11.32m | 28.87g | £0.47 | :heavy_check_mark: |       |
+| [xy_joint_left_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.00m  | 10.21g | £0.17 | :heavy_check_mark: |       |
 
 #### Assembly
 
