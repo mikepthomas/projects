@@ -2,7 +2,7 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-05-28T20:33:53.948Z
+lastmod: 2024-06-27T20:34:24.924Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
@@ -210,7 +210,7 @@ $ ./build roms list
 ### Compiling
 
 ```bash
-$ ./build roms x220_8mb x230_12mb -p grub -d corebootfb -k ukqwerty
+$ ./build roms x220_8mb x230_12mb
 ...
 ...
 ...
@@ -229,7 +229,6 @@ Image SIZE 8388608
     CBFS       cmos.default
     CBFS       cmos_layout.bin
     CBFS       fallback/postcar
-   IFDTOOL
     DD         Adding Intel Firmware Descriptor
     IFDTOOL    me.bin -> coreboot.pre
 Warning: No platform specified. Output may be incomplete
@@ -247,9 +246,6 @@ Writing new image to build/coreboot.pre
 Warning: No platform specified. Output may be incomplete
 File build/coreboot.pre is 8388608 bytes
 Writing new image to build/coreboot.pre
-    HOSTCC     cbfstool/ifittool.o
-    HOSTCC     cbfstool/fit.o
-    HOSTCC     cbfstool/ifittool (link)
     CBFS       coreboot.rom
     CBFSLAYOUT  coreboot.rom
 
@@ -262,27 +258,13 @@ It is possible to perform either the write action or the CBFS add/remove actions
 To see the image's read-only sections as well, rerun with the -w option.
     CBFSPRINT  coreboot.rom
 
-    HOSTCC     cbfstool/ifwitool.o
-    HOSTCC     cbfstool/ifwitool (link)
-    HOSTCC     cbfstool/cse_fpt.o
-    HOSTCC     cbfstool/cse_helpers.o
-    HOSTCC     cbfstool/fpt_hdr_20.o
-    HOSTCC     cbfstool/fpt_hdr_21.o
-    HOSTCC     cbfstool/cse_fpt (link)
-    HOSTCC     cbfstool/cse_serger.o
-    HOSTCC     cbfstool/bpdt_1_6.o
-    HOSTCC     cbfstool/bpdt_1_7.o
-    HOSTCC     cbfstool/subpart_hdr_1.o
-    HOSTCC     cbfstool/subpart_hdr_2.o
-    HOSTCC     cbfstool/subpart_entry_1.o
-    HOSTCC     cbfstool/cse_serger (link)
 FMAP REGION: COREBOOT
 Name                           Offset     Type           Size   Comp
 cbfs_master_header             0x0        cbfs header        32 none
 fallback/romstage              0x80       stage           90512 none
 cpu_microcode_blob.bin         0x162c0    microcode       26624 none
-fallback/ramstage              0x1cb00    stage          119904 LZMA (258012 decompressed)
-config                         0x39fc0    raw              3161 LZMA (10125 decompressed)
+fallback/ramstage              0x1cb00    stage          119902 LZMA (258012 decompressed)
+config                         0x39fc0    raw              3163 LZMA (10125 decompressed)
 revision                       0x3ac80    raw               726 none
 build_info                     0x3af80    raw               109 none
 fallback/dsdt.aml              0x3b040    raw             14726 none
@@ -297,30 +279,108 @@ Built lenovo/x220 (ThinkPad X220)
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
+
+
 Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
 
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+script/roms: 111: [: n: unexpected operator
+'make ', 'seabios', 'default'
+elf/seabios/default/libgfxinit/bios.bin.elf already exists
+elf/seabios/default/normal/bios.bin.elf already exists
+elf/seabios/default/vgarom/bios.bin.elf already exists
 
-ROM images available in these directories:
-* bin/x220_8mb
-* bin/x230_12mb
-^^ ROM images available in these directories.
 
-DO NOT flash images from elf/ - please use bin/ instead.
+Done! Check  elf/seabios/
+
+'make ', 'grub', 'default'
+elf/grub/default/payload/grub.elf already exists
+
+
+Done! Check  elf/grub/
+
+config/memtest86plus/target.cfg missing
+elf/memtest86plus/memtest.bin already exists
+
+
+Done! Check  elf/memtest86plus/
+
+'make ', 'seabios', 'default'
+elf/seabios/default/libgfxinit/bios.bin.elf already exists
+elf/seabios/default/normal/bios.bin.elf already exists
+elf/seabios/default/vgarom/bios.bin.elf already exists
+
+
+Done! Check  elf/seabios/
+
+'make ', 'grub', 'default'
+elf/grub/default/payload/grub.elf already exists
+
+
+Done! Check  elf/grub/
+
+config/memtest86plus/target.cfg missing
+elf/memtest86plus/memtest.bin already exists
+
+
+Done! Check  elf/memtest86plus/
+
+ROMs built in bin/ for: x230_12mb, x220_8mb
+Please flash from bin/, NOT elf/ - ALSO:
+Insert a .gkb file from config/data/grub/keymap/ as keymap.gkb if you want a custom keymap in GRUB; use cbfstool from elf/cbfstool.
+```
+
+## Add Keymap to image
+
+Use cbfstool to add a keymap to the image e.g:
+
+```bash
+$ ./elf/cbfstool/default/cbfstool ./bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_grubfirst.rom add -f ./config/data/grub/keymap/ukqwerty.gkb -n keymap.gkb -t raw
+```
+
+Check the keymap has been added:
+
+```bash
+$ ./elf/cbfstool/default/cbfstool ./bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_grubfirst.rom print
+FMAP REGION: COREBOOT
+Name                           Offset     Type           Size   Comp
+cbfs_master_header             0x0        cbfs header        32 none
+fallback/romstage              0x80       stage           90512 none
+cpu_microcode_blob.bin         0x162c0    microcode       26624 none
+fallback/ramstage              0x1cb00    stage          119421 LZMA (254756 decompressed)
+config                         0x39e00    raw              3190 LZMA (10229 decompressed)
+revision                       0x3aac0    raw               726 none
+build_info                     0x3adc0    raw               109 none
+fallback/dsdt.aml              0x3ae80    raw             14726 none
+vbt.bin                        0x3e840    raw              1400 LZMA (3985 decompressed)
+cmos.default                   0x3ee00    cmos_default      256 none
+cmos_layout.bin                0x3ef40    cmos_layout      1976 none
+fallback/postcar               0x3f740    stage           21744 none
+fallback/payload               0x44c80    simple elf      64363 none
+etc/ps2-keyboard-spinup        0x54840    raw                 8 none
+etc/pci-optionrom-exec         0x54880    raw                 8 none
+etc/optionroms-checksum        0x548c0    raw                 8 none
+vgaroms/seavgabios.bin         0x54900    raw             26112 none
+img/grub2                      0x5af40    simple elf     550295 none
+scan.cfg                       0xe1500    raw                26 none
+img/memtest                    0xe1540    simple elf      58087 none
+bootorder                      0xef880    raw                15 none
+keymap.gkb                     0xef8c0    raw               488 none
+(empty)                        0xefb00    null          7190884 none
+bootblock                      0x7cb480   bootblock       18752 none
 ```
 
 ## Split X230 image
 
 ```bash
 $ cd ./bin/x230_12mb/
-$ dd if=grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=top.rom bs=1M skip=8
+$ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=top.rom bs=1M skip=8
 4+0 records in
 4+0 records out
-4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0690374 s, 60.8 MB/s
-$ dd if=grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=bottom.rom bs=1M count=8
+4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0144155 s, 291 MB/s
+$ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=bottom.rom bs=1M count=8
 8+0 records in
 8+0 records out
-8388608 bytes (8.4 MB, 8.0 MiB) copied, 0.0276864 s, 303 MB/s
+8388608 bytes (8.4 MB, 8.0 MiB) copied, 0.0282901 s, 297 MB/s
 ```
 
 ### Flashing
