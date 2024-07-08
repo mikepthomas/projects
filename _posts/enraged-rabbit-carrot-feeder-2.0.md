@@ -2,7 +2,7 @@
 title: Enraged Rabbit Carrot Feeder 2.0
 heading: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-05-16T18:09:58.350Z
+lastmod: 2024-07-08T18:09:02.473Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -218,11 +218,11 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Electronics
 
-| Item                                 | Quantity | Received | Notes    |
-| ------------------------------------ | -------- | -------- | -------- |
-| Omron D2F-5L or D2F-01L Micro Switch | 8        | 8        |          |
-| Neopixel                             | 8        |          | Optional |
-| Wire for LEDs & micro switches       | 8        |          |          |
+| Item                                 | Quantity | Received | Notes              |
+| ------------------------------------ | -------- | -------- | ------------------ |
+| Omron D2F-5L or D2F-01L Micro Switch | 8        | 8        |                    |
+| Neopixel                             | 8        |          | On order. Optional |
+| Wire for LEDs & micro switches       | 8        |          | On Order           |
 
 ### Hardware
 
