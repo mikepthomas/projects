@@ -1620,8 +1620,33 @@
           },
           "voron-hero.jpg": {
             "title": "Voron Hero",
-            "caption": "LDO Hardware Kit",
+            "caption": "",
+            "alt": "LDO 2.4 Frame Assembled"
+          },
+          "ldo-hardware-kit.jpg": {
+            "title": "LDO Hardware Kit",
+            "caption": "",
             "alt": "A big ol' bag of nuts n' bolts"
+          },
+          "assembling-the-frame.jpg": {
+            "title": "Assembling The Frame",
+            "caption": "",
+            "alt": "Using a flat glass surface to keep the frame square during assembly"
+          },
+          "bed-extrusions.jpg": {
+            "title": "Bed Extrusions",
+            "caption": "",
+            "alt": "Adding the Angle Corner Connectors to the Bed Extrusions"
+          },
+          "preparing-the-parts-and-tools.jpg": {
+            "title": "Preparing the Parts and Tools",
+            "caption": "",
+            "alt": "Getting all the parts and tools together to build the frame"
+          },
+          "square-frame-washers.jpg": {
+            "title": "Square Frame Washers",
+            "caption": "",
+            "alt": "Square frame nuts to help stop extrusions from twisting"
           }
         },
         "voron-afterburner": {

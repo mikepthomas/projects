@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-06-29T14:11:44.828Z
+lastmod: 2024-07-17T12:24:42.083Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -28,6 +28,8 @@ promoted: true
 # Sourcing Parts
 
 ## Fasteners
+
+![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg)
 
 I got a good discount on the Fasteners as the kit is for the original V2.4 and not V2.4R2 (the original price was £83, and I got it for £50) and I have sourced the missing quantities of parts from elsewhere and I should also have many spares left over for Mods and future projects.
 
@@ -229,19 +231,49 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Frame Assembly
+### :white_check_mark: Main Frame Assembly
+
+![Getting all the parts and tools together to build the frame](/assets/blog/printer-voron-2.4/preparing-the-parts-and-tools.jpg)
+
+#### Assembly
+
+To aid in keeping the frame square I added some Square Frame Washers into the blind joints. These have metal claws that fit into the grooves of the extrusion to help stop the extrusion from twisting whilst tightening up the bolts.
+
+![Square frame nuts to help stop extrusions from twisting](/assets/blog/printer-voron-2.4/square-frame-washers.jpg)
+
+##### Parts Needed
+
+| Item                                        | Quantity |
+| ------------------------------------------- | -------- |
+| M5x16 BHCS                                  | 16       |
+| Misumi HFSB5-2020-420-TPW (A Extrusion)     | 8        |
+| Misumi HFSB5-2020-480-LCP-RCP (B Extrusion) | 4        |
+| Square Frame Washers                        | 16       |
+
+![Using a flat glass surface to keep the frame square during assembly](/assets/blog/printer-voron-2.4/assembling-the-frame.jpg)
+
+As mentioned in the manual, it is a good idea to build the frame on a flat surface. I used a large pane of glass to endure the edges of the extrusions were completely square whilst tightening up the bolts of the blind joints.
+
+### :white_check_mark: Bed Extrusions
+
+![Adding the Angle Corner Connectors to the Bed Extrusions](/assets/blog/printer-voron-2.4/bed-extrusions.jpg)
+
+The glass was also used to endure the Right Angle Corner Connectors were attached square to the ends of the extrusion.
 
 #### Assembly
 
 ##### Parts Needed
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| M5x10 BHCS            | 4        |
-| M5x16 BHCS            | 20       |
-| M5 Post-install T-nut | 4        |
-| M5 1mm Shim           | 4        |
-| Square Frame Washers  | 16       |
+| Item                                            | Quantity |
+| ----------------------------------------------- | -------- |
+| M5x10 BHCS                                      | 4        |
+| M5x16 BHCS                                      | 4        |
+| M5 Post-install T-nut                           | 4        |
+| M5 1mm Shim                                     | 4        |
+| Misumi HFSB5-2020-420-TPW (A Extrusion)         | 2        |
+| OpenBuilds Billet Angle Corner Connector (2020) | 4        |
+
+I used the [Bed Support Alignment Tools](#tools) to get the bed extrusions roughly aligned in the correct place on the main frame. I found that they were a little too small to accurately screw them down so I also used a ruler to measure that they were tightened down in the correct place.
 
 ## Z Drives
 
