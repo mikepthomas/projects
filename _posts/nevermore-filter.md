@@ -1,7 +1,7 @@
 ---
 title: Nevermore Filter
 heading: Assembling a Nevermore Filter
-date: 2024-01-19T22:33:50.401Z
+date: 2022-03-16
 lastmod: 2024-05-16T23:10:55.227Z
 author: Mike Thomas
 description: The Nevermore filters the encosure to reduce the smell of printing ABS.
