@@ -2,7 +2,7 @@
 title: Enraged Rabbit Carrot Feeder 2.0
 heading: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-07-08T18:09:02.473Z
+lastmod: 2024-07-17T12:41:17.537Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -38,11 +38,11 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 | BigTreeTech MMB CAN V1.0             | 1        | 1        |                   |
 | NEMA14 Motor 14HS11-1004S            | 1        | 1        | LDO-35STH28-1004A |
 | NEMA17 Motor 17HS08-1004S            | 1        | 1        | LDO-42STH20-1004A |
-| Savox SH-0255MG servo                | 1        | 1        |                   |
+| Towerpro MG90S                       | 1        | 1        |                   |
 | TMC2209 Stepper drivers              | 2        | 4        |                   |
 | Binky Encoder                        | 1        | 1        |                   |
 | Omron D2F-5L or D2F-01L Micro Switch | 1        | 1        |                   |
-| WS2812 LED Strip for ERCF LED Apron  | 8        | 8        | Optional          |
+| NeoPixel RGBW Mini Button PCB        | 8        | 8        | Optional          |
 
 ### Hardware
 
@@ -113,13 +113,19 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ## Printing Parts
 
+### Tools
+
+| Item                                                                                                                                           | Quantity | Material                                             | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ----- |
+| [LED_Soldering_Tool_24mm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Options/LED_Soldering_Tool_24mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |       |
+
 ### Apron LEDs
 
-| Item                                                                                                                          | Quantity | Material                                                      | Printed | Notes    |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :-----: | -------- |
-| [Cover_Body](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Cover_Body_xN.stl)               | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
-| [Holder_Strip_Leds](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Holder_Strip_Leds_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
-| [Cover_Lens](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/%5Bc%5D_Cover_Lens_xN.stl)       | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Optional |
+| Item                                                                                                                            | Quantity | Material                                                      | Printed | Notes    |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :-----: | -------- |
+| [Cover_Body](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Cover_Body_xN.stl)                 | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
+| [Holder_PCB_Led](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Options/Holder_PCB_Led_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
+| [Cover_Lens](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/%5Bc%5D_Cover_Lens_xN.stl)         | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Optional |
 
 ### Filament Blocks
 
@@ -189,9 +195,9 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 | [Encoder_Right](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Encoder_Flat_Bearing_Option/Encoder_Right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | MB623ZZ version |
 | [Selector_Door](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Door.stl)                             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
 | [Selector_Spring_Cap](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Selector_Spring_Cap.stl)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
-| [Servo_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Servo_Mount_Savox.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | Savox version   |
+| [Servo_Mount](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/Servo_Mount_MG90S.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | MG90S version   |
 | [Selector_Cart](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Selector_Cart.stl)                     | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                 |
-| [Servo_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Servo_Arm_Savox.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | Savox version   |
+| [Servo_Arm](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Ba%5D_Servo_Arm_MG90S.stl)                       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | MG90S version   |
 | [Encoder_Slotted_Wheel](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Selector/%5Bo%5D_Encoder_Slotted_Wheel.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                 |
 
 ### Supports
@@ -218,11 +224,11 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Electronics
 
-| Item                                 | Quantity | Received | Notes              |
-| ------------------------------------ | -------- | -------- | ------------------ |
-| Omron D2F-5L or D2F-01L Micro Switch | 8        | 8        |                    |
-| Neopixel                             | 8        |          | On order. Optional |
-| Wire for LEDs & micro switches       | 8        |          | On Order           |
+| Item                                 | Quantity | Received | Notes    |
+| ------------------------------------ | -------- | -------- | -------- |
+| Omron D2F-5L or D2F-01L Micro Switch | 8        | 8        |          |
+| NeoPixel RGBW Mini Button PCB        | 8        | 8        | Optional |
+| Wire for LEDs & micro switches       | 8        | 8        |          |
 
 ### Hardware
 
@@ -272,7 +278,7 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 | Item                                                                                                                                                                     | Quantity | Material                                                      | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | :-----: | ----- |
-| [Coupler_Block_180](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_Coupler_Block_180_xN.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |   :x:   |       |
+| [LED_Carrier_Apron](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_Apron_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   |       |
 | [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
 | [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |   :x:   |       |
 
