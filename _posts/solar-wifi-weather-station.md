@@ -2,7 +2,7 @@
 title: Solar Wi-fi Weather Station
 heading: Creating a solar powered weather station
 date: 2023-06-27
-lastmod: 2023-12-19T19:50:48.115Z
+lastmod: 2024-07-17T12:36:30.270Z
 author: Mike Thomas
 description: I won an auction on ebay and there were 3 Wifi Weather Station PCBs and some other components in the lot, let's order the rest of the parts and assemble them.
 preview: /assets/blog/solar-wifi-weather-station/solar-wifi-weather-station-hero.jpg
@@ -127,11 +127,12 @@ sensor:
 For a DS18B20 sensor we need to add:
 
 ```yaml
-dallas:
-  - pin: D7
+one_wire:
+  - platform: gpio
+    pin: D7
 
 sensor:
-  - platform: dallas
+  - platform: dallas_temp
     address: 0x593ce1045707bc28
     name: External Temperature
 ```
