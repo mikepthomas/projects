@@ -209,8 +209,10 @@ $ ./build roms list
 
 ### Compiling
 
+#### X220
+
 ```bash
-$ ./build roms x220_8mb x230_12mb
+$ ./build roms x220_8mb -p grub -d corebootfb -k ukqwerty
 ...
 ...
 ...
@@ -261,19 +263,19 @@ To see the image's read-only sections as well, rerun with the -w option.
 FMAP REGION: COREBOOT
 Name                           Offset     Type           Size   Comp
 cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           90512 none
-cpu_microcode_blob.bin         0x162c0    microcode       26624 none
-fallback/ramstage              0x1cb00    stage          119902 LZMA (258012 decompressed)
-config                         0x39fc0    raw              3163 LZMA (10125 decompressed)
-revision                       0x3ac80    raw               726 none
-build_info                     0x3af80    raw               109 none
-fallback/dsdt.aml              0x3b040    raw             14726 none
-vbt.bin                        0x3ea00    raw              1400 LZMA (3985 decompressed)
-cmos.default                   0x3efc0    cmos_default      256 none
-cmos_layout.bin                0x3f100    cmos_layout      1976 none
-fallback/postcar               0x3f900    stage           21744 none
-(empty)                        0x44e40    null          7890468 none
-bootblock                      0x7cb480   bootblock       18752 none
+fallback/romstage              0x80       stage           90480 none
+cpu_microcode_blob.bin         0x16280    microcode       26624 none
+fallback/ramstage              0x1cac0    stage          119875 LZMA (257948 decompressed)
+config                         0x39f80    raw              3148 LZMA (10109 decompressed)
+revision                       0x3ac00    raw               709 none
+build_info                     0x3af00    raw                93 none
+fallback/dsdt.aml              0x3afc0    raw             14726 none
+vbt.bin                        0x3e980    raw              1400 LZMA (3985 decompressed)
+cmos.default                   0x3ef40    cmos_default      256 none
+cmos_layout.bin                0x3f080    cmos_layout      1976 none
+fallback/postcar               0x3f880    stage           21680 none
+(empty)                        0x44d80    null          7890724 none
+bootblock                      0x7cb4c0   bootblock       18688 none
 
 Built lenovo/x220 (ThinkPad X220)
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
@@ -283,50 +285,98 @@ make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 
 Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
 
-script/roms: 111: [: n: unexpected operator
-'make ', 'seabios', 'default'
-elf/seabios/default/libgfxinit/bios.bin.elf already exists
-elf/seabios/default/normal/bios.bin.elf already exists
-elf/seabios/default/vgarom/bios.bin.elf already exists
+Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+
+ROM images available in these directories:
+* bin/x220_8mb
+^^ ROM images available in these directories.
+
+DO NOT flash images from elf/ - please use bin/ instead.
+```
+
+#### X230
+
+```bash
+$ ./build roms x230_12mb -p grub -d corebootfb -k ukqwerty
+...
+...
+...
+Created CBFS (capacity = 12385764 bytes)
+    BOOTBLOCK
+    CBFS       cbfs_master_header
+    CBFS       fallback/romstage
+Image SIZE 12582912
+    CBFS       cpu_microcode_blob.bin
+    CBFS       fallback/ramstage
+    CBFS       config
+    CBFS       revision
+    CBFS       build_info
+    CBFS       fallback/dsdt.aml
+    CBFS       vbt.bin
+    CBFS       cmos.default
+    CBFS       cmos_layout.bin
+    CBFS       fallback/postcar
+    DD         Adding Intel Firmware Descriptor
+    IFDTOOL    me.bin -> coreboot.pre
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 12582912 bytes
+File build/me.bin is 98304 bytes
+Adding build/me.bin as the Intel ME section of build/coreboot.pre
+Writing new image to build/coreboot.pre
+    IFDTOOL    gbe.bin -> coreboot.pre
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 12582912 bytes
+File ../../../config/ifd/xx30/gbe is 8192 bytes
+Adding ../../../config/ifd/xx30/gbe as the GbE section of build/coreboot.pre
+Writing new image to build/coreboot.pre
+    IFDTOOL    Unlocking Management Engine
+Warning: No platform specified. Output may be incomplete
+File build/coreboot.pre is 12582912 bytes
+Writing new image to build/coreboot.pre
+    CBFS       coreboot.rom
+    CBFSLAYOUT  coreboot.rom
+
+This image contains the following sections that can be manipulated with this tool:
+
+'RW_MRC_CACHE' (size 65536, offset 131072)
+'COREBOOT' (CBFS, size 12385792, offset 197120)
+
+It is possible to perform either the write action or the CBFS add/remove actions on every section listed above.
+To see the image's read-only sections as well, rerun with the -w option.
+    CBFSPRINT  coreboot.rom
+
+FMAP REGION: COREBOOT
+Name                           Offset     Type           Size   Comp
+cbfs_master_header             0x0        cbfs header        32 none
+fallback/romstage              0x80       stage           87152 none
+cpu_microcode_blob.bin         0x15580    microcode       26624 none
+fallback/ramstage              0x1bdc0    stage          117827 LZMA (252052 decompressed)
+config                         0x38a80    raw              3147 LZMA (10115 decompressed)
+revision                       0x39700    raw               709 none
+build_info                     0x39a00    raw                93 none
+fallback/dsdt.aml              0x39ac0    raw             14726 none
+vbt.bin                        0x3d480    raw              1433 LZMA (4281 decompressed)
+cmos.default                   0x3da80    cmos_default      256 none
+cmos_layout.bin                0x3dbc0    cmos_layout      2012 none
+fallback/postcar               0x3e400    stage           21680 none
+(empty)                        0x43900    null         12090276 none
+bootblock                      0xbcb4c0   bootblock       18688 none
+
+Built lenovo/x230 (ThinkPad X230)
+make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
+make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
+make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 
 
-Done! Check  elf/seabios/
+Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
 
-'make ', 'grub', 'default'
-elf/grub/default/payload/grub.elf already exists
+Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom
 
+ROM images available in these directories:
+* bin/x230_12mb
+^^ ROM images available in these directories.
 
-Done! Check  elf/grub/
-
-config/memtest86plus/target.cfg missing
-elf/memtest86plus/memtest.bin already exists
-
-
-Done! Check  elf/memtest86plus/
-
-'make ', 'seabios', 'default'
-elf/seabios/default/libgfxinit/bios.bin.elf already exists
-elf/seabios/default/normal/bios.bin.elf already exists
-elf/seabios/default/vgarom/bios.bin.elf already exists
-
-
-Done! Check  elf/seabios/
-
-'make ', 'grub', 'default'
-elf/grub/default/payload/grub.elf already exists
-
-
-Done! Check  elf/grub/
-
-config/memtest86plus/target.cfg missing
-elf/memtest86plus/memtest.bin already exists
-
-
-Done! Check  elf/memtest86plus/
-
-ROMs built in bin/ for: x230_12mb, x220_8mb
-Please flash from bin/, NOT elf/ - ALSO:
-Insert a .gkb file from config/data/grub/keymap/ as keymap.gkb if you want a custom keymap in GRUB; use cbfstool from elf/cbfstool.
+DO NOT flash images from elf/ - please use bin/ instead.
 ```
 
 ## Add Keymap to image
@@ -385,12 +435,36 @@ $ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=bottom
 
 ### Flashing
 
+#### Serprog
+
+You can use a Raspberry Pi Pico to flash the bios, you can compile the image to flash to the pico with one of the following.
+
+##### Raspberry Pi Pico
+
+```bash
+$ ./build roms serprog rp2040 pico
+```
+
+##### Raspberry Pi Pico W
+
+```bash
+$ ./build roms serprog rp2040 pico_w
+```
+
+#### Flashprog
+
+Libreboot standardises on flashprog now, compile it with:
+
+```bash
+$ ./update trees -b flashprog
+```
+
 Connecting the EEPROM to a Raspberry Pi for flashing is same the same way as [Backing up the stock BIOS](#backup-stock-bios).
 
 I had an error when erasing and writing the flash chip, however it managed to recover itself:
 
 ```bash
-flashrom -p linux_spi:dev=/dev/spidev0.0 -c MX25L6405 -w ./grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+$ flashrom -p linux_spi:dev=/dev/spidev0.0 -c MX25L6405 -w ./grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
 flashrom unknown on Linux 6.1.0-rpi8-rpi-v8 (aarch64)
 flashrom is free software, get the source code at https://flashrom.org
 
