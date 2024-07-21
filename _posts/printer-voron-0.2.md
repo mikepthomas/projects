@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-06-07T16:06:45.125Z
+lastmod: 2024-07-21T20:43:57.235Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -210,6 +210,16 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 ![3D render of the Voron 0.2 Frame](/assets/blog/printer-voron-0.2/voron-design/frame.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :white_check_mark: Linear Rails
+
+![Cleaning the bearings with IPA](/assets/blog/printer-voron-0.2/bearings-cleaning.jpg)
+
+The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
+
+I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
+
+![Bearings assembled and ready for installation](/assets/blog/printer-voron-0.2/bearings-assembled.jpg)
 
 ### :negative_squared_cross_mark: Y Rails
 

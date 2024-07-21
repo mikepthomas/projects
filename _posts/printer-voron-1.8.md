@@ -335,7 +335,7 @@ The linear rails come delivered with a coating of oil to prevent rust during sto
 
 I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
 
-![Bearings assembled and ready for assembly](/assets/blog/printer-voron-1.8/bearings-assembled.jpg)
+![Bearings assembled and ready for installation](/assets/blog/printer-voron-1.8/bearings-assembled.jpg)
 
 #### Assembly
 

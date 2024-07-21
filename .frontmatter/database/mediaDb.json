@@ -150,22 +150,18 @@
           },
           "led-strip-deformed.jpg": {
             "title": "LED Strip Deformed",
-            "caption": "",
             "alt": "LED Strip Deformed printing ABS"
           },
           "overheating-extruder-motor.jpg": {
             "title": "Overheating Extruder Motor",
-            "caption": "",
             "alt": "Overheating extruder motor deforming PLA printed extruder chain mount"
           },
           "extruder-chain-mount-deformed.jpg": {
             "title": "Extruder Chain Mount Deformed",
-            "caption": "",
             "alt": "Extruder Chain Mount deformed from the heat of the motor"
           },
           "extruder-chain-mount-in-abs.jpg": {
             "title": "Extruder Chain Mount In ABS",
-            "caption": "",
             "alt": "Refitted ABS Printed Chain Mount"
           }
         },
@@ -195,7 +191,6 @@
             "title": "Rear Frame"
           },
           "06-y-axis-tensioner.jpg": {
-            "caption": "",
             "alt": "Y-Axis bearing support on Front Plate",
             "title": "Y-Axis Tensioner"
           },
@@ -583,27 +578,22 @@
           },
           "klipper-expander.jpg": {
             "title": "Klipper Expander",
-            "caption": "",
             "alt": "Board designed to add additional functionality to a Printer running Klipper firmware"
           },
           "mellow-boards.jpg": {
             "title": "Mellow Boards",
-            "caption": "",
             "alt": "3D Printer mainboards made by Mellow"
           },
           "party-in-the-back.jpg": {
             "title": "Party In The Back",
-            "caption": "",
             "alt": "A small 3D Printer mainboard with some big stepper drivers "
           },
           "pikvm.jpg": {
             "title": "PiKVM",
-            "caption": "",
             "alt": "A Raspberry Pi powered KVM Switch"
           },
           "wifi-arduino-85.jpg": {
             "title": "Wifi Arduino 85",
-            "caption": "",
             "alt": "A Relay board with a ATtiny85 and an ESP-01"
           }
         },
@@ -627,6 +617,10 @@
           "rook-2020-frame.jpg": {
             "alt": "Assembled Rook 2020 Printer frame",
             "title": "Rook 2020 Frame"
+          },
+          "bearings-assembled.jpg": {
+            "title": "Bearings Assembled",
+            "alt": "Bearings assembled and ready for installation"
           }
         },
         "printer-hypercube": {
@@ -958,6 +952,14 @@
               "alt": "3D Render of the Voron 0.2 Complete",
               "title": "Assembly Complete"
             }
+          },
+          "bearings-cleaning.jpg": {
+            "title": "Bearings Cleaning",
+            "alt": "Cleaning the bearings with IPA"
+          },
+          "bearings-assembled.jpg": {
+            "title": "Bearings Assembled",
+            "alt": "Bearings assembled and ready for installation"
           }
         },
         "printer-voron-1.8": {
@@ -1075,7 +1077,7 @@
             "title": "Bearings Cleaning"
           },
           "bearings-assembled.jpg": {
-            "alt": "Bearings assembled and ready for assembly",
+            "alt": "Bearings assembled and ready for installation",
             "title": "Bearings Assembled"
           },
           "linear-rails-installed.jpg": {
@@ -1620,33 +1622,35 @@
           },
           "voron-hero.jpg": {
             "title": "Voron Hero",
-            "caption": "",
             "alt": "LDO 2.4 Frame Assembled"
           },
           "ldo-hardware-kit.jpg": {
             "title": "LDO Hardware Kit",
-            "caption": "",
             "alt": "A big ol' bag of nuts n' bolts"
           },
           "assembling-the-frame.jpg": {
             "title": "Assembling The Frame",
-            "caption": "",
             "alt": "Using a flat glass surface to keep the frame square during assembly"
           },
           "bed-extrusions.jpg": {
             "title": "Bed Extrusions",
-            "caption": "",
             "alt": "Adding the Angle Corner Connectors to the Bed Extrusions"
           },
           "preparing-the-parts-and-tools.jpg": {
             "title": "Preparing the Parts and Tools",
-            "caption": "",
             "alt": "Getting all the parts and tools together to build the frame"
           },
           "square-frame-washers.jpg": {
             "title": "Square Frame Washers",
-            "caption": "",
             "alt": "Square frame nuts to help stop extrusions from twisting"
+          },
+          "bearings-cleaning.jpg": {
+            "title": "Bearings Cleaning",
+            "alt": "Cleaning the bearings with IPA"
+          },
+          "bearings-assembled.jpg": {
+            "title": "Bearings Assembled",
+            "alt": "Bearings assembled and ready for installation"
           }
         },
         "voron-afterburner": {

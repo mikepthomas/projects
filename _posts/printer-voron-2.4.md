@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-07-17T12:24:42.083Z
+lastmod: 2024-07-21T20:43:57.235Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -282,6 +282,14 @@ I used the [Bed Support Alignment Tools](#tools) to get the bed extrusions rough
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Z Rails
+
+![Cleaning the bearings with IPA](/assets/blog/printer-voron-2.4/bearings-cleaning.jpg)
+
+The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
+
+I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
+
+![Bearings assembled and ready for installation](/assets/blog/printer-voron-2.4/bearings-assembled.jpg)
 
 | Item                                                                                           | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                   |
 | ---------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----------------------- |

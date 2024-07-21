@@ -2,7 +2,7 @@
 title: Rook 2020
 heading: 3D Printing the Rook, a cheap CoreXY 3D Printer
 date: 2023-02-02
-lastmod: 2024-05-16T21:21:44.974Z
+lastmod: 2024-07-21T20:43:57.235Z
 author: Mike Thomas
 description: Sourcing and printing parts to 3D print and assemble a cheap CoreXY 3D Printer, the Rook 2020 MK2.
 preview: /assets/blog/printer-rook/rook-2020-frame.jpg
@@ -127,6 +127,14 @@ Sourcing and printing parts to assemble a [Rook 2020 MK2 3D Printer](https://www
 | [Left_Y_Carriage](https://www.printables.com/model/798733/files)  | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
 | [Right_Y_Carriage](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   |                                                                                   |
 | [belt_tie_v2](https://www.printables.com/model/389235/files)      | 2        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |   :x:   | This is a mod by [kyledavis_351660](https://www.printables.com/@kyledavis_351660) |
+
+### :white_check_mark: Linear Rails
+
+The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
+
+I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
+
+![Bearings assembled and ready for installation](/assets/blog/printer-rook/bearings-assembled.jpg)
 
 ## Toolhead
 
