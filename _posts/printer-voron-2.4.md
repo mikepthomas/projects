@@ -281,7 +281,7 @@ I used the [Bed Support Alignment Tools](#tools) to get the bed extrusions rough
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Z Rails
+### :white_check_mark: Z Rails
 
 ![Cleaning the bearings with IPA](/assets/blog/printer-voron-2.4/bearings-cleaning.jpg)
 
@@ -296,6 +296,10 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 | [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.51m | 1.31g  | £0.03 | :heavy_check_mark: | This is an LDO 2.4 Part |
 
 #### Assembly
+
+![Z Axis linear rails installed on the frame](/assets/blog/printer-voron-2.4/z-rails-installed.jpg)
+
+The rails on the 300mm build require an extra T-nut and Socket Head Screw, per rail, than what is shown in the manual. I have also added the LDO Z Rail stops to the top of each one to make sure the carriages do not fall off when turning the frame upside down in the next step.
 
 ##### Parts Needed
 

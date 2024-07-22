@@ -1651,6 +1651,10 @@
           "bearings-assembled.jpg": {
             "title": "Bearings Assembled",
             "alt": "Bearings assembled and ready for installation"
+          },
+          "z-rails-installed.jpg": {
+            "title": "Z Rails Installed",
+            "alt": "Z Axis linear rails installed on the frame"
           }
         },
         "voron-afterburner": {
