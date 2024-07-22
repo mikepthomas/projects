@@ -297,6 +297,12 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 #### Assembly
 
+I laid the rail next to the slot on the extrusion where it was about to be installed and used it as a guide to ensure the T-nuts are spaced where they need to be before lightly screwing them down.
+
+The manual mentions to install the rails ~3mm from the bottom extrusions. I used the [Pully Jig](#tools) as a spacer for this as it is slightly thicker at 3.1mm, measured with my digital calipers.
+
+I then used the [MGN9 Rail Guides](#tools) to center the rail on the extrusion and tightend down the screws starting from the center outward to make sure it sits flush.
+
 ![Z Axis linear rails installed on the frame](/assets/blog/printer-voron-2.4/z-rails-installed.jpg)
 
 The rails on the 300mm build require an extra T-nut and Socket Head Screw, per rail, than what is shown in the manual. I have also added the LDO Z Rail stops to the top of each one to make sure the carriages do not fall off when turning the frame upside down in the next step.
