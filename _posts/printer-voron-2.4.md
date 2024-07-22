@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-07-21T20:43:57.235Z
+lastmod: 2024-07-22T18:33:43.349Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -303,8 +303,8 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 | ----------------------- | -------- |
 | Linear Rail MGN9H 350mm | 4        |
 | M3x8 BHCS               | 4        |
-| M3x8 SHCS               | 32       |
-| M3 Post-install T-nut   | 36       |
+| M3x8 SHCS               | 36       |
+| M3 Post-install T-nut   | 40       |
 
 ### :negative_squared_cross_mark: Deck Panel
 
