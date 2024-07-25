@@ -400,7 +400,7 @@ Wago Mount for connecting wires under the bed and in the electronics compartment
 | [Wago-3x-221-413_Thin-Din_Rail_Mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/LoganFraser/WagoMounts/STLs/Wago-3x-221-413_Thin-Din_Rail_Mount.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.39m | 8.64g  | £0.16 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser`. One for Exhaust and Controller fans and one for 12V & 5V to toolhead  |
 | [Wago_2x_221-415_Extrusion_Mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/LoganFraser/WagoMounts/STLs/Wago_2x_221-415_Extrusion_Mount.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.79m | 7.12g  | £0.14 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser`. For Bed fans                                                          |
 | [Wago_2x_221-415_Thin_Din_Rail_Mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/LoganFraser/WagoMounts/STLs/Wago_2x_221-415_Thin_Din_Rail_Mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.36m | 8.18g  | £0.16 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser`. For Mosfet power                                                      |
-| [Wago_3x_221-415_Extrusion_Mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3x5.stl)                                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.97m | 10.12g | £0.19 | :heavy_check_mark: | This is a Voron 2.4 Part. For Input AC power                                                                      |
+| [Wago_3x_221-415_Extrusion_Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/WagoMounts/STLs/Wago_3x_221-415_Extrusion_Mount.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a Voron Users Mod by `LoganFraser`. For Input AC power                                                    |
 | [Wago_3x_221-415_Thin_Din_Rail_Mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/LoganFraser/WagoMounts/STLs/Wago_3x_221-415_Thin_Din_Rail_Mount.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.31m | 10.98g | £0.21 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser`. For 24V SKR, Klipper Expander and ERCF, and 5V Raspberry Pi Power     |
 
 ### :wrench: Assembly
@@ -415,9 +415,11 @@ Wago Mount for connecting wires under the bed and in the electronics compartment
 | --------------------- | -------- |
 | M5 Hammer Head T-nuts | 10       |
 | M5x10 SHCS            | 10       |
-| Wago 221-412          | 13       |
+| Wago 221-412          | 8        |
 | Wago 221-413          | 6        |
-| Wago 221-415          | 10       |
+| Wago 221-415          | 7        |
+
+**_NOTE:_** Need to purchase 5 more Wago 221-412 and 3 more Wago 221-415
 
 ## MKS Mosfet Mount
 

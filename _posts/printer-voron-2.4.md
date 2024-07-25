@@ -415,6 +415,10 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 
 ### :negative_squared_cross_mark: Heated Bed
 
+| Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------- |
+| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `deepfriedheroin` |
+
 #### Assembly
 
 ##### Parts Needed
@@ -427,13 +431,16 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 | M3x6 BHCS                                           | 1        |
 | M3x12 SHCS                                          | 1        |
 | M3x16 SHCS                                          | 4        |
-| M4 Knurled Nut (DIN 466-B)                          | 4        |
 | M3 Post-install T-nut                               | 4        |
 | M3 Washer                                           | 1        |
+| M4 Knurled Nut (DIN 466-B)                          | 4        |
+| M5x10 BHCS                                          | 4        |
+| M5 Post-install T-nut                               | 4        |
 | Mandela Rose Works Plate Plate - 305x305mm          | 1        |
 | Ring Crimp Terminal (16-22AWG, #6)                  | 1        |
 | Spring Steel Flexible Print Surface - 305x305mm     | 1        |
 | Thermal Fuse (120C)                                 | 1        |
+| WAGO 221-412 Lever-Nuts                             | 6        |
 
 ## A/B Drives and Idlers
 
@@ -913,9 +920,9 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ### :negative_squared_cross_mark: Mains Distribution
 
-| Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [wago_221-415_mount_3by5](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3by5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                             | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [wago_221-415_mount_3by5](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3by5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.97m | 10.12g | £0.19 | :heavy_check_mark: |       |
 
 #### Assembly
 
