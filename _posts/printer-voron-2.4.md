@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-07-22T18:33:43.349Z
+lastmod: 2024-07-25T17:31:50.231Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -316,7 +316,11 @@ The rails on the 300mm build require an extra T-nut and Socket Head Screw, per r
 | M3x8 SHCS               | 36       |
 | M3 Post-install T-nut   | 40       |
 
-### :negative_squared_cross_mark: Deck Panel
+### :white_check_mark: Deck Panel
+
+![Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions](/assets/blog/printer-voron-2.4/deck-panel.jpg)
+
+I have installed the Deck panel with the DIN Rails parallel to the Bed Extrusions as I will be following along with the [LDO Wiring Guide](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c#installing-the-din-rails) when setting up the electronics.
 
 | Item                                                                                                                                                                                    | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | -------------------------------------- |
@@ -325,14 +329,22 @@ The rails on the 300mm build require an extra T-nut and Socket Head Screw, per r
 
 #### Assembly
 
+As the DIN Rails are no longer supporting the Deck Panel along the sides of the printer, I have opted to install the [Deck Panel Support Clips Mod from the Voron Users Repository](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/wile-e1/Deck_Panel_Support_Clips).
+
+![Adding support clips to the deck panel](/assets/blog/printer-voron-2.4/deck-panel-support.jpg)
+
+I used the [Bed Support Alignment Tools](#tools) to get the same spacing along the sides as the Bed Extrusions, installing each of the uppers with a M3x6 SHCS and a M3 Hammer Head T-Nut, and secured the lowers with a M3x6 BHCS and a M3 Post-install T-nut.
+
 ##### Parts Needed
 
 | Item                          | Quantity |
 | ----------------------------- | -------- |
 | ACM Deck Panel - 419x419x3 mm | 1        |
 | DIN 3 Rails (35mm W) - 400mm  | 2        |
-| M3x8 SHCS                     | 8        |
-| M3 Post-install T-nut         | 8        |
+| M3x6 BHCS                     | 4        |
+| M3x6 SHCS                     | 4        |
+| M3 Hammer Head T-nuts         | 4        |
+| M3 Post-install T-nut         | 4        |
 | M5x10 BHCS                    | 4        |
 | M5 Post-install T-nut         | 4        |
 

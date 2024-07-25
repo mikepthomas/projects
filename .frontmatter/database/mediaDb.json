@@ -1655,6 +1655,14 @@
           "z-rails-installed.jpg": {
             "title": "Z Rails Installed",
             "alt": "Z Axis linear rails installed on the frame"
+          },
+          "deck-panel-support.jpg": {
+            "title": "Deck Panel Support",
+            "alt": "Adding support clips to the deck panel"
+          },
+          "deck-panel.jpg": {
+            "title": "Deck Panel",
+            "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions"
           }
         },
         "voron-afterburner": {
