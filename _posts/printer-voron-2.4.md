@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-07-25T17:31:50.231Z
+lastmod: 2024-08-06T21:49:49.690Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -626,6 +626,18 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 | M5x30 BHCS                  | 2        |
 | M5 1mm Shim                 | 2        |
 | M5 Post-install T-nut       | 6        |
+
+### :negative_squared_cross_mark: Titanium Backers
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                           | Quantity |
+| ------------------------------ | -------- |
+| 300mm Gantry Backing Plate Kit | 1        |
+| M3x6 FHCS                      | 24       |
+| M3 Hammer Head T-nuts          | 24       |
 
 ## Z Axis
 
