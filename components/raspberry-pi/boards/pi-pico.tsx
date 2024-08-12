@@ -374,7 +374,7 @@ export default function ColorBoards(children: ReactNode) {
           <span className={styles.spi}>SPI1 SCK</span>    
           <span className={styles.gpio}>GP14</span> 
           <span className={styles.pcb}>
-            ┃<span className={styles.pin}>◎</span>             
+            ┃<span className={styles.pin}>◎</span>    DEBUG    
             <span className={styles.pin}>◎</span>┃
           </span>
            <span className={styles.gpio}>GP17</span>       
@@ -418,7 +418,10 @@ export default function ColorBoards(children: ReactNode) {
     case '│ @gadgetoid                                                                                                 │\n':
       return (
         <RaspberryPi className={cn(styles.silkscreen, styles.transparent)}>
-          │ @gadgetoid                                                                                                 │
+          │ @gadgetoid                                 
+          <span className={styles.pin}>SWCLK</span> ┘ │ └ 
+          <span className={styles.pin}>SWDIO</span>
+                                                         │
         </RaspberryPi>
       );
     case '│ https://pico.pinout.xyz                                                                                    │\n':
@@ -432,7 +435,9 @@ export default function ColorBoards(children: ReactNode) {
           >
             https://pico.pinout.xyz
           </a>
-                                                                                              │
+                                     
+          <span className={styles.ground}>GND</span>
+                                                                │
         </RaspberryPi>
       );
     case '╰────────────────────────────────────────────────────────────────────────────────────────────────────────────╯\n':
