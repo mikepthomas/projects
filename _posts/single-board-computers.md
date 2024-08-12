@@ -2,22 +2,22 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-05-16T20:47:57.359Z
+lastmod: 2024-08-12T17:00:56.219Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
-  - /projects/macro-pi
-  - /projects/solar-wifi-weather-station
+   - /projects/macro-pi
+   - /projects/solar-wifi-weather-station
 draft: false
 tags:
-  - Computers
-  - Raspberry Pi
+   - Computers
+   - Raspberry Pi
 categories:
-  - Electronics
+   - Electronics
 keywords:
-  - Computers
+   - Computers
 ---
 
 # Table of contents
@@ -60,6 +60,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | Item                                                                                                                                                                                                      | Case                                                                                      | Storage               | Flashed with                                                                                                    | Notes                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [BigTreeTech EBB42 CAN V1.1](https://biqu.equipment/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device)                                                                       | [Polyformer](printer-polyformer)                                                          |                       | [Alexware](<https://github.com/Reiten966/Polyformer/tree/main/Electronics/EBB42%20%2B%20Alexware%20(PF%20Kit)>) |                                                                          |
+| [BigTreeTech EBB SB2240 CAN V1.1](https://biqu.equipment/products/bigtreetech-ebb-sb2209-can-v1-0)                                                                                                        | [Voron 2.4](printer-voron-2.4)                                                            |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   |                                                                          |
 | [BigTreeTech MMB CAN V1.0](https://biqu.equipment/products/bigtreetech-mmb)                                                                                                                               | [Enraged Rabbit Cotton Tail](enraged-rabbit-carrot-feeder-2.0#enraged-rabbit-cotton-tail) |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | With 4 [EZ2209](https://bttwiki.com/EZ2209.html)s                        |
 | [BigTreeTech Pi V1.2](https://biqu.equipment/products/bigtreetech-btt-pi-v1-2)                                                                                                                            |                                                                                           |                       | [CB1](https://github.com/bigtreetech/CB1)                                                                       | With [U2C v1.0 CAN Adapter Module](https://docs.meteyou.wtf/btt-pi-u2c/) |
 | [BigTreeTech SKR V1.4](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3) | [Anet A8](printer)                                                                        | 8GB MicroSD (Sandisk) | [Marlin Firmware](https://marlinfw.org/)                                                                        | 3D printer Mainboard based on LPC1768                                    |
@@ -81,22 +82,26 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 ![A Relay board with a ATtiny85 and an ESP-01](/assets/blog/single-board-computers/wifi-arduino-85.jpg)
 
-| Item                                                                                                                       | Case                                                                                                        | Flashed with                                                                                                       | Hostname          | Notes                                 |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------- |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-1 | Original Ai-Thinker AT Firmware 0.9.5 |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-2 | Original Ai-Thinker AT Firmware 0.9.5 |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-3 | Original Ai-Thinker AT Firmware 0.9.5 |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-4 | Original Ai-Thinker AT Firmware 0.9.5 |
-| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4                                                                                        | [ESPHome](https://esphome.io/)                                                                                     | anet-a8           |                                       |
-| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4 Turbo                                                                                  | [ESP3D](https://github.com/luc-github/ESP3D)                                                                       |                   |                                       |
-| [Cytron ESP-01s](https://www.cytron.io/p-esp-01-wifi-serial-transceiver-module-esp8266)                                    | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [Cytron ESP-01S AT Firmware](https://github.com/CytronTechnologies/esp-at-binaries)                                |                   |                                       |
-| Generic ESP-01s                                                                                                            | ESP-01 Adapter                                                                                              | [ESPHome](https://esphome.io/)                                                                                     |                   |                                       |
-| Generic ESP-01s                                                                                                            | DHT22 Module                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | dht22             |                                       |
-| Generic ESP-01s                                                                                                            | DS18B20 Module                                                                                              | [ESPHome](https://esphome.io/)                                                                                     | ds18b20           |                                       |
-| Generic ESP-01s                                                                                                            | Relay Module                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | relay             |                                       |
-| Generic ESP-01s                                                                                                            | RGB LED Module                                                                                              | [WLED](https://install.wled.me/)                                                                                   |                   |                                       |
-| Generic ESP-32 Cam                                                                                                         | ESP32 CAM MB                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | camera            |                                       |
-| Generic ESP-32 Dev Kit C V4                                                                                                | ESP32 Expansion Board                                                                                       |                                                                                                                    |                   |                                       |
+| Item                                                                                                                       | Case                                                                                                        | Flashed with                                                                                                       | Hostname          | Notes                                                               |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------- |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-1 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-2 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-3 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-4 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4                                                                                        | [ESPHome](https://esphome.io/)                                                                                     | anet-a8           |                                                                     |
+| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4 Turbo                                                                                  | [ESP3D](https://github.com/luc-github/ESP3D)                                                                       |                   |                                                                     |
+| [Cytron ESP-01s](https://www.cytron.io/p-esp-01-wifi-serial-transceiver-module-esp8266)                                    | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [Cytron ESP-01S AT Firmware](https://github.com/CytronTechnologies/esp-at-binaries)                                |                   |                                                                     |
+| Generic ESP-01s                                                                                                            | ESP-01 Adapter                                                                                              | [ESPHome](https://esphome.io/)                                                                                     |                   |                                                                     |
+| Generic ESP-01s                                                                                                            | DHT22 Module                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | dht22             |                                                                     |
+| Generic ESP-01s                                                                                                            | DS18B20 Module                                                                                              | [ESPHome](https://esphome.io/)                                                                                     | ds18b20           |                                                                     |
+| Generic ESP-01s                                                                                                            | Relay Module                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | relay             |                                                                     |
+| Generic ESP-01s                                                                                                            | RGB LED Module                                                                                              | [WLED](https://install.wled.me/)                                                                                   |                   |                                                                     |
+| Generic ESP-32 Cam                                                                                                         | ESP32 CAM MB                                                                                                | [ESPHome](https://esphome.io/)                                                                                     | camera            |                                                                     |
+| Generic ESP-32 Dev Kit C V4                                                                                                | ESP32 Expansion Board                                                                                       |                                                                                                                    |                   |                                                                     |
+| [M5StampS3](https://docs.m5stack.com/en/core/stamps3)                                                                      | [M5Stack Cardputer](https://docs.m5stack.com/en/core/Cardputer)                                             |                                                                                                                    |                   |                                                                     |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome](https://esphome.io/)                                                                                     | weather-station-1 | [Assembled, currently testing](solar-wifi-weather-station#assembly) |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome](https://esphome.io/)                                                                                     | weather-station-2 |                                                                     |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome](https://esphome.io/)                                                                                     | weather-station-3 |                                                                     |
 
 # Fysetc
 
@@ -117,6 +122,12 @@ I purchased the Odroid XU4 and CloudShell enclosure to use as a Network Attached
 | [Odroid C2](https://wiki.odroid.com/odroid-c2/odroid-c2)    |                                                                                                 |                       |                                                               |            | With [Odroid UPS3](https://wiki.odroid.com/accessory/power_supply_battery/odroid-ups3) + [Odroid USB Wifi adapter](https://www.hardkernel.com/shop/wifi-module-5bk/) |
 | [Odroid Go](https://wiki.odroid.com/odroid_go/odroid_go)    | [Odroid Go QWERTY](https://wiki.odroid.com/odroid_go/qwerty)                                    | 4GB MicroSD (Sandisk) | [Go-Play](https://wiki.odroid.com/odroid_go/emulator/go_play) |            | Boxed                                                                                                                                                                |
 | [Odroid XU4](https://wiki.odroid.com/odroid-xu4/odroid-xu4) | [CloudShell 2](https://wiki.odroid.com/accessory/add-on_boards/xu4_cloudshell2/xu4_cloudshell2) | 32GB eMMC             | Ubuntu 22.04                                                  | cloudshell | With 2 x 3TB Hard Drives in RAID 1                                                                                                                                   |
+
+# LDO Motors
+
+| Item                                                                   | Case                           | Flashed with                                  | Notes |
+| ---------------------------------------------------------------------- | ------------------------------ | --------------------------------------------- | ----- |
+| [Picobilical](https://docs.ldomotors.com/en/voron/voron01/Picobilical) | [Voron 0.2](printer-voron-0.2) | [Klipper Firmware](https://www.klipper3d.org) |       |
 
 # Mellow
 
@@ -270,16 +281,16 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi Zero W rev 1.1
 
-| Item                         | Revision | RAM   | Case                                                                                                                        | Storage                      | OS                                                                | hostname | Notes                                                             |
-| ---------------------------- | -------- | ----- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------------------- | -------- | ----------------------------------------------------------------- |
-| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                              |                                                                   | camera1  | With Generic Raspberry Pi Camera Rev 1.3                          |
-| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                              |                                                                   | camera2  | With Generic Raspberry Pi Camera Rev 1.3                          |
-| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                              |                                                                   |          |                                                                   |
-| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                              |                                                                   |          |                                                                   |
-| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [Pi Zero Case for Waveshare 2.13" eInk Display](https://thepihut.com/products/pi-zero-case-for-waveshare-2-13-eink-display) | 16GB MicroSD (Kingston)      | [Jayofelony Pwnagotchi](https://github.com/jayofelony/pwnagotchi) | pete     | With Waveshare 2.13" eInk Display                                 |
-| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | Pi Zero Cluster Case                                                                                                        | 32GB MicroSD (Sandisk Ultra) |                                                                   |          | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | Pi Zero Cluster Case                                                                                                        | 32GB MicroSD (Sandisk Ultra) |                                                                   |          | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | Pi Zero Cluster Case                                                                                                        | 32GB MicroSD (Sandisk Ultra) |                                                                   |          | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
+| Item                         | Revision | RAM   | Case                                                                                                                        | Storage                 | OS                                                                    | hostname | Notes                                                                                                           |
+| ---------------------------- | -------- | ----- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                         |                                                                       | camera1  | With Generic Raspberry Pi Camera Rev 1.3                                                                        |
+| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                         |                                                                       | camera2  | With Generic Raspberry Pi Camera Rev 1.3                                                                        |
+| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                         |                                                                       |          |                                                                                                                 |
+| Raspberry Pi Zero W rev 1.1  | 9000c1   | 512MB | Official Raspberry Pi Zero Case (Camera Lid)                                                                                |                         |                                                                       |          |                                                                                                                 |
+| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [Pi Zero Case for Waveshare 2.13" eInk Display](https://thepihut.com/products/pi-zero-case-for-waveshare-2-13-eink-display) |                         |                                                                       |          | With Waveshare 2.13" eInk Display                                                                               |
+| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [PaPiRus Zero Case](https://uk.pi-supply.com/products/papirus-zero-case)                                                    | 16GB MicroSD (Kingston) | [Jayofelony Pwnagotchi](https://github.com/jayofelony/pwnagotchi)     | pete     | With [PaPiRus Zero eInk Screen pHAT](https://uk.pi-supply.com/products/papirus-zero-epaper-screen-phat-pi-zero) |
+| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [TV HAT Case for Pi Zero (v2.0)](https://thepihut.com/products/tv-uhat-case-for-raspberry-pi-zero-zerow)                    |                         |                                                                       |          | With Raspberry Pi TV HAT                                                                                        |
+| Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [AZ-Touch Pi Zero](https://www.hwhardsoft.de/english/projects/az-touch-pi0/)                                                |                         | [Weather Station](https://github.com/HWHardsoft/AZ-Touch-Pi0-Weather) |          |                                                                                                                 |
 
 ```
 Description        : Raspberry Pi Zero W rev 1.1
@@ -337,15 +348,15 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi Zero2W rev 1.0
 
-| Item                         | Revision | RAM   | Case                                                                                                                                | Storage                 | OS                                                                                                 | hostname | Notes                    |
-| ---------------------------- | -------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------- | -------- | ------------------------ |
-| Raspberry Pi Zero2WH rev 1.0 | 902120   | 512MB | [LDO Raspberry Pi Zero USB Expander PCB](https://docs.ldomotors.com/en/voron/voron01/wiring_guide_rev_e#preparing-the-raspberry-pi) | 64GB MicroSD (Integral) | [MainsailOS](https://docs-os.mainsail.xyz)                                                         | voron0   |                          |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [TV HAT Case for Pi Zero (v2.0)](https://thepihut.com/products/tv-uhat-case-for-raspberry-pi-zero-zerow)                            |                         |                                                                                                    |          | With Raspberry Pi TV HAT |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [AZ-Touch Pi Zero](https://www.hwhardsoft.de/english/projects/az-touch-pi0/)                                                        |                         | [Weather Station](https://github.com/HWHardsoft/AZ-Touch-Pi0-Weather)                              |          |                          |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral) | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p1       |                          |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral) | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p2       |                          |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral) | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p3       |                          |
-| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral) | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p4       |                          |
+| Item                         | Revision | RAM   | Case                                                                                                                                | Storage                  | OS                                                                                                 | hostname | Notes |
+| ---------------------------- | -------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | -------- | ----- |
+| Raspberry Pi Zero2WH rev 1.0 | 902120   | 512MB | [LDO Raspberry Pi Zero USB Expander PCB](https://docs.ldomotors.com/en/voron/voron01/wiring_guide_rev_e#preparing-the-raspberry-pi) | 64GB MicroSD (Integral)  | [MainsailOS](https://docs-os.mainsail.xyz)                                                         | voron0   |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Retroflag GPi CASE 2W](https://retroflag.com/gpi_case_2w.html)                                                                     | 32GB MicroSD (Mingsford) | [RetroPie](https://retropie.org.uk)                                                                | gpi      |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB |                                                                                                                                     |                          |                                                                                                    |          |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p1       |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p2       |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p3       |       |
+| Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p4       |       |
 
 ```
 Description        : Raspberry Pi Zero2W rev 1.0
@@ -1166,11 +1177,79 @@ GPIO26 (37) (38) GPIO20
 For further information, please refer to https://pinout.xyz/
 ```
 
+## Raspberry Pi 4B rev 1.1
+
+| Item                    | Revision | RAM | Case                                                                   | Power Supply        | Storage                     | OS                                                                  | Hostname | Notes                                                                                         |
+| ----------------------- | -------- | --- | ---------------------------------------------------------------------- | ------------------- | --------------------------- | ------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- |
+| Raspberry Pi 4B rev 1.1 | c03111   | 4GB | [pi-top [4]](https://knowledgebase.pi-top.com/knowledge/pi-top4-setup) | Pi-Top Power Supply | 16GB MicroSD (Sandisk Edge) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Foundation Kit](https://knowledgebase.pi-top.com/knowledge/foundation-kit) |
+| Raspberry Pi 4B rev 1.1 | c03111   | 4GB | [pi-top [4]](https://knowledgebase.pi-top.com/knowledge/pi-top4-setup) | Pi-Top Power Supply | 16GB MicroSD (Sandisk Edge) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Foundation Kit](https://knowledgebase.pi-top.com/knowledge/foundation-kit) |
+
+```
+Description        : Raspberry Pi 4B rev 1.1
+Revision           : c03111
+SoC                : BCM2711
+RAM                : 4GB
+Storage            : MicroSD
+USB ports          : 4 (of which 2 USB3)
+Ethernet ports     : 1 (1000Mbps max. speed)
+Wi-fi              : True
+Bluetooth          : True
+Camera ports (CSI) : 1
+Display ports (DSI): 1
+
+,--------------------------------.
+| oooooooooooooooooooo J8   +======
+| 1ooooooooooooooooooo  J14 |   Net
+|  Wi                    12 +======
+|  Fi  Pi Model 4B  V1.1 oo      |
+| |D     ,---. +---+          +====
+| |S     |SoC| |RAM|          |USB3
+| |I     `---' +---+          +====
+| |0                C|           |
+| oo1 J2            S|        +====
+|                   I| |A|    |USB2
+| pwr   |hd|   |hd| 0| |u|    +====
+`-| |---|m0|---|m1|----|x|-------'
+
+J8:
+   3V3  (1) (2)  5V
+ GPIO2  (3) (4)  5V
+ GPIO3  (5) (6)  GND
+ GPIO4  (7) (8)  GPIO14
+   GND  (9) (10) GPIO15
+GPIO17 (11) (12) GPIO18
+GPIO27 (13) (14) GND
+GPIO22 (15) (16) GPIO23
+   3V3 (17) (18) GPIO24
+GPIO10 (19) (20) GND
+ GPIO9 (21) (22) GPIO25
+GPIO11 (23) (24) GPIO8
+   GND (25) (26) GPIO7
+ GPIO0 (27) (28) GPIO1
+ GPIO5 (29) (30) GND
+ GPIO6 (31) (32) GPIO12
+GPIO13 (33) (34) GND
+GPIO19 (35) (36) GPIO16
+GPIO26 (37) (38) GPIO20
+   GND (39) (40) GPIO21
+
+J2:
+GLOBAL ENABLE (1)
+          GND (2)
+          RUN (3)
+
+J14:
+TR01 TAP (1) (2) TR00 TAP
+TR03 TAP (3) (4) TR02 TAP
+
+For further information, please refer to https://pinout.xyz/
+```
+
 ## Raspberry Pi 4B rev 1.2
 
-| Item                    | Revision | RAM | Case                                                                        | Power Supply        | Storage                  | OS                                                                  | Hostname | Notes                                                                                         |
-| ----------------------- | -------- | --- | --------------------------------------------------------------------------- | ------------------- | ------------------------ | ------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.2 | c03112   | 4GB | [pi-top [4] DIY Edition](https://www.pi-top.com/blog/meetpi-top4diyedition) | Pi-Top Power Supply | 128GB MicroSD (Integral) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Foundation Kit](https://knowledgebase.pi-top.com/knowledge/foundation-kit) |
+| Item                    | Revision | RAM | Case                                                                               | Power Supply        | Storage                  | OS                                                                  | Hostname | Notes                                                                       |
+| ----------------------- | -------- | --- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------ | ------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- |
+| Raspberry Pi 4B rev 1.2 | c03112   | 4GB | [pi-top [4] DIY Edition](https://knowledgebase.pi-top.com/knowledge/diy-tech-spec) | Pi-Top Power Supply | 128GB MicroSD (Integral) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Robitics Kit](https://www.pi-top.com/start/robotics-kit) |
 
 ```
 Description        : Raspberry Pi 4B rev 1.2
@@ -1465,10 +1544,41 @@ For further information, please refer to https://pinout.xyz/
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------- |
 | Datanoise Pico ADK                  | Eurorack Module                                                                                             | [PicoADK Firmware](https://github.com/DatanoiseTV/PicoADK-Firmware-Template) | In original packaging           |
 | Raspberry Pi Pico                   | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                       | [PiPicoMacroKeys](https://github.com/novaspirit/PiPicoMacroKeys)             | In original packaging           |
+| Raspberry Pi Pico                   |                                                                                                             |                                                                              | In original packaging           |
 | Raspberry Pi Pico H                 | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython](https://micropython.org)                                       |                                 |
 | Raspberry Pi Pico W                 | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller)   | In original packaging           |
 | Raspberry Pi Pico WH                |                                                                                                             | [ESPHome](https://esphome.io/)                                               | Boxed                           |
 | Raspberry Pi RP2040 Microcontroller |                                                                                                             |                                                                              | Bare Chip in original packaging |
+
+```
+╭───────────────────────────────────────── Raspberry Pi Pico Pinout ─────────────────────────────────────────╮
+│                                                 ┏━━━━━┓                                                    │
+│                                            ┏━━━━┫     ┣━━━━┓                                               │
+│ PWM0 A UART0 TX  I2C0 SDA SPI0 RX      GP0 ┃◎   ┗━━━━━┛   ◎┃ VBUS                                          │
+│ PWM0 B UART0 RX  I2C0 SCL SPI0 CSn     GP1 ┃◎ ▩           ◎┃ VSYS                                          │
+│                                     Ground ┃▣ └─GP25      ▣┃ Ground                                        │
+│ PWM1 A UART0 CTS I2C1 SDA SPI0 SCK     GP2 ┃◎  ▒▒▒        ◎┃ 3v3 En                                        │
+│ PWM1 B UART0 RTS I2C1 SCL SPI0 TX      GP3 ┃◎  ▒▒▒        ◎┃ 3v3 Out                                       │
+│ PWM2 A UART1 TX  I2C0 SDA SPI0 RX      GP4 ┃◎             ◎┃ ADC VRef                                      │
+│ PWM2 B UART1 RX  I2C0 SCL SPI0 CSn     GP5 ┃◎             ◎┃ GP28 / A2  SPI1 RX  I2C0 SDA UART0 TX  PWM6 A │
+│                                     Ground ┃▣             ▣┃ ADC Ground                                    │
+│ PWM3 A UART1 CTS I2C1 SDA SPI0 SCK     GP6 ┃◎   ▓▓▓▓▓▓▓   ◎┃ GP27 / A1  SPI1 TX  I2C1 SCL UART1 RTS PWM5 B │
+│ PWM3 B UART1 RTS I2C1 SCL SPI0 TX      GP7 ┃◎   ▓▓▓▓▓▓▓   ◎┃ GP26 / A0  SPI1 SCK I2C1 SDA UART1 CTS PWM5 A │
+│ PWM4 A UART1 TX  I2C0 SDA SPI1 RX      GP8 ┃◎   ▓▓▓▓▓▓▓   ◎┃ run                                           │
+│ PWM4 B UART1 RX  I2C0 SCL SPI1 CSn     GP9 ┃◎   ▓▓▓▓▓▓▓   ◎┃ GP22       SPI0 SCK I2C1 SDA UART1 CTS PWM3 A │
+│                                     Ground ┃▣             ▣┃ Ground                                        │
+│ PWM5 A UART1 CTS I2C1 SDA SPI1 SCK    GP10 ┃◎             ◎┃ GP21       SPI0 CSn I2C0 SCL UART1 RX  PWM2 B │
+│ PWM5 B UART1 RTS I2C1 SCL SPI1 TX     GP11 ┃◎             ◎┃ GP20       SPI0 RX  I2C0 SDA UART1 TX  PWM2 A │
+│ PWM6 A UART0 TX  I2C0 SDA SPI1 RX     GP12 ┃◎             ◎┃ GP19       SPI0 TX  I2C1 SCL UART0 RTS PWM1 B │
+│ PWM6 B UART0 RX  I2C0 SCL SPI1 CSn    GP13 ┃◎             ◎┃ GP18       SPI0 SCK I2C1 SDA UART0 CTS PWM1 A │
+│                                     Ground ┃▣             ▣┃ Ground                                        │
+│ PWM7 A UART0 CTS I2C1 SDA SPI1 SCK    GP14 ┃◎             ◎┃ GP17       SPI0 CSn I2C0 SCL UART0 RX  PWM0 B │
+│ PWM7 B UART0 RTS I2C1 SCL SPI1 TX     GP15 ┃◎    ◎ ▣ ◎    ◎┃ GP16       SPI0 RX  I2C0 SDA UART0 TX  PWM0 A │
+│                                            ┗━━━━━━━━━━━━━━━┛                                               │
+│ @gadgetoid                                                                                                 │
+│ https://pico.pinout.xyz                                                                                    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+```
 
 # STMicroelectronics
 
@@ -1483,11 +1593,3 @@ For further information, please refer to https://pinout.xyz/
 | Item       | Case            | Flashed with                                                            | Notes                         |
 | ---------- | --------------- | ----------------------------------------------------------------------- | ----------------------------- |
 | Teensy 4.0 | Retro Telephone | [Audio Guestbook](https://github.com/playfultechnology/audio-guestbook) | With Audio Board for Teensy 4 |
-
-# Wemos
-
-| Item              | Case                                                     | Flashed with                   | Hostname          | Notes                                                               |
-| ----------------- | -------------------------------------------------------- | ------------------------------ | ----------------- | ------------------------------------------------------------------- |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-1 | [Assembled, currently testing](solar-wifi-weather-station#assembly) |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-2 |                                                                     |
-| Wemos D1 Mini Pro | [Solar Wifi Weather Station](solar-wifi-weather-station) | [ESPHome](https://esphome.io/) | weather-station-3 |                                                                     |

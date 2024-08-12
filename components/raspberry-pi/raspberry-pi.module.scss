@@ -46,11 +46,17 @@
 }
 
 // Pins
+.adc {
+  color: lightseagreen;
+}
 .gpio {
-  color: lime;
+  color: lightgreen;
 }
 .ground {
   color: grey;
+}
+.i2c {
+  color: dodgerblue;
 }
 .pin {
   color: gold;
@@ -59,7 +65,19 @@
   color: cyan;
 }
 .power5v {
-  color: coral;
+  color: indianred;
+}
+.pwm {
+  color: darkgrey;
+}
+.spi {
+  color: mediumvioletred;
+}
+.system {
+  color: lightcoral;
+}
+.uart {
+  color: slateblue;
 }
 
 // Modifiers

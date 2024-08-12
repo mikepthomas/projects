@@ -27,6 +27,7 @@ import { ReactNode } from 'react';
 
 import ColorCommon, {
   ColorOldStyle,
+  ColorPiPico,
   ColorPiZero,
   ColorPi1,
   ColorPi2,
@@ -41,6 +42,7 @@ const ColorParts = (children: ReactNode) => {
   [
     ColorCommon,
     ColorOldStyle,
+    ColorPiPico,
     ColorPiZero,
     ColorPi1,
     ColorPi2,

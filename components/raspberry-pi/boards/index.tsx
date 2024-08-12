@@ -368,6 +368,7 @@ export default function ColorBoards(children: ReactNode) {
 }
 
 export { default as ColorOldStyle } from './old-style';
+export { default as ColorPiPico } from './pi-pico';
 export { default as ColorPiZero } from './pi-zero';
 export { default as ColorPi1 } from './pi-1';
 export { default as ColorPi2 } from './pi-2';

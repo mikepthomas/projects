@@ -185,6 +185,17 @@ export default function ColorBoards(children: ReactNode) {
           -------'
         </RaspberryPi>
       );
+    // Pi Model 4B 1.1
+    case '|  Fi  Pi Model 4B  V1.1 oo      |\n':
+      return (
+        <RaspberryPi>
+          | 
+          <Fi /> <SilkScreen>Pi Model 4B  V1.1</SilkScreen> 
+          <Pin />
+          <Pin />
+                |
+        </RaspberryPi>
+      );
     // Pi Model 4B 1.2
     case '|  Fi  Pi Model 4B  V1.2 oo      |\n':
       return (
