@@ -2,7 +2,7 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-06-27T20:34:24.924Z
+lastmod: 2024-08-28T18:09:20.089Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
@@ -202,9 +202,10 @@ $ git clone https://codeberg.org/libreboot/lbmk
 $ cd lbmk
 $ git config --global user.name "Mike Thomas"
 $ git config --global user.email mikepthomas@outlook.com
-$ ./build dependencies debian
+$ sudo apt install python-is-python3
+$ sudo ./mk dependencies debian
 ...
-$ ./build roms list
+$ ./mk -b coreboot list
 ```
 
 ### Compiling
@@ -212,16 +213,16 @@ $ ./build roms list
 #### X220
 
 ```bash
-$ ./build roms x220_8mb -p grub -d corebootfb -k ukqwerty
+$ ./mk -b coreboot x220_8mb
 ...
 ...
 ...
 Created CBFS (capacity = 8191460 bytes)
     BOOTBLOCK
     CBFS       cbfs_master_header
+    CBFS       cpu_microcode_blob.bin
     CBFS       fallback/romstage
 Image SIZE 8388608
-    CBFS       cpu_microcode_blob.bin
     CBFS       fallback/ramstage
     CBFS       config
     CBFS       revision
@@ -263,50 +264,58 @@ To see the image's read-only sections as well, rerun with the -w option.
 FMAP REGION: COREBOOT
 Name                           Offset     Type           Size   Comp
 cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           90480 none
-cpu_microcode_blob.bin         0x16280    microcode       26624 none
-fallback/ramstage              0x1cac0    stage          119875 LZMA (257948 decompressed)
-config                         0x39f80    raw              3148 LZMA (10109 decompressed)
-revision                       0x3ac00    raw               709 none
-build_info                     0x3af00    raw                93 none
-fallback/dsdt.aml              0x3afc0    raw             14726 none
-vbt.bin                        0x3e980    raw              1400 LZMA (3985 decompressed)
-cmos.default                   0x3ef40    cmos_default      256 none
-cmos_layout.bin                0x3f080    cmos_layout      1976 none
-fallback/postcar               0x3f880    stage           21680 none
-(empty)                        0x44d80    null          7890724 none
-bootblock                      0x7cb4c0   bootblock       18688 none
+cpu_microcode_blob.bin         0x80       microcode       26624 none
+fallback/romstage              0x68c0     stage           90608 none
+fallback/ramstage              0x1cb40    stage          121009 LZMA (257980 decompressed)
+config                         0x3a480    raw              3267 LZMA (10422 decompressed)
+revision                       0x3b180    raw               727 none
+build_info                     0x3b480    raw               110 none
+fallback/dsdt.aml              0x3b540    raw             14765 none
+vbt.bin                        0x3ef40    raw              1400 LZMA (3985 decompressed)
+cmos.default                   0x3f500    cmos_default      256 none
+cmos_layout.bin                0x3f640    cmos_layout      1976 none
+fallback/postcar               0x3fe40    stage           21680 none
+(empty)                        0x45340    null          7887460 none
+bootblock                      0x7cadc0   bootblock       20480 none
 
 Built lenovo/x220 (ThinkPad X220)
+
+ccache statistics
+Cacheable calls:             759 / 784 (96.81%)
+  Hits:                      753 / 759 (99.21%)
+    Direct:                   80 / 753 (10.62%)
+    Preprocessed:            673 / 753 (89.38%)
+  Misses:                      6 / 759 ( 0.79%)
+Uncacheable calls:            25 / 784 ( 3.19%)
+  Called for linking:         12 /  25 (48.00%)
+  Called for preprocessing:   13 /  25 (52.00%)
+Successful lookups:
+  Direct:                     80 / 759 (10.54%)
+  Preprocessed:              673 / 679 (99.12%)
+Local storage:
+  Hits:                      753 / 759 (99.21%)
+  Misses:                      6 / 759 ( 0.79%)
+  Reads:                    1518
+  Writes:                    685
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
+CONFIG_PAYLOAD_NONE=y
 make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
-
-
-Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
-
-Creating target image: bin/x220_8mb/grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
-
-ROM images available in these directories:
-* bin/x220_8mb
-^^ ROM images available in these directories.
-
-DO NOT flash images from elf/ - please use bin/ instead.
 ```
 
 #### X230
 
 ```bash
-$ ./build roms x230_12mb -p grub -d corebootfb -k ukqwerty
+$ ./mk -b coreboot x230_12mb
 ...
 ...
 ...
 Created CBFS (capacity = 12385764 bytes)
     BOOTBLOCK
     CBFS       cbfs_master_header
+    CBFS       cpu_microcode_blob.bin
     CBFS       fallback/romstage
 Image SIZE 12582912
-    CBFS       cpu_microcode_blob.bin
     CBFS       fallback/ramstage
     CBFS       config
     CBFS       revision
@@ -348,89 +357,155 @@ To see the image's read-only sections as well, rerun with the -w option.
 FMAP REGION: COREBOOT
 Name                           Offset     Type           Size   Comp
 cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           87152 none
-cpu_microcode_blob.bin         0x15580    microcode       26624 none
-fallback/ramstage              0x1bdc0    stage          117827 LZMA (252052 decompressed)
-config                         0x38a80    raw              3147 LZMA (10115 decompressed)
-revision                       0x39700    raw               709 none
-build_info                     0x39a00    raw                93 none
-fallback/dsdt.aml              0x39ac0    raw             14726 none
-vbt.bin                        0x3d480    raw              1433 LZMA (4281 decompressed)
-cmos.default                   0x3da80    cmos_default      256 none
-cmos_layout.bin                0x3dbc0    cmos_layout      2012 none
-fallback/postcar               0x3e400    stage           21680 none
-(empty)                        0x43900    null         12090276 none
-bootblock                      0xbcb4c0   bootblock       18688 none
+cpu_microcode_blob.bin         0x80       microcode       26624 none
+fallback/romstage              0x68c0     stage           87216 none
+fallback/ramstage              0x1be00    stage          118954 LZMA (252084 decompressed)
+config                         0x38f00    raw              3274 LZMA (10428 decompressed)
+revision                       0x39c00    raw               727 none
+build_info                     0x39f00    raw               110 none
+fallback/dsdt.aml              0x39fc0    raw             14765 none
+vbt.bin                        0x3d9c0    raw              1433 LZMA (4281 decompressed)
+cmos.default                   0x3dfc0    cmos_default      256 none
+cmos_layout.bin                0x3e100    cmos_layout      2012 none
+fallback/postcar               0x3e940    stage           21680 none
+(empty)                        0x43e40    null         12087140 none
+bootblock                      0xbcadc0   bootblock       20480 none
 
 Built lenovo/x230 (ThinkPad X230)
+
+ccache statistics
+Cacheable calls:             759 / 784 (96.81%)
+  Hits:                      758 / 759 (99.87%)
+    Direct:                   80 / 758 (10.55%)
+    Preprocessed:            678 / 758 (89.45%)
+  Misses:                      1 / 759 ( 0.13%)
+Uncacheable calls:            25 / 784 ( 3.19%)
+  Called for linking:         12 /  25 (48.00%)
+  Called for preprocessing:   13 /  25 (52.00%)
+Successful lookups:
+  Direct:                     80 / 759 (10.54%)
+  Preprocessed:              678 / 679 (99.85%)
+Local storage:
+  Hits:                      758 / 759 (99.87%)
+  Misses:                      1 / 759 ( 0.13%)
+  Reads:                    1518
+  Writes:                    680
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
+CONFIG_PAYLOAD_NONE=y
 make: Entering directory '/home/mike/Repos/lbmk/src/coreboot/default'
 make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
-
-
-Done! Check  elf/coreboot_nopayload_DO_NOT_FLASH/
-
-Creating target image: bin/x230_12mb/grub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom
-
-ROM images available in these directories:
-* bin/x230_12mb
-^^ ROM images available in these directories.
-
-DO NOT flash images from elf/ - please use bin/ instead.
 ```
 
-## Add Keymap to image
+### Prepare a Release image
 
-Use cbfstool to add a keymap to the image e.g:
+Get the latest release rom from [a mirror on the Downloads page](https://libreboot.org/download.html) and verify the sha512 e.g:
 
 ```bash
-$ ./elf/cbfstool/default/cbfstool ./bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_grubfirst.rom add -f ./config/data/grub/keymap/ukqwerty.gkb -n keymap.gkb -t raw
+$ wget https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz
+--2024-08-28 15:46:01--  https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz
+Resolving www.mirrorservice.org (www.mirrorservice.org)... 212.219.56.184, 2001:630:341:12::184
+Connecting to www.mirrorservice.org (www.mirrorservice.org)|212.219.56.184|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3288796 (3.1M) [application/x-xz]
+Saving to: ‘libreboot-20240612_x220_8mb.tar.xz’
+
+libreboot-20240612_x220_8mb.tar.xz                    100%[=======================================================================================================================>]   3.14M  19.6MB/s    in 0.2s
+
+2024-08-28 15:46:01 (19.6 MB/s) - ‘libreboot-20240612_x220_8mb.tar.xz’ saved [3288796/3288796]
+
+$ wget https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz.sha512
+--2024-08-28 15:46:17--  https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz.sha512
+Resolving www.mirrorservice.org (www.mirrorservice.org)... 212.219.56.184, 2001:630:341:12::184
+Connecting to www.mirrorservice.org (www.mirrorservice.org)|212.219.56.184|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167 [application/x-xz]
+Saving to: ‘libreboot-20240612_x220_8mb.tar.xz.sha512’
+
+libreboot-20240612_x220_8mb.tar.xz.sha512             100%[=======================================================================================================================>]     167  --.-KB/s    in 0s
+
+2024-08-28 15:46:17 (78.4 MB/s) - ‘libreboot-20240612_x220_8mb.tar.xz.sha512’ saved [167/167]
+
+$ sha512sum ./libreboot-20240612_x220_8mb.tar.xz && cat ./libreboot-20240612_x220_8mb.tar.xz.sha512
+b1a4b466a27a725d916372374a40778c609db27d3e9f7654a22c83acfb3ce9087ad3fa7cf81f4fe22f626fdaad4c7c36dcccfe10ee8f1ce9fc16e928451f77b3  ./libreboot-20240612_x220_8mb.tar.xz
+b1a4b466a27a725d916372374a40778c609db27d3e9f7654a22c83acfb3ce9087ad3fa7cf81f4fe22f626fdaad4c7c36dcccfe10ee8f1ce9fc16e928451f77b3  ./libreboot-20240612_x220_8mb.tar.xz
 ```
 
-Check the keymap has been added:
+Inject the Management Engine into a Release image:
 
 ```bash
-$ ./elf/cbfstool/default/cbfstool ./bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_grubfirst.rom print
-FMAP REGION: COREBOOT
-Name                           Offset     Type           Size   Comp
-cbfs_master_header             0x0        cbfs header        32 none
-fallback/romstage              0x80       stage           90512 none
-cpu_microcode_blob.bin         0x162c0    microcode       26624 none
-fallback/ramstage              0x1cb00    stage          119421 LZMA (254756 decompressed)
-config                         0x39e00    raw              3190 LZMA (10229 decompressed)
-revision                       0x3aac0    raw               726 none
-build_info                     0x3adc0    raw               109 none
-fallback/dsdt.aml              0x3ae80    raw             14726 none
-vbt.bin                        0x3e840    raw              1400 LZMA (3985 decompressed)
-cmos.default                   0x3ee00    cmos_default      256 none
-cmos_layout.bin                0x3ef40    cmos_layout      1976 none
-fallback/postcar               0x3f740    stage           21744 none
-fallback/payload               0x44c80    simple elf      64363 none
-etc/ps2-keyboard-spinup        0x54840    raw                 8 none
-etc/pci-optionrom-exec         0x54880    raw                 8 none
-etc/optionroms-checksum        0x548c0    raw                 8 none
-vgaroms/seavgabios.bin         0x54900    raw             26112 none
-img/grub2                      0x5af40    simple elf     550295 none
-scan.cfg                       0xe1500    raw                26 none
-img/memtest                    0xe1540    simple elf      58087 none
-bootorder                      0xef880    raw                15 none
-keymap.gkb                     0xef8c0    raw               488 none
-(empty)                        0xefb00    null          7190884 none
-bootblock                      0x7cb480   bootblock       18752 none
+$ ./vendor inject libreboot-20240612_x220_8mb.tar.xz
+...
+File tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom is 8388608 bytes
+File vendorfiles/xx20/me.bin is 86016 bytes
+Adding vendorfiles/xx20/me.bin as the Intel ME section of tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+Writing new image to tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+ROM image successfully patched: tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+Warning: No platform specified. Output may be incomplete
+File tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom is 8388608 bytes
+File vendorfiles/xx20/me.bin is 86016 bytes
+Adding vendorfiles/xx20/me.bin as the Intel ME section of tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom
+Writing new image to tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom
+ROM image successfully patched: tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom
+Warning: No platform specified. Output may be incomplete
+...
 ```
 
-## Split X230 image
+Make sure the Management Engine is present before flashing the image:
+
+```bash
+$ ./mk -d coreboot x220_8mb
+...
+$ ./elf/ifdtool/default/ifdtool -x bin/release/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom
+Warning: No platform specified. Output may be incomplete
+File bin/release/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom is 8388608 bytes
+  Flash Region 0 (Flash Descriptor): 00000000 - 00000fff
+  Flash Region 1 (BIOS): 00018000 - 007fffff
+  Flash Region 2 (Intel ME): 00003000 - 00017fff
+  Flash Region 3 (GbE): 00001000 - 00002fff
+  Flash Region 4 (Platform Data): 00fff000 - 00000fff (unused)
+$ hexdump flashregion_2_intel_me.bin
+...
+0010500 4dde 9bf2 bdc9 79b3 c237 266f 27e6 9038
+0010510 bb90 c196 249d 012b a19e e27c b042 3129
+0010520 8b65 b4dc a806 45a9 0cea 70b1 19d3 13d3
+0010530 faf6 9b87 4d63 f761 f7f7 f7f7 f7f7 f7f7
+0010540 f7f7 f7f7 f7f7 f7f7 f7f7 f7f7 fff6 ffff
+0010550 ffff ffff ffff ffff ffff ffff ffff ffff
+*
+0010c80 36ff 7fdf 7f7f 7f7f 7f7f 7f7f 7f7f 7f7f
+0010c90 7f7f 7f7f 7f7f 7f7f 7f7f 7f7f 7f7f 7f7f
+*
+0010cc0 7f7f 7f7f 7f7f ff60 ffff ffff ffff ffff
+0010cd0 ffff ffff ffff ffff ffff ffff ffff ffff
+*
+0011160 7fff fe8c 5e5e d058 f80c 0cd0 d0f8 f80c
+0011170 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8
+0011180 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0
+0011190 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c
+00111a0 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8
+00111b0 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0
+00111c0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c
+00111d0 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8
+00111e0 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0
+00111f0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 d0f8 f80c
+0011200 0cd0 d0f8 f80c 0cd0 d0f8 f80c 0cd0 fff8
+0011210 ffff ffff ffff ffff ffff ffff ffff ffff
+*
+0015000
+```
+
+### Split X230 image
 
 ```bash
 $ cd ./bin/x230_12mb/
-$ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=top.rom bs=1M skip=8
+$ dd if=seagrub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=top.rom bs=1M skip=8
 4+0 records in
 4+0 records out
-4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0144155 s, 291 MB/s
-$ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=bottom.rom bs=1M count=8
+4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0175795 s, 239 MB/s
+$ dd if=seagrub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=bottom.rom bs=1M count=8
 8+0 records in
 8+0 records out
-8388608 bytes (8.4 MB, 8.0 MiB) copied, 0.0282901 s, 297 MB/s
+8388608 bytes (8.4 MB, 8.0 MiB) copied, 0.0340301 s, 247 MB/s
 ```
 
 ### Flashing
@@ -439,16 +514,8 @@ $ dd if=seabios_withgrub_x230_12mb_libgfxinit_corebootfb_grubfirst.rom of=bottom
 
 You can use a Raspberry Pi Pico to flash the bios, you can compile the image to flash to the pico with one of the following.
 
-##### Raspberry Pi Pico
-
 ```bash
-$ ./build roms serprog rp2040 pico
-```
-
-##### Raspberry Pi Pico W
-
-```bash
-$ ./build roms serprog rp2040 pico_w
+$ ./mk -b pico-serprog
 ```
 
 #### Flashprog
@@ -456,7 +523,7 @@ $ ./build roms serprog rp2040 pico_w
 Libreboot standardises on flashprog now, compile it with:
 
 ```bash
-$ ./update trees -b flashprog
+$ ./mk -b flashprog
 ```
 
 Connecting the EEPROM to a Raspberry Pi for flashing is same the same way as [Backing up the stock BIOS](#backup-stock-bios).
