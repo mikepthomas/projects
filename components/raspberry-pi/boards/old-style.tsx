@@ -30,16 +30,15 @@ import {
   C,
   D,
   Fi,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   HDMI,
-  HDMIConnector,
   I,
   Metal,
   MetalConnector,
   MicroHDMI,
-  MicroHDMIConnector0,
-  MicroHDMIConnector1,
+  MicroHDMI0,
+  MicroHDMI1,
   MicroUSB,
   Net,
   NetConnector,
@@ -82,7 +81,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
              <Metal>|c</Metal>
         </RaspberryPi>
       );
@@ -100,7 +99,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           `---
-          <HDMIConnector />
+          <MetalConnector size={6} />
           --------
           <MetalConnector />-<MetalConnector />
           -'
@@ -113,7 +112,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
               |
         </RaspberryPi>
       );
@@ -190,7 +189,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom P1 />
+          <GPIOBot P1 />
               <Plastic className={styles.composite}>+-+</Plastic>  
           <Plastic className={styles.audio}>+-+</Plastic>      |
         </RaspberryPi>
@@ -228,7 +227,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           +----------------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           ----------+
         </RaspberryPi>
       );
@@ -245,7 +244,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | P5 
-          <GPIOBottom P5 />
+          <GPIOBot P5 />
                   
           <PlasticPackage />
                     
@@ -424,7 +423,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
             PoE   
           <USBConnector />
         </RaspberryPi>
@@ -485,7 +484,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
             PoE 
           <NetConnector />
         </RaspberryPi>
@@ -573,9 +572,9 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           ---
-          <MicroHDMIConnector0 />
+          <MicroHDMI0 />
           ---
-          <MicroHDMIConnector1 />
+          <MicroHDMI1 />
           ----
           <V />
           -------'

@@ -27,13 +27,14 @@ import { ReactNode } from 'react';
 
 import ColorCommon, {
   ColorOldStyle,
-  ColorPiPico,
-  ColorPiZero,
   ColorPi1,
   ColorPi2,
   ColorPi3,
   ColorPi4,
   ColorPi5,
+  ColorPiCompute,
+  ColorPiPico,
+  ColorPiZero,
 } from './boards';
 import ColorPins from './pins';
 import { Props } from './raspberry-pi';
@@ -42,13 +43,14 @@ const ColorParts = (children: ReactNode) => {
   [
     ColorCommon,
     ColorOldStyle,
-    ColorPiPico,
-    ColorPiZero,
     ColorPi1,
     ColorPi2,
     ColorPi3,
     ColorPi4,
     ColorPi5,
+    ColorPiCompute,
+    ColorPiPico,
+    ColorPiZero,
     ColorPins,
   ].forEach((func) => (children = func(children)));
   return children;

@@ -29,10 +29,9 @@ import {
   A,
   C,
   D,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   HDMI,
-  HDMIConnector,
   I,
   Metal,
   MetalConnector,
@@ -82,7 +81,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom P1 />
+          <GPIOBot P1 />
               <Plastic className={styles.composite}>+-+</Plastic>
           <Pin />
           <Pin />
@@ -116,7 +115,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           +----------------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           --
           <Zero right />
           ------+
@@ -158,7 +157,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | P5 
-          <GPIOBottom P5 />
+          <GPIOBot P5 />
                  
           <PlasticPackage /> <Pin />
           <Pin />

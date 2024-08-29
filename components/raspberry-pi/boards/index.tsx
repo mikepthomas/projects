@@ -29,10 +29,9 @@ import {
   A,
   C,
   D,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   HDMI,
-  HDMIConnector,
   I,
   MetalConnector,
   Net,
@@ -69,7 +68,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
                |
         </RaspberryPi>
       );
@@ -107,7 +106,7 @@ export default function ColorBoards(children: ReactNode) {
                 
           <HDMI />
             
-          <Zero right /> <U />
+          <Zero right /> <U lower />
             |
         </RaspberryPi>
       );
@@ -117,9 +116,9 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           ------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           -----
-          <X />
+          <X lower />
           --'
         </RaspberryPi>
       );
@@ -157,7 +156,7 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           --------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           ----
           <V />
           -'
@@ -179,7 +178,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
                   
           <USBConnector />
         </RaspberryPi>
@@ -260,7 +259,7 @@ export default function ColorBoards(children: ReactNode) {
                 
           <HDMI />
             
-          <Zero right /> <U />
+          <Zero right /> <U lower />
              
           <Net />
         </RaspberryPi>
@@ -271,9 +270,9 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           ------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           -----
-          <X />
+          <X lower />
           --------'
         </RaspberryPi>
       );
@@ -356,7 +355,7 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           --------
-          <HDMIConnector />
+          <MetalConnector size={6} />
           ----
           <V />
           -------'
@@ -368,10 +367,11 @@ export default function ColorBoards(children: ReactNode) {
 }
 
 export { default as ColorOldStyle } from './old-style';
-export { default as ColorPiPico } from './pi-pico';
-export { default as ColorPiZero } from './pi-zero';
 export { default as ColorPi1 } from './pi-1';
 export { default as ColorPi2 } from './pi-2';
 export { default as ColorPi3 } from './pi-3';
 export { default as ColorPi4 } from './pi-4';
 export { default as ColorPi5 } from './pi-5';
+export { default as ColorPiCompute } from './pi-compute';
+export { default as ColorPiPico } from './pi-pico';
+export { default as ColorPiZero } from './pi-zero';

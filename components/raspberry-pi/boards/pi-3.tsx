@@ -28,7 +28,7 @@ import { Children, ReactNode } from 'react';
 import {
   D,
   Fi,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   I,
   MetalPackageBot,
@@ -51,7 +51,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
             RUN|
         </RaspberryPi>
       );
@@ -124,7 +124,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
              <PinHeader>12</PinHeader>   
           <USBConnector />
         </RaspberryPi>

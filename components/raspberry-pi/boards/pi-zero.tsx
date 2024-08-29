@@ -28,13 +28,12 @@ import { Children, ReactNode } from 'react';
 import {
   C,
   Fi,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   I,
   MetalConnector,
   MicroUSB,
   MiniHDMI,
-  MiniHDMIConnector,
   PinHeader,
   Plastic,
   PlasticPackage,
@@ -64,7 +63,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           |  
-          <GPIOBottom />
+          <GPIOBot />
            J8|
         </RaspberryPi>
       );
@@ -94,7 +93,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           `-
-          <MiniHDMIConnector />
+          <MetalConnector size={4} />
           ------------
           <MetalConnector />-<MetalConnector />
           -'

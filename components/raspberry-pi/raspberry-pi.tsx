@@ -39,6 +39,7 @@ type ConnectorProps = {
   lower?: boolean;
   metal?: boolean;
   right?: boolean;
+  size?: number;
 };
 type HeaderProps = {
   P1?: boolean;
@@ -89,7 +90,7 @@ export const GPIOTop = ({ P1, P5 }: HeaderProps) => (
     )}
   </Plastic>
 );
-export const GPIOBottom = ({ P1, P5 }: HeaderProps) => (
+export const GPIOBot = ({ P1, P5 }: HeaderProps) => (
   <Plastic className={styles.gpio}>
     {P5 ? (
       <>
@@ -120,7 +121,9 @@ export const PinHeader = ({ children, className }: Props) => (
 export const Pin = () => <PinHeader>o</PinHeader>;
 
 // AV / CSI / DSI Connectors
-export const MetalConnector = () => <Metal>| |</Metal>;
+export const MetalConnector = ({ children, size = 3 }: ConnectorProps) => (
+  <Metal>|{children ? children : ' '.repeat(size - 2)}|</Metal>
+);
 export const PlasticConnector = ({
   children = ' ',
   className,
@@ -155,27 +158,50 @@ export const C = (props: ConnectorProps) => (
 export const D = (props: ConnectorProps) => (
   <PlasticConnector {...props}>D</PlasticConnector>
 );
+export const E = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>E</PlasticConnector>
+);
 export const I = (props: ConnectorProps) => (
   <PlasticConnector {...props}>I</PlasticConnector>
 );
 export const P = (props: ConnectorProps) => (
   <PlasticConnector {...props}>P</PlasticConnector>
 );
+export const R = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>R</PlasticConnector>
+);
 export const S = (props: ConnectorProps) => (
   <PlasticConnector {...props}>S</PlasticConnector>
 );
-export const U = () => <PlasticConnector lower>U</PlasticConnector>;
-export const V = () => <PlasticConnector>V</PlasticConnector>;
-export const X = () => <PlasticConnector lower>X</PlasticConnector>;
+export const U = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>U</PlasticConnector>
+);
+export const V = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>V</PlasticConnector>
+);
+export const W = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>W</PlasticConnector>
+);
+export const X = (props: ConnectorProps) => (
+  <PlasticConnector {...props}>X</PlasticConnector>
+);
+
+// Battery
+export const BatteryConnector = () => (
+  <>
+    <Metal>( =</Metal>
+    <span className={styles.vent}>O</span>
+    <Metal> |</Metal>
+  </>
+);
+export const BatteryCenter = () => <Metal>) + |</Metal>;
 
 // HDMI
-export const HDMI = () => <Metal>|HDMI|</Metal>;
-export const HDMIConnector = () => <Metal>|    |</Metal>;
-export const MicroHDMI = () => <Metal>|hd|</Metal>;
-export const MicroHDMIConnector0 = () => <Metal>|m0|</Metal>;
-export const MicroHDMIConnector1 = () => <Metal>|m1|</Metal>;
+export const HDMI = () => <MetalConnector>HDMI</MetalConnector>;
+export const MicroHDMI = () => <MetalConnector>hd</MetalConnector>;
+export const MicroHDMI0 = () => <MetalConnector>m0</MetalConnector>;
+export const MicroHDMI1 = () => <MetalConnector>m1</MetalConnector>;
 export const MiniHDMI = () => <Metal>hdmi</Metal>;
-export const MiniHDMIConnector = () => <Metal>|  |</Metal>;
 
 // Network
 export const Net = () => <Metal>+======</Metal>;
@@ -184,12 +210,21 @@ export const NetConnector = () => <Metal>|   Net</Metal>;
 // SD
 export const SD = () => <Metal>---+</Metal>;
 export const SDConnector = () => <Metal> sd|</Metal>;
+export const USD = () => <MetalConnector>uSD</MetalConnector>;
 
 // SMD
-export const MetalPackageTop = () => <Metal>,---.</Metal>;
-export const MetalPackageBot = () => <Metal>`---'</Metal>;
+export const MetalPackageTop = ({ size = 5 }: ConnectorProps) => (
+  <Metal>,{'-'.repeat(size - 2)}.</Metal>
+);
+export const MetalPackageBot = ({ size = 5 }: ConnectorProps) => (
+  <Metal>`{'-'.repeat(size - 2)}'</Metal>
+);
 export const MetalSoC = () => <Metal>|SoC|</Metal>;
-export const PlasticPackage = () => <Plastic>+---+</Plastic>;
+export const PlasticPackage = ({ size = 5 }: ConnectorProps) => (
+  <Plastic>+{'-'.repeat(size - 2)}+</Plastic>
+);
+export const PlasticEM = () => <Plastic>|eM|</Plastic>;
+export const PlasticMC = () => <Plastic>|MC|</Plastic>;
 export const PlasticRAM = () => <Plastic>|RAM|</Plastic>;
 export const PlasticRP1 = () => <Plastic>|RP1|</Plastic>;
 export const PlasticSoC = () => <Plastic>|SoC|</Plastic>;

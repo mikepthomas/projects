@@ -2,22 +2,22 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-08-23T15:40:48.970Z
+lastmod: 2024-08-29T22:49:55.720Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
-  - /projects/macro-pi
-  - /projects/solar-wifi-weather-station
+   - /projects/macro-pi
+   - /projects/solar-wifi-weather-station
 draft: false
 tags:
-  - Computers
-  - Raspberry Pi
+   - Computers
+   - Raspberry Pi
 categories:
-  - Electronics
+   - Electronics
 keywords:
-  - Computers
+   - Computers
 ---
 
 # Table of contents
@@ -1533,6 +1533,98 @@ COMPOSITE (1)
       GND (2)
 
 J14:
+TR01 TAP (1) (2) TR00 TAP
+TR03 TAP (3) (4) TR02 TAP
+
+For further information, please refer to https://pinout.xyz/
+```
+
+# Raspberry Pi Compute Module
+
+## Raspberry Pi CM4 rev 1.0
+
+| Item                     | Revision | RAM | Case                                                                                 | Power Supply                                  | Storage                                                                       | OS              | Hostname | Notes |
+| ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | -------- | ----- |
+| Raspberry Pi CM4 rev 1.0 | b03140   | 2GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply withe Barrel Jack | [Waveshare PCIe to M.2 (B)](<https://www.waveshare.com/wiki/PCIe_TO_M.2_(B)>) | Raspberry Pi OS |          |       |
+
+```
+Description        : Raspberry Pi CM4 rev 1.0
+Revision           : b03140
+SoC                : BCM2711
+RAM                : 2GB
+Storage            : eMMC / off-board
+USB ports          : 2 (of which 0 USB3)
+Ethernet ports     : 1 (1000Mbps max. speed)
+Wi-fi              : True
+Bluetooth          : True
+Camera ports (CSI) : 2
+Display ports (DSI): 2
+
+,--csi1---dsi0---dsi1-----------,-------------.-----------.
+|  ----   ----   ---- J2 ooooooo|             |oo1        |
+c|    Pi CM4  Rev 1.0    1oooooo|        Wi   |J3         |
+s|    IO Board                  |        Fi   |           |
+i|          J6 2o               |         +--+|  |P|      |
+| J8           1o               |  ,----. |eM||  }-{      |
+| oooooooooooooooooooo          |  |SoC | |MC||  |C|      |
+| 1ooooooooooooooooooo   J9     |  |    | +--+|  |I|      |
+| ,---.                  12     |  `----'     |  |e|      |
+|( =O |                  oo     |  +----+     |           |
+| ) + |                         |  |RAM |     |           |
+|( =O |                         `--+----+-----'           |
+| `---'                                                   |
+|   oo1 J1                                                |
+|                                                         |
+|                          |Net | |USB|     |uSD|      |p||
+|    |HDMI|   |HDMI|       |    | | 2 | usb |   |      |w||
+`----| 0  |---| 1  |-------|    |-|   |-| |------------|r|'
+
+J8:
+   3V3  (1) (2)  5V
+ GPIO2  (3) (4)  5V
+ GPIO3  (5) (6)  GND
+ GPIO4  (7) (8)  GPIO14
+   GND  (9) (10) GPIO15
+GPIO17 (11) (12) GPIO18
+GPIO27 (13) (14) GND
+GPIO22 (15) (16) GPIO23
+   3V3 (17) (18) GPIO24
+GPIO10 (19) (20) GND
+ GPIO9 (21) (22) GPIO25
+GPIO11 (23) (24) GPIO8
+   GND (25) (26) GPIO7
+ GPIO0 (27) (28) GPIO1
+ GPIO5 (29) (30) GND
+ GPIO6 (31) (32) GPIO12
+GPIO13 (33) (34) GND
+GPIO19 (35) (36) GPIO16
+GPIO26 (37) (38) GPIO20
+   GND (39) (40) GPIO21
+
+J1:
+GLOBAL ENABLE (1)
+          GND (2)
+          RUN (3)
+
+J2:
+1-2 DISABLE eMMC BOOT  (1) (2)  1-2 DISABLE eMMC BOOT
+3-4 WRITE-PROT EEPROM  (3) (4)  3-4 WRITE-PROT EEPROM
+         AIN0 MXL7704  (5) (6)  AIN1 MXL7704
+                  GND  (7) (8)  SYNC_IN
+             SYNC OUT  (9) (10) GND
+               TV OUT (11) (12) GND
+           13-14 WAKE (13) (14) 13-14 WAKE
+
+J3:
+WL DISABLE (1)
+       GND (2)
+BT DISABLE (3)
+
+J6:
+1-2 CAM0+DISP0 (1) (2) 1-2 CAM0+DISP0
+3-4 CAM0+DISP0 (3) (4) 3-4 CAM0+DISP0
+
+J9:
 TR01 TAP (1) (2) TR00 TAP
 TR03 TAP (3) (4) TR02 TAP
 

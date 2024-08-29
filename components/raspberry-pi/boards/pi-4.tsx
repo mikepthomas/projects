@@ -30,7 +30,7 @@ import {
   C,
   D,
   Fi,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   Highlight,
   I,
@@ -39,8 +39,8 @@ import {
   MetalPackageTop,
   MetalSoC,
   MicroHDMI,
-  MicroHDMIConnector0,
-  MicroHDMIConnector1,
+  MicroHDMI0,
+  MicroHDMI1,
   Net,
   NetConnector,
   Pin,
@@ -79,7 +79,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
             J14 
           <NetConnector />
         </RaspberryPi>
@@ -166,7 +166,7 @@ export default function ColorBoards(children: ReactNode) {
           <MicroHDMI />
              
           <MicroHDMI /> 
-          <Zero right /> <U />
+          <Zero right /> <U lower />
               
           <USB />
         </RaspberryPi>
@@ -177,11 +177,11 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />
           ---
-          <MicroHDMIConnector0 />
+          <MicroHDMI0 />
           ---
-          <MicroHDMIConnector1 />
+          <MicroHDMI1 />
           ----
-          <X />
+          <X lower />
           -------'
         </RaspberryPi>
       );
@@ -264,7 +264,7 @@ export default function ColorBoards(children: ReactNode) {
             <Plastic className={styles.power3v}> 3  </Plastic>|
             <Plastic className={styles.power3v}> 3  </Plastic>|
             <Plastic>   </Plastic>|<Plastic>m1</Plastic>|<Plastic>m0</Plastic>|
-            <Plastic>  </Plastic>|<GPIOBottom />
+            <Plastic>  </Plastic>|<GPIOBot />
             |      \
           </Plastic>
         </RaspberryPi>

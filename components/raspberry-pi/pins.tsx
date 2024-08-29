@@ -29,7 +29,7 @@ import styles from './raspberry-pi.module.scss';
 
 export default function ColorPins(children: ReactNode) {
   switch (Children.toArray(children).toString()) {
-    // J2
+    // J1 / J2
     case 'GLOBAL ENABLE (1)\n':
       return (
         <>
@@ -63,6 +63,103 @@ export default function ColorPins(children: ReactNode) {
       return (
         <>
           <span className={styles.ground}>GND</span> (2)
+          <br />
+        </>
+      );
+    // J2
+    case '1-2 DISABLE eMMC BOOT  (1) (2)  1-2 DISABLE eMMC BOOT\n':
+      return (
+        <>
+          <span className={styles.pin}>1-2 DISABLE eMMC BOOT</span>  (1) (2)  
+          <span className={styles.pin}>1-2 DISABLE eMMC BOOT</span>
+          <br />
+        </>
+      );
+    case '3-4 WRITE-PROT EEPROM  (3) (4)  3-4 WRITE-PROT EEPROM\n':
+      return (
+        <>
+          <span className={styles.pin}>3-4 WRITE-PROT EEPROM</span>  (3) (4)  
+          <span className={styles.pin}>3-4 WRITE-PROT EEPROM</span>
+          <br />
+        </>
+      );
+    case '         AIN0 MXL7704  (5) (6)  AIN1 MXL7704\n':
+      return (
+        <>
+                   <span className={styles.pin}>AIN0 MXL7704</span>  (5) (6)  
+          <span className={styles.pin}>AIN1 MXL7704</span>
+          <br />
+        </>
+      );
+    case '                  GND  (7) (8)  SYNC_IN\n':
+      return (
+        <>
+                            <span className={styles.ground}>GND</span>
+            (7) (8)  
+          <span className={styles.pin}>SYNC_IN</span>
+          <br />
+        </>
+      );
+    case '             SYNC OUT  (9) (10) GND\n':
+      return (
+        <>
+                       <span className={styles.pin}>SYNC OUT</span>  (9) (10) 
+          <span className={styles.ground}>GND</span>
+          <br />
+        </>
+      );
+    case '               TV OUT (11) (12) GND\n':
+      return (
+        <>
+                         <span className={styles.pin}>TV OUT</span> (11) (12) 
+          <span className={styles.ground}>GND</span>
+          <br />
+        </>
+      );
+    case '           13-14 WAKE (13) (14) 13-14 WAKE\n':
+      return (
+        <>
+                     <span className={styles.pin}>13-14 WAKE</span> (13) (14) 
+          <span className={styles.pin}>13-14 WAKE</span>
+          <br />
+        </>
+      );
+    // J3
+    case 'WL DISABLE (1)\n':
+      return (
+        <>
+          <span className={styles.pin}>WL DISABLE</span> (1)
+          <br />
+        </>
+      );
+    case '       GND (2)\n':
+      return (
+        <>
+                 <span className={styles.ground}>GND</span> (2)
+          <br />
+        </>
+      );
+    case 'BT DISABLE (3)\n':
+      return (
+        <>
+          <span className={styles.pin}>BT DISABLE</span> (3)
+          <br />
+        </>
+      );
+    // J6
+    case '1-2 CAM0+DISP0 (1) (2) 1-2 CAM0+DISP0\n':
+      return (
+        <>
+          <span className={styles.pin}>1-2 CAM0+DISP0</span> (1) (2) 
+          <span className={styles.pin}>1-2 CAM0+DISP0</span>
+          <br />
+        </>
+      );
+    case '3-4 CAM0+DISP0 (3) (4) 3-4 CAM0+DISP0\n':
+      return (
+        <>
+          <span className={styles.pin}>3-4 CAM0+DISP0</span> (3) (4) 
+          <span className={styles.pin}>3-4 CAM0+DISP0</span>
           <br />
         </>
       );
@@ -243,7 +340,7 @@ export default function ColorPins(children: ReactNode) {
           <br />
         </>
       );
-    // J14 / POE
+    // J9 / J14 / POE
     case 'TR01 TAP (1) (2) TR00 TAP\n':
       return (
         <>

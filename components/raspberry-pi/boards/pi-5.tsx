@@ -27,14 +27,14 @@ import { Children, ReactNode } from 'react';
 import {
   C,
   Fi,
-  GPIOBottom,
+  GPIOBot,
   GPIOTop,
   I,
   Metal,
   MetalConnector,
   MicroHDMI,
-  MicroHDMIConnector0,
-  MicroHDMIConnector1,
+  MicroHDMI0,
+  MicroHDMI1,
   Net,
   NetConnector,
   One,
@@ -74,7 +74,7 @@ export default function ColorBoards(children: ReactNode) {
       return (
         <RaspberryPi>
           | 
-          <GPIOBottom />
+          <GPIOBot />
                 <Metal>:</Metal> <USB2Connector />
         </RaspberryPi>
       );
@@ -180,9 +180,9 @@ export default function ColorBoards(children: ReactNode) {
           `-
           <MetalConnector />-<PinHeader>1</PinHeader>
           <Plastic className={styles.ground}>o</Plastic>
-          <MicroHDMIConnector0 />
+          <MicroHDMI0 />
           ---
-          <MicroHDMIConnector1 />
+          <MicroHDMI1 />
           --------------'
         </RaspberryPi>
       );
