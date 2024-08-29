@@ -1038,15 +1038,15 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi 3B+ rev 1.3
 
-| Item                     | Revision | RAM | Case                   | Power Supply                          | Storage                      | OS                                       | Hostname | Notes                                                             |
-| ------------------------ | -------- | --- | ---------------------- | ------------------------------------- | ---------------------------- | ---------------------------------------- | -------- | ----------------------------------------------------------------- |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case           | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | red      | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case           | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | green    | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case           | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | blue     | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case           | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | black    | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt) |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Retroflag MegaPi Case  | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | megapi   |                                                                   |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Retroflag NESPi Case+  | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | nespi    |                                                                   |
-| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Retroflag SuperPi Case | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | superpi  |                                                                   |
+| Item                     | Revision | RAM | Case                                                                  | Power Supply                          | Storage                      | OS                                       | Hostname | Notes                                                                                  |
+| ------------------------ | -------- | --- | --------------------------------------------------------------------- | ------------------------------------- | ---------------------------- | ---------------------------------------- | -------- | -------------------------------------------------------------------------------------- |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case                                                          | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | red      | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt)                      |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case                                                          | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | green    | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt)                      |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case                                                          | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | blue     | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt)                      |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | Cluster Case                                                          | Anker PowerPort 5 (Black)             | 64GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (64-bit) - Bookworm | black    | With [Pimoroni Blinkt](https://shop.pimoroni.com/products/blinkt)                      |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag MegaPi Case M](https://retroflag.com/MEGAPi-CASE-M.html)   | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | megapi   | With [Classic USB Controller M](https://retroflag.com/Classic-USB-Controller-M.html)   |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag NESPi Case+](https://retroflag.com/nespi-case-plus.html)   | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | nespi    | With 2 Classic USB NES Controllers                                                     |
+| Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag SuperPi Case J](https://retroflag.com/SUPERPi-CASE-J.html) | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | superpi  | With 2 [Classic USB Controller J](https://retroflag.com/Classic-USB-Controller-J.html) |
 
 ```
 Description        : Raspberry Pi 3B+ rev 1.3
@@ -1543,9 +1543,9 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi CM4 rev 1.0
 
-| Item                     | Revision | RAM | Case                                                                                 | Power Supply                                  | Storage                                                                       | OS              | Hostname | Notes |
-| ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | -------- | ----- |
-| Raspberry Pi CM4 rev 1.0 | b03140   | 2GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply withe Barrel Jack | [Waveshare PCIe to M.2 (B)](<https://www.waveshare.com/wiki/PCIe_TO_M.2_(B)>) | Raspberry Pi OS |          |       |
+| Item                     | Revision | RAM | Case                                                                                 | Power Supply                                 | Storage                                                                       | OS              | Hostname | Notes |
+| ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | -------- | ----- |
+| Raspberry Pi CM4 rev 1.0 | b03140   | 2GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply with Barrel Jack | [Waveshare PCIe to M.2 (B)](<https://www.waveshare.com/wiki/PCIe_TO_M.2_(B)>) | Raspberry Pi OS |          |       |
 
 ```
 Description        : Raspberry Pi CM4 rev 1.0
