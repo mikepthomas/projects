@@ -2,7 +2,7 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-08-28T18:09:20.089Z
+lastmod: 2024-08-30T13:03:23.981Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
@@ -425,9 +425,8 @@ libreboot-20240612_x220_8mb.tar.xz.sha512             100%[=====================
 
 2024-08-28 15:46:17 (78.4 MB/s) - ‘libreboot-20240612_x220_8mb.tar.xz.sha512’ saved [167/167]
 
-$ sha512sum ./libreboot-20240612_x220_8mb.tar.xz && cat ./libreboot-20240612_x220_8mb.tar.xz.sha512
-b1a4b466a27a725d916372374a40778c609db27d3e9f7654a22c83acfb3ce9087ad3fa7cf81f4fe22f626fdaad4c7c36dcccfe10ee8f1ce9fc16e928451f77b3  ./libreboot-20240612_x220_8mb.tar.xz
-b1a4b466a27a725d916372374a40778c609db27d3e9f7654a22c83acfb3ce9087ad3fa7cf81f4fe22f626fdaad4c7c36dcccfe10ee8f1ce9fc16e928451f77b3  ./libreboot-20240612_x220_8mb.tar.xz
+$ sha512sum -c libreboot-20240612_x220_8mb.tar.xz.sha512
+./libreboot-20240612_x220_8mb.tar.xz: OK
 ```
 
 Inject the Management Engine into a Release image:
@@ -526,6 +525,8 @@ Libreboot standardises on flashprog now, compile it with:
 $ ./mk -b flashprog
 ```
 
+##### External Flashing
+
 Connecting the EEPROM to a Raspberry Pi for flashing is same the same way as [Backing up the stock BIOS](#backup-stock-bios).
 
 I had an error when erasing and writing the flash chip, however it managed to recover itself:
@@ -552,6 +553,27 @@ Erasing and writing flash chip... FAILED at 0x00081000! Expected=0xff, Found=0xe
 ERASE FAILED!
 Reading current flash chip contents... done. Looking for another erase function.
 Erase/write done.
+Verifying flash... VERIFIED.
+```
+
+##### Internal Flashing
+
+Once Libreboot is installed, you can flash updates internally without having to take the machine apart again:
+
+```bash
+$ sudo ./elf/flashprog/flashprog -p internal -c MX25L6405 -w ./bin/x220_8mb/seagrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
+[sudo] password for user:
+flashprog p1.1-72-ge86b2a0 on Linux 5.15.0-119-generic (x86_64)
+flashprog is free software, get the source code at https://flashprog.org
+
+Using clock_gettime for delay loops (clk_id: 1, resolution: 1ns).
+coreboot table found at 0x7fe68000.
+Found chipset "Intel QM67".
+Enabling flash write... SPI Configuration is locked down.
+OK.
+Found Macronix flash chip "MX25L6405" (8192 kB, SPI) on internal.
+Reading old flash chip contents... done.
+Erasing and writing flash chip... Erase/write done.
 Verifying flash... VERIFIED.
 ```
 

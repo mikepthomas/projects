@@ -230,7 +230,7 @@ For further information, please refer to https://pinout.xyz/
 
 ```
 Description        : Raspberry Pi Zero rev 1.3
-Revision           : 920093
+Revision           : 900093
 SoC                : BCM2835
 RAM                : 512MB
 Storage            : MicroSD
