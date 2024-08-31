@@ -39,6 +39,7 @@ import {
   MetalConnector,
   MetalPackageBot,
   MetalPackageTop,
+  MetalSoC,
   MicroUSB,
   P,
   PinHeader,
@@ -46,6 +47,7 @@ import {
   PlasticEM,
   PlasticMC,
   PlasticPackage,
+  PlasticSoC,
   R,
   RaspberryPi,
   S,
@@ -58,6 +60,128 @@ import styles from '../raspberry-pi.module.scss';
 
 export default function ColorBoards(children: ReactNode) {
   switch (Children.toArray(children).toString()) {
+    // Pi CM
+    case '+---------------------------------------+\n':
+      return (
+        <RaspberryPi>+---------------------------------------+</RaspberryPi>
+      );
+    case '| O  Raspberry Pi CM                  O |\n':
+      return (
+        <RaspberryPi>
+          | 
+          <Plastic>O</Plastic>  
+          <SilkScreen>Raspberry Pi CM</SilkScreen>
+                            
+          <Plastic>O</Plastic> |
+        </RaspberryPi>
+      );
+    case ' )   Version 1.1     +---+             (\n':
+      return (
+        <RaspberryPi className={styles.transparent}>
+           
+          <span className={styles.pcb}>
+            )   Version 1.1     
+            <PlasticPackage />
+                         (
+          </span>
+        </RaspberryPi>
+      );
+    case '|                    |SoC|              |\n':
+      return (
+        <RaspberryPi>
+          |                    
+          <PlasticSoC />
+                        |
+        </RaspberryPi>
+      );
+    case ' )                   +---+             (\n':
+      return (
+        <RaspberryPi className={styles.transparent}>
+           
+          <span className={styles.pcb}>
+            )                   
+            <PlasticPackage />
+                         (
+          </span>
+        </RaspberryPi>
+      );
+    case '| O   _                               O |\n':
+      return (
+        <RaspberryPi>
+          | <Plastic>O</Plastic>   _                               
+          <Plastic>O</Plastic> |
+        </RaspberryPi>
+      );
+    case '|||||| ||||||||||||||||||||||||||||||||||\n':
+      return (
+        <RaspberryPi className={styles.transparent}>
+          <span className={styles.pcb}>||||||</span> 
+          <span className={styles.pcb}>||||||||||||||||||||||||||||||||||</span>
+        </RaspberryPi>
+      );
+    // Pi CM3
+    case '| O  Raspberry Pi CM3                 O |\n':
+      return (
+        <RaspberryPi>
+          | 
+          <Plastic>O</Plastic>  
+          <SilkScreen>Raspberry Pi CM3</SilkScreen>
+                           
+          <Plastic>O</Plastic> |
+        </RaspberryPi>
+      );
+    case ' )   Version 1.0     +---+             (\n':
+      return (
+        <RaspberryPi className={styles.transparent}>
+           
+          <span className={styles.pcb}>
+            )   Version 1.0     
+            <PlasticPackage />
+                         (
+          </span>
+        </RaspberryPi>
+      );
+    // Pi CM3+
+    case '| O  Raspberry Pi CM3+                O |\n':
+      return (
+        <RaspberryPi>
+          | 
+          <Plastic>O</Plastic>  
+          <SilkScreen>Raspberry Pi CM3+</SilkScreen>
+                          
+          <Plastic>O</Plastic> |
+        </RaspberryPi>
+      );
+    case ' )   Version 1.0      ,---.            (\n':
+      return (
+        <RaspberryPi className={styles.transparent}>
+           
+          <span className={styles.pcb}>
+            )   Version 1.0     
+            <MetalPackageTop />
+                         (
+          </span>
+        </RaspberryPi>
+      );
+    case '|                     |SoC|             |\n':
+      return (
+        <RaspberryPi>
+          |                    
+          <MetalSoC />
+                        |
+        </RaspberryPi>
+      );
+    case " )                    `---'            (\n":
+      return (
+        <RaspberryPi className={styles.transparent}>
+           
+          <span className={styles.pcb}>
+            )                   
+            <MetalPackageBot />
+                         (
+          </span>
+        </RaspberryPi>
+      );
     // Pi CM4
     case ',--csi1---dsi0---dsi1-----------,-------------.-----------.\n':
       return (

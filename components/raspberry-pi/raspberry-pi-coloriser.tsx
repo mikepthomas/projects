@@ -36,7 +36,7 @@ import ColorCommon, {
   ColorPiPico,
   ColorPiZero,
 } from './boards';
-import ColorPins from './pins';
+import ColorPins, { ColorSodimm } from './pins';
 import { Props } from './raspberry-pi';
 
 const ColorParts = (children: ReactNode) => {
@@ -52,6 +52,7 @@ const ColorParts = (children: ReactNode) => {
     ColorPiPico,
     ColorPiZero,
     ColorPins,
+    ColorSodimm,
   ].forEach((func) => (children = func(children)));
   return children;
 };

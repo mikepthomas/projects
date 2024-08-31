@@ -25,7 +25,7 @@
  */
 import { Children, ReactNode } from 'react';
 
-import styles from './raspberry-pi.module.scss';
+import styles from '../raspberry-pi.module.scss';
 
 export default function ColorPins(children: ReactNode) {
   switch (Children.toArray(children).toString()) {
@@ -572,3 +572,5 @@ export default function ColorPins(children: ReactNode) {
       return children;
   }
 }
+
+export { default as ColorSodimm } from './sodimm';
