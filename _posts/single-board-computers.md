@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-09-18T16:21:17.367Z
+lastmod: 2024-09-18T17:34:27.143Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -1696,6 +1696,12 @@ For further information, please refer to https://pinout.xyz/
 | Item                     | Revision | RAM | Case                                                                                 | Power Supply                                 | Storage                                                                                                       | OS                                  | Hostname | Notes                                                                                                                                                  |
 | ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Raspberry Pi CM4 rev 1.1 | d03141   | 8GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply with Barrel Jack | [Samsung 970 EVO Plus 250GB NVMe SSD](https://pipci.jeffgeerling.com/cards_m2/samsung-970-evo-plus-nvme.html) | Raspberry Pi OS (64-bit) - Bookworm | cm4      | With [Waveshare PCIe to M.2 (B)](https://www.waveshare.com/pcie-to-m.2-b.htm) and [Waveshare CM4 Heatsink](https://www.waveshare.com/cm4-heatsink.htm) |
+
+### Benchmarks
+
+| Benchmark                                                    | Single-Core | Multi-Core |
+| ------------------------------------------------------------ | ----------- | ---------- |
+| [Geekbench 5](https://browser.geekbench.com/v5/cpu/22880016) | 234         | 668        |
 
 ### Pinout
 
