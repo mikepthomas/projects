@@ -106,7 +106,7 @@ export async function getStaticProps({ params }: Params) {
   ]);
   const related =
     post.related?.map((item) =>
-      item.startsWith('https://')
+      /^http(s)?:\/\//.test(item)
         ? { slug: item, title: item }
         : getPostBySlug(item.replace(PROJECTS_PATH, ''), [
             'title',
