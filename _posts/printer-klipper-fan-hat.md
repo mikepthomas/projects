@@ -4,7 +4,7 @@ heading: Creating a Printed Circuit Board to control fans in Klipper
 date: 2023-03-21
 lastmod: 2024-06-03T20:59:33.506Z
 author: Mike Thomas
-description: Creating a Raspberry Pi Hat to control additional fans using the Raspberry Pi as a Secondary MCU in Klipper Firmware.
+description: Making Raspberry Pi Hat based on the Klipper Expander to control additional fans using the Pi as a Secondary MCU in Klipper Firmware, the Klipper Fan Hat.
 preview: /assets/blog/printer-klipper-fan-hat/klipper-fan-hat-hero.jpg
 slug: /projects/printer-klipper-fan-hat
 draft: false
@@ -16,16 +16,18 @@ categories:
   - Software
 keywords:
   - Klipper
+  - Klipper Expander
+  - Klipper Fan Hat
 promoted: true
 ---
 
 # Table of contents
 
-# Intro
+# What is the Klipper Fan Hat?
 
-Creating a Raspberry Pi Hat based on [timmit99's Klipper Expander](https://github.com/timmit99/Klipper-Expander) to control additional fans using the [Raspberry Pi as a Secondary MCU in Klipper Firmware](https://www.klipper3d.org/RPi_microcontroller.html).
+I wanted to explore making a Raspberry Pi Hat based on [timmit99's Klipper Expander](https://github.com/timmit99/Klipper-Expander) to control additional fans using the [Raspberry Pi as a Secondary MCU in Klipper Firmware](https://www.klipper3d.org/RPi_microcontroller.html).
 
-# What is this?
+# What about the Klipper Expander?
 
 The Klipper Expander is designed to add 4 additional Mosfet outputs, 2 thermistor inputs, a Neopixel output, a GPIO Header and an I2C header that can be added as a secondary Klipper MCU. The Klipper Fan Hat is supposed to be a re-imagining of this, which can be attached on top of the Raspberry Pi that is used as the Klipper Host.
 
