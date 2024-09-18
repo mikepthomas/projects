@@ -17,7 +17,9 @@ tags:
 categories:
   - Electronics
 keywords:
+  - Arduino
   - Computers
+  - Raspberry Pi
 ---
 
 # Table of contents
