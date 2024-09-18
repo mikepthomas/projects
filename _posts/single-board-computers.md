@@ -2,22 +2,22 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-08-29T22:49:55.720Z
+lastmod: 2024-09-18T16:21:17.367Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
-  - /projects/macro-pi
-  - /projects/solar-wifi-weather-station
+   - /projects/macro-pi
+   - /projects/solar-wifi-weather-station
 draft: false
 tags:
-  - Computers
-  - Raspberry Pi
+   - Computers
+   - Raspberry Pi
 categories:
-  - Electronics
+   - Electronics
 keywords:
-  - Computers
+   - Computers
 ---
 
 # Table of contents
@@ -167,6 +167,8 @@ My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quit
 | ------------------------- | -------- | ----- | ---- | ------- | --- | -------- | ----- |
 | Raspberry Pi Zero rev 1.2 | 900092   | 512MB |      |         |     |          |       |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi Zero rev 1.2
 Revision           : 900092
@@ -227,6 +229,8 @@ For further information, please refer to https://pinout.xyz/
 | ------------------------- | -------- | ----- | -------------------------------------------------------------- | ------- | --- | -------- | ----- |
 | Raspberry Pi Zero rev 1.3 | 900093   | 512MB | [8086.net ZeroDongle](https://8086.net/products#80860007)      |         |     |          |       |
 | Raspberry Pi Zero rev 1.3 | 900093   | 512MB | [8086.net ZeroMicroDongle](https://8086.net/products#80860008) |         |     |          |       |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi Zero rev 1.3
@@ -295,6 +299,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [TV HAT Case for Pi Zero (v2.0)](https://thepihut.com/products/tv-uhat-case-for-raspberry-pi-zero-zerow)                    |                         |                                                                       |          | With Raspberry Pi TV HAT                                                                                        |
 | Raspberry Pi Zero WH rev 1.1 | 9000c1   | 512MB | [AZ-Touch Pi Zero](https://www.hwhardsoft.de/english/projects/az-touch-pi0/)                                                |                         | [Weather Station](https://github.com/HWHardsoft/AZ-Touch-Pi0-Weather) |          |                                                                                                                 |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi Zero W rev 1.1
 Revision           : 9000c1
@@ -361,6 +367,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p3       |       |
 | Raspberry Pi Zero2W rev 1.0  | 902120   | 512MB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case)                                                             | 32GB MicroSD (Integral)  | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | p4       |       |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi Zero2W rev 1.0
 Revision           : 902120
@@ -417,6 +425,8 @@ For further information, please refer to https://pinout.xyz/
 | Item                   | Revision | RAM   | Case | Storage | OS  | Hostname | Notes                                                                      |
 | ---------------------- | -------- | ----- | ---- | ------- | --- | -------- | -------------------------------------------------------------------------- |
 | Raspberry Pi A rev 2.0 | 0008     | 256MB |      |         |     |          | With [Adafruit Prototyping Pi Plate](https://www.adafruit.com/product/801) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi A rev 2.0
@@ -504,6 +514,8 @@ This is my original Raspberry Pi in an Adafruit acrylic case. I soldered the LCD
 | Raspberry Pi B rev 1.0 | 0002     | 256MB | Piface Digital Acrylic Case        |                     |                                                |          | With [PiFace Digital](http://www.piface.org.uk/products/piface_digital/)     |
 | Raspberry Pi B rev 1.0 | 0002     | 256MB | Official Raspberry Pi Case (White) | Shared with `node1` |                                                |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow)            |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi B rev 1.0
 Revision           : 0002
@@ -577,6 +589,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi B rev 2.0 | 000f     | 512MB | Official Raspberry Pi Case (Clear) | Shared with `node4` |     |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
 | Raspberry Pi B rev 2.0 | 000f     | 512MB | Official Raspberry Pi Case (Clear) | Shared with `node5` |     |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
 | Raspberry Pi B rev 2.0 | 000f     | 512MB |                                    |                     |     |          | Broken SD Slot                                                    |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi B rev 2.0
@@ -658,6 +672,8 @@ For further information, please refer to https://pinout.xyz/
 | ----------------------- | -------- | ----- | ------------------------------ | ------- | --- | -------- | ----------------------------------------------------------------- |
 | Raspberry Pi A+ rev 1.1 | 0015     | 256MB | ModMyPi VESA-Pi+ Model A+ Case |         |     |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi A+ rev 1.1
 Revision           : 0015
@@ -716,6 +732,8 @@ For further information, please refer to https://pinout.xyz/
 | ----------------------- | -------- | ----- | --------------------------------- | --------------------------- | ------------------------------------------------ | -------- | ----------------------------------------------------------------- |
 | Raspberry Pi B+ rev 1.2 | 0010     | 512MB | CanaKit Raspberry Pi Case (Clear) | 8GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Bullseye |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
 | Raspberry Pi B+ rev 1.2 | 0013     | 512MB | CanaKit Raspberry Pi Case (Clear) | 8GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Bullseye |          | With [Pimoroni PiGlow](https://shop.pimoroni.com/products/piglow) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi B+ rev 1.2
@@ -787,6 +805,8 @@ The cluster was set up to learn [Ansible](https://www.ansible.com) as the Raspbe
 | Raspberry Pi 2B rev 1.1 | a01041   | 1GB | Cluster Case | Anker PowerPort 6 (White) | 16GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Buster | node4    |       |
 | Raspberry Pi 2B rev 1.1 | a01041   | 1GB | Cluster Case | Anker PowerPort 6 (White) | 16GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Buster | node5    |       |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi 2B rev 1.1
 Revision           : a01041
@@ -848,6 +868,8 @@ As I live fairly close to Cardiff International Airport and notice many aircraft
 | Item                    | Revision | RAM | Case                 | Power Supply                   | Storage                      | OS                                               | Hostname | Notes                                                                                                          |
 | ----------------------- | -------- | --- | -------------------- | ------------------------------ | ---------------------------- | ------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------- |
 | Raspberry Pi 2B rev 1.2 | a02042   | 1GB | Flirc Aluminium Case | Clearain Micro USB with Switch | 16GB MicroSD (Sandisk Ultra) | Raspberry Pi OS Lite (Legacy, 32-bit) - Bullseye | piaware  | Boxed With FlightAware Pro Stick Plus, ADS-B installed via [Docker](https://sdr-enthusiasts.gitbook.io/ads-b/) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi 2B rev 1.2
@@ -917,6 +939,8 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 | ------------------------ | -------- | ----- | ------------------ | ------------ | ----------------------- | ------------------------------------------ | -------- | ----- |
 | Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [AM8](printer-am8) |              | 64GB MicroSD (Integral) | [MainsailOS](https://docs-os.mainsail.xyz) | am8      | Boxed |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi 3A+ rev 1.0
 Revision           : 9020e0
@@ -984,6 +1008,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi 3B rev 1.2 | a22082   | 1GB | [Sense HAT Case](https://thepihut.com/products/sense-hat-case-for-raspberry-pi-4) | Element 14 Universal Power Supply (Black)  | 32GB MicroSD (Sandisk Ultra) |                                                          |          | With [Sense Hat](https://www.raspberrypi.com/documentation/accessories/sense-hat.html) V1 |
 | Raspberry Pi 3B rev 1.2 | a22082   | 1GB |                                                                                   |                                            |                              |                                                          |          | With [Cluster Hat v2.4](https://thepihut.com/products/cluster-hat-v2-0)                   |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi 3B rev 1.2
 Revision           : a02082
@@ -1047,6 +1073,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag MegaPi Case M](https://retroflag.com/MEGAPi-CASE-M.html)   | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | megapi   | With [Classic USB Controller M](https://retroflag.com/Classic-USB-Controller-M.html)   |
 | Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag NESPi Case+](https://retroflag.com/nespi-case-plus.html)   | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | nespi    | With 2 Classic USB NES Controllers                                                     |
 | Raspberry Pi 3B+ rev 1.3 | a020d3   | 1GB | [Retroflag SuperPi Case J](https://retroflag.com/SUPERPi-CASE-J.html) | Generic 5V 3A Micro USB AC/DC Adapter | 16GB MicroSD (Integral)      | [RetroPie](https://retropie.org.uk)      | superpi  | With 2 [Classic USB Controller J](https://retroflag.com/Classic-USB-Controller-J.html) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi 3B+ rev 1.3
@@ -1118,6 +1146,8 @@ For further information, please refer to https://pinout.xyz/
 | ------------------------ | -------- | --- | ---- | -------------------------------------------- | --------------------------- | ------------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Raspberry Pi 400 rev 1.0 | c03130   | 4GB |      | Official Raspberry Pi 4 Power Supply (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye | pi400    | Boxed Desktop Kit with [DACBerry 400 S](https://www.osaelectronics.com/learn/tutorials/dacberry-400-series-quick-start-guide/) |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi 400 rev 1.0
 Revision           : c03130
@@ -1187,6 +1217,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi 4B rev 1.1 | c03111   | 4GB | [pi-top [4]](https://knowledgebase.pi-top.com/knowledge/pi-top4-setup) | Pi-Top Power Supply | 16GB MicroSD (Sandisk Edge) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Foundation Kit](https://knowledgebase.pi-top.com/knowledge/foundation-kit) |
 | Raspberry Pi 4B rev 1.1 | c03111   | 4GB | [pi-top [4]](https://knowledgebase.pi-top.com/knowledge/pi-top4-setup) | Pi-Top Power Supply | 16GB MicroSD (Sandisk Edge) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Foundation Kit](https://knowledgebase.pi-top.com/knowledge/foundation-kit) |
 
+### Pinout
+
 ```
 Description        : Raspberry Pi 4B rev 1.1
 Revision           : c03111
@@ -1250,9 +1282,11 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi 4B rev 1.2
 
-| Item                    | Revision | RAM | Case                                                                               | Power Supply        | Storage                  | OS                                                                  | Hostname | Notes                                                                       |
-| ----------------------- | -------- | --- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------ | ------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.2 | c03112   | 4GB | [pi-top [4] DIY Edition](https://knowledgebase.pi-top.com/knowledge/diy-tech-spec) | Pi-Top Power Supply | 128GB MicroSD (Integral) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Robitics Kit](https://www.pi-top.com/start/robotics-kit) |
+| Item                    | Revision | RAM | Case                                                                               | Power Supply        | Storage                  | OS                                                                  | Hostname | Notes                                                                                                                                                                |
+| ----------------------- | -------- | --- | ---------------------------------------------------------------------------------- | ------------------- | ------------------------ | ------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi 4B rev 1.2 | c03112   | 4GB | [pi-top [4] DIY Edition](https://knowledgebase.pi-top.com/knowledge/diy-tech-spec) | Pi-Top Power Supply | 128GB MicroSD (Integral) | [pi-topOS - Bullseye](https://www.pi-top.com/resources/download-os) | pi-top   | Boxed with [Pi-Top Expansion Plate](https://knowledgebase.pi-top.com/knowledge/expansion-plate) and [Pi-Top Robotics Kit](https://www.pi-top.com/start/robotics-kit) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi 4B rev 1.2
@@ -1323,6 +1357,14 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi 4B rev 1.4 | c03114   | 4GB | Official Raspberry Pi 4 Case (Red)                                      | Official Raspberry Pi 4 Power Supply (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye                                                   |          | Boxed Desktop Kit with official Case Fan                                      |
 | Raspberry Pi 4B rev 1.4 | d03114   | 8GB | [Cluster HAT Case v3.0](https://thepihut.com/products/cluster-hat-case) | Official Raspberry Pi 4 Power Supply (White) | 128GB MicroSD (Integral)    | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL](https://github.com/burtyb/clusterhat-image) | cbridge  | Boxed with [Cluster Hat v2.5](https://thepihut.com/products/cluster-hat-v2-0) |
 
+### Benchmarks
+
+| Benchmark                                                    | Single-Core | Multi-Core |
+| ------------------------------------------------------------ | ----------- | ---------- |
+| [Geekbench 5](https://browser.geekbench.com/v5/cpu/22830454) | 268         | 729        |
+
+### Pinout
+
 ```
 Description        : Raspberry Pi 4B rev 1.4
 Revision           : c03114
@@ -1392,9 +1434,11 @@ I use a Raspberry Pi 4 under my desk as a KVM switch using [PiKVM](https://pikvm
 
 | Item                    | Revision | RAM | Case                                                  | Power Supply                               | Storage                     | OS                                         | Hostname | Notes                                                                                                                                                            |
 | ----------------------- | -------- | --- | ----------------------------------------------------- | ------------------------------------------ | --------------------------- | ------------------------------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.5 | a03115   | 1GB | [Voron 1.8](printer-voron-1.8)                        | Mean Well RS-25-5 PSU                      | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz) | voron1   | With [Klipper Fan Hat](printer-klipper-fan-hat)                                                                                                                  |
-| Raspberry Pi 4B rev 1.5 | b03115   | 2GB | [Geekworm KVM-A3](https://wiki.geekworm.com/PiKVM-A3) | OKdo USB C Fixed Head Power Supply (Black) | 32GB MicroSD (Sandisk Edge) | [PiKVM v3](https://pikvm.org/download/)    | pikvm    |                                                                                                                                                                  |
+| Raspberry Pi 4B rev 1.5 | a03115   | 1GB | [Geekworm KVM-A3](https://wiki.geekworm.com/PiKVM-A3) | OKdo USB C Fixed Head Power Supply (Black) | 32GB MicroSD (Sandisk Edge) | [PiKVM v3](https://pikvm.org/download/)    | pikvm    |                                                                                                                                                                  |
+| Raspberry Pi 4B rev 1.5 | b03115   | 2GB | [Voron 1.8](printer-voron-1.8)                        | Mean Well RS-25-5 PSU                      | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz) | voron1   | With [Klipper Fan Hat](printer-klipper-fan-hat)                                                                                                                  |
 | Raspberry Pi 4B rev 1.5 | c03115   | 4GB | [Voron 2.4](printer-voron-2.4)                        | Mean Well RS-25-5 PSU                      | 64GB MicroSD (Integral)     | [MainsailOS](https://docs-os.mainsail.xyz) | voron2   | With [Geekworm P165-B](https://wiki.geekworm.com/P165) Heatsink and [HighPi Pro 5V PWM Fan](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled) |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi 4B rev 1.5
@@ -1470,10 +1514,18 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi 5B rev 1.0
 
-| Item                    | Revision | RAM | Case                                 | Power Supply                                 | Storage                  | OS                                                           | Hostname    | Notes                                                     |
-| ----------------------- | -------- | --- | ------------------------------------ | -------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------- | --------------------------------------------------------- |
-| Raspberry Pi 5B rev 1.0 | c04170   | 4GB | Official Raspberry Pi 5 Case (Red)   | Official Raspberry Pi 5 Power Supply (White) | 256GB MicroSD (Integral) |                                                              |             | Boxed (Unopened)                                          |
-| Raspberry Pi 5B rev 1.0 | d04170   | 8GB | Official Raspberry Pi 5 Case (Black) | Official Raspberry Pi 5 Power Supply (Black) | 256GB MicroSD (Integral) | Raspberry Pi OS Lite (64-bit), Manually Installed KDE Plasma | raspberrypi | Boxed with official Active Cooler, Black Keyboard & Mouse |
+| Item                    | Revision | RAM | Case                                 | Power Supply                                 | Storage                  | OS                                                           | Hostname    | Notes                                                                                                            |
+| ----------------------- | -------- | --- | ------------------------------------ | -------------------------------------------- | ------------------------ | ------------------------------------------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi 5B rev 1.0 | c04170   | 4GB | Official Raspberry Pi 5 Case (Red)   | Official Raspberry Pi 5 Power Supply (White) | 256GB MicroSD (Integral) |                                                              |             | Boxed (Unopened) with official [Active Cooler](https://www.raspberrypi.com/products/active-cooler/)              |
+| Raspberry Pi 5B rev 1.0 | d04170   | 8GB | Official Raspberry Pi 5 Case (Black) | Official Raspberry Pi 5 Power Supply (Black) | 256GB MicroSD (Integral) | Raspberry Pi OS Lite (64-bit), Manually Installed KDE Plasma | raspberrypi | Boxed with official [Active Cooler](https://www.raspberrypi.com/products/active-cooler/), Black Keyboard & Mouse |
+
+### Benchmarks
+
+| Benchmark                                                    | Single-Core | Multi-Core |
+| ------------------------------------------------------------ | ----------- | ---------- |
+| [Geekbench 5](https://browser.geekbench.com/v5/cpu/22830433) | 629         | 1706       |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi 5B rev 1.0
@@ -1543,9 +1595,17 @@ For further information, please refer to https://pinout.xyz/
 
 ## Raspberry Pi CM4 rev 1.0
 
-| Item                     | Revision | RAM | Case                                                                                 | Power Supply                                 | Storage                                                                       | OS              | Hostname | Notes |
-| ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | -------- | ----- |
-| Raspberry Pi CM4 rev 1.0 | b03140   | 2GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply with Barrel Jack | [Waveshare PCIe to M.2 (B)](<https://www.waveshare.com/wiki/PCIe_TO_M.2_(B)>) | Raspberry Pi OS |          |       |
+| Item                     | Revision | RAM | Case                                                   | Power Supply | Storage   | OS                                  | Hostname | Notes                                                                                                                 |
+| ------------------------ | -------- | --- | ------------------------------------------------------ | ------------ | --------- | ----------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi CM4 rev 1.0 | b03140   | 2GB | [BigTreeTech PI4B V1.0](https://bttwiki.com/PI4B.html) |              | 32GB eMMC | Raspberry Pi OS (64-bit) - Bookworm | pi4b     | With [52Pi Tall CM4 Heatsink](https://52pi.com/products/52pi-aluminum-alloy-cnc-heatsink-for-raspberry-pi-cm4-module) |
+
+### Benchmarks
+
+| Benchmark                                                    | Single-Core | Multi-Core |
+| ------------------------------------------------------------ | ----------- | ---------- |
+| [Geekbench 5](https://browser.geekbench.com/v5/cpu/22867024) | 233         | 665        |
+
+### Pinout
 
 ```
 Description        : Raspberry Pi CM4 rev 1.0
@@ -1631,6 +1691,98 @@ TR03 TAP (3) (4) TR02 TAP
 For further information, please refer to https://pinout.xyz/
 ```
 
+## Raspberry Pi CM4 rev 1.1
+
+| Item                     | Revision | RAM | Case                                                                                 | Power Supply                                 | Storage                                                                                                       | OS                                  | Hostname | Notes                                                                                                                                                  |
+| ------------------------ | -------- | --- | ------------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Raspberry Pi CM4 rev 1.1 | d03141   | 8GB | [Waveshare CM4 IO Board Case (A)](https://www.waveshare.com/cm4-io-board-case-a.htm) | Generic 12V 3A Power Supply with Barrel Jack | [Samsung 970 EVO Plus 250GB NVMe SSD](https://pipci.jeffgeerling.com/cards_m2/samsung-970-evo-plus-nvme.html) | Raspberry Pi OS (64-bit) - Bookworm | cm4      | With [Waveshare PCIe to M.2 (B)](https://www.waveshare.com/pcie-to-m.2-b.htm) and [Waveshare CM4 Heatsink](https://www.waveshare.com/cm4-heatsink.htm) |
+
+### Pinout
+
+```
+Description        : Raspberry Pi CM4 rev 1.1
+Revision           : d03141
+SoC                : BCM2711
+RAM                : 8GB
+Storage            : eMMC / off-board
+USB ports          : 2 (of which 0 USB3)
+Ethernet ports     : 1 (1000Mbps max. speed)
+Wi-fi              : True
+Bluetooth          : True
+Camera ports (CSI) : 2
+Display ports (DSI): 2
+
+,--csi1---dsi0---dsi1-----------,-------------.-----------.
+|  ----   ----   ---- J2 ooooooo|             |oo1        |
+c|    Pi CM4  Rev 1.1    1oooooo|        Wi   |J3         |
+s|    IO Board                  |        Fi   |           |
+i|          J6 2o               |         +--+|  |P|      |
+| J8           1o               |  ,----. |eM||  }-{      |
+| oooooooooooooooooooo          |  |SoC | |MC||  |C|      |
+| 1ooooooooooooooooooo   J9     |  |    | +--+|  |I|      |
+| ,---.                  12     |  `----'     |  |e|      |
+|( =O |                  oo     |  +----+     |           |
+| ) + |                         |  |RAM |     |           |
+|( =O |                         `--+----+-----'           |
+| `---'                                                   |
+|   oo1 J1                                                |
+|                                                         |
+|                          |Net | |USB|     |uSD|      |p||
+|    |HDMI|   |HDMI|       |    | | 2 | usb |   |      |w||
+`----| 0  |---| 1  |-------|    |-|   |-| |------------|r|'
+
+J8:
+   3V3  (1) (2)  5V
+ GPIO2  (3) (4)  5V
+ GPIO3  (5) (6)  GND
+ GPIO4  (7) (8)  GPIO14
+   GND  (9) (10) GPIO15
+GPIO17 (11) (12) GPIO18
+GPIO27 (13) (14) GND
+GPIO22 (15) (16) GPIO23
+   3V3 (17) (18) GPIO24
+GPIO10 (19) (20) GND
+ GPIO9 (21) (22) GPIO25
+GPIO11 (23) (24) GPIO8
+   GND (25) (26) GPIO7
+ GPIO0 (27) (28) GPIO1
+ GPIO5 (29) (30) GND
+ GPIO6 (31) (32) GPIO12
+GPIO13 (33) (34) GND
+GPIO19 (35) (36) GPIO16
+GPIO26 (37) (38) GPIO20
+   GND (39) (40) GPIO21
+
+J1:
+GLOBAL ENABLE (1)
+          GND (2)
+          RUN (3)
+
+J2:
+1-2 DISABLE eMMC BOOT  (1) (2)  1-2 DISABLE eMMC BOOT
+3-4 WRITE-PROT EEPROM  (3) (4)  3-4 WRITE-PROT EEPROM
+         AIN0 MXL7704  (5) (6)  AIN1 MXL7704
+                  GND  (7) (8)  SYNC_IN
+             SYNC OUT  (9) (10) GND
+               TV OUT (11) (12) GND
+           13-14 WAKE (13) (14) 13-14 WAKE
+
+J3:
+WL DISABLE (1)
+       GND (2)
+BT DISABLE (3)
+
+J6:
+1-2 CAM0+DISP0 (1) (2) 1-2 CAM0+DISP0
+3-4 CAM0+DISP0 (3) (4) 3-4 CAM0+DISP0
+
+J9:
+TR01 TAP (1) (2) TR00 TAP
+TR03 TAP (3) (4) TR02 TAP
+
+For further information, please refer to https://pinout.xyz/
+```
+
 # Raspberry Pi Pico
 
 ![Board designed for tinkering using a Pi Pico](/assets/blog/single-board-computers/maker-pi-pico.jpg)
@@ -1643,6 +1795,7 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi Pico H                 | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython](https://micropython.org)                                       |                                 |
 | Raspberry Pi Pico W                 | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller)   | In original packaging           |
 | Raspberry Pi Pico WH                |                                                                                                             | [ESPHome](https://esphome.io/)                                               | Boxed                           |
+| Raspberry Pi Pico 2                 |                                                                                                             |                                                                              | In original packaging           |
 | Raspberry Pi RP2040 Microcontroller |                                                                                                             |                                                                              | Bare Chip in original packaging |
 
 ```

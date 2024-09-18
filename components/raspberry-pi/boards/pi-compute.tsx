@@ -205,19 +205,6 @@ export default function ColorBoards(children: ReactNode) {
                   |
         </RaspberryPi>
       );
-    case 'c|    Pi CM4  Rev 1.0    1oooooo|        Wi   |J3         |\n':
-      return (
-        <RaspberryPi>
-          <C className={styles.metal} right lower />
-              <SilkScreen>Pi CM4  Rev 1.0</SilkScreen>    
-          <PinHeader>
-            1oo<span className={styles.ground}>o</span>ooo
-          </PinHeader>
-          <SilkScreen>|</SilkScreen>       
-          <Wi />
-            <SilkScreen>|</SilkScreen>J3         |
-        </RaspberryPi>
-      );
     case 's|    IO Board                  |        Fi   |           |\n':
       return (
         <RaspberryPi>
@@ -387,6 +374,34 @@ export default function ColorBoards(children: ReactNode) {
           <MetalConnector />
           ------------
           <R lower />'
+        </RaspberryPi>
+      );
+    // Pi CM4 Rev 1.0
+    case 'c|    Pi CM4  Rev 1.0    1oooooo|        Wi   |J3         |\n':
+      return (
+        <RaspberryPi>
+          <C className={styles.metal} right lower />
+              <SilkScreen>Pi CM4  Rev 1.0</SilkScreen>    
+          <PinHeader>
+            1oo<span className={styles.ground}>o</span>ooo
+          </PinHeader>
+          <SilkScreen>|</SilkScreen>       
+          <Wi />
+            <SilkScreen>|</SilkScreen>J3         |
+        </RaspberryPi>
+      );
+    // Pi CM4 Rev 1.1
+    case 'c|    Pi CM4  Rev 1.1    1oooooo|        Wi   |J3         |\n':
+      return (
+        <RaspberryPi>
+          <C className={styles.metal} right lower />
+              <SilkScreen>Pi CM4  Rev 1.1</SilkScreen>    
+          <PinHeader>
+            1oo<span className={styles.ground}>o</span>ooo
+          </PinHeader>
+          <SilkScreen>|</SilkScreen>       
+          <Wi />
+            <SilkScreen>|</SilkScreen>J3         |
         </RaspberryPi>
       );
     default:
