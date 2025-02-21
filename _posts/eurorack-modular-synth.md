@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2023-12-11
+lastmod: 2025-02-21T22:34:56.358Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/keystep-pro.jpg
@@ -75,8 +75,10 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 # Parts For Testing
 
-To test eurorack modules, I will be firstly building them up on a breadboard, [powered by 2 9V Batteries](https://www.youtube.com/watch?v=QBatvo8bCa4&t=1145s).
-I also plan on building a [cheap DIY Oscilloscope kit](https://www.aliexpress.com/item/1005005685435210.html) into a [3D printed Eurorack Module](https://www.thingiverse.com/thing:3631288). I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
+To test eurorack modules, I originally planned on building them up on a breadboard, [powered by 2 9V Batteries](https://www.youtube.com/watch?v=QBatvo8bCa4&t=1145s).
+However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor/) that I will use to power and test the modules.
+
+I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack Module](https://www.thingiverse.com/thing:3631288). I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
 
 ## Sourcing Parts
 
@@ -86,6 +88,7 @@ I also plan on building a [cheap DIY Oscilloscope kit](https://www.aliexpress.co
 | 9V Battery Connector                   | 2        | 6        |       |
 | Breadboard                             | 1        | 1        |       |
 | DIY 2.4" inch LCD Digital Oscilloscope | 1        | 1        |       |
+| Erica Synths EDU DIY Labor Full Kit    | 1        | 1        |       |
 | MT3608 DC-DC Boost Converter           | 1        | 1        |       |
 
 ## Printing Parts
@@ -114,10 +117,10 @@ Quantities are for 1 Unit
 
 ## Diodes
 
-| Item                   | Quantity | Received | Notes                                                                                                                      |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered alternative SR140](https://uk.farnell.com/onsemi/sb140/diode-schottky-1a-40v-do-41/dp/1467528#ProductSubstitutes) |
-| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                            |
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
 
 ## Integrated Circuits
 
@@ -171,10 +174,10 @@ Quantities are for 1 Unit
 
 ## Diodes
 
-| Item                   | Quantity | Received | Notes                                                                                                                      |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered alternative SR140](https://uk.farnell.com/onsemi/sb140/diode-schottky-1a-40v-do-41/dp/1467528#ProductSubstitutes) |
-| Signal Diode (1N4148)  | 2        | 25       |                                                                                                                            |
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 2        | 25       |                                                                                                                |
 
 ## Integrated Circuits
 
@@ -222,9 +225,9 @@ Quantities are for 1 Unit
 
 ## Diodes
 
-| Item                   | Quantity | Received | Notes                                                                                                                      |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered alternative SR140](https://uk.farnell.com/onsemi/sb140/diode-schottky-1a-40v-do-41/dp/1467528#ProductSubstitutes) |
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 
 ## Integrated Circuits
 
@@ -278,10 +281,10 @@ Quantities are for 1 Unit
 
 ## Diodes
 
-| Item                   | Quantity | Received | Notes                                                                                                                      |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered alternative SR140](https://uk.farnell.com/onsemi/sb140/diode-schottky-1a-40v-do-41/dp/1467528#ProductSubstitutes) |
-| Signal Diode (1N4148)  | 9        | 25       |                                                                                                                            |
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 9        | 25       |                                                                                                                |
 
 ## Integrated Circuits
 
@@ -335,10 +338,10 @@ Quantities are for 1 Unit
 
 ## Diodes
 
-| Item                   | Quantity | Received | Notes                                                                                                                      |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Signal Diode (1N4148)  | 1        | 25       |                                                                                                                            |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered alternative SR140](https://uk.farnell.com/onsemi/sb140/diode-schottky-1a-40v-do-41/dp/1467528#ProductSubstitutes) |
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Signal Diode (1N4148)  | 1        | 25       |                                                                                                                |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 
 ## Integrated Circuits
 
