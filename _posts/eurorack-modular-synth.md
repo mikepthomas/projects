@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-02-27T23:02:07.403Z
+lastmod: 2025-02-27T23:20:54.933Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/keystep-pro.jpg
@@ -77,6 +77,10 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 To test eurorack modules, I originally planned on building them up on a breadboard, [powered by 2 9V Batteries](https://www.youtube.com/watch?v=QBatvo8bCa4&t=1145s).
 However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor/) that I will use to power and test the modules.
+
+[Erica Synths EDU DIY Labor](https://www.youtube-nocookie.com/embed/QyapQpQOwUM)
+
+> Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack Module](https://www.thingiverse.com/thing:3631288). I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
 
@@ -226,9 +230,9 @@ Quantities are for 1 Unit
 
 # Voltage Controlled Amplifier (VCA)
 
-[Moritz Klein's VCA Video](https://www.youtube-nocookie.com/embed/yMrCCx6uqcE)
+[Moritz Klein's VCA Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
 
-> Video © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 Quantities are for 1 Unit
 
@@ -282,9 +286,9 @@ Quantities are for 1 Unit
 
 # Envelope Generator (EG)
 
-[Moritz Klein's Envelope Generator Video](https://www.youtube-nocookie.com/embed/aGFb7JbTdNU)
+[Moritz Klein's Envelope Generator Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
 
-> Video © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 Quantities are for 1 Unit
 
@@ -342,7 +346,9 @@ Quantities are for 1 Unit
 
 # Mixer
 
-[Moritz Klein's Mixer Video Series](https://www.youtube.com/watch?v=q8tmUgaXrEQ&list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
+[Moritz Klein's Mixer Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
+
+> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 Quantities are for 1 Unit
 

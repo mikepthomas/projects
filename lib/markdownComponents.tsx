@@ -35,7 +35,6 @@ import { basePath } from '../next.config';
 export function getComponents() {
   return {
     a: ({ children, href }) => {
-      console.log(href);
       if (href?.match(/^(https?:)?\/\/www.youtube(-nocookie)?.com\/embed\//)) {
         return (
           <span className="youtube-embed">
