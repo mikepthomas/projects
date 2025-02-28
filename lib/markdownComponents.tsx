@@ -37,7 +37,12 @@ export function getComponents() {
     a: ({ children, href }) => {
       if (href?.match(/^(https?:)?\/\/www.youtube(-nocookie)?.com\/embed\//)) {
         return (
-          <span className="youtube-embed">
+          <motion.span
+            className="youtube-embed"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+          >
             <iframe
               width="560"
               height="315"
@@ -48,7 +53,7 @@ export function getComponents() {
               referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
             ></iframe>
-          </span>
+          </motion.span>
         );
       } else if (href?.match(/^(https?:)?\/\//)) {
         return (
