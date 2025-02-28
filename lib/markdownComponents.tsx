@@ -44,12 +44,9 @@ export function getComponents() {
             viewport={{ once: true }}
           >
             <iframe
-              className='img-thumbnail'
-              width="560"
-              height="315"
+              className="img-thumbnail"
               src={href}
               title={children}
-              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
