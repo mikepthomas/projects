@@ -44,6 +44,7 @@ export function getComponents() {
             viewport={{ once: true }}
           >
             <iframe
+              className='img-thumbnail'
               width="560"
               height="315"
               src={href}
