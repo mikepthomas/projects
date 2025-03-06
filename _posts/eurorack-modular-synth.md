@@ -139,13 +139,14 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 ## Potentiometers
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Trim Potentiometer (1K)       | 1        | 10       |       |
-| Vertical Potentiometer (100K) | 3        | 20       |       |
-| Vertical Potentiometer (250K) | 1        | 5        |       |
-| Vertical Potentiometer (1M)   | 1        | 5        |       |
-| Aluminum Potentiometer Knob   | 5        | 30       |       |
+| Item                                 | Quantity | Received | Notes      |
+| ------------------------------------ | -------- | -------- | ---------- |
+| Aluminum Potentiometer Knob          | 3        | 30       |            |
+| PCB Mount Trim Potentiometer (1K)    | 1        | 10       |            |
+| Vertical Trim Potentiometer (B100K)  | 2        |          | 8 On Order |
+| Vertical Alpha Potentiometer (B100K) | 3        | 20       |            |
+| Vertical Alpha Potentiometer (B250K) | 1        | 5        |            |
+| Vertical Alpha Potentiometer (B1M)   | 1        | 5        |            |
 
 ## Resistors
 
@@ -202,11 +203,12 @@ Quantities are for 1 Unit
 
 ## Potentiometers
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Vertical Potentiometer (100K) | 5        | 20       |       |
-| Trim Potentiometer (50K)      | 1        | 10       |       |
-| Aluminum Potentiometer Knob   | 5        | 30       |       |
+| Item                                 | Quantity | Received | Notes      |
+| ------------------------------------ | -------- | -------- | ---------- |
+| Aluminum Potentiometer Knob          | 4        | 30       |            |
+| PCB Mount Trim Potentiometer (50K)   | 1        | 10       |            |
+| Vertical Trim Potentiometer (B100K)  | 1        |          | 8 On Order |
+| Vertical Alpha Potentiometer (B100K) | 4        | 20       |            |
 
 ## Resistors
 
@@ -259,11 +261,11 @@ Quantities are for 1 Unit
 
 ## Potentiometers
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Trim Potentiometer (100K)     | 2        | 10       |       |
-| Vertical Potentiometer (100K) | 2        | 20       |       |
-| Aluminum Potentiometer Knob   | 2        | 30       |       |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Aluminum Potentiometer Knob          | 2        | 30       |       |
+| PCB Mount Trim Potentiometer (100K)  | 2        | 10       |       |
+| Vertical Alpha Potentiometer (B100K) | 2        | 20       |       |
 
 ## Resistors
 
@@ -317,11 +319,10 @@ Quantities are for 1 Unit
 
 ## Potentiometers
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Vertical Potentiometer (1M)   | 2        | 5        |       |
-| Vertical Potentiometer (100K) | 1        | 20       |       |
-| Aluminum Potentiometer Knob   | 3        | 30       |       |
+| Item                                | Quantity | Received | Notes      |
+| ----------------------------------- | -------- | -------- | ---------- |
+| Vertical Trim Potentiometer (A1M)   | 2        |          | 4 On Order |
+| Vertical Trim Potentiometer (A100K) | 1        |          | 2 On Order |
 
 ## Resistors
 
@@ -375,11 +376,11 @@ Quantities are for 1 Unit
 
 ## Potentiometers
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Vertical Potentiometer (100K) | 3        | 20       |       |
-| Trim Potentiometer (20K)      | 1        | 10       |       |
-| Aluminum Potentiometer Knob   | 3        | 30       |       |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Aluminum Potentiometer Knob          | 3        | 30       |       |
+| PCB Mount Trim Potentiometer (20K)   | 1        | 10       |       |
+| Vertical Alpha Potentiometer (B100K) | 3        | 20       |       |
 
 ## Resistors
 
