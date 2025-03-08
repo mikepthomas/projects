@@ -2,7 +2,7 @@
 title: Enraged Rabbit Carrot Feeder 2.0
 heading: Building a 8 channel Enraged Rabbit Carrot Feeder V2.0
 date: 2023-12-25T18:54:23.605Z
-lastmod: 2024-07-17T12:41:17.537Z
+lastmod: 2025-03-08T13:37:20.490Z
 author: Mike Thomas
 description: Building an Enraged Rabbit Carrot Feeder to print using multiple colours of filament on the Voron.
 preview: /assets/blog/enraged-rabbit-carrot-feeder-2.0/enraged-rabbit-carrot-feeder-2.0-hero.jpg
@@ -250,23 +250,25 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Misc
 
-| Item                             | Quantity | Received | Notes |
-| -------------------------------- | -------- | -------- | ----- |
-| 2.7mm zip ties                   | 4        |          |       |
-| 5.5 mm ball bearing              | 8        | 53       |       |
-| Bowden Clip                      | 16       | 16       |       |
-| Bowden Fitting                   | 16       | 16       |       |
-| PTFE Tube (4mm OD 3mm ID) - 30cm | 400mm    | 6m       |       |
+| Item                               | Quantity | Received | Notes                                                     |
+| ---------------------------------- | -------- | -------- | --------------------------------------------------------- |
+| 2.7mm zip ties                     | 4        |          |                                                           |
+| 5.5 mm ball bearing                | 8        | 53       |                                                           |
+| Bowden Clip                        | 16       | 16       |                                                           |
+| Bowden Fitting                     | 16       | 16       |                                                           |
+| PTFE Tube (4mm OD 3mm ID) - 30cm   | 400mm    | 6m       |                                                           |
+| 8mm aluminum rod with knurled ends | 223mm    |          | On Order, Metal replacement for printed part              |
+| 8mm knurled knobs                  | 2        |          | On Order, Injection Moulded replacement for printed parts |
 
 ## Printing Parts
 
 ### Axle
 
-| Item                                                                                                                                                       | Quantity | Material                                             | Printed | Notes            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ---------------- |
-| [Axle_8_Double_Thread](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_8_Double_Thread.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                  |
-| [Axle_Spacer](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_Spacer_Standard_xN.stl)       | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard version |
-| [Knut](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Knut_x2.stl)                              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                  |
+| Item                                                                                                                                                       | Quantity | Material                                             | Printed | Notes                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | -------------------------------------------------------- |
+| [Axle_8_Double_Thread](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_8_Double_Thread.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required as replaced with aluminium rod              |
+| [Axle_Spacer](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_Spacer_Standard_xN.stl)       | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard version                                         |
+| [Knut](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Knut_x2.stl)                              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required as replaced with injection moulded versions |
 
 ### Buffer Wheel
 
