@@ -8,18 +8,18 @@ description: This page lists all of the single board computers I own and is main
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
-   - /projects/macro-pi
-   - /projects/solar-wifi-weather-station
+  - /projects/macro-pi
+  - /projects/solar-wifi-weather-station
 draft: false
 tags:
-   - Computers
-   - Raspberry Pi
+  - Computers
+  - Raspberry Pi
 categories:
-   - Electronics
+  - Electronics
 keywords:
-   - Arduino
-   - Computers
-   - Raspberry Pi
+  - Arduino
+  - Computers
+  - Raspberry Pi
 ---
 
 # Table of contents
