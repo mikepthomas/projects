@@ -165,6 +165,9 @@ export default function Blog({ content, related }: Props) {
                 <li>
                   <Link href="cameras">Cameras</Link>
                 </li>
+                <li>
+                  <Link href="horology">Horology</Link>
+                </li>
               </ul>
             </div>
           </div>
