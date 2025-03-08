@@ -6,7 +6,7 @@ author: Mike Thomas
 description: How I built a custom watch with a NH36 movement.
 preview: /assets/blog/horology/watch-hero.jpg
 slug: /projects/horology
-draft: true
+draft: false
 tags:
   - Seiko
 categories:

@@ -1731,6 +1731,13 @@
               "alt": "3D render of the Voron StealthBurner Assembled"
             }
           }
+        },
+        "horology": {
+          "watch-hero.jpg": {
+            "title": "Watch Hero",
+            "caption": "",
+            "alt": "A collection of tools for watchmaking"
+          }
         }
       }
     }
