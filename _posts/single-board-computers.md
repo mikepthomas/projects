@@ -2,24 +2,24 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2024-09-29T20:17:50.645Z
+lastmod: 2025-03-08T13:37:28.167Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
-  - /projects/macro-pi
-  - /projects/solar-wifi-weather-station
+   - /projects/macro-pi
+   - /projects/solar-wifi-weather-station
 draft: false
 tags:
-  - Computers
-  - Raspberry Pi
+   - Computers
+   - Raspberry Pi
 categories:
-  - Electronics
+   - Electronics
 keywords:
-  - Arduino
-  - Computers
-  - Raspberry Pi
+   - Arduino
+   - Computers
+   - Raspberry Pi
 ---
 
 # Table of contents
@@ -69,6 +69,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | [BigTreeTech Pi V1.2](https://biqu.equipment/products/bigtreetech-btt-pi-v1-2)                                                                                                                            |                                                                                           |                       | [CB1](https://github.com/bigtreetech/CB1)                                                                       | With [U2C v1.0 CAN Adapter Module](https://docs.meteyou.wtf/btt-pi-u2c/) |
 | [BigTreeTech SKR V1.4](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3) | [Anet A8](printer)                                                                        | 8GB MicroSD (Sandisk) | [Marlin Firmware](https://marlinfw.org/)                                                                        | 3D printer Mainboard based on LPC1768                                    |
 | [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                                                 | [Voron 1.8](printer-voron-1.8)                                                            |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on LPC1769                                    |
+| [BigTreeTech SKR Mini E3 V2.0](https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-integrated-tmc2209-uart-for-ender-4)                                                     |                                                                                           |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   |                                                                          |
 | [BigTreeTech SKR Pico](https://bttwiki.com/SKR%20Pico.html)                                                                                                                                               | [Voron 0.2](printer-voron-0.2)                                                            |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech SKR Pico](https://bttwiki.com/SKR%20Pico.html)                                                                                                                                               |                                                                                           |                       | [Klipper Firmware](https://www.klipper3d.org)                                                                   | 3D printer Mainboard based on RP2040                                     |
 | [BigTreeTech U2C V1.1](https://docs.meteyou.wtf/btt-u2c-v1.x/)                                                                                                                                            |                                                                                           |                       | [CandleLight Firmware](https://github.com/candle-usb/candleLight_fw)                                            | CANBUS adapter to communicate with CAN Enabled 3D printer boards         |
@@ -1729,6 +1730,275 @@ GPIO28-45 VREF  (41) (42)  GPIO28-45 VREF
 For further information, please refer to https://pinout.xyz/
 ```
 
+## Raspberry Pi CM3 rev 1.0
+
+| Item                     | Revision | RAM | Case | Power Supply | Storage  | OS                                             | Hostname | Notes |
+| ------------------------ | -------- | --- | ---- | ------------ | -------- | ---------------------------------------------- | -------- | ----- |
+| Raspberry Pi CM3 rev 1.0 | a020a0   | 1GB |      |              | 4GB eMMC | Raspberry Pi OS Lite (Legacy, 32-bit) - Buster |          |       |
+
+### Pinout
+
+```
+Description        : Raspberry Pi CM3 rev 1.0
+Revision           : a020a0
+SoC                : BCM2837
+RAM                : 1GB
+Storage            : eMMC / off-board
+USB ports          : 1 (of which 0 USB3)
+Ethernet ports     : 0 (0Mbps max. speed)
+Wi-fi              : False
+Bluetooth          : False
+Camera ports (CSI) : 2
+Display ports (DSI): 2
+
++---------------------------------------+
+| O  Raspberry Pi CM3                 O |
+ )   Version 1.0     +---+             (
+|                    |SoC|              |
+ )                   +---+             (
+| O   _                               O |
+|||||| ||||||||||||||||||||||||||||||||||
+
+SODIMM:
+           GND   (1) (2)   EMMC DISABLE N
+         GPIO0   (3) (4)   NC / SDX VREF
+         GPIO1   (5) (6)   NC / SDX VREF
+           GND   (7) (8)   GND
+         GPIO2   (9) (10)  NC / SDX CLK
+         GPIO3  (11) (12)  NC / SDX CMD
+           GND  (13) (14)  GND
+         GPIO4  (15) (16)  NC / SDX D0
+         GPIO5  (17) (18)  NC / SDX D1
+           GND  (19) (20)  GND
+         GPIO6  (21) (22)  NC / SDX D2
+         GPIO7  (23) (24)  NC / SDX D3
+           GND  (25) (26)  GND
+         GPIO8  (27) (28)  GPIO28
+         GPIO9  (29) (30)  GPIO29
+           GND  (31) (32)  GND
+        GPIO10  (33) (34)  GPIO30
+        GPIO11  (35) (36)  GPIO31
+           GND  (37) (38)  GND
+ GPIO0-27 VREF  (39) (40)  GPIO0-27 VREF
+GPIO28-45 VREF  (41) (42)  GPIO28-45 VREF
+           GND  (43) (44)  GND
+        GPIO12  (45) (46)  GPIO32
+        GPIO13  (47) (48)  GPIO33
+           GND  (49) (50)  GND
+        GPIO14  (51) (52)  GPIO34
+        GPIO15  (53) (54)  GPIO35
+           GND  (55) (56)  GND
+        GPIO16  (57) (58)  GPIO36
+        GPIO17  (59) (60)  GPIO37
+           GND  (61) (62)  GND
+        GPIO18  (63) (64)  GPIO38
+        GPIO19  (65) (66)  GPIO39
+           GND  (67) (68)  GND
+        GPIO20  (69) (70)  GPIO40
+        GPIO21  (71) (72)  GPIO41
+           GND  (73) (74)  GND
+        GPIO22  (75) (76)  GPIO42
+        GPIO23  (77) (78)  GPIO43
+           GND  (79) (80)  GND
+        GPIO24  (81) (82)  GPIO44
+        GPIO25  (83) (84)  GPIO45
+           GND  (85) (86)  GND
+        GPIO26  (87) (88)  HDMI HPD N 1V8
+        GPIO27  (89) (90)  EMMC EN N 1V8
+           GND  (91) (92)  GND
+      DSI0 DN1  (93) (94)  DSI1 DP0
+      DSI0 DP1  (95) (96)  DSI1 DN0
+           GND  (97) (98)  GND
+      DSI0 DN0  (99) (100) DSI1 CP
+      DSI0 DP0 (101) (102) DSI1 CN
+           GND (103) (104) GND
+       DSI0 CN (105) (106) DSI1 DP3
+       DSI0 CP (107) (108) DSI1 DN3
+           GND (109) (110) GND
+     HDMI CK N (111) (112) DSI1 DP2
+     HDMI CK P (113) (114) DSI1 DN2
+           GND (115) (116) GND
+     HDMI D0 N (117) (118) DSI1 DP1
+     HDMI D0 P (119) (120) DSI1 DN1
+           GND (121) (122) GND
+     HDMI D1 N (123) (124) NC
+     HDMI D1 P (125) (126) NC
+           GND (127) (128) NC
+     HDMI D2 N (129) (130) NC
+     HDMI D2 P (131) (132) NC
+           GND (133) (134) GND
+      CAM1 DP3 (135) (136) CAM0 DP0
+      CAM1 DN3 (137) (138) CAM0 DN0
+           GND (139) (140) GND
+      CAM1 DP2 (141) (142) CAM0 CP
+      CAM1 DN2 (143) (144) CAM0 CN
+           GND (145) (146) GND
+       CAM1 CP (147) (148) CAM0 DP1
+       CAM1 CN (149) (150) CAM0 DN1
+           GND (151) (152) GND
+      CAM1 DP1 (153) (154) NC
+      CAM1 DN1 (155) (156) NC
+           GND (157) (158) NC
+      CAM1 DP0 (159) (160) NC
+      CAM1 DN0 (161) (162) NC
+           GND (163) (164) GND
+        USB DP (165) (166) TVDAC
+        USB DM (167) (168) USB OTGID
+           GND (169) (170) GND
+      HDMI CEC (171) (172) VC TRST N
+      HDMI SDA (173) (174) VC TDI
+      HDMI SCL (175) (176) VC TMS
+           RUN (177) (178) VC TDO
+      VDD CORE (179) (180) VC TCK
+           GND (181) (182) GND
+           1V8 (183) (184) 1V8
+           1V8 (185) (186) 1V8
+           GND (187) (188) GND
+          VDAC (189) (190) VDAC
+           3V3 (191) (192) 3V3
+           3V3 (193) (194) 3V3
+           GND (195) (196) GND
+          VBAT (197) (198) VBAT
+          VBAT (199) (200) VBAT
+
+For further information, please refer to https://pinout.xyz/
+```
+
+## Raspberry Pi CM3+ rev 1.0
+
+| Item                      | Revision | RAM | Case                                                                                              | Power Supply | Storage   | OS                                  | Hostname | Notes                                                       |
+| ------------------------- | -------- | --- | ------------------------------------------------------------------------------------------------- | ------------ | --------- | ----------------------------------- | -------- | ----------------------------------------------------------- |
+| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB | [Compute Module I/O Board V3.0](https://www.raspberrypi.com/products/compute-module-io-board-v3/) |              | 32GB eMMC | Raspberry Pi OS (64-bit) - Bookworm |          | With CMIO-DISPLAY V1.1 Adapter and CMIO-CAMERA V1.1 Adapter |
+| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB |                                                                                                   |              |           |                                     |          |                                                             |
+
+### Pinout
+
+```
+Description        : Raspberry Pi CM3+ rev 1.0
+Revision           : a02100
+SoC                : BCM2837
+RAM                : 1GB
+Storage            : eMMC / off-board
+USB ports          : 1 (of which 0 USB3)
+Ethernet ports     : 0 (0Mbps max. speed)
+Wi-fi              : False
+Bluetooth          : False
+Camera ports (CSI) : 2
+Display ports (DSI): 2
+
++---------------------------------------+
+| O  Raspberry Pi CM3+                O |
+ )   Version 1.0      ,---.            (
+|                     |SoC|             |
+ )                    `---'            (
+| O   _                               O |
+|||||| ||||||||||||||||||||||||||||||||||
+
+SODIMM:
+           GND   (1) (2)   EMMC DISABLE N
+         GPIO0   (3) (4)   NC / SDX VREF
+         GPIO1   (5) (6)   NC / SDX VREF
+           GND   (7) (8)   GND
+         GPIO2   (9) (10)  NC / SDX CLK
+         GPIO3  (11) (12)  NC / SDX CMD
+           GND  (13) (14)  GND
+         GPIO4  (15) (16)  NC / SDX D0
+         GPIO5  (17) (18)  NC / SDX D1
+           GND  (19) (20)  GND
+         GPIO6  (21) (22)  NC / SDX D2
+         GPIO7  (23) (24)  NC / SDX D3
+           GND  (25) (26)  GND
+         GPIO8  (27) (28)  GPIO28
+         GPIO9  (29) (30)  GPIO29
+           GND  (31) (32)  GND
+        GPIO10  (33) (34)  GPIO30
+        GPIO11  (35) (36)  GPIO31
+           GND  (37) (38)  GND
+ GPIO0-27 VREF  (39) (40)  GPIO0-27 VREF
+GPIO28-45 VREF  (41) (42)  GPIO28-45 VREF
+           GND  (43) (44)  GND
+        GPIO12  (45) (46)  GPIO32
+        GPIO13  (47) (48)  GPIO33
+           GND  (49) (50)  GND
+        GPIO14  (51) (52)  GPIO34
+        GPIO15  (53) (54)  GPIO35
+           GND  (55) (56)  GND
+        GPIO16  (57) (58)  GPIO36
+        GPIO17  (59) (60)  GPIO37
+           GND  (61) (62)  GND
+        GPIO18  (63) (64)  GPIO38
+        GPIO19  (65) (66)  GPIO39
+           GND  (67) (68)  GND
+        GPIO20  (69) (70)  GPIO40
+        GPIO21  (71) (72)  GPIO41
+           GND  (73) (74)  GND
+        GPIO22  (75) (76)  GPIO42
+        GPIO23  (77) (78)  GPIO43
+           GND  (79) (80)  GND
+        GPIO24  (81) (82)  GPIO44
+        GPIO25  (83) (84)  GPIO45
+           GND  (85) (86)  GND
+        GPIO26  (87) (88)  HDMI HPD N 1V8
+        GPIO27  (89) (90)  EMMC EN N 1V8
+           GND  (91) (92)  GND
+      DSI0 DN1  (93) (94)  DSI1 DP0
+      DSI0 DP1  (95) (96)  DSI1 DN0
+           GND  (97) (98)  GND
+      DSI0 DN0  (99) (100) DSI1 CP
+      DSI0 DP0 (101) (102) DSI1 CN
+           GND (103) (104) GND
+       DSI0 CN (105) (106) DSI1 DP3
+       DSI0 CP (107) (108) DSI1 DN3
+           GND (109) (110) GND
+     HDMI CK N (111) (112) DSI1 DP2
+     HDMI CK P (113) (114) DSI1 DN2
+           GND (115) (116) GND
+     HDMI D0 N (117) (118) DSI1 DP1
+     HDMI D0 P (119) (120) DSI1 DN1
+           GND (121) (122) GND
+     HDMI D1 N (123) (124) NC
+     HDMI D1 P (125) (126) NC
+           GND (127) (128) NC
+     HDMI D2 N (129) (130) NC
+     HDMI D2 P (131) (132) NC
+           GND (133) (134) GND
+      CAM1 DP3 (135) (136) CAM0 DP0
+      CAM1 DN3 (137) (138) CAM0 DN0
+           GND (139) (140) GND
+      CAM1 DP2 (141) (142) CAM0 CP
+      CAM1 DN2 (143) (144) CAM0 CN
+           GND (145) (146) GND
+       CAM1 CP (147) (148) CAM0 DP1
+       CAM1 CN (149) (150) CAM0 DN1
+           GND (151) (152) GND
+      CAM1 DP1 (153) (154) NC
+      CAM1 DN1 (155) (156) NC
+           GND (157) (158) NC
+      CAM1 DP0 (159) (160) NC
+      CAM1 DN0 (161) (162) NC
+           GND (163) (164) GND
+        USB DP (165) (166) TVDAC
+        USB DM (167) (168) USB OTGID
+           GND (169) (170) GND
+      HDMI CEC (171) (172) VC TRST N
+      HDMI SDA (173) (174) VC TDI
+      HDMI SCL (175) (176) VC TMS
+           RUN (177) (178) VC TDO
+      VDD CORE (179) (180) VC TCK
+           GND (181) (182) GND
+           1V8 (183) (184) 1V8
+           1V8 (185) (186) 1V8
+           GND (187) (188) GND
+          VDAC (189) (190) VDAC
+           3V3 (191) (192) 3V3
+           3V3 (193) (194) 3V3
+           GND (195) (196) GND
+          VBAT (197) (198) VBAT
+          VBAT (199) (200) VBAT
+
+For further information, please refer to https://pinout.xyz/
+```
+
 ## Raspberry Pi CM4 rev 1.0
 
 | Item                     | Revision | RAM | Case                                                   | Power Supply | Storage   | OS                                  | Hostname | Notes                                                                                                                 |
@@ -1938,6 +2208,8 @@ For further information, please refer to https://pinout.xyz/
 | Raspberry Pi Pico W                 | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller)   | In original packaging           |
 | Raspberry Pi Pico WH                |                                                                                                             | [ESPHome](https://esphome.io/)                                               | Boxed                           |
 | Raspberry Pi Pico 2                 |                                                                                                             |                                                                              | In original packaging           |
+| Raspberry Pi Pico 2                 |                                                                                                             |                                                                              | In original packaging           |
+| Raspberry Pi Pico 2W                |                                                                                                             |                                                                              | In original packaging           |
 | Raspberry Pi RP2040 Microcontroller |                                                                                                             |                                                                              | Bare Chip in original packaging |
 
 ```
