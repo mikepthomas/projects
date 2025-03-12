@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-02-27T23:20:54.933Z
+lastmod: 2025-03-12T18:51:38.372Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/keystep-pro.jpg
@@ -40,6 +40,8 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 | Item                                   | Quantity                   | Received | Notes                                                                                                                                                       |
 | -------------------------------------- | -------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16-16 pin Power Cable                  | 5                          | 10       | 30cm length                                                                                                                                                 |
+| 6HP Eurorack Prototype Kit             | 5                          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/)                                                  |
 | Befaco Bananuts (Black)                | 25                         | 25       |                                                                                                                                                             |
 | Befaco Bananuts (Red)                  | 25                         | 25       |                                                                                                                                                             |
 | Befaco Bananuts Wrench Tool            | 1                          | 1        |                                                                                                                                                             |
@@ -47,10 +49,9 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 | Befaco Squid Cable                     | 1                          | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Thonk Logo)     | 1 x 2HP                    | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Circuit Design) | Set of 7                   | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
+| M3 Nylon Screws                        | 40                         | 43       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                                              |
 | M3 Threaded Strip Insert 84HP          | 4 (6 including dust cover) | 6        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP)                               |
 | Mean Well RT65B Power Supply           | 1                          | 1        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b/)                                                |
-| 16-16 pin Power Cable                  | 5                          | 10       | 30cm length                                                                                                                                                 |
-| M3 Nylon Screws                        | 40                         | 43       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                                              |
 
 ## Printing Parts
 
@@ -105,13 +106,19 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | [Button](https://www.thingiverse.com/thing:3631288/files)  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 | [Panel](https://www.thingiverse.com/thing:3631288/files)   | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 
-# Voltage Controlled Oscillator (VCO)
+# EDU DIY System
 
-[Moritz Klein's VCO Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTuGCyC3qvx0RM39YvopVQN)
+## Voltage Controlled Oscillator (VCO)
+
+[Moritz Klein's DIY VCO Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTuGCyC3qvx0RM39YvopVQN)
 
 > Videos © 2020 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-## Capacitors
+### Parts
+
+Quantities are for 1 Unit.
+
+#### Capacitors
 
 | Item                          | Quantity | Received | Notes |
 | ----------------------------- | -------- | -------- | ----- |
@@ -120,14 +127,14 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | Ceramic Capacitor (100NF)     | 5        | 100      |       |
 | Film Capacitor (2.2NF)        | 1        | 20       |       |
 
-## Diodes
+#### Diodes
 
 | Item                   | Quantity | Received | Notes                                                                                                          |
 | ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
 | Signal Diode (1N4148)  | 1        | 25       |                                                                                                                |
 | Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 
-## Integrated Circuits
+#### Integrated Circuits
 
 | Item                                   | Quantity | Received | Notes |
 | -------------------------------------- | -------- | -------- | ----- |
@@ -137,7 +144,7 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | Hex Schmitt-Trigger Inverter (CD40106) | 1        | 10       |       |
 | 14 Pin DIP Sockets                     | 2        | 10       |       |
 
-## Potentiometers
+#### Potentiometers
 
 | Item                                 | Quantity | Received | Notes      |
 | ------------------------------------ | -------- | -------- | ---------- |
@@ -148,7 +155,7 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | Vertical Alpha Potentiometer (B250K) | 1        | 5        |            |
 | Vertical Alpha Potentiometer (B1M)   | 1        | 5        |            |
 
-## Resistors
+#### Resistors
 
 | Item                       | Quantity | Received | Notes                               |
 | -------------------------- | -------- | -------- | ----------------------------------- |
@@ -162,23 +169,163 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | Metal Film resistor (1K)   | 2        | 100      |                                     |
 | Metal Film resistor (10R)  | 2        | 100      |                                     |
 
-## Misc
+#### Misc
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 6HP Eurorack Prototype Kit | 1        | 1        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
-| 10K thermistor             | 4        | 20       |                                                                                                            |
-| Mono Audio Jack            | 5        | 30       |                                                                                                            |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| 10K thermistor  | 4        | 20       |       |
+| Mono Audio Jack | 5        | 30       |       |
 
-# Voltage Controlled Filter (VCF)
+### :white_check_mark: Assembly
 
-[Moritz Klein's VCF Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvT1PAqW4TtvxtRoXyk741WM)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/)
+
+## Voltage Controlled Amplifier (VCA)
+
+[Moritz Klein's DIY VCA Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
+
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Quantities are for 1 Unit.
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Ceramic Capacitor (100NF)     | 6        | 100      |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 4        | 100      |       |
+| Op Amp Dual (TL072)    | 2        | 10       |       |
+| 8 Pin DIP Sockets      | 2        | 15       |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Aluminum Potentiometer Knob          | 2        | 30       |       |
+| PCB Mount Trim Potentiometer (100K)  | 2        | 10       |       |
+| Vertical Alpha Potentiometer (B100K) | 2        | 20       |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 12       | 100      |       |
+| Metal Film resistor (82K)  | 2        | 100      |       |
+| Metal Film resistor (20K)  | 6        | 100      |       |
+| Metal Film resistor (10K)  | 6        | 100      |       |
+| Metal Film resistor (1K)   | 2        | 100      |       |
+| Metal Film resistor (100R) | 4        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 6        | 30       |       |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/)
+
+## Envelope Generator (EG)
+
+[Moritz Klein's DIY Envelope Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
+
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Quantities are for 1 Unit, Kit contains 2.
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 2        | 10       |       |
+| Ceramic Capacitor (100NF)     | 8        | 100      |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 1        | 100      |       |
+| Op Amp Dual (TL072)    | 3        | 10       |       |
+| 8 Pin DIP Sockets      | 3        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes      |
+| ----------------------------------- | -------- | -------- | ---------- |
+| Vertical Trim Potentiometer (A1M)   | 2        |          | 4 On Order |
+| Vertical Trim Potentiometer (A100K) | 1        |          | 2 On Order |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 10       | 100      |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (10K)  | 1        | 100      |       |
+| Metal Film resistor (1K)   | 2        | 100      |       |
+| Metal Film resistor (470R) | 1        | 100      |       |
+| Metal Film resistor (100R) | 1        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| SPDT Switch     | 1        | 1        |       |
+| 3mm Red LED     | 1        | 1        |       |
+| Mono Audio Jack | 3        | 30       |       |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg/)
+
+## Sequencer
+
+[Moritz Klein's DIY Sequencer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTHwcS4WTlPvKXeUkZC5TpG)
+
+> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :wrench: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
+
+## Voltage Controlled Filter (VCF)
+
+[Moritz Klein's DIY VCF Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvT1PAqW4TtvxtRoXyk741WM)
 
 > Videos © 2020 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-Quantities are for 1 Unit
+### Parts
 
-## Capacitors
+Quantities are for 1 Unit.
+
+#### Capacitors
 
 | Item                          | Quantity | Received | Notes |
 | ----------------------------- | -------- | -------- | ----- |
@@ -187,21 +334,21 @@ Quantities are for 1 Unit
 | Ceramic Capacitor (100NF)     | 6        | 100      |       |
 | Film Capacitor (1NF)          | 5        | 20       |       |
 
-## Diodes
+#### Diodes
 
 | Item                   | Quantity | Received | Notes                                                                                                          |
 | ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
 | Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 | Signal Diode (1N4148)  | 9        | 25       |                                                                                                                |
 
-## Integrated Circuits
+#### Integrated Circuits
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
 | Op Amp Quad (TL074) | 2        | 10       |       |
 | 14 Pin DIP Sockets  | 2        | 10       |       |
 
-## Potentiometers
+#### Potentiometers
 
 | Item                                 | Quantity | Received | Notes      |
 | ------------------------------------ | -------- | -------- | ---------- |
@@ -210,7 +357,7 @@ Quantities are for 1 Unit
 | Vertical Trim Potentiometer (B100K)  | 1        |          | 8 On Order |
 | Vertical Alpha Potentiometer (B100K) | 4        | 20       |            |
 
-## Resistors
+#### Resistors
 
 | Item                       | Quantity | Received | Notes                               |
 | -------------------------- | -------- | -------- | ----------------------------------- |
@@ -223,158 +370,48 @@ Quantities are for 1 Unit
 | Metal Film resistor (1K)   | 3        | 100      |                                     |
 | Metal Film resistor (10R)  | 2        | 100      |                                     |
 
-## Misc
+#### Misc
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 6HP Eurorack Prototype Kit | 1        | 1        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
-| Mono Audio Jack            | 4        | 30       |                                                                                                            |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 4        | 30       |       |
 
-# Voltage Controlled Amplifier (VCA)
+### :white_check_mark: Assembly
 
-[Moritz Klein's VCA Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCF_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vcf/)
 
-> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+## Mixer
 
-Quantities are for 1 Unit
-
-## Capacitors
-
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 6        | 100      |       |
-
-## Diodes
-
-| Item                   | Quantity | Received | Notes                                                                                                          |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
-
-## Integrated Circuits
-
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Transistor NPN (BC548) | 4        | 100      |       |
-| Op Amp Dual (TL072)    | 2        | 10       |       |
-| 8 Pin DIP Sockets      | 2        | 15       |       |
-
-## Potentiometers
-
-| Item                                 | Quantity | Received | Notes |
-| ------------------------------------ | -------- | -------- | ----- |
-| Aluminum Potentiometer Knob          | 2        | 30       |       |
-| PCB Mount Trim Potentiometer (100K)  | 2        | 10       |       |
-| Vertical Alpha Potentiometer (B100K) | 2        | 20       |       |
-
-## Resistors
-
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (100K) | 12       | 100      |       |
-| Metal Film resistor (82K)  | 2        | 100      |       |
-| Metal Film resistor (20K)  | 6        | 100      |       |
-| Metal Film resistor (10K)  | 6        | 100      |       |
-| Metal Film resistor (1K)   | 2        | 100      |       |
-| Metal Film resistor (100R) | 4        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
-
-## Misc
-
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 6HP Eurorack Prototype Kit | 1        | 1        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
-| Mono Audio Jack            | 6        | 30       |                                                                                                            |
-
-# Envelope Generator (EG)
-
-[Moritz Klein's Envelope Generator Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
-
-> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-Quantities are for 1 Unit
-
-## Capacitors
-
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Film Capacitor (1uF)          | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 8        | 100      |       |
-
-## Diodes
-
-| Item                   | Quantity | Received | Notes                                                                                                          |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
-| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
-
-## Integrated Circuits
-
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Transistor NPN (BC548) | 1        | 100      |       |
-| Op Amp Dual (TL072)    | 3        | 10       |       |
-| 8 Pin DIP Sockets      | 3        | 15       |       |
-
-## Potentiometers
-
-| Item                                | Quantity | Received | Notes      |
-| ----------------------------------- | -------- | -------- | ---------- |
-| Vertical Trim Potentiometer (A1M)   | 2        |          | 4 On Order |
-| Vertical Trim Potentiometer (A100K) | 1        |          | 2 On Order |
-
-## Resistors
-
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (100K) | 10       | 100      |       |
-| Metal Film resistor (47K)  | 1        | 100      |       |
-| Metal Film resistor (10K)  | 1        | 100      |       |
-| Metal Film resistor (1K)   | 2        | 100      |       |
-| Metal Film resistor (470R) | 1        | 100      |       |
-| Metal Film resistor (100R) | 1        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
-
-## Misc
-
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 6HP Eurorack Prototype Kit | 1        | 1        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
-| SPDT Switch                | 1        | 1        |                                                                                                            |
-| 3mm Red LED                | 1        | 1        |                                                                                                            |
-| Mono Audio Jack            | 3        | 30       |                                                                                                            |
-
-# Mixer
-
-[Moritz Klein's Mixer Video Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
+[Moritz Klein's DIY Mixer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-Quantities are for 1 Unit
+### Parts
 
-## Capacitors
+Quantities are for 1 Unit, Kit contains 1 and [Drums Bundle](#edu-diy-drums-bundle) contans a second.
+
+#### Capacitors
 
 | Item                          | Quantity | Received | Notes |
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
 | Ceramic Capacitor (100NF)     | 6        | 100      |       |
 
-## Diodes
+#### Diodes
 
 | Item                   | Quantity | Received | Notes                                                                                                          |
 | ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
 | Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 | Signal Diode (1N4148)  | 2        | 25       |                                                                                                                |
 
-## Integrated Circuits
+#### Integrated Circuits
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
 | Op Amp Dual (TL072) | 2        | 10       |       |
 | 8 Pin DIP Sockets   | 2        | 15       |       |
 
-## Potentiometers
+#### Potentiometers
 
 | Item                                 | Quantity | Received | Notes |
 | ------------------------------------ | -------- | -------- | ----- |
@@ -382,7 +419,7 @@ Quantities are for 1 Unit
 | PCB Mount Trim Potentiometer (20K)   | 1        | 10       |       |
 | Vertical Alpha Potentiometer (B100K) | 3        | 20       |       |
 
-## Resistors
+#### Resistors
 
 | Item                       | Quantity | Received | Notes |
 | -------------------------- | -------- | -------- | ----- |
@@ -391,9 +428,68 @@ Quantities are for 1 Unit
 | Metal Film resistor (1K)   | 3        | 100      |       |
 | Metal Film resistor (10R)  | 2        | 100      |       |
 
-## Misc
+#### Misc
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 6HP Eurorack Prototype Kit | 1        | 1        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
-| Mono Audio Jack            | 6        | 30       |                                                                                                            |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 6        | 30       |       |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer/)
+
+## Noise/Sample & Hold (S&H)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SH_MANUAL_v1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-noisesh/)
+
+## Output
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output/)
+
+## Wavefolder
+
+[Moritz Klein's DIY Wavefolder Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvREnUuLIMsN1OTiXo5j6B8y)
+
+> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/WAVEFOLDER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-wavefolder/)
+
+# EDU DIY Drums Bundle
+
+[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQZb-Zapy-OnCdbzCdM2R4-)
+
+> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+## Kick Drum
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/KICKDRUM_MANUAL_5wVQsEK.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-kick-drum/)
+
+## Snare Drum
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum/)
+
+## Hi-Hat
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/HIHAT_MANUAL_1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-hi-hat/)
+
+## Compressor
+
+[Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
+
+> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor/)
