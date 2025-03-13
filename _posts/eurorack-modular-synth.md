@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-12T18:51:38.372Z
+lastmod: 2025-03-13T18:49:05.294Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/keystep-pro.jpg
@@ -311,7 +311,9 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-### :wrench: Assembly
+### :white_check_mark: Assembly
+
+![Soldering components onto the Sequencer PCB](/assets/blog/eurorack-modular-synth/sequencer-build.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
 
