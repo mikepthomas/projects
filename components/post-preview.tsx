@@ -11,6 +11,7 @@ type Props = {
   title: string;
   coverImage: string;
   date: string;
+  lastmod: string;
   description: string;
   author: Author;
   slug: string;
@@ -20,6 +21,7 @@ const PostPreview = ({
   title,
   coverImage,
   date,
+  lastmod,
   description,
   author,
   slug,
@@ -36,7 +38,14 @@ const PostPreview = ({
       </h3>
       <div className="text-lg mb-4">
         <FontAwesomeIcon className="mr-2" icon={['fas', 'calendar-day']} />
-        <DateFormatter dateString={date} />
+        Created <DateFormatter dateString={date} />
+        {lastmod ? (
+          <>
+            , last modified <DateFormatter dateString={lastmod} />
+          </>
+        ) : (
+          ''
+        )}
       </div>
       <p className="text-lg leading-relaxed mb-4">{description}</p>
       <Avatar name={author.name} picture={author.picture} />
