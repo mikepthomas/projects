@@ -37,6 +37,65 @@ export default function Cards({ promotedPosts }: Props) {
   return (
     <>
       <Container>
+        <h2 className="mb-3" id="electronics-projects">
+          Electronics projects
+        </h2>
+        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+          {promotedPosts
+            .filter((post) => post.categories.includes('Electronics'))
+            .map((post, index) => (
+              <Col key={index}>
+                <Card
+                  name={post.title}
+                  link={`${PROJECTS_PATH}/${post.slug}`}
+                  image={post.preview}
+                >
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
+        </Row>
+        <hr />
+      </Container>
+      <Container>
+        <h2 className="mb-3" id="3d-printers">
+          3D printers
+        </h2>
+        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+          {promotedPosts
+            .filter((post) => post.categories.includes('3D Printer'))
+            .map((post, index) => (
+              <Col key={index}>
+                <Card name={post.title} link={`${PROJECTS_PATH}/${post.slug}`}>
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
+        </Row>
+        <hr />
+      </Container>
+      <Container>
+        <h2 className="mb-3" id="3d-printing-projects">
+          3D printing projects
+        </h2>
+        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+          {promotedPosts
+            .filter((post) => post.categories.includes('3D Printing'))
+            .map((post, index) => (
+              <Col key={index}>
+                <Card
+                  name={post.title}
+                  link={`${PROJECTS_PATH}/${post.slug}`}
+                  image={post.preview}
+                >
+                  {post.description}
+                </Card>
+              </Col>
+            ))}
+        </Row>
+        <hr />
+      </Container>
+      <Container>
         <h2 className="mb-3" id="software-projects">
           Software projects
         </h2>
@@ -83,65 +142,6 @@ export default function Cards({ promotedPosts }: Props) {
               Interface in a Folding@Home v7 Client.
             </Card>
           </Col>
-        </Row>
-        <hr />
-      </Container>
-      <Container>
-        <h2 className="mb-3" id="3d-printing-projects">
-          3D printing projects
-        </h2>
-        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
-          {promotedPosts
-            .filter((post) => post.categories.includes('3D Printing'))
-            .map((post, index) => (
-              <Col key={index}>
-                <Card
-                  name={post.title}
-                  link={`${PROJECTS_PATH}/${post.slug}`}
-                  image={post.preview}
-                >
-                  {post.description}
-                </Card>
-              </Col>
-            ))}
-        </Row>
-        <hr />
-      </Container>
-      <Container>
-        <h2 className="mb-3" id="3d-printers">
-          3D printers
-        </h2>
-        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
-          {promotedPosts
-            .filter((post) => post.categories.includes('3D Printer'))
-            .map((post, index) => (
-              <Col key={index}>
-                <Card name={post.title} link={`${PROJECTS_PATH}/${post.slug}`}>
-                  {post.description}
-                </Card>
-              </Col>
-            ))}
-        </Row>
-        <hr />
-      </Container>
-      <Container>
-        <h2 className="mb-3" id="electronics-projects">
-          Electronics projects
-        </h2>
-        <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
-          {promotedPosts
-            .filter((post) => post.categories.includes('Electronics'))
-            .map((post, index) => (
-              <Col key={index}>
-                <Card
-                  name={post.title}
-                  link={`${PROJECTS_PATH}/${post.slug}`}
-                  image={post.preview}
-                >
-                  {post.description}
-                </Card>
-              </Col>
-            ))}
         </Row>
         <hr />
       </Container>
