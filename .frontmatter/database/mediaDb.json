@@ -536,15 +536,7 @@
             "alt": "BigTreeTech Pi with Rubber Duck",
             "title": "BigTreeTech Pi"
           },
-          "odroid-cloudshell2.jpg": {
-            "alt": "NAS based on an Odroid XU4",
-            "title": "Odroid CloudShell 2"
-          },
           "chip.jpg": { "alt": "$9 Bag of Chip", "title": "Chip" },
-          "raspberry-pi-zero-cluster.jpg": {
-            "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
-            "title": "Raspberry Pi Zero Cluster"
-          },
           "raspberry-pi-1.jpg": {
             "alt": "OCR Education Kit for Raspberry Pi",
             "title": "Raspberry Pi 1"
@@ -552,18 +544,6 @@
           "original-raspberry-pi-1.jpg": {
             "alt": "My Original Raspberry Pi 1",
             "title": "Original Raspberry Pi 1"
-          },
-          "raspberry-pi-2-cluster.jpg": {
-            "alt": "My original Raspberry Pi cluster",
-            "title": "Raspberry Pi 2 Cluster"
-          },
-          "flight-tracker.jpg": {
-            "alt": "FlightAware setup for tracking aircraft",
-            "title": "Flight Tracker"
-          },
-          "raspberry-pi-3-cluster.jpg": {
-            "alt": "Updated Raspberry Pi cluster for Docker Swarm",
-            "title": "Raspberry Pi 3 Cluster"
           },
           "pi400.jpg": {
             "alt": "My Raspberry Pi 400 setup on my desk",
@@ -592,10 +572,6 @@
           "party-in-the-back.jpg": {
             "title": "Party In The Back",
             "alt": "A small 3D Printer mainboard with some big stepper drivers "
-          },
-          "pikvm.jpg": {
-            "title": "PiKVM",
-            "alt": "A Raspberry Pi powered KVM Switch"
           },
           "wifi-arduino-85.jpg": {
             "title": "Wifi Arduino 85",
@@ -1739,9 +1715,44 @@
         },
         "horology": {
           "watch-hero.jpg": {
-            "title": "Watch Hero",
-            "caption": "",
-            "alt": "A collection of tools for watchmaking"
+            "alt": "A collection of tools for watchmaking",
+            "title": "Watch Hero"
+          }
+        },
+        "homelab": {
+          "homelab-hero.jpg": {
+            "alt": "The off bunch of machines I run my homelab from",
+            "title": "Homelab Hero"
+          },
+          "flight-tracker.jpg": {
+            "alt": "FlightAware setup for tracking aircraft",
+            "title": "Flight Tracker"
+          },
+          "pikvm.jpg": {
+            "title": "PiKVM",
+            "alt": "A Raspberry Pi powered KVM Switch"
+          },
+          "odroid-cloudshell2.jpg": {
+            "alt": "NAS based on an Odroid XU4",
+            "title": "Odroid CloudShell 2"
+          },
+          "raspberry-pi-2-cluster.jpg": {
+            "alt": "My original Raspberry Pi cluster",
+            "title": "Raspberry Pi 2 Cluster"
+          },
+          "raspberry-pi-3-cluster.jpg": {
+            "alt": "Updated Raspberry Pi cluster for Docker Swarm",
+            "title": "Raspberry Pi 3 Cluster"
+          },
+          "raspberry-pi-zero-cluster.jpg": {
+            "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
+            "title": "Raspberry Pi Zero Cluster"
+          }
+        },
+        "thinkcenter": {
+          "thinkcenter-hero.jpg": {
+            "alt": "My old \"Lenny\" server",
+            "title": "Thinkcenter Hero"
           }
         }
       }

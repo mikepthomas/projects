@@ -155,12 +155,7 @@ export default function Blog({ content, related }: Props) {
                   <Link href="printer-klipper-fan-hat">Klipper Fan Hat</Link>
                 </li>
                 <li>
-                  <Link href="single-board-computers">
-                    Single Board Computers
-                  </Link>
-                </li>
-                <li>
-                  <Link href="thinkpad">Thinkpad</Link>
+                  <Link href="homelab">Homelab</Link>
                 </li>
                 <li>
                   <Link href="cameras">Cameras</Link>

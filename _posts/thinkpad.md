@@ -2,18 +2,23 @@
 title: Thinkpads
 heading: Adventures with Thinkpads
 date: 2017-11-13
-lastmod: 2024-08-30T13:03:23.981Z
+lastmod: 2025-03-14T23:22:38.962Z
 author: Mike Thomas
 description: The many tinkerings with the internals of an X220 Thinkpad.
 preview: /assets/blog/thinkpad/thinkpad-hero.jpg
 slug: /projects/thinkpad
+related:
+  - /projects/thinkcenter
 draft: false
 tags:
   - Computers
   - Raspberry Pi
 categories:
+  - Electronics
   - Software
 keywords:
+  - Computers
+  - Lenovo
   - Thinkpad
 ---
 
@@ -82,6 +87,60 @@ And whilst I was at it I replaced the 4G Modem in the other laptop with an SSD t
 ## Memory
 
 I have now also updated both machines with the maximum that they support. 16GB of Crucial memory in the laptop with a Crucial SSD and 16GB of Samsung memory in the machine with a Samsung SSD.
+
+# The Machines
+
+I have recently won another Ebay auction for £42.26 that contained 2 X230s and another X220.
+
+## X220
+
+| CPU      | Case                        | Flashed with                                                                                            | Bluetooth    | Wifi                           | Extra                        | HDD                     | Memory                               |
+| -------- | --------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------ | ---------------------------- | ----------------------- | ------------------------------------ |
+| i7-2620M | Complete, IPS Panel         | [Modified BIOS v1.46](https://www.mediafire.com/file/egzdbbm54a5jkqf/X220_v1.46_Modified_BIOS.zip/file) | Broadcom 3.0 | Dell DW1510 (For macOS)        | 240GB Crucial M500 mSATA SSD | 128GB Crucial MX100 SSD | 16GB Crucial Mac 1600MHz             |
+| i7-2640M | Complete, IPS Panel         | [Modified BIOS v1.46](https://www.mediafire.com/file/egzdbbm54a5jkqf/X220_v1.46_Modified_BIOS.zip/file) | Broadcom 4.0 | Intel Centrino Advanced-N 6205 | Ericsson 4G Modem            | 256GB Crucial M550 SSD  | 16GB Crucial Ballistix Sport 1600MHz |
+| i5-2520M | Complete, TN Panel          | Libreboot (Original Stock BIOS v1.31)                                                                   | Broadcom 3.0 | Atheros AR5B95 (For Trisquel)  |                              | 320GB Hitachi HDD       | 8GB Samsung 1333MHz                  |
+| i5-2540M | Broken IPS Panel, No Webcam |                                                                                                         |              |                                |                              |                         | 8GB Crucial 1333MHz                  |
+
+## X230
+
+| CPU      | Case               | Flashed with     | Bluetooth    | Wifi                           | Extra | HDD                | Memory                                   |
+| -------- | ------------------ | ---------------- | ------------ | ------------------------------ | ----- | ------------------ | ---------------------------------------- |
+| i5-3320M | Complete, TN Panel | Stock BIOS v2.77 | Broadcom 4.0 | Intel Centrino Advanced-N 6205 |       |                    | 8GB Hynix 1600MHz                        |
+| i5-3320M | Complete, TN Panel | Stock BIOS v2.77 | Broadcom 4.0 | Intel Centrino Advanced-N 6205 |       | 500GB Seagate SSHD | 4GB Samsung 1600MHz & 4GB Micron 1600MHz |
+
+## Batteries
+
+### Big X220
+
+| Item        | Type | Full Charge Capacity | Cycle Count |
+| ----------- | ---- | -------------------- | ----------- |
+| 1ZJBF22E2KF | 29++ | 10.81 Wh             | 329         |
+| 1ZJBF24J0L8 | 29++ | 77.49 Wh             | 85          |
+| 1ZKFT27R43W | 44++ | 68.87 Wh             | 511         |
+
+### Small X220
+
+| Item        | Type | Full Charge Capacity | Cycle Count |
+| ----------- | ---- | -------------------- | ----------- |
+| 1ZJRJ17650D | 29+  | 54.75 Wh             | 94          |
+| 1ZKFS2541BX | 44+  | 38.81 Wh             | 102         |
+
+### Small X230
+
+| Item        | Type | Full Charge Capacity | Cycle Count |
+| ----------- | ---- | -------------------- | ----------- |
+| 1ZS1333DB9A | 44+  | 53 Wh                | 136         |
+| 1ZS133AWAP9 | 44+  | 58.41 Wh             | 234         |
+
+## Spares
+
+- Atheros AR5B95 (For Trisquel)
+- Dell DW1510 (For macOS)
+- Intel Centrino Advanced-N 6205
+- Intel Centrino Wireless-N 1000
+- Ericsson 4G Modem
+- 128GB Samsung mSATA SSD
+- 128GB Samsung mSATA SSD
 
 # BIOS Flashing
 
