@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-19T16:37:35.297Z
+lastmod: 2025-03-19T23:18:34.929Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -34,70 +34,55 @@ I wanted something that I could connect up to a computer via USB to use software
 | ----------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------- |
 | KeyStep Pro | 1        | 1        | The Special Black Edition I purchased also came with 14 CV/Gate cables for connecting to the eurorack modules |
 
-# Eurorack Case and Power
-
-I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables](https://www.printables.com/model/203562)
-
-## Sourcing Parts
-
-| Item                                   | Quantity                   | Received | Notes                                                                                                                                                       |
-| -------------------------------------- | -------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 16-16 pin Power Cable                  | 5                          | 10       | 30cm length                                                                                                                                                 |
-| Befaco Bananuts (Black)                | 25                         | 25       |                                                                                                                                                             |
-| Befaco Bananuts (Red)                  | 25                         | 25       |                                                                                                                                                             |
-| Befaco Bananuts Wrench Tool            | 1                          | 1        |                                                                                                                                                             |
-| Befaco Passive Bus                     | 1                          | 1        |                                                                                                                                                             |
-| Befaco Squid Cable                     | 1                          | 1        |                                                                                                                                                             |
-| Eurorack Blank Panels (Thonk Logo)     | 1 x 2HP                    | 1        |                                                                                                                                                             |
-| Eurorack Blank Panels (Circuit Design) | Set of 7                   | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
-| M3 Nylon Screws                        | 40                         | 42       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                                              |
-| M3 Threaded Strip Insert 84HP          | 4 (6 including dust cover) | 6        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP)                               |
-| Mean Well RT65B Power Supply           | 1                          | 1        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b/)                                                |
-
-## Printing Parts
-
-### Case
-
-| Item                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [SP110HPRC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H25GM](https://www.printables.com/model/203562/files)  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP110HPLC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H10C](https://www.printables.com/model/203562/files)   | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H10 v6](https://www.printables.com/model/203562/files) | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-
-### Dust Cover
-
-| Item                                                                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes                                                                                 |
-| ---------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------- |
-| [SP1CapRC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1CapLC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1Cap10](https://www.printables.com/model/203562/files)                                                  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1Cap25](https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself by extending SP1Cap10 |
-
 # Parts For Testing
 
-To test eurorack modules, I originally planned on building them up on a breadboard, [powered by 2 9V Batteries](https://www.youtube.com/watch?v=QBatvo8bCa4&t=1145s).
-However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor/) that I will use to power and test the modules.
+## Breadboard
+
+To test eurorack modules, I originally planned on building them up on a breadboard, powered by 2 9V Batteries.
+However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#labor) that I will use to power and test the modules.
+
+[Moritz Klein's Breadboard Basics Video](https://www.youtube-nocookie.com/embed/XpMZoR3fgd0?si=k-qhaluHhLYVeLpG)
+
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Sourcing Parts
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| 9V Battery                 | 2        | 2        |       |
+| 9V Battery Connector       | 2        | 6        |       |
+| Breadboard                 | 1        | 1        |       |
+| Digital Multimeter         | 1        | 1        |       |
+| Solid Core Wire Jumper Kit | 1        | 2        |       |
+
+## Labor
 
 [Erica Synths EDU DIY Labor](https://www.youtube-nocookie.com/embed/QyapQpQOwUM)
 
 > Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
+### Parts
+
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Erica Synths EDU DIY Labor Full Kit | 1        | 1        |       |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/LABOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor/)
+
+## Oscilloscope
+
 I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack Module](https://www.thingiverse.com/thing:3631288). I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
 
-## Sourcing Parts
+### Sourcing Parts
 
 | Item                                   | Quantity | Received | Notes |
 | -------------------------------------- | -------- | -------- | ----- |
-| 9V Battery                             | 2        | 2        |       |
-| 9V Battery Connector                   | 2        | 6        |       |
-| Breadboard                             | 1        | 1        |       |
 | DIY 2.4" inch LCD Digital Oscilloscope | 1        | 1        |       |
-| Erica Synths EDU DIY Labor Full Kit    | 1        | 1        |       |
 | MT3608 DC-DC Boost Converter           | 1        | 1        |       |
 
-## Printing Parts
+### Printing Parts
 
 | Item                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
 | ---------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -107,7 +92,111 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | [Button](https://www.thingiverse.com/thing:3631288/files)  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 | [Panel](https://www.thingiverse.com/thing:3631288/files)   | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 
-# EDU DIY System
+# Eurorack Case
+
+I plan on 3D Printing a case to house the [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](#edu-diy-drums-bundle) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
+
+## Accessories
+
+### Sourcing Parts
+
+| Item                                   | Quantity | Received | Notes                                                                                                                                                       |
+| -------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Befaco Bananuts (Black)                | 25       | 25       |                                                                                                                                                             |
+| Befaco Bananuts (Red)                  | 25       | 25       |                                                                                                                                                             |
+| Befaco Bananuts Wrench Tool            | 1        | 1        |                                                                                                                                                             |
+| Befaco Squid Cable                     | 1        | 1        |                                                                                                                                                             |
+| Eurorack Blank Panels (Thonk Logo)     | 1 x 2HP  | 1        |                                                                                                                                                             |
+| Eurorack Blank Panels (Circuit Design) | Set of 7 | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
+
+## Power
+
+### Sourcing Parts
+
+| Item                         | Quantity | Received | Notes                                                                                                        |
+| ---------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------ |
+| 16-16 pin Power Cable        | 5        | 10       | 30cm length                                                                                                  |
+| Befaco Passive Bus           | 1        | 1        |                                                                                                              |
+| Mean Well RT65B Power Supply | 1        | 1        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b/) |
+
+## SP1
+
+I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables](https://www.printables.com/model/203562)
+
+### Sourcing Parts
+
+| Item                          | Quantity                   | Received | Notes                                                                                                                         |
+| ----------------------------- | -------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| M3 Nylon Screws               | 40                         | 42       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                |
+| M3 Threaded Strip Insert 84HP | 4 (6 including dust cover) | 6        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP) |
+
+### Printing Parts
+
+#### Case
+
+| Item                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [SP110HPRC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H25GM](https://www.printables.com/model/203562/files)  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP110HPLC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H10C](https://www.printables.com/model/203562/files)   | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H10 v6](https://www.printables.com/model/203562/files) | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+
+#### Dust Cover
+
+| Item                                                                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes                                                                                 |
+| ---------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------- |
+| [SP1CapRC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
+| [SP1CapLC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
+| [SP1Cap10](https://www.printables.com/model/203562/files)                                                  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
+| [SP1Cap25](https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself by extending SP1Cap10 |
+
+# mki x es.EDU System
+
+## DIY Eurorack case
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, except the parts for the [optional +5V Power Supply](#optional-5v-power-supply)
+
+#### Case
+
+| Item                      | Quantity |
+| ------------------------- | -------- |
+| 12V 1A AC/DC Wall Adapter | 1        |
+| 84HP Eurorack Case        | 1        |
+| DC Socket                 | 1        |
+| Power Switch              | 1        |
+
+#### Power Supply
+
+| Item                             | Quantity |
+| -------------------------------- | -------- |
+| 2x8 Pin Sockets                  | 14       |
+| 5mm Green LED                    | 1        |
+| 5mm Red LED                      | 1        |
+| EDU DIY PSU PCB                  | 1        |
+| Electrolytic Capacitor (100uF)   | 1        |
+| Electrolytic Capacitor (220uF)   | 2        |
+| KF301 Screw Terminal (5mm pitch) | 2        |
+| Metal Film resistor (3K)         | 2        |
+| Mornsun DC/DC converter          | 1        |
+| Resettable Fuse (RB300-30)       | 1        |
+| Schottky diode (1N5819)          | 1        |
+
+#### Optional: +5V Power Supply
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| 5mm Red LED                   | 1        |
+| Electrolytic Capacitor (10uF) | 2        |
+| Film Capacitor (0.1uF)        | 2        |
+| Metal Film resistor (1K)      | 1        |
+| Voltage Regulator (78M05)     | 1        |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/instrukcija_2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/mki-x-esedu-diy-1x84hp-case/)
 
 ## Sequencer
 
