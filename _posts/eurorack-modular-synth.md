@@ -2,10 +2,10 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-13T18:49:05.294Z
+lastmod: 2025-03-19T16:37:35.297Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
-preview: /assets/blog/eurorack-modular-synth/keystep-pro.jpg
+preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
 slug: /projects/eurorack-modular-synth
 draft: false
 tags:
@@ -24,7 +24,9 @@ promoted: true
 
 I am a fan of [Look Mum No Computer](https://www.youtube.com/@LOOKMUMNOCOMPUTER), In one of his videos he mentioned about the website [Music From Outer Space](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1430&VPH=660) and the book `Make: Analog Synthesizers` which I have brought and I am currently reading through.
 
-# Sequencer
+# Controller
+
+![A KeyStep Pro in its original box](/assets/blog/eurorack-modular-synth/keystep-pro.jpg)
 
 I wanted something that I could connect up to a computer via USB to use software synths like [VCVRack](https://vcvrack.com/) or for connecting up to [Garageband](https://www.apple.com/mac/garageband/) and maybe later [Logic Pro](https://www.apple.com/uk/logic-pro/). I also wanted something that is able to control hardware synths with Pitch CV, Velocity CV and Gate control or via MIDI inputs and outputs. The Keystep Pro provides all 3, via USB, MIDI and mono 3.5mm output jacks.
 
@@ -41,7 +43,6 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 | Item                                   | Quantity                   | Received | Notes                                                                                                                                                       |
 | -------------------------------------- | -------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 16-16 pin Power Cable                  | 5                          | 10       | 30cm length                                                                                                                                                 |
-| 6HP Eurorack Prototype Kit             | 5                          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/)                                                  |
 | Befaco Bananuts (Black)                | 25                         | 25       |                                                                                                                                                             |
 | Befaco Bananuts (Red)                  | 25                         | 25       |                                                                                                                                                             |
 | Befaco Bananuts Wrench Tool            | 1                          | 1        |                                                                                                                                                             |
@@ -49,7 +50,7 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 | Befaco Squid Cable                     | 1                          | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Thonk Logo)     | 1 x 2HP                    | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Circuit Design) | Set of 7                   | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
-| M3 Nylon Screws                        | 40                         | 43       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                                              |
+| M3 Nylon Screws                        | 40                         | 42       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash/)                                                                              |
 | M3 Threaded Strip Insert 84HP          | 4 (6 including dust cover) | 6        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP)                               |
 | Mean Well RT65B Power Supply           | 1                          | 1        | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b/)                                                |
 
@@ -108,6 +109,87 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 # EDU DIY System
 
+## Sequencer
+
+[Moritz Klein's DIY Sequencer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTHwcS4WTlPvKXeUkZC5TpG)
+
+> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| EDU DIY Sequencer PCB         | 1        |
+| EDU DIY Sequencer Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1uF)          | 1        |
+| Ceramic Capacitor (100NF)     | 5        |
+| Ceramic Capacitor (1NF)       | 1        |
+
+#### Diodes
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Schottky Diode (SB140) | 2        |
+| Signal Diode (1N4148)  | 15       |
+
+#### Integrated Circuits
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Transistor NPN (2N3904) | 5        |
+| Transistor NPN (BC547)  | 1        |
+| Op Amp Quad (TL074)     | 1        |
+| Decade Counter (CD4017) | 1        |
+| 14 Pin DIP Sockets      | 1        |
+| 16 Pin DIP Sockets      | 1        |
+
+#### Potentiometers
+
+| Item                                | Quantity |
+| ----------------------------------- | -------- |
+| Vertical Trim Potentiometer (B250K) | 1        |
+| Vertical Trim Potentiometer (B100K) | 5        |
+| PCB Mount Trim Potentiometer (5K)   | 1        |
+| PCB Mount Trim Potentiometer (2K)   | 2        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (100K) | 14       |
+| Metal Film resistor (68K)  | 1        |
+| Metal Film resistor (51K)  | 1        |
+| Metal Film resistor (47K)  | 1        |
+| Metal Film resistor (18K)  | 1        |
+| Metal Film resistor (6.8K) | 1        |
+| Metal Film resistor (4.7K) | 1        |
+| Metal Film resistor (1K)   | 7        |
+| Metal Film resistor (200R) | 1        |
+| Metal Film resistor (10R)  | 2        |
+
+#### Misc
+
+| Item            | Quantity |
+| --------------- | -------- |
+| SPDT Switch     | 5        |
+| SPTT Switch     | 1        |
+| 3mm Red LED     | 5        |
+| Mono Audio Jack | 5        |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
+
 ## Voltage Controlled Oscillator (VCO)
 
 [Moritz Klein's DIY VCO Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTuGCyC3qvx0RM39YvopVQN)
@@ -116,7 +198,15 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 ### Parts
 
-Quantities are for 1 Unit.
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY VCO PCB            | 1        |          |                                                                                                            |
+| EDU DIY VCO Front Panel    | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
 
@@ -146,14 +236,13 @@ Quantities are for 1 Unit.
 
 #### Potentiometers
 
-| Item                                 | Quantity | Received | Notes      |
-| ------------------------------------ | -------- | -------- | ---------- |
-| Aluminum Potentiometer Knob          | 3        | 30       |            |
-| PCB Mount Trim Potentiometer (1K)    | 1        | 10       |            |
-| Vertical Trim Potentiometer (B100K)  | 2        |          | 8 On Order |
-| Vertical Alpha Potentiometer (B100K) | 3        | 20       |            |
-| Vertical Alpha Potentiometer (B250K) | 1        | 5        |            |
-| Vertical Alpha Potentiometer (B1M)   | 1        | 5        |            |
+| Item                                 | Quantity | Received | Notes                                                   |
+| ------------------------------------ | -------- | -------- | ------------------------------------------------------- |
+| PCB Mount Trim Potentiometer (1K)    | 1        | 10       |                                                         |
+| Vertical Alpha Potentiometer (B100K) | 1        | 20       | With Aluminum Knobs                                     |
+| Vertical Trim Potentiometer (B100K)  | 2        | 8        |                                                         |
+| Vertical Trim Potentiometer (B250K)  | 1        | 5        | Ordered Alpha Potentiometer With Aluminum Knobs instead |
+| Vertical Trim Potentiometer (B1M)    | 1        | 5        | Ordered Alpha Potentiometer With Aluminum Knobs instead |
 
 #### Resistors
 
@@ -180,143 +269,6 @@ Quantities are for 1 Unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/)
 
-## Voltage Controlled Amplifier (VCA)
-
-[Moritz Klein's DIY VCA Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
-
-> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### Parts
-
-Quantities are for 1 Unit.
-
-#### Capacitors
-
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 6        | 100      |       |
-
-#### Diodes
-
-| Item                   | Quantity | Received | Notes                                                                                                          |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
-
-#### Integrated Circuits
-
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Transistor NPN (BC548) | 4        | 100      |       |
-| Op Amp Dual (TL072)    | 2        | 10       |       |
-| 8 Pin DIP Sockets      | 2        | 15       |       |
-
-#### Potentiometers
-
-| Item                                 | Quantity | Received | Notes |
-| ------------------------------------ | -------- | -------- | ----- |
-| Aluminum Potentiometer Knob          | 2        | 30       |       |
-| PCB Mount Trim Potentiometer (100K)  | 2        | 10       |       |
-| Vertical Alpha Potentiometer (B100K) | 2        | 20       |       |
-
-#### Resistors
-
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (100K) | 12       | 100      |       |
-| Metal Film resistor (82K)  | 2        | 100      |       |
-| Metal Film resistor (20K)  | 6        | 100      |       |
-| Metal Film resistor (10K)  | 6        | 100      |       |
-| Metal Film resistor (1K)   | 2        | 100      |       |
-| Metal Film resistor (100R) | 4        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
-
-#### Misc
-
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| Mono Audio Jack | 6        | 30       |       |
-
-### :white_check_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/)
-
-## Envelope Generator (EG)
-
-[Moritz Klein's DIY Envelope Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
-
-> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### Parts
-
-Quantities are for 1 Unit, Kit contains 2.
-
-#### Capacitors
-
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Film Capacitor (1uF)          | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 8        | 100      |       |
-
-#### Diodes
-
-| Item                   | Quantity | Received | Notes                                                                                                          |
-| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
-| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
-
-#### Integrated Circuits
-
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Transistor NPN (BC548) | 1        | 100      |       |
-| Op Amp Dual (TL072)    | 3        | 10       |       |
-| 8 Pin DIP Sockets      | 3        | 15       |       |
-
-#### Potentiometers
-
-| Item                                | Quantity | Received | Notes      |
-| ----------------------------------- | -------- | -------- | ---------- |
-| Vertical Trim Potentiometer (A1M)   | 2        |          | 4 On Order |
-| Vertical Trim Potentiometer (A100K) | 1        |          | 2 On Order |
-
-#### Resistors
-
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (100K) | 10       | 100      |       |
-| Metal Film resistor (47K)  | 1        | 100      |       |
-| Metal Film resistor (10K)  | 1        | 100      |       |
-| Metal Film resistor (1K)   | 2        | 100      |       |
-| Metal Film resistor (470R) | 1        | 100      |       |
-| Metal Film resistor (100R) | 1        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
-
-#### Misc
-
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| SPDT Switch     | 1        | 1        |       |
-| 3mm Red LED     | 1        | 1        |       |
-| Mono Audio Jack | 3        | 30       |       |
-
-### :white_check_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg/)
-
-## Sequencer
-
-[Moritz Klein's DIY Sequencer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTHwcS4WTlPvKXeUkZC5TpG)
-
-> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### :white_check_mark: Assembly
-
-![Soldering components onto the Sequencer PCB](/assets/blog/eurorack-modular-synth/sequencer-build.jpg)
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
-
 ## Voltage Controlled Filter (VCF)
 
 [Moritz Klein's DIY VCF Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvT1PAqW4TtvxtRoXyk741WM)
@@ -325,7 +277,15 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Parts
 
-Quantities are for 1 Unit.
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY VCF PCB            | 1        |          |                                                                                                            |
+| EDU DIY VCF Front Panel    | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
 
@@ -352,12 +312,11 @@ Quantities are for 1 Unit.
 
 #### Potentiometers
 
-| Item                                 | Quantity | Received | Notes      |
-| ------------------------------------ | -------- | -------- | ---------- |
-| Aluminum Potentiometer Knob          | 4        | 30       |            |
-| PCB Mount Trim Potentiometer (50K)   | 1        | 10       |            |
-| Vertical Trim Potentiometer (B100K)  | 1        |          | 8 On Order |
-| Vertical Alpha Potentiometer (B100K) | 4        | 20       |            |
+| Item                                 | Quantity | Received | Notes                                                          |
+| ------------------------------------ | -------- | -------- | -------------------------------------------------------------- |
+| PCB Mount Trim Potentiometer (50K)   | 1        | 10       |                                                                |
+| Vertical Trim Potentiometer (B100K)  | 4        | 8        | Will substitute 3 with Alpha Potentiometer With Aluminum Knobs |
+| Vertical Alpha Potentiometer (B100K) | 1        | 20       |                                                                |
 
 #### Resistors
 
@@ -382,6 +341,146 @@ Quantities are for 1 Unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCF_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vcf/)
 
+## Envelope Generator (EG)
+
+[Moritz Klein's DIY Envelope Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
+
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+`Quantity` is for 1 unit, kit contains enough parts for 2 units and `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY EG PCB             | 1        |          |                                                                                                            |
+| EDU DIY EG Front Panel     | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 2        | 10       |       |
+| Ceramic Capacitor (100NF)     | 8        | 100      |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 1        | 100      |       |
+| Op Amp Dual (TL072)    | 3        | 10       |       |
+| 8 Pin DIP Sockets      | 3        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (A1M)   | 2        | 4        |       |
+| Vertical Trim Potentiometer (A100K) | 1        | 2        |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 10       | 100      |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (10K)  | 1        | 100      |       |
+| Metal Film resistor (1K)   | 2        | 100      |       |
+| Metal Film resistor (470R) | 1        | 100      |       |
+| Metal Film resistor (100R) | 1        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| SPDT Switch     | 1        | 1        |       |
+| 3mm Red LED     | 1        | 1        |       |
+| Mono Audio Jack | 3        | 30       |       |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg/)
+
+## Voltage Controlled Amplifier (VCA)
+
+[Moritz Klein's DIY VCA Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
+
+> Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY VCA PCB            | 1        |          |                                                                                                            |
+| EDU DIY VCA Front Panel    | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Ceramic Capacitor (100NF)     | 6        | 100      |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 4        | 100      |       |
+| Op Amp Dual (TL072)    | 2        | 10       |       |
+| 8 Pin DIP Sockets      | 2        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                                                   |
+| ----------------------------------- | -------- | -------- | ------------------------------------------------------- |
+| PCB Mount Trim Potentiometer (100K) | 2        | 10       |                                                         |
+| Vertical Trim Potentiometer (B100K) | 2        | 20       | Ordered Alpha Potentiometer With Aluminum Knobs instead |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 12       | 100      |       |
+| Metal Film resistor (82K)  | 2        | 100      |       |
+| Metal Film resistor (20K)  | 6        | 100      |       |
+| Metal Film resistor (10K)  | 6        | 100      |       |
+| Metal Film resistor (1K)   | 2        | 100      |       |
+| Metal Film resistor (100R) | 4        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 6        | 30       |       |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/)
+
 ## Mixer
 
 [Moritz Klein's DIY Mixer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
@@ -390,7 +489,15 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Parts
 
-Quantities are for 1 Unit, Kit contains 1 and [Drums Bundle](#edu-diy-drums-bundle) contans a second.
+`Quantity` is for 1 unit, kit contains enough parts for 1 unit and [Drums Bundle](#edu-diy-drums-bundle) contans enough for a second. `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY Mixer PCB          | 1        |          |                                                                                                            |
+| EDU DIY Mixer Front Panel  | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
 
@@ -415,11 +522,10 @@ Quantities are for 1 Unit, Kit contains 1 and [Drums Bundle](#edu-diy-drums-bund
 
 #### Potentiometers
 
-| Item                                 | Quantity | Received | Notes |
-| ------------------------------------ | -------- | -------- | ----- |
-| Aluminum Potentiometer Knob          | 3        | 30       |       |
-| PCB Mount Trim Potentiometer (20K)   | 1        | 10       |       |
-| Vertical Alpha Potentiometer (B100K) | 3        | 20       |       |
+| Item                                | Quantity | Received | Notes                                                   |
+| ----------------------------------- | -------- | -------- | ------------------------------------------------------- |
+| PCB Mount Trim Potentiometer (20K)  | 1        | 10       |                                                         |
+| Vertical Trim Potentiometer (B100K) | 3        | 20       | Ordered Alpha Potentiometer With Aluminum Knobs instead |
 
 #### Resistors
 
@@ -436,7 +542,7 @@ Quantities are for 1 Unit, Kit contains 1 and [Drums Bundle](#edu-diy-drums-bund
 | --------------- | -------- | -------- | ----- |
 | Mono Audio Jack | 6        | 30       |       |
 
-### :negative_squared_cross_mark: Assembly
+### :wrench: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer/)
 
@@ -445,12 +551,6 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SH_MANUAL_v1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-noisesh/)
-
-## Output
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output/)
 
 ## Wavefolder
 
@@ -461,6 +561,12 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/WAVEFOLDER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-wavefolder/)
+
+## Output
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output/)
 
 # EDU DIY Drums Bundle
 

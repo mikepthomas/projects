@@ -37,14 +37,13 @@
           }
         },
         "eurorack-modular-synth": {
+          "eurorack-hero.jpg": {
+            "alt": "Soldering components onto the Sequencer PCB",
+            "title": "Eurorack Hero"
+          },
           "keystep-pro.jpg": {
             "alt": "A KeyStep Pro in its original box",
             "title": "KeyStep Pro"
-          },
-          "sequencer-build.jpg": {
-            "title": "Sequencer Build",
-            "caption": "",
-            "alt": "Soldering components onto the Sequencer PCB"
           }
         },
         "printer-am8": {
