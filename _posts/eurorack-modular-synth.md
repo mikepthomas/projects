@@ -884,9 +884,9 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Kick Drum
 
-[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
+[Moritz Klein's DIY Kick Drum Video](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
 
-> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Video © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### Parts
 
@@ -968,9 +968,9 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Hi-Hat
 
-[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/zbBY7JL9nnQ)
+[Moritz Klein's DIY Hi-Hat Video](https://www.youtube-nocookie.com/embed/zbBY7JL9nnQ)
 
-> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Video © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### Parts
 
@@ -1061,9 +1061,9 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Snare Drum
 
-[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/hULEn2_4Unw)
+[Moritz Klein's DIY Snare Drum Video](https://www.youtube-nocookie.com/embed/hULEn2_4Unw)
 
-> Videos © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### Parts
 
