@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-20T19:36:36.867Z
+lastmod: 2025-03-20T23:16:38.900Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -214,10 +214,10 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| EDU DIY Sequencer PCB         | 1        |
-| EDU DIY Sequencer Front Panel | 1        |
+| Item                | Quantity |
+| ------------------- | -------- |
+| EDUSEQ4 PCB         | 1        |
+| EDUSEQ4 Front Panel | 1        |
 
 #### Capacitors
 
@@ -300,8 +300,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY VCO PCB            | 1        |          |                                                                                                            |
-| EDU DIY VCO Front Panel    | 1        |          |                                                                                                            |
+| EDUVCO3 PCB                | 1        |          |                                                                                                            |
+| EDUVCO3 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -382,8 +382,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY VCF PCB            | 1        |          |                                                                                                            |
-| EDU DIY VCF Front Panel    | 1        |          |                                                                                                            |
+| EDUVCF1 PCB                | 1        |          |                                                                                                            |
+| EDUVCF1 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -457,8 +457,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY EG PCB             | 1        |          |                                                                                                            |
-| EDU DIY EG Front Panel     | 1        |          |                                                                                                            |
+| EDUENV1 PCB                | 1        |          |                                                                                                            |
+| EDUENV1 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -532,8 +532,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY VCA PCB            | 1        |          |                                                                                                            |
-| EDU DIY VCA Front Panel    | 1        |          |                                                                                                            |
+| EDUVCA2 PCB                | 1        |          |                                                                                                            |
+| EDUVCA2 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -603,8 +603,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY Mixer PCB          | 1        |          |                                                                                                            |
-| EDU DIY Mixer Front Panel  | 1        |          |                                                                                                            |
+| EDUMIX2 PCB                | 1        |          |                                                                                                            |
+| EDUMIX2 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -661,11 +661,11 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item                          | Quantity | Received | Notes                                                                                                      |
-| ----------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY Noise/S&H PCB         | 1        |          |                                                                                                            |
-| EDU DIY Noise/S&H Front Panel | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit    |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUSH2 PCB                 | 1        |          |                                                                                                            |
+| EDUSH2 Front Panel         | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
 
@@ -748,11 +748,11 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item                           | Quantity | Received | Notes                                                                                                      |
-| ------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY Wavefolder PCB         | 1        |          |                                                                                                            |
-| EDU DIY Wavefolder Front Panel | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit     |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUWAVE1 PCB               | 1        |          |                                                                                                            |
+| EDUWAVE1 Front Panel       | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
 
@@ -817,8 +817,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
 | -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDU DIY Output PCB         | 1        |          |                                                                                                            |
-| EDU DIY Output Front Panel | 1        |          |                                                                                                            |
+| EDUOUT1 PCB                | 1        |          |                                                                                                            |
+| EDUOUT1 Front Panel        | 1        |          |                                                                                                            |
 | 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
 
 #### Capacitors
@@ -882,11 +882,85 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 # EDU DIY Drums Bundle
 
-[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQZb-Zapy-OnCdbzCdM2R4-)
+## Kick Drum
+
+[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
 
 > Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-## Kick Drum
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUKICK2 PCB               | 1        |          |                                                                                                            |
+| EDUKICK2 Front Panel       | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (220nF)        | 1        |          |       |
+| Ceramic Capacitor (100nF)     | 6        | 100      |       |
+| Film Capacitor (15nF)         | 3        |          |       |
+| Film Capacitor (10nF)         | 1        |          |       |
+| Film Capacitor (3.3nF)        | 1        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 7        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 3        | 100      |       |
+| Transistor PNP (BC558) | 2        | 100      |       |
+| Op Amp Dual (TL072)    | 2        | 10       |       |
+| 8 Pin DIP Sockets      | 2        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                |
+| ----------------------------------- | -------- | -------- | -------------------- |
+| Vertical Alpha Potentiometer (B1M)  | 1        | 5        | With Aluminium Knobs |
+| Vertical Trim Potentiometer (B250K) | 1        |          |                      |
+| Vertical Trim Potentiometer (A100K) | 1        | 2        |                      |
+| Vertical Trim Potentiometer (B100K) | 2        | 8        |                      |
+| Vertical Trim Potentiometer (B50K)  | 1        |          |                      |
+| Vertical Trim Potentiometer (B10K)  | 1        |          |                      |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes                               |
+| -------------------------- | -------- | -------- | ----------------------------------- |
+| Metal Film resistor (1M)   | 2        | 100      |                                     |
+| Metal Film resistor (470K) | 1        |          |                                     |
+| Metal Film resistor (120K) | 1        |          |                                     |
+| Metal Film resistor (100K) | 5        | 100      |                                     |
+| Metal Film resistor (47K)  | 2        | 100      |                                     |
+| Metal Film resistor (39K)  | 1        |          |                                     |
+| Metal Film resistor (33K)  | 2        | 100      |                                     |
+| Metal Film resistor (14K)  | 1        |          | Using 47K + 20k in parallel instead |
+| Metal Film resistor (10K)  | 2        | 100      |                                     |
+| Metal Film resistor (2K)   | 1        | 100      |                                     |
+| Metal Film resistor (1K)   | 3        | 100      |                                     |
+| Metal Film resistor (10R)  | 2        | 100      |                                     |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 4        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -894,11 +968,180 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Hi-Hat
 
+[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/zbBY7JL9nnQ)
+
+> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUHHAT2 PCB               | 1        |          |                                                                                                            |
+| EDUHHAT2 Front Panel       | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 1        | 10       |       |
+| Ceramic Capacitor (470nF)     | 1        |          |       |
+| Ceramic Capacitor (100nF)     | 13       | 100      |       |
+| Ceramic Capacitor (10nF)      | 1        |          |       |
+| Ceramic Capacitor (2.2nF)     | 1        |          |       |
+| Ceramic Capacitor (1nF)       | 2        |          |       |
+| Ceramic Capacitor (330pF)     | 2        |          |       |
+| Ceramic Capacitor (100pF)     | 1        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548)                 | 4        | 100      |       |
+| Transistor PNP (BC558)                 | 2        | 100      |       |
+| Op Amp Dual (TL072)                    | 3        | 10       |       |
+| Hex Schmitt-Trigger Inverter (CD40106) | 1        | 10       |       |
+| 8 Pin DIP Sockets                      | 3        | 15       |       |
+| 14 Pin DIP Sockets                     | 2        | 10       |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes                |
+| ------------------------------------ | -------- | -------- | -------------------- |
+| Vertical Trim Potentiometer (B250K)  | 1        |          |                      |
+| Vertical Alpha Potentiometer (B100K) | 1        | 5        | With Aluminium Knobs |
+| Vertical Trim Potentiometer (B10K)   | 2        |          |                      |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 1        | 100      |       |
+| Metal Film resistor (820K) | 1        |          |       |
+| Metal Film resistor (470K) | 1        |          |       |
+| Metal Film resistor (120K) | 1        |          |       |
+| Metal Film resistor (100K) | 18       | 100      |       |
+| Metal Film resistor (82K)  | 1        | 100      |       |
+| Metal Film resistor (68K)  | 1        | 100      |       |
+| Metal Film resistor (56K)  | 1        |          |       |
+| Metal Film resistor (51K)  | 1        |          |       |
+| Metal Film resistor (47K)  | 3        | 100      |       |
+| Metal Film resistor (39K)  | 2        |          |       |
+| Metal Film resistor (33K)  | 2        | 100      |       |
+| Metal Film resistor (22K)  | 1        |          |       |
+| Metal Film resistor (10K)  | 1        | 100      |       |
+| Metal Film resistor (4.7K) | 1        |          |       |
+| Metal Film resistor (1K)   | 3        | 100      |       |
+| Metal Film resistor (680R) | 1        |          |       |
+| Metal Film resistor (100R) | 1        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 5        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
+
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/HIHAT_MANUAL_1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-hi-hat/)
 
 ## Snare Drum
+
+[Moritz Klein's DIY Drums Series](https://www.youtube-nocookie.com/embed/hULEn2_4Unw)
+
+> Videos © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUSNAR1 PCB               | 1        |          |                                                                                                            |
+| EDUSNAR1 Front Panel       | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 1        | 10       |       |
+| Ceramic Capacitor (470nF)     | 2        |          |       |
+| Ceramic Capacitor (100nF)     | 8        | 100      |       |
+| Film Capacitor (33nF)         | 3        |          |       |
+| Film Capacitor (10nF)         | 2        |          |       |
+| Ceramic Capacitor (2.2nF)     | 2        |          |       |
+| Film Capacitor (1nF)          | 2        | 20       |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 6        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 5        | 100      |       |
+| Transistor PNP (BC558) | 2        | 100      |       |
+| Op Amp Dual (TL072)    | 3        | 10       |       |
+| 8 Pin DIP Sockets      | 3        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                |
+| ----------------------------------- | -------- | -------- | -------------------- |
+| Vertical Trim Potentiometer (B250K) | 1        |          |                      |
+| Vertical Trim Potentiometer (A100K) | 1        | 2        |                      |
+| Vertical Trim Potentiometer (B100K) | 1        | 8        |                      |
+| Vertical Trim Potentiometer (B5K)   | 1        |          |                      |
+| Vertical Alpha Potentiometer (B1K)  | 1        |          | With Aluminium Knobs |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 100      |       |
+| Metal Film resistor (910K) | 1        |          |       |
+| Metal Film resistor (470K) | 1        |          |       |
+| Metal Film resistor (120K) | 1        |          |       |
+| Metal Film resistor (100K) | 7        | 100      |       |
+| Metal Film resistor (47K)  | 3        | 100      |       |
+| Metal Film resistor (39K)  | 1        |          |       |
+| Metal Film resistor (33K)  | 2        | 100      |       |
+| Metal Film resistor (27K)  | 1        | 100      |       |
+| Metal Film resistor (22K)  | 5        |          |       |
+| Metal Film resistor (10K)  | 2        | 100      |       |
+| Metal Film resistor (1K)   | 7        | 100      |       |
+| Metal Film resistor (470R) | 1        | 100      |       |
+| Metal Film resistor (330R) | 1        |          |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 5        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
