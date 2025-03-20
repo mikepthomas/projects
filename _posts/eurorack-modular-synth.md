@@ -273,12 +273,12 @@ Kit contains the `Quantity` needed for building 1 unit.
 #### Misc
 
 | Item                | Quantity |
-| ------------------- | -------- | --- | --- |
+| ------------------- | -------- |
 | SPDT Switch         | 5        |
 | SPTT Switch         | 1        |
 | 3mm Red LED         | 5        |
 | Mono Audio Jack     | 5        |
-| 10 Pin Power Header | 1        | 10  |     |
+| 10 Pin Power Header | 1        |
 
 ### :white_check_mark: Assembly
 
