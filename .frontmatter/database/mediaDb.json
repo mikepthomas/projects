@@ -44,6 +44,34 @@
           "keystep-pro.jpg": {
             "alt": "A KeyStep Pro in its original box",
             "title": "KeyStep Pro"
+          },
+          "diy-eurorack-case.jpg": {
+            "alt": "Fully Assembled DIY Eurorack Case",
+            "title": "DIY Eurorack Case"
+          },
+          "mornsun-power-supply.jpg": {
+            "alt": "Fully Assembled Power Supply PCB",
+            "title": "Mornsun Power Supply"
+          },
+          "sequencer-installed.jpg": {
+            "alt": "Sequencer Installed in the Case",
+            "title": "Sequencer Installed"
+          },
+          "vco-installed.jpg": {
+            "alt": "VCO Installed in the Case",
+            "title": "VCO Installed"
+          },
+          "vcf-installed.jpg": {
+            "alt": "VCF Installed in the Case",
+            "title": "VCF Installed"
+          },
+          "envelope-installed.jpg": {
+            "alt": "Envelope Installed in the Case",
+            "title": "Envelope Installed"
+          },
+          "vca-installed.jpg": {
+            "alt": "VCA Installed in the Case",
+            "title": "VCA Installed"
           }
         },
         "printer-am8": {

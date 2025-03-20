@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-19T23:18:34.929Z
+lastmod: 2025-03-20T19:36:36.867Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -153,7 +153,9 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 # mki x es.EDU System
 
-## DIY Eurorack case
+## DIY Eurorack Case
+
+![Fully Assembled DIY Eurorack Case](/assets/blog/eurorack-modular-synth/diy-eurorack-case.jpg)
 
 ### Parts
 
@@ -196,6 +198,8 @@ Kit contains the `Quantity` needed for building 1 unit, except the parts for the
 
 ### :white_check_mark: Assembly
 
+![Fully Assembled Power Supply PCB](/assets/blog/eurorack-modular-synth/mornsun-power-supply.jpg)
+
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/instrukcija_2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/mki-x-esedu-diy-1x84hp-case/)
 
 ## Sequencer
@@ -221,8 +225,8 @@ Kit contains the `Quantity` needed for building 1 unit.
 | ----------------------------- | -------- |
 | Electrolytic Capacitor (47uF) | 2        |
 | Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100NF)     | 5        |
-| Ceramic Capacitor (1NF)       | 1        |
+| Ceramic Capacitor (100nF)     | 5        |
+| Ceramic Capacitor (1nF)       | 1        |
 
 #### Diodes
 
@@ -268,14 +272,17 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### Misc
 
-| Item            | Quantity |
-| --------------- | -------- |
-| SPDT Switch     | 5        |
-| SPTT Switch     | 1        |
-| 3mm Red LED     | 5        |
-| Mono Audio Jack | 5        |
+| Item                | Quantity |
+| ------------------- | -------- | --- | --- |
+| SPDT Switch         | 5        |
+| SPTT Switch         | 1        |
+| 3mm Red LED         | 5        |
+| Mono Audio Jack     | 5        |
+| 10 Pin Power Header | 1        | 10  |     |
 
 ### :white_check_mark: Assembly
+
+![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
 
@@ -303,8 +310,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
 | Film Capacitor (1uF)          | 1        | 10       |       |
-| Ceramic Capacitor (100NF)     | 5        | 100      |       |
-| Film Capacitor (2.2NF)        | 1        | 20       |       |
+| Ceramic Capacitor (100nF)     | 5        | 100      |       |
+| Film Capacitor (2.2nF)        | 1        | 20       |       |
 
 #### Diodes
 
@@ -349,12 +356,15 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| 10K thermistor  | 4        | 20       |       |
-| Mono Audio Jack | 5        | 30       |       |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 10K thermistor      | 4        | 20       |       |
+| Mono Audio Jack     | 5        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
+
+![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/)
 
@@ -382,8 +392,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
 | Film Capacitor (1uF)          | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 6        | 100      |       |
-| Film Capacitor (1NF)          | 5        | 20       |       |
+| Ceramic Capacitor (100nF)     | 6        | 100      |       |
+| Film Capacitor (1nF)          | 5        | 20       |       |
 
 #### Diodes
 
@@ -422,11 +432,14 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| Mono Audio Jack | 4        | 30       |       |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 4        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
+
+![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCF_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vcf/)
 
@@ -454,7 +467,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
 | Film Capacitor (1uF)          | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 8        | 100      |       |
+| Ceramic Capacitor (100nF)     | 8        | 100      |       |
 
 #### Diodes
 
@@ -492,13 +505,16 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| SPDT Switch     | 1        | 1        |       |
-| 3mm Red LED     | 1        | 1        |       |
-| Mono Audio Jack | 3        | 30       |       |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| SPDT Switch         | 1        | 1        |       |
+| 3mm Red LED         | 1        | 1        |       |
+| Mono Audio Jack     | 3        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
+
+![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg/)
 
@@ -525,7 +541,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | Item                          | Quantity | Received | Notes |
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 6        | 100      |       |
+| Ceramic Capacitor (100nF)     | 6        | 100      |       |
 
 #### Diodes
 
@@ -562,11 +578,14 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| Mono Audio Jack | 6        | 30       |       |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 6        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
+
+![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/)
 
@@ -593,7 +612,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 | Item                          | Quantity | Received | Notes |
 | ----------------------------- | -------- | -------- | ----- |
 | Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Ceramic Capacitor (100NF)     | 6        | 100      |       |
+| Ceramic Capacitor (100nF)     | 6        | 100      |       |
 
 #### Diodes
 
@@ -627,15 +646,93 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| Mono Audio Jack | 6        | 30       |       |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 6        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :wrench: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer/)
 
 ## Noise/Sample & Hold (S&H)
+
+### Parts
+
+#### PCB
+
+| Item                          | Quantity | Received | Notes                                                                                                      |
+| ----------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY Noise/S&H PCB         | 1        |          |                                                                                                            |
+| EDU DIY Noise/S&H Front Panel | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit    |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 3        | 10       |       |
+| Film Capacitor (1uF)          | 2        | 10       |       |
+| Film Capacitor (470nF)        | 1        |          |       |
+| Ceramic Capacitor (100nF)     | 8        | 100      |       |
+| Film Capacitor (100nF)        | 1        |          |       |
+| Film Capacitor (5.6nF)        | 2        |          |       |
+| Film Capacitor (2.2nF)        | 2        | 20       |       |
+| Ceramic Capacitor (1nF)       | 1        |          |       |
+| Film Capacitor (680pF)        | 2        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 2        | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (2N3904) | 1        |          |       |
+| Transistor NPN (BC548)  | 1        | 100      |       |
+| Transistor JFET (J113)  | 1        | 10       |       |
+| Op Amp Dual (TL072)     | 1        | 10       |       |
+| Op Amp Quad (TL074)     | 2        | 10       |       |
+| 8 Pin DIP Sockets       | 1        | 15       |       |
+| 14 Pin DIP Sockets      | 2        | 10       |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes               |
+| ------------------------------------ | -------- | -------- | ------------------- |
+| Vertical Alpha Potentiometer (B250K) | 1        | 5        | With Aluminum Knobs |
+| Vertical Trim Potentiometer (B100K)  | 2        | 8        |                     |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 100      |       |
+| Metal Film resistor (470K) | 2        |          |       |
+| Metal Film resistor (100K) | 12       | 100      |       |
+| Metal Film resistor (51K)  | 1        |          |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (33K)  | 2        | 100      |       |
+| Metal Film resistor (22K)  | 1        |          |       |
+| Metal Film resistor (20K)  | 1        | 100      |       |
+| Metal Film resistor (10K)  | 1        | 100      |       |
+| Metal Film resistor (4.7K) | 2        |          |       |
+| Metal Film resistor (2K)   | 1        | 100      |       |
+| Metal Film resistor (1K)   | 6        | 100      |       |
+| Metal Film resistor (680R) | 1        |          |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 3mm Red LED         | 1        | 1        |       |
+| Mono Audio Jack     | 8        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -647,11 +744,137 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
+### Parts
+
+#### PCB
+
+| Item                           | Quantity | Received | Notes                                                                                                      |
+| ------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY Wavefolder PCB         | 1        |          |                                                                                                            |
+| EDU DIY Wavefolder Front Panel | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit     |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 1        | 10       |       |
+| Ceramic Capacitor (100nF)     | 4        | 100      |       |
+| Film Capacitor (2.2nF)        | 2        | 20       |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 4        | 100      |       |
+| Transistor PNP (BC558) | 2        | 100      |       |
+| Op Amp Quad (TL074)    | 1        | 10       |       |
+| 14 Pin DIP Sockets     | 1        | 10       |       |
+
+#### Potentiometers
+
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (10K) | 1        |          |       |
+| Vertical Trim Potentiometer (B10K) | 1        |          |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (220K) | 1        |          |       |
+| Metal Film resistor (100K) | 3        | 100      |       |
+| Metal Film resistor (51K)  | 1        |          |       |
+| Metal Film resistor (22K)  | 1        |          |       |
+| Metal Film resistor (20K)  | 4        | 100      |       |
+| Metal Film resistor (10K)  | 4        | 100      |       |
+| Metal Film resistor (1K)   | 5        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 3        | 30       |       |
+| 10 Pin Power Header | 1        | 10       |       |
+
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/WAVEFOLDER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-wavefolder/)
 
 ## Output
+
+### Parts
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDU DIY Output PCB         | 1        |          |                                                                                                            |
+| EDU DIY Output Front Panel | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 2        | 10       |       |
+| Ceramic Capacitor (100nF)     | 6        | 100      |       |
+| Ceramic Capacitor (22pF)      | 2        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)  | 12       | 25       |                                                                                                                |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BD139) | 2        |          |       |
+| Transistor PNP (BD140) | 2        |          |       |
+| Op Amp Dual (TL072)    | 2        | 10       |       |
+| 8 Pin DIP Sockets      | 2        | 15       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B10K)  | 2        |          |       |
+| Vertical Trim Potentiometer (B100K) | 2        | 8        |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (200K) | 2        |          |       |
+| Metal Film resistor (100K) | 6        | 100      |       |
+| Metal Film resistor (30K)  | 2        |          |       |
+| Metal Film resistor (10K)  | 4        | 100      |       |
+| Metal Film resistor (3.6K) | 4        |          |       |
+| Metal Film resistor (1K)   | 6        | 100      |       |
+| Metal Film resistor (470R) | 2        | 100      |       |
+| Metal Film resistor (47R)  | 2        |          |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+| Metal Film resistor (2R)   | 4        |          |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 2        | 30       |       |
+| Stereo Audio Jack   | 2        | 1        |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -669,17 +892,17 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/KICKDRUM_MANUAL_5wVQsEK.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-kick-drum/)
 
-## Snare Drum
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum/)
-
 ## Hi-Hat
 
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/HIHAT_MANUAL_1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-hi-hat/)
+
+## Snare Drum
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum/)
 
 ## Compressor
 
@@ -690,3 +913,11 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor/)
+
+## Bucket Brigade Delay (BBD)
+
+I have yet to purchase this module.
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd/)
