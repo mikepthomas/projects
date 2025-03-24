@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-20T23:16:38.900Z
+lastmod: 2025-03-24T21:48:35.880Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -61,11 +61,123 @@ However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#la
 
 > Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-### Parts
+### Basic Kit Parts
 
-| Item                                | Quantity | Received | Notes |
-| ----------------------------------- | -------- | -------- | ----- |
-| Erica Synths EDU DIY Labor Full Kit | 1        | 1        |       |
+Basic Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                                    | Quantity |
+| --------------------------------------- | -------- |
+| EDULAB Main PCB                         | 1        |
+| EDUPRTP Utility Section Panel           | 1        |
+| EDUPNLF Expansion Slot Panel            | 1        |
+| EDUPNLB Breadboard Panel                | 1        |
+| EDUPNLM Modular I/O Panel               | 1        |
+| EDUPOT Potentiometer/Socket adapter PCB | 24       |
+| EDUSW Switch/Button adapter PCB         | 16       |
+
+#### Connectors
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| 16-pin female header  | 8        |
+| 4-pin female header   | 36       |
+| 8-pin female header   | 3        |
+| 40-pin male connector | 4        |
+| 830 Point Breadboard  | 1        |
+
+#### Fasteners
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| 3x11mm Spacer (female/female) | 6        |
+| 3x11mm Spacer (female/male)   | 2        |
+| 3x23mm Spacer (female/male)   | 2        |
+| 3x23mm Spacer (female/female) | 6        |
+| M3X6 Phillips Screw (Black)   | 28       |
+
+#### Potentiometers
+
+| Item                                | Quantity |
+| ----------------------------------- | -------- |
+| Vertical Trim Potentiometer (B1M)   | 2        |
+| Vertical Trim Potentiometer (B250K) | 1        |
+| Vertical Trim Potentiometer (B100K) | 5        |
+| Vertical Trim Potentiometer (B50K)  | 1        |
+| Vertical Trim Potentiometer (B10K)  | 2        |
+| Vertical Trim Potentiometer (B5K)   | 1        |
+| Vertical Trim Potentiometer (B1K)   | 1        |
+
+#### Misc
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Mono Audio Jack         | 5        |
+| SPDT Switch             | 1        |
+| SPTT Switch             | 1        |
+| 3mm Red LED             | 2        |
+| Plywood base            | 1        |
+| Breadboarding cable set | 1        |
+| 12V 1A wall wart        | 1        |
+
+### Full Kit Parts
+
+Full Kit also contains the `Quantity` of additional parts.
+
+#### Capacitors
+
+| Item                      | Quantity |
+| ------------------------- | -------- |
+| Ceramic Capacitor (1uF)   | 2        |
+| Ceramic Capacitor (470nF) | 1        |
+| Ceramic Capacitor (100nF) | 5        |
+| Ceramic Capacitor (10nF)  | 2        |
+| Ceramic Capacitor (2.2nF) | 2        |
+| Ceramic Capacitor (1nF)   | 5        |
+
+#### Diodes
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Signal Diode (1N4148) | 10       |
+
+#### Integrated Circuits
+
+| Item                                   | Quantity |
+| -------------------------------------- | -------- |
+| Op Amp Dual (TL072)                    | 2        |
+| Op Amp Quad (TL074)                    | 2        |
+| Hex Schmitt-Trigger Inverter (CD40106) | 2        |
+| Decade Counter (CD4017)                | 2        |
+| Shift Register Dual (4015)             | 2        |
+| Transistor NPN (BC548)                 | 10       |
+| Transistor PNP (BC558)                 | 10       |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (1M)   | 5        |
+| Metal Film resistor (470K) | 2        |
+| Metal Film resistor (100K) | 10       |
+| Metal Film resistor (82K)  | 2        |
+| Metal Film resistor (68K)  | 5        |
+| Metal Film resistor (47K)  | 5        |
+| Metal Film resistor (33K)  | 5        |
+| Metal Film resistor (27K)  | 2        |
+| Metal Film resistor (22K)  | 5        |
+| Metal Film resistor (14K)  | 2        |
+| Metal Film resistor (10K)  | 10       |
+| Metal Film resistor (4.7K) | 2        |
+| Metal Film resistor (2K)   | 5        |
+| Metal Film resistor (1K)   | 10       |
+
+#### Misc
+
+| Item        | Quantity |
+| ----------- | -------- |
+| 3mm Red LED | 5        |
 
 ### :negative_squared_cross_mark: Assembly
 
