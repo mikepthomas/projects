@@ -1742,8 +1742,28 @@
         },
         "horology": {
           "watch-hero.jpg": {
-            "alt": "A collection of tools for watchmaking",
+            "alt": "Assembled watch on Case Cushion",
             "title": "Watch Hero"
+          },
+          "watch-parts.jpg": {
+            "alt": "A collection of tools for watchmaking",
+            "title": "Watch Parts"
+          },
+          "clipping-dial.jpg": {
+            "alt": "Clipping the pegs off the back of the dial to fit the movement",
+            "title": "Clipping Dial"
+          },
+          "dial-installed.jpg": {
+            "alt": "Installing the Dial onto the Movement",
+            "title": "Dial Installed"
+          },
+          "hands-installed.jpg": {
+            "alt": "Installing the Hands onto the Dial",
+            "title": "Hands Installed"
+          },
+          "watch-complete.jpg": {
+            "alt": "The Completed Watch",
+            "title": "Watch Complete"
           }
         },
         "homelab": {

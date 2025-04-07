@@ -2,6 +2,7 @@
 title: Horology
 heading: Putting together my own custom watch
 date: 2025-03-08T21:48:52.242Z
+lastmod: 2025-03-29T19:26:34.262Z
 author: Mike Thomas
 description: How I built a custom watch with a NH36 movement.
 preview: /assets/blog/horology/watch-hero.jpg
@@ -25,6 +26,8 @@ As very much a beginner, I plan on trying the simplest thing possible to start a
 
 # Tools
 
+![A collection of tools for watchmaking](/assets/blog/horology/watch-parts.jpg)
+
 | Item                               | Quantity | Received | Notes                        |
 | ---------------------------------- | -------- | -------- | ---------------------------- |
 | Adjustable Watch Case Back Remover | 1        | 1        |                              |
@@ -43,14 +46,38 @@ As very much a beginner, I plan on trying the simplest thing possible to start a
 
 # Parts
 
-| Item                             | Quantity | Received | Notes                                         |
-| -------------------------------- | -------- | -------- | --------------------------------------------- |
-| Automatic Movement (NH36)        | 1        | 1        | White Japanese Calendar                       |
-| Crown                            | 1        | 1        | Black Steel                                   |
-| Crown Stem                       | 1        | 6        | Steel                                         |
-| Dial                             | 1        | 1        | Mother of pearl                               |
-| Jubilee Bracelet                 | 1        | 1        | Black Steel                                   |
-| Watch Case with Sapphire Crystal | 1        | 1        | Black Steel                                   |
-| Watch Hands                      | 1 set    | 1 set    | Silver pointed with red and black second hand |
-| Watch Hands                      | 1 set    | 1 set    | Black blunt with red zig-zag second hand      |
-| Watch Spring Bars                | 2        | 2        |                                               |
+## Movement
+
+| Item                      | Quantity | Received | Notes                   |
+| ------------------------- | -------- | -------- | ----------------------- |
+| Automatic Movement (NH36) | 1        | 1        | White Japanese Calendar |
+
+![Clipping the pegs off the back of the dial to fit the movement](/assets/blog/horology/clipping-dial.jpg)
+
+## Dial
+
+| Item | Quantity | Received | Notes           |
+| ---- | -------- | -------- | --------------- |
+| Dial | 1        | 1        | Mother of pearl |
+
+![Installing the Dial onto the Movement](/assets/blog/horology/dial-installed.jpg)
+
+## Hands
+
+| Item        | Quantity | Received | Notes                                    |
+| ----------- | -------- | -------- | ---------------------------------------- |
+| Crown       | 1        | 1        | Black Steel                              |
+| Crown Stem  | 1        | 6        | Steel                                    |
+| Watch Hands | 1 set    | 1 set    | Black blunt with red zig-zag second hand |
+
+![Installing the Hands onto the Dial](/assets/blog/horology/hands-installed.jpg)
+
+## Case
+
+| Item                             | Quantity | Received | Notes       |
+| -------------------------------- | -------- | -------- | ----------- |
+| Jubilee Bracelet                 | 1        | 1        | Black Steel |
+| Watch Case with Sapphire Crystal | 1        | 1        | Black Steel |
+| Watch Spring Bars                | 2        | 2        |             |
+
+![The Completed Watch](/assets/blog/horology/watch-complete.jpg)
