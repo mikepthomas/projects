@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-03-24T21:48:35.880Z
+lastmod: 2025-04-11T16:19:34.291Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -55,7 +55,7 @@ However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#la
 | Digital Multimeter         | 1        | 1        |       |
 | Solid Core Wire Jumper Kit | 1        | 2        |       |
 
-## Labor
+## EDU DIY Labor
 
 [Erica Synths EDU DIY Labor](https://www.youtube-nocookie.com/embed/QyapQpQOwUM)
 
@@ -182,6 +182,31 @@ Full Kit also contains the `Quantity` of additional parts.
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/LABOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor/)
+
+## EDU DIY Labor Scope
+
+[Erica Synths EDU DIY Labor Scope](https://www.youtube.com/embed/8YweHBtXg0k)
+
+> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+#### PCB
+
+| Item             | Quantity |
+| ---------------- | -------- |
+| EDUSCP2 Main PCB | 1        |
+
+#### Connectors
+
+| Item                | Quantity |
+| ------------------- | -------- |
+| 4-pin female header | 1        |
+| 8-pin male header   | 2        |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/LaborScope_manual_26_03.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor-scope/)
 
 ## Oscilloscope
 
