@@ -36,7 +36,7 @@ I wanted something that I could connect up to a computer via USB to use software
 
 # Eurorack Case
 
-I plan on 3D Printing a case to house the [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](#edu-diy-drums-bundle) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
+I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](#edu-diy-drums-bundle) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
 
 ## Accessories
 
@@ -97,8 +97,8 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 ## Breadboard
 
-To test eurorack modules, I originally planned on building them up on a breadboard, powered by 2 9V Batteries.
-However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#labor) that I will use to power and test the modules.
+To test eurorack modules, I initally built them up on a breadboard, powered by 2 9V Batteries.
+However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#labor) that I will use to power and test the modules going forward.
 
 [Moritz Klein's Breadboard Basics Video](https://www.youtube-nocookie.com/embed/XpMZoR3fgd0?si=k-qhaluHhLYVeLpG)
 
@@ -347,6 +347,12 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Sequencer
 
+![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg)
+
+The sequencer steps through a different number of voltages, selectable by a potentiometer for each step. You also have the ability to switch each step on or off via it's `Gate` toggle switch and to change the tempo via the `Rate` selector.
+
+### How It Works
+
 [Moritz Klein's DIY Sequencer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTHwcS4WTlPvKXeUkZC5TpG)
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
@@ -425,11 +431,17 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ### :white_check_mark: Assembly
 
-![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg)
+![Components soldered to the Sequencer PCB](/assets/blog/eurorack-modular-synth/sequencer-assembled.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer/)
 
 ## Voltage Controlled Oscillator (VCO)
+
+![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg)
+
+To make music you need something to make noise, noise is created via an oscillation at different frequencies controlled by the `Coarse` and `Fine` potentiometers.
+
+### How It Works
 
 [Moritz Klein's DIY VCO Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvTuGCyC3qvx0RM39YvopVQN)
 
@@ -507,11 +519,17 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 ### :white_check_mark: Assembly
 
-![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg)
+![Components soldered to the VCO PCB](/assets/blog/eurorack-modular-synth/vco-assembled.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/)
 
 ## Voltage Controlled Filter (VCF)
+
+![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg)
+
+To change the way the noise sounds you can modify it using a filter. This filter is a low pass filter known as a `diode ladder VCF`.
+
+### How It Works
 
 [Moritz Klein's DIY VCF Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvT1PAqW4TtvxtRoXyk741WM)
 
@@ -582,11 +600,17 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 ### :white_check_mark: Assembly
 
-![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg)
+![Components soldered to the VCF PCB](/assets/blog/eurorack-modular-synth/vcf-assembled.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCF_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vcf/)
 
 ## Envelope Generator (EG)
+
+![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg)
+
+The Envelope generator shapes the amplitude of a sound over time the one in this kit is known as an `ADSR envelope generator`. ADSR stands for `Attack`, `Decay`, `Sustain`, `Release`. Attack is how fast the sound ramps up, Decay is how fast the sound ramps down, Sustain is how long the sound lasts for and Release is how fast the sound stops.
+
+### How It Works
 
 [Moritz Klein's DIY Envelope Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQBSilvxA9n9hPrUuPoCan1)
 
@@ -657,11 +681,17 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### :white_check_mark: Assembly
 
-![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg)
+![Components soldered to the Envelope PCB](/assets/blog/eurorack-modular-synth/envelope-assembled.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg/)
 
 ## Voltage Controlled Amplifier (VCA)
+
+![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg)
+
+A Voltage Controlled Amplifier allows you to control the `Gain` of an input via a control voltage. It can have a few uses such as shaping the output of an envelope generator or muting a step of a sequence using the `Gate` of the sequencer.
+
+### How It Works
 
 [Moritz Klein's DIY VCA Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvRVZeniuulktYO_OQs0UNkY)
 
@@ -669,7 +699,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Parts
 
-Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+Kit contains the `Quantity` needed for building 1 unit, and I have purchased one more as "you can never have too many VCAs". `Received` is extra quantities I have purchased to build additional units.
 
 #### PCB
 
@@ -728,11 +758,13 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 ### :white_check_mark: Assembly
 
-![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg)
+![Components soldered to the VCA PCB](/assets/blog/eurorack-modular-synth/vca-assembled.jpg)
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/)
 
 ## Mixer
+
+### How It Works
 
 [Moritz Klein's DIY Mixer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
 
@@ -883,6 +915,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Wavefolder
 
+### How It Works
+
 [Moritz Klein's DIY Wavefolder Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvREnUuLIMsN1OTiXo5j6B8y)
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
@@ -1027,6 +1061,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Kick Drum
 
+### How It Works
+
 [Moritz Klein's DIY Kick Drum Video](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
 
 > Video © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
@@ -1110,6 +1146,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/KICKDRUM_MANUAL_5wVQsEK.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-kick-drum/)
 
 ## Hi-Hat
+
+### How It Works
 
 [Moritz Klein's DIY Hi-Hat Video](https://www.youtube-nocookie.com/embed/zbBY7JL9nnQ)
 
@@ -1204,6 +1242,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## Snare Drum
 
+### How It Works
+
 [Moritz Klein's DIY Snare Drum Video](https://www.youtube-nocookie.com/embed/hULEn2_4Unw)
 
 > Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
@@ -1291,6 +1331,8 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum/)
 
 ## Compressor
+
+### How It Works
 
 [Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
 

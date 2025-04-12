@@ -49,33 +49,53 @@
             "alt": "Fully Assembled DIY Eurorack Case",
             "title": "DIY Eurorack Case"
           },
+          "tuna-socks.jpg": {
+            "alt": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
+            "title": "Tuna Socks"
+          },
           "mornsun-power-supply.jpg": {
             "alt": "Fully Assembled Power Supply PCB",
             "title": "Mornsun Power Supply"
+          },
+          "sequencer-assembled.jpg": {
+            "alt": "Components soldered to the Sequencer PCB",
+            "title": "Sequencer Assembled"
           },
           "sequencer-installed.jpg": {
             "alt": "Sequencer Installed in the Case",
             "title": "Sequencer Installed"
           },
+          "vco-assembled.jpg": {
+            "alt": "Components soldered to the VCO PCB",
+            "title": "VCO Assembled"
+          },
           "vco-installed.jpg": {
             "alt": "VCO Installed in the Case",
             "title": "VCO Installed"
+          },
+          "vcf-assembled.jpg": {
+            "alt": "Components soldered to the VCF PCB",
+            "title": "VCF Assembled"
           },
           "vcf-installed.jpg": {
             "alt": "VCF Installed in the Case",
             "title": "VCF Installed"
           },
+          "envelope-assembled.jpg": {
+            "alt": "Components soldered to the Envelope PCB",
+            "title": "Envelope Assembled"
+          },
           "envelope-installed.jpg": {
             "alt": "Envelope Installed in the Case",
             "title": "Envelope Installed"
           },
+          "vca-assembled.jpg": {
+            "alt": "Components soldered to the VCA PCB",
+            "title": "VCA Assembled"
+          },
           "vca-installed.jpg": {
             "alt": "VCA Installed in the Case",
             "title": "VCA Installed"
-          },
-          "tuna-socks.jpg": {
-            "alt": "Introducing Sooty and Susie to the Erica Synths mascoy \"Tuna The Cat\"",
-            "title": "Tuna Socks"
           }
         },
         "printer-am8": {
