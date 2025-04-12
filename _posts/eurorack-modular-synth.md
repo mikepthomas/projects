@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-04-11T19:48:51.526Z
+lastmod: 2025-04-12T17:12:09.449Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -42,14 +42,16 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [
 
 ### Sourcing Parts
 
-| Item                                   | Quantity | Received | Notes                                                                                                                                                       |
-| -------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Befaco Bananuts (Black)                | 25       | 25       |                                                                                                                                                             |
-| Befaco Bananuts (Red)                  | 25       | 25       |                                                                                                                                                             |
-| Befaco Bananuts Wrench Tool            | 1        | 1        |                                                                                                                                                             |
-| Befaco Squid Cable                     | 1        | 1        |                                                                                                                                                             |
-| Eurorack Blank Panels (Thonk Logo)     | 1 x 2HP  | 1        |                                                                                                                                                             |
-| Eurorack Blank Panels (Circuit Design) | Set of 7 | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
+| Item                                                            | Quantity | Received | Notes                                                                                                                                                       |
+| --------------------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Befaco Bananuts](https://www.befaco.org/bananuts/) (Black)     | 25       | 25       |                                                                                                                                                             |
+| [Befaco Bananuts](https://www.befaco.org/bananuts/) (Red)       | 25       | 25       |                                                                                                                                                             |
+| [Befaco Bananuts](https://www.befaco.org/bananuts/) Wrench Tool | 1        | 1        |                                                                                                                                                             |
+| [Befaco Knurlies](https://www.befaco.org/knurlies/)             | 100      |          | 100 On Order                                                                                                                                                |
+| [Befaco Squid Cable](https://www.befaco.org/squid-cable-mult/)  | 1        | 1        |                                                                                                                                                             |
+| Eurorack Blank Panels (Circuit Design)                          | Set of 7 | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
+| Eurorack Blank Panels (Erica Synths Blank)                      | 2 x 8HP  | 2        |                                                                                                                                                             |
+| Eurorack Blank Panels (Thonk Logo)                              | 1 x 2HP  | 1        |                                                                                                                                                             |
 
 ## Power
 
