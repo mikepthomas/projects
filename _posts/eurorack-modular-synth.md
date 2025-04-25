@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-04-12T17:12:09.449Z
+lastmod: 2025-04-25T22:00:11.374Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -36,7 +36,7 @@ I wanted something that I could connect up to a computer via USB to use software
 
 # Eurorack Case
 
-I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](#edu-diy-drums-bundle) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
+I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](https://www.thonk.co.uk/shop/mki-erica-edu-drums/) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
 
 ## Accessories
 
@@ -295,6 +295,23 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/LaborScope_manual_26_03.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-labor-scope/)
+
+## EDU DIY Labor PSU Connector
+
+### Parts
+
+#### PCB
+
+| Item             | Quantity |
+| ---------------- | -------- |
+| EDUPDB2 Main PCB | 1        |
+
+#### Connectors
+
+| Item              | Quantity |
+| ----------------- | -------- |
+| 2x8 Pin Sockets   | 3        |
+| 8-pin male header | 2        |
 
 # mki x es.EDU System
 
@@ -774,7 +791,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Parts
 
-`Quantity` is for 1 unit, kit contains enough parts for 1 unit and [Drums Bundle](#edu-diy-drums-bundle) contans enough for a second. `Received` is extra quantities I have purchased to build additional units.
+`Quantity` is for 1 unit, kit contains enough parts for 1 unit and [Drums Bundle](https://www.thonk.co.uk/shop/mki-erica-edu-drums/) contans enough for a second. `Received` is extra quantities I have purchased to build additional units.
 
 #### PCB
 
@@ -835,6 +852,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ## Noise/Sample & Hold (S&H)
 
 ### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
 
 #### PCB
 
@@ -925,6 +944,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Parts
 
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
 #### PCB
 
 | Item                       | Quantity | Received | Notes                                                                                                      |
@@ -991,6 +1012,8 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 ## Output
 
 ### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
 
 #### PCB
 
@@ -1059,7 +1082,33 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output/)
 
-# EDU DIY Drums Bundle
+# EDU DIY Effects
+
+## Compressor
+
+### How It Works
+
+[Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
+
+> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor/)
+
+## Bucket Brigade Delay (BBD)
+
+### How It Works
+
+[Moritz Klein's DIY BBD Video](https://www.youtube-nocookie.com/embed/4LjP5Y1yxXs)
+
+> Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd/)
+
+# EDU DIY Drums
 
 ## Kick Drum
 
@@ -1332,22 +1381,16 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum/)
 
-## Compressor
+## FM Drum
 
 ### How It Works
 
-[Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
+[Moritz Klein's DIY FM Drum Video](https://www.youtube-nocookie.com/embed/Xbl1xwFR3eg)
 
-> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor/)
-
-## Bucket Brigade Delay (BBD)
+> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 I have yet to purchase this module.
 
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd/)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/FM_DRUM_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-fm-drum/)

@@ -2,7 +2,7 @@
 title: Thinkcenter
 heading: Getting small machines to create a Proxmox cluster
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-04-07T19:56:12.173Z
+lastmod: 2025-04-25T22:00:10.374Z
 author: Mike Thomas
 description: Making old outdated machines do modern things.
 preview: /assets/blog/thinkcenter/thinkcenter-hero.jpg
@@ -47,24 +47,24 @@ The replacement for "Shed Server" was named "Lenny" (just because it is a Lenovo
 
 ### Router
 
-| CPU      | Case  | Flashed with                           | Bluetooth | Wifi | Extra                                     | NVME SDD                         | Memory               | Notes                                   |
-| -------- | ----- | -------------------------------------- | --------- | ---- | ----------------------------------------- | -------------------------------- | -------------------- | --------------------------------------- |
-| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) |           |      | Intel PRO I350 Quad Port Gigabit Ethernet | 1TB Crucial P3 Plus M.2 NVME SSD | 16GB Ramaxel 2666MHz | With Lenovo VESA Mount to mount to wall |
+| CPU      | Case  | Flashed with                           | Bluetooth | Wifi | Extra                                                                   | NVME SDD                       | Memory               | Notes                                   |
+| -------- | ----- | -------------------------------------- | --------- | ---- | ----------------------------------------------------------------------- | ------------------------------ | -------------------- | --------------------------------------- |
+| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) |           |      | 256GB Sandisk 2.5" SATA SSD & Intel PRO I350 Quad Port Gigabit Ethernet | 512GB Micron 3400 M.2 NVME SSD | 16GB Ramaxel 2666MHz | With Lenovo VESA Mount to mount to wall |
 
 ### Proxmox Cluster
 
-| CPU      | Case  | Flashed with                           | Bluetooth                | Wifi                            | Extra                       | NVME SDD                    | Memory                | Notes                                         |
-| -------- | ----- | -------------------------------------- | ------------------------ | ------------------------------- | --------------------------- | --------------------------- | --------------------- | --------------------------------------------- |
-| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 1TB WD Black 2.5" SATA HDD  | 256GB WD Black M.2 NVME SSD | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
-| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 256GB Samsung 2.5" SATA SSD |                             | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
-| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 256GB Samsung 2.5" SATA SSD |                             | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
+| CPU      | Case  | Flashed with                           | Bluetooth                | Wifi                            | Extra                                                                   | NVME SDD                         | Memory                | Notes                                         |
+| -------- | ----- | -------------------------------------- | ------------------------ | ------------------------------- | ----------------------------------------------------------------------- | -------------------------------- | --------------------- | --------------------------------------------- |
+| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 256GB Sandisk 2.5" SATA SSD & Intel PRO I350 Quad Port Gigabit Ethernet | 1TB Crucial P3 Plus M.2 NVME SSD | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
+| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 256GB Samsung 2.5" SATA SSD                                             | 1TB Crucial P3 Plus M.2 NVME SSD | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
+| i5-8500T | M720Q | [Proxmox VE](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Wireless 8265, No Antenna | 256GB Samsung 2.5" SATA SSD                                             | 1TB Crucial P3 Plus M.2 NVME SSD | 32GB Hypertec 2400MHz | Will be installed in [10" Rack](homelab#rack) |
 
 ### Desktops
 
-| CPU      | Case  | Flashed with      | Bluetooth                | Wifi                             | Extra                           | NVME SDD                       | Memory                | Notes                                          |
-| -------- | ----- | ----------------- | ------------------------ | -------------------------------- | ------------------------------- | ------------------------------ | --------------------- | ---------------------------------------------- |
-| i5-8400T | M720Q | Windows 11 Pro 64 |                          |                                  | 256GB Micron 1300 2.5" SATA SSD |                                | 16GB Micron 2133MHz   |                                                |
-| i5-8400T | M720Q | Windows 11 Pro 64 | Intel Bluetooth wireless | Intel Wireless 8265              | 256GB Micron 1300 2.5" SATA SSD |                                | 16GB SK Hynix 2400MHz |                                                |
-| i5-9400T | M720Q | Windows 11 Pro 64 |                          |                                  | 256GB Micron 1300 2.5" SATA SSD |                                | 16GB SK Hynix 2666MHz |                                                |
-| i5-9400T | M720Q | Windows 11 Pro 64 | Intel Bluetooth wireless | Intel Wireless 8265              | 256GB Micron 1300 2.5" SATA SSD |                                | 16GB SK Hynix 2666MHz |                                                |
-| i7-7700T | M710Q | Windows 10 Pro 64 | Intel Bluetooth wireless | Intel Dual Band Wireless-AC 3165 | 1TB WD Blue 2.5" SATA HDD       | 512GB Micron 3400 M.2 NVME SSD | 16GB Micron 2666MHz   | Currently using as a basic desktop replacement |
+| CPU      | Case  | Flashed with      | Bluetooth                | Wifi                             | Extra                           | NVME SDD                    | Memory                | Notes                                          |
+| -------- | ----- | ----------------- | ------------------------ | -------------------------------- | ------------------------------- | --------------------------- | --------------------- | ---------------------------------------------- |
+| i5-8400T | M720Q | Windows 11 Pro 64 |                          |                                  | 256GB Micron 1300 2.5" SATA SSD |                             | 16GB Micron 2133MHz   |                                                |
+| i5-8400T | M720Q | Windows 11 Pro 64 | Intel Bluetooth wireless | Intel Wireless 8265              | 256GB Micron 1300 2.5" SATA SSD |                             | 16GB Micron 2666MHz   |                                                |
+| i5-9400T | M720Q | Windows 11 Pro 64 |                          |                                  | 256GB Micron 1300 2.5" SATA SSD |                             | 16GB SK Hynix 2666MHz |                                                |
+| i5-9400T | M720Q | Windows 11 Pro 64 | Intel Bluetooth wireless | Intel Wireless 8265              | 256GB Micron 1300 2.5" SATA SSD |                             | 16GB SK Hynix 2666MHz |                                                |
+| i7-7700T | M710Q | Windows 10 Pro 64 | Intel Bluetooth wireless | Intel Dual Band Wireless-AC 3165 | 1TB WD Black 2.5" SATA HDD      | 256GB WD Black M.2 NVME SSD | 16GB SK Hynix 2400MHz | Currently using as a basic desktop replacement |
