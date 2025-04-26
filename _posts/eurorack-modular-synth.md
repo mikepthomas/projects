@@ -1092,6 +1092,82 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 > Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUCOMP2 PCB               | 1        |          |                                                                                                            |
+| EDUCOMP2 Front Panel       | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1.5uF)        | 3        |          |       |
+| Ceramic Capacitor (100nF)     | 8        | 100      |       |
+| Ceramic Capacitor (680pF)     | 1        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Signal Diode (1N4148)  | 13       | 25       |                                                                                                                |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+
+#### Integrated Circuits
+
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (2N3904) | 5        |          |       |
+| Op Amp Dual (TL072)     | 2        | 10       |       |
+| Op Amp Quad (TL074)     | 1        | 10       |       |
+| 8 Pin DIP Sockets       | 2        | 15       |       |
+| 14 Pin DIP Sockets      | 1        | 10       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (A1M)   | 1        | 4        |       |
+| Vertical Trim Potentiometer (A500K) | 1        |          |       |
+| Vertical Trim Potentiometer (A100K) | 2        | 2        |       |
+| Vertical Trim Potentiometer (A20K)  | 1        |          |       |
+| Vertical Trim Potentiometer (A10K)  | 1        |          |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (470K) | 2        |          |       |
+| Metal Film resistor (330K) | 1        |          |       |
+| Metal Film resistor (220K) | 1        |          |       |
+| Metal Film resistor (120K) | 1        |          |       |
+| Metal Film resistor (100K) | 11       | 100      |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (33K)  | 4        | 100      |       |
+| Metal Film resistor (20K)  | 1        | 100      |       |
+| Metal Film resistor (10K)  | 4        | 100      |       |
+| Metal Film resistor (3.3K) | 4        |          |       |
+| Metal Film resistor (2K)   | 1        | 100      |       |
+| Metal Film resistor (470R) | 1        | 100      |       |
+| Metal Film resistor (200R) | 1        |          |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 3        | 30       |       |
+| 3mm Red LED         | 2        | 1        |       |
+| 3mm Green LED       | 3        |          |       |
+| 10 Pin Power Header | 1        | 10       |       |
+
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor/)
@@ -1103,6 +1179,86 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 [Moritz Klein's DIY BBD Video](https://www.youtube-nocookie.com/embed/4LjP5Y1yxXs)
 
 > Video © 2024 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUBBD2 PCB                | 1        |          |                                                                                                            |
+| EDUBBD2 Front Panel        | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF)  | 2        | 10       |       |
+| Electrolytic Capacitor (3.3uF) | 2        |          |       |
+| Film Capacitor (1uF)           | 2        | 10       |       |
+| Film Capacitor (15nF)          | 1        |          |       |
+| Ceramic Capacitor (100nF)      | 12       | 100      |       |
+| Ceramic Capacitor (1nF)        | 1        |          |       |
+| Ceramic Capacitor (220pF)      | 2        |          |       |
+
+#### Diodes
+
+| Item                   | Quantity | Received | Notes                                                                                                          |
+| ---------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Signal Diode (1N4148)  | 5        | 25       |                                                                                                                |
+| Schottky Diode (SB140) | 2        | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+
+#### Integrated Circuits
+
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| N-CH JFET (J113)     | 1        |          |       |
+| 5V Regulator (78L05) | 1        |          |       |
+| Op Amp Dual (TL072)  | 3        | 10       |       |
+| BBF 4096 (V3205SD)   | 1        |          |       |
+| PLL (CD4046BE)       | 1        |          |       |
+| 8 Pin DIP Sockets    | 3        | 15       |       |
+| 14 Pin DIP Sockets   | 1        | 10       |       |
+| 16 Pin DIP Sockets   | 1        |          |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes                |
+| ------------------------------------ | -------- | -------- | -------------------- |
+| Vertical Alpha Potentiometer (B100K) | 1        | 5        | With Aluminium Knobs |
+| Vertical Trim Potentiometer (A100K)  | 1        | 2        |                      |
+| Vertical Trim Potentiometer (B100K)  | 2        | 8        |                      |
+| Vertical Trim Potentiometer (B10K)   | 1        |          |                      |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (2.2M) | 1        |          |       |
+| Metal Film resistor (100K) | 9        | 100      |       |
+| Metal Film resistor (82K)  | 1        | 100      |       |
+| Metal Film resistor (62K)  | 1        |          |       |
+| Metal Film resistor (51K)  | 1        |          |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (39K)  | 1        |          |       |
+| Metal Film resistor (22K)  | 3        |          |       |
+| Metal Film resistor (10K)  | 2        | 100      |       |
+| Metal Film resistor (6.2K) | 1        |          |       |
+| Metal Film resistor (4.7K) | 1        |          |       |
+| Metal Film resistor (1K)   | 1        | 100      |       |
+| Metal Film resistor (470R) | 2        | 100      |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Mono Audio Jack     | 5        | 30       |       |
+| SPDT Switch         | 1        | 1        |       |
+| 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
