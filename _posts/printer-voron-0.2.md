@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2024-09-10T20:40:42.453Z
+lastmod: 2025-06-21T21:33:35.102Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -346,16 +346,16 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 | [Foot_Accent_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_A_x2.stl)       | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                           |
 | [Foot_Accent_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_B_x2.stl)       | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                                           |
 
-### :negative_squared_cross_mark: Stealth Skirts Extended Feet
+### :negative_squared_cross_mark: Stealth Skirts Feet
 
-| Item                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                           |
-| -------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------- |
-| [feet-accent-m](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)           | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
-| [feet-accent](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)             | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
-| [Back_Left_Foot_inlet](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
-| [Back_Right_Foot_FS](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
-| [Front_Left_Foot-extend](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
-| [Front_Right_Foot-extend](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [Smolboi](https://www.printables.com/@Smolboi) |
+| Item                                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------- |
+| [Left_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Rear_Accent_x1.stl)   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick`                                      |
+| [Mains_Inlet_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Mains_Inlet_Foot_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick`                                      |
+| [Right_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Accent_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick`                                      |
+| [Right_Rear_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Foot_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick`                                      |
+| [fridge-door-stealth-accent-pieces](https://www.printables.com/model/1079037)                                                                    | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
+| [fridge-door-stealth-front-feet](https://www.printables.com/model/1079037)                                                                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
 
 ### :negative_squared_cross_mark: Leadscrew
 
@@ -594,23 +594,30 @@ I Plan on replacing the stock Trident style skirts with the [Stealth Skirts Mod 
 | [Front_Skirt_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Front_Skirt_B_x1.STL)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I plan on printing the Stealth Skirts mod |
 | [Logo_Insert](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Logo_Insert_x2.stl) | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Not Required as I plan on printing the Stealth Skirts mod |
 
-### :negative_squared_cross_mark: Front Stealth Skirts
+### :negative_squared_cross_mark: Fridge Door Stealth Skirts
 
-| Item                                                                                                                                               | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------- |
-| [Left_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Front_Skirt_x1.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick` |
-| [Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Logo_Insert_x2.stl)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick` |
-| [Right_Front_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Front_Skirt_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `Maverick` |
+| Item                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                        |
+| --------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------- |
+| [fridge-door-stealth-front-left-skirt](https://www.printables.com/model/1079037)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
+| [fridge-door-stealth-front-right-skirt](https://www.printables.com/model/1079037) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
+| [fridge-door-stealth-left-skirt-mesh](https://www.printables.com/model/1079037)   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
+| [fridge-door-stealth-right-skirt-mesh](https://www.printables.com/model/1079037)  | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
 
 ### :negative_squared_cross_mark: Display
 
-| Item                                                                                                                      | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                                                |
-| ------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------- |
-| [Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate |
-| [Display_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Left_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   |                                                                      |
-| [Display_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Right_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   |                                                                      |
-| [Display_Faceplate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)        |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate |
-| [Display_Diffuser](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Bc%5D_Display_Diffuser_x1.STL)   | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |      |        |      |   :x:   |                                                                      |
+| Item                                                                                                                      | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| [Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate            |
+| [Display_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Left_x1.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | Not Required as I plan on printing the Fridge Door Stealth Skirts Display Mount |
+| [Display_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Right_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | Not Required as I plan on printing the Fridge Door Stealth Skirts Display Mount |
+| [Display_Faceplate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)        |      |        |      |   :x:   | Not Required as I plan on printing the Multi-color Display Faceplate            |
+| [Display_Diffuser](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Bc%5D_Display_Diffuser_x1.STL)   | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |      |        |      |   :x:   |                                                                                 |
+
+### :negative_squared_cross_mark: Fridge Door Stealth Skirts Display Mount
+
+| Item                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                        |
+| --------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------------- |
+| [display-mount-one-piece-updated](https://www.printables.com/model/1079037) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by [driftrotor](https://www.printables.com/@driftrotor_763225) |
 
 ### :negative_squared_cross_mark: Multi-color Display Faceplate
 
