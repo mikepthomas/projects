@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-04-25T22:00:11.374Z
+lastmod: 2025-06-22T11:15:13.578Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1545,7 +1545,92 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 > Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
-I have yet to purchase this module.
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quantities I have purchased to build additional units.
+
+#### PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                      |
+| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
+| EDUFMD2 PCB                | 1        |          |                                                                                                            |
+| EDUFMD2 Front Panel        | 1        |          |                                                                                                            |
+| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 10       |       |
+| Film Capacitor (1uF)          | 1        | 10       |       |
+| Ceramic Capacitor (470nF)     | 1        |          |       |
+| Ceramic Capacitor (100nF)     | 4        | 100      |       |
+| Film Capacitor (15nF)         | 1        |          |       |
+| Ceramic Capacitor (10nF)      | 1        |          |       |
+| Film Capacitor (5.6nF)        | 1        |          |       |
+| Film Capacitor (2.2nF)        | 1        |          |       |
+| Film Capacitor (470pF)        | 2        |          |       |
+| Film Capacitor (330pF)        | 1        |          |       |
+
+#### Diodes
+
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Schottky Diode (1N5819) | 2        |          |       |
+| Signal Diode (1N4148)   | 18       | 25       |       |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 8        | 100      |       |
+| Transistor PNP (BC558) | 5        | 100      |       |
+| Op Amp Dual (TL072)    | 1        | 10       |       |
+| Op Amp Quad (TL074)    | 1        | 10       |       |
+| 8 Pin DIP Sockets      | 1        | 15       |       |
+| 14 Pin DIP Sockets     | 1        | 10       |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes                |
+| ------------------------------------ | -------- | -------- | -------------------- |
+| PCB Mount Trim Potentiometer (2M)    | 1        |          |                      |
+| Vertical Trim Potentiometer (B1M)    | 1        |          |                      |
+| Vertical Trim Potentiometer (A500K)  | 1        |          |                      |
+| Vertical Trim Potentiometer (B250K)  | 1        |          |                      |
+| Vertical Alpha Potentiometer (A100K) | 2        |          | With Aluminium Knobs |
+| Vertical Trim Potentiometer (A100K)  | 1        | 2        |                      |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 4        | 100      |       |
+| Metal Film resistor (470K) | 3        |          |       |
+| Metal Film resistor (330K) | 1        |          |       |
+| Metal Film resistor (200K) | 1        |          |       |
+| Metal Film resistor (100K) | 16       | 100      |       |
+| Metal Film resistor (68K)  | 1        | 100      |       |
+| Metal Film resistor (51K)  | 2        |          |       |
+| Metal Film resistor (47K)  | 1        | 100      |       |
+| Metal Film resistor (39K)  | 2        |          |       |
+| Metal Film resistor (33K)  | 3        | 100      |       |
+| Metal Film resistor (18K)  | 1        |          |       |
+| Metal Film resistor (10K)  | 7        | 100      |       |
+| Metal Film resistor (5.6K) | 1        |          |       |
+| Metal Film resistor (4.7K) | 1        |          |       |
+| Metal Film resistor (2K)   | 2        | 100      |       |
+| Metal Film resistor (1K)   | 4        | 100      |       |
+| Metal Film resistor (470R) | 1        | 100      |       |
+| Metal Film resistor (47R)  | 1        |          |       |
+| Metal Film resistor (10R)  | 2        | 100      |       |
+
+#### Misc
+
+| Item            | Quantity |
+| --------------- | -------- |
+| Mono Audio Jack | 5        |
+| SPDT Switch     | 2        |
 
 ### :negative_squared_cross_mark: Assembly
 
