@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2025-06-21T21:33:35.102Z
+lastmod: 2025-06-24T19:23:17.486Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -80,8 +80,8 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 | Bigtreetech SKR Pico                                     | 1        | 1        |                                                                               |
 | Raspberry Pi 4                                           | 1        | 1        |                                                                               |
 | MicroSD Card                                             | 1        | 1        |                                                                               |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Sepper Motors                                                           |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Sepper Motor                                                            |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Stepper Motors                                                          |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepper Motor                                                           |
 | 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                  |
 | 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/) |
 | 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans                                                                  |
@@ -174,11 +174,11 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Extruder
 
-| Item                                         | Quantity | Received | Notes              |
-| -------------------------------------------- | -------- | -------- | ------------------ |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | Moons Sepper Motor |
-| Bondtech BMG Extruder Kit                    | 1        | 1        |                    |
-| MR85 Bearing                                 | 2        | 2        |                    |
+| Item                                         | Quantity | Received | Notes               |
+| -------------------------------------------- | -------- | -------- | ------------------- |
+| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | Moons Stepper Motor |
+| Bondtech BMG Extruder Kit                    | 1        | 1        |                     |
+| MR85 Bearing                                 | 2        | 2        |                     |
 
 ## Mini-Fridge Door
 
