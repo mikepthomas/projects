@@ -24,7 +24,8 @@ promoted: true
 
 # Sourcing Parts
 
-After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as kits were not available, to keep costs down, I have decided to order a [Formbot](https://www.formbot3d.com/) kit that contains all of the parts required to build the printer.
+After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as kits were not available, to keep costs down, I decided to order a [Formbot](https://www.formbot3d.com/) kit that contains all of the parts required to build the printer.
+However I have now subsequently upgraded some of the parts with electronics, fasteners and frame from [LDO Motors](https://ldomotors.com/) and panels from [Linneo](https://linneo.tech).
 
 ## Fasteners
 
@@ -115,14 +116,14 @@ After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as ki
 
 ## Motion
 
-| Item                                    | Quantity | Received | Notes                                                                |
-| --------------------------------------- | -------- | -------- | -------------------------------------------------------------------- |
-| F623-RS Bearing                         | 24       | 24       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html) |
-| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        |                                                                      |
-| LDO 0.2 Nut Bar Mount                   | 5        | 5        |                                                                      |
-| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                      |
-| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                      |
-| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                      |
+| Item                                    | Quantity | Received | Notes                                                                                                                                       |
+| --------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| F623-RS Bearing                         | 24       | 24       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html)                                                                        |
+| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | [Vividino branded](https://www.vivedino.com/products/mgn7h-carriage-for-linear-guide-rail), 1 Z1 preload for X axis, 4 Z0 preload for Y & Z |
+| Nut Bar Mounts                          | 5        | 5        | [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                   |
+| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                                                                                             |
+| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                                                                                             |
+| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                                                                                             |
 
 ## Buildplate
 
