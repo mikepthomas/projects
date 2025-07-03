@@ -2,7 +2,7 @@
 title: AM8 Switchwire
 heading: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
-lastmod: 2024-01-12T18:04:16.970Z
+lastmod: 2025-07-03T21:11:00.502Z
 author: Mike Thomas
 description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire Mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
@@ -32,11 +32,22 @@ Since upgrading to PrusaSlicer, I have pushed my printing speeds to the limit of
 
 I have [stiffened the frame as much as I can with 3D printed upgrades](printer-printed-upgrades#frame-bracing) however, the frame really could do with a metal frame to print faster.
 
-I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but instead decided to build a complete Voron 1.8. As [Nero 3D](https://www.onlybenchies.com/) says 2 printers are 1 and 1 printer is none, therefore I would like to keep at least one working printer before heavilly modifing a working one.
+I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but instead decided to build a complete Voron 1.8. As [The Canuck Creator](https://www.youtube.com/channel/UCmV40QWkVeRs_nAvEOE_P-g) says 2 printers are 1 and 1 printer is none, therefore I would like to keep at least one working printer before heavilly modifing a working one.
 
 During my research for the [Hypercube](printer-hypercube), I ruled out the AM8 due to the cost of the frame, however the frame I settled on was an [ALTRAX frame that I have imported from Poland](https://hobby-store.pl/en/frame-kits-for-3d-printers/altrax-anet-am8-3d-printer-frame.html) for £30.55 plus postage which I thought was resonable.
 
 After purchasing the frame, I found a [project on Reddit](https://www.reddit.com/r/AnetA8/comments/rvt3zt) to convert the Anet A8 to a CoreXZ style printer similar to the [Voron Switchwire](https://vorondesign.com/voron_switchwire).
+
+# Aluminium Bed Support Plate
+
+I have purchased a one piece Aluminium support plate to replace the stock steel 3 piece design, mainly for aesthetics.
+
+The plate I have purchased was from AliExpress and the hole spacing in the center of the plate is designed to mount on a linear rail and therefore has a spacing of 20mm x 20mm for MGN-12H or 20mm x 15mm for MGN-12C.
+
+I have therefore needed to design a belt clamp to affix the belt to the bed as the hole spacing is different to the stock design.
+You can download the clamp from my [3D Printing GitHub repository](https://github.com/mikepthomas/3dprinting/tree/main/Designs/Aluminium%20Bed%20Support%20Plate%20Belt%20Clamp).
+
+When trying to fit the support plate the original frame, I found out that the bearing holders actually sit about 2mm further apart than the stock 3 piece plate. Therefore it did not fit the acrylic frame and will need to upgrade to the aluminium frame before fitting it.
 
 # Software
 
@@ -169,12 +180,12 @@ These parts are to convert to more standard Anet A8 kinematics and are mainly re
 
 ### Bottom Frame
 
-| Item                                                                              | Quantity | Material                                                                | Printed | Notes                                                               |
-| --------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ------------------------------------------------------------------- |
-| [Bottom_Corner_Plate](https://www.thingiverse.com/thing:2263216/files)            | 4        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                                                     |
-| [Bottom_Tee_Plate](https://www.thingiverse.com/thing:2263216/files)               | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                                                     |
-| [Bottom_Tee_Plate_Chain_Adapter](https://www.thingiverse.com/thing:2472832/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Celphor](https://www.thingiverse.com/Celphor)   |
-| [Z_Corner_Bracket](https://www.thingiverse.com/thing:2577774/files)               | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [mariob92](https://www.thingiverse.com/mariob92) |
+| Item                                                                   | Quantity | Material                                                                | Printed | Notes                                                                                              |
+| ---------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------------------------------- |
+| [Bottom_Corner_Plate](https://www.thingiverse.com/thing:2263216/files) | 4        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not Required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
+| [Bottom_Tee_Plate](https://www.thingiverse.com/thing:2263216/files)    | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not Required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
+| [cable_chain_am8](https://www.thingiverse.com/thing:3447106/files)     | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Corv45](https://www.thingiverse.com/corv45/designs)                            |
+| [Z_Corner_Bracket](https://www.thingiverse.com/thing:2577774/files)    | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [mariob92](https://www.thingiverse.com/mariob92)                                |
 
 ### Y Axis
 
@@ -245,14 +256,3 @@ These are for the upgraded screen from an Anet A6.
 | [TL_Smoother_mount](https://www.thingiverse.com/thing:3194074/files)            | 5        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [Doublehelix88](https://www.thingiverse.com/Doublehelix88) |
 | [Tool_Caddy](https://www.thingiverse.com/thing:2441957/files)                   | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [kayOs](https://www.thingiverse.com/kayOs)                 |
 | [Tool_Holder](https://www.thingiverse.com/thing:2764362/files)                  | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [zimonkaizoku](https://www.thingiverse.com/zimonkaizoku)   |
-
-## Smart Filament Sensor Mount
-
-Mount for the BigTreeTech Smart filment sensor V1.0 that I already have. There are two different mounts, one vertical and one horizontal.
-
-| Item                                                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
-| [BTT_Sensor_Mount_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_A.stl) | 2        |                                                      |       |        |       |        :x:         | This is a Voron Users Mod by Empusas |
-| [BTT_Sensor_Mount_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_B.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.71m | 9.46g  | £0.18 | :heavy_check_mark: | This is a Voron Users Mod by Empusas |
-
-I have printed the 'B' mounts as I am planning on mounting 2 of them, 1 on the top of each upright extrusion along with an [M4 extruder](printer-voron-1.8-mods#voron-m4) on each side. I have had to mirror one part along the Y axis when importing to the slicer as I want a mirrored version for opposite sides of the printer.

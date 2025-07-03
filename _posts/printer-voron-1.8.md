@@ -173,7 +173,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | Thermal Fuse (120C)                  | 1        | 5        |                                                                                                                                          |
 | NEMA17 Motor 17HS08-1004S            | 1        | 1        | In LDO Voron V1/V2 HT Motor Kit                                                                                                          |
 | NEMA17 TR8x4 300mm Linear Stepper    | 2        | 2        | In LDO V1 Z Motor Kit                                                                                                                    |
-| BigTreeTech Smart Filament Sensor V2 | 2        | 2        |                                                                                                                                          |
+| BigTreeTech Smart Filament Sensor V1 | 2        | 2        |                                                                                                                                          |
 
 ## Panels
 

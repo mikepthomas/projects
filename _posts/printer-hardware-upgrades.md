@@ -122,17 +122,6 @@ Since tuning the printer to remove as many imperfections in my prints as possibl
 
 I have mainly been printing with Matt ABS filament since fitting the motors and therefore have not really seen any improvements in print quality. I will have to print with some glossy black PETG to see some like for like results before recommending the upgrade.
 
-# Aluminium Bed Support Plate
-
-I have purchased a one piece Aluminium support plate to replace the stock steel 3 piece design, mainly for aesthetics.
-
-The [plate I have purchased is from Ali Express](https://aliexpress.com/item/1005003150430699.html) and the hole spacing in the center of the plate is designed to mount on a linear rail and therefore has a spacing of 20mm x 20mm for MGN-12H or 20mm x 15mm for MGN-12C.
-
-I have therefore needed to design a belt clamp to affix the belt to the bed as the hole spacing is different to the stock design.
-You can download the clamp from my [3D Printing GitHub repository](https://github.com/mikepthomas/3dprinting/tree/main/Designs/Aluminium%20Bed%20Support%20Plate%20Belt%20Clamp).
-
-When trying to fit the support plate, I found out that the bearing holders actually sit about 2mm further apart than the stock 3 piece plate. Therefore I will have to wait until I upgrade to the [aluminium frame](printer-am8) before fitting this.
-
 # PEI Flex Plate
 
 When I first started printing with this machine I printed directly on the bed, covered in painters masking tape.

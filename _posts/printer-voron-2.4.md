@@ -113,6 +113,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | 60x60x20 Fan (24V)                                    | 3        | 2        | [AFB0624HD Delta Fans](https://www.delta-fan.com/Download/Spec/AFB0624VHD.pdf), 1 Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead                                                 |
 | 40x40x20 Centrifugal Fan (24V)                        | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
 | 40x40x10 Axial Fan (24V)                              | 1        |          | For AfterBurner, Not Required, Building [StealthBurner](voron-stealthburner) instead                                                                                                                                                       |
+| BigTreeTech Smart Filament Sensor V2                  | 2        | 2        |                                                                                                                                                                                                                                            |
 
 ## Vibration Management
 
@@ -1096,3 +1097,11 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 | ----------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [bowden_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/bowden_retainer.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [spool_holder](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/spool_holder.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+## Smart Filament Sensor Mount
+
+Mount for the BigTreeTech Smart filment sensor V2.
+
+| Item                                                           | Quantity | Material | Size | Weight | Cost | Printed | Notes                                                                           |
+| -------------------------------------------------------------- | -------- | -------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| [btt_sfs_mount](https://www.printables.com/model/673702/files) | 2        |          |      |        |      |   :x:   | This is a Mod by [Lecso](https://www.printables.com/@Lecso_113752). 6mm version |

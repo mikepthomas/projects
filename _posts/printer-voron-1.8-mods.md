@@ -7,6 +7,8 @@ author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
 preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
 slug: /projects/printer-voron-1.8-mods
+related:
+  - /projects/voron-m4
 draft: false
 tags:
   - Voron
@@ -143,11 +145,14 @@ Cleans the nozzle before printing and has endstops to locate the magnetic bed.
 
 ## Smart Filament Sensor Mount
 
-Mount for the BigTreeTech Smart filment sensor V2.
+Mount for the BigTreeTech Smart filment sensor V1.0 that I already have. There are two different mounts, one vertical and one horizontal.
 
-| Item                                                           | Quantity | Material | Size | Weight | Cost | Printed | Notes                                                                           |
-| -------------------------------------------------------------- | -------- | -------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
-| [btt_sfs_mount](https://www.printables.com/model/673702/files) | 2        |          |      |        |      |   :x:   | This is a Mod by [Lecso](https://www.printables.com/@Lecso_113752). 6mm version |
+| Item                                                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
+| [BTT_Sensor_Mount_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_A.stl) | 2        |                                                      |       |        |       |        :x:         | This is a Voron Users Mod by Empusas |
+| [BTT_Sensor_Mount_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor_Mount_B.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.71m | 9.46g  | £0.18 | :heavy_check_mark: | This is a Voron Users Mod by Empusas |
+
+I have printed the 'B' mounts as I am planning on mounting 2 of them, 1 at the top of each rear extrusion along with an [M4 extruder](voron-m4) on each side. I have had to mirror one part along the Y axis when importing to the slicer as I want a mirrored version for opposite sides of the printer.
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -155,7 +160,7 @@ Mount for the BigTreeTech Smart filment sensor V2.
 
 | Item                                 | Quantity |
 | ------------------------------------ | -------- |
-| BigTreeTech Smart Filament Sensor V2 | 2        |
+| BigTreeTech Smart Filament Sensor V1 | 2        |
 | M3 Hammer Head T-nuts                | 4        |
 | M3x8 SHCS                            | 4        |
 
