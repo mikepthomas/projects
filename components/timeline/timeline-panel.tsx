@@ -56,7 +56,7 @@ const panelVariants: Variants = {
     y: 0,
     x: [-20, 0, 20, 0, -10, 0, 10, 0],
     transition: {
-      type: 'linear',
+      type: 'tween',
       duration: 0.25,
     },
   },
