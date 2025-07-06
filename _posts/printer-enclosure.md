@@ -12,6 +12,7 @@ related:
 draft: false
 tags:
   - Anet A8
+  - Ikea
   - Voron
 categories:
   - 3D Printing

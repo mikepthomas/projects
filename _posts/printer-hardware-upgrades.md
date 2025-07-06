@@ -10,6 +10,7 @@ slug: /projects/printer-hardware-upgrades
 draft: false
 tags:
   - Anet A8
+  - BigTreeTech
 categories:
   - 3D Printing
 keywords:

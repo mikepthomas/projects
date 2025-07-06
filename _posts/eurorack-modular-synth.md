@@ -2,13 +2,14 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-06-22T11:15:13.578Z
+lastmod: 2025-07-06T11:19:04.478Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
 slug: /projects/eurorack-modular-synth
 draft: false
 tags:
+  - Erica Synths
   - Music
   - Printed Circuit Board
 categories:
@@ -36,7 +37,7 @@ I wanted something that I could connect up to a computer via USB to use software
 
 # Eurorack Case
 
-I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums Bundle](https://www.thonk.co.uk/shop/mki-erica-edu-drums/) and any extra modules I make using [N8 Synth Prototype Kits](http://www.n8synth.co.uk/).
+I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums](#edu-diy-drums) and any extra modules I make using from PCBs or [Prototype Kits](#breadboard).
 
 ## Accessories
 
@@ -47,7 +48,7 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [
 | [Befaco Bananuts](https://www.befaco.org/bananuts/) (Black)     | 25       | 25       |                                                                                                                                                             |
 | [Befaco Bananuts](https://www.befaco.org/bananuts/) (Red)       | 25       | 25       |                                                                                                                                                             |
 | [Befaco Bananuts](https://www.befaco.org/bananuts/) Wrench Tool | 1        | 1        |                                                                                                                                                             |
-| [Befaco Knurlies](https://www.befaco.org/knurlies/)             | 100      |          | 100 On Order                                                                                                                                                |
+| [Befaco Knurlies](https://www.befaco.org/knurlies/)             | 100      | 100      |                                                                                                                                                             |
 | [Befaco Squid Cable](https://www.befaco.org/squid-cable-mult/)  | 1        | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Circuit Design)                          | Set of 7 | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
 | Eurorack Blank Panels (Erica Synths Blank)                      | 2 x 8HP  | 2        |                                                                                                                                                             |
@@ -100,11 +101,23 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 ## Breadboard
 
 To test eurorack modules, I initally built them up on a breadboard, powered by 2 9V Batteries.
-However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#labor) that I will use to power and test the modules going forward.
+However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#edu-diy-labor) that I will use to power and test the modules going forward.
 
 [Moritz Klein's Breadboard Basics Video](https://www.youtube-nocookie.com/embed/XpMZoR3fgd0?si=k-qhaluHhLYVeLpG)
 
 > Videos © 2021 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### Sourcing Parts
+
+| Item                        | Quantity | Received | Notes                                                                                                     |
+| --------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------- |
+| 6HP Eurorack Prototype Kit  | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
+| 14hp Eurorack Prototype Kit | 3        | 3        | Available on [Siam Modular](https://siammodular.com/products/3x-eurorack-prototyping-board-for-synth-diy) |
+| Battery (9V)                | 2        | 2        |                                                                                                           |
+| Battery Connector (9V)      | 2        | 6        |                                                                                                           |
+| Breadboard                  | 1        | 1        |                                                                                                           |
+| Digital Multimeter          | 1        | 1        |                                                                                                           |
+| Solid Core Wire Jumper Kit  | 1        | 2        |                                                                                                           |
 
 ## Oscilloscope
 
@@ -127,17 +140,7 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 | [Button](https://www.thingiverse.com/thing:3631288/files)  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 | [Panel](https://www.thingiverse.com/thing:3631288/files)   | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 
-### Sourcing Parts
-
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| 9V Battery                 | 2        | 2        |       |
-| 9V Battery Connector       | 2        | 6        |       |
-| Breadboard                 | 1        | 1        |       |
-| Digital Multimeter         | 1        | 1        |       |
-| Solid Core Wire Jumper Kit | 1        | 2        |       |
-
-# Erica Synths Labor
+# Erica Synths
 
 ![Introducing Sooty and Susie to the Erica Synths mascot "Tuna The Cat"](/assets/blog/eurorack-modular-synth/tuna-socks.jpg)
 
@@ -472,11 +475,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUVCO3 PCB                | 1        |          |                                                                                                            |
-| EDUVCO3 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCO3 PCB         | 1        |          |       |
+| EDUVCO3 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -533,7 +535,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
 | 10K thermistor      | 4        | 20       |       |
-| Mono Audio Jack     | 5        | 30       |       |
+| Mono Audio Jack     | 5        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
@@ -560,11 +562,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUVCF1 PCB                | 1        |          |                                                                                                            |
-| EDUVCF1 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCF1 PCB         | 1        |          |       |
+| EDUVCF1 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -614,7 +615,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 4        | 30       |       |
+| Mono Audio Jack     | 4        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
@@ -641,11 +642,10 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUENV1 PCB                | 1        |          |                                                                                                            |
-| EDUENV1 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUENV1 PCB         | 1        |          |       |
+| EDUENV1 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -695,7 +695,7 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 | ------------------- | -------- | -------- | ----- |
 | SPDT Switch         | 1        | 1        |       |
 | 3mm Red LED         | 1        | 1        |       |
-| Mono Audio Jack     | 3        | 30       |       |
+| Mono Audio Jack     | 3        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
@@ -722,11 +722,10 @@ Kit contains the `Quantity` needed for building 1 unit, and I have purchased one
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUVCA2 PCB                | 1        |          |                                                                                                            |
-| EDUVCA2 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCA2 PCB         | 1        |          |       |
+| EDUVCA2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -772,7 +771,7 @@ Kit contains the `Quantity` needed for building 1 unit, and I have purchased one
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 6        | 30       |       |
+| Mono Audio Jack     | 6        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
@@ -795,11 +794,10 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUMIX2 PCB                | 1        |          |                                                                                                            |
-| EDUMIX2 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUMIX2 PCB         | 1        |          |       |
+| EDUMIX2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -842,7 +840,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 6        | 30       |       |
+| Mono Audio Jack     | 6        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :wrench: Assembly
@@ -857,11 +855,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUSH2 PCB                 | 1        |          |                                                                                                            |
-| EDUSH2 Front Panel         | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| EDUSH2 PCB         | 1        |          |       |
+| EDUSH2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -927,7 +924,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
 | 3mm Red LED         | 1        | 1        |       |
-| Mono Audio Jack     | 8        | 30       |       |
+| Mono Audio Jack     | 8        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
@@ -948,11 +945,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUWAVE1 PCB               | 1        |          |                                                                                                            |
-| EDUWAVE1 Front Panel       | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUWAVE1 PCB         | 1        |          |       |
+| EDUWAVE1 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1002,7 +998,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 3        | 30       |       |
+| Mono Audio Jack     | 3        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
@@ -1017,11 +1013,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUOUT1 PCB                | 1        |          |                                                                                                            |
-| EDUOUT1 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUOUT1 PCB         | 1        |          |       |
+| EDUOUT1 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1074,7 +1069,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 2        | 30       |       |
+| Mono Audio Jack     | 2        | 29       |       |
 | Stereo Audio Jack   | 2        | 1        |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
@@ -1098,11 +1093,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUCOMP2 PCB               | 1        |          |                                                                                                            |
-| EDUCOMP2 Front Panel       | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUCOMP2 PCB         | 1        |          |       |
+| EDUCOMP2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1163,7 +1157,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 3        | 30       |       |
+| Mono Audio Jack     | 3        | 29       |       |
 | 3mm Red LED         | 2        | 1        |       |
 | 3mm Green LED       | 3        |          |       |
 | 10 Pin Power Header | 1        | 10       |       |
@@ -1186,11 +1180,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUBBD2 PCB                | 1        |          |                                                                                                            |
-| EDUBBD2 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUBBD2 PCB         | 1        |          |       |
+| EDUBBD2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1228,7 +1221,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                                 | Quantity | Received | Notes                |
 | ------------------------------------ | -------- | -------- | -------------------- |
-| Vertical Alpha Potentiometer (B100K) | 1        | 5        | With Aluminium Knobs |
+| Vertical Alpha Potentiometer (B100K) | 1        | 20       | With Aluminium Knobs |
 | Vertical Trim Potentiometer (A100K)  | 1        | 2        |                      |
 | Vertical Trim Potentiometer (B100K)  | 2        | 8        |                      |
 | Vertical Trim Potentiometer (B10K)   | 1        |          |                      |
@@ -1256,7 +1249,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 5        | 30       |       |
+| Mono Audio Jack     | 5        | 29       |       |
 | SPDT Switch         | 1        | 1        |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
@@ -1280,11 +1273,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUKICK2 PCB               | 1        |          |                                                                                                            |
-| EDUKICK2 Front Panel       | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUKICK2 PCB         | 1        |          |       |
+| EDUKICK2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1345,7 +1337,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 4        | 30       |       |
+| Mono Audio Jack     | 4        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
@@ -1366,11 +1358,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUHHAT2 PCB               | 1        |          |                                                                                                            |
-| EDUHHAT2 Front Panel       | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUHHAT2 PCB         | 1        |          |       |
+| EDUHHAT2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1409,7 +1400,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 | Item                                 | Quantity | Received | Notes                |
 | ------------------------------------ | -------- | -------- | -------------------- |
 | Vertical Trim Potentiometer (B250K)  | 1        |          |                      |
-| Vertical Alpha Potentiometer (B100K) | 1        | 5        | With Aluminium Knobs |
+| Vertical Alpha Potentiometer (B100K) | 1        | 20       | With Aluminium Knobs |
 | Vertical Trim Potentiometer (B10K)   | 2        |          |                      |
 
 #### Resistors
@@ -1440,7 +1431,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 5        | 30       |       |
+| Mono Audio Jack     | 5        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
@@ -1461,11 +1452,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUSNAR1 PCB               | 1        |          |                                                                                                            |
-| EDUSNAR1 Front Panel       | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUSNAR1 PCB         | 1        |          |       |
+| EDUSNAR1 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1530,7 +1520,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                | Quantity | Received | Notes |
 | ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 5        | 30       |       |
+| Mono Audio Jack     | 5        | 29       |       |
 | 10 Pin Power Header | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
@@ -1551,11 +1541,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### PCB
 
-| Item                       | Quantity | Received | Notes                                                                                                      |
-| -------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| EDUFMD2 PCB                | 1        |          |                                                                                                            |
-| EDUFMD2 Front Panel        | 1        |          |                                                                                                            |
-| 6HP Eurorack Prototype Kit |          | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit/) |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUFMD2 PCB         | 1        |          |       |
+| EDUFMD2 Front Panel | 1        |          |       |
 
 #### Capacitors
 
@@ -1576,7 +1565,7 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 | Item                    | Quantity | Received | Notes |
 | ----------------------- | -------- | -------- | ----- |
-| Schottky Diode (1N5819) | 2        |          |       |
+| Schottky Diode (1N5819) | 2        | 10       |       |
 | Signal Diode (1N4148)   | 18       | 25       |       |
 
 #### Integrated Circuits
@@ -1627,11 +1616,286 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item            | Quantity |
-| --------------- | -------- |
-| Mono Audio Jack | 5        |
-| SPDT Switch     | 2        |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 5        | 29       |       |
+| SPDT Switch     | 2        | 1        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/FM_DRUM_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-fm-drum/)
+
+# Bleep Sound
+
+## Basic ADSR
+
+### Parts
+
+#### PCB
+
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| ADSR Front Panel | 1        |          |       |
+| ADSR PCB 1       | 1        |          |       |
+| ADSR PCB 2       | 1        |          |       |
+
+#### Capacitors
+
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------- | -------- | ----- |
+| Ceramic Capacitor (100nF)      | 3        | 100      |       |
+| Ceramic Capacitor (10nF)       | 1        |          |       |
+| Electrolytic Capacitor (10uF)  | 3        | 5        |       |
+| Electrolytic Capacitor (4.7uF) | 1        | 5        |       |
+| Electrolytic Capacitor (1uF)   | 1        | 5        |       |
+
+#### Diodes
+
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148) | 5        | 25       |       |
+
+#### Integrated Circuits
+
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| 8 Pin DIP Sockets      | 2        | 15       |       |
+| Op Amp Dual (TL072)    | 1        | 10       |       |
+| Timer (LM555)          | 1        |          |       |
+| Transistor NPN (BC547) | 4        |          |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                |
+| ----------------------------------- | -------- | -------- | -------------------- |
+| Vertical Alpha Potentiometer (B1M)  | 3        | 5        | With Aluminium Knobs |
+| Vertical Alpha Potentiometer (B10K) | 1        |          | With Aluminium Knobs |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (22K)  | 1        |          |       |
+| Metal Film resistor (10K)  | 2        | 100      |       |
+| Metal Film resistor (4.7K) | 4        |          |       |
+| Metal Film resistor (1K)   | 1        | 100      |       |
+| Metal Film resistor (100R) | 3        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 5mm Red LED         | 1        | 5        |       |
+| 8 Pin Header        | 2        | 2        |       |
+| 8 Pin Socket        | 2        | 2        |       |
+| 10 Pin Power Header | 1        | 10       |       |
+| Mono Audio Jack     | 2        | 29       |       |
+| SPDT Switch         | 1        | 1        |       |
+
+### :negative_squared_cross_mark: Assembly
+
+BOM and Build Information are available on the [Bleep Sound Website](https://bleepsound.github.io/basic_adsr)
+
+## Basic DC mixer
+
+### Parts
+
+#### PCB
+
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| DC Mixer Front Panel | 1        |          |       |
+| DC Mixer PCB         | 1        |          |       |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (10uF) | 2        | 5        |       |
+
+#### Integrated Circuits
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 8 Pin DIP Sockets   | 1        | 15       |       |
+| Op Amp Dual (TL072) | 1        | 10       |       |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                |
+| ----------------------------------- | -------- | -------- | -------------------- |
+| Vertical Alpha Potentiometer (B10K) | 4        |          | With Aluminium Knobs |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 5        | 100      |       |
+| Metal Film resistor (10K)  | 2        | 100      |       |
+| Metal Film resistor (4.7K) | 4        |          |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 5mm Red LED         | 4        | 5        |       |
+| 10 Pin Power Header | 1        | 10       |       |
+| DPDT Switch         | 4        | 1        |       |
+| Mono Audio Jack     | 6        | 29       |       |
+
+### :negative_squared_cross_mark: Assembly
+
+BOM and Build Information are available on the [Bleep Sound Website](https://bleepsound.github.io/basic_mixer_dc)
+
+# Free Modular
+
+## Boost
+
+### Parts
+
+#### PCB
+
+| Item              | Quantity | Received | Notes |
+| ----------------- | -------- | -------- | ----- |
+| Boost Front Panel | 1        |          |       |
+| Boost PCB         | 1        |          |       |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes                                      |
+| ----------------------------- | -------- | -------- | ------------------------------------------ |
+| Ceramic Capacitor (470nF)     | 1        |          |                                            |
+| Ceramic Capacitor (100nF)     | 2        | 100      |                                            |
+| Ceramic Capacitor (10nF)      | 1        |          |                                            |
+| Ceramic Capacitor (33pF)      | 1        |          |                                            |
+| Electrolytic Capacitor (10uF) | 2        | 5        | Optional power supply filtering capacitors |
+
+#### Diodes
+
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148) | 2        | 25       |       |
+
+#### Integrated Circuits
+
+| Item                    | Quantity | Received | Notes                             |
+| ----------------------- | -------- | -------- | --------------------------------- |
+| 14 Pin DIP Sockets      | 1        | 10       |                                   |
+| Op Amp Quad (TL074)     | 1        | 10       |                                   |
+| Transistor NPN (2N3904) | 1        |          | Optional for high-impedance input |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes                |
+| ----------------------------------- | -------- | -------- | -------------------- |
+| Vertical Alpha Potentiometer (B50K) | 2        |          | With Aluminium Knobs |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (750K) | 1        |          |       |
+| Metal Film resistor (560K) | 1        |          |       |
+| Metal Film resistor (100K) | 2        | 100      |       |
+| Metal Film resistor (24K)  | 1        |          |       |
+| Metal Film resistor (18K)  | 1        |          |       |
+| Metal Film resistor (15K)  | 1        |          |       |
+| Metal Film resistor (10K)  | 2        | 100      |       |
+| Metal Film resistor (2.4K) | 1        |          |       |
+| Metal Film resistor (2K)   | 1        | 100      |       |
+| Metal Film resistor (1K)   | 1        | 100      |       |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 10 Pin Power Header | 1        | 10       |       |
+| Mono Audio Jack     | 2        | 29       |       |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available on the [Free Modular Website](https://freemodular.org/modules/Boost/docs/assembly_instructions) along with the [User Manual](https://files.freemodular.org/Boost/boost_manual.pdf)
+
+# MH Eurorack
+
+## Bypass
+
+### Parts
+
+#### PCB
+
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| Bypass Front Panel | 1        |          |       |
+| Bypass PCB         | 1        |          |       |
+
+#### Potentiometers
+
+| Item                                 | Quantity | Received | Notes                                         |
+| ------------------------------------ | -------- | -------- | --------------------------------------------- |
+| Vertical Alpha Potentiometer (A100K) | 2        | 20       | I will replace with B100K with Aluminum Knobs |
+
+#### Misc
+
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| DPDT Switch     | 1        | 1        |       |
+| Mono Audio Jack | 6        | 29       |       |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-Bypass-Assembly-instructions.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/bypass/)
+
+## UMIX
+
+### Parts
+
+#### PCB
+
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| UMIX Front Panel | 1        |          |       |
+| UMIX PCB         | 1        |          |       |
+
+#### Capacitors
+
+| Item                          | Quantity | Received | Notes                    |
+| ----------------------------- | -------- | -------- | ------------------------ |
+| Ceramic Capacitor (100nF)     | 6        | 100      |                          |
+| Electrolytic Capacitor (22uF) | 2        | 5        | I will replace with 20uF |
+
+#### Diodes
+
+| Item                    | Quantity | Received | Notes                      |
+| ----------------------- | -------- | -------- | -------------------------- |
+| Schottky Diode (1N5818) | 2        | 10       | I will replace with 1N5819 |
+
+#### Integrated Circuits
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 8 Pin DIP Sockets   | 1        | 15       |       |
+| Op Amp Dual (TL072) | 1        | 10       |       |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes                                                                                                                       |
+| -------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Metal Film resistor (100K) | 10       | 100      |                                                                                                                             |
+| Metal Film resistor (50K)  | 4        |          | I will replace with 100K (As can be seen in the parts image on the [eBay listing](https://www.ebay.co.uk/itm/176643499026)) |
+| Metal Film resistor (1K)   | 2        | 100      |                                                                                                                             |
+| Metal Film resistor (10R)  | 2        | 100      |                                                                                                                             |
+
+#### Misc
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 2 Pin Header        | 2        | 2        |       |
+| 3 Pin Header        | 1        | 1        |       |
+| 10 Pin Power Header | 1        | 10       |       |
+| Jumper Cap 2.54mm   | 3        | 109      |       |
+| Mono Audio Jack     | 8        | 29       |       |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-UMIX-Assembly-guide.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/umix/)
