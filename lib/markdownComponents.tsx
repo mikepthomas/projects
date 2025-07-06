@@ -38,7 +38,7 @@ export function getComponents() {
       if (href?.match(/^(https?:)?\/\/www.youtube(-nocookie)?.com\/embed\//)) {
         return (
           <motion.span
-            className="youtube-embed ratio ratio-16x9"
+            className="ratio ratio-16x9"
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
