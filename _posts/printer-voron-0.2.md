@@ -25,21 +25,20 @@ promoted: true
 # Sourcing Parts
 
 After having to source my own parts for the [Voron 1.8](printer-voron-1.8) as kits were not available, to keep costs down, I decided to order a [Formbot](https://www.formbot3d.com/) kit that contains all of the parts required to build the printer.
-However I have now subsequently upgraded some of the parts with electronics, fasteners and frame from [LDO Motors](https://ldomotors.com/) and panels from [Linneo](https://linneo.tech).
+However I have now subsequently upgraded many of the parts with electronics, fasteners and frame from [LDO Motors](https://ldomotors.com/) and panels from [Linneo](https://linneo.tech), Leaving me with almost enough parts to build another one.
 
 ## Fasteners
 
 | Item                                      | Quantity | Received | Notes                                                                                                                                                                                                |
 | ----------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3x6x0.5 Shim Washer                       | 50       | 38       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| LDO M3 Slide In Nut                       | 40       | 140      | 100 In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/), 40 from 2 [LDO M3 Slide In Nut Kit](https://www.onetwo3d.co.uk/product/ldo-m3-slide-in-nut-kit/)s |
-| M2 Nut                                    | 55       |          | Not required as Using [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                                                      |
-| M3 Nut                                    | 140      | 155      | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M3 Lock Nut                               | 6        | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M2x6 SHCS                                 | 70       | 75       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x4 SHCS                                 |          | 8        | To Mount Kirigami to Z-Rails                                                                                                                                                                         |
 | M2x6 FHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x6 SHCS                                 | 70       | 74       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M2x8 SHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M2.5x6 BHCS                               | 6        | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M2 Nut                                    | 55       |          | Not required as Using [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                                                      |
+| M2.5x6 BHCS                               |          | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3x6 BHCS                                 | 40       | 63       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3x8 BHCS                                 | 115      | 135      | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3x8 FHCS                                 | 5        | 7        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
@@ -50,105 +49,114 @@ However I have now subsequently upgraded some of the parts with electronics, fas
 | M3x30 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3x35 BHCS                                | 30       | 33       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3x40 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M3x50 BHCS                                | 2        | 2        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3x50 BHCS                                |          | 2        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M3 Brass heatstake inserts - short M3x5x4 | 50       | 60       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 LDO Slide In Nut                       |          | 140      | 100 In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/), 40 from 2 [LDO M3 Slide In Nut Kit](https://www.onetwo3d.co.uk/product/ldo-m3-slide-in-nut-kit/)s |
+| M3 Lock Nut                               |          | 6        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 Nut                                    | 140      | 155      | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| M3 Thumb Nut                              |          | 3        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | Makerbeam XL M3 t-nut                     | 2        | 3        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
-| M3 Thumb Nut                              | 3        | 3        | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+
+## CNC Parts
+
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| Fysetc Profile Installation Helper |          | 1        |       |
+| Siboor CNC Slide Back Plate        |          | 1        |       |
 
 ## Frame Extrusions
 
-| Item                               | Quantity | Received | Notes                                                                                                                    |
-| ---------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Makerbeam XL 15x15 200mm           | 16       | 16       | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)                                     |
-| Makerbeam XL 15x15 100mm           | 3        |          | Not Required, Using [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/) instead |
-| Kirigami Bed Mount                 | 1        | 1        | [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/)                             |
-| Siboor CNC Slide Back Plate        | 1        | 1        |                                                                                                                          |
-| Fysetc Profile Installation Helper | 1        | 1        |                                                                                                                          |
+| Item                     | Quantity | Received | Notes                                                                                        |
+| ------------------------ | -------- | -------- | -------------------------------------------------------------------------------------------- |
+| Kirigami Bed Mount       |          | 1        | [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/) |
+| Makerbeam XL 15x15 100mm | 3        |          | Not Required, Using LDO Kirigami Bed Mount Kit instead                                       |
+| Makerbeam XL 15x15 200mm | 16       | 16       | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)         |
 
 ## Extrusion Tophat Frame Extrusions
 
 | Item                        | Quantity | Received | Notes                                                                                      |
 | --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------ |
-| Makerbeam XL 15x15 200mm    | 4        | 4        | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)       |
 | Makerbeam XL 15x15 80-100mm | 4        | 4        | 100mm In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/) |
+| Makerbeam XL 15x15 200mm    | 4        | 4        | In [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/)       |
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes                                                                         |
-| -------------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------- |
-| Meanwell LRS-150-24                                      | 1        | 1        |                                                                               |
-| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                               |
-| Raspberry Pi 4                                           | 1        | 1        |                                                                               |
-| MicroSD Card                                             | 1        | 1        |                                                                               |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Stepper Motors                                                          |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepper Motor                                                           |
-| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                  |
-| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/) |
-| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans                                                                  |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                               |
-| C13 Power Cord                                           | 1        | 1        |                                                                               |
-| IEC320 C14 inlet                                         | 1        | 1        |                                                                               |
-| Hotend                                                   | 1        | 1        |                                                                               |
-| 24V Heater Cartridge                                     | 1        | 1        |                                                                               |
-| Hotend thermistor                                        | 1        | 1        |                                                                               |
-| 3M 5952 VHB tape                                         | 1        | 1        |                                                                               |
-| Fysetc Neopixel Sequins                                  | 2        | 4        |                                                                               |
-| V0 Display                                               | 1        | 1        |                                                                               |
-| Wago connectors (221-412)                                | 2        | 2        |                                                                               |
-| 100R resistor PCB for NeoPixels                          | 2        | 2        |                                                                               |
+| Item                                                     | Quantity | Received | Notes                                                                                                                                  |
+| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --- | -------------------- | --- | --- | --- |
+| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB includes the necessary 100 Ohm resistor or Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/) |
+| 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                                        |
+| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                                           |
+| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                                          |
+| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans for Stealth Skirts                                                                                                        |     | Bigtreetech SKR Pico | 1   | 1   |     |
+| 3M 5952 VHB tape                                         | 1        | 1        |                                                                                                                                        |
+| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                                                                        |
+| C13 Power Cord                                           | 1        | 1        |                                                                                                                                        |
+| ECAS04 Bowden Fitting                                    | 1        | 1        |                                                                                                                                        |
+| Fysetc Neopixel Sequins                                  | 2        | 4        |                                                                                                                                        |
+| Hotend                                                   | 1        | 1        |                                                                                                                                        |
+| Hotend thermistor                                        | 1        | 1        |                                                                                                                                        |
+| IEC320 C14 inlet                                         | 1        | 1        |                                                                                                                                        |
+| Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                                        |
+| MicroSD Card                                             | 1        | 1        |                                                                                                                                        |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Stepper Motors                                                                                                                   |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepper Motor                                                                                                                    |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                                                                        |
+| Raspberry Pi 4                                           | 1        | 1        |                                                                                                                                        |
+| V0 Display                                               | 1        | 1        |                                                                                                                                        |
+| Wago connectors (221-412)                                |          | 2        |                                                                                                                                        |
 
 ## Cables
 
-| Item                                               | Quantity | Received | Notes                                                                                     |
-| -------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------- |
-| Insulated Crimp Receptical                         | 4        |          | Kit comes with pre-made wiring harness                                                    |
-| High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness                                                    |
-| High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness                                                    |
-| Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                                                    |
-| Umbilical PCB Boards                               | 1        | 1        | [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)    |
-| Thermal Fuse 125C                                  | 1        | 5        | 120C                                                                                      |
-| JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                                                    |
-| Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                                                    |
-| 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        |                                                                                           |
-| Cable Clips                                        | 5        | 5        | Replace with [Cable Trunking Raceway Kit](https://www.amazon.co.uk/gp/product/B09BL9N1P1) |
-| Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |                                                                                           |
+| Item                                               | Quantity | Received | Notes                                                                                                                |
+| -------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
+| 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        |                                                                                                                      |
+| Cable Clips                                        |          | 5        | Replace with [Cable Trunking Raceway Kit](https://www.amazon.co.uk/gp/product/B09BL9N1P1)                            |
+| High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness                                                                               |
+| High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness                                                                               |
+| Insulated Crimp Receptical                         | 4        |          | Kit comes with pre-made wiring harness                                                                               |
+| JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                                                                               |
+| Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                                                                               |
+| Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |                                                                                                                      |
+| Thermal Fuse 150C                                  | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
+| Umbilical PCB Boards                               |          | 1        | [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
+| Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                                                                               |
 
 ## Motion
 
 | Item                                    | Quantity | Received | Notes                                                                                                                                       |
 | --------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| F623-RS Bearing                         | 24       | 24       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html)                                                                        |
-| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | [Vividino branded](https://www.vivedino.com/products/mgn7h-carriage-for-linear-guide-rail), 1 Z1 preload for X axis, 4 Z0 preload for Y & Z |
-| Nut Bar Mounts                          | 5        | 5        | [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                   |
+| F623-RS Bearing                         | 24       | 30       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html)                                                                        |
 | GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                                                                                             |
 | GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                                                                                             |
+| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | [Vividino branded](https://www.vivedino.com/products/mgn7h-carriage-for-linear-guide-rail), 1 Z1 preload for X axis, 4 Z0 preload for Y & Z |
+| Nut Bar Mounts                          |          | 5        | [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                                                   |
 | T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                                                                                             |
 
 ## Buildplate
 
-| Item                                              | Quantity | Received | Notes                                                   |
-| ------------------------------------------------- | -------- | -------- | ------------------------------------------------------- |
-| MIC6 1/4" Plate - 120x120mm                       | 1        | 1        |                                                         |
-| Silicone DC 24V Heater 100x100mm 60W              | 1        | 1        |                                                         |
-| PEI + 3M 468MP (200MP)                            | 1        |          | Already applied to Flex Buildplate                      |
-| yellow die springs 8x4x20mm                       | 3        | 3        |                                                         |
-| Spring Steel Flex Buildplate 120x120mm (OPTIONAL) | 1        | 1        | Kit comes with Double-Sided Magnetic Flexible PEI Sheet |
+| Item                                                     | Quantity | Received | Notes                                                                                                                |
+| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
+| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
+| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
+| PEI + 3M 468MP (200MP)                                   | 1        |          | Not Required as using Powder Coated Flex Buildplate                                                                  |
+| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
+| Spring Steel Flex Buildplate 120x120mm (OPTIONAL)        | 1        | 1        | Ultistik Premium ULTEM (PEI) Powder Coated Heatbed Steel Sheet                                                       |
+| Yellow die springs 8x4x20mm                              | 3        | 3        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
 
 ## Panels
 
-| Item                               | Quantity | Received | Notes                                                                                                                                      |
-| ---------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Acrylic Sheet Clear - 212x230x3mm  | 2        |          | Not required as using [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)              |
-| Acrylic Sheet Clear - 212x239x3mm  | 1        |          | Not Required as using [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/) |
-| Acrylic Sheet Smoked - 168x180x3mm | 2        | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
-| RGBW LED Side Panel PCB            | 2        | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
-| Upper Rear Panel 212x63x3mm        | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Lower Rear Panel 212x185x3mm       | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Deck Panel 3mm thick (See DXF)     | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Motor Panel 3mm thick (See DXF)    | 1        |          | Not required as using [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
-| Bottom Panel 3mm thick (See DXF)   | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Mid Panel 3mm thick (See DXF)      | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Item                                      | Quantity | Received | Notes                                                                                                                                      |
+| ----------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Acrylic Sheet Clear (sides) - 212x230x3mm | 2        |          | Not required as using [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)              |
+| Acrylic Sheet Clear (door) - 212x239x3mm  | 1        |          | Not Required as using [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/) |
+| Acrylic Sheet Smoked - 168x180x3mm        |          | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
+| Bottom Panel 3mm thick (See DXF)          | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Deck Panel 3mm thick (See DXF)            | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Lower Rear Panel 212x185x3mm              | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Mid Panel 3mm thick (See DXF)             | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Motor Panel 3mm thick (See DXF)           | 1        |          | Not required as using [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
+| RGBW LED Side Panel PCB                   |          | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
+| Upper Rear Panel 212x63x3mm               | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
 
 ## Bowden
 
@@ -161,25 +169,25 @@ However I have now subsequently upgraded some of the parts with electronics, fas
 
 | Item                              | Quantity | Received | Notes |
 | --------------------------------- | -------- | -------- | ----- |
-| Little Rubber Feet                | 4        | 4        |       |
-| Bowden Tube 4x2mm - 1m            | 1        | 1        |       |
-| Medium Strength Thread Locker     | 1        | 1        |       |
 | 6mm x 3mm Round Neodymium Magnets | 8        | 8        |       |
+| Bowden Tube 4x2mm - 1m            | 1        | 1        |       |
+| Little Rubber Feet                | 4        | 4        |       |
+| Medium Strength Thread Locker     | 1        | 1        |       |
 
 ## Extrusion Tophat Panels
 
 | Item                      | Quantity | Received | Notes                                                                                                                                                     |
 | ------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/)                                                        |
 | Side Panels 212x(71-91)mm | 4        | 3        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/). 1 Not Required as I am using the LDO Mini-Fridge Door |
+| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/)                                                        |
 
 ## Extruder
 
 | Item                                         | Quantity | Received | Notes               |
 | -------------------------------------------- | -------- | -------- | ------------------- |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | Moons Stepper Motor |
 | Bondtech BMG Extruder Kit                    | 1        | 1        |                     |
 | MR85 Bearing                                 | 2        | 2        |                     |
+| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | Moons Stepper Motor |
 
 ## Mini-Fridge Door
 
