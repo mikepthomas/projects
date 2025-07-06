@@ -82,12 +82,12 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 ## Electronics
 
 | Item                                                     | Quantity | Received | Notes                                                                                                                                  |
-| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --- | -------------------- | --- | --- | --- |
+| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB includes the necessary 100 Ohm resistor or Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/) |
 | 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                                        |
 | 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                                           |
 | 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                                          |
-| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans for Stealth Skirts                                                                                                        |     | Bigtreetech SKR Pico | 1   | 1   |     |
+| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans for Stealth Skirts                                                                                                        |
 | 3M 5952 VHB tape                                         | 1        | 1        |                                                                                                                                        |
 | Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                                                                        |
 | C13 Power Cord                                           | 1        | 1        |                                                                                                                                        |
