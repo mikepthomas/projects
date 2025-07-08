@@ -31,7 +31,7 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 | Item                                      | Quantity | Received | Notes                                                                                                                                                                                                |
 | ----------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3x6x0.5 Shim Washer                       | 50       | 38       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
+| 3x6x0.5 Shim Washer                       | 50       | 39       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M2x4 SHCS                                 |          | 8        | To Mount Kirigami to Z-Rails                                                                                                                                                                         |
 | M2x6 FHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
 | M2x6 SHCS                                 | 70       | 74       | In [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/)                                                                                                        |
@@ -81,29 +81,29 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes                                                                                                                                  |
-| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB includes the necessary 100 Ohm resistor or Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/) |
-| 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                                        |
-| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                                           |
-| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                                          |
-| 3510 axial fan 24V                                       | 4        | 5        | GDSTime Fans for Stealth Skirts                                                                                                        |
-| 3M 5952 VHB tape                                         | 1        | 1        |                                                                                                                                        |
-| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                                                                        |
-| C13 Power Cord                                           | 1        | 1        |                                                                                                                                        |
-| ECAS04 Bowden Fitting                                    | 1        | 1        |                                                                                                                                        |
-| Fysetc Neopixel Sequins                                  | 2        | 4        |                                                                                                                                        |
-| Hotend                                                   | 1        | 1        |                                                                                                                                        |
-| Hotend thermistor                                        | 1        | 1        |                                                                                                                                        |
-| IEC320 C14 inlet                                         | 1        | 1        |                                                                                                                                        |
-| Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                                        |
-| MicroSD Card                                             | 1        | 1        |                                                                                                                                        |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Stepper Motors                                                                                                                   |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepper Motor                                                                                                                    |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                                                                        |
-| Raspberry Pi 4                                           | 1        | 1        |                                                                                                                                        |
-| V0 Display                                               | 1        | 1        |                                                                                                                                        |
-| Wago connectors (221-412)                                |          | 2        |                                                                                                                                        |
+| Item                                                     | Quantity | Received | Notes                                                                                                                                                                              |
+| -------------------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB includes the necessary 100 Ohm resistor or Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/)                                             |
+| 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                                                                                    |
+| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                                                                                       |
+| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                                                                                      |
+| 3510 axial fan 24V                                       |          | 4        | GDSTime Fans for Stealth Skirts                                                                                                                                                    |
+| 3M 5952 VHB tape                                         | 1        | 1        |                                                                                                                                                                                    |
+| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                                                                                                                    |
+| C13 Power Cord                                           | 1        | 1        |                                                                                                                                                                                    |
+| ECAS04 Bowden Fitting                                    | 1        |          | Not Required with Stealth Skirts                                                                                                                                                   |
+| Hotend                                                   | 1        | 1        |                                                                                                                                                                                    |
+| Hotend thermistor                                        | 1        | 1        |                                                                                                                                                                                    |
+| IEC320 C14 inlet                                         | 1        | 1        |                                                                                                                                                                                    |
+| Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                                                                                    |
+| MicroSD Card                                             | 1        | 1        |                                                                                                                                                                                    |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | Moons Stepper Motors                                                                                                                                                               |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | Moons Stepper Motor                                                                                                                                                                |
+| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB](https://www.fysetc.com/products/fysetc-neopixel-sequins-with-rgb-ws2812-3535-glow-rgb-led-and-1m-26awg-teflon-cable-for-voron-mini-sb-extruder) |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                                                                                                                    |
+| Raspberry Pi 4                                           | 1        | 1        |                                                                                                                                                                                    |
+| V0 Display                                               | 1        | 1        |                                                                                                                                                                                    |
+| Wago connectors (221-412)                                |          | 2        |                                                                                                                                                                                    |
 
 ## Cables
 
@@ -169,17 +169,17 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 | Item                              | Quantity | Received | Notes |
 | --------------------------------- | -------- | -------- | ----- |
-| 6mm x 3mm Round Neodymium Magnets | 8        | 8        |       |
+| 6mm x 3mm Round Neodymium Magnets | 8        | 10       |       |
 | Bowden Tube 4x2mm - 1m            | 1        | 1        |       |
 | Little Rubber Feet                | 4        | 4        |       |
 | Medium Strength Thread Locker     | 1        | 1        |       |
 
 ## Extrusion Tophat Panels
 
-| Item                      | Quantity | Received | Notes                                                                                                                                                     |
-| ------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Side Panels 212x(71-91)mm | 4        | 3        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/). 1 Not Required as I am using the LDO Mini-Fridge Door |
-| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/)                                                        |
+| Item                      | Quantity | Received | Notes                                                                                                                                                          |
+| ------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Side Panels 212x(71-91)mm | 4        | 3        | 91mm [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/). 1 Not Required as I am using the LDO Mini-Fridge Door |
+| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-top-hat-panels-pc/)                                                             |
 
 ## Extruder
 
