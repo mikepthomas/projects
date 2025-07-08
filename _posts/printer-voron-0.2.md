@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2025-06-24T19:23:17.486Z
+lastmod: 2025-07-08T21:38:36.420Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -83,7 +83,7 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 | Item                                                     | Quantity | Received | Notes                                                                                                                                                                              |
 | -------------------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB includes the necessary 100 Ohm resistor or Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/)                                             |
+| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB with 100 Ohm resistor for Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/)                                                              |
 | 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                                                                                    |
 | 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                                                                                       |
 | 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                                                                                      |
@@ -207,12 +207,22 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Tools
 
-| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------------- |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                                                                         |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                                                                         |
-| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl) | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a Voron Users Mod by `zruncho`. These are for the front idlers. |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00  |         49         | This is a Voron Users Mod by `zruncho`                                  |
+| Item                                                                                                        | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |       |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |       |
+
+## No Drop Nuts
+
+| Item                                                                                                                                                                 | Quantity | Material                                             | Size  | Weight | Cost | Printed | Notes                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------ |
+| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl)                                  | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are for the front idlers.                    |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                  | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 |   49    | This is a Voron Users Mod by `zruncho`                                                     |
+| [NoDropNut_Door_Latch](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Door_Latch_x2.stl)                     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are not required when using Mini-Fridge Door |
+| [NoDropNut_Rear_Ext_Front](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Front_x2.stl)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are not required when using Kirigami Bed     |
+| [NoDropNut_Rear_Ext_Rear_Center](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are not required when using Kirigami Bed     |
+| [NoDropNut_Rear_Ext_Rear_Edge](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are not required when using Kirigami Bed     |
+| [NoDropNut_Side_Ext_Side](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Side_Ext_Side_x2.stl)               | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users Mod by `zruncho`. These are not required when using Kirigami Bed     |
 
 ## Frame
 
@@ -259,6 +269,8 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 | [Rear_Bed_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Right_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be using the LDO Kirigami bed mount. |
 
 ### :negative_squared_cross_mark: Kirigami Bed
+
+When using the Kirigami bed we can skip pages 36 to 46 of the official manual and instead follow the [unofficial Kirigami Bed Manual](https://github.com/Kagee/kirigami-bed-manual) or the [LDO Kirigami Bed Manual](https://www.ldomotion.com/p/guide/Kirigami-Bed-for-Voron-V01) instead.
 
 | Item                                                                                                                                                        | Quantity | Material                                                      | Size | Weight | Cost | Printed | Notes                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------------- |
@@ -429,6 +441,13 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 ![3D render of the Voron 0.2 ](/assets/blog/printer-voron-0.2/voron-design/print-bed.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :negative_squared_cross_mark: PEI Sheet Positioning Jig
+
+| Item                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                       |
+| ------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------------- |
+| [LeftCorner](https://www.printables.com/model/497212/files)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by [Tommy Zero](https://www.printables.com/@TommyZero_647289) |
+| [RightCorner](https://www.printables.com/model/497212/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by [Tommy Zero](https://www.printables.com/@TommyZero_647289) |
 
 ### :negative_squared_cross_mark: Print Bed
 
@@ -642,6 +661,12 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 | Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                          |
 | --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------ |
 | [frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO Picobilical Part |
+
+### :negative_squared_cross_mark: Umbilical Strain Relief
+
+| Item                                                                  | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                  |
+| --------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
+| [PTFE_umblical_strain](https://www.printables.com/model/404594/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Mod by [kymlalu](https://www.printables.com/@kymlalu_120002) |
 
 ### :negative_squared_cross_mark: Detachable Spool Holder
 
