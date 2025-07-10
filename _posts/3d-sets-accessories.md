@@ -56,21 +56,21 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 
 ### Fasteners
 
-| Item       | Quantity | Received | Notes |
-| ---------- | -------- | -------- | ----- |
-| M2x6 SHCS  | 80       | 200      |       |
-| M2x8 SHCS  | 4        | 50       |       |
-| M2x10 SHCS | 5        | 100      |       |
-| M2x12 SHCS | 24       | 50       |       |
-| M3x6 BHCS  | 4        | 39       |       |
-| M3x8 BHCS  | 16       | 91       |       |
-| M3x10 BHCS | 40       | 100      |       |
-| M3x12 BHCS | 18       | 147      |       |
-| M3x16 BHCS | 26       | 135      |       |
-| M3x20 BHCS | 1        | 25       |       |
-| M3x6 SHCS  | 4        | 10       |       |
-| M3 nuts    | 13       | 42       |       |
-| M5x12 SHCS | 1        | 10       |       |
+| Item       | Quantity | Received | Notes       |
+| ---------- | -------- | -------- | ----------- |
+| M2x6 SHCS  | 80       | 200      | 50 On Order |
+| M2x8 SHCS  | 4        | 50       |             |
+| M2x10 SHCS | 5        | 100      |             |
+| M2x12 SHCS | 24       | 50       |             |
+| M3x6 BHCS  | 4        | 39       |             |
+| M3x8 BHCS  | 16       | 91       |             |
+| M3x10 BHCS | 40       | 100      |             |
+| M3x12 BHCS | 18       | 147      |             |
+| M3x16 BHCS | 26       | 135      |             |
+| M3x20 BHCS | 1        | 25       |             |
+| M3x6 SHCS  | 4        | 10       |             |
+| M3 nuts    | 13       | 42       |             |
+| M5x12 SHCS | 1        | 10       |             |
 
 ## Printing Parts
 

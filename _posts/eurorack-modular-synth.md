@@ -902,22 +902,22 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (1M)   | 2        | 100      |       |
-| Metal Film resistor (470K) | 2        |          |       |
-| Metal Film resistor (100K) | 12       | 100      |       |
-| Metal Film resistor (51K)  | 1        |          |       |
-| Metal Film resistor (47K)  | 1        | 100      |       |
-| Metal Film resistor (33K)  | 2        | 100      |       |
-| Metal Film resistor (22K)  | 1        |          |       |
-| Metal Film resistor (20K)  | 1        | 100      |       |
-| Metal Film resistor (10K)  | 1        | 100      |       |
-| Metal Film resistor (4.7K) | 2        |          |       |
-| Metal Film resistor (2K)   | 1        | 100      |       |
-| Metal Film resistor (1K)   | 6        | 100      |       |
-| Metal Film resistor (680R) | 1        |          |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (1M)   | 2        | 100      |              |
+| Metal Film resistor (470K) | 2        |          |              |
+| Metal Film resistor (100K) | 12       | 100      |              |
+| Metal Film resistor (51K)  | 1        |          |              |
+| Metal Film resistor (47K)  | 1        | 100      |              |
+| Metal Film resistor (33K)  | 2        | 100      |              |
+| Metal Film resistor (22K)  | 1        |          | 100 On Order |
+| Metal Film resistor (20K)  | 1        | 100      |              |
+| Metal Film resistor (10K)  | 1        | 100      |              |
+| Metal Film resistor (4.7K) | 2        |          | 100 On Order |
+| Metal Film resistor (2K)   | 1        | 100      |              |
+| Metal Film resistor (1K)   | 6        | 100      |              |
+| Metal Film resistor (680R) | 1        |          |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -983,16 +983,16 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (220K) | 1        |          |       |
-| Metal Film resistor (100K) | 3        | 100      |       |
-| Metal Film resistor (51K)  | 1        |          |       |
-| Metal Film resistor (22K)  | 1        |          |       |
-| Metal Film resistor (20K)  | 4        | 100      |       |
-| Metal Film resistor (10K)  | 4        | 100      |       |
-| Metal Film resistor (1K)   | 5        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (220K) | 1        |          |              |
+| Metal Film resistor (100K) | 3        | 100      |              |
+| Metal Film resistor (51K)  | 1        |          |              |
+| Metal Film resistor (22K)  | 1        |          | 100 On Order |
+| Metal Film resistor (20K)  | 4        | 100      |              |
+| Metal Film resistor (10K)  | 4        | 100      |              |
+| Metal Film resistor (1K)   | 5        | 100      |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -1228,22 +1228,22 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (2.2M) | 1        |          |       |
-| Metal Film resistor (100K) | 9        | 100      |       |
-| Metal Film resistor (82K)  | 1        | 100      |       |
-| Metal Film resistor (62K)  | 1        |          |       |
-| Metal Film resistor (51K)  | 1        |          |       |
-| Metal Film resistor (47K)  | 1        | 100      |       |
-| Metal Film resistor (39K)  | 1        |          |       |
-| Metal Film resistor (22K)  | 3        |          |       |
-| Metal Film resistor (10K)  | 2        | 100      |       |
-| Metal Film resistor (6.2K) | 1        |          |       |
-| Metal Film resistor (4.7K) | 1        |          |       |
-| Metal Film resistor (1K)   | 1        | 100      |       |
-| Metal Film resistor (470R) | 2        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (2.2M) | 1        |          |              |
+| Metal Film resistor (100K) | 9        | 100      |              |
+| Metal Film resistor (82K)  | 1        | 100      |              |
+| Metal Film resistor (62K)  | 1        |          |              |
+| Metal Film resistor (51K)  | 1        |          |              |
+| Metal Film resistor (47K)  | 1        | 100      |              |
+| Metal Film resistor (39K)  | 1        |          |              |
+| Metal Film resistor (22K)  | 3        |          | 100 On Order |
+| Metal Film resistor (10K)  | 2        | 100      |              |
+| Metal Film resistor (6.2K) | 1        |          |              |
+| Metal Film resistor (4.7K) | 1        |          | 100 On Order |
+| Metal Film resistor (1K)   | 1        | 100      |              |
+| Metal Film resistor (470R) | 2        | 100      |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -1365,17 +1365,17 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Capacitors
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Film Capacitor (1uF)          | 1        | 10       |       |
-| Ceramic Capacitor (470nF)     | 1        |          |       |
-| Ceramic Capacitor (100nF)     | 13       | 100      |       |
-| Ceramic Capacitor (10nF)      | 1        |          |       |
-| Ceramic Capacitor (2.2nF)     | 1        |          |       |
-| Ceramic Capacitor (1nF)       | 2        |          |       |
-| Ceramic Capacitor (330pF)     | 2        |          |       |
-| Ceramic Capacitor (100pF)     | 1        |          |       |
+| Item                          | Quantity | Received | Notes        |
+| ----------------------------- | -------- | -------- | ------------ |
+| Electrolytic Capacitor (47uF) | 2        | 10       |              |
+| Film Capacitor (1uF)          | 1        | 10       |              |
+| Ceramic Capacitor (470nF)     | 1        |          |              |
+| Ceramic Capacitor (100nF)     | 13       | 100      |              |
+| Ceramic Capacitor (10nF)      | 1        |          | 100 On Order |
+| Ceramic Capacitor (2.2nF)     | 1        |          |              |
+| Ceramic Capacitor (1nF)       | 2        |          |              |
+| Ceramic Capacitor (330pF)     | 2        |          |              |
+| Ceramic Capacitor (100pF)     | 1        |          |              |
 
 #### Diodes
 
@@ -1405,27 +1405,27 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (1M)   | 1        | 100      |       |
-| Metal Film resistor (820K) | 1        |          |       |
-| Metal Film resistor (470K) | 1        |          |       |
-| Metal Film resistor (120K) | 1        |          |       |
-| Metal Film resistor (100K) | 18       | 100      |       |
-| Metal Film resistor (82K)  | 1        | 100      |       |
-| Metal Film resistor (68K)  | 1        | 100      |       |
-| Metal Film resistor (56K)  | 1        |          |       |
-| Metal Film resistor (51K)  | 1        |          |       |
-| Metal Film resistor (47K)  | 3        | 100      |       |
-| Metal Film resistor (39K)  | 2        |          |       |
-| Metal Film resistor (33K)  | 2        | 100      |       |
-| Metal Film resistor (22K)  | 1        |          |       |
-| Metal Film resistor (10K)  | 1        | 100      |       |
-| Metal Film resistor (4.7K) | 1        |          |       |
-| Metal Film resistor (1K)   | 3        | 100      |       |
-| Metal Film resistor (680R) | 1        |          |       |
-| Metal Film resistor (100R) | 1        | 100      |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (1M)   | 1        | 100      |              |
+| Metal Film resistor (820K) | 1        |          |              |
+| Metal Film resistor (470K) | 1        |          |              |
+| Metal Film resistor (120K) | 1        |          |              |
+| Metal Film resistor (100K) | 18       | 100      |              |
+| Metal Film resistor (82K)  | 1        | 100      |              |
+| Metal Film resistor (68K)  | 1        | 100      |              |
+| Metal Film resistor (56K)  | 1        |          |              |
+| Metal Film resistor (51K)  | 1        |          |              |
+| Metal Film resistor (47K)  | 3        | 100      |              |
+| Metal Film resistor (39K)  | 2        |          |              |
+| Metal Film resistor (33K)  | 2        | 100      |              |
+| Metal Film resistor (22K)  | 1        |          | 100 On Order |
+| Metal Film resistor (10K)  | 1        | 100      |              |
+| Metal Film resistor (4.7K) | 1        |          | 100 On Order |
+| Metal Film resistor (1K)   | 3        | 100      |              |
+| Metal Film resistor (680R) | 1        |          |              |
+| Metal Film resistor (100R) | 1        | 100      |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -1498,23 +1498,23 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (1M)   | 2        | 100      |       |
-| Metal Film resistor (910K) | 1        |          |       |
-| Metal Film resistor (470K) | 1        |          |       |
-| Metal Film resistor (120K) | 1        |          |       |
-| Metal Film resistor (100K) | 7        | 100      |       |
-| Metal Film resistor (47K)  | 3        | 100      |       |
-| Metal Film resistor (39K)  | 1        |          |       |
-| Metal Film resistor (33K)  | 2        | 100      |       |
-| Metal Film resistor (27K)  | 1        | 100      |       |
-| Metal Film resistor (22K)  | 5        |          |       |
-| Metal Film resistor (10K)  | 2        | 100      |       |
-| Metal Film resistor (1K)   | 7        | 100      |       |
-| Metal Film resistor (470R) | 1        | 100      |       |
-| Metal Film resistor (330R) | 1        |          |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (1M)   | 2        | 100      |              |
+| Metal Film resistor (910K) | 1        |          |              |
+| Metal Film resistor (470K) | 1        |          |              |
+| Metal Film resistor (120K) | 1        |          |              |
+| Metal Film resistor (100K) | 7        | 100      |              |
+| Metal Film resistor (47K)  | 3        | 100      |              |
+| Metal Film resistor (39K)  | 1        |          |              |
+| Metal Film resistor (33K)  | 2        | 100      |              |
+| Metal Film resistor (27K)  | 1        | 100      |              |
+| Metal Film resistor (22K)  | 5        |          | 100 On Order |
+| Metal Film resistor (10K)  | 2        | 100      |              |
+| Metal Film resistor (1K)   | 7        | 100      |              |
+| Metal Film resistor (470R) | 1        | 100      |              |
+| Metal Film resistor (330R) | 1        |          |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -1548,18 +1548,18 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Capacitors
 
-| Item                          | Quantity | Received | Notes |
-| ----------------------------- | -------- | -------- | ----- |
-| Electrolytic Capacitor (47uF) | 2        | 10       |       |
-| Film Capacitor (1uF)          | 1        | 10       |       |
-| Ceramic Capacitor (470nF)     | 1        |          |       |
-| Ceramic Capacitor (100nF)     | 4        | 100      |       |
-| Film Capacitor (15nF)         | 1        |          |       |
-| Ceramic Capacitor (10nF)      | 1        |          |       |
-| Film Capacitor (5.6nF)        | 1        |          |       |
-| Film Capacitor (2.2nF)        | 1        |          |       |
-| Film Capacitor (470pF)        | 2        |          |       |
-| Film Capacitor (330pF)        | 1        |          |       |
+| Item                          | Quantity | Received | Notes        |
+| ----------------------------- | -------- | -------- | ------------ |
+| Electrolytic Capacitor (47uF) | 2        | 10       |              |
+| Film Capacitor (1uF)          | 1        | 10       |              |
+| Ceramic Capacitor (470nF)     | 1        |          |              |
+| Ceramic Capacitor (100nF)     | 4        | 100      |              |
+| Film Capacitor (15nF)         | 1        |          |              |
+| Ceramic Capacitor (10nF)      | 1        |          | 100 On Order |
+| Film Capacitor (5.6nF)        | 1        |          |              |
+| Film Capacitor (2.2nF)        | 1        |          |              |
+| Film Capacitor (470pF)        | 2        |          |              |
+| Film Capacitor (330pF)        | 1        |          |              |
 
 #### Diodes
 
@@ -1592,27 +1592,27 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (1M)   | 4        | 100      |       |
-| Metal Film resistor (470K) | 3        |          |       |
-| Metal Film resistor (330K) | 1        |          |       |
-| Metal Film resistor (200K) | 1        |          |       |
-| Metal Film resistor (100K) | 16       | 100      |       |
-| Metal Film resistor (68K)  | 1        | 100      |       |
-| Metal Film resistor (51K)  | 2        |          |       |
-| Metal Film resistor (47K)  | 1        | 100      |       |
-| Metal Film resistor (39K)  | 2        |          |       |
-| Metal Film resistor (33K)  | 3        | 100      |       |
-| Metal Film resistor (18K)  | 1        |          |       |
-| Metal Film resistor (10K)  | 7        | 100      |       |
-| Metal Film resistor (5.6K) | 1        |          |       |
-| Metal Film resistor (4.7K) | 1        |          |       |
-| Metal Film resistor (2K)   | 2        | 100      |       |
-| Metal Film resistor (1K)   | 4        | 100      |       |
-| Metal Film resistor (470R) | 1        | 100      |       |
-| Metal Film resistor (47R)  | 1        |          |       |
-| Metal Film resistor (10R)  | 2        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (1M)   | 4        | 100      |              |
+| Metal Film resistor (470K) | 3        |          |              |
+| Metal Film resistor (330K) | 1        |          |              |
+| Metal Film resistor (200K) | 1        |          |              |
+| Metal Film resistor (100K) | 16       | 100      |              |
+| Metal Film resistor (68K)  | 1        | 100      |              |
+| Metal Film resistor (51K)  | 2        |          |              |
+| Metal Film resistor (47K)  | 1        | 100      |              |
+| Metal Film resistor (39K)  | 2        |          |              |
+| Metal Film resistor (33K)  | 3        | 100      |              |
+| Metal Film resistor (18K)  | 1        |          |              |
+| Metal Film resistor (10K)  | 7        | 100      |              |
+| Metal Film resistor (5.6K) | 1        |          |              |
+| Metal Film resistor (4.7K) | 1        |          | 100 On Order |
+| Metal Film resistor (2K)   | 2        | 100      |              |
+| Metal Film resistor (1K)   | 4        | 100      |              |
+| Metal Film resistor (470R) | 1        | 100      |              |
+| Metal Film resistor (47R)  | 1        |          |              |
+| Metal Film resistor (10R)  | 2        | 100      |              |
 
 #### Misc
 
@@ -1633,21 +1633,21 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item             | Quantity | Received | Notes |
-| ---------------- | -------- | -------- | ----- |
-| ADSR Front Panel | 1        |          |       |
-| ADSR PCB 1       | 1        |          |       |
-| ADSR PCB 2       | 1        |          |       |
+| Item             | Quantity | Received | Notes      |
+| ---------------- | -------- | -------- | ---------- |
+| ADSR Front Panel | 1        |          | 1 On Order |
+| ADSR PCB 1       | 1        |          | 1 On Order |
+| ADSR PCB 2       | 1        |          | 1 On Order |
 
 #### Capacitors
 
-| Item                           | Quantity | Received | Notes |
-| ------------------------------ | -------- | -------- | ----- |
-| Ceramic Capacitor (100nF)      | 3        | 100      |       |
-| Ceramic Capacitor (10nF)       | 1        |          |       |
-| Electrolytic Capacitor (10uF)  | 3        | 5        |       |
-| Electrolytic Capacitor (4.7uF) | 1        | 5        |       |
-| Electrolytic Capacitor (1uF)   | 1        | 5        |       |
+| Item                           | Quantity | Received | Notes        |
+| ------------------------------ | -------- | -------- | ------------ |
+| Ceramic Capacitor (100nF)      | 3        | 100      |              |
+| Ceramic Capacitor (10nF)       | 1        |          | 100 On Order |
+| Electrolytic Capacitor (10uF)  | 3        | 5        |              |
+| Electrolytic Capacitor (4.7uF) | 1        | 5        |              |
+| Electrolytic Capacitor (1uF)   | 1        | 5        |              |
 
 #### Diodes
 
@@ -1657,29 +1657,29 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Integrated Circuits
 
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| 8 Pin DIP Sockets      | 2        | 15       |       |
-| Op Amp Dual (TL072)    | 1        | 10       |       |
-| Timer (LM555)          | 1        |          |       |
-| Transistor NPN (BC547) | 4        |          |       |
+| Item                   | Quantity | Received | Notes       |
+| ---------------------- | -------- | -------- | ----------- |
+| 8 Pin DIP Sockets      | 2        | 15       |             |
+| Op Amp Dual (TL072)    | 1        | 10       |             |
+| Timer (LM555)          | 1        |          | 10 On Order |
+| Transistor NPN (BC547) | 4        |          |             |
 
 #### Potentiometers
 
-| Item                                | Quantity | Received | Notes                |
-| ----------------------------------- | -------- | -------- | -------------------- |
-| Vertical Alpha Potentiometer (B1M)  | 3        | 5        | With Aluminium Knobs |
-| Vertical Alpha Potentiometer (B10K) | 1        |          | With Aluminium Knobs |
+| Item                                | Quantity | Received | Notes                            |
+| ----------------------------------- | -------- | -------- | -------------------------------- |
+| Vertical Alpha Potentiometer (B1M)  | 3        | 5        | With Aluminium Knobs             |
+| Vertical Alpha Potentiometer (B10K) | 1        |          | 5 On Order, With Aluminium Knobs |
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (22K)  | 1        |          |       |
-| Metal Film resistor (10K)  | 2        | 100      |       |
-| Metal Film resistor (4.7K) | 4        |          |       |
-| Metal Film resistor (1K)   | 1        | 100      |       |
-| Metal Film resistor (100R) | 3        | 100      |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (22K)  | 1        |          | 100 On Order |
+| Metal Film resistor (10K)  | 2        | 100      |              |
+| Metal Film resistor (4.7K) | 4        |          | 100 On Order |
+| Metal Film resistor (1K)   | 1        | 100      |              |
+| Metal Film resistor (100R) | 3        | 100      |              |
 
 #### Misc
 
@@ -1702,10 +1702,10 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes |
-| -------------------- | -------- | -------- | ----- |
-| DC Mixer Front Panel | 1        |          |       |
-| DC Mixer PCB         | 1        |          |       |
+| Item                 | Quantity | Received | Notes      |
+| -------------------- | -------- | -------- | ---------- |
+| DC Mixer Front Panel | 1        |          | 1 On Order |
+| DC Mixer PCB         | 1        |          | 1 On Order |
 
 #### Capacitors
 
@@ -1722,26 +1722,26 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### Potentiometers
 
-| Item                                | Quantity | Received | Notes                |
-| ----------------------------------- | -------- | -------- | -------------------- |
-| Vertical Alpha Potentiometer (B10K) | 4        |          | With Aluminium Knobs |
+| Item                                | Quantity | Received | Notes                            |
+| ----------------------------------- | -------- | -------- | -------------------------------- |
+| Vertical Alpha Potentiometer (B10K) | 4        |          | 5 On Order, With Aluminium Knobs |
 
 #### Resistors
 
-| Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Metal Film resistor (100K) | 5        | 100      |       |
-| Metal Film resistor (10K)  | 2        | 100      |       |
-| Metal Film resistor (4.7K) | 4        |          |       |
+| Item                       | Quantity | Received | Notes        |
+| -------------------------- | -------- | -------- | ------------ |
+| Metal Film resistor (100K) | 5        | 100      |              |
+| Metal Film resistor (10K)  | 2        | 100      |              |
+| Metal Film resistor (4.7K) | 4        |          | 100 On Order |
 
 #### Misc
 
-| Item                | Quantity | Received | Notes |
-| ------------------- | -------- | -------- | ----- |
-| 5mm Red LED         | 4        | 5        |       |
-| 10 Pin Power Header | 1        | 10       |       |
-| DPDT Switch         | 4        | 1        |       |
-| Mono Audio Jack     | 6        | 29       |       |
+| Item                | Quantity | Received | Notes      |
+| ------------------- | -------- | -------- | ---------- |
+| 5mm Red LED         | 4        | 5        |            |
+| 10 Pin Power Header | 1        | 10       |            |
+| DPDT Switch         | 4        | 1        | 5 On Order |
+| Mono Audio Jack     | 6        | 29       |            |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1766,7 +1766,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | ----------------------------- | -------- | -------- | ------------------------------------------ |
 | Ceramic Capacitor (470nF)     | 1        |          |                                            |
 | Ceramic Capacitor (100nF)     | 2        | 100      |                                            |
-| Ceramic Capacitor (10nF)      | 1        |          |                                            |
+| Ceramic Capacitor (10nF)      | 1        |          | 100 On Order                               |
 | Ceramic Capacitor (33pF)      | 1        |          |                                            |
 | Electrolytic Capacitor (10uF) | 2        | 5        | Optional power supply filtering capacitors |
 
@@ -1824,10 +1824,10 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 #### PCB
 
-| Item               | Quantity | Received | Notes |
-| ------------------ | -------- | -------- | ----- |
-| Bypass Front Panel | 1        |          |       |
-| Bypass PCB         | 1        |          |       |
+| Item               | Quantity | Received | Notes      |
+| ------------------ | -------- | -------- | ---------- |
+| Bypass Front Panel | 1        |          | 1 On Order |
+| Bypass PCB         | 1        |          | 1 On Order |
 
 #### Potentiometers
 
@@ -1837,10 +1837,10 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| DPDT Switch     | 1        | 1        |       |
-| Mono Audio Jack | 6        | 29       |       |
+| Item            | Quantity | Received | Notes      |
+| --------------- | -------- | -------- | ---------- |
+| DPDT Switch     | 1        | 1        | 5 On Order |
+| Mono Audio Jack | 6        | 29       |            |
 
 ### :negative_squared_cross_mark: Assembly
 

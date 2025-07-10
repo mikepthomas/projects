@@ -50,7 +50,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | M3x50 SHCS                  | 2        | 50       | For [StealthBurner](voron-stealthburner)                                                                     |
 | M3x40 SHCS                  | 30       | 33       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
 | M3x30 SHCS                  | 25       | 35       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x25 SHCS                  | 6        | 4        |                                                                                                              |
+| M3x25 SHCS                  | 6        | 4        | 50 On Order                                                                                                  |
 | M3x20 SHCS                  | 22       | 30       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
 | M3x16 SHCS                  | 20       | 23       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
 | M3x12 SHCS                  | 41       | 44       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |

@@ -58,35 +58,35 @@ Sourcing parts for a Land Rover inspired remote control car, the [3D Sets Landy]
 
 ## Fasteners
 
-| Item           | Quantity | Received | Notes |
-| -------------- | -------- | -------- | ----- |
-| M2x6 SHCS      | 113      | 200      |       |
-| M2x8 SHCS      | 2        | 50       |       |
-| M2x10 SHCS     | 45       | 100      |       |
-| M2x12 SHCS     | 6        | 50       |       |
-| M2x14 SHCS     | 2        | 50       |       |
-| M2x16 SHCS     | 3        | 50       |       |
-| M3x6 BHCS      | 3        | 39       |       |
-| M3x8 BHCS      | 19       | 91       |       |
-| M3x10 BHCS     | 58       | 100      |       |
-| M3x12 BHCS     | 30       | 147      |       |
-| M3x16 BHCS     | 43       | 135      |       |
-| M3x6 SHCS      | 2        | 22       |       |
-| M3x8 SHCS      | 20       | 104      |       |
-| M3x20 SHCS     | 11       | 20       |       |
-| M3x25 SHCS     | 10       | 18       |       |
-| M3x6 Set Screw | 2        | 52       |       |
-| M3 nuts        | 42       | 42       |       |
-| M3 locknuts    | 22       | 22       |       |
+| Item           | Quantity | Received | Notes       |
+| -------------- | -------- | -------- | ----------- |
+| M2x6 SHCS      | 113      | 200      | 50 On Order |
+| M2x8 SHCS      | 2        | 50       |             |
+| M2x10 SHCS     | 45       | 100      |             |
+| M2x12 SHCS     | 6        | 50       |             |
+| M2x14 SHCS     | 2        | 50       |             |
+| M2x16 SHCS     | 3        | 50       |             |
+| M3x6 BHCS      | 3        | 39       |             |
+| M3x8 BHCS      | 19       | 91       |             |
+| M3x10 BHCS     | 58       | 100      |             |
+| M3x12 BHCS     | 30       | 147      |             |
+| M3x16 BHCS     | 43       | 135      |             |
+| M3x6 SHCS      | 2        | 22       |             |
+| M3x8 SHCS      | 20       | 104      |             |
+| M3x20 SHCS     | 11       | 20       |             |
+| M3x25 SHCS     | 10       | 18       |             |
+| M3x6 Set Screw | 2        | 52       |             |
+| M3 nuts        | 42       | 42       |             |
+| M3 locknuts    | 22       | 22       |             |
 
 ## Offroad Accessory Kit Fasteners
 
-| Item       | Quantity | Received | Notes |
-| ---------- | -------- | -------- | ----- |
-| M2x6 SHCS  | 40       | 200      |       |
-| M2x8 SHCS  | 1        | 50       |       |
-| M2x10 SHCS | 8        | 100      |       |
-| M3x10 BHCS | 4        | 100      |       |
+| Item       | Quantity | Received | Notes       |
+| ---------- | -------- | -------- | ----------- |
+| M2x6 SHCS  | 40       | 200      | 50 On Order |
+| M2x8 SHCS  | 1        | 50       |             |
+| M2x10 SHCS | 8        | 100      |             |
+| M3x10 BHCS | 4        | 100      |             |
 
 # Landy 4x4 Pickup
 
