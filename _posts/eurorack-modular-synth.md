@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-07-06T11:19:04.478Z
+lastmod: 2025-07-12T12:24:59.465Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -52,6 +52,7 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [
 | [Befaco Squid Cable](https://www.befaco.org/squid-cable-mult/)  | 1        | 1        |                                                                                                                                                             |
 | Eurorack Blank Panels (Circuit Design)                          | Set of 7 | Set of 7 | Available on [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis/) |
 | Eurorack Blank Panels (Erica Synths Blank)                      | 2 x 8HP  | 2        |                                                                                                                                                             |
+| Eurorack Blank Panels (MH Eurorack Logo)                        | 1 x 4HP  | 1        | Came with [MH Eurorack Bypass PCB Kit](#bypass)                                                                                                             |
 | Eurorack Blank Panels (Thonk Logo)                              | 1 x 2HP  | 1        |                                                                                                                                                             |
 
 ## Power
@@ -202,15 +203,15 @@ Basic Kit contains the `Quantity` needed for building 1 unit.
 
 #### Misc
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Mono Audio Jack         | 5        |
-| SPDT Switch             | 1        |
-| SPTT Switch             | 1        |
-| 3mm Red LED             | 2        |
-| Plywood base            | 1        |
-| Breadboarding cable set | 1        |
-| 12V 1A wall wart        | 1        |
+| Item                                      | Quantity |
+| ----------------------------------------- | -------- |
+| Mono Audio Jack                           | 5        |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 1        |
+| DW2 SPDT ON-OFF-ON Sub-mini Toggle Switch | 1        |
+| 3mm Red LED                               | 2        |
+| Plywood base                              | 1        |
+| Breadboarding cable set                   | 1        |
+| 12V 1A wall wart                          | 1        |
 
 ### Full Kit Parts
 
@@ -443,13 +444,13 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### Misc
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| SPDT Switch         | 5        |
-| SPTT Switch         | 1        |
-| 3mm Red LED         | 5        |
-| Mono Audio Jack     | 5        |
-| 10 Pin Power Header | 1        |
+| Item                                      | Quantity |
+| ----------------------------------------- | -------- |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 6        |
+| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        |
+| 3mm Red LED                               | 5        |
+| Mono Audio Jack                           | 5        |
+| 10 Pin Power Header                       | 1        |
 
 ### :white_check_mark: Assembly
 
@@ -691,12 +692,12 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 
 #### Misc
 
-| Item                | Quantity | Received | Notes |
-| ------------------- | -------- | -------- | ----- |
-| SPDT Switch         | 1        | 1        |       |
-| 3mm Red LED         | 1        | 1        |       |
-| Mono Audio Jack     | 3        | 29       |       |
-| 10 Pin Power Header | 1        | 10       |       |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 3mm Red LED                           | 1        | 1        |       |
+| Mono Audio Jack                       | 3        | 29       |       |
+| 10 Pin Power Header                   | 1        | 10       |       |
 
 ### :white_check_mark: Assembly
 
@@ -1247,11 +1248,11 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item                | Quantity | Received | Notes |
-| ------------------- | -------- | -------- | ----- |
-| Mono Audio Jack     | 5        | 29       |       |
-| SPDT Switch         | 1        | 1        |       |
-| 10 Pin Power Header | 1        | 10       |       |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                       | 5        | 29       |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 10 Pin Power Header                   | 1        | 10       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1616,10 +1617,10 @@ Kit contains the `Quantity` needed for building 1 unit, `Received` is extra quan
 
 #### Misc
 
-| Item            | Quantity | Received | Notes |
-| --------------- | -------- | -------- | ----- |
-| Mono Audio Jack | 5        | 29       |       |
-| SPDT Switch     | 2        | 1        |       |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                       | 5        | 29       |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 2        | 1        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1683,14 +1684,14 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Misc
 
-| Item                | Quantity | Received | Notes |
-| ------------------- | -------- | -------- | ----- |
-| 5mm Red LED         | 1        | 5        |       |
-| 8 Pin Header        | 2        | 2        |       |
-| 8 Pin Socket        | 2        | 2        |       |
-| 10 Pin Power Header | 1        | 10       |       |
-| Mono Audio Jack     | 2        | 29       |       |
-| SPDT Switch         | 1        | 1        |       |
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| 5mm Red LED                        | 1        | 5        |       |
+| 8 Pin Header                       | 2        | 2        |       |
+| 8 Pin Socket                       | 2        | 2        |       |
+| 10 Pin Power Header                | 1        | 10       |       |
+| Mono Audio Jack                    | 2        | 29       |       |
+| DWB1 SPDT ON-ON Mini Toggle Switch | 1        | 1        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1736,12 +1737,12 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### Misc
 
-| Item                | Quantity | Received | Notes      |
-| ------------------- | -------- | -------- | ---------- |
-| 5mm Red LED         | 4        | 5        |            |
-| 10 Pin Power Header | 1        | 10       |            |
-| DPDT Switch         | 4        | 1        | 5 On Order |
-| Mono Audio Jack     | 6        | 29       |            |
+| Item                               | Quantity | Received | Notes      |
+| ---------------------------------- | -------- | -------- | ---------- |
+| 5mm Red LED                        | 4        | 5        |            |
+| 10 Pin Power Header                | 1        | 10       |            |
+| DWB3 DPDT ON-ON Mini Toggle Switch | 4        | 1        | 5 On Order |
+| Mono Audio Jack                    | 6        | 29       |            |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1824,10 +1825,10 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 #### PCB
 
-| Item               | Quantity | Received | Notes      |
-| ------------------ | -------- | -------- | ---------- |
-| Bypass Front Panel | 1        |          | 1 On Order |
-| Bypass PCB         | 1        |          | 1 On Order |
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| Bypass Front Panel | 1        | 1        |       |
+| Bypass PCB         | 1        | 1        |       |
 
 #### Potentiometers
 
@@ -1837,10 +1838,10 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 #### Misc
 
-| Item            | Quantity | Received | Notes      |
-| --------------- | -------- | -------- | ---------- |
-| DPDT Switch     | 1        | 1        | 5 On Order |
-| Mono Audio Jack | 6        | 29       |            |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| DW3 DPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| Mono Audio Jack                       | 6        | 29       |       |
 
 ### :negative_squared_cross_mark: Assembly
 
