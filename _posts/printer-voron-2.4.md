@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2024-08-06T21:49:49.690Z
+lastmod: 2025-07-12T17:56:54.810Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -351,7 +351,7 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 | M5x10 BHCS                    | 4        |
 | M5 Post-install T-nut         | 4        |
 
-### :negative_squared_cross_mark: Z Drive
+### :wrench: Z Drive
 
 | Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes |
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ----- |
@@ -367,6 +367,8 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 | [z_motor_mount_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/z_motor_mount_b_x2.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.06m  | 10.36g | £0.17 | :heavy_check_mark: |       |
 
 #### Assembly
+
+![Using a soldering iron to add heatset inserts to 3D printed parts](/assets/blog/printer-voron-2.4/adding-threaded-inserts.jpg)
 
 ##### Parts Needed
 

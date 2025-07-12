@@ -1695,6 +1695,10 @@
           "deck-panel.jpg": {
             "title": "Deck Panel",
             "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions"
+          },
+          "adding-threaded-inserts.jpg": {
+            "title": "Adding Threaded Inserts",
+            "alt": "Using a soldering iron to add heatset inserts to 3D printed parts"
           }
         },
         "voron-afterburner": {
