@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-12T17:56:54.810Z
+lastmod: 2025-07-13T20:46:39.767Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -353,6 +353,8 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 
 ### :wrench: Z Drive
 
+![Using a soldering iron to add heatset inserts to 3D printed parts](/assets/blog/printer-voron-2.4/adding-threaded-inserts.jpg)
+
 | Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes |
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ----- |
 | [belt_tensioner_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Drive/%5Ba%5D_belt_tensioner_a_x2.stl)       | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.61m  | 1.55g  | £0.03 | :heavy_check_mark: |       |
@@ -368,7 +370,11 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 
 #### Assembly
 
-![Using a soldering iron to add heatset inserts to 3D printed parts](/assets/blog/printer-voron-2.4/adding-threaded-inserts.jpg)
+![Putting together the parts for the belts in the Z-Drives](/assets/blog/printer-voron-2.4/assembling-z-drives.jpg)
+
+The manual mentions to position the GT2 pulley 33mm from the end of the 60mm shaft.
+When I assembled according to the manual, the parts were not quite centered when inserting them into the 3D printed parts.
+I found, at least with the parts in my Powge Motion Kit, that positioning the pulleys at 34mm from the end of the shafts aligned them perfectly.
 
 ##### Parts Needed
 

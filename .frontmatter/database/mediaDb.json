@@ -1699,6 +1699,10 @@
           "adding-threaded-inserts.jpg": {
             "title": "Adding Threaded Inserts",
             "alt": "Using a soldering iron to add heatset inserts to 3D printed parts"
+          },
+          "assembling-z-drives.jpg": {
+            "title": "Assembling Z-Drives",
+            "alt": "Putting together the parts for the belts in the Z-Drives"
           }
         },
         "voron-afterburner": {
