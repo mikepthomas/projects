@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-07-12T12:24:59.465Z
+lastmod: 2025-07-14T21:46:20.078Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1634,11 +1634,11 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item             | Quantity | Received | Notes      |
-| ---------------- | -------- | -------- | ---------- |
-| ADSR Front Panel | 1        |          | 1 On Order |
-| ADSR PCB 1       | 1        |          | 1 On Order |
-| ADSR PCB 2       | 1        |          | 1 On Order |
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| ADSR Front Panel | 1        | 1        |       |
+| ADSR PCB 1       | 1        | 1        |       |
+| ADSR PCB 2       | 1        | 1        |       |
 
 #### Capacitors
 
@@ -1658,12 +1658,12 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Integrated Circuits
 
-| Item                   | Quantity | Received | Notes       |
-| ---------------------- | -------- | -------- | ----------- |
-| 8 Pin DIP Sockets      | 2        | 15       |             |
-| Op Amp Dual (TL072)    | 1        | 10       |             |
-| Timer (LM555)          | 1        |          | 10 On Order |
-| Transistor NPN (BC547) | 4        |          |             |
+| Item                   | Quantity | Received | Notes                   |
+| ---------------------- | -------- | -------- | ----------------------- |
+| 8 Pin DIP Sockets      | 2        | 15       |                         |
+| Op Amp Dual (TL072)    | 1        | 10       |                         |
+| Timer (LM555)          | 1        |          | 10 On Order             |
+| Transistor NPN (BC547) | 4        | 100      | Will replace with BC548 |
 
 #### Potentiometers
 
@@ -1684,14 +1684,14 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Misc
 
-| Item                               | Quantity | Received | Notes |
-| ---------------------------------- | -------- | -------- | ----- |
-| 5mm Red LED                        | 1        | 5        |       |
-| 8 Pin Header                       | 2        | 2        |       |
-| 8 Pin Socket                       | 2        | 2        |       |
-| 10 Pin Power Header                | 1        | 10       |       |
-| Mono Audio Jack                    | 2        | 29       |       |
-| DWB1 SPDT ON-ON Mini Toggle Switch | 1        | 1        |       |
+| Item                               | Quantity | Received | Notes      |
+| ---------------------------------- | -------- | -------- | ---------- |
+| 5mm Red Square LED                 | 1        |          | 5 On Order |
+| 8 Pin Header                       | 2        | 2        |            |
+| 8 Pin Socket                       | 2        | 2        |            |
+| 10 Pin Power Header                | 1        | 10       |            |
+| Mono Audio Jack                    | 2        | 29       |            |
+| DWB1 SPDT ON-ON Mini Toggle Switch | 1        | 1        |            |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1703,10 +1703,10 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes      |
-| -------------------- | -------- | -------- | ---------- |
-| DC Mixer Front Panel | 1        |          | 1 On Order |
-| DC Mixer PCB         | 1        |          | 1 On Order |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| DC Mixer Front Panel | 1        | 1        |       |
+| DC Mixer PCB         | 1        | 1        |       |
 
 #### Capacitors
 
@@ -1739,7 +1739,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 | Item                               | Quantity | Received | Notes      |
 | ---------------------------------- | -------- | -------- | ---------- |
-| 5mm Red LED                        | 4        | 5        |            |
+| 5mm Red Square LED                 | 4        |          | 5 On Order |
 | 10 Pin Power Header                | 1        | 10       |            |
 | DWB3 DPDT ON-ON Mini Toggle Switch | 4        | 1        | 5 On Order |
 | Mono Audio Jack                    | 6        | 29       |            |
@@ -1832,9 +1832,9 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 #### Potentiometers
 
-| Item                                 | Quantity | Received | Notes                                         |
-| ------------------------------------ | -------- | -------- | --------------------------------------------- |
-| Vertical Alpha Potentiometer (A100K) | 2        | 20       | I will replace with B100K with Aluminum Knobs |
+| Item                                 | Quantity | Received | Notes                          |
+| ------------------------------------ | -------- | -------- | ------------------------------ |
+| Vertical Alpha Potentiometer (A100K) | 2        |          | 2 On Order with Aluminum Knobs |
 
 #### Misc
 
@@ -1845,7 +1845,36 @@ Assembly Instructions are available on the [Free Modular Website](https://freemo
 
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-Bypass-Assembly-instructions.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/bypass/)
+Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-Bypass-Assembly-instructions.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/bypass)
+
+## TRS
+
+### Parts
+
+#### PCB
+
+| Item            | Quantity | Received | Notes      |
+| --------------- | -------- | -------- | ---------- |
+| TRS Front Panel | 1        | 1        | 1 On Order |
+| TRS PCB         | 1        | 1        | 1 On Order |
+
+#### Potentiometers
+
+| Item                                            | Quantity | Received | Notes                         |
+| ----------------------------------------------- | -------- | -------- | ----------------------------- |
+| Vertical Alpha Potentiometer - Dual Gang (A50K) | 1        |          | 1 On Order with Aluminum Knob |
+
+#### Misc
+
+| Item                                      | Quantity | Received | Notes      |
+| ----------------------------------------- | -------- | -------- | ---------- |
+| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        | 1        |            |
+| Mono Audio Jack                           | 2        | 29       |            |
+| Stereo Audio Jack                         | 8        | 1        | 7 On Order |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/TRS-Assembly-instructions.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/trs)
 
 ## UMIX
 
@@ -1899,4 +1928,4 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-UMIX-Assembly-guide.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/umix/)
+Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-UMIX-Assembly-guide.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/umix)
