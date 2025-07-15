@@ -1826,6 +1826,30 @@
           "raspberry-pi-zero-cluster.jpg": {
             "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
             "title": "Raspberry Pi Zero Cluster"
+          },
+          "beat-saber.jpg": {
+            "title": "Beat Saber",
+            "alt": "Beat Saber in front of a green screen"
+          },
+          "gaming-pc.jpg": {
+            "title": "Gaming PC",
+            "alt": "My water cooled gaming PC"
+          },
+          "lighting.jpg": {
+            "title": "Lighting",
+            "alt": "Lighting and Camera setup to record myself in front of the green screen"
+          },
+          "vr-room-mk1.jpg": {
+            "title": "VR Room MK1",
+            "alt": "The first iteration of the VR Room"
+          },
+          "vr-room-mk2.jpeg": {
+            "title": "VR Room MK2",
+            "alt": "Getting a larger green screen to be able to record further away"
+          },
+          "vr-room-mk3.jpg": {
+            "title": "VR Room MK3",
+            "alt": "The final iteration of the VR room"
           }
         },
         "thinkcenter": {

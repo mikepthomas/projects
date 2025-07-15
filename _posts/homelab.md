@@ -115,3 +115,32 @@ My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quit
 | [10' - 1U - 3 RPI - RPI 5 - Left](https://www.printables.com/model/952392)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [10' - 1U - 3 RPI - RPI 5 - Middle](https://www.printables.com/model/952392) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 | [10' - 1U - 3 RPI - RPI 5 - Right](https://www.printables.com/model/952392)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+
+# Gaming PC
+
+![My water cooled gaming PC](/assets/blog/homelab/gaming-pc.jpg)
+
+My current gaming PC is starting to show it's age now, it's still running the 40th anniversary limited-edition Core i7-8086K and a Nvidia GeForce GTX 1080 cooled by water with EK water blocks.
+
+# VR Room
+
+![The first iteration of the VR Room](/assets/blog/homelab/vr-room-mk1.jpg)
+
+The first iteration of the VR room designed to be able to compose me playing VR games in real time in a third person view to be streamed on twitch.
+
+![Getting a larger green screen to be able to record further away](/assets/blog/homelab/vr-room-mk2.jpeg)
+
+The first creen was a little small to film anything other than me standing in front of, to allow a full third person view I needed to purchase a wider screen to allow me to be filmed from further back.
+
+![The final iteration of the VR room](/assets/blog/homelab/vr-room-mk3.jpg)
+
+When I moved house I had a larger space to play with therefore I decided to extend the screen accross another wall to allow better angles.
+
+![Lighting and Camera setup to record myself in front of the green screen](/assets/blog/homelab/lighting.jpg)
+
+I also invested in a few umbrella lights to fully illuminate the screen properly. I ended up with 3 of these umbrella lights, 2 to illuminate the screen and one to illuminate my whilst I played.
+Eventually I upgraded the bulbs to hue colour changing ones to allow me to sync the colours being projected on my with what was happening on screen.
+
+![Beat Saber in front of a green screen](/assets/blog/homelab/beat-saber.jpg)
+
+An early example of what the video looked like after composition.
