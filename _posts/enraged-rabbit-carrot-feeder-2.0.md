@@ -250,15 +250,15 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Misc
 
-| Item                               | Quantity | Received | Notes                                                     |
-| ---------------------------------- | -------- | -------- | --------------------------------------------------------- |
-| 2.7mm zip ties                     | 4        |          |                                                           |
-| 5.5 mm ball bearing                | 8        | 53       |                                                           |
-| Bowden Clip                        | 16       | 16       |                                                           |
-| Bowden Fitting                     | 16       | 16       |                                                           |
-| PTFE Tube (4mm OD 3mm ID) - 30cm   | 400mm    | 6m       |                                                           |
-| 8mm aluminum rod with knurled ends | 223mm    |          | On Order, Metal replacement for printed part              |
-| 8mm knurled knobs                  | 2        |          | On Order, Injection Moulded replacement for printed parts |
+| Item                                       | Quantity | Received | Notes                                           |
+| ------------------------------------------ | -------- | -------- | ----------------------------------------------- |
+| 2.7mm zip ties                             | 4        |          |                                                 |
+| 5.5 mm ball bearing                        | 8        | 53       |                                                 |
+| Bowden Clip                                | 16       | 16       |                                                 |
+| Bowden Fitting                             | 16       | 16       |                                                 |
+| PTFE Tube (4mm OD 3mm ID) - 30cm           | 400mm    | 6m       |                                                 |
+| 8mm aluminum rod with knurled ends (223mm) | 1        | 1        | Metal replacement for printed part              |
+| 8mm knurled knobs                          | 2        | 2        | Injection Moulded replacement for printed parts |
 
 ## Printing Parts
 

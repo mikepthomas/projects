@@ -108,7 +108,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | 2510 Axial Fan             | 1        | 2        |                                                                         |
 | CAT24C32 EEPROM            | 1        | 15       | U1                                                                      |
 | DIP-8 Socket               | 1        | 20       | Not required, but makes switching EEPROM modules out easier for testing |
-| DS18B20 Temperature Sensor | 1        | 5        | 10 On Order                                                             |
+| DS18B20 Temperature Sensor | 1        | 15       |                                                                         |
 
 ![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 

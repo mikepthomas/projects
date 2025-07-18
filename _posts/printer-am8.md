@@ -44,7 +44,7 @@ I am currently planning to upgrade the flimsy acrylic to a sturdy metal frame wi
 | M3 0.5mm Spacer    | 18       | 40       | The AM8 BOM mentions 8 are needed for the original build                                 |
 | M3 nuts            | 3        | 3        |                                                                                          |
 | M3 Threaded Insert | 15       | 28       |                                                                                          |
-| M5x10 BHCS         | 31       | 50       | 40 On Order, The AM8 BOM mentions 93 are needed for the original build                   |
+| M5x10 BHCS         | 31       | 90       | The AM8 BOM mentions 93 are needed for the original build                                |
 | M5x10 SHCS         | 8        |          | The AM8 BOM mentions they are needed for the Z-axis motor mounts, will replace with BHCS |
 | M5x16 SHCS         | 6        |          | Not Required. The AM8 BOM mentions they are needed for the rubber feet connections       |
 | M5x30 BHCS         | 6        | 7        |                                                                                          |
