@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-13T20:46:39.767Z
+lastmod: 2025-07-19T21:17:10.655Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -351,7 +351,7 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 | M5x10 BHCS                    | 4        |
 | M5 Post-install T-nut         | 4        |
 
-### :wrench: Z Drive
+### :white_check_mark: Z Drive
 
 ![Using a soldering iron to add heatset inserts to 3D printed parts](/assets/blog/printer-voron-2.4/adding-threaded-inserts.jpg)
 
@@ -398,7 +398,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 | M5 Post-install T-nut           | 16       |
 | Rubber Foot (1.5x.75", 38x19mm) | 4        |
 
-### :negative_squared_cross_mark: Z Idlers
+### :wrench: Z Idlers
 
 | Item                                                                                                                     | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -417,41 +417,6 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 | M3 Hexnut                            | 4        |
 | M5x30 BHCS                           | 12       |
 | M5 Post-install T-nut                | 8        |
-
-## Print Bed
-
-![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg)
-
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
-
-### :negative_squared_cross_mark: Heated Bed
-
-| Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------- |
-| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `deepfriedheroin` |
-
-#### Assembly
-
-##### Parts Needed
-
-| Item                                                | Quantity |
-| --------------------------------------------------- | -------- |
-| 18AWG Wire (Protective Earth)                       | 300mm    |
-| Adhesive Magnetic Sheet - 305x305mm                 | 1        |
-| Keenovo 150 Silicone AC Heater w/ thermistor (400W) | 1        |
-| M3x6 BHCS                                           | 1        |
-| M3x12 SHCS                                          | 1        |
-| M3x16 SHCS                                          | 4        |
-| M3 Post-install T-nut                               | 4        |
-| M3 Washer                                           | 1        |
-| M4 Knurled Nut (DIN 466-B)                          | 4        |
-| M5x10 BHCS                                          | 4        |
-| M5 Post-install T-nut                               | 4        |
-| Mandela Rose Works Plate Plate - 305x305mm          | 1        |
-| Ring Crimp Terminal (16-22AWG, #6)                  | 1        |
-| Spring Steel Flexible Print Surface - 305x305mm     | 1        |
-| Thermal Fuse (120C)                                 | 1        |
-| WAGO 221-412 Lever-Nuts                             | 6        |
 
 ## A/B Drives and Idlers
 
@@ -769,6 +734,43 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 The StealthBurner’s files are maintained separately in the [Voron Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner).
 
 [Assembly of the parts can be found on its own separate page](voron-stealthburner).
+
+## Print Bed
+
+![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg)
+
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
+### :negative_squared_cross_mark: Heated Bed
+
+| Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------- |
+| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `deepfriedheroin` |
+
+#### Assembly
+
+The manual says to install this earlier in the build. I have opted to leave it until after the gantry is installed as the bed adds considerable weight to the printer, making it harder to move around.
+
+##### Parts Needed
+
+| Item                                                | Quantity |
+| --------------------------------------------------- | -------- |
+| 18AWG Wire (Protective Earth)                       | 300mm    |
+| Adhesive Magnetic Sheet - 305x305mm                 | 1        |
+| Keenovo 150 Silicone AC Heater w/ thermistor (400W) | 1        |
+| M3x6 BHCS                                           | 1        |
+| M3x12 SHCS                                          | 1        |
+| M3x16 SHCS                                          | 4        |
+| M3 Post-install T-nut                               | 4        |
+| M3 Washer                                           | 1        |
+| M4 Knurled Nut (DIN 466-B)                          | 4        |
+| M5x10 BHCS                                          | 4        |
+| M5 Post-install T-nut                               | 4        |
+| Mandela Rose Works Plate Plate - 305x305mm          | 1        |
+| Ring Crimp Terminal (16-22AWG, #6)                  | 1        |
+| Spring Steel Flexible Print Surface - 305x305mm     | 1        |
+| Thermal Fuse (120C)                                 | 1        |
+| WAGO 221-412 Lever-Nuts                             | 6        |
 
 ## Electronics
 
