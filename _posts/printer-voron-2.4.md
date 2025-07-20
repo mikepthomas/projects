@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-20T12:10:35.357Z
+lastmod: 2025-07-20T15:37:56.486Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -375,6 +375,9 @@ I used the [Bed Support Alignment Tools](#tools) to get the same spacing along t
 The manual mentions to position the GT2 pulley 33mm from the end of the 60mm shaft.
 When I assembled according to the manual, the parts were not quite centered when inserting them into the 3D printed parts.
 I found, at least with the parts in my Powge Motion Kit, that positioning the pulleys at 34mm from the end of the shafts aligned them perfectly.
+
+**_NOTE:_** The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
+As I am using Switchwire motors that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
 
 ##### Parts Needed
 
