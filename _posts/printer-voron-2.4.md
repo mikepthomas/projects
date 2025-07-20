@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-19T21:17:10.655Z
+lastmod: 2025-07-20T12:10:35.357Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -398,7 +398,9 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 | M5 Post-install T-nut           | 16       |
 | Rubber Foot (1.5x.75", 38x19mm) | 4        |
 
-### :wrench: Z Idlers
+### :white_check_mark: Z Idlers
+
+![Z Idlers assembled](/assets/blog/printer-voron-2.4/eyedlers.jpg)
 
 | Item                                                                                                                     | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -424,7 +426,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: A Idler
+### :wrench: A Idler
 
 | Item                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -446,7 +448,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :negative_squared_cross_mark: B Idler
+### :wrench: B Idler
 
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
