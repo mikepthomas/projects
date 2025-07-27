@@ -1704,9 +1704,18 @@
             "title": "Assembling Z-Drives",
             "alt": "Putting together the parts for the belts in the Z-Drives"
           },
-          "eyedlers.jpg": {
-            "title": "EYEdlers",
-            "alt": "Z Idlers assembled"
+          "eyedlers.jpg": { "title": "EYEdlers", "alt": "Z Idlers assembled" },
+          "z-drives-installed.jpg": {
+            "title": "Z Drives Installed",
+            "alt": "The Z Drives and feet installed on the printer"
+          },
+          "z-motor-installed.jpg": {
+            "title": "Z Motor Installed",
+            "alt": "One of the Z motors installed to the Z Drive"
+          },
+          "z-idlers-installed.jpeg": {
+            "title": "Z Idlers Installed",
+            "alt": "The Z Idlers installed into the top extrustions of the printer"
           }
         },
         "voron-afterburner": {
