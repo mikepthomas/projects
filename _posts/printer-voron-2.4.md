@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-27T11:55:57.611Z
+lastmod: 2025-07-27T12:24:16.133Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -1057,10 +1057,16 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 ### :negative_squared_cross_mark: Z Belt Covers
 
-| Item                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------- |
+| [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | ~2~ 1    | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Only 1 required as I will also be using the LDO LED Pass thru version |
+| [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                       |
+
+### LED Pass Thru Z Belt Cover
+
+| Item                                                                                                      | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                   |
+| --------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------- |
+| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is an LDO 2.4 Part |
 
 ## Panels
 
@@ -1070,24 +1076,24 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 ### :negative_squared_cross_mark: Back Panel
 
-| Item                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
+| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
+| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
+| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
 
 ### :negative_squared_cross_mark: Side Panels
 
-| Item                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_6mm_x8.stl)   | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 6mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_6mm_x8.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 6mm Version |
+| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
+| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_6mm_x8.stl)   | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 6mm Version |
+| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_6mm_x8.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 6mm Version |
 
 ### :negative_squared_cross_mark: Top Panel
 
-| Item                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | 4mm Version |
+| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
+| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
+| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
@@ -1097,12 +1103,12 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 ### :negative_squared_cross_mark: Doors
 
-| Item                                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [door_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/door_hinge_x6.stl) | 6        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [handle_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_a_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [handle_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_b_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [latch](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/latch_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                                 | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
+| [door_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/door_hinge_x6.stl) | 6        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [handle_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_a_x2.stl)     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [handle_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_b_x2.stl)     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [latch](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/latch_x2.stl)           | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Exhaust
 
@@ -1114,12 +1120,22 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 | [exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead |
 | [exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead |
 
+### :negative_squared_cross_mark: LDO Exhaust Cover
+
+This will just be a placeholder until I have built the [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax).
+
+| Item                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                   |
+| ----------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------- |
+| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is an LDO 2.4 Part |
+
 ### :negative_squared_cross_mark: Spool Holder
 
-| Item                                                                                                              | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [bowden_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/bowden_retainer.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [spool_holder](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/spool_holder.stl)       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
+| [bowden_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/bowden_retainer.stl) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [spool_holder](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/spool_holder.stl)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+
+I plan on printing the spool holder in accent colour as I have some black PTFE tubing which I think will look better than the standard white.
 
 ## Smart Filament Sensor Mount
 
