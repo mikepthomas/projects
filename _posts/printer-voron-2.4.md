@@ -417,7 +417,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
-![The Z Idlers installed into the top extrustions of the printer](/assets/blog/printer-voron-2.4/z-idlers-installed.jpeg)
+![The Z Idlers installed into the top extrustions of the printer](/assets/blog/printer-voron-2.4/z-idlers-installed.jpg)
 
 ##### Parts Needed
 
@@ -483,7 +483,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :wrench: A Drive
+### :white_check_mark: A Drive
 
 | Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
@@ -491,6 +491,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | [a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.55m | 19.25g | £0.31 | :heavy_check_mark: |       |
 
 #### Assembly
+
+![A Drive Assembled](/assets/blog/printer-voron-2.4/a-drive.jpg)
 
 ##### Parts Needed
 
@@ -504,7 +506,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5x30 BHCS                    | 2        |
 | M5 1mm Shim                   | 6        |
 
-### :wrench: B Drive
+### :white_check_mark: B Drive
 
 | Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
@@ -512,6 +514,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 | :heavy_check_mark: |       |
 
 #### Assembly
+
+![B Drive Assembled](/assets/blog/printer-voron-2.4/b-drive.jpg)
 
 ##### Parts Needed
 
@@ -530,7 +534,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Gantry Assembly
+### :wrench: Gantry Assembly
 
 #### Assembly
 
@@ -541,7 +545,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5x10 BHCS            | 8        |
 | M5 Post-install T-nut | 8        |
 
-### :negative_squared_cross_mark: Y Axis
+### :wrench: Y Axis
 
 | Item                                                                                                                   | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -559,7 +563,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M3 Post-install T-nut   | 20       |
 | M5 Post-install T-nut   | 12       |
 
-### :wrench: Right XY Joint
+### :white_check_mark: Right XY Joint
 
 | Item                                                                                                                                           | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
@@ -568,6 +572,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
+![Right X/Y Joint Assembled](/assets/blog/printer-voron-2.4/xy-joint-right.jpg)
+
 ##### Parts Needed
 
 | Item                                 | Quantity |
@@ -578,7 +584,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                          | 2        |
 | M5 Hexnut                            | 3        |
 
-### :wrench: Left XY Joint
+### :white_check_mark: Left XY Joint
 
 | Item                                                                                                                                         | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
@@ -587,6 +593,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
+![Left X/Y Joint Assembled](/assets/blog/printer-voron-2.4/xy-joint-left.jpg)
+
 ##### Parts Needed
 
 | Item                                 | Quantity |
@@ -597,7 +605,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                          | 2        |
 | M5 Hexnut                            | 3        |
 
-### :negative_squared_cross_mark: X Axis
+### :wrench: X Axis
 
 | Item                                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------- |

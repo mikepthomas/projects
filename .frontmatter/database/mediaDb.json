@@ -1713,7 +1713,7 @@
             "title": "Z Motor Installed",
             "alt": "One of the Z motors installed to the Z Drive"
           },
-          "z-idlers-installed.jpeg": {
+          "z-idlers-installed.jpg": {
             "title": "Z Idlers Installed",
             "alt": "The Z Idlers installed into the top extrustions of the printer"
           },
@@ -1724,6 +1724,22 @@
           "b-idler.jpg": {
             "title": "B Idler",
             "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
+          },
+          "a-drive.jpg": {
+            "title": "A Drive",
+            "alt": "A Drive Assembled"
+          },
+          "b-drive.jpg": {
+            "title": "B Drive",
+            "alt": "B Drive Assembled"
+          },
+          "xy-joint-right.jpg": {
+            "title": "X/Y Joint (Right)",
+            "alt": "Right X/Y Joint Assembled"
+          },
+          "xy-joint-left.jpg": {
+            "title": "X/Y Joint (Left)",
+            "alt": "Left X/Y Joint Assembled"
           }
         },
         "voron-afterburner": {
