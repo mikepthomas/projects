@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-03T09:37:45.792Z
+lastmod: 2025-08-03T11:06:04.696Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -1082,24 +1082,35 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 ### :negative_squared_cross_mark: Back Panel
 
-| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
+| Item                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------------- |
+| [corner_panel_clip_4mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
+| [midspan_panel_clip_4mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
 
 ### :negative_squared_cross_mark: Side Panels
 
-| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_6mm_x8.stl)   | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 6mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_6mm_x8.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 6mm Version |
+| Item                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------------- |
+| [corner_panel_clip_6mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_6mm_x8.stl)   | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
+| [midspan_panel_clip_6mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_6mm_x8.stl) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
 
 ### :negative_squared_cross_mark: Top Panel
 
-| Item                                                                                                                         | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes       |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------- |
-| [corner_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
-| [midspan_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | 4mm Version |
+| Item                                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------------- |
+| [corner_panel_clip_4mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/corner_panel_clip_4mm_x8.stl)   | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
+| [midspan_panel_clip_4mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/midspan_panel_clip_4mm_x7.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not Required, I plan on using the [Annex Engineering Panel Clips](#-annex-engineering-panel-clips) |
+
+### :negative_squared_cross_mark: Annex Engineering Panel Clips
+
+| Item                                                                                                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------ |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 7        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [lock_body_6](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_6mm.STL)             | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [corner_lock_body_6](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_6.STL) | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 23       | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
+| [key_asymmetric_6](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_6.STL)        | 24       | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a Mod by `Annex-Engineering` |
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
