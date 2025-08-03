@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-07-19T13:41:28.768Z
+lastmod: 2025-07-29T13:07:50.113Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -190,15 +190,15 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 #### Capacitors
 
-| Item                           | Quantity | Received     | Notes |
-| ------------------------------ | -------- | ------------ | ----- |
-| Ceramic Capacitor (100nF)      | 100      | 100          |       |
-| Ceramic Capacitor (10nF)       | 100      | 100 on order |       |
-| Electrolytic Capacitor (4.7uF) | 4        | 4            |       |
-| Electrolytic Capacitor (1uF)   | 4        | 4            |       |
-| Film Capacitor (1uF)           | 10       | 10           |       |
-| Film Capacitor (2.2nF)         | 20       | 20           |       |
-| Film Capacitor (1nF)           | 20       | 20           |       |
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------- | -------- | ----- |
+| Ceramic Capacitor (100nF)      | 100      | 100      |       |
+| Ceramic Capacitor (10nF)       | 100      | 100      |       |
+| Electrolytic Capacitor (4.7uF) | 4        | 4        |       |
+| Electrolytic Capacitor (1uF)   | 4        | 4        |       |
+| Film Capacitor (1uF)           | 10       | 10       |       |
+| Film Capacitor (2.2nF)         | 20       | 20       |       |
+| Film Capacitor (1nF)           | 20       | 20       |       |
 
 #### Diodes
 
@@ -240,26 +240,26 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 #### Resistors
 
-| Item                       | Quantity | Received     | Notes                                 |
-| -------------------------- | -------- | ------------ | ------------------------------------- |
-| Metal Film resistor (1M)   | 100      | 100          |                                       |
-| Metal Film resistor (100K) | 100      | 100          |                                       |
-| Metal Film resistor (82K)  | 100      | 100          |                                       |
-| Metal Film resistor (68K)  | 100      | 100          |                                       |
-| Metal Film resistor (47K)  | 100      | 100          |                                       |
-| Metal Film resistor (33K)  | 100      | 100          |                                       |
-| Metal Film resistor (27K)  | 100      | 100          |                                       |
-| Metal Film resistor (22K)  | 100      | 100 on order |                                       |
-| Metal Film resistor (20K)  | 100      | 100          |                                       |
-| Metal Film resistor (14K)  | 100      |              | Can use 47K + 20k in parallel instead |
-| Metal Film resistor (10K)  | 100      | 100          |                                       |
-| Metal Film resistor (4.7K) | 100      | 100 on order |                                       |
-| Metal Film resistor (2K)   | 100      | 100          |                                       |
-| Metal Film resistor (1.5K) | 100      | 100          |                                       |
-| Metal Film resistor (1K)   | 100      | 100          |                                       |
-| Metal Film resistor (470R) | 100      | 100          |                                       |
-| Metal Film resistor (100R) | 100      | 100          |                                       |
-| Metal Film resistor (10R)  | 100      | 100          |                                       |
+| Item                       | Quantity | Received | Notes                                 |
+| -------------------------- | -------- | -------- | ------------------------------------- |
+| Metal Film resistor (1M)   | 100      | 100      |                                       |
+| Metal Film resistor (100K) | 100      | 100      |                                       |
+| Metal Film resistor (82K)  | 100      | 100      |                                       |
+| Metal Film resistor (68K)  | 100      | 100      |                                       |
+| Metal Film resistor (47K)  | 100      | 100      |                                       |
+| Metal Film resistor (33K)  | 100      | 100      |                                       |
+| Metal Film resistor (27K)  | 100      | 100      |                                       |
+| Metal Film resistor (22K)  | 100      | 100      |
+| Metal Film resistor (20K)  | 100      | 100      |                                       |
+| Metal Film resistor (14K)  | 100      |          | Can use 47K + 20k in parallel instead |
+| Metal Film resistor (10K)  | 100      | 100      |                                       |
+| Metal Film resistor (4.7K) | 100      | 100      |                                       |
+| Metal Film resistor (2K)   | 100      | 100      |                                       |
+| Metal Film resistor (1.5K) | 100      | 100      |                                       |
+| Metal Film resistor (1K)   | 100      | 100      |                                       |
+| Metal Film resistor (470R) | 100      | 100      |                                       |
+| Metal Film resistor (100R) | 100      | 100      |                                       |
+| Metal Film resistor (10R)  | 100      | 100      |                                       |
 
 #### Misc
 
@@ -1777,7 +1777,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 | Item                           | Quantity | Received     | Notes |
 | ------------------------------ | -------- | ------------ | ----- |
 | Ceramic Capacitor (100nF)      | 3        | 100 in stock |       |
-| Ceramic Capacitor (10nF)       | 1        | 100 on order |       |
+| Ceramic Capacitor (10nF)       | 1        | 100 in stock |       |
 | Electrolytic Capacitor (10uF)  | 3        | 2            |       |
 | Electrolytic Capacitor (4.7uF) | 1        | 1            |       |
 | Electrolytic Capacitor (1uF)   | 1        | 1            |       |
@@ -1809,9 +1809,9 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 | Item                       | Quantity | Received     | Notes |
 | -------------------------- | -------- | ------------ | ----- |
-| Metal Film resistor (22K)  | 1        | 100 on order |       |
+| Metal Film resistor (22K)  | 1        | 100 in stock |       |
 | Metal Film resistor (10K)  | 2        | 100 in stock |       |
-| Metal Film resistor (4.7K) | 4        | 100 on order |       |
+| Metal Film resistor (4.7K) | 4        | 100 in stock |       |
 | Metal Film resistor (1K)   | 1        | 100 in stock |       |
 | Metal Film resistor (100R) | 3        | 100 in stock |       |
 
@@ -1868,7 +1868,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | -------------------------- | -------- | ------------ | ----- |
 | Metal Film resistor (100K) | 5        | 100 in stock |       |
 | Metal Film resistor (10K)  | 2        | 100 in stock |       |
-| Metal Film resistor (4.7K) | 4        | 100 on order |       |
+| Metal Film resistor (4.7K) | 4        | 100 in stock |       |
 
 #### Misc
 
@@ -1903,7 +1903,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | ----------------------------- | -------- | ------------ | ------------------------------------------ |
 | Ceramic Capacitor (470nF)     | 1        |              |                                            |
 | Ceramic Capacitor (100nF)     | 2        | 100 in stock |                                            |
-| Ceramic Capacitor (10nF)      | 1        | 100 on order |                                            |
+| Ceramic Capacitor (10nF)      | 1        | 100 in stock |                                            |
 | Ceramic Capacitor (33pF)      | 1        |              |                                            |
 | Electrolytic Capacitor (10uF) | 2        | 5 in stock   | Optional power supply filtering capacitors |
 
