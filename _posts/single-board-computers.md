@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2025-07-27T17:51:42.722Z
+lastmod: 2025-08-03T09:23:16.463Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -45,14 +45,17 @@ This page lists all of the single board computers I own and is mainly for me to 
 
 ## Generic
 
-| Item              | Case            | Flashed with                                                                                                                               | Notes                                                             |
-| ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| Arduino Mega 2560 |                 | [Klipper Firmware](https://www.klipper3d.org)                                                                                              | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5 |
-| Arduino Nano      | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Blue)                                  |
-| Arduino Nano      | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Red)                                   |
-| Arduino Nano      |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
-| Arduino Nano      |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
-| Arduino Uno       | Breadboard Case | [ArduinoISP](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP)                                                             |                                                                   |
+| Item                    | Case            | Flashed with                                                                                                                               | Notes                                                             |
+| ----------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Arduino Mega 2560       |                 | [Klipper Firmware](https://www.klipper3d.org)                                                                                              | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5 |
+| Arduino Nano (USB C)    | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Blue)                                  |
+| Arduino Nano (USB C)    | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Red)                                   |
+| Arduino Nano (USB C)    |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
+| Arduino Nano (USB C)    |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
+| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
+| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
+| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                      |
+| Arduino Uno             | Breadboard Case | [ArduinoISP](https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP)                                                             |                                                                   |
 
 # BBC
 
@@ -1944,18 +1947,31 @@ For further information, please refer to https://pinout.xyz/
 
 ![Board designed for tinkering using a Pi Pico](/assets/blog/single-board-computers/maker-pi-pico.jpg)
 
-| Item                                | Case                                                                                                        | Flashed with                                                                 | Notes                           |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------- |
-| Datanoise Pico ADK                  | Eurorack Module                                                                                             | [PicoADK Firmware](https://github.com/DatanoiseTV/PicoADK-Firmware-Template) | In original packaging           |
-| Raspberry Pi Pico                   |                                                                                                             |                                                                              | In original packaging           |
-| Raspberry Pi Pico H                 | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython](https://micropython.org)                                       |                                 |
-| Raspberry Pi Pico W                 | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller)   | In original packaging           |
-| Raspberry Pi Pico W                 |                                                                                                             |                                                                              | In original packaging           |
-| Raspberry Pi Pico WH                |                                                                                                             | [ESPHome](https://esphome.io/)                                               | Boxed                           |
-| Raspberry Pi Pico 2                 | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                       | [PiPicoMacroKeys](https://github.com/novaspirit/PiPicoMacroKeys)             |                                 |
-| Raspberry Pi Pico 2                 |                                                                                                             |                                                                              | In original packaging           |
-| Raspberry Pi Pico 2W                |                                                                                                             |                                                                              | In original packaging           |
-| Raspberry Pi RP2040 Microcontroller |                                                                                                             |                                                                              | Bare Chip in original packaging |
+### Original
+
+| Item                          | Case                                                                                                        | Flashed with                                                               | Notes                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------- |
+| Raspberry Pi Pico             |                                                                                                             |                                                                            | In original packaging |
+| Raspberry Pi Pico             | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                       | [PiPicoMacroKeys](https://github.com/novaspirit/PiPicoMacroKeys)           | With soldered headers |
+| Raspberry Pi Pico             | [SB Components Pico 3V Relay](https://shop.sb-components.co.uk/products/pico-3v-relay-hat)                  |                                                                            | In original packaging |
+| Raspberry Pi Pico             | [SB Components Pico Motor Driver](https://shop.sb-components.co.uk/products/pico-motor-driver)              |                                                                            | In original packaging |
+| Raspberry Pi Pico             | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion)    |                                                                            | In original packaging |
+| Raspberry Pi Pico H           |                                                                                                             |                                                                            | In original packaging |
+| Raspberry Pi Pico H           | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython](https://micropython.org)                                     |                       |
+| Raspberry Pi Pico W           |                                                                                                             |                                                                            | In original packaging |
+| Raspberry Pi Pico W           | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller](https://github.com/SanaaHamel/nevermore-controller) |                       |
+| Raspberry Pi Pico WH          |                                                                                                             | [ESPHome](https://esphome.io/)                                             | Boxed                 |
+| Raspberry Pi Pico 2           |                                                                                                             |                                                                            | In original packaging |
+| Raspberry Pi Pico 2           |                                                                                                             |                                                                            |                       |
+| Raspberry Pi Pico 2W          |                                                                                                             |                                                                            | In original packaging |
+| Raspberry Pi RP2040 Bare Chip |                                                                                                             |                                                                            | In original packaging |
+
+### Branded
+
+| Item                 | Case                                                                     | Flashed with                                                                 | Notes                 |
+| -------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | --------------------- |
+| Pimoroni Badger 2040 | [Case for Pimoroni Badger 2040](https://www.printables.com/model/549103) | [Badger OS](https://github.com/pimoroni/badger2040)                          | In original packaging |
+| Datanoise Pico ADK   | Eurorack Module                                                          | [PicoADK Firmware](https://github.com/DatanoiseTV/PicoADK-Firmware-Template) | In original packaging |
 
 ```
 ╭───────────────────────────────────────── Raspberry Pi Pico Pinout ─────────────────────────────────────────╮
