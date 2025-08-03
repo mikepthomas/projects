@@ -1716,6 +1716,14 @@
           "z-idlers-installed.jpeg": {
             "title": "Z Idlers Installed",
             "alt": "The Z Idlers installed into the top extrustions of the printer"
+          },
+          "a-idler.jpg": {
+            "title": "A Idler",
+            "alt": "The A Idler and Belt Tentioner for the Flying Gantry"
+          },
+          "b-idler.jpg": {
+            "title": "B Idler",
+            "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
           }
         },
         "voron-afterburner": {

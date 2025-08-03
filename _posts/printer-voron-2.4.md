@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-07-27T12:45:11.778Z
+lastmod: 2025-08-03T09:37:45.792Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -435,7 +435,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :wrench: A Idler
+### :white_check_mark: A Idler
 
 | Item                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -445,6 +445,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
+![The A Idler and Belt Tentioner for the Flying Gantry](/assets/blog/printer-voron-2.4/a-idler.jpg)
+
 ##### Parts Needed
 
 | Item                        | Quantity |
@@ -457,7 +459,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :wrench: B Idler
+### :white_check_mark: B Idler
 
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
@@ -467,6 +469,8 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
+![The B Idler and Belt Tentioner for the Flying Gantry](/assets/blog/printer-voron-2.4/b-idler.jpg)
+
 ##### Parts Needed
 
 | Item                        | Quantity |
@@ -479,7 +483,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :negative_squared_cross_mark: A Drive
+### :wrench: A Drive
 
 | Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
@@ -500,12 +504,14 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5x30 BHCS                    | 2        |
 | M5 1mm Shim                   | 6        |
 
-### :negative_squared_cross_mark: B Drive
+### :wrench: B Drive
 
 | Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
 | [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.10m | 18.11g | £0.30 | :heavy_check_mark: |       |
 | [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 | :heavy_check_mark: |       |
+
+#### Assembly
 
 ##### Parts Needed
 
@@ -553,7 +559,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M3 Post-install T-nut   | 20       |
 | M5 Post-install T-nut   | 12       |
 
-### :negative_squared_cross_mark: Right XY Joint
+### :wrench: Right XY Joint
 
 | Item                                                                                                                                           | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
@@ -572,7 +578,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                          | 2        |
 | M5 Hexnut                            | 3        |
 
-### :negative_squared_cross_mark: Left XY Joint
+### :wrench: Left XY Joint
 
 | Item                                                                                                                                         | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
