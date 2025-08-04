@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-03T11:06:04.696Z
+lastmod: 2025-08-04T18:03:55.261Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -661,11 +661,14 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 | Item                                       | Quantity |
 | ------------------------------------------ | -------- |
-| Ø6x3mm Neodimium Magnet                    | 1        |
+| ~Ø6x3mm Neodimium Magnet~                  | 1        |
 | GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        |
-| M3x30 SHCS                                 | 4        |
-| M5x30 BHCS                                 | 4        |
-| M5 Hexnut                                  | 4        |
+| M3x16 SHCS                                 | 4        |
+| ~M3x30 SHCS~                               | 4        |
+| ~M5x30 BHCS~                               | 4        |
+| ~M5 Hexnut~                                | 4        |
+
+**_NOTE:_** Some of these parts are no longer required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) kit and are shorter than what is specified in the Manual.
 
 ### :negative_squared_cross_mark: Z Joints
 
@@ -677,10 +680,12 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 ##### Parts Needed
 
-| Item       | Quantity |
-| ---------- | -------- |
-| M3x20 SHCS | 16       |
-| M5x40 SHCS | 4        |
+| Item         | Quantity |
+| ------------ | -------- |
+| ~M3x20 SHCS~ | 16       |
+| ~M5x40 SHCS~ | 4        |
+
+**_NOTE:_** These parts are no longer required as they are for the `z_joint_lower`s.
 
 ### :negative_squared_cross_mark: Annex Engineering Reinforced Gantry Mounts
 
@@ -702,7 +707,6 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | Ø6x3mm Neodimium Magnet                | 1        |
 | 02152 ball head screws                 | 4        |
 | M3x12 SHCS                             | 14       |
-| M3x16 SHCS                             | 4        |
 | M3x20 SHCS                             | 2        |
 | M3 Threaded Insert (M3x5x4)            | 4        |
 | M5 Washer (1mm)                        | 4        |
@@ -726,18 +730,26 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 ##### Parts Needed
 
-| Item                                       | Quantity |
-| ------------------------------------------ | -------- |
-| Ø6x3mm Neodimium Magnet                    | 1        |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |
-| M3x8 SHCS                                  | 4        |
-| M3x12 SHCS                                 | 2        |
-| M3x30 SHCS                                 | 4        |
-| M3 Hexnut                                  | 2        |
-| M3 Threaded Insert (M3x5x4)                | 4        |
-| Omron TL-Q5MC2 Probe                       | 1        |
+| Item                                         | Quantity |
+| -------------------------------------------- | -------- |
+| ~Ø6x3mm Neodimium Magnet~                    | 1        |
+| ~GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm~ | 2        |
+| ~M3x8 SHCS~                                  | 4        |
+| ~M3x12 SHCS~                                 | 2        |
+| ~M3x30 SHCS~                                 | 4        |
+| ~M3 Hexnut~                                  | 2        |
+| ~M3 Threaded Insert (M3x5x4)~                | 4        |
+| ~Omron TL-Q5MC2 Probe~                       | 1        |
+
+**_NOTE:_** These parts are no longer required as I will be installing the ChaoticLab CNC Tap below.
 
 ### :negative_squared_cross_mark: ChaoticLab CNC Tap
+
+| Item                                                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| [V2 Hall Sensor Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/CNC_VORON_TAP_V2/V2%20Hall%20Sensor%20Adapter.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is `Chaoticlab` Part |
+
+**_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
 #### Assembly
 
@@ -746,9 +758,15 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | Item                                       | Quantity |
 | ------------------------------------------ | -------- |
 | Ø6x3mm Neodimium Magnet                    | 1        |
-| ChaoticLab CNC Tap Kit                     | 1        |
+| ChaoticLab CNC Tap V2                      | 1        |
+| ChaoticLab CNC Tap Belt Clamp              | 2        |
+| ChaoticLab CNC Tap Limit Switch Bracket    | 1        |
 | GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        |
-| M3x4 BHCS                                  | 2        |
+| M2x5 SHCS                                  | 2        |
+| M2x8 SHCS                                  | 2        |
+| M3x5 BHCS                                  | 2        |
+| M3x6 SHCS                                  | 2        |
+| M3x12 SHCS                                 | 2        |
 
 ## Stealthburner
 
