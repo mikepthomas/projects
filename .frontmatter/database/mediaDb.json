@@ -1725,14 +1725,8 @@
             "title": "B Idler",
             "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
           },
-          "a-drive.jpg": {
-            "title": "A Drive",
-            "alt": "A Drive Assembled"
-          },
-          "b-drive.jpg": {
-            "title": "B Drive",
-            "alt": "B Drive Assembled"
-          },
+          "a-drive.jpg": { "title": "A Drive", "alt": "A Drive Assembled" },
+          "b-drive.jpg": { "title": "B Drive", "alt": "B Drive Assembled" },
           "xy-joint-right.jpg": {
             "title": "X/Y Joint (Right)",
             "alt": "Right X/Y Joint Assembled"
@@ -1740,6 +1734,18 @@
           "xy-joint-left.jpg": {
             "title": "X/Y Joint (Left)",
             "alt": "Left X/Y Joint Assembled"
+          },
+          "rear-gantry-extrusion.jpg": {
+            "title": "Rear Gantry Extrision",
+            "alt": "A and B drives attached to the rear gantry extrusion"
+          },
+          "y-axis-assembly.jpg": {
+            "title": "Y-Axis Assembly",
+            "alt": "Y rails and A/B idlers attached to the gantry"
+          },
+          "x-axis-installed.jpg": {
+            "title": "X-Axis Installed",
+            "alt": "X-Axis installed onto the gantry"
           }
         },
         "voron-afterburner": {

@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-04T18:03:55.261Z
+lastmod: 2025-08-06T19:16:35.564Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -534,9 +534,11 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :wrench: Gantry Assembly
+### :white_check_mark: Gantry Assembly
 
 #### Assembly
+
+![A and B drives attached to the rear gantry extrusion](/assets/blog/printer-voron-2.4/rear-gantry-extrusion.jpg)
 
 ##### Parts Needed
 
@@ -545,13 +547,15 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5x10 BHCS            | 8        |
 | M5 Post-install T-nut | 8        |
 
-### :wrench: Y Axis
+### :white_check_mark: Y Axis
 
 | Item                                                                                                                   | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [z_belt_clip_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_upper_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.79m | 2.02g  | £0.04 | :heavy_check_mark: |       |
 
 #### Assembly
+
+![Y rails and A/B idlers attached to the gantry](/assets/blog/printer-voron-2.4/y-axis-assembly.jpg)
 
 ##### Parts Needed
 
@@ -605,7 +609,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                          | 2        |
 | M5 Hexnut                            | 3        |
 
-### :wrench: X Axis
+### :white_check_mark: X Axis
 
 | Item                                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------- |
@@ -613,14 +617,16 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 #### Assembly
 
+![X-Axis installed onto the gantry](/assets/blog/printer-voron-2.4/x-axis-installed.jpg)
+
 ##### Parts Needed
 
 | Item                        | Quantity |
 | --------------------------- | -------- |
 | Linear Rail MGN12H 350mm    | 1        |
-| M3x8 SHCS                   | 6        |
+| M3x8 SHCS                   | 8        |
 | M3x16 SHCS                  | 6        |
-| M3 Post-install T-nut       | 6        |
+| M3 Post-install T-nut       | 8        |
 | M3 Threaded Insert (M3x5x4) | 3        |
 | M5x10 BHCS                  | 2        |
 | M5x16 BHCS                  | 2        |
@@ -628,7 +634,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                 | 2        |
 | M5 Post-install T-nut       | 6        |
 
-### :negative_squared_cross_mark: Titanium Backers
+### :wrench: Titanium Backers
 
 #### Assembly
 
