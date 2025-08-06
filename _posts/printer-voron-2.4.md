@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-06T19:16:35.564Z
+lastmod: 2025-08-06T22:09:39.451Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -634,17 +634,23 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | M5 1mm Shim                 | 2        |
 | M5 Post-install T-nut       | 6        |
 
-### :wrench: Titanium Backers
+### :white_check_mark: Titanium Backers
+
+[Titanium backers](https://mods.vorondesign.com/details/ewDI1Cntz7urtuq3Cm9wGQ) by `whoppingpochard` are laser-cut pieces of titanium bolted onto the opposite side of extrusions from the linear rails, designed to counteract bi-metallic frame warping when the printer heats up.
 
 #### Assembly
 
+![Titanium Backers Installed on the gantry](/assets/blog/printer-voron-2.4/titanium-backers.jpg)
+
 ##### Parts Needed
 
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| 300mm Gantry Backing Plate Kit | 1        |
-| M3x6 FHCS                      | 24       |
-| M3 Hammer Head T-nuts          | 24       |
+| Item                                                            | Quantity |
+| --------------------------------------------------------------- | -------- |
+| 300mm X-Axis Titanium Backing Plate (With chain mounting holes) | 1        |
+| 340mm Y-Axis Titanium Backing Plate (With chain mounting holes) | 1        |
+| 340mm Y-Axis Titanium Backing Plate                             | 1        |
+| M3x8 FHCS                                                       | 26       |
+| M3 Hammer Head T-nuts                                           | 26       |
 
 ## Z Axis
 

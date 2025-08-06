@@ -1746,6 +1746,10 @@
           "x-axis-installed.jpg": {
             "title": "X-Axis Installed",
             "alt": "X-Axis installed onto the gantry"
+          },
+          "titanium-backers.jpg": {
+            "title": "Titanium Backers",
+            "alt": "Titanium Backers Installed on the gantry"
           }
         },
         "voron-afterburner": {
