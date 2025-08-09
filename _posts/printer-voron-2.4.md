@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-06T22:09:39.451Z
+lastmod: 2025-08-09T22:22:16.386Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -701,12 +701,12 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 ### :negative_squared_cross_mark: Annex Engineering Reinforced Gantry Mounts
 
-| Item                                                                                                                                                                                                                         | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ------------------------------------ |
-| [halleffect_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/halleffect_spacer_Rev1.STL)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.19m | 3.02g  | £0.05 |   :x:   | This is a Mod by `Annex-Engineering` |
-| [microswitch_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/microswitch_spacer_Rev1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |   :x:   | This is a Mod by `Annex-Engineering` |
-| [z_bearing_block](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_bearing_block_x4_Rev3.STL)    | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.48m | 6.33g  | £0.10 |   :x:   | This is a Mod by `Annex-Engineering` |
-| [z_tensioner](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_tensioner_x4_Rev3.STL)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.34m | 0.87g  | £0.01 |   :x:   | This is a Mod by `Annex-Engineering` |
+| Item                                                                                                                                                                                                                         | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
+| [halleffect_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/halleffect_spacer_Rev1.STL)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.19m | 3.02g  | £0.05 | :heavy_check_mark: | This is a Mod by `Annex-Engineering` |
+| [microswitch_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/microswitch_spacer_Rev1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a Mod by `Annex-Engineering` |
+| [z_bearing_block](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_bearing_block_x4_Rev3.STL)    | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.48m | 6.33g  | £0.10 | :heavy_check_mark: | This is a Mod by `Annex-Engineering` |
+| [z_tensioner](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_tensioner_x4_Rev3.STL)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.34m | 0.87g  | £0.01 | :heavy_check_mark: | This is a Mod by `Annex-Engineering` |
 
 **_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
