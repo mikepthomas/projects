@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-07-29T13:07:50.113Z
+lastmod: 2025-08-09T12:12:38.923Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1894,17 +1894,17 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 | Item              | Quantity | Received | Notes |
 | ----------------- | -------- | -------- | ----- |
-| Boost Front Panel | 1        |          |       |
-| Boost PCB         | 1        |          |       |
+| Boost Front Panel | 1        | 1        |       |
+| Boost PCB         | 1        | 1        |       |
 
 #### Capacitors
 
 | Item                          | Quantity | Received     | Notes                                      |
 | ----------------------------- | -------- | ------------ | ------------------------------------------ |
-| Ceramic Capacitor (470nF)     | 1        |              |                                            |
+| Ceramic Capacitor (470nF)     | 1        | 100 on order |                                            |
 | Ceramic Capacitor (100nF)     | 2        | 100 in stock |                                            |
 | Ceramic Capacitor (10nF)      | 1        | 100 in stock |                                            |
-| Ceramic Capacitor (33pF)      | 1        |              |                                            |
+| Ceramic Capacitor (33pF)      | 1        | 100 on order |                                            |
 | Electrolytic Capacitor (10uF) | 2        | 5 in stock   | Optional power supply filtering capacitors |
 
 #### Diodes
@@ -1919,27 +1919,27 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | ----------------------- | -------- | ----------- | --------------------------------- |
 | 14 Pin DIP Sockets      | 1        | 10 in stock |                                   |
 | Op Amp Quad (TL074)     | 1        | 10 in stock |                                   |
-| Transistor NPN (2N3904) | 1        |             | Optional for high-impedance input |
+| Transistor NPN (2N3904) | 1        | 20 on order | Optional for high-impedance input |
 
 #### Potentiometers
 
-| Item                                  | Quantity | Received | Notes |
-| ------------------------------------- | -------- | -------- | ----- |
-| Aluminum Knob for Alpha Potentiometer | 2        |          |       |
-| Vertical Alpha Potentiometer (B50K)   | 2        |          |       |
+| Item                                  | Quantity | Received    | Notes |
+| ------------------------------------- | -------- | ----------- | ----- |
+| Aluminum Knob for Alpha Potentiometer | 2        | 19 in stock |       |
+| Vertical Alpha Potentiometer (B50K)   | 2        |             |       |
 
 #### Resistors
 
 | Item                       | Quantity | Received     | Notes |
 | -------------------------- | -------- | ------------ | ----- |
-| Metal Film resistor (750K) | 1        |              |       |
-| Metal Film resistor (560K) | 1        |              |       |
+| Metal Film resistor (750K) | 1        | 100 on order |       |
+| Metal Film resistor (560K) | 1        | 100 on order |       |
 | Metal Film resistor (100K) | 2        | 100 in stock |       |
-| Metal Film resistor (24K)  | 1        |              |       |
-| Metal Film resistor (18K)  | 1        |              |       |
-| Metal Film resistor (15K)  | 1        |              |       |
+| Metal Film resistor (24K)  | 1        | 100 on order |       |
+| Metal Film resistor (18K)  | 1        | 100 on order |       |
+| Metal Film resistor (15K)  | 1        | 100 on order |       |
 | Metal Film resistor (10K)  | 2        | 100 in stock |       |
-| Metal Film resistor (2.4K) | 1        |              |       |
+| Metal Film resistor (2.4K) | 1        | 100 on order |       |
 | Metal Film resistor (2K)   | 1        | 100 in stock |       |
 | Metal Film resistor (1K)   | 1        | 100 in stock |       |
 
