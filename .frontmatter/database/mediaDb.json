@@ -1650,6 +1650,14 @@
               "title": "Z Drives",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
               "alt": "3D render of the Voron 2.4 Z Drives"
+            },
+            "fasteners.jpg": {
+              "title": "Fasteners",
+              "alt": "Description of the types of fasteners"
+            },
+            "motion.jpg": {
+              "title": "Motion",
+              "alt": "Description of the types of motion components"
             }
           },
           "voron-hero.jpg": {

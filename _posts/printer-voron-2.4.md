@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-09T22:22:16.386Z
+lastmod: 2025-08-10T13:33:29.614Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -32,6 +32,8 @@ promoted: true
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg)
 
 I got a good discount on the Fasteners as the kit is for the original V2.4 and not V2.4R2 (the original price was £83, and I got it for £50) and I have sourced the missing quantities of parts from elsewhere and I should also have many spares left over for Mods and future projects.
+
+![Description of the types of fasteners](/assets/blog/printer-voron-2.4/voron-design/fasteners.jpg)
 
 | Item                        | Quantity | Received | Notes                                                                                                        |
 | --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------ |
@@ -63,6 +65,8 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | M2x10 Self-tapping Screw    | 18       | 18       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
 
 ## Motion
+
+![Description of the types of motion components](/assets/blog/printer-voron-2.4/voron-design/motion.jpg)
 
 | Item                                       | Quantity | Received | Notes                                                                                    |
 | ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------- |
@@ -658,12 +662,12 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Z Bearing Blocks
+### :wrench: Z Bearing Blocks
 
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- |
 | [z_belt_clip_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl)               | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.77m | 1.97g  | £0.04 | :heavy_check_mark: |                                                                                                                              |
-| [z_belt_clip](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/ChenTheDesignMaker/Z_Belt_Clip/z_belt_clipX4.stl)     | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.35m | 0.89g  | £0.01 |        :x:         | This is a Voron Users Mod by `ChenTheDesignMaker`                                                                            |
+| [z_belt_clip](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/ChenTheDesignMaker/Z_Belt_Clip/z_belt_clipX4.stl)     | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.35m | 0.89g  | £0.01 | :heavy_check_mark: | This is a Voron Users Mod by `ChenTheDesignMaker`                                                                            |
 | [z_joint_upper_hall_effect](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_hall_effect.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         | Not Required, I plan on using the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) |
 | [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)                      | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         | Not Required, I plan on using the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) |
 
@@ -699,7 +703,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 **_NOTE:_** These parts are no longer required as they are for the `z_joint_lower`s.
 
-### :negative_squared_cross_mark: Annex Engineering Reinforced Gantry Mounts
+### :wrench: Annex Engineering Reinforced Gantry Mounts
 
 | Item                                                                                                                                                                                                                         | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------ |
@@ -757,9 +761,9 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 ### :negative_squared_cross_mark: ChaoticLab CNC Tap
 
-| Item                                                                                                                                        | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
-| [V2 Hall Sensor Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/CNC_VORON_TAP_V2/V2%20Hall%20Sensor%20Adapter.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is `Chaoticlab` Part |
+| Item                                                                                                                                        | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ------------------------- |
+| [V2 Hall Sensor Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/CNC_VORON_TAP_V2/V2%20Hall%20Sensor%20Adapter.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.44m | 1.11g  | £0.02 |   :x:   | This is `Chaoticlab` Part |
 
 **_NOTE:_** I am not going to install a hall effect endstop now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
@@ -798,9 +802,9 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 
 ### :negative_squared_cross_mark: Heated Bed
 
-| Item                                                                                                                             | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------- |
-| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users Mod by `deepfriedheroin` |
+| Item                                                                                                                             | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ---------------------------------------------- |
+| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.41m | 11.24g | £0.18 |   :x:   | This is a Voron Users Mod by `deepfriedheroin` |
 
 #### Assembly
 
@@ -1026,8 +1030,8 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
 | [cable_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_cable_cover.stl)                              | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.86m | 7.29g  | £0.15 | :heavy_check_mark: |       |
 | [z_chain_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_z_chain_retainer_bracket_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.22m | 0.56g  | £0.01 | :heavy_check_mark: |       |
-| [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 |        :x:         |       |
-| [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 |        :x:         |       |
+| [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |       |
+| [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |       |
 
 ## Skirts
 
