@@ -35,6 +35,8 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 
 ![Description of the types of fasteners](/assets/blog/printer-voron-2.4/voron-design/fasteners.jpg)
 
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+
 | Item                        | Quantity | Received | Notes                                                                                                        |
 | --------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------ |
 | M5x40 SHCS                  | 22       | 27       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
@@ -67,6 +69,8 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 ## Motion
 
 ![Description of the types of motion components](/assets/blog/printer-voron-2.4/voron-design/motion.jpg)
+
+> Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                       | Quantity | Received | Notes                                                                                    |
 | ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------- |

@@ -1653,10 +1653,12 @@
             },
             "fasteners.jpg": {
               "title": "Fasteners",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
               "alt": "Description of the types of fasteners"
             },
             "motion.jpg": {
               "title": "Motion",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
               "alt": "Description of the types of motion components"
             }
           },
