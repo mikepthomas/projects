@@ -1094,6 +1094,8 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
+![Rear Skirt with both main and accent colours achieved with a filament swap](/assets/blog/printer-voron-2.4/two-tone-rear-skirt.jpg)
+
 | Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                                |
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ---------------------------------------------------- |
 | [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)                | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
