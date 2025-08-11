@@ -1760,6 +1760,18 @@
           "titanium-backers.jpg": {
             "title": "Titanium Backers",
             "alt": "Titanium Backers Installed on the gantry"
+          },
+          "heated-bed-wagos.jpg": {
+            "title": "Heated Bed Wagos",
+            "alt": "Wago Holder to make removal of the heated bed easier"
+          },
+          "xy-endstop-pcb.jpg": {
+            "title": "X/Y Endstop PCB",
+            "alt": "Endstop pod for X/Y Endstop PCB"
+          },
+          "mains-distribution-wagos.jpg": {
+            "title": "Mains Distribution Wagos",
+            "alt": "Wago Holder for Mains Power Distribution"
           }
         },
         "voron-afterburner": {
