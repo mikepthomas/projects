@@ -794,13 +794,25 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: Heated Bed
+### :negative_squared_cross_mark: Heated Bed Wago Holder
 
 ![Wago Holder to make removal of the heated bed easier](/assets/blog/printer-voron-2.4/heated-bed-wagos.jpg)
 
 | Item                                                                                                                             | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                          |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ---------------------------------------------- |
 | [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.41m | 11.24g | £0.18 | :heavy_check_mark: | This is a Voron Users Mod by `deepfriedheroin` |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| M5x10 BHCS              | 4        |
+| M5 Post-install T-nut   | 4        |
+| WAGO 221-412 Lever-Nuts | 6        |
+
+### :negative_squared_cross_mark: Heated Bed
 
 #### Assembly
 
@@ -819,13 +831,10 @@ The manual says to install this earlier in the build. I have opted to leave it u
 | M3 Post-install T-nut                               | 4        |
 | M3 Washer                                           | 1        |
 | M4 Knurled Nut (DIN 466-B)                          | 4        |
-| M5x10 BHCS                                          | 4        |
-| M5 Post-install T-nut                               | 4        |
 | Mandela Rose Works Plate Plate - 305x305mm          | 1        |
 | Ring Crimp Terminal (16-22AWG, #6)                  | 1        |
 | Spring Steel Flexible Print Surface - 305x305mm     | 1        |
 | Thermal Fuse (120C)                                 | 1        |
-| WAGO 221-412 Lever-Nuts                             | 6        |
 
 ## Electronics
 
