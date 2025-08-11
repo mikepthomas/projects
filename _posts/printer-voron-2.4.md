@@ -27,7 +27,7 @@ promoted: true
 
 # Sourcing Parts
 
-The following list of parts below are from the Bill of Materials (BOM) for a 300mm spec printer that can be found via the `Configurator` on the [Voron2 v2.4 page on the Voron Design Website](https://www.vorondesign.com/voron2.4).
+The following list of parts are from the Bill of Materials (BOM) for a 300mm spec printer that can be found via the `Configurator` on the [Voron2 v2.4 page on the Voron Design Website](https://www.vorondesign.com/voron2.4).
 
 ## Fasteners
 
