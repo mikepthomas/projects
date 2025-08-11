@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-11T17:54:41.360Z
+lastmod: 2025-08-11T22:51:11.669Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -763,7 +763,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | ~M3 Threaded Insert (M3x5x4)~                | 4        |
 | ~Omron TL-Q5MC2 Probe~                       | 1        |
 
-**_NOTE:_** These parts are no longer required as I will be installing the ChaoticLab CNC Tap below.
+**_NOTE:_** These parts are no longer required as I will be installing the `ChaoticLab CNC Tap` below.
 
 ### :negative_squared_cross_mark: ChaoticLab CNC Tap
 
@@ -935,7 +935,7 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 #### Assembly
 
-#### Parts Used
+##### Parts Needed
 
 | Item                     | Quantity |
 | ------------------------ | -------- |
@@ -1044,6 +1044,18 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |       |
 | [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x10 FHCS                  | 2        |
+| M3x12 FHCS                  | 2        |
+| M3 Threaded Insert (M3x5x4) | 2        |
+| M5 Post-install T-nut       | 2        |
+| M5x10 BHCS                  | 2        |
+
 ## Stealthburner
 
 ![3D render of the Voron 2.4 Stealthburner](/assets/blog/printer-voron-2.4/voron-design/stealthburner.jpg)
@@ -1070,6 +1082,19 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 | [mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
 | [mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not Required as I will be using the BTT 5" Screen case |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| ~M3x12 SHCS~                  | 4        |
+| ~M3x40 SHCS~                  | 1        |
+| ~M3 Threaded Insert (M3x5x4)~ | 4        |
+| ~Mini 12864 Display~          | 1        |
+
+**_NOTE:_** These parts are no longer required as I will be installing the `BTT 5" Screen case` below.
+
 ### :negative_squared_cross_mark: BTT 5" Screen case
 
 This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
@@ -1081,7 +1106,7 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 
 #### Assembly
 
-##### Parts Used
+##### Parts Needed
 
 | Item                                     | Quantity |
 | ---------------------------------------- | -------- |
@@ -1092,7 +1117,26 @@ This replaces the Mini 12864 LCD and fits in a BigTreeTech PITFT50 touch screen 
 | M3 Post-install T-nut                    | 2        |
 | M3 Threaded Insert (M3x5x4)              | 4        |
 
-### :negative_squared_cross_mark: Skirts
+### :negative_squared_cross_mark: Front Skirts
+
+| Item                                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
+| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x8 SHCS                   | 8        |
+| M3 Post-install T-nut       | 4        |
+| M3 Threaded Insert (M3x5x4) | 6        |
+
+### :negative_squared_cross_mark: Rear Skirts
 
 The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
@@ -1100,19 +1144,23 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 | Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                                |
 | --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ---------------------------------------------------- |
-| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)                | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)                | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)                  | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)                  | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl)    | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
+| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
+| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
 | [keystone_blank_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_keystone_blank_insert.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | Not Required as I plan on printing the PiPlate Skirt |
 | [keystone_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/keystone_panel.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         | Not Required as I plan on printing the PiPlate Skirt |
-| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         |                                                      |
-| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl)             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         |                                                      |
-| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl)             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         |                                                      |
 | [rear_center_skirt_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/rear_center_skirt_300.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 18.81m | 47.96g | £0.96 | :heavy_check_mark: |                                                      |
-| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)            | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         |                                                      |
-| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)            | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         |                                                      |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x8 SHCS                   | ~8~ 4    |
+| M3 Post-install T-nut       | ~4~ 2    |
+| M3 Threaded Insert (M3x5x4) | ~6~ 3    |
+
+**_NOTE:_** Some of these parts are no longer required as they are for the `keystone_panel`.
 
 ### :negative_squared_cross_mark: PiPlate Skirt
 
@@ -1122,6 +1170,41 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :-----: | ------------------------------------------ |
 | [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 12.31m | 31.39g | £0.63 |   :x:   | This is a Voron Users Mod by `LoganFraser` |
 | [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |   :x:   | This is a Voron Users Mod by `LoganFraser` |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M2x10 Self-tapping Screw    | 4        |
+| M3x8 SHCS                   | 4        |
+| M3 Post-install T-nut       | 2        |
+| M3 Threaded Insert (M3x5x4) | 3        |
+
+### :negative_squared_cross_mark: Side Skirts
+
+| Item                                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
+| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
+| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| 60x60x20 Delta Fan (24V)    | 2        |
+| M3x8 SHCS                   | 20       |
+| M3 Post-install T-nut       | 4        |
+| M3 Threaded Insert (M3x5x4) | 18       |
+| M5 Post-install T-nut       | 2        |
+| M5x10 BHCS                  | 2        |
 
 ### :negative_squared_cross_mark: Bottom Panel
 
