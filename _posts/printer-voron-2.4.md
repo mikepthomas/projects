@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-11T22:51:11.669Z
+lastmod: 2025-08-12T18:33:02.668Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -690,7 +690,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | ~M5x30 BHCS~                               | 4        |
 | ~M5 Hexnut~                                | 4        |
 
-**_NOTE:_** Some of these parts are no longer required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) kit and are shorter than what is specified in the Manual.
+**_NOTE:_** Some of these parts are not required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the [Annex Engineering Reinforced Gantry Mounts](#-annex-engineering-reinforced-gantry-mounts) kit and are shorter than what is specified in the Manual.
 
 ### :negative_squared_cross_mark: Z Joints
 
@@ -707,7 +707,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | ~M3x20 SHCS~ | 16       |
 | ~M5x40 SHCS~ | 4        |
 
-**_NOTE:_** These parts are no longer required as they are for the `z_joint_lower`s.
+**_NOTE:_** These parts are not required as they are for the `z_joint_lower`s.
 
 ### :wrench: Annex Engineering Reinforced Gantry Mounts
 
@@ -763,7 +763,7 @@ As I am using Switchwire motors that I already had on hand I will be mounting th
 | ~M3 Threaded Insert (M3x5x4)~                | 4        |
 | ~Omron TL-Q5MC2 Probe~                       | 1        |
 
-**_NOTE:_** These parts are no longer required as I will be installing the `ChaoticLab CNC Tap` below.
+**_NOTE:_** These parts are not required as I will be installing the `ChaoticLab CNC Tap` below.
 
 ### :negative_squared_cross_mark: ChaoticLab CNC Tap
 
@@ -943,9 +943,13 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ### :negative_squared_cross_mark: Power Inlet
 
-| Item                                                                                      | Quantity | Material                                             | Size   | Weight | Cost  | Printed | Notes               |
-| ----------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :-----: | ------------------- |
-| [power_inlet](https://www.teamfdm.com/files/file/613-voron-24-r2-power-inlet-iecgs-15mm/) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 12.54m | 31.98g | £0.64 |   :x:   | IECGS 1.5mm Version |
+The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
+
+![Power Inlet Skirt with both main and accent colours achieved with a filament swap](/assets/blog/printer-voron-2.4/power-inlet.jpg)
+
+| Item                                                                                      | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes               |
+| ----------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ------------------- |
+| [power_inlet](https://www.teamfdm.com/files/file/613-voron-24-r2-power-inlet-iecgs-15mm/) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 12.54m | 31.98g | £0.64 | :heavy_check_mark: | IECGS 1.5mm Version |
 
 #### Assembly
 
@@ -967,15 +971,17 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ##### Parts Needed
 
-| Item                             | Quantity |
-| -------------------------------- | -------- |
-| Ø5x35mm Shaft                    | 1        |
-| GT2 20T Pulley (5mm ID 6mm W)    | 1        |
-| JST XH Connector Plug 3 Position | 1        |
-| M2x10 Self-Tapping Screw         | 2        |
-| M3x20 SHCS                       | 2        |
-| M3 Post-install T-nut            | 2        |
-| Omron D2F-01L Micro Switch       | 1        |
+| Item                               | Quantity |
+| ---------------------------------- | -------- |
+| ~Ø5x35mm Shaft~                    | 1        |
+| ~GT2 20T Pulley (5mm ID 6mm W)~    | 1        |
+| ~JST XH Connector Plug 3 Position~ | 1        |
+| ~M2x10 Self-Tapping Screw~         | 2        |
+| ~M3x20 SHCS~                       | 2        |
+| ~M3 Post-install T-nut~            | 2        |
+| ~Omron D2F-01L Micro Switch~       | 1        |
+
+**_NOTE:_** These parts are not required as I will be installing the `ChaoticLab CNC Tap`.
 
 ### :negative_squared_cross_mark: X/Y Endstop
 
@@ -987,11 +993,13 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 
 ##### Parts Needed
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| M2x10 Self-tapping Screw   | 4        |
-| M3x30 SHCS                 | 2        |
-| Omron D2F-01L Micro Switch | 2        |
+| Item                         | Quantity |
+| ---------------------------- | -------- |
+| ~M2x10 Self-tapping Screw~   | 4        |
+| ~M3x30 SHCS~                 | 2        |
+| ~Omron D2F-01L Micro Switch~ | 2        |
+
+**_NOTE:_** These parts are not required as I will be installing the `X/Y Endstop PCB` below.
 
 ### :negative_squared_cross_mark: X/Y Endstop PCB
 
@@ -1093,7 +1101,7 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 | ~M3 Threaded Insert (M3x5x4)~ | 4        |
 | ~Mini 12864 Display~          | 1        |
 
-**_NOTE:_** These parts are no longer required as I will be installing the `BTT 5" Screen case` below.
+**_NOTE:_** These parts are not required as I will be installing the `BTT 5" Screen case` below.
 
 ### :negative_squared_cross_mark: BTT 5" Screen case
 
@@ -1160,16 +1168,18 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | M3 Post-install T-nut       | ~4~ 2    |
 | M3 Threaded Insert (M3x5x4) | ~6~ 3    |
 
-**_NOTE:_** Some of these parts are no longer required as they are for the `keystone_panel`.
+**_NOTE:_** Some of these parts are not required as they are for the `keystone_panel`.
 
 ### :negative_squared_cross_mark: PiPlate Skirt
 
 The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
-| Item                                                                                                                                             | Quantity | Material                                               | Size   | Weight | Cost  | Printed | Notes                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :-----: | ------------------------------------------ |
-| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 12.31m | 31.39g | £0.63 |   :x:   | This is a Voron Users Mod by `LoganFraser` |
-| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |   :x:   | This is a Voron Users Mod by `LoganFraser` |
+![PiPlate Skirt with both main and accent colours achieved with a filament swap](/assets/blog/printer-voron-2.4/piplate-skirt.jpg)
+
+| Item                                                                                                                                             | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ------------------------------------------ |
+| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 12.31m | 31.39g | £0.63 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser` |
+| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | This is a Voron Users Mod by `LoganFraser` |
 
 #### Assembly
 

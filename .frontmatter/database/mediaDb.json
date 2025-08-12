@@ -1776,6 +1776,14 @@
           "two-tone-rear-skirt.jpg": {
             "title": "Two-tone Rear Skirt",
             "alt": "Rear Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "power-inlet.jpg": {
+            "title": "Power Inlet",
+            "alt": "Power Inlet Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "piplate-skirt.jpg": {
+            "title": "PiPlate Skirt",
+            "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap"
           }
         },
         "voron-afterburner": {
