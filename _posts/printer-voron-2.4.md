@@ -1176,10 +1176,10 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 ![PiPlate Skirt with both main and accent colours achieved with a filament swap](/assets/blog/printer-voron-2.4/piplate-skirt.jpg)
 
-| Item                                                                                                                                             | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ------------------------------------------ |
-| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 12.31m | 31.39g | £0.63 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser` |
-| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | This is a Voron Users Mod by `LoganFraser` |
+| Item                                                                                                                                             | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------ |
+| [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 12.31m | 31.39g | £0.63 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser` |
+| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |        |        |       |        :x:         | This is a Voron Users Mod by `LoganFraser` |
 
 #### Assembly
 
