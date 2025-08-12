@@ -33,7 +33,7 @@ I usually print my ABS with a hotend temperature of 250-255°C and a bed tempera
 
 ### eSun ABS+ (Black)
 
-This filament was originally brought to print the main parts for my [Voron 1.8](printer-voron-1.8).
+This filament will be used to print the main parts for the [Voron 0.2](printer-voron-0.2), [Voron 1.8](printer-voron-1.8) and [Voron 2.4](printer-voron-2.4).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                          | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ This filament will be used to print the accent parts for the [AM8 Switchwire](pr
 
 ### eSun ABS+ (Brown)
 
-This filament was originally brought to print the interior parts for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the interior parts for a [3D Sets Landy](3d-sets-landy).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                          | Purchased From | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ This filament was originally brought to print the interior parts for a [3D Sets 
 
 ### eSun ABS+ (Cold White)
 
-This filament was originally brought to print the roof for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the roof for a [3D Sets Landy](3d-sets-landy).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -103,7 +103,7 @@ This filament will be used to print the window frames of the [Sanctuary Hills Ho
 
 ### eSun ABS+ (Orange)
 
-This filament will be used to print some of the accent parts for the [Voron 0.2](printer-voron-0.2).
+This filament will be used to print the accent parts for the [Voron 0.2](printer-voron-0.2).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ This filament will be used to print the parts for the [Rook 2020](printer-rook).
 
 ### eSun ABS+ (Pine Green)
 
-This filament was originally brought to print the body panels for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the body panels for a [3D Sets Landy](3d-sets-landy).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                               | Purchased From | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -133,7 +133,7 @@ This filament was originally brought to print the body panels for a [3D Sets Lan
 
 ### eSun ABS+ (Purple)
 
-This filament will be used to print some of the accent parts for the [Voron 0.2](printer-voron-0.2).
+This filament will be used to print the accent parts for the [Voron 2.4](printer-voron-2.4).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -147,7 +147,7 @@ This filament will be used to print some of the accent parts for the [Voron 0.2]
 
 ### eSun ABS+ (Silver)
 
-This filament was originally brought to print the frame on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
+This filament will be used to print the frame on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -163,7 +163,7 @@ This filament was originally brought to print the [3D LabPrint Piper Cub](3d-lab
 
 ### PrimaValue ABS (Dark Grey)
 
-This filament was brought to print the parts close to the hotend of [my printer](printer).
+This filament was brought to print the parts close to the hotend of [my Anet A8](printer).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -199,7 +199,7 @@ This filament was originally brought to upgrade my printer to a Core XY style [H
 
 ### Tinmorry PETG (White)
 
-This filament was originally brought to upgrade the parts near the hotend and bed of [my printer](printer) to make them more heat resistant.
+This filament was originally brought to upgrade the parts near the hotend and bed of [my Anet A8](printer) to make them more heat resistant.
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -219,7 +219,7 @@ This filament was originally brought to print Fallout: Wasteland Warfare [Vault]
 
 ### eSun PLA (Wood)
 
-This filament was originally brought to print the wood panels on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
+This filament will be used to print the wood panels on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                               | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -267,7 +267,7 @@ This filament was originally brought to print the body of the [OpenRC F1 Car](op
 
 ### PrimaValue PLA (Dark Grey)
 
-This filament was the first type I originally brought, it was used to print the upgrade parts for [my printer](printer).
+This filament was the first type I originally brought, it was used to print the upgrade parts for [my Anet A8](printer).
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
