@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-12T18:33:02.668Z
+lastmod: 2025-08-13T17:17:42.387Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -115,7 +115,7 @@ I got a good discount on the Fasteners as the kit is for the original V2.4 and n
 | Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S).                                                                                                                                                        |
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                                            |
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                                            |
-| Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the PiPlate Skirt                                                                                                                                                                                       |
+| Keystone CAT6 Insert (Optional)                       | 1        |          | Not Required as I plan on printing the [PiPlate Skirt](#-piplate-skirt)                                                                                                                                                                    |
 | Inductive Probe (See sourcing guide)                  | 1        | 1        | [Omron TL-Q5MC2](https://www.ia.omron.com/product/item/1924/) Probe. Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                                   |
 | Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                                                                                                                                                         |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                                            |
@@ -848,20 +848,24 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 
 ### :negative_squared_cross_mark: Raspberry Pi
 
-| Item                                                                                                  | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                |
-| ----------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------- |
-| [Raspberry_Pi](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Misc/Raspberry_Pi.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the PiPlate Skirt |
-| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)              | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the PiPlate Skirt |
+| Item                                                                                                  | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                   |
+| ----------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------- |
+| [Raspberry_Pi](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Misc/Raspberry_Pi.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the [PiPlate Skirt](#-piplate-skirt) |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)              | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I plan on printing the [PiPlate Skirt](#-piplate-skirt) |
 
 #### Assembly
 
 ##### Parts Needed
 
-| Item                     | Quantity |
-| ------------------------ | -------- |
-| M2x10 Self-tapping Screw | 6        |
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| ~M2x10 Self-tapping Screw~ | 6        |
+
+**_NOTE:_** These parts are not required as I will be installing the `PiPlate Skirt`.
 
 ### :negative_squared_cross_mark: 5V PSU
+
+The 5V PSU is used to power the Raspberry Pi for Klipper and any LED lighting.
 
 | Item                                                                                                    | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
@@ -876,6 +880,8 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | M3x6 BHCS | 2        |
 
 ### :negative_squared_cross_mark: 24V PSU
+
+The 24V PSU is used to power the main MCU, Motors and Hotend.
 
 | Item                                                                                                                     | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
@@ -898,6 +904,12 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
+The only Controller Board that I own with more than 5 stepper driver sockets is the [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html).
+
+I did contemplate using my [BigTreeTech SKR 1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)
+with the optional [EXP-MOT](https://biqu.equipment/products/btt-rrf-wifi-v1-0-module-driver-expansion-module-for-skr-v1-4-1-4-turbo-skr-v1-3-3d-printer-part) module
+as I will not be using the `EXP1` and `EXP2` ports for a display, however, the SKR 1.4 Turbo does not have enough controllable fan ports, which is why I designed the [Klipper Fan Hat](printer-klipper-fan-hat).
+
 | Item                                                                                                                    | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [Fly_Super8_2pc](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Controllers/Mellow/Fly_Super8_2pc.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
@@ -913,6 +925,8 @@ The Electronics mounts are maintained separately in the [Voron Parts repository]
 | M3x6 BHCS                | 4        |
 
 ### :negative_squared_cross_mark: Solid State Relay
+
+The Solid State Relay is used to control the Mains powered bed from the Controller Board as the main MCU does not have a way of switching mains electricity on it's own.
 
 #### Assembly
 
@@ -963,6 +977,8 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 ### :negative_squared_cross_mark: Z Endstop
 
+The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-Tap repository](https://github.com/VoronDesign/Voron-Tap/blob/main/config/tap_klipper_instructions.md) mentions to change the `endstop_pin` of the `[stepper_z]` block so that it uses the virtual Z endstop for Tap.
+
 | Item                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not Required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298) |
@@ -1002,6 +1018,8 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 **_NOTE:_** These parts are not required as I will be installing the `X/Y Endstop PCB` below.
 
 ### :negative_squared_cross_mark: X/Y Endstop PCB
+
+I have chosen to use physical switches for the X/Y endstops as I am more familliar with them in my other machines. I will potentially experiment with Hall Effect Switches or Sensorless Homing once I have the machine up and running.
 
 ![Endstop pod for X/Y Endstop PCB](/assets/blog/printer-voron-2.4/xy-endstop-pcb.jpg)
 
@@ -1150,13 +1168,13 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 ![Rear Skirt with both main and accent colours achieved with a filament swap](/assets/blog/printer-voron-2.4/two-tone-rear-skirt.jpg)
 
-| Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                                |
-| --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ---------------------------------------------------- |
-| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                      |
-| [keystone_blank_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_keystone_blank_insert.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | Not Required as I plan on printing the PiPlate Skirt |
-| [keystone_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/keystone_panel.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         | Not Required as I plan on printing the PiPlate Skirt |
-| [rear_center_skirt_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/rear_center_skirt_300.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 18.81m | 47.96g | £0.96 | :heavy_check_mark: |                                                      |
+| Item                                                                                                                        | Quantity | Material                                               | Size   | Weight | Cost  |      Printed       | Notes                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------ | ----- | :----------------: | ----------------------------------------------------------------------- |
+| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                                         |
+| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         |                                                                         |
+| [keystone_blank_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_keystone_blank_insert.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | Not Required as I plan on printing the [PiPlate Skirt](#-piplate-skirt) |
+| [keystone_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/keystone_panel.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         | Not Required as I plan on printing the [PiPlate Skirt](#-piplate-skirt) |
+| [rear_center_skirt_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/rear_center_skirt_300.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 18.81m | 47.96g | £0.96 | :heavy_check_mark: |                                                                         |
 
 #### Assembly
 
@@ -1179,7 +1197,7 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | Item                                                                                                                                             | Quantity | Material                                             | Size   | Weight | Cost  |      Printed       | Notes                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------ |
 | [2.4r2_Skirt_for_PiPlate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/2.4r2_Skirt_for_PiPlate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 12.31m | 31.39g | £0.63 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser` |
-| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |        |        |       |        :x:         | This is a Voron Users Mod by `LoganFraser` |
+| [Pi4Plate](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/LoganFraser/PiPlate/STLs/Pi4Plate.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.81m  | 12.27g | £0.20 | :heavy_check_mark: | This is a Voron Users Mod by `LoganFraser` |
 
 #### Assembly
 
