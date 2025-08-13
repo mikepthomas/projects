@@ -979,7 +979,7 @@ I have chosen to use physical switches for the X/Y endstops as I am more familli
 | ~M2x10 Self-tapping Screw~   | 4        |
 | M3x8 SHCS                    | 2        |
 | M3x30 SHCS                   | 2        |
-| Microswitch XY Endstop PCB   | 1        |
+| Microswitch X/Y Endstop PCB  | 1        |
 | ~Omron D2F-01L Micro Switch~ | 2        |
 
 **_NOTE:_** Some of these parts are not required as they are for the stock `endstop_pod`.
@@ -1075,7 +1075,7 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50](http
 | M3 Threaded Insert (M3x5x4)              | 4        |
 | ~Mini 12864 Display~                     | 1        |
 
-**_NOTE:_** These parts are not required as I will be installing the `BTT 5" Screen case` below.
+**_NOTE:_** Some of these parts are not required as they are for the stock `mini12864_case`.
 
 ### :negative_squared_cross_mark: Front Skirts
 
