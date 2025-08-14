@@ -1031,7 +1031,7 @@ I have chosen to use physical switches for the X/Y endstops as I am more familli
 
 ## Stealthburner
 
-![3D render of the Voron 2.4 Stealthburner](/assets/blog/printer-voron-2.4/voron-design/stealthburner.jpg)
+![3D render of the Voron StealthBurner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 

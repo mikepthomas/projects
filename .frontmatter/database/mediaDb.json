@@ -1050,11 +1050,6 @@
               "alt": "3D render of the Voron 1.8 X Axis",
               "title": "X-Axis"
             },
-            "afterburner.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
-              "alt": "3D render of the Voron 1.8 Afterburner",
-              "title": "Afterburner"
-            },
             "skirts-and-bottom-compartment.jpg": {
               "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com/)",
               "alt": "3D render of the Voron 1.8 Skirts and Bottom Compartment",
@@ -1630,11 +1625,6 @@
               "title": "Skirts",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
               "alt": "3D render of the Voron 2.4 Skirts"
-            },
-            "stealthburner.jpg": {
-              "title": "Stealthburner",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com/)",
-              "alt": "3D render of the Voron 2.4 Stealthburner"
             },
             "wiring.jpg": {
               "title": "Wiring",

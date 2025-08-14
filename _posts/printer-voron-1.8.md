@@ -503,7 +503,7 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 
 ## Afterburner
 
-![3D render of the Voron 1.8 Afterburner](/assets/blog/printer-voron-1.8/voron-design/afterburner.jpg)
+![3D render of the Voron AfterBurner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg)
 
 > Image © 2020 [Voron Design](https://www.vorondesign.com/)
 
