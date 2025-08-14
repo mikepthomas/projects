@@ -10,6 +10,7 @@ slug: /projects/voron-m4
 related:
   - https://www.vorondesign.com/voron_m4
   - /projects/voron-afterburner
+  - /projects/voron-stealthburner
 draft: false
 tags:
   - Extruder

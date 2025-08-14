@@ -9,6 +9,7 @@ preview: /assets/blog/voron-afterburner/afterburner-hero.jpg
 slug: /projects/voron-afterburner
 related:
   - /projects/voron-m4
+  - /projects/voron-stealthburner
 draft: false
 tags:
   - Extruder
@@ -142,7 +143,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                                                | Quantity | Material                                                                 |      Printed       | Notes                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | ---------------------------------------------- |
-| [extruder_body](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/extruder_body.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |        :x:         | Not Required as I am printing the ERCF Version |
+| [extruder_body](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/extruder_body.stl)                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |        :x:         | Not required as I am printing the ERCF Version |
 | [ERCF_Sensor_Cable_Cover](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/%5Ba%5D_AB_ERCF_Sensor_Cable_Cover.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | ERCF Filament Sensor Part                      |
 | [ERCF_Sensor_Extruder_Body](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/AB_ERCF_Sensor_Extruder_Body.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: | ERCF Filament Sensor Part                      |
 
@@ -167,7 +168,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                    | Quantity | Material                                                                 |      Printed       | Notes                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | ---------------------------------------------- |
 | [ERCF_Sensor_Latch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Filament_Sensor/Stls/AB/%5Ba%5D_AB_ERCF_Sensor_Latch.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | ERCF Filament Sensor Part                      |
-| [latch](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_latch.stl)                           | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | Not Required as I am printing the ERCF Version |
+| [latch](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_latch.stl)                           | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | Not required as I am printing the ERCF Version |
 | [guidler](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_guidler.stl)                       | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: |                                                |
 | [latch_shuttle](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_latch_shuttle.stl)           | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: |                                                |
 
@@ -185,7 +186,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                                 | Quantity | Material                                                                 |      Printed       | Notes                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------- |
-| [connector_cover](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_connector_cover_18.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | Voron 1.8 Version, Not Required as I will be using the ERCF Toolhead PCB Version |
+| [connector_cover](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/%5Ba%5D_connector_cover_18.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | Voron 1.8 Version, Not required as I will be using the ERCF Toolhead PCB Version |
 | [chain_anchor](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/STLs/Direct_Feed/chain_anchor_3hole.stl)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     | :heavy_check_mark: | This is the Generic Cable Chain Version                                          |
 
 #### Assembly
@@ -224,8 +225,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                                                          | Quantity | Material                                                                 |      Printed       | Notes                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------- |
 | [pcb_spacer](https://github.com/VoronDesign/Voron-Hardware/blob/master/Afterburner_Toolhead_PCB/STLs/Clockwork/pcb_spacer.stl)                                                | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) | :heavy_check_mark: | Afterburner Toolhead PCB Part                                                    |
-| [pcb_cover](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover-r1.stl)                             | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User Mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
-| [pcb_cover_clip-on_mount](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover_clip-on_mount-r1.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User Mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
+| [pcb_cover](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover-r1.stl)                             | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
+| [pcb_cover_clip-on_mount](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover_clip-on_mount-r1.stl) | 1        | [eSun ABS+ (Fire Engine Red)](printer-filament#esun-abs-fire-engine-red) |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
 
 ### :white_check_mark: Assembly
 

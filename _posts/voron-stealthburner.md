@@ -10,6 +10,7 @@ slug: /projects/voron-stealthburner
 related:
   - https://www.vorondesign.com/voron_stealthburner
   - /projects/voron-afterburner
+  - /projects/voron-m4
 draft: false
 tags:
   - Extruder
@@ -28,30 +29,30 @@ keywords:
 
 ## Fasteners
 
-| Item                                   | Quantity | Received | Notes                                                                                                        |
-| -------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------ |
-| Mounting screws for hotend (M2.5 / M3) | 2-4      |          | Not Required for V6 Toolhead                                                                                 |
-| M3x8 SHCS                              | 2        | 2        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x6 FHCS                              | 3        | 50       |                                                                                                              |
-| M3x6 BHCS                              | 1        | 1        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x50 SHCS                             | 2        | 50       |                                                                                                              |
-| M3x30 SHCS                             | 1        | 1        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x25 SHCS                             | 6        | 30       |                                                                                                              |
-| M3x20 SHCS                             | 1        | 1        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x16 SHCS                             | 2        | 2        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x12 SHCS                             | 2        | 2        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3x10 SHCS                             | 2        | 2        |                                                                                                              |
-| M3 Washer                              | 1        | 1        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3 Threaded Insert                     | 19       | 19       | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| M3 Hexnut                              | 2        | 2        | In [LDO Voron V2.4 Premium Hardware Kit](https://www.printyplease.uk/VoronPrinters/Voron2.4/LDO2.4Fasteners) |
-| Bondtech BMG Extruder Kit              | 1        | 1        |                                                                                                              |
+| Item                                   | Quantity | Received | Notes                                  |
+| -------------------------------------- | -------- | -------- | -------------------------------------- |
+| Mounting screws for hotend (M2.5 / M3) | 2-4      |          | Not required for V6 Toolhead           |
+| M3x8 SHCS                              | 2        | 2        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x6 FHCS                              | 3        | 51       |                                        |
+| M3x6 BHCS                              | 1        | 1        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x50 SHCS                             | 2        | 50       |                                        |
+| M3x30 SHCS                             | 1        | 1        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x25 SHCS                             | 6        | 30       |                                        |
+| M3x20 SHCS                             | 1        | 1        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x16 SHCS                             | 2        | 2        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x12 SHCS                             | 2        | 2        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x10 SHCS                             | 2        | 2        |                                        |
+| M3 Washer                              | 1        | 1        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Threaded Insert                     | 19       | 19       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Hexnut                              | 2        | 2        | In LDO Voron V2.4 Premium Hardware Kit |
+| Bondtech BMG Extruder Kit              | 1        | 1        |                                        |
 
 ## Misc
 
 | Misc                               | Quantity | Received | Notes                                             |
 | ---------------------------------- | -------- | -------- | ------------------------------------------------- |
 | PTFE Tube 50mm (Trim to length)    | 1        | 1        |                                                   |
-| 6x3mm Magnet (Hall Effect Endstop) | 1        |          | Not Required as I will be using physical switches |
+| 6x3mm Magnet (Hall Effect Endstop) | 1        |          | Not required as I will be using physical switches |
 
 ## Electronics
 
@@ -66,12 +67,12 @@ keywords:
 
 | Item                                      | Quantity | Received | Notes                                                                                                                                           |
 | ----------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| MicroFit3 Male Pin                        | 3        |          | Not Required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
-| MicroFit3 Female Pin                      | 3        |          | Not Required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
-| MicroFit3 Connector Receptacle 3 Position | 1        |          | Not Required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
-| MicroFit3 Connector Plug 3 Position       | 1        |          | Not Required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
-| 30AWG PTFE Cable (3ft total)              | 1        |          | Not Required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
-| 24AWG PTFE Cable (30ft total)             | 1        |          | Not Required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
+| MicroFit3 Male Pin                        | 3        |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| MicroFit3 Female Pin                      | 3        |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| MicroFit3 Connector Receptacle 3 Position | 1        |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| MicroFit3 Connector Plug 3 Position       | 1        |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| 30AWG PTFE Cable (3ft total)              | 1        |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
+| 24AWG PTFE Cable (30ft total)             | 1        |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
 
 ## ADXL345 Sensor
 
@@ -95,7 +96,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                                                    | Quantity | Material | Printed | Notes                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | :-----: | ---------------------------- |
-| [LED-PCB_Drill_Template](https://github.com/VoronDesign/Voron-Hardware/blob/master/Stealthburner_Toolhead_PCB/STLs/SB-LED-PCB_Drill_Template_v0.02.stl) | 1        |          |   :x:   | This is a Mod by `hartk1213` |
+| [LED-PCB_Drill_Template](https://github.com/VoronDesign/Voron-Hardware/blob/master/Stealthburner_Toolhead_PCB/STLs/SB-LED-PCB_Drill_Template_v0.02.stl) | 1        |          |   :x:   | This is a mod by `hartk1213` |
 | [SB_5015_Cutting_Tool_A](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_A.stl)                            | 1        |          |   :x:   |                              |
 | [SB_5015_Cutting_Tool_B](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_B.stl)                            | 1        |          |   :x:   |                              |
 
@@ -174,7 +175,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                                                                                                                                                                     | Quantity | Material                                                      | Printed | Notes                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | :-----: | --------------------------------------------------------------------- |
-| [stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Rainbow Barf LED Version, Not Required as I have a Resin Printed one. |
+| [stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Rainbow Barf LED Version, Not required as I have a Resin Printed one. |
 | [led_carrier_rev2](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/led_carrier_rev2.stl)                                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Rainbow Barf LED Version                                              |
 
 ## ADXL345 Mount
