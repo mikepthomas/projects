@@ -142,15 +142,15 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 All Extrusions are from a [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/).
 
-| Item                                            | Quantity | Received | Notes                       |
-| ----------------------------------------------- | -------- | -------- | --------------------------- |
-| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        | In `LDO V2.4 300 Frame Kit` |
-| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        | In `LDO V2.4 300 Frame Kit` |
-| Misumi HFSB5-2020-420-TPW                       | 10       | 10       | In `LDO V2.4 300 Frame Kit` |
-| Misumi HFSB5-2020-400                           | 2        | 2        | In `LDO V2.4 300 Frame Kit` |
-| Misumi HFSB5-2020-380                           | 1        | 1        | In `LDO V2.4 300 Frame Kit` |
-| Misumi HFSB5-2020-290                           | 1        | 1        | In `LDO V2.4 300 Frame Kit` |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                       |
+| Item                                            | Quantity | Received | Notes                     |
+| ----------------------------------------------- | -------- | -------- | ------------------------- |
+| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        | In LDO V2.4 300 Frame Kit |
+| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        | In LDO V2.4 300 Frame Kit |
+| Misumi HFSB5-2020-420-TPW                       | 10       | 10       | In LDO V2.4 300 Frame Kit |
+| Misumi HFSB5-2020-400                           | 2        | 2        | In LDO V2.4 300 Frame Kit |
+| Misumi HFSB5-2020-380                           | 1        | 1        | In LDO V2.4 300 Frame Kit |
+| Misumi HFSB5-2020-290                           | 1        | 1        | In LDO V2.4 300 Frame Kit |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                     |
 
 ## Misc
 
@@ -195,7 +195,7 @@ All Extrusions are from a [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/pr
 | Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |                                                                        |
 | Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |                                                                        |
 | Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |                                                                        |
-| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using `LDO Toolhead Cable`                   |
+| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using LDO Toolhead Cable                     |
 | 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                     |
 | 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable               |
 | 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) |
