@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-14T11:59:43.341Z
+lastmod: 2025-08-14T16:09:32.408Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -35,34 +35,34 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                        | Quantity | Received | Notes                                                 |
-| --------------------------- | -------- | -------- | ----------------------------------------------------- |
-| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x6 FHCS                   | 8        | 51       |                                                       |
-| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
-| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
-| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x10 FHCS                  | 4        | 55       |                                                       |
-| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit                |
+| Item                        | Quantity | Received | Notes                                       |
+| --------------------------- | -------- | -------- | ------------------------------------------- |
+| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x6 FHCS                   | 8        | 51       |                                             |
+| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner) BOM |
+| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner) BOM |
+| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x10 FHCS                  | 4        | 55       |                                             |
+| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit      |
 
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg)
 
@@ -91,7 +91,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | GT2 20T Pulley (5mm ID 6mm W)              | 3        | 3        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
 | GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
 | F695 Bearing                               | 20       | 20       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM                                    |
+| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner) BOM                                              |
 | 625 Bearing                                | 12       | 12       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
 
 ## Electronics
@@ -140,30 +140,32 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                            | Quantity | Received | Notes                                                                                    |
-| ----------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------- |
-| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| Misumi HFSB5-2020-420-TPW                       | 10       | 10       | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| Misumi HFSB5-2020-400                           | 2        | 2        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| Misumi HFSB5-2020-380                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| Misumi HFSB5-2020-290                           | 1        | 1        | In [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/) |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                                                                                    |
+All Extrusions are from a [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/).
+
+| Item                                            | Quantity | Received | Notes                       |
+| ----------------------------------------------- | -------- | -------- | --------------------------- |
+| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        | In `LDO V2.4 300 Frame Kit` |
+| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        | In `LDO V2.4 300 Frame Kit` |
+| Misumi HFSB5-2020-420-TPW                       | 10       | 10       | In `LDO V2.4 300 Frame Kit` |
+| Misumi HFSB5-2020-400                           | 2        | 2        | In `LDO V2.4 300 Frame Kit` |
+| Misumi HFSB5-2020-380                           | 1        | 1        | In `LDO V2.4 300 Frame Kit` |
+| Misumi HFSB5-2020-290                           | 1        | 1        | In `LDO V2.4 300 Frame Kit` |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                       |
 
 ## Misc
 
-| Item                                  | Quantity | Received | Notes                                                                                            |
-| ------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------ |
-| Ø6x3mm Neodimium Magnet               | 8        | 8        |                                                                                                  |
-| Single Sided Foam Tape 3mm Thick (5m) | 1        | 1        |                                                                                                  |
-| Single Sided Foam Tape 1mm Thick (5m) | 1        | 1        |                                                                                                  |
-| PTFE Tube (4mm OD 3mm ID) - 1000mm    | 1        | 1        |                                                                                                  |
-| PTFE Tube (4mm OD 2mm ID) - 300mm     | 1        | 1        |                                                                                                  |
-| Mobil EP1/2 Grease                    | 1        | 1        |                                                                                                  |
-| Loctite Blue Threadlocker Stick       | 1        | 1        |                                                                                                  |
-| Fume Extractor Carbon Filter Element  | 1        |          | Not required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) |
-| 4mm Threaded Bowden Coupler           | 1        | 1        |                                                                                                  |
-| 3M VHB Tape 5952                      | 1        | 1        |                                                                                                  |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Ø6x3mm Neodimium Magnet               | 8        | 8        |       |
+| Single Sided Foam Tape 3mm Thick (5m) | 1        | 1        |       |
+| Single Sided Foam Tape 1mm Thick (5m) | 1        | 1        |       |
+| PTFE Tube (4mm OD 3mm ID) - 1000mm    | 1        | 1        |       |
+| PTFE Tube (4mm OD 2mm ID) - 300mm     | 1        | 1        |       |
+| Mobil EP1/2 Grease                    | 1        | 1        |       |
+| Loctite Blue Threadlocker Stick       | 1        | 1        |       |
+| Fume Extractor Carbon Filter Element  | 1        | 1        |       |
+| 4mm Threaded Bowden Coupler           | 1        | 1        |       |
+| 3M VHB Tape 5952                      | 1        | 1        |       |
 
 ## Cables
 
@@ -171,33 +173,33 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                           | Quantity | Received | Notes                                                                                                                         |
-| -------------------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| WAGO 221-415 Lever-Nuts                                        | 3        | 10       |                                                                                                                               |
-| Ring Crimp Terminal (16-22AWG, #6)                             | 1        | 1        |                                                                                                                               |
-| Nylon Cable Ties, Small (.07-.10", 1.8-2.7mm wide)             | 42       | 100      |                                                                                                                               |
-| MicroFit3 Male Pin                                             | 40       | 140      |                                                                                                                               |
-| MicroFit3 Female Pin                                           | 40       | 140      |                                                                                                                               |
-| MicroFit3 Connector Receptacle 4 Position                      | 4        | 10       |                                                                                                                               |
-| MicroFit3 Connector Receptacle 3 Position                      | 1        | 10       |                                                                                                                               |
-| MicroFit3 Connector Receptacle 2 Position                      | 2        | 10       |                                                                                                                               |
-| MicroFit3 Connector Plug 4 Position                            | 4        | 10       |                                                                                                                               |
-| MicroFit3 Connector Plug 3 Position                            | 1        | 10       |                                                                                                                               |
-| MicroFit3 Connector Plug 2 Position                            | 2        | 10       |                                                                                                                               |
-| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Use Wagos instead                                                                                                             |
-| MLX Power Plug 3 Position                                      | 1        |          | Use Wagos instead                                                                                                             |
-| MLX Male Pin                                                   | 6        |          | Use Wagos instead                                                                                                             |
-| MLX Female Pin                                                 | 6        |          | Use Wagos instead                                                                                                             |
-| JST XH Connector, 3 Position Male/Female Pair plus Pins        | 1        | 1        |                                                                                                                               |
-| Fork Spade Crimp Terminal (18-22AWG, #10)                      | 5        | 5        |                                                                                                                               |
-| Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |                                                                                                                               |
-| Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |                                                                                                                               |
-| Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |                                                                                                                               |
-| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable) |
-| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                                                                            |
-| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable                                                                      |
-| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html)                                                        |
-| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html)                                                        |
+| Item                                                           | Quantity | Received | Notes                                                                  |
+| -------------------------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------- |
+| WAGO 221-415 Lever-Nuts                                        | 3        | 10       |                                                                        |
+| Ring Crimp Terminal (16-22AWG, #6)                             | 1        | 1        |                                                                        |
+| Nylon Cable Ties, Small (.07-.10", 1.8-2.7mm wide)             | 42       | 100      |                                                                        |
+| MicroFit3 Male Pin                                             | 40       | 140      |                                                                        |
+| MicroFit3 Female Pin                                           | 40       | 140      |                                                                        |
+| MicroFit3 Connector Receptacle 4 Position                      | 4        | 10       |                                                                        |
+| MicroFit3 Connector Receptacle 3 Position                      | 1        | 10       |                                                                        |
+| MicroFit3 Connector Receptacle 2 Position                      | 2        | 10       |                                                                        |
+| MicroFit3 Connector Plug 4 Position                            | 4        | 10       |                                                                        |
+| MicroFit3 Connector Plug 3 Position                            | 1        | 10       |                                                                        |
+| MicroFit3 Connector Plug 2 Position                            | 2        | 10       |                                                                        |
+| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Use Wagos instead                                                      |
+| MLX Power Plug 3 Position                                      | 1        |          | Use Wagos instead                                                      |
+| MLX Male Pin                                                   | 6        |          | Use Wagos instead                                                      |
+| MLX Female Pin                                                 | 6        |          | Use Wagos instead                                                      |
+| JST XH Connector, 3 Position Male/Female Pair plus Pins        | 1        | 1        |                                                                        |
+| Fork Spade Crimp Terminal (18-22AWG, #10)                      | 5        | 5        |                                                                        |
+| Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |                                                                        |
+| Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |                                                                        |
+| Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |                                                                        |
+| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using `LDO Toolhead Cable`                   |
+| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                     |
+| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable               |
+| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) |
+| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) |
 
 ## Panels
 
@@ -990,6 +992,8 @@ I have chosen to use physical switches for the X/Y endstops as I am more familli
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
+I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/voron/toolhead_harness) for convienience, instead of creating my own harness from scratch like I did for my [Voron 1.8](printer-voron-1.8).
+
 ### :negative_squared_cross_mark: Z Cable Chain
 
 | Item                                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
@@ -1091,12 +1095,16 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50](http
 
 ### :negative_squared_cross_mark: Front Skirts
 
-| Item                                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+Rather than modifying the stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
+
+| Item                                                                                                            | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                          |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
+| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                |
+| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                |
+| [Front Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                  | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Front Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                 | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                |
+| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                |
 
 #### Assembly
 
@@ -1121,6 +1129,7 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | [keystone_blank_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_keystone_blank_insert.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | Not required as I plan on printing the [PiPlate Skirt](#-raspberry-pi) |
 | [keystone_panel](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/keystone_panel.stl)                       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |        |        |       |        :x:         | Not required as I plan on printing the [PiPlate Skirt](#-raspberry-pi) |
 | [rear_center_skirt_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/rear_center_skirt_300.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 18.81m | 47.96g | £0.96 | :heavy_check_mark: |                                                                        |
+| [Rear Skirt - Logo Insert](https://www.printables.com/model/925417/files)                                                   | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan)         |
 
 #### Assembly
 
@@ -1136,14 +1145,20 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 ### :negative_squared_cross_mark: Side Skirts
 
-| Item                                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |       |
-| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
-| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |       |
+Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
+
+| Item                                                                                                                     | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
+| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                |
+| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                |
+| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                |
+| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                |
+| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                |
+| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   |                                                                |
+| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 
 #### Assembly
 
