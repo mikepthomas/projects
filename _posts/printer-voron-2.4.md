@@ -180,33 +180,36 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                           | Quantity | Received | Notes                                                                  |
-| -------------------------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------- |
-| WAGO 221-415 Lever-Nuts                                        | 3        | 10       |                                                                        |
-| Ring Crimp Terminal (16-22AWG, #6)                             | 1        | 1        |                                                                        |
-| Nylon Cable Ties, Small (.07-.10", 1.8-2.7mm wide)             | 42       | 100      |                                                                        |
-| MicroFit3 Male Pin                                             | 40       | 140      |                                                                        |
-| MicroFit3 Female Pin                                           | 40       | 140      |                                                                        |
-| MicroFit3 Connector Receptacle 4 Position                      | 4        | 10       |                                                                        |
-| MicroFit3 Connector Receptacle 3 Position                      | 1        | 10       |                                                                        |
-| MicroFit3 Connector Receptacle 2 Position                      | 2        | 10       |                                                                        |
-| MicroFit3 Connector Plug 4 Position                            | 4        | 10       |                                                                        |
-| MicroFit3 Connector Plug 3 Position                            | 1        | 10       |                                                                        |
-| MicroFit3 Connector Plug 2 Position                            | 2        | 10       |                                                                        |
-| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Use Wagos instead                                                      |
-| MLX Power Plug 3 Position                                      | 1        |          | Use Wagos instead                                                      |
-| MLX Male Pin                                                   | 6        |          | Use Wagos instead                                                      |
-| MLX Female Pin                                                 | 6        |          | Use Wagos instead                                                      |
-| JST XH Connector, 3 Position Male/Female Pair plus Pins        | 1        | 1        |                                                                        |
-| Fork Spade Crimp Terminal (18-22AWG, #10)                      | 5        | 5        |                                                                        |
-| Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |                                                                        |
-| Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |                                                                        |
-| Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |                                                                        |
-| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using LDO Toolhead Cable                     |
-| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                                     |
-| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from mains side of a MacBook Power Supply Cable               |
-| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) |
-| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) |
+| Item                                                           | Quantity | Received | Notes                                              |
+| -------------------------------------------------------------- | -------- | -------- | -------------------------------------------------- |
+| WAGO 221-415 Lever-Nuts                                        | 3        | 10       |                                                    |
+| Ring Crimp Terminal (16-22AWG, #6)                             | 1        | 1        |                                                    |
+| Nylon Cable Ties, Small (.07-.10", 1.8-2.7mm wide)             | 42       | 100      |                                                    |
+| MicroFit3 Male Pin                                             | 40       | 140      |                                                    |
+| MicroFit3 Female Pin                                           | 40       | 140      |                                                    |
+| MicroFit3 Connector Receptacle 4 Position                      | 4        | 10       |                                                    |
+| MicroFit3 Connector Receptacle 3 Position                      | 1        | 10       |                                                    |
+| MicroFit3 Connector Receptacle 2 Position                      | 2        | 10       |                                                    |
+| MicroFit3 Connector Plug 4 Position                            | 4        | 10       |                                                    |
+| MicroFit3 Connector Plug 3 Position                            | 1        | 10       |                                                    |
+| MicroFit3 Connector Plug 2 Position                            | 2        | 10       |                                                    |
+| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Use Wagos instead                                  |
+| MLX Power Plug 3 Position                                      | 1        |          | Use Wagos instead                                  |
+| MLX Male Pin                                                   | 6        |          | Use Wagos instead                                  |
+| MLX Female Pin                                                 | 6        |          | Use Wagos instead                                  |
+| JST XH Connector, 3 Position Male/Female Pair plus Pins        | 1        | 1        |                                                    |
+| Fork Spade Crimp Terminal (18-22AWG, #10)                      | 5        | 5        |                                                    |
+| Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |                                                    |
+| Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |                                                    |
+| Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |                                                    |
+| 22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)       | 1        |          | Not required as I will be using LDO Toolhead Cable |
+| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | in various colours                                 |
+| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from a MacBook Power Supply Mains Cable   |
+| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | Veekaft Brand, 10x15 open, to insert cables easier |
+| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | Veekaft Brand, 10x11 open, to insert cables easier |
+
+> [!NOTE]
+> I ordered [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) cable chains specifying a Bending Radius of `R18`.
 
 ## Panels
 
