@@ -4,7 +4,7 @@ heading: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
 lastmod: 2025-07-04T15:47:04.144Z
 author: Mike Thomas
-description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire Mod.
+description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
 slug: /projects/printer-am8
 related:
@@ -46,7 +46,7 @@ I am currently planning to upgrade the flimsy acrylic to a sturdy metal frame wi
 | M3 Threaded Insert | 15       | 28       |                                                                                          |
 | M5x10 BHCS         | 31       | 90       | The AM8 BOM mentions 93 are needed for the original build                                |
 | M5x10 SHCS         | 8        |          | The AM8 BOM mentions they are needed for the Z-axis motor mounts, will replace with BHCS |
-| M5x16 SHCS         | 6        |          | Not Required. The AM8 BOM mentions they are needed for the rubber feet connections       |
+| M5x16 SHCS         | 6        |          | Not required. The AM8 BOM mentions they are needed for the rubber feet connections       |
 | M5x30 BHCS         | 6        | 7        |                                                                                          |
 | M5 T-Nut           | 25       | 47       | The AM8 BOM mentions 110 are needed for the original build                               |
 
@@ -64,7 +64,7 @@ I am currently planning to upgrade the flimsy acrylic to a sturdy metal frame wi
 I have an extra SKR Pico that I received when I purchased a Formbot [Voron 0.2](printer-voron-0.2) kit.
 
 It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the Pico does not support Marlin.
-The SKR Pico has 4 integrated stepper motors which will be enough to run the Switchwire Mod's the 2 XZ stepper motors, the Y Stepper and the Extruder.
+The SKR Pico has 4 integrated stepper motors which will be enough to run the Switchwire mod's the 2 XZ stepper motors, the Y Stepper and the Extruder.
 
 | Item                                 | Quantity | Received | Notes                                                                         |
 | ------------------------------------ | -------- | -------- | ----------------------------------------------------------------------------- |
@@ -124,8 +124,8 @@ These parts are to convert to more standard Anet A8 kinematics and are mainly re
 
 | Item                                                                   | Quantity | Material                                                                | Printed | Notes                                                                                              |
 | ---------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------------------------------- |
-| [Bottom_Corner_Plate](https://www.thingiverse.com/thing:2263216/files) | 4        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not Required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
-| [Bottom_Tee_Plate](https://www.thingiverse.com/thing:2263216/files)    | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not Required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
+| [Bottom_Corner_Plate](https://www.thingiverse.com/thing:2263216/files) | 4        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
+| [Bottom_Tee_Plate](https://www.thingiverse.com/thing:2263216/files)    | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Not required as replaced with [metal versions](https://www.aliexpress.com/item/4000293781229.html) |
 | [Z_Corner_Bracket](https://www.thingiverse.com/thing:2577774/files)    | 2        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | This is a remix by [mariob92](https://www.thingiverse.com/mariob92)                                |
 
 ### X Axis
@@ -230,9 +230,9 @@ I will probably skip printing the TPU feet and use [right angle M6 threaded hole
 | Item                                                                                                                                                                | Quantity | Material                                             | Printed | Notes                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ------------------------------------------------------ |
 | [2020 Cable Clip](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/2020%20Cable%20Clip.stl)                                        | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                                                        |
-| [Foot Left](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Left%202x.stl)                                                 | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not Required if using Switchwire compressor feet       |
-| [Foot Right](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Right%202x.stl)                                               | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not Required if using Switchwire compressor feet       |
-| [Lightweight LM8UU Bearing Block](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Lightweight%20LM8UU%20Bearing%20Block%207x.stl) | 7        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required when using stock aluminium bearing blocks |
+| [Foot Left](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Left%202x.stl)                                                 | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not required if using Switchwire compressor feet       |
+| [Foot Right](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Foot%20Right%202x.stl)                                               | 2        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |   :x:   | Not required if using Switchwire compressor feet       |
+| [Lightweight LM8UU Bearing Block](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Lightweight%20LM8UU%20Bearing%20Block%207x.stl) | 7        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not required when using stock aluminium bearing blocks |
 | [Printhead Cable Duct](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/Printhead%20Cable%20Duct.stl)                              | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |                                                        |
 | [LCD Controller Mount](https://github.com/maximilian-foerg/AM8-Switchwire-Mod/blob/main/STLs/Accessories/%5BA%5D%20LCD%20Controller%20Mount.stl)                    | 1        | [eSun ABS+ (Blue)](printer-filament#esun-abs-blue)   |   :x:   |                                                        |
 

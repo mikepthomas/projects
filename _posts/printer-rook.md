@@ -80,7 +80,7 @@ Sourcing and printing parts to assemble a [Rook 2020 MK2 3D Printer](https://www
 | Nema 17 Stepper Motors       | 4        | 4        | Using original Anet A8 X/Y/Z1/Z2 Stepper Motors                          |
 | CR10 Style Hotend            | 1        | 1        |                                                                          |
 | Power Supply                 | 1        | 1        | Using original Anet A8 Power Supply                                      |
-| Raspberry Pi Zero            | 1        |          | Not Required as I plan on using RepRap Firmware                          |
+| Raspberry Pi Zero            | 1        |          | Not required as I plan on using RepRap Firmware                          |
 | Mellow Fly E3 RRF            | 1        | 1        |                                                                          |
 | SPDT KW10 Limit Micro Switch | 1        | 1        |                                                                          |
 | V0 Simple Display            | 1        | 1        |                                                                          |

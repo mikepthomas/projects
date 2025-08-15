@@ -225,12 +225,12 @@ I am not sure which gearbox I am going to use. I may start with the geared gearb
 
 | Item                       | Quantity | Material                                                       | Printed | Notes                                                                                       |
 | -------------------------- | -------- | -------------------------------------------------------------- | :-----: | ------------------------------------------------------------------------------------------- |
-| Front Fender Flare - left  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
-| Front Fender Flare - right | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
+| Front Fender Flare - left  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
+| Front Fender Flare - right | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
 | Hinge B                    | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                             |
 | Hood                       | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                             |
-| Rear Fender Flare - left   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
-| Rear Fender Flare - right  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
+| Rear Fender Flare - left   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
+| Rear Fender Flare - right  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#fender-flare) version |
 
 ## Bumpers & Rear Door
 
@@ -242,8 +242,8 @@ I am not sure which gearbox I am going to use. I may start with the geared gearb
 | Hinge B - pickup | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
 | Rear Door        | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
 | Rear Door Sill   | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                          |
-| Rear Bumper      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
-| Rear frame end   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
+| Rear Bumper      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
+| Rear frame end   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Car Hauler](3d-sets-accessories#landy-rear-bumper) version |
 | Servo Guard      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                                          |
 
 ## Doors
@@ -276,12 +276,12 @@ There is a choice of 2 different wheel styles.
 | Item                | Quantity | Material                                                       | Printed | Notes                                                                                  |
 | ------------------- | -------- | -------------------------------------------------------------- | :-----: | -------------------------------------------------------------------------------------- |
 | Licence Plate       | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   |                                                                                        |
-| Wheel C - Inner     | 4        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
-| Wheel C - Outer     | 4        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
-| Wheel C - wheel Hub | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
-| Wheel D - inner Rim | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
-| Wheel D - outer Rim | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
-| Wheel D - wheel Hub | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not Required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel C - Inner     | 4        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel C - Outer     | 4        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel C - wheel Hub | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel D - inner Rim | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel D - outer Rim | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
+| Wheel D - wheel Hub | 4        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Accessory Kit](#wheel-e) version |
 | Winker - side       | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                        |
 
 # Offroad Accessory Kit

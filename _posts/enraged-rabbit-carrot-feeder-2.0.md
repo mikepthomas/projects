@@ -266,9 +266,9 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 | Item                                                                                                                                                       | Quantity | Material                                             | Printed | Notes                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | -------------------------------------------------------- |
-| [Axle_8_Double_Thread](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_8_Double_Thread.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required as replaced with aluminium rod              |
+| [Axle_8_Double_Thread](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_8_Double_Thread.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not required as replaced with aluminium rod              |
 | [Axle_Spacer](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Axle_Spacer_Standard_xN.stl)       | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard version                                         |
-| [Knut](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Knut_x2.stl)                              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not Required as replaced with injection moulded versions |
+| [Knut](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Axle/Knut_x2.stl)                              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not required as replaced with injection moulded versions |
 
 ### Buffer Wheel
 
