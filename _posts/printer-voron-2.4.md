@@ -77,22 +77,22 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 | Item                                       | Quantity | Received | Notes                                                    |
 | ------------------------------------------ | -------- | -------- | -------------------------------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        |                                                          |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        |                                                          |
-| Linear Rail MGN9H 350mm                    | 6        | 6        |                                                          |
-| Linear Rail MGN12H 350mm                   | 1        | 1        |                                                          |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        |                                                          |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        |                                                          |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        |                                                          |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        |                                                          |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        |                                                          |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        |                                                          |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        |                                                          |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In Powge 2.4r2 Motion Kit                                |
+| Linear Rail MGN9H 350mm                    | 6        | 6        | RDBB All Stainless Steel Versions, Medium Preload        |
+| Linear Rail MGN12H 350mm                   | 1        | 1        | RDBB All Stainless Steel Versions, Medium Preload        |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In Powge 2.4r2 Motion Kit                                |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In Powge 2.4r2 Motion Kit                                |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
 | GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 2    | 3        | 1 Not required as it is for the [Z Endstop](#-z-endstop) |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        |                                                          |
-| F695 Bearing                               | 20       | 20       |                                                          |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
+| F695 Bearing                               | 20       | 20       | In Powge 2.4r2 Motion Kit                                |
 | BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM    |
-| 625 Bearing                                | 12       | 12       |                                                          |
+| 625 Bearing                                | 12       | 12       | In Powge 2.4r2 Motion Kit                                |
 
 > [!NOTE]
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
