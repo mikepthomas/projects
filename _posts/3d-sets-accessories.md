@@ -113,7 +113,8 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 | Side Truss - front right | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   |       |
 | Side Insert - stripes    | 2        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   |       |
 
-**_NOTE:_** Stripes on the Side Insert can be achieved by making a Filament Change (M600) at layer 12.
+> [!TIP]
+> Stripes on the Side Insert can be achieved by making a Filament Change (M600) at layer 12.
 
 ### Truss 2
 
@@ -133,7 +134,8 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 | Side Truss - rear right    | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   |       |
 | Side Insert Rear - stripes | 2        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   |       |
 
-**_NOTE:_** Stripes on the Side Insert can be achieved by making a Filament Change (M600) at layers 9 & 12.
+> [!TIP]
+> Stripes on the Side Insert can be achieved by making a Filament Change (M600) at layers 9 & 12.
 
 ### Fender 1
 
@@ -158,7 +160,8 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 | Rear Bumper - left  | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)        |   :x:   |       |
 | Rear Bumper - right | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)        |   :x:   |       |
 
-**_NOTE:_** Indicator and Brake lights can be added by making a Filament Change (M600) at layers 47 & 49.
+> [!TIP]
+> Indicator and Brake lights can be added by making a Filament Change (M600) at layers 47 & 49.
 
 ### Rear Bumper 2
 
@@ -166,7 +169,8 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 | ------------- | -------- | -------------------------------------------------------------- | :-----: | ----- |
 | Licence Plate | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   |       |
 
-**_NOTE:_** Text can be added to the Licence Plate by making a Filament Change (M600) at layer 23.
+> [!TIP]
+> Text can be added to the Licence Plate by making a Filament Change (M600) at layer 23.
 
 ### Floor
 
@@ -268,7 +272,8 @@ There is a choice of 2 different wheel styles.
 | Road Block Mini   | 3        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |   :x:   |       |
 | Traffic Cone Mini | 4        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange)         |   :x:   |       |
 
-**_NOTE:_** Stripes on the Traffic Cone can be achieved by making a Filament Change (M600) at layers 73, 113, 166 & 206.
+> [!TIP]
+> Stripes on the Traffic Cone can be achieved by making a Filament Change (M600) at layers 73, 113, 166 & 206.
 
 # Storage System
 
@@ -313,4 +318,5 @@ There is a choice of 2 different wheel styles.
 | Side Handle                   | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |   :x:   |       |
 | Tyre Support                  | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |   :x:   |       |
 
-**_NOTE:_** I have [modified the 3D Sets Side Handle](https://github.com/mikepthomas/3dprinting/blob/main/Designs/3D%20Sets%20Storage%20System%20Handle/3mm%20Side%20Handle%202pcs.stl) to accept a wider strap as I already have a 50mm strap that is wider than the one in the BOM. Shared with permission.
+> [!IMPORTANT]
+> I have [modified the 3D Sets Side Handle](https://github.com/mikepthomas/3dprinting/blob/main/Designs/3D%20Sets%20Storage%20System%20Handle/3mm%20Side%20Handle%202pcs.stl) to accept a wider strap as I already have a 50mm strap that is wider than the one in the BOM. Shared with permission.

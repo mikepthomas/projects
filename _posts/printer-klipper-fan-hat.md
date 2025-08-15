@@ -112,7 +112,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 
-**_NOTE:_** Some of the images on this page show Version 1 of the PCB, It was originally called the `Klipper Expander Hat` however I have subsequently renamed it to `Klipper Fan Hat` as decided on the [Voron Discord](https://discord.com/channels/460117602945990666/540528535262068739/1090833386421112933) this was so that should not be confused with the `Klipper Expander`.
+> [!NOTE]
+> Some of the images on this page show Version 1 of the PCB, It was originally called the `Klipper Expander Hat` however I have subsequently renamed it to `Klipper Fan Hat` as decided on the [Voron Discord](https://discord.com/channels/460117602945990666/540528535262068739/1090833386421112933) this was so that should not be confused with the `Klipper Expander`.
 
 # Assembly and Testing
 

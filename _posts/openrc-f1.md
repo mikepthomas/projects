@@ -26,7 +26,8 @@ promoted: true
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
-**_NOTE:_** Quantities are for 1 Wheel, 2 front wheel assemblies are required
+> [!WARNING]
+> Quantities are for 1 Wheel, 2 front wheel assemblies are required
 
 | Item | Quantity | Description                                                                            | Material                                                                | Time   | Size       | Weight | Cost                    |      Printed       | Notes                                                                                         |
 | ---- | -------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | --------------------------------------------------------------------------------------------- |
@@ -67,7 +68,8 @@ promoted: true
 
 > Image &copy; 2015 [Daniel Norée](https://danielnoree.com/)
 
-**_NOTE:_** Quantities are for 1 Wheel, 2 front wheel assemblies are required
+> [!WARNING]
+> Quantities are for 1 Wheel, 2 front wheel assemblies are required
 
 | Item | Quantity | Description                                                            | Material                                                                | Time   | Size  | Weight | Cost  |      Printed       | Notes                                                 |
 | ---- | -------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ | ----- | ------ | ----- | :----------------: | ----------------------------------------------------- |

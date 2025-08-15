@@ -431,7 +431,8 @@ When using the Kirigami bed we can skip pages 36 to 46 of the official manual an
 
 ### :negative_squared_cross_mark: X Carriage
 
-**_NOTE:_** These parts are not required when using the [Siboor CNC Slide Back Plate](https://www.aliexpress.com/item/1005004251753946.html).
+> [!WARNING]
+> These parts are not required when using the [Siboor CNC Slide Back Plate](https://www.aliexpress.com/item/1005004251753946.html).
 
 | Item                                                                                                                   | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                     |
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------- |

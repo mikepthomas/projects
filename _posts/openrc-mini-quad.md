@@ -56,7 +56,8 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 | [Main Frame Lower](https://danielnoree.com/openrc-fpv-mini-quad-v1-5/)     | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | 17.27m | 51.50g | £1.24       | :heavy_check_mark: |                                    |
 | [Motor Spacer Soft Mount](https://www.thingiverse.com/thing:2037868/files) | 4        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)         | 0.28m  | 0.83g  | £0.02       | :heavy_check_mark: | Did not fit the motors I purchased |
 
-**_NOTE:_** Used screws that came with the motors to attach to the body.
+> [!IMPORTANT]
+> Use screws that came with the motors to attach to the body.
 
 ![Installing the Motors](/assets/blog/openrc-mini-quad/motors.jpg)
 

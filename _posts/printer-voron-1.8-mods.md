@@ -412,7 +412,8 @@ Wago Mount for connecting wires under the bed and in the electronics compartment
 
 ![Wago Mounts to make wiring up the printer electronics easier](/assets/blog/printer-voron-mods/wago-mounts.jpg)
 
-**_NOTE:_** I have currently printed [this version from Thingyverse](https://www.thingiverse.com/thing:4579456) for the Wago 221-412, I will replace these with ones from this User mod.
+> [!WARNING]
+> I have currently printed [this version from Thingyverse](https://www.thingiverse.com/thing:4579456) for the Wago 221-412, I will replace these with ones from this User mod.
 
 #### Parts Used
 
@@ -424,7 +425,8 @@ Wago Mount for connecting wires under the bed and in the electronics compartment
 | Wago 221-413          | 6        |
 | Wago 221-415          | 7        |
 
-**_NOTE:_** Need to purchase 5 more Wago 221-412 and 3 more Wago 221-415
+> [!CAUTION]
+> I need to purchase 5 more Wago 221-412 and 3 more Wago 221-415
 
 ## MKS Mosfet Mount
 
@@ -489,7 +491,8 @@ Cover for the live connections of the power supply making them harder to acciden
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ---------------------------------------- |
 | ~[lrs_200_screw_terminal_cover](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/samwiseg0/lrs_screw_terminal_cover/STLs/lrs_200_screw_terminal_cover.stl)~ | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.96m | 4.99g  | £0.09 | :heavy_check_mark: | This is a Voron Users mod by `samwiseg0` |
 
-**_NOTE:_** The side parts that slide onto the terminal block appear to be too thick to fit [my Meanwell power supply](https://uk.farnell.com/mean-well/lrs-200-24/power-supply-ac-dc-24v-8-8a/dp/3596584). I will need to modify it to make them thinner by approximately 1-2mm if I want to add it.
+> [!IMPORTANT]
+> The side parts that slide onto the terminal block appear to be too thick to fit [my Meanwell power supply](https://uk.farnell.com/mean-well/lrs-200-24/power-supply-ac-dc-24v-8-8a/dp/3596584). I will need to modify it to make them thinner by approximately 1-2mm if I want to add it.
 
 ## Deck Panel Support Clips
 

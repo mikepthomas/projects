@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2024, Mike Thomas
+ * Copyright (c) 2016-2025, Mike Thomas
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -32,6 +32,7 @@ import remarkBehead from 'remark-behead';
 import remarkEmoji from 'remark-emoji';
 import remarkGfm from 'remark-gfm';
 import remarkToc from 'remark-toc';
+import { rehypeGithubAlerts } from 'rehype-github-alerts';
 import rehypeMinifyWhitespace from 'rehype-minify-whitespace';
 import rehypePrism from 'rehype-prism-plus';
 import rehypeReact from 'rehype-react';
@@ -60,6 +61,7 @@ export default function Blog({ content, related }: Props) {
               [remarkToc, { maxDepth: 3, ordered: true }],
             ]}
             rehypePlugins={[
+              rehypeGithubAlerts,
               rehypePrism,
               rehypeReact,
               rehypeSlug,

@@ -73,4 +73,5 @@ All parts were sourced from the [Official Motorized Hardware Kit](https://outofm
 | [Marble_Tray](https://www.thingiverse.com/thing:5135034/files)     | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black) |   :x:   |       |
 | [Marble_Tray_Lid](https://www.thingiverse.com/thing:5135034/files) | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-Black) |   :x:   |       |
 
-**_NOTE:_** Coloured Text can be achieved by making a Filament Change (M600) at layer 7.
+> [!TIP]
+> Coloured Text can be achieved by making a Filament Change (M600) at layer 7.

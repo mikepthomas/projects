@@ -41,7 +41,8 @@ promoted: true
 
 > Image © 2013 [Daniel Norée](https://danielnoree.com/)
 
-**_NOTE:_** Quantities are for 1 Diff, 2 differential housing assemblies are required
+> [!WARNING]
+> Quantities are for 1 Diff, 2 differential housing assemblies are required
 
 | Item                                                                              | Quantity | Material                                            | Time   | Size       | Weight | Cost                    |      Printed       | Notes |
 | --------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ----- |

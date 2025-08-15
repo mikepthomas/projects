@@ -146,7 +146,8 @@ I have printed [Z Axis anti wobble](https://www.thingiverse.com/thing:2907460) b
 | ~[1x_Right_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~ | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
 | ~[1x_left_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~  | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
 
-**_NOTE:_** I am not fitting these as they are based on the top Z guide rod clamps that are too tall to fit on the Voron frame. I may remix them into the shorter bottom clamps at a later stage so that they will fit.
+> [!CAUTION]
+> I am not fitting these as they are based on the top Z guide rod clamps that are too tall to fit on the Voron frame. I may remix them into the shorter bottom clamps at a later stage so that they will fit.
 
 I have remixed the Z Rail Arms to recess the screw head so that I can use socket head screws instead of button head screws.
 
@@ -157,7 +158,8 @@ I have remixed the Z Rail Arms to recess the screw head so that I can use socket
 | ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
 | ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
 
-**_NOTE:_** I am using another set of bottom mounts for the top as the top Z guide rod clamps are too tall to fit on the Voron frame.
+> [!CAUTION]
+> I am using another set of bottom mounts for the top as the top Z guide rod clamps are too tall to fit on the Voron frame.
 
 # Bed Mounting
 

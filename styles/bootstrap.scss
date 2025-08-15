@@ -1,5 +1,5 @@
 /* 
- * Copyright (c) 2016-2024, Mike Thomas
+ * Copyright (c) 2016-2025, Mike Thomas
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+@use 'sass:map';
 
 // Import parts of Bootstrap
 // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
@@ -96,4 +97,63 @@ ul {
 }
 table thead {
   @extend .table-dark;
+}
+
+.markdown-alert {
+  padding: map.get($spacers, 2) $spacer;
+  margin-bottom: $font-size-base;
+  border-left: map.get($spacers, 1) solid $gray-200;
+
+  & > :first-child {
+    margin-top: 0;
+    margin-bottom: map.get($spacers, 1);
+  }
+  & > :last-child {
+    margin-bottom: 0;
+  }
+
+  &-caution {
+    border-left-color: $danger-border-subtle;
+
+    & > :first-child {
+      color: $danger-text-emphasis;
+      fill: $danger;
+    }
+  }
+
+  &-important {
+    border-left-color: $indigo-200;
+
+    & > :first-child {
+      color: $indigo-800;
+      fill: $indigo;
+    }
+  }
+
+  &-note {
+    border-left-color: $primary-border-subtle;
+
+    & > :first-child {
+      color: $primary-text-emphasis;
+      fill: $primary;
+    }
+  }
+
+  &-tip {
+    border-left-color: $success-border-subtle;
+
+    & > :first-child {
+      color: $success-text-emphasis;
+      fill: $success;
+    }
+  }
+
+  &-warning {
+    border-left-color: $warning-border-subtle;
+
+    & > :first-child {
+      color: $warning-text-emphasis;
+      fill: $warning;
+    }
+  }
 }

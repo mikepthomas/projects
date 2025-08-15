@@ -163,7 +163,8 @@ The front plate is then attached to the main frame using the 400mm M8 threaded r
 
 Two Y axis fixation clamps are loosely screwed to the hot bed fixed aluminium plate, these will hold the ends of the belt later.
 
-**_NOTE:_** The belt fixation clamps are attached on the opposite side of the hot bed fixed aluminium plate here compared to the manual. I did this intentially as this lowers the attachment point of the belt allowing the belts to be more parallel than on the stock build.
+> [!NOTE]
+> The belt fixation clamps are attached on the opposite side of the hot bed fixed aluminium plate here compared to the manual. I did this intentially as this lowers the attachment point of the belt allowing the belts to be more parallel than on the stock build.
 
 #### Parts Used
 
@@ -205,7 +206,8 @@ The Y axis belt is then installed and the carriage is moved back and forth along
 
 The heated bed is then attached to the hot bed aluminium plate with 4 springs and wing nuts to allow the bed to be levelled.
 
-**_NOTE:_** I added M3 Nuts here before adding the springs to stop the screws rotating in the countersink of the heated bed when adjusting the bed with the wing nuts.
+> [!TIP]
+> I added M3 Nuts here before adding the springs to stop the screws rotating in the countersink of the heated bed when adjusting the bed with the wing nuts.
 
 #### Parts Used
 
@@ -266,7 +268,8 @@ The Z axis nut supports are each added to the last two 380mm smooth rods and the
 
 The two 345mm 8mm lead screws are then threaded through the nut supports and fixed to the Z motors.
 
-**_NOTE:_** There needs to be a slight gap between the lead screws and the motor shafts to allow a little bit of flex in the couplers.
+> [!IMPORTANT]
+> There needs to be a slight gap between the lead screws and the motor shafts to allow a little bit of flex in the couplers.
 
 #### Parts Used
 
@@ -357,7 +360,8 @@ The part cooling fan is fixed to the front of the carriage.
 
 The X axis motor is attached to the left Z axis nut support.
 
-**_NOTE:_** I added M3 Spacers here as the heads of the screws are quite small and were biting too much into the plastic.
+> [!TIP]
+> I added M3 Spacers here as the heads of the screws are quite small and were biting too much into the plastic.
 
 #### Parts Used
 
@@ -374,7 +378,9 @@ The X axis motor is attached to the left Z axis nut support.
 
 The X axis belt is then installed and the carriage is moved back and forth along the rails to ensure the travel is smooth.
 
-**_NOTE:_** The extruder has to be removed temporarily to fit the nuts for the belt clamps. These should really have been added in to the extruder carrier in [Step 19](#-assembly-step-19).
+> [!WARNING]
+> The extruder has to be removed temporarily to fit the nuts for the belt clamps.
+> These should really have been added in to the extruder carrier in [Step 19](#-assembly-step-19).
 
 #### Parts Used
 

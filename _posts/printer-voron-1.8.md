@@ -546,7 +546,8 @@ As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to t
 | ---------------------------------------------------------------------------------------------------- | -------- | -------- | ---- | ------ | ---- | :-----: | ----- |
 | [nozzle_probe](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Z_Endstop/nozzle_probe.stl) | 1        |          |      |        |      |   :x:   |       |
 
-**_NOTE:_** I am not going to print the stock Z endstop, I will replace it with [Sexbolt Z Endstop](printer-voron-1.8-mods#sexbolt-z-endstop).
+> [!IMPORTANT]
+> I am not going to print the stock Z endstop, I will replace it with [Sexbolt Z Endstop](printer-voron-1.8-mods#sexbolt-z-endstop).
 
 ## Wire Path
 
@@ -683,7 +684,8 @@ Before attaching the power skirt to the printer the power socket and Keystone in
 | [mini12864_case_back](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Voron%201.8%20Mini12864%20Case%20Back/Mini12864%20Case%20Back%20(Swivel).stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 5.40m | 13.76g | £0.26 | :heavy_check_mark: | I have modified the mounting holes for this to make them closer together so that the [Display Mount Arms](printer-voron-1.8-mods#display-mount) will fit between the skirts |
 | [mini12864_case_front](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Electronics_Brackets/Display_Module/mini12864_case_front.stl)                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.92m | 12.54g | £0.24 | :heavy_check_mark: | Will use this instead of [Display Mount Front](printer-voron-1.8-mods#display-mount) as it has been modified to allow the doors to open correctly                           |
 
-**_NOTE:_** I will replace the stock display arms with [Display Mount](printer-voron-1.8-mods#display-mount).
+> [!IMPORTANT]
+> I will replace the stock display arms with [Display Mount](printer-voron-1.8-mods#display-mount).
 
 ### :white_check_mark: Bottom Electronics Mounting
 
@@ -970,7 +972,9 @@ I have redesigned the front bed mount move the front mounting hole forward a few
 | [handle](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl) | 2        |                                                                          |       |        |       |        :x:         | For Voron 2.2 Will replace with [Sturdy Handles](printer-voron-1.8-mods#sturdy-handles)           |
 | [light_bar](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/Panel_Mounting/light_bar_x2.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)                     |       |        |       |        :x:         | This is a Switchwire Part. Will replace with [LED Bar Clips](printer-voron-1.8-mods#led-bar-clip) |
 
-**_NOTE:_** I have not been able to succesfully print the bottom panel hinges, they always seem to fuse up and the small pin just snaps when trying to free the hinge. I will print extra panel clips instead.
+> [!TIP]
+> I have not been able to succesfully print the bottom panel hinges, they always seem to fuse up and the small pin just snaps when trying to free the hinge.
+> If you have the same issue you replace them with extra panel clips instead.
 
 #### Assembly
 

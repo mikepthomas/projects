@@ -389,8 +389,9 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 ![One of the Z motors installed to the Z Drive](/assets/blog/printer-voron-2.4/z-motor-installed.jpg)
 
-**_NOTE:_** The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
-As I am using Switchwire motors that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
+> [!NOTE]
+> The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
+> As I am using Switchwire motors that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
 
 ![The Z Drives and feet installed on the printer](/assets/blog/printer-voron-2.4/z-drives-installed.jpg)
 
@@ -687,7 +688,8 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 | [z_joint_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_x4.stl)                                                                                                            | 3        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         | Not required, this is replaced by the `z_bearing_block` |
 | [z_tensioner](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/z_tensioner_x4_Rev3.STL)          | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.34m | 0.87g  | £0.01 | :heavy_check_mark: | This is a mod by `Annex-Engineering`                    |
 
-**_NOTE:_** I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+> [!NOTE]
+> I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
 #### Assembly
 
@@ -708,7 +710,8 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 | M5 Washer (1mm)                            | 4        |
 | M10x20 Hex Socket Set Screw (flat end)     | 4        |
 
-**_NOTE:_** Some of these parts are not required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the `Annex Engineering Reinforced Gantry Mounts` kit and are shorter than what is specified in the Manual.
+> [!WARNING]
+> Some of these parts are not required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the `Annex Engineering Reinforced Gantry Mounts` kit and are shorter than what is specified in the Manual.
 
 ## A/B Belts
 
@@ -727,7 +730,8 @@ I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://w
 | [x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | Not required, this is replaced by `ChaoticLab CNC Tap` |
 | [x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | Not required, this is replaced by `ChaoticLab CNC Tap` |
 
-**_NOTE:_** I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
+> [!NOTE]
+> I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
 #### Assembly
 
@@ -751,7 +755,8 @@ I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://w
 | ~M3 Threaded Insert (M3x5x4)~              | 4        |
 | ~Omron TL-Q5MC2 Probe~                     | 1        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `x_frame_V2TR_MGN12` and `probe_retainer_bracket`.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `x_frame_V2TR_MGN12` and `probe_retainer_bracket`.
 
 ## Electronics
 
@@ -787,7 +792,8 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | M3 Post-install T-nut       | 2        |
 | M3 Threaded Insert (M3x5x4) | 3        |
 
-**_NOTE:_** These parts are not required as I will be installing the `PiPlate Skirt`.
+> [!WARNING]
+> Some of these parts are not required as I will be installing the `PiPlate Skirt`.
 
 ### :negative_squared_cross_mark: 5V PSU
 
@@ -923,7 +929,8 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 | ~M3 Post-install T-nut~            | 2        |
 | ~Omron D2F-01L Micro Switch~       | 1        |
 
-**_NOTE:_** These parts are not required as I will be installing the `ChaoticLab CNC Tap`.
+> [!CAUTION]
+> These parts are not required as I will be installing the `ChaoticLab CNC Tap`.
 
 ### :negative_squared_cross_mark: X/Y Endstop
 
@@ -948,7 +955,8 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 | Microswitch X/Y Endstop PCB  | 1        |
 | ~Omron D2F-01L Micro Switch~ | 2        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `endstop_pod`.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `endstop_pod`.
 
 ### :negative_squared_cross_mark: Mains Distribution
 
@@ -1091,7 +1099,8 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50](http
 | M3 Threaded Insert (M3x5x4)              | 4        |
 | ~Mini 12864 Display~                     | 1        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `mini12864_case`.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `mini12864_case`.
 
 ### :negative_squared_cross_mark: Front Skirts
 
@@ -1141,7 +1150,8 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 | M3 Post-install T-nut       | ~4~ 2    |
 | M3 Threaded Insert (M3x5x4) | ~6~ 3    |
 
-**_NOTE:_** Some of these parts are not required as they are for the `keystone_panel`.
+> [!WARNING]
+> Some of these parts are not required as they are for the `keystone_panel`.
 
 ### :negative_squared_cross_mark: Side Skirts
 
@@ -1236,7 +1246,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 | ~M3 Hammer Head T-nuts~          | 11       |
 | Single Sided Foam Tape 1mm Thick | ?        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `panel_clip`s.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `panel_clip`s.
 
 ### :negative_squared_cross_mark: Side Panels
 
@@ -1259,7 +1270,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 | Polycarbonate Side Panel Clear - 433x453x3 mm | 2        |
 | Single Sided Foam Tape 3mm Thick              | ?        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `panel_clip`s.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `panel_clip`s.
 
 ### :negative_squared_cross_mark: Top Panel
 
@@ -1282,7 +1294,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 | Polycarbonate Top Panel Clear - 433x433x3 mm | 1        |
 | Single Sided Foam Tape 1mm Thick             | ?        |
 
-**_NOTE:_** Some of these parts are not required as they are for the stock `panel_clip`s.
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `panel_clip`s.
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
