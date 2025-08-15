@@ -35,34 +35,34 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                        | Quantity | Received | Notes                                       |
-| --------------------------- | -------- | -------- | ------------------------------------------- |
-| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit      |
-| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x6 FHCS                   | 8        | 51       |                                             |
-| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner) BOM |
-| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner) BOM |
-| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3x10 FHCS                  | 4        | 55       |                                             |
-| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit      |
-| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit      |
+| Item                        | Quantity | Received | Notes                                                 |
+| --------------------------- | -------- | -------- | ----------------------------------------------------- |
+| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit                |
+| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x6 FHCS                   | 8        | 51       |                                                       |
+| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
+| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
+| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3x10 FHCS                  | 4        | 55       |                                                       |
+| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit                |
+| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit                |
 
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg)
 
@@ -75,24 +75,30 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                       | Quantity | Received | Notes                                                                                    |
-| ------------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| Linear Rail MGN9H 350mm                    | 6        | 6        | [Stainless Steel, Medium Preload](https://www.aliexpress.com/item/1005003476565429.html) |
-| Linear Rail MGN12H 350mm                   | 1        | 1        | [Stainless Steel, Medium Preload](https://www.aliexpress.com/item/1005003476565429.html) |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 20T Pulley (5mm ID 6mm W)              | 3        | 3        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| F695 Bearing                               | 20       | 20       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
-| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner) BOM                                              |
-| 625 Bearing                                | 12       | 12       | [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html)             |
+| Item                                       | Quantity | Received | Notes                                                    |
+| ------------------------------------------ | -------- | -------- | -------------------------------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        |                                                          |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        |                                                          |
+| Linear Rail MGN9H 350mm                    | 6        | 6        |                                                          |
+| Linear Rail MGN12H 350mm                   | 1        | 1        |                                                          |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        |                                                          |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        |                                                          |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        |                                                          |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        |                                                          |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        |                                                          |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        |                                                          |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        |                                                          |
+| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 2    | 3        | 1 Not required as it is for the [Z Endstop](#-z-endstop) |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        |                                                          |
+| F695 Bearing                               | 20       | 20       |                                                          |
+| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM    |
+| 625 Bearing                                | 12       | 12       |                                                          |
+
+> [!NOTE]
+> The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
+> If you get the same, make sure to request medium preload when ordering, otherwise you will be randomly sent either light or medium preload.
+>
+> All other parts except for the `BMG Extruder Components Kit` are from the [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html).
 
 ## Electronics
 
@@ -140,17 +146,18 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-All Extrusions are from a [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/).
+| Item                                            | Quantity | Received | Notes |
+| ----------------------------------------------- | -------- | -------- | ----- |
+| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        |       |
+| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        |       |
+| Misumi HFSB5-2020-420-TPW                       | 10       | 10       |       |
+| Misumi HFSB5-2020-400                           | 2        | 2        |       |
+| Misumi HFSB5-2020-380                           | 1        | 1        |       |
+| Misumi HFSB5-2020-290                           | 1        | 1        |       |
+| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm |
 
-| Item                                            | Quantity | Received | Notes                     |
-| ----------------------------------------------- | -------- | -------- | ------------------------- |
-| OpenBuilds Billet Angle Corner Connector (2020) | 4        | 4        | In LDO V2.4 300 Frame Kit |
-| Misumi HFSB5-2020-480-LCP-RCP                   | 4        | 4        | In LDO V2.4 300 Frame Kit |
-| Misumi HFSB5-2020-420-TPW                       | 10       | 10       | In LDO V2.4 300 Frame Kit |
-| Misumi HFSB5-2020-400                           | 2        | 2        | In LDO V2.4 300 Frame Kit |
-| Misumi HFSB5-2020-380                           | 1        | 1        | In LDO V2.4 300 Frame Kit |
-| Misumi HFSB5-2020-290                           | 1        | 1        | In LDO V2.4 300 Frame Kit |
-| DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm                     |
+> [!NOTE]
+> All parts except from the `DIN 3 Rails` are from the [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/).
 
 ## Misc
 
@@ -203,13 +210,19 @@ All Extrusions are from a [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/pr
 
 ## Panels
 
-| Item                                 | Quantity | Received | Notes                                                                                              |
-| ------------------------------------ | -------- | -------- | -------------------------------------------------------------------------------------------------- |
-| Coroplast Sheet - 433x453x4 mm       | 1        | 1        | [3mm ACM Panel](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)      |
-| Coroplast Sheet - 419x419x4 mm       | 2        | 2        | [3mm ACM Panels](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)     |
-| Acrylic Sheet Clear - 433x453x3 mm   | 2        | 2        | [3mm Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/) |
-| Acrylic Sheet Clear - 433x433x3 mm   | 1        | 1        | [3mm Polycarbonate Panel](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/)  |
-| Acrylic Sheet Clear - 216.5x453x3 mm | 2        | 2        | [3mm Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/) |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Coroplast Sheet - 433x453x4 mm       | 1        | 1        |       |
+| Coroplast Sheet - 419x419x4 mm       | 2        | 2        |       |
+| Acrylic Sheet Clear - 433x453x3 mm   | 2        | 2        |       |
+| Acrylic Sheet Clear - 433x433x3 mm   | 1        | 1        |       |
+| Acrylic Sheet Clear - 216.5x453x3 mm | 2        | 2        |       |
+
+> [!NOTE]
+> Instead of Coroplast Sheets I ordered [3mm Black ACM Panels](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)
+> using the DXFs from the [Voron 2.4 GitHub Repository](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Drawing_DXFs/Panels), marked `300`,
+> and instead of Acrylic Sheets I ordered [3mm Clear Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/)
+> specifing the width and height from the table above.
 
 ## Buildplate
 
