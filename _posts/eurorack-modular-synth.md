@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-08-09T12:12:38.923Z
+lastmod: 2025-08-16T16:27:12.291Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -192,8 +192,10 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 | Item                           | Quantity | Received | Notes |
 | ------------------------------ | -------- | -------- | ----- |
+| Ceramic Capacitor (470nF)      | 100      | 100      |       |
 | Ceramic Capacitor (100nF)      | 100      | 100      |       |
 | Ceramic Capacitor (10nF)       | 100      | 100      |       |
+| Ceramic Capacitor (33pF)       | 100      | 100      |       |
 | Electrolytic Capacitor (4.7uF) | 4        | 4        |       |
 | Electrolytic Capacitor (1uF)   | 4        | 4        |       |
 | Film Capacitor (1uF)           | 10       | 10       |       |
@@ -219,8 +221,18 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Hex Schmitt-Trigger Inverter (CD40106) | 10       | 10       |       |
 | Timer (LM555)                          | 10       | 10       |       |
 | Transistor N-CH JFET (J113)            | 10       | 10       |       |
+| Transistor NPN (2N2222)                | 20       | 20       |       |
+| Transistor NPN (2N3904)                | 20       | 20       |       |
+| Transistor NPN (BC337)                 | 20       | 20       |       |
 | Transistor NPN (BC548)                 | 100      | 100      |       |
+| Transistor NPN (C1815)                 | 20       | 20       |       |
+| Transistor NPN (S8050)                 | 20       | 20       |       |
+| Transistor PNP (2N2907)                | 20       | 20       |       |
+| Transistor PNP (2N3906)                | 20       | 20       |       |
+| Transistor PNP (A1015)                 | 20       | 20       |       |
+| Transistor PNP (BC327)                 | 20       | 20       |       |
 | Transistor PNP (BC558)                 | 100      | 100      |       |
+| Transistor PNP (S8550)                 | 20       | 20       |       |
 
 #### Potentiometers
 
@@ -243,17 +255,23 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Item                       | Quantity | Received | Notes                                 |
 | -------------------------- | -------- | -------- | ------------------------------------- |
 | Metal Film resistor (1M)   | 100      | 100      |                                       |
+| Metal Film resistor (750K) | 100      | 100      |                                       |
+| Metal Film resistor (560K) | 100      | 100      |                                       |
 | Metal Film resistor (100K) | 100      | 100      |                                       |
 | Metal Film resistor (82K)  | 100      | 100      |                                       |
 | Metal Film resistor (68K)  | 100      | 100      |                                       |
 | Metal Film resistor (47K)  | 100      | 100      |                                       |
 | Metal Film resistor (33K)  | 100      | 100      |                                       |
 | Metal Film resistor (27K)  | 100      | 100      |                                       |
-| Metal Film resistor (22K)  | 100      | 100      |
+| Metal Film resistor (24K)  | 100      | 100      |                                       |
+| Metal Film resistor (22K)  | 100      | 100      |                                       |
 | Metal Film resistor (20K)  | 100      | 100      |                                       |
+| Metal Film resistor (18K)  | 100      | 100      |                                       |
+| Metal Film resistor (15K)  | 100      | 100      |                                       |
 | Metal Film resistor (14K)  | 100      |          | Can use 47K + 20k in parallel instead |
 | Metal Film resistor (10K)  | 100      | 100      |                                       |
 | Metal Film resistor (4.7K) | 100      | 100      |                                       |
+| Metal Film resistor (2.4K) | 100      | 100      |                                       |
 | Metal Film resistor (2K)   | 100      | 100      |                                       |
 | Metal Film resistor (1.5K) | 100      | 100      |                                       |
 | Metal Film resistor (1K)   | 100      | 100      |                                       |
@@ -1901,10 +1919,10 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 | Item                          | Quantity | Received     | Notes                                      |
 | ----------------------------- | -------- | ------------ | ------------------------------------------ |
-| Ceramic Capacitor (470nF)     | 1        | 100 on order |                                            |
+| Ceramic Capacitor (470nF)     | 1        | 100 in stock |                                            |
 | Ceramic Capacitor (100nF)     | 2        | 100 in stock |                                            |
 | Ceramic Capacitor (10nF)      | 1        | 100 in stock |                                            |
-| Ceramic Capacitor (33pF)      | 1        | 100 on order |                                            |
+| Ceramic Capacitor (33pF)      | 1        | 100 in stock |                                            |
 | Electrolytic Capacitor (10uF) | 2        | 5 in stock   | Optional power supply filtering capacitors |
 
 #### Diodes
@@ -1919,7 +1937,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | ----------------------- | -------- | ----------- | --------------------------------- |
 | 14 Pin DIP Sockets      | 1        | 10 in stock |                                   |
 | Op Amp Quad (TL074)     | 1        | 10 in stock |                                   |
-| Transistor NPN (2N3904) | 1        | 20 on order | Optional for high-impedance input |
+| Transistor NPN (2N3904) | 1        | 20 in stock | Optional for high-impedance input |
 
 #### Potentiometers
 
@@ -1932,14 +1950,14 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 | Item                       | Quantity | Received     | Notes |
 | -------------------------- | -------- | ------------ | ----- |
-| Metal Film resistor (750K) | 1        | 100 on order |       |
-| Metal Film resistor (560K) | 1        | 100 on order |       |
+| Metal Film resistor (750K) | 1        | 100 in stock |       |
+| Metal Film resistor (560K) | 1        | 100 in stock |       |
 | Metal Film resistor (100K) | 2        | 100 in stock |       |
-| Metal Film resistor (24K)  | 1        | 100 on order |       |
-| Metal Film resistor (18K)  | 1        | 100 on order |       |
-| Metal Film resistor (15K)  | 1        | 100 on order |       |
+| Metal Film resistor (24K)  | 1        | 100 in stock |       |
+| Metal Film resistor (18K)  | 1        | 100 in stock |       |
+| Metal Film resistor (15K)  | 1        | 100 in stock |       |
 | Metal Film resistor (10K)  | 2        | 100 in stock |       |
-| Metal Film resistor (2.4K) | 1        | 100 on order |       |
+| Metal Film resistor (2.4K) | 1        | 100 in stock |       |
 | Metal Film resistor (2K)   | 1        | 100 in stock |       |
 | Metal Film resistor (1K)   | 1        | 100 in stock |       |
 
