@@ -220,7 +220,7 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Schottky Diode (BAT85)                | 7        | 7        |                                                                                                                |
 | Schottky Diode (SB140)                | 20       | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
 | Signal Diode (1N4148)                 | 25       | 25       |                                                                                                                |
-| Signal Diode (C13PH)                  | 1        | 1        |                                                                                                                |
+| Zener Diode (C13PH)                   | 1        | 1        |                                                                                                                |
 
 #### Integrated Circuits
 
