@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-08-16T16:27:12.291Z
+lastmod: 2025-08-16T18:53:07.690Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -192,23 +192,35 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 | Item                           | Quantity | Received | Notes |
 | ------------------------------ | -------- | -------- | ----- |
-| Ceramic Capacitor (470nF)      | 100      | 100      |       |
-| Ceramic Capacitor (100nF)      | 100      | 100      |       |
-| Ceramic Capacitor (10nF)       | 100      | 100      |       |
-| Ceramic Capacitor (33pF)       | 100      | 100      |       |
+| Ceramic Capacitor (470nF)      | 100      | 101      |       |
+| Ceramic Capacitor (100nF)      | 100      | 115      |       |
+| Ceramic Capacitor (10nF)       | 100      | 103      |       |
+| Ceramic Capacitor (33pF)       | 100      | 105      |       |
 | Electrolytic Capacitor (4.7uF) | 4        | 4        |       |
 | Electrolytic Capacitor (1uF)   | 4        | 4        |       |
 | Film Capacitor (1uF)           | 10       | 10       |       |
-| Film Capacitor (2.2nF)         | 20       | 20       |       |
+| Film Capacitor (470nF)         | 20       | 20       |       |
+| Film Capacitor (100nF)         | 20       | 20       |       |
+| Film Capacitor (2.2nF)         | 40       | 40       |       |
 | Film Capacitor (1nF)           | 20       | 20       |       |
 
 #### Diodes
 
-| Item                    | Quantity | Received | Notes                                                                                                          |
-| ----------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Schottky Diode (1N5819) | 10       | 10       |                                                                                                                |
-| Schottky Diode (SB140)  | 20       | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
-| Signal Diode (1N4148)   | 25       | 25       |                                                                                                                |
+| Item                                  | Quantity | Received | Notes                                                                                                          |
+| ------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| Fast Recovery Rectifier Diode (FR107) | 10       | 10       |                                                                                                                |
+| Fast Recovery Rectifier Diode (FR207) | 10       | 10       |                                                                                                                |
+| Rectifier Diode (1N4003)              | 4        | 4        |                                                                                                                |
+| Rectifier Diode (1N4004)              | 10       | 10       |                                                                                                                |
+| Rectifier Diode (1N4007)              | 25       | 25       |                                                                                                                |
+| Rectifier Diode (1N5399)              | 10       | 10       |                                                                                                                |
+| Rectifier Diode (1N5408)              | 5        | 5        |                                                                                                                |
+| Schottky Diode (1N5819)               | 10       | 10       |                                                                                                                |
+| Schottky Diode (1N5822)               | 5        | 5        |                                                                                                                |
+| Schottky Diode (BAT85)                | 7        | 7        |                                                                                                                |
+| Schottky Diode (SB140)                | 20       | 20       | [Ordered suggested alternative SR140](https://uk.farnell.com/multicomp/sb140/diode-schottky-1a-40v/dp/9381350) |
+| Signal Diode (1N4148)                 | 25       | 25       |                                                                                                                |
+| Signal Diode (C13PH)                  | 1        | 1        |                                                                                                                |
 
 #### Integrated Circuits
 
@@ -224,14 +236,14 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Transistor NPN (2N2222)                | 20       | 20       |       |
 | Transistor NPN (2N3904)                | 20       | 20       |       |
 | Transistor NPN (BC337)                 | 20       | 20       |       |
-| Transistor NPN (BC548)                 | 100      | 100      |       |
+| Transistor NPN (BC548)                 | 100      | 97       |       |
 | Transistor NPN (C1815)                 | 20       | 20       |       |
 | Transistor NPN (S8050)                 | 20       | 20       |       |
 | Transistor PNP (2N2907)                | 20       | 20       |       |
 | Transistor PNP (2N3906)                | 20       | 20       |       |
 | Transistor PNP (A1015)                 | 20       | 20       |       |
 | Transistor PNP (BC327)                 | 20       | 20       |       |
-| Transistor PNP (BC558)                 | 100      | 100      |       |
+| Transistor PNP (BC558)                 | 100      | 99       |       |
 | Transistor PNP (S8550)                 | 20       | 20       |       |
 
 #### Potentiometers
@@ -254,30 +266,35 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 | Item                       | Quantity | Received | Notes                                 |
 | -------------------------- | -------- | -------- | ------------------------------------- |
-| Metal Film resistor (1M)   | 100      | 100      |                                       |
+| Metal Film resistor (1M)   | 100      | 103      |                                       |
 | Metal Film resistor (750K) | 100      | 100      |                                       |
 | Metal Film resistor (560K) | 100      | 100      |                                       |
-| Metal Film resistor (100K) | 100      | 100      |                                       |
-| Metal Film resistor (82K)  | 100      | 100      |                                       |
-| Metal Film resistor (68K)  | 100      | 100      |                                       |
-| Metal Film resistor (47K)  | 100      | 100      |                                       |
-| Metal Film resistor (33K)  | 100      | 100      |                                       |
-| Metal Film resistor (27K)  | 100      | 100      |                                       |
-| Metal Film resistor (24K)  | 100      | 100      |                                       |
-| Metal Film resistor (22K)  | 100      | 100      |                                       |
-| Metal Film resistor (20K)  | 100      | 100      |                                       |
-| Metal Film resistor (18K)  | 100      | 100      |                                       |
-| Metal Film resistor (15K)  | 100      | 100      |                                       |
+| Metal Film resistor (470K) | 100      | 103      |                                       |
+| Metal Film resistor (120K) | 100      | 100      |                                       |
+| Metal Film resistor (100K) | 100      | 103      |                                       |
+| Metal Film resistor (82K)  | 100      | 104      |                                       |
+| Metal Film resistor (68K)  | 100      | 102      |                                       |
+| Metal Film resistor (51K)  | 100      | 105      |                                       |
+| Metal Film resistor (47K)  | 100      | 103      |                                       |
+| Metal Film resistor (33K)  | 100      | 103      |                                       |
+| Metal Film resistor (27K)  | 100      | 104      |                                       |
+| Metal Film resistor (24K)  | 100      | 99       |                                       |
+| Metal Film resistor (22K)  | 100      | 106      |                                       |
+| Metal Film resistor (20K)  | 100      | 104      |                                       |
+| Metal Film resistor (18K)  | 100      | 103      |                                       |
+| Metal Film resistor (15K)  | 100      | 102      |                                       |
 | Metal Film resistor (14K)  | 100      |          | Can use 47K + 20k in parallel instead |
-| Metal Film resistor (10K)  | 100      | 100      |                                       |
-| Metal Film resistor (4.7K) | 100      | 100      |                                       |
+| Metal Film resistor (10K)  | 100      | 92       |                                       |
+| Metal Film resistor (4.7K) | 100      | 105      |                                       |
 | Metal Film resistor (2.4K) | 100      | 100      |                                       |
-| Metal Film resistor (2K)   | 100      | 100      |                                       |
-| Metal Film resistor (1.5K) | 100      | 100      |                                       |
-| Metal Film resistor (1K)   | 100      | 100      |                                       |
-| Metal Film resistor (470R) | 100      | 100      |                                       |
-| Metal Film resistor (100R) | 100      | 100      |                                       |
-| Metal Film resistor (10R)  | 100      | 100      |                                       |
+| Metal Film resistor (2K)   | 100      | 105      |                                       |
+| Metal Film resistor (1.5K) | 100      | 105      |                                       |
+| Metal Film resistor (1K)   | 100      | 95       |                                       |
+| Metal Film resistor (680R) | 100      | 102      |                                       |
+| Metal Film resistor (470R) | 100      | 104      |                                       |
+| Metal Film resistor (220R) | 100      | 87       |                                       |
+| Metal Film resistor (100R) | 100      | 102      |                                       |
+| Metal Film resistor (10R)  | 100      | 105      |                                       |
 
 #### Misc
 
