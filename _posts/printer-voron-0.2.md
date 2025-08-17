@@ -225,42 +225,89 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                                                 | Quantity | Material                                             | Size  | Weight | Cost | Printed | Notes                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------ |
 | [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl)                                  | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers.                    |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                  | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 |   49    | This is a Voron Users mod by `zruncho`                                                     |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                  | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 |   33    | This is a Voron Users mod by `zruncho`                                                     |
 | [NoDropNut_Door_Latch](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Door_Latch_x2.stl)                     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Mini-Fridge Door |
 | [NoDropNut_Rear_Ext_Front](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Front_x2.stl)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 | [NoDropNut_Rear_Ext_Rear_Center](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 | [NoDropNut_Rear_Ext_Rear_Edge](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 | [NoDropNut_Side_Ext_Side](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Side_Ext_Side_x2.stl)               | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 
-### :white_check_mark: Linear Rails
-
-![Cleaning the bearings with IPA](/assets/blog/printer-voron-0.2/bearings-cleaning.jpg)
+### :negative_squared_cross_mark: Linear Rails
 
 The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
 
-I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
-
-![Bearings assembled and ready for installation](/assets/blog/printer-voron-0.2/bearings-assembled.jpg)
-
 ### :negative_squared_cross_mark: Y Rails
 
-| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                               |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with 2 LDO Rail Mounts |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |                                     |
+| Item                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost |      Printed       | Notes                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ---- | :----------------: | -------------------------------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |      |        :x:         | Not required, they will be replaced by 2 LDO Rail Mounts |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho`                   |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |      |        :x:         |                                                          |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                    | Quantity |
+| --------------------------------------- | -------- |
+| M2x6 SHCS                               | 10       |
+| ~M2 Nut~                                | ~10~     |
+| M3x8 BHCS                               | 2        |
+| M3 Nut                                  | 2        |
+| Makerbeam XL 15x15 200mm (E Extrusion)  | 2        |
+| MGN7H Linear Rail with Carriage - 150mm | 2        |
+| Nut Bar Mount (LDO)                     | 2        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
 
 ### :negative_squared_cross_mark: Z Rails
 
-| Item                                                                                                                | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                               |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ----------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Will replace with 2 LDO Rail Mounts |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   |
+| Item                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost |      Printed       | Notes                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ---- | :----------------: | -------------------------------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |      |        :x:         | Not required, they will be replaced by 2 LDO Rail Mounts |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho`                   |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |      |        :x:         |                                                          |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                    | Quantity |
+| --------------------------------------- | -------- |
+| M2x6 SHCS                               | 10       |
+| ~M2 Nut~                                | ~10~     |
+| M3x8 BHCS                               | 2        |
+| M3 Nut                                  | 2        |
+| Makerbeam XL 15x15 200mm (C Extrusion)  | 2        |
+| MGN7H Linear Rail with Carriage - 150mm | 2        |
+| Nut Bar Mount (LDO)                     | 2        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
 
 ### :negative_squared_cross_mark: Z Axis
 
-| Item                                                                                              | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                    |
-| ------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------ |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Replace with Z cover mod |
+| Item                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost |      Printed       | Notes                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :---: | ------ | ---- | :----------------: | -------------------------------------------------- |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 12       | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho`             |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |      |        :x:         | Not required, it will be replaced with Z cover mod |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                   | Quantity |
+| -------------------------------------- | -------- |
+| M3x6 BHCS                              | 4        |
+| ~M3x8 BHCS~                            | ~1~      |
+| M3x10 BHCS                             | 4        |
+| M3 Nut                                 | ~13~ 12  |
+| Makerbeam XL 15x15 200mm (B Extrusion) | 2        |
+| Makerbeam XL 15x15 200mm (H Extrusion) | 2        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the bottom right `Railstop`.
 
 ### :negative_squared_cross_mark: Bed Carrier
 
@@ -346,9 +393,12 @@ The [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-
 
 ### :negative_squared_cross_mark: Leadscrew Nut
 
-| Item                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                          |
-| ----------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
-| [T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Not required as this is replaced by the Kirigami Bed nut block |
+| Item                                                                                            | Quantity | Material                                             | Printed | Notes                                                          |
+| ----------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | -------------------------------------------------------------- |
+| [T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Not required as this is replaced by the Kirigami Bed nut block |
+
+> [!CAUTION]
+> These parts are not required when using the [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/).
 
 ### :negative_squared_cross_mark: Feet
 
@@ -401,18 +451,20 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: X Axis
 
-| Item                                                                                                                | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                              |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------- |
-| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | Will replace with 1 LDO Rail Mount |
+| Item                                                                                                                | Quantity | Material                                             | Printed | Notes                              |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ---------------------------------- |
+| [M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Will replace with 1 LDO Rail Mount |
 
-### :negative_squared_cross_mark: Adafruit Y Rails
+#### Assembly
 
-| Item                                                                                                                              | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                      |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------ |
-| [body-left](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails/body-left.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users mod by `QuackProfit` |
-| [body-right](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails/body-right.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users mod by `QuackProfit` |
-| [cover-left](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails/cover-left.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users mod by `QuackProfit` |
-| [cover-right](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails/cover-right.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a Voron Users mod by `QuackProfit` |
+##### Parts Used
+
+| Item     | Quantity |
+| -------- | -------- |
+| ~M2 Nut~ | 5        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
 
 ## A/B Belts
 

@@ -475,6 +475,8 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 ![The A Idler and Belt Tentioner for the Flying Gantry](/assets/blog/printer-voron-2.4/a-idler.jpg)
 
+The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
+
 ##### Parts Needed
 
 | Item                        | Quantity |
@@ -498,6 +500,8 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 #### Assembly
 
 ![The B Idler and Belt Tentioner for the Flying Gantry](/assets/blog/printer-voron-2.4/b-idler.jpg)
+
+The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
 ##### Parts Needed
 
@@ -719,10 +723,10 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 | M3x12 SHCS                                 | 14       |
 | M3x16 SHCS                                 | 4        |
 | M3x20 SHCS                                 | 2        |
-| ~M3x30 SHCS~                               | 4        |
+| ~M3x30 SHCS~                               | ~4~      |
 | M3 Threaded Insert (M3x5x4)                | 4        |
-| ~M5x30 BHCS~                               | 4        |
-| ~M5 Hexnut~                                | 4        |
+| ~M5x30 BHCS~                               | ~4~      |
+| ~M5 Hexnut~                                | ~4~      |
 | M5 Washer (1mm)                            | 4        |
 | M10x20 Hex Socket Set Screw (flat end)     | 4        |
 
@@ -751,6 +755,8 @@ I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://w
 
 #### Assembly
 
+The belts are routed in a layout that is known as [CoreXY](https://corexy.com/theory.html). When one motor rotates the toolhead will move diagonally, when both motors rotate in the same direction the toolhead will move in the X axis and when both motors rotate in opposite directions the toolhead will move in the Y axis.
+
 ##### Parts Needed
 
 | Item                                       | Quantity |
@@ -764,12 +770,12 @@ I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://w
 | M2x8 SHCS                                  | 2        |
 | M3x5 BHCS                                  | 2        |
 | M3x6 SHCS                                  | 2        |
-| ~M3x8 SHCS~                                | 4        |
+| ~M3x8 SHCS~                                | ~4~      |
 | M3x12 SHCS                                 | 2        |
-| ~M3x30 SHCS~                               | 4        |
-| ~M3 Hexnut~                                | 2        |
-| ~M3 Threaded Insert (M3x5x4)~              | 4        |
-| ~Omron TL-Q5MC2 Probe~                     | 1        |
+| ~M3x30 SHCS~                               | ~4~      |
+| ~M3 Hexnut~                                | ~2~      |
+| ~M3 Threaded Insert (M3x5x4)~              | ~4~      |
+| ~Omron TL-Q5MC2 Probe~                     | ~1~      |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the stock `x_frame_V2TR_MGN12` and `probe_retainer_bracket`.
@@ -937,13 +943,13 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 
 | Item                               | Quantity |
 | ---------------------------------- | -------- |
-| ~Ø5x35mm Shaft~                    | 1        |
-| ~GT2 20T Pulley (5mm ID 6mm W)~    | 1        |
-| ~JST XH Connector Plug 3 Position~ | 1        |
-| ~M2x10 Self-Tapping Screw~         | 2        |
-| ~M3x20 SHCS~                       | 2        |
-| ~M3 Post-install T-nut~            | 2        |
-| ~Omron D2F-01L Micro Switch~       | 1        |
+| ~Ø5x35mm Shaft~                    | ~1~      |
+| ~GT2 20T Pulley (5mm ID 6mm W)~    | ~1~      |
+| ~JST XH Connector Plug 3 Position~ | ~1~      |
+| ~M2x10 Self-Tapping Screw~         | ~2~      |
+| ~M3x20 SHCS~                       | ~2~      |
+| ~M3 Post-install T-nut~            | ~2~      |
+| ~Omron D2F-01L Micro Switch~       | ~1~      |
 
 > [!CAUTION]
 > These parts are not required as I will be installing the `ChaoticLab CNC Tap`.
@@ -965,11 +971,11 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 
 | Item                         | Quantity |
 | ---------------------------- | -------- |
-| ~M2x10 Self-tapping Screw~   | 4        |
+| ~M2x10 Self-tapping Screw~   | ~4~      |
 | M3x8 SHCS                    | 2        |
 | M3x30 SHCS                   | 2        |
 | Microswitch X/Y Endstop PCB  | 1        |
-| ~Omron D2F-01L Micro Switch~ | 2        |
+| ~Omron D2F-01L Micro Switch~ | ~2~      |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the stock `endstop_pod`.
@@ -1109,11 +1115,11 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50](http
 | BigTreeTech PITFT50 V2.0                 | 1        |
 | M2.5x4 (included in the BTT PITFT50 v2)  | 4        |
 | M3x8 SHCS                                | 6        |
-| ~M3x12 SHCS~                             | 4        |
-| ~M3x40 SHCS~                             | 1        |
+| ~M3x12 SHCS~                             | ~4~      |
+| ~M3x40 SHCS~                             | ~1~      |
 | M3 Post-install T-nut                    | 2        |
 | M3 Threaded Insert (M3x5x4)              | 4        |
-| ~Mini 12864 Display~                     | 1        |
+| ~Mini 12864 Display~                     | ~1~      |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the stock `mini12864_case`.
@@ -1258,8 +1264,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 | Item                             | Quantity |
 | -------------------------------- | -------- |
 | ACM Back Panel - 433x453x3 mm    | 1        |
-| ~M3x8 SHCS~                      | 11       |
-| ~M3 Hammer Head T-nuts~          | 11       |
+| ~M3x8 SHCS~                      | ~11~     |
+| ~M3 Hammer Head T-nuts~          | ~11~     |
 | Single Sided Foam Tape 1mm Thick | ?        |
 
 > [!WARNING]
@@ -1281,8 +1287,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 
 | Item                                          | Quantity |
 | --------------------------------------------- | -------- |
-| ~M3x12 SHCS~                                  | 24       |
-| ~M3 Hammer Head T-nuts~                       | 24       |
+| ~M3x12 SHCS~                                  | ~24~     |
+| ~M3 Hammer Head T-nuts~                       | ~24~     |
 | Polycarbonate Side Panel Clear - 433x453x3 mm | 2        |
 | Single Sided Foam Tape 3mm Thick              | ?        |
 
@@ -1305,8 +1311,8 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 
 | Item                                         | Quantity |
 | -------------------------------------------- | -------- |
-| ~M3x8 SHCS~                                  | 12       |
-| ~M3 Hammer Head T-nuts~                      | 12       |
+| ~M3x8 SHCS~                                  | ~12~     |
+| ~M3 Hammer Head T-nuts~                      | ~12~     |
 | Polycarbonate Top Panel Clear - 433x433x3 mm | 1        |
 | Single Sided Foam Tape 1mm Thick             | ?        |
 
