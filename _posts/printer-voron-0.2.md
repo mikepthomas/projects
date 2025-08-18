@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2025-08-16T23:09:16.047Z
+lastmod: 2025-08-18T22:25:03.718Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -97,8 +97,8 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 | IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                                                                                                                                                      |
 | Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                                                                                    |
 | MicroSD Card                                             | 1        | 1        |                                                                                                                                                                                    |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 1        | 2 x LDO-35STH48-1684AH On order                                                                                                                                                    |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        |          | LDO-42STH25-1004CL200ET(VRN) Teflon Coat On order                                                                                                                                  |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                                                                                                                                                                 |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | LDO-42STH25-1004CL200ET(VRN) Teflon Coat                                                                                                                                           |
 | Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB](https://www.fysetc.com/products/fysetc-neopixel-sequins-with-rgb-ws2812-3535-glow-rgb-led-and-1m-26awg-teflon-cable-for-voron-mini-sb-extruder) |
 | Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                                                                                                                    |
 | Raspberry Pi 4                                           | 1        | 1        |                                                                                                                                                                                    |
@@ -128,7 +128,7 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 | F623-RS Bearing                         | 24       | 30       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html)                      |
 | GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                                           |
 | GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                                           |
-| MGN7H Linear Rail with Carriage - 150mm | 5        |          | 5 x LDO SLR7H-1R-150Z0 On order                                                           |
+| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | LDO SLR7H-1R-150Z0                                                                        |
 | Nut Bar Mounts                          |          | 5        | [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/) |
 | T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                                           |
 
