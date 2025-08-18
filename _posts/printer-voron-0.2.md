@@ -225,7 +225,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                                                 | Quantity | Material                                             | Size  | Weight | Cost | Printed | Notes                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------ |
 | [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl)                                  | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers.                    |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                  | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 |   33    | This is a Voron Users mod by `zruncho`                                                     |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                  | ~120     | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 |    5    | This is a Voron Users mod by `zruncho`                                                     |
 | [NoDropNut_Door_Latch](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Door_Latch_x2.stl)                     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Mini-Fridge Door |
 | [NoDropNut_Rear_Ext_Front](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Front_x2.stl)             | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 | [NoDropNut_Rear_Ext_Rear_Center](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
@@ -327,15 +327,59 @@ The [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-
 | [stealth_nut_block](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_nut_block.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
 | [stealth_wire_guide](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_wire_guide.stl)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
 
+#### Assembly
+
 > [!NOTE]
 > When using the Kirigami bed we can skip pages 36 to 46 of the official manual and instead follow the [LDO Kirigami Bed Manual](https://www.ldomotion.com/p/guide/Kirigami-Bed-for-Voron-V01) this [unofficial Kirigami Bed Manual](https://github.com/Kagee/kirigami-bed-manual) instead.
 
+##### Parts Used
+
+| Item                                      | Quantity |
+| ----------------------------------------- | -------- |
+| Kirigami Bed Frame                        | 1        |
+| M3x6 BHCS                                 | 13       |
+| M3x10 BHCS                                | 2        |
+| M3 Brass heatstake inserts - short M3x5x4 | 19       |
+| M3 Nut                                    | 2        |
+| LDO Bed Joiner PCB                        | 1        |
+| LDO Bed Neopixel PCB                      | 1        |
+| Wago connectors (221-412)                 | 2        |
+
 ### :negative_squared_cross_mark: Z Endstop
 
-| Item                                                                                                          | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                                     |
-| ------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------- |
-| [Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL) | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |        |      |   :x:   | Replace with Z cover mod                                                  |
-| [deck_plate_cover](https://www.printables.com/model/405522/files)                                             | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a mod by [MarekZCMB](https://www.printables.com/@MarekZCMB_58830) |
+| Item                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost |      Printed       | Notes                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ---- | :----------------: | ------------------------------------------------------------------------- |
+| [deck_plate_cover](https://www.printables.com/model/405522/files)                                                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |      |        :x:         | This is a mod by [MarekZCMB](https://www.printables.com/@MarekZCMB_58830) |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho`                                    |
+| [Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL)                       | 1        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |       |        |      |        :x:         | Replace with Z cover mod                                                  |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                  | Quantity |
+| ------------------------------------- | -------- |
+| M2x10 Self Tapping Screws for Plastic | 2        |
+| M3x8 BHCS                             | 2        |
+| M3 Nut                                | 2        |
+
+### :negative_squared_cross_mark: Frame
+
+| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost |      Printed       | Notes                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ---- | :----------------: | -------------------------------------- |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 31       | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho` |
+
+#### Assembly
+
+##### Parts Used
+
+| Item                                   | Quantity |
+| -------------------------------------- | -------- |
+| Deck Panel 3mm thick                   | 1        |
+| M3x8 BHCS                              | 2        |
+| M3x10 BHCS                             | 10       |
+| M3 Nut                                 | 31       |
+| Makerbeam XL 15x15 200mm (D Extrusion) | 2        |
 
 ## A/B Drives
 
