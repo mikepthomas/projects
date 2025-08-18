@@ -232,9 +232,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [NoDropNut_Rear_Ext_Rear_Edge](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl)     | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 | [NoDropNut_Side_Ext_Side](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Side_Ext_Side_x2.stl)               | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 
-### :negative_squared_cross_mark: Linear Rails
+### :white_check_mark: Linear Rails
+
+![Cleaning the bearings with IPA](/assets/blog/printer-voron-0.2/bearings-cleaning.jpg)
 
 The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
+
+I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
+
+![Bearings assembled and ready for installation](/assets/blog/printer-voron-0.2/bearings-assembled.jpg)
 
 ### :negative_squared_cross_mark: Y Rails
 
