@@ -697,6 +697,8 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinforced Gantry Mounts](https://www.onetwo3d.co.uk/product/re-enforced-gantry-mounts-for-voron-2-4/).
 
+![Annex Engineering Reinforced Gantry Mounts](/assets/blog/printer-voron-2.4/reinforced-gantry-mounts.jpg)
+
 | Item                                                                                                                                                                                                                       | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------------------------------------------------- |
 | [halleffect_spacer](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts/STLs/halleffect_spacer_Rev1.STL) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 1.19m | 3.02g  | £0.05 | :heavy_check_mark: | This is a mod by `Annex-Engineering`                    |
@@ -712,6 +714,8 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 > I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
 
 #### Assembly
+
+![Clips to tidy up the Z Belts, looks a little better than zip ties](/assets/blog/printer-voron-2.4/z-belt-clips.jpg)
 
 ##### Parts Needed
 

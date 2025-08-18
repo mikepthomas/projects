@@ -1774,6 +1774,16 @@
           "piplate-skirt.jpg": {
             "title": "PiPlate Skirt",
             "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "reinforced-gantry-mounts.jpg": {
+            "title": "Reinforced Gantry Mounts",
+            "caption": "",
+            "alt": "Annex Engineering Reinforced Gantry Mounts"
+          },
+          "z-belt-clips.jpg": {
+            "title": "Z Belt Clips",
+            "caption": "",
+            "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties"
           }
         },
         "voron-afterburner": {
