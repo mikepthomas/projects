@@ -11,13 +11,13 @@
     "deploy": "gh-pages -b gh-pages -d out -m 'Deploy Site to GitHub Pages' -f -t"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.7.2",
-    "@fortawesome/free-brands-svg-icons": "^6.7.2",
-    "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/fontawesome-svg-core": "^7.0.0",
+    "@fortawesome/free-brands-svg-icons": "^7.0.0",
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
+    "@fortawesome/react-fontawesome": "^0.2.3",
     "bootstrap": "^5.3.7",
     "date-fns": "^4.1.0",
-    "framer-motion": "^12.23.0",
+    "framer-motion": "^12.23.12",
     "github-fork-ribbon-css": "^0.2.3",
     "gray-matter": "^4.0.3",
     "next": "latest",
@@ -38,11 +38,11 @@
     "remark-emoji": "^5.0.1",
     "remark-gfm": "^4.0.1",
     "remark-toc": "^9.0.0",
-    "sass": "^1.89.2",
-    "typescript": "^5.8.3"
+    "sass": "^1.90.0",
+    "typescript": "^5.9.2"
   },
   "devDependencies": {
-    "@types/node": "^22.16.0",
+    "@types/node": "^22.17.2",
     "@types/react": "^18.3.0",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.21",
