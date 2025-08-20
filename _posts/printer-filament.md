@@ -2,7 +2,7 @@
 title: Printer Filament
 heading: 3D Printer Filament
 date: 2022-01-22
-lastmod: 2024-05-30T09:14:32.323Z
+lastmod: 2025-08-20T14:15:26.182Z
 author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -103,8 +103,6 @@ This filament will be used to print the window frames of the [Sanctuary Hills Ho
 
 ### eSun ABS+ (Orange)
 
-This filament will be used to print the accent parts for the [Voron 0.2](printer-voron-0.2).
-
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
 | ![#FA4919 {20x20}](https://placehold.co/20/FA4919/FA4919.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Orange).ini>) | [3D Jake](https://www.3djake.uk/esun/abs-orange-3) | £18.59   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
@@ -168,6 +166,16 @@ This filament was brought to print the parts close to the hotend of [my Anet A8]
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
 | ![#535353 {20x20}](https://placehold.co/20/535353/535353.png) | 250         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20ABS%20(Dark%20Grey).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01DWTSEIK) | £15.90   | 1             |       |
+
+## ASA
+
+### LDO ASA (Orange)
+
+This filament will be used to print the accent parts for the [Voron 0.2](printer-voron-0.2).
+
+|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile | Purchased From                                                              | Avg Cost | KGs Purchased | Notes |
+| :-----------------------------------------------------------: | ----------- | -------- | -------------- | --------------------------------------------------------------------------- | -------- | ------------- | ----- |
+| ![#F93822 {20x20}](https://placehold.co/20/F93822/F93822.png) | 255         | 100      |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-asa-filament-1kg-1-75mm/) | £18.10   | 1             |       |
 
 ## PETG
 
