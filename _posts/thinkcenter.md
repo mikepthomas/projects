@@ -2,7 +2,7 @@
 title: Thinkcenter
 heading: Getting small machines to create a Proxmox cluster
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-04-25T22:00:10.374Z
+lastmod: 2025-08-20T13:18:06.341Z
 author: Mike Thomas
 description: Making old outdated machines do modern things.
 preview: /assets/blog/thinkcenter/thinkcenter-hero.jpg
@@ -71,6 +71,14 @@ The replacement for "Shed Server" was named "Lenny" (just because it is a Lenovo
 
 # Proxmox Virtual Environment (VE)
 
+## Proxmox VE Post Install Script
+
+```sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/post-pve-install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/scaling-governor.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/microcode.sh)"
+```
+
 ## Update APT Repositories
 
 ```sh
@@ -83,14 +91,6 @@ nano /etc/apt/sources.list.d/pve-install-repo.list
 nano /etc/apt/sources.list.d/pbs-install-repo.list
 nano /etc/apt/sources.list.d/pvetest-for-beta.list
 nano /etc/apt/sources.list.d/pbstest-for-beta.list
-```
-
-## Proxmox VE Post Install Script
-
-```sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/post-pve-install.sh)"
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/scaling-governor.sh)"
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/tools/pve/microcode.sh)"
 ```
 
 ## Install Useful tools
