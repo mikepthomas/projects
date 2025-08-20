@@ -98,7 +98,7 @@ My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quit
 | [MOD10_Side_Connectors](https://www.printables.com/model/1225275)         | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
 | [MOD10_Top_Bottom_2U](https://www.printables.com/model/1225275)           | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
-## M970Q 10" Rack Mount
+## M920Q 10" Rack Mount
 
 | Item                                                                              | Quantity | Material                                         | Size | Weight | Cost | Printed | Notes |
 | --------------------------------------------------------------------------------- | -------- | ------------------------------------------------ | ---- | ------ | ---- | :-----: | ----- |

@@ -143,8 +143,6 @@ echo "options snd-hda-intel enable_msi=1" >> /etc/modprobe.d/snd-hda-intel.conf
 
 ## PCI(e) Passthrough
 
-I did not need to do this on Proxmox 9
-
 ### Verify IOMMU is enabled
 
 ```sh
