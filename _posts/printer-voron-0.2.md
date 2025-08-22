@@ -103,7 +103,7 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 | ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts                                                                                      |
 | Hotend                                                   | 1        | 1        |                                                                                                                       |
 | Hotend thermistor                                        | 1        | 1        |                                                                                                                       |
-| IEC320 C14 inlet                                         | 1        |          | 1 x Yellow Switch On order                                                                                            |
+| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                                                                                         |
 | Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                       |
 | MicroSD Card                                             | 1        | 1        |                                                                                                                       |
 | NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                                                                                                    |
@@ -198,11 +198,11 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Extruder
 
-| Item                                         | Quantity | Received | Notes                        |
-| -------------------------------------------- | -------- | -------- | ---------------------------- |
-| Bondtech BMG Extruder Kit                    | 1        | 1        |                              |
-| MR85 Bearing                                 | 2        | 2        |                              |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        |          | LDO-36STH20-1004AHG On order |
+| Item                                         | Quantity | Received | Notes               |
+| -------------------------------------------- | -------- | -------- | ------------------- |
+| Bondtech BMG Extruder Kit                    | 1        | 1        |                     |
+| MR85 Bearing                                 | 2        | 2        |                     |
+| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | LDO-36STH20-1004AHG |
 
 ## Mini-Fridge Door
 

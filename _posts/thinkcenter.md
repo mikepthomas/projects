@@ -311,5 +311,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
   - Windows 11
   - Virtio Windows Drivers
 - Download Container templates
-  - Debian 13
-  - Ubuntu 24.04
+  - debian-12-standard
+  - ubuntu-24.04-standard

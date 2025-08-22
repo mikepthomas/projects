@@ -73,6 +73,15 @@ This version will be used on the [Voron 2.4](printer-voron-2.4)
 | Polymax Neopren Sponge Cord            | 1m       | 1m       | 3mm thick                         |
 | Nevermore XL Carbon refills            | 2        | 2        |                                   |
 
+### V2 Upgrade Parts
+
+| Item                         | Quantity | Received | Notes                                                                                                          |
+| ---------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| 7-bit neopixel hinge display | 1        | 1        | [Nevermore Stealthmax V2 LED Ring](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-led-ring/)       |
+| FT90M Servo                  | 1        | 1        | [Nevermore Stealthmax V2 Servo](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-servo/)             |
+| TopFan MX7020GBH2            | 1        | 1        | [Nevermore StealthMax V2 Fan](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-fan/)                 |
+| Nevermore H14 HEPA           | 1        | 1        | [Nevermore Stealthmax V2 HEPA Filter](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-hepa-filter/) |
+
 ## Printing Parts
 
 ### :negative_squared_cross_mark: Mount
