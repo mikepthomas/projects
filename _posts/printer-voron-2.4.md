@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-14T16:45:13.588Z
+lastmod: 2025-08-23T22:07:01.192Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -825,9 +825,9 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 The 5V PSU is used to power the Raspberry Pi for Klipper and any LED lighting.
 
-| Item                                                                                                    | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [MW_RS_25](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_RS_25.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.19m | 5.59g  | £0.09 |   :x:   |       |
+| Item                                                                                                    | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [MW_RS_25](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_RS_25.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.19m | 5.59g  | £0.09 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -841,10 +841,10 @@ The 5V PSU is used to power the Raspberry Pi for Klipper and any LED lighting.
 
 The 24V PSU is used to power the main MCU, Motors and Hotend.
 
-| Item                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [MW_LRS_200](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_LRS_200.stl)              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.75m | 7.01g  | £0.11 |   :x:   |       |
-| [PSU_stabilizer_50mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/PSU_stabilizer_50mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.41m | 3.60g  | £0.06 |   :x:   |       |
+| Item                                                                                                                     | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [MW_LRS_200](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Power_Supplies/MW_LRS_200.stl)              | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.75m | 7.01g  | £0.11 | :heavy_check_mark: |       |
+| [PSU_stabilizer_50mm](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/PSU_stabilizer_50mm.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.41m | 3.60g  | £0.06 | :heavy_check_mark: |       |
 
 #### Assembly
 
