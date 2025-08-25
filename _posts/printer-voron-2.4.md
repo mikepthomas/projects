@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-23T22:07:01.192Z
+lastmod: 2025-08-25T16:56:45.335Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -35,34 +35,34 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                        | Quantity | Received | Notes                                                 |
-| --------------------------- | -------- | -------- | ----------------------------------------------------- |
-| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x6 FHCS                   | 8        | 51       |                                                       |
-| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
-| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM |
-| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3x10 FHCS                  | 4        | 55       |                                                       |
-| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit                |
-| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit                |
+| Item                        | Quantity | Received | Notes                                       |
+| --------------------------- | -------- | -------- | ------------------------------------------- |
+| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x6 FHCS                   | 8        | 51       |                                             |
+| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x50 SHCS                  | 2        |          | In [StealthBurner](voron-stealthburner) BOM |
+| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x25 SHCS                  | 6        |          | In [StealthBurner](voron-stealthburner) BOM |
+| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3x10 FHCS                  | 4        | 55       |                                             |
+| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit      |
+| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit      |
 
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg)
 
@@ -75,24 +75,24 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                       | Quantity | Received | Notes                                                    |
-| ------------------------------------------ | -------- | -------- | -------------------------------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In Powge 2.4r2 Motion Kit                                |
-| Linear Rail MGN9H 350mm                    | 6        | 6        | RDBB All Stainless Steel Versions, Medium Preload        |
-| Linear Rail MGN12H 350mm                   | 1        | 1        | RDBB All Stainless Steel Versions, Medium Preload        |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In Powge 2.4r2 Motion Kit                                |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In Powge 2.4r2 Motion Kit                                |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 2    | 3        | 1 Not required as it is for the [Z Endstop](#-z-endstop) |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                                |
-| F695 Bearing                               | 20       | 20       | In Powge 2.4r2 Motion Kit                                |
-| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner#fasteners) BOM    |
-| 625 Bearing                                | 12       | 12       | In Powge 2.4r2 Motion Kit                                |
+| Item                                       | Quantity | Received | Notes                                       |
+| ------------------------------------------ | -------- | -------- | ------------------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In Powge 2.4r2 Motion Kit                   |
+| Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload             |
+| Linear Rail MGN12H 350mm                   | 1        | 1        | All Stainless Steel, Medium Preload         |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In Powge 2.4r2 Motion Kit                   |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In Powge 2.4r2 Motion Kit                   |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 2    | 3        | 1 Not required as it is for the Z Endstop   |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
+| F695 Bearing                               | 20       | 20       | In Powge 2.4r2 Motion Kit                   |
+| BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner) BOM |
+| 625 Bearing                                | 12       | 12       | In Powge 2.4r2 Motion Kit                   |
 
 > [!NOTE]
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
@@ -106,33 +106,33 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                  | Quantity | Received | Notes                                                                                                                                                                                                            |
-| ----------------------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                                                                            |
-| USB Cable for selected controller                     | 1        | 1        |                                                                                                                                                                                                                  |
-| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                                                                            |
-| Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8) build.                                                                                                                                           |
-| TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                                                                                                                               |
-| RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                                                                                                  |
-| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU](https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr/)                                                                                                             |
-| Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                                                                                                  |
-| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 2 [LDO Speedy Power Motors for A/B](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) & 4 [LDO SwitchWire Motors for Z](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) |
-| NEMA14 Motor 36STH20-1004AHG                          | 1        |          | In [StealthBurner](voron-stealthburner#electronics) BOM                                                                                                                                                          |
-| ~Mini 12864 Display~                                  | ~1~      |          | Not required as I will be using a [BigTreeTech PITFT50 V2.0 Display](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board) instead.                                                            |
-| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S).                                                                                                                              |
-| Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                                                                                  |
-| Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                                                                                  |
-| ~Keystone CAT6 Insert (Optional)~                     | ~1~      |          | Not required as I plan on printing the [PiPlate Skirt](#-raspberry-pi)                                                                                                                                           |
-| ~Inductive Probe (See sourcing guide)~                | ~1~      | ~1~      | ~[Omron TL-Q5MC2](https://www.ia.omron.com/product/item/1924/) Probe.~ Not required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)       |
-| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                                                                                                                               |
-| DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                                                                                  |
-| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html)                                                                                                                                            |
-| C13 Power Cord                                        | 1        | 1        |                                                                                                                                                                                                                  |
-| ~BAT85 Diode~                                         | ~1~      | 7        | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)                                                                  |
-| 60x60x20 Fan (24V)                                    | 3        | 2        | [AFB0624HD Delta Fans](https://www.delta-fan.com/Download/Spec/AFB0624VHD.pdf), 1 Not required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead                       |
-| ~40x40x20 Centrifugal Fan (24V)~                      | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                                                                                                        |
-| ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                                                                                                        |
-| BigTreeTech Smart Filament Sensor V2                  | 2        | 2        |                                                                                                                                                                                                                  |
+| Item                                                  | Quantity | Received | Notes                                                                                                                                                 |
+| ----------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                 |
+| USB Cable for selected controller                     | 1        | 1        |                                                                                                                                                       |
+| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S) Instead                                                                 |
+| Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8) build.                                                                                |
+| TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                                                                    |
+| RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                                       |
+| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU](https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr/)                                                  |
+| Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                                       |
+| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 2 LDO Speedy Power Motors for A/B & 4 LDO SwitchWire Motors for Z                                                                                     |
+| NEMA14 Motor 36STH20-1004AHG                          | 1        |          | In [StealthBurner](voron-stealthburner) BOM                                                                                                           |
+| ~Mini 12864 Display~                                  | ~1~      |          | Not required as I will be using a [BigTreeTech PITFT50 V2.0 Display](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board) instead. |
+| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S).                                                                   |
+| Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                                       |
+| Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                                       |
+| ~Keystone CAT6 Insert (Optional)~                     | ~1~      |          | Not required as I plan on printing the [PiPlate Skirt](#-raspberry-pi)                                                                                |
+| ~Inductive Probe (See sourcing guide)~                | ~1~      | ~1~      | Not required as I will be installing [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298)                   |
+| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                                                                    |
+| DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                                       |
+| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html)                                                                                 |
+| C13 Power Cord                                        | 1        | 1        |                                                                                                                                                       |
+| ~BAT85 Diode~                                         | ~1~      | 7        | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)       |
+| 60x60x20 Fan (24V)                                    | 3        | 2        | AFB0624HD Delta Fans, 1 Not required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead                      |
+| ~40x40x20 Centrifugal Fan (24V)~                      | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                                             |
+| ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                                             |
+| BigTreeTech Smart Filament Sensor V2                  | 2        | 2        |                                                                                                                                                       |
 
 ## Vibration Management
 
@@ -407,7 +407,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > [!NOTE]
 > The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
-> As I am using Switchwire motors that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
+> As I am using [LDO SwitchWire Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
 
 ![The Z Drives and feet installed on the printer](/assets/blog/printer-voron-2.4/z-drives-installed.jpg)
 
@@ -526,6 +526,8 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 ![A Drive Assembled](/assets/blog/printer-voron-2.4/a-drive.jpg)
 
+I am using [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
+
 ##### Parts Needed
 
 | Item                          | Quantity |
@@ -548,6 +550,8 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 #### Assembly
 
 ![B Drive Assembled](/assets/blog/printer-voron-2.4/b-drive.jpg)
+
+I am using [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
 
 ##### Parts Needed
 
@@ -693,7 +697,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :wrench: Z Bearing Blocks
+### :white_check_mark: Z Bearing Blocks
 
 I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinforced Gantry Mounts](https://www.onetwo3d.co.uk/product/re-enforced-gantry-mounts-for-voron-2-4/).
 
@@ -715,7 +719,16 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 
 #### Assembly
 
-![Clips to tidy up the Z Belts, looks a little better than zip ties](/assets/blog/printer-voron-2.4/z-belt-clips.jpg)
+![Using Zip Ties to support the gantry whilst installing the belts](/assets/blog/printer-voron-2.4/z-belts-prep.jpg)
+
+The manual recommends securing the gantry with long zip ties as `a helping hand` whilst the gantry is installed.
+
+![Annex Enginnering Reinforced Gantry Mounts installed in the printer](/assets/blog/printer-voron-2.4/reinforced-gantry-mounts-installed.jpg)
+
+The Reinforced Gantry Mounts by `Annex Enginnering` were originally developed for [Redoubt](https://github.com/Annex-Engineering/Redoubt) but are backwards compatible with the Voron 2.4.
+The main advantage to installing them is that the gantry is 13mm closer to the linear rails and using them shows reduced ringing in the Y-Axis.
+
+![Z Belts installed in the printer](/assets/blog/printer-voron-2.4/z-belts-installed.jpg)
 
 ##### Parts Needed
 
@@ -737,13 +750,17 @@ I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinf
 > [!WARNING]
 > Some of these parts are not required as they are for the `z_joint_upper`s. The remaining M3 Screws are from the `Annex Engineering Reinforced Gantry Mounts` kit and are shorter than what is specified in the Manual.
 
+Finally the belts are tidied up with the Z Belt Clip mod by `ChenTheDesignMaker`. I think they look a little nicer than using a zip tie as specified in the manual.
+
+![Clips to tidy up the Z Belts, looks a little better than zip ties](/assets/blog/printer-voron-2.4/z-belt-clips.jpg)
+
 ## A/B Belts
 
 ![3D render of the Voron 2.4 A/B Belts](/assets/blog/printer-voron-2.4/voron-design/a-b-belts.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: X Carriage
+### :wrench: X Carriage
 
 I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298).
 
@@ -868,10 +885,10 @@ I did contemplate using my [BigTreeTech SKR 1.4 Turbo](https://biqu.equipment/co
 with the optional [EXP-MOT](https://biqu.equipment/products/btt-rrf-wifi-v1-0-module-driver-expansion-module-for-skr-v1-4-1-4-turbo-skr-v1-3-3d-printer-part) module
 as I will not be using the `EXP1` and `EXP2` ports for a display, however, the SKR 1.4 Turbo does not have enough controllable fan ports, which is why I designed the [Klipper Fan Hat](printer-klipper-fan-hat).
 
-| Item                                                                                                                    | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [Fly_Super8_2pc](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Controllers/Mellow/Fly_Super8_2pc.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.00m | 7.65g  | £0.13 |   :x:   |       |
-| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.99m | 5.06g  | £0.08 |   :x:   |       |
+| Item                                                                                                                    | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [Fly_Super8_2pc](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/Controllers/Mellow/Fly_Super8_2pc.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.00m | 7.65g  | £0.13 | :heavy_check_mark: |       |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.99m | 5.06g  | £0.08 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -900,10 +917,10 @@ The Solid State Relay is used to control the Mains powered bed from the Controll
 
 A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector from the toolhead to separate connectors making it a little easier to connect to the MCU.
 
-| Item                                                                                                                            | Quantity | Material                                             | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.46m | 3.72g  | £0.06 |   :x:   |       |
-| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.99m | 5.06g  | £0.08 |   :x:   |       |
+| Item                                                                                                                            | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.46m | 3.72g  | £0.06 | :heavy_check_mark: |       |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.99m | 5.06g  | £0.08 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -1056,6 +1073,8 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 ### :negative_squared_cross_mark: Heated Bed
+
+I will be using an [ultra-flat Mandala Rose Works heated bed without embeded magnets](https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic/) that has been checked to be under 0.1mm overall flatness.
 
 #### Assembly
 

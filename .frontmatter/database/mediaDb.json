@@ -1777,12 +1777,22 @@
           },
           "reinforced-gantry-mounts.jpg": {
             "title": "Reinforced Gantry Mounts",
-            "caption": "",
             "alt": "Annex Engineering Reinforced Gantry Mounts"
+          },
+          "z-belts-prep.jpg": {
+            "title": "Z Belts Prep",
+            "alt": "Using Zip Ties to support the gantry whilst installing the belts"
+          },
+          "reinforced-gantry-mounts-installed.jpg": {
+            "title": "Reinforced Gantry Mounts Installed",
+            "alt": "Annex Enginnering Reinforced Gantry Mounts installed in the printer"
+          },
+          "z-belts-installed.jpg": {
+            "title": "Z Belts Installed",
+            "alt": "Z Belts installed in the printer"
           },
           "z-belt-clips.jpg": {
             "title": "Z Belt Clips",
-            "caption": "",
             "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties"
           }
         },
