@@ -2,7 +2,7 @@
 title: Nevermore Filter
 heading: Assembling a Nevermore Filter
 date: 2022-03-16
-lastmod: 2024-05-16T23:10:55.227Z
+lastmod: 2025-08-26T21:32:04.427Z
 author: Mike Thomas
 description: The Nevermore filters the encosure to reduce the smell of printing ABS.
 preview: /assets/blog/nevermore-filter/nevermore-filter-hero.jpg
@@ -82,7 +82,7 @@ This version will be used on the [Voron 2.4](printer-voron-2.4)
 | TopFan MX7020GBH2            | 1        | 1        | [Nevermore StealthMax V2 Fan](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-fan/)                 |
 | Nevermore H14 HEPA           | 1        | 1        | [Nevermore Stealthmax V2 HEPA Filter](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-hepa-filter/) |
 
-## Printing Parts
+## Printing Parts (V1)
 
 ### :negative_squared_cross_mark: Mount
 
@@ -133,6 +133,102 @@ Dual colour Carbon Basket Lid and Pico Access Latch can be achieved with a filam
 | [LidPanelHolder](https://github.com/nevermore3d/StealthMax/blob/main/STLs/3_Lid/StealthMax/M_3.1_LidPanelHolder.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
 | [LidFrontHinge](https://github.com/nevermore3d/StealthMax/blob/main/STLs/3_Lid/3.2_LidFrontHinge.stl)                | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
 | [LidLatch](https://github.com/nevermore3d/StealthMax/blob/main/STLs/3_Lid/3.3_LidLatch.stl)                          | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+
+## Printing Parts (V2)
+
+### :negative_squared_cross_mark: Chamber Side Mounting
+
+| Item                                                                                                                                                  | Quantity | Material                                               | Printed | Notes                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ------------------------------------------------------ |
+| [BackPanelMount Body1](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                                                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | In main CAD file                                       |
+| [BackPanelMount Body2](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                                                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   | In main CAD file                                       |
+| ~[Standard_Intake_Exhaust](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/0_Chamber_Side_Mounting)~                           | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | Will replace with `EXHAUST_LATERAL_DIVERT(moving_bed)` |
+| [EXHAUST_LATERAL_DIVERT(moving_bed)](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/0_Chamber_Side_Mounting/Exhaust_Diverter) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                                                        |
+
+### :negative_squared_cross_mark: Flow Chamber
+
+| Item                                                                                                                                                               | Quantity | Material                                               | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | :-----: | ----- |
+| [Back_Panel_Spacer](https://github.com/nevermore3d/Stealthmax_V2/blob/main/Printable_Files/1_Flow_Chamber/Back_Panel_Spacer%5Bfor_3mm_back_panel_thickness%5D.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |       |
+| [FlowChamber](https://github.com/nevermore3d/Stealthmax_V2/blob/main/Printable_Files/1_Flow_Chamber/FlowChamber_BPM%5Ba%5D.stl)                                    | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |       |
+
+#### :negative_squared_cross_mark: Servo Exhaust Mechanism
+
+| Item                                                                        | Quantity | Material                                             | Printed | Notes            |
+| --------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ---------------- |
+| [Air_guide](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | In main CAD file |
+| [Exhaust_Latch](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | In main CAD file |
+| [Servo_Cap](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | In main CAD file |
+
+#### :negative_squared_cross_mark: Bottom Port
+
+| Item                                                                                                                                    | Quantity | Material                                             | Printed | Notes                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | --------------------------------------------------------- |
+| ~[17mm_ID_CPAP_intake_tube](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | intake duct should be used on both sides for even airflow |
+| ~[22mm_ID_CPAP_intake_tube](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | intake duct should be used on both sides for even airflow |
+| ~[3p_Microfit](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)~              | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | for BT connected stealthmax                               |
+| [5p_Microfit](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)                | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard Setup, for USB connected stealthmax              |
+| ~[PC6_Bottom_Bowden](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)~        | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | To add filament from below                                |
+| ~[PUG_Port_Cover](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)~           | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | For routing umbilicals through the stealthmax             |
+| [Spare_Port](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bottom_Port_Options)                 | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard Setup                                            |
+
+#### :negative_squared_cross_mark: Bowden Tube Intake Left
+
+| Item                                                                                                                                                | Quantity | Material                                             | Printed | Notes          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | -------------- |
+| [Triple_Blank](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)                    | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard Setup |
+| ~[Low_Blank_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~   | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M10_PC4_noLED_High_Blank](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M10_PC4_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M6_PC4_LED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~    | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M6_PC4_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+
+#### :negative_squared_cross_mark: Bowden Tube Intake Right
+
+| Item                                                                                                                                                | Quantity | Material                                             | Printed | Notes          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | -------------- |
+| ~[Triple_Blank](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~                  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| [Low_Blank_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | Standard Setup |
+| ~[Low_M10_PC4_noLED_High_Blank](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M10_PC4_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M6_PC4_LED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~    | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+| ~[Low_M6_PC4_noLED_High_M6_PC4](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/1_Flow_Chamber/Bowden_Tube_Intake_Options)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                |
+
+### :negative_squared_cross_mark: Main Chamber
+
+| Item                                                                                                                   | Quantity | Material                                               | Printed | Notes            |
+| ---------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ---------------- |
+| [Hexopus](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                                  | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+| [IntakeSensorStackAccessLatch](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+| [Main_Chamber](https://github.com/nevermore3d/Stealthmax_V2/blob/main/Printable_Files/2_Main_Chamber/Main_Chamber.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                  |
+| [PicoAccessLatch](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                          | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+| [ServoAccessLatch](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+
+### :negative_squared_cross_mark: Lid and Latches
+
+| Item                                                                         | Quantity | Material                                               | Printed | Notes            |
+| ---------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | ---------------- |
+| [LidFrame](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)       | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+| [LidLatch](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)       | 3        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+| [LidPanelHolder](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD) | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | In main CAD file |
+
+#### :negative_squared_cross_mark: Main Hinge
+
+| Item                                                                                                                                    | Quantity | Material                                               | Printed | Notes          |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | :-----: | -------------- |
+| ~[1,28_Display_Hinge](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/3_Lid_and_Latches/Main_Hinge_Options)~     | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| ~[KNOMI2_Touchscreen](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/3_Lid_and_Latches/Main_Hinge_Options)~     | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [Neopixel_Hinge](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/3_Lid_and_Latches/Main_Hinge_Options)           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   |                |
+| [PixelHolder](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/3_Lid_and_Latches/Main_Hinge_Options)              | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |   :x:   |                |
+| ~[Standard_Printed_Hinge](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/3_Lid_and_Latches/Main_Hinge_Options)~ | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |   :x:   | Standard Setup |
+
+### :negative_squared_cross_mark: Carbon and HEPA Container
+
+| Item                                                                                                                    | Quantity | Material                                             | Printed | Notes            |
+| ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | :-----: | ---------------- |
+| [Basket](https://github.com/nevermore3d/Stealthmax_V2/blob/main/Printable_Files/4_Carbon_and_HEPA_Container/Basket.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                  |
+| [Basket_Lid](https://github.com/nevermore3d/Stealthmax_V2/tree/main/Printable_Files/4_Carbon_and_HEPA_Container)        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   |                  |
+| [Handles](https://github.com/nevermore3d/Stealthmax_V2/tree/main/CAD)                                                   | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |   :x:   | In main CAD file |
 
 # Nevermore Micro V6
 
