@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-08-16T18:53:07.690Z
+lastmod: 2025-08-26T22:44:02.609Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -2065,10 +2065,10 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 
 #### PCB
 
-| Item             | Quantity | Received | Notes |
-| ---------------- | -------- | -------- | ----- |
-| UMIX Front Panel | 1        |          |       |
-| UMIX PCB         | 1        |          |       |
+| Item             | Quantity | Received | Notes      |
+| ---------------- | -------- | -------- | ---------- |
+| UMIX Front Panel | 1        |          | 1 On order |
+| UMIX PCB         | 1        |          | 1 On order |
 
 #### Capacitors
 
