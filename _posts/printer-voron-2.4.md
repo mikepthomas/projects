@@ -1003,29 +1003,12 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 
 ### :negative_squared_cross_mark: Mains Distribution
 
-![Wago Holder for Mains Power Distribution](/assets/blog/printer-voron-2.4/mains-distribution-wagos.jpg)
-
-| Item                                                                                                                             | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [wago_221-415_mount_3by5](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3by5.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 3.97m | 10.12g | £0.19 | :heavy_check_mark: |       |
-
-#### Assembly
-
-##### Parts Needed
-
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| M5x10 BHCS              | 2        |
-| M5 Post-install T-nut   | 2        |
-| WAGO 221-415 Lever-Nuts | 3        |
-
-### :negative_squared_cross_mark: Heated Bed Wago Holder
-
 ![Wago Holder to make removal of the heated bed easier](/assets/blog/printer-voron-2.4/heated-bed-wagos.jpg)
 
-| Item                                                                                                                             | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ---------------------------------------------- |
-| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.41m | 11.24g | £0.18 | :heavy_check_mark: | This is a Voron Users mod by `deepfriedheroin` |
+| Item                                                                                                                               | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ---------------------------------------------- |
+| ~[wago_221-415_mount_3by5](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/wago_221-415_mount_3by5.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         |                                                |
+| [v2_bed_wago](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/deepfriedheroin/v2_bed_wagos/stl/v2_bed_wago.stl)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 4.41m | 11.24g | £0.18 | :heavy_check_mark: | This is a Voron Users mod by `deepfriedheroin` |
 
 #### Assembly
 

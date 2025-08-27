@@ -1759,10 +1759,6 @@
             "title": "X/Y Endstop PCB",
             "alt": "Endstop pod for X/Y Endstop PCB"
           },
-          "mains-distribution-wagos.jpg": {
-            "title": "Mains Distribution Wagos",
-            "alt": "Wago Holder for Mains Power Distribution"
-          },
           "two-tone-rear-skirt.jpg": {
             "title": "Two-tone Rear Skirt",
             "alt": "Rear Skirt with both main and accent colours achieved with a filament swap"
