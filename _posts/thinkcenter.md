@@ -2,7 +2,7 @@
 title: Thinkcenter
 heading: Getting small machines to create a Proxmox cluster
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-08-20T13:18:06.341Z
+lastmod: 2025-08-28T16:41:34.471Z
 author: Mike Thomas
 description: Making old outdated machines do modern things.
 preview: /assets/blog/thinkcenter/thinkcenter-hero.jpg
@@ -51,6 +51,9 @@ The replacement for "Shed Server" was named "Lenny" (just because it is a Lenovo
 | -------- | ----- | ----------------------------------------------- | --------- | ---- | ----------------------------------------------------------------------- | ------------------------------ | -------------------- | --------------------------------------- |
 | i5-8500T | M720Q | [Proxmox VE (8.4.11)](https://www.proxmox.com/) |           |      | 256GB Sandisk 2.5" SATA SSD & Intel PRO I350 Quad Port Gigabit Ethernet | 512GB Micron 3400 M.2 NVME SSD | 16GB Ramaxel 2666MHz | With Lenovo VESA Mount to mount to wall |
 
+> [!NOTE]
+> This machine will not be part of the main Proxmox cluster but will replace my main router with a OPNsense VM, and will also host VMs for [Proxmox Datacenter Manager](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-alpha) and [Sonatype Nexus Repository Community Edition](https://www.sonatype.com/products/nexus-community-edition-download)
+
 ### Proxmox Cluster
 
 | CPU      | Case  | Flashed with                                    | Bluetooth                | Wifi                            | Extra                                                                   | NVME SDD                         | Memory                | Notes                                         |
@@ -69,7 +72,109 @@ The replacement for "Shed Server" was named "Lenny" (just because it is a Lenovo
 | i5-9400T | M720Q | Windows 11 Pro 64                              | Intel Bluetooth wireless | Intel Wireless 8265              | 256GB Micron 1300 2.5" SATA SSD |                             | 16GB SK Hynix 2666MHz |                                                                 |
 | i7-7700T | M710Q | [Proxmox VE (9.0.5)](https://www.proxmox.com/) | Intel Bluetooth wireless | Intel Dual Band Wireless-AC 3165 | 1TB WD Black 2.5" SATA HDD      | 256GB WD Black M.2 NVME SSD | 16GB SK Hynix 2400MHz | Currently using to test upgrade to Proxmox 9 with Debian Trixie |
 
+# Sonatype Nexus Repository
+
+As most of the Operating Systems I use are based upon Debian I have chosen to install Nexus to host APT proxies for the main Debian repositories so that updates will only be downloaded once and each machine can then retrieve the local copy from Nexus rather than having to re-download the updates from the internet.
+
+## Download Nexus and Install to `/srv`
+
+```sh
+cd Downloads/
+wget https://download.sonatype.com/nexus/3/nexus-3.83.1-03-linux-x86_64.tar.gz
+tar xvf nexus-3.83.1-03-linux-x86_64.tar.gz
+sudo mv nexus-3.83.1-03 /srv
+sudo mv sonatype-work/ /srv
+sudo adduser nexus --system
+sudo chown -R nexus:nogroup /srv/nexus-3.83.1-03/
+sudo chown -R nexus:nogroup /srv/sonatype-work/
+```
+
+## Update Config
+
+Add the following to `/srv/nexus-3.83.1-03/bin/nexus.rc`:
+
+```
+run_as_user="nexus"
+```
+
+Add the following to `/srv/nexus-3.83.1-03/bin/nexus.vmoptions`:
+
+```
+# Updated Memory Size
+  -Xms1200m
+  -Xmx1200m
+  -XX:MaxDirectMemorySize=2G
+# Added User Root to fix file permissions error on nexus boot
+-Djava.util.prefs.userRoot=../sonatype-work/nexus3/javaprefs
+```
+
+## Install As Service
+
+Create a symbolic link to the binary of the latest Nexus version:
+
+```sh
+sudo ln -s /srv/nexus-3.83.1-03/bin/nexus /etc/init.d/nexus
+```
+
+Create the file `/etc/systemd/system/nexus.service` with the content:
+
+```
+[Unit]
+Description=nexus service
+After=network.target
+
+[Service]
+Type=forking
+LimitNOFILE=65536
+ExecStart=/etc/init.d/nexus start
+ExecStop=/etc/init.d/nexus stop
+User=nexus
+Restart=on-abort
+TimeoutSec=600
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Enable and start the service and check the logs:
+
+```sh
+sudo systemctl daemon-reload
+sudo systemctl enable nexus.service
+sudo systemctl start nexus.service
+journalctl -xeu nexus.service
+tail -f /srv/sonatype-work/nexus3/log/nexus.log
+cat /srv/sonatype-work/nexus3/log/nexus.log | grep ERROR
+cat /srv/sonatype-work/nexus3/log/nexus.log | grep WARN
+```
+
+## Nexus Frontend
+
+```sh
+cat /opt/sonatype-work/nexus3/admin.password
+```
+
+- Visit http://localhost:8081/
+- Change Admin Password
+- Add APT Proxies
+  - [adoptium](https://packages.adoptium.net/artifactory/deb)
+  - [debian](http://deb.debian.org/debian/)
+  - [debian-security](http://security.debian.org/debian-security/)
+  - [docker-debian](https://download.docker.com/linux/debian)
+  - [docker-raspbian](https://download.docker.com/linux/raspbian)
+  - [mozilla](https://packages.mozilla.org/apt)
+  - [openmediavault-packages](https://openmediavault.github.io/packages/)
+  - [openmediavault-public](http://packages.openmediavault.org/public/)
+  - [pi-top-os](https://packages.pi-top.com/pi-top-os/debian/)
+  - [proxmox-bs](http://download.proxmox.com/debian/pbs)
+  - [proxmox-dm](http://download.proxmox.com/debian/pdm)
+  - [proxmox-ve](http://download.proxmox.com/debian/pve)
+  - [raspbian](http://raspbian.raspberrypi.org/raspbian/)
+  - [raspi](http://archive.raspberrypi.com/debian/)
+
 # Proxmox Virtual Environment (VE)
+
+Each of the nodes that I want to run Proxmox on will be set up with the following config.
 
 ## Proxmox VE Post Install Script
 
