@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-08-26T22:44:02.609Z
+lastmod: 2025-08-29T15:56:40.652Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -196,6 +196,9 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Ceramic Capacitor (100nF)      | 100      | 115      |       |
 | Ceramic Capacitor (10nF)       | 100      | 103      |       |
 | Ceramic Capacitor (33pF)       | 100      | 105      |       |
+| Electrolytic Capacitor (47uF)  | 5        | 5        |       |
+| Electrolytic Capacitor (33uF)  | 5        | 5        |       |
+| Electrolytic Capacitor (10uF)  | 5        | 5        |       |
 | Electrolytic Capacitor (4.7uF) | 4        | 4        |       |
 | Electrolytic Capacitor (1uF)   | 4        | 4        |       |
 | Film Capacitor (1uF)           | 10       | 10       |       |
@@ -250,7 +253,7 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 | Item                                  | Quantity | Received | Notes |
 | ------------------------------------- | -------- | -------- | ----- |
-| Aluminum Knob for Alpha Potentiometer | 19       | 19       |       |
+| Aluminum Knob for Alpha Potentiometer | 17       | 17       |       |
 | PCB Mount Trim Potentiometer (100K)   | 10       | 10       |       |
 | PCB Mount Trim Potentiometer (50K)    | 10       | 10       |       |
 | PCB Mount Trim Potentiometer (20K)    | 10       | 10       |       |
@@ -301,13 +304,13 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | Item                                      | Quantity | Received | Notes                                                  |
 | ----------------------------------------- | -------- | -------- | ------------------------------------------------------ |
 | 5mm Red Square LED                        | 1        | 1        |                                                        |
-| 10 Pin Power Header                       | 8        | 8        |                                                        |
+| 10 Pin Power Header                       | 6        | 6        |                                                        |
 | 16 Pin Power Header                       | 2        | 2        |                                                        |
 | 16-16 pin Power Cable                     | 2        | 2        | 30cm length                                            |
 | 10K thermistor                            | 20       | 20       |                                                        |
 | DW3 DPDT ON-ON Sub-mini Toggle Switch     | 1        | 1        | For use with [Labor Modular Interface](#edu-diy-labor) |
 | DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        | 1        | For use with [Labor Modular Interface](#edu-diy-labor) |
-| Mono Audio Jack                           | 29       | 29       |                                                        |
+| Mono Audio Jack                           | 3        | 3        |                                                        |
 
 ## Oscilloscope
 
@@ -1813,7 +1816,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 | ------------------------------ | -------- | ------------ | ----- |
 | Ceramic Capacitor (100nF)      | 3        | 100 in stock |       |
 | Ceramic Capacitor (10nF)       | 1        | 100 in stock |       |
-| Electrolytic Capacitor (10uF)  | 3        | 2            |       |
+| Electrolytic Capacitor (10uF)  | 3        | 3            |       |
 | Electrolytic Capacitor (4.7uF) | 1        | 1            |       |
 | Electrolytic Capacitor (1uF)   | 1        | 1            |       |
 
@@ -1958,10 +1961,10 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### Potentiometers
 
-| Item                                  | Quantity | Received    | Notes |
-| ------------------------------------- | -------- | ----------- | ----- |
-| Aluminum Knob for Alpha Potentiometer | 2        | 19 in stock |       |
-| Vertical Alpha Potentiometer (B50K)   | 2        |             |       |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Aluminum Knob for Alpha Potentiometer | 2        | 2        |       |
+| Vertical Alpha Potentiometer (B50K)   | 2        |          |       |
 
 #### Resistors
 
@@ -1980,11 +1983,11 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### Misc
 
-| Item                  | Quantity | Received    | Notes |
-| --------------------- | -------- | ----------- | ----- |
-| 10 Pin Power Header   | 1        | 8 in stock  |       |
-| 10-16 pin Power Cable | 1        |             |       |
-| Mono Audio Jack       | 2        | 29 in stock |       |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        |          |       |
+| Mono Audio Jack       | 2        | 2        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2065,17 +2068,17 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 
 #### PCB
 
-| Item             | Quantity | Received | Notes      |
-| ---------------- | -------- | -------- | ---------- |
-| UMIX Front Panel | 1        |          | 1 On order |
-| UMIX PCB         | 1        |          | 1 On order |
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| UMIX Front Panel | 1        | 1        |       |
+| UMIX PCB         | 1        | 1        |       |
 
 #### Capacitors
 
 | Item                          | Quantity | Received     | Notes                    |
 | ----------------------------- | -------- | ------------ | ------------------------ |
 | Ceramic Capacitor (100nF)     | 6        | 100 in stock |                          |
-| Electrolytic Capacitor (22uF) | 2        | 5 in stock   | I will replace with 20uF |
+| Electrolytic Capacitor (22uF) | 2        | 5 in stock   | I will replace with 33uF |
 
 #### Diodes
 
@@ -2092,12 +2095,12 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 
 #### Resistors
 
-| Item                       | Quantity | Received     | Notes                                                                                                                       |
-| -------------------------- | -------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Metal Film resistor (100K) | 10       | 100 in stock |                                                                                                                             |
-| Metal Film resistor (50K)  | 4        |              | I will replace with 100K (As can be seen in the parts image on the [eBay listing](https://www.ebay.co.uk/itm/176643499026)) |
-| Metal Film resistor (1K)   | 2        | 100 in stock |                                                                                                                             |
-| Metal Film resistor (10R)  | 2        | 100 in stock |                                                                                                                             |
+| Item                       | Quantity | Received     | Notes                   |
+| -------------------------- | -------- | ------------ | ----------------------- |
+| Metal Film resistor (100K) | 10       | 100 in stock |                         |
+| Metal Film resistor (50K)  | 4        | 105 in stock | I will replace with 51K |
+| Metal Film resistor (1K)   | 2        | 100 in stock |                         |
+| Metal Film resistor (10R)  | 2        | 100 in stock |                         |
 
 #### Misc
 
@@ -2105,10 +2108,10 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 | --------------------- | -------- | ------------ | ----- |
 | 2 Pin Header          | 2        | 2 in stock   |       |
 | 3 Pin Header          | 1        | 1 in stock   |       |
-| 10 Pin Power Header   | 1        | 8 in stock   |       |
+| 10 Pin Power Header   | 1        | 1            |       |
 | 10-16 pin Power Cable | 1        |              |       |
 | Jumper Cap 2.54mm     | 3        | 109 in stock |       |
-| Mono Audio Jack       | 8        | 29 in stock  |       |
+| Mono Audio Jack       | 8        | 8            |       |
 
 ### :negative_squared_cross_mark: Assembly
 
