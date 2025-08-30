@@ -135,6 +135,21 @@ git clone https://github.com/Arksine/katapult
 
 # Flash Klipper to MCU
 
+Flashing the Klipper firmware to the MCU can be slightly different depending on the type of Micro-controller architecture that the MCU uses.
+
+The basic firmware flashing steps are as follows:
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig
+make
+```
+
+However, as I have many different controllers I have opted to use the `KCONFIG_CONFIG` method of configuring allowing me to save the multiple configs so they can be easily reused when I need to update the firmware.
+
+You can find the configs used in the sections below in my [Klipper Config Firmware Repository](https://github.com/mikepthomas/klipper_config/tree/main/Firmware).
+
 ## Anet A8
 
 ### Klipper Firmware Configuration
