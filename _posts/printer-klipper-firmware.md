@@ -2,7 +2,7 @@
 title: Klipper Firmware
 heading: Configuring the software to run a 3D Printer
 date: 2025-08-29T22:45:11.067Z
-lastmod: 2025-08-30T20:19:32.258Z
+lastmod: 2025-08-30T23:45:25.299Z
 author: Mike Thomas
 description: Configuring MainsailOS with all the software to run Klipper on my 3D Printer.
 preview: /assets/blog/printer-klipper-firmware/klipper-firmware-hero.jpg
@@ -12,7 +12,6 @@ related:
   - /projects/printer-voron-1.8
   - /projects/printer-voron-2.4
   - /projects/single-board-computers
-draft: true
 tags:
   - Raspberry Pi
 categories:
@@ -650,6 +649,14 @@ cp config.skr_1.4_serial ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_1.4_serial -j4
 ```
 
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (LPC176x)  --->
+    Processor model (lpc1768 (100 MHz))  --->
+    Bootloader offset (16KiB bootloader)  --->
+    Communication interface (Serial (on UART0 P0.3/P0.2))  --->
+```
+
 #### USB
 
 ```sh
@@ -658,6 +665,14 @@ make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_usb
 cp config.skr_1.4_usb ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_1.4_usb -j4
+```
+
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (LPC176x)  --->
+    Processor model (lpc1768 (100 MHz))  --->
+    Bootloader offset (16KiB bootloader)  --->
+    Communication interface (USB)  --->
 ```
 
 ## SKR 1.4 Turbo
@@ -676,6 +691,14 @@ cp config.skr_1.4_turbo_serial ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
 ```
 
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (LPC176x)  --->
+    Processor model (lpc1769 (120 MHz))  --->
+    Bootloader offset (16KiB bootloader)  --->
+    Communication interface (Serial (on UART0 P0.3/P0.2))  --->
+```
+
 #### USB
 
 ```sh
@@ -684,6 +707,14 @@ make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_turbo_usb
 cp config.skr_1.4_turbo_usb ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
+```
+
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (LPC176x)  --->
+    Processor model (lpc1769 (120 MHz))  --->
+    Bootloader offset (16KiB bootloader)  --->
+    Communication interface (USB)  --->
 ```
 
 ## SKR Pico
@@ -702,6 +733,21 @@ cp config.skr_pico_can ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_pico_can -j4
 ```
 
+```
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
+    Processor model (rp2040)  --->
+    Bootloader offset (No bootloader)  --->
+    Flash chip (W25Q080 with CLKDIV 2)  --->
+    Communication Interface (USB to CAN bus bridge)  --->
+(1) CAN RX gpio number
+(0) CAN TX gpio number
+    USB ids  --->
+(500000) CAN bus speed
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+```
+
 #### Serial
 
 ```sh
@@ -712,6 +758,14 @@ cp config.skr_pico_serial ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_pico_serial -j4
 ```
 
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
+    Processor model (rp2040)  --->
+    Bootloader offset (No bootloader)  --->
+    Communication Interface (UART0 on GPIO0/GPIO1)  --->
+```
+
 #### USB
 
 ```sh
@@ -720,6 +774,14 @@ make clean
 make menuconfig KCONFIG_CONFIG=config.skr_pico_usb
 cp config.skr_pico_usb ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.skr_pico_usb -j4
+```
+
+```
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
+    Processor model (rp2040)  --->
+    Bootloader offset (No bootloader)  --->
+    Communication Interface (USBSERIAL)  --->
 ```
 
 ## Super8
@@ -737,6 +799,20 @@ make KCONFIG_CONFIG=config.super8_katapult -j4
 cp out/deployer.bin ../printer_data/config/
 ```
 
+```
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32F407)  --->
+    Build Katapult deployment application (32KiB bootloader)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    Application start offset (32KiB offset)  --->
+    USB ids  --->
+()  GPIO pins to set on bootloader entry
+[*] Support bootloader entry on rapid double click of reset button
+[ ] Enable bootloader entry on button (or gpio) state
+[ ] Enable Status LED
+```
+
 ### Klipper Firmware Configuration
 
 ```sh
@@ -746,6 +822,18 @@ make menuconfig KCONFIG_CONFIG=config.super8_klipper
 cp config.super8_klipper ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.super8_klipper -j4
 make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/usb-katapult_stm32f407xx_5A0034000250304235323120-if00
+```
+
+```
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32F407)  --->
+    Bootloader offset (32KiB bootloader)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    USB ids  --->
+[*] Optimize stepper code for 'step on both edges' (NEW)
+()  GPIO pins to set at micro-controller startup (NEW)
 ```
 
 # RPi microcontroller
