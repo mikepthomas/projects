@@ -13,6 +13,7 @@ related:
   - /projects/printer-voron-1.8-mods
   - /projects/printer-hypercube
   - /projects/nevermore-filter
+  - /projects/printer-klipper-firmware
 draft: false
 tags:
   - CoreXY

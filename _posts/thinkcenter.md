@@ -186,6 +186,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 ## Update APT Repositories
 
+One of the first things I do when setting up a new machine is to update apt to use the Nexus repository we set up in the last section.
+
 ```sh
 nano /etc/apt/auth.conf.d/nexus.mikethomas.info.conf
 nano /etc/apt/sources.list

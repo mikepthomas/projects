@@ -1944,6 +1944,12 @@
             "alt": "My old \"Lenny\" server",
             "title": "Thinkcenter Hero"
           }
+        },
+        "printer-klipper-firmware": {
+          "klipper-firmware-hero.jpg": {
+            "title": "Klipper Firmware Hero",
+            "alt": "Klipper MOTD screenshot"
+          }
         }
       }
     }

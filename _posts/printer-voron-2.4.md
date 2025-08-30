@@ -12,6 +12,7 @@ related:
   - /projects/voron-stealthburner
   - /projects/enraged-rabbit-carrot-feeder-2.0
   - /projects/nevermore-filter
+  - /projects/printer-klipper-firmware
 draft: false
 tags:
   - CoreXY

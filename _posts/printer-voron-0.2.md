@@ -9,6 +9,7 @@ preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
 related:
   - https://www.vorondesign.com/voron0.2
+  - /projects/printer-klipper-firmware
 draft: false
 tags:
   - CoreXY
