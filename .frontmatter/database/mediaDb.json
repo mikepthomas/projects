@@ -553,10 +553,6 @@
             "alt": "Flashing an EEPROM with a Raspberry Pi",
             "title": "EEPROM Connection to RPi"
           },
-          "klipper-config.jpg": {
-            "alt": "Klipper Firmware Configuration screen",
-            "title": "Klipper Config"
-          },
           "enable-spi.jpg": {
             "alt": "Using raspi-config to enable the SPI interface",
             "title": "Enable SPI"

@@ -23,48 +23,31 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import { ReactNode } from 'react';
+import { Children, ReactNode } from 'react';
+import { Banner, Header, Menu } from '../menuconfig';
 
-import ColorCommon, {
-  ColorOldStyle,
-  ColorPi1,
-  ColorPi2,
-  ColorPi3,
-  ColorPi4,
-  ColorPi5,
-  ColorPiCompute,
-  ColorPiPico,
-  ColorPiZero,
-} from './boards';
-import ColorPins, { ColorSodimm } from './pins';
-import ColorMenu, { ColorKatapult, ColorKlipper } from './menus';
-import { Props } from './raspberry-pi';
+export default function ColorMenu(children: ReactNode) {
+  switch (Children.toArray(children).toString()) {
+    // Header
+    case '(Top)\n':
+      return <Header>(Top)</Header>;
 
-const ColorParts = (children: ReactNode) => {
-  [
-    ColorCommon,
-    ColorOldStyle,
-    ColorPi1,
-    ColorPi2,
-    ColorPi3,
-    ColorPi4,
-    ColorPi5,
-    ColorPiCompute,
-    ColorPiPico,
-    ColorPiZero,
-    ColorPins,
-    ColorSodimm,
-    ColorMenu,
-    ColorKatapult,
-    ColorKlipper,
-  ].forEach((func) => (children = func(children)));
-  return children;
-};
+    // Footer
+    case '[Space/Enter] Toggle/enter      [?] Help            [/] Search\n':
+      return (
+        <>
+          <Menu>&nbsp;</Menu>
+          <Banner>&nbsp;</Banner>
+          <Header>[Space/Enter] Toggle/enter [?] Help [/] Search</Header>
+        </>
+      );
+    case '[Q] Quit (prompts for save)     [ESC] Leave menu\n':
+      return <Header>[Q] Quit (prompts for save) [ESC] Leave menu</Header>;
 
-const RaspberryPiColoriser = ({ children, className }: Props) => (
-  <span className={className}>
-    {className === 'code-line' ? ColorParts(children) : children}
-  </span>
-);
+    default:
+      return children;
+  }
+}
 
-export default RaspberryPiColoriser;
+export { default as ColorKatapult } from './katapult';
+export { default as ColorKlipper } from './klipper';

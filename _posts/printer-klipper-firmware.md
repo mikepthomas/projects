@@ -164,9 +164,13 @@ make KCONFIG_CONFIG=config.anet_a8 -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega1284p)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## Arduino Mega
@@ -184,9 +188,13 @@ make KCONFIG_CONFIG=config.arduino_mega -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega2560)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## Arduino Uno
@@ -204,15 +212,21 @@ make KCONFIG_CONFIG=config.arduino_uno -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega328p)  --->
     Optional features (to reduce code size)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### Optional features (to reduce code size)
 
 ```
+(Top) → Optional features (to reduce code size)
+                                        Klipper Firmware Configuration
 [*] Support micro-controller based ADC (analog to digital)
 [ ] Support communicating with external chips via SPI bus
 [ ] Support communicating with external chips via I2C bus
@@ -226,6 +240,8 @@ make KCONFIG_CONFIG=config.arduino_uno -j4
 [*] Support HD44780 LCD display
     *** External ADC type chips ***
 [ ] Support HX711 and HX717 ADC chips
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## Easy BRD
@@ -247,12 +263,16 @@ sudo bossac -i -d -p /dev/ttyACM1 -e -w -v -R --offset=0x2000 out/klipper.bin
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (SAMC21/SAMD21/SAMD51/SAME5x)  --->
     Processor model (SAMD21G18)  --->
     Bootloader offset (8KiB bootloader)  --->
     Clock Reference (Internal clock)  --->
     Communication interface (USB)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## EBB SB2240 CAN V1.0
@@ -273,6 +293,8 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -285,6 +307,8 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 [ ] Enable bootloader entry on button (or gpio) state
 [*] Enable Status LED
 (PA13)  Status LED GPIO Pin
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -299,6 +323,8 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -311,6 +337,8 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 [ ] Enable bootloader entry on button (or gpio) state
 [*] Enable Status LED
 (PA13)  Status LED GPIO Pin
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ### Klipper Firmware Configuration
@@ -327,6 +355,8 @@ make KCONFIG_CONFIG=config.sb2240_can_klipper flash FLASH_DEVICE=1209:beba
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -336,6 +366,8 @@ make KCONFIG_CONFIG=config.sb2240_can_klipper flash FLASH_DEVICE=1209:beba
 (1000000) CAN bus speed
 [*] Optimize stepper code for 'step on both edges'
 ()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -350,6 +382,8 @@ make KCONFIG_CONFIG=config.sb2240_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -357,8 +391,10 @@ make KCONFIG_CONFIG=config.sb2240_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
     Clock Reference (8 MHz crystal)  --->
     Communication interface (USB (on PA11/PA12))  --->
     USB ids  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## EBB36 V1.0
@@ -379,6 +415,8 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F072)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -391,6 +429,8 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 [ ] Enable bootloader entry on button (or gpio) state
 [*] Enable Status LED
 (PA14)  Status LED GPIO Pin
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ### Klipper Firmware Configuration
@@ -407,6 +447,8 @@ make KCONFIG_CONFIG=config.ebb36_1.0_klipper flash FLASH_DEVICE=/dev/serial/by-i
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F072)  --->
@@ -414,8 +456,10 @@ make KCONFIG_CONFIG=config.ebb36_1.0_klipper flash FLASH_DEVICE=/dev/serial/by-i
     Clock Reference (8 MHz crystal)  --->
     Communication interface (USB (on PA11/PA12))  --->
     USB ids  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## EBB42 V1.1
@@ -436,6 +480,8 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -448,6 +494,8 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 [ ] Enable bootloader entry on button (or gpio) state
 [*] Enable Status LED
 (PA13)  Status LED GPIO Pin
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ### Klipper Firmware Configuration
@@ -464,6 +512,8 @@ make KCONFIG_CONFIG=config.ebb42_1.1_klipper flash FLASH_DEVICE=/dev/serial/by-i
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -471,8 +521,10 @@ make KCONFIG_CONFIG=config.ebb42_1.1_klipper flash FLASH_DEVICE=/dev/serial/by-i
     Clock Reference (8 MHz crystal)  --->
     Communication interface (USB (on PA11/PA12))  --->
     USB ids  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## Klipper Expander
@@ -492,6 +544,8 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F042)  --->
@@ -500,13 +554,17 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
     Communication interface (USB (on PA9/PA10))  --->
     USB ids  --->
     Optional features (to reduce code size)  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### Optional features (to reduce code size)
 
 ```
+(Top) → Optional features (to reduce code size)
+                                        Klipper Firmware Configuration
 [*] Support micro-controller based ADC (analog to digital)
 [*] Support communicating with external chips via SPI bus
 [*]     Support software based SPI "bit-banging"
@@ -531,6 +589,8 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
     *** Other external sensor chips ***
 [ ] Support ldc1612 eddy current sensor
 [ ] Support angle sensors
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## PITB
@@ -550,6 +610,8 @@ make KCONFIG_CONFIG=config.pitb_can_katapult -j4
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Flash chip (W25Q080 with CLKDIV 2)  --->
@@ -562,6 +624,8 @@ make KCONFIG_CONFIG=config.pitb_can_katapult -j4
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
 [ ] Enable Status LED
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -575,6 +639,8 @@ make KCONFIG_CONFIG=config.pitb_katapult -j4
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Flash chip (W25Q080 with CLKDIV 2)  --->
@@ -585,6 +651,8 @@ make KCONFIG_CONFIG=config.pitb_katapult -j4
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
 [ ] Enable Status LED
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ### Klipper Firmware Configuration
@@ -600,6 +668,8 @@ make KCONFIG_CONFIG=config.pitb_can_klipper -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -608,8 +678,10 @@ make KCONFIG_CONFIG=config.pitb_can_klipper -j4
 (14) CAN RX gpio number
 (13) CAN TX gpio number
 (1000000) CAN bus speed
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -623,14 +695,18 @@ make KCONFIG_CONFIG=config.pitb_klipper -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Bootloader offset (16KiB bootloader)  --->
     Communication Interface (USBSERIAL)  --->
     USB ids  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## SKR 1.4
@@ -650,11 +726,15 @@ make KCONFIG_CONFIG=config.skr_1.4_serial -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1768 (100 MHz))  --->
     Bootloader offset (16KiB bootloader)  --->
     Communication interface (Serial (on UART0 P0.3/P0.2))  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -668,11 +748,15 @@ make KCONFIG_CONFIG=config.skr_1.4_usb -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1768 (100 MHz))  --->
     Bootloader offset (16KiB bootloader)  --->
     Communication interface (USB)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## SKR 1.4 Turbo
@@ -692,11 +776,15 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1769 (120 MHz))  --->
     Bootloader offset (16KiB bootloader)  --->
     Communication interface (Serial (on UART0 P0.3/P0.2))  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -710,11 +798,15 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1769 (120 MHz))  --->
     Bootloader offset (16KiB bootloader)  --->
     Communication interface (USB)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## SKR Pico
@@ -734,6 +826,8 @@ make KCONFIG_CONFIG=config.skr_pico_can -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -746,6 +840,8 @@ make KCONFIG_CONFIG=config.skr_pico_can -j4
 (500000) CAN bus speed
 [*] Optimize stepper code for 'step on both edges'
 ()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### Serial
@@ -759,11 +855,15 @@ make KCONFIG_CONFIG=config.skr_pico_serial -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Bootloader offset (No bootloader)  --->
     Communication Interface (UART0 on GPIO0/GPIO1)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 #### USB
@@ -777,11 +877,15 @@ make KCONFIG_CONFIG=config.skr_pico_usb -j4
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Bootloader offset (No bootloader)  --->
     Communication Interface (USBSERIAL)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## Super8
@@ -800,6 +904,8 @@ cp out/deployer.bin ../printer_data/config/
 ```
 
 ```
+(Top)
+                                        Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F407)  --->
     Build Katapult deployment application (32KiB bootloader)  --->
@@ -811,6 +917,8 @@ cp out/deployer.bin ../printer_data/config/
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
 [ ] Enable Status LED
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ### Klipper Firmware Configuration
@@ -825,6 +933,8 @@ make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 ```
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F407)  --->
@@ -832,15 +942,19 @@ make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
     Clock Reference (8 MHz crystal)  --->
     Communication interface (USB (on PA11/PA12))  --->
     USB ids  --->
-[*] Optimize stepper code for 'step on both edges' (NEW)
-()  GPIO pins to set at micro-controller startup (NEW)
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 # RPi microcontroller
 
-Get the most up to date info on the [official page](https://www.klipper3d.org/RPi_microcontroller.html).
+To get the most up-to-date info for the latest Klipper version visit the [Klipper RPi micro-controller setup guide](https://www.klipper3d.org/RPi_microcontroller.html).
 
-## Install the rc script
+## Install the RC Script
+
+Copy and enable the `klipper-mcu.service` for systemd:
 
 ```sh
 cd ~/klipper/
@@ -848,7 +962,9 @@ sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/
 sudo systemctl enable klipper-mcu.service
 ```
 
-## Building the micro-controller code
+## Building the Micro-Controller Code
+
+Configure the Klipper micro-controller code:
 
 ```sh
 cd ~/klipper/
@@ -860,8 +976,12 @@ cp config.rpi ../printer_data/config/Firmware/
 Set `Micro-controller Architecture` to `Linux process`...
 
 ```
+(Top)
+                                        Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Linux process)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 then save and exit and run:
@@ -870,6 +990,11 @@ then save and exit and run:
 sudo service klipper stop
 make flash KCONFIG_CONFIG=config.rpi
 sudo service klipper start
+```
+
+If klippy.log reports a `Permission denied` error when attempting to connect to `/tmp/klipper_host_mcu` then you need to add your user to the tty group. The following command will add the `pi` user to the `tty` group:
+
+```bash
 sudo usermod -a -G tty pi
 ```
 

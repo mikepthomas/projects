@@ -25,46 +25,24 @@
  */
 import { ReactNode } from 'react';
 
-import ColorCommon, {
-  ColorOldStyle,
-  ColorPi1,
-  ColorPi2,
-  ColorPi3,
-  ColorPi4,
-  ColorPi5,
-  ColorPiCompute,
-  ColorPiPico,
-  ColorPiZero,
-} from './boards';
-import ColorPins, { ColorSodimm } from './pins';
-import ColorMenu, { ColorKatapult, ColorKlipper } from './menus';
-import { Props } from './raspberry-pi';
+import styles from './menuconfig.module.scss';
 
-const ColorParts = (children: ReactNode) => {
-  [
-    ColorCommon,
-    ColorOldStyle,
-    ColorPi1,
-    ColorPi2,
-    ColorPi3,
-    ColorPi4,
-    ColorPi5,
-    ColorPiCompute,
-    ColorPiPico,
-    ColorPiZero,
-    ColorPins,
-    ColorSodimm,
-    ColorMenu,
-    ColorKatapult,
-    ColorKlipper,
-  ].forEach((func) => (children = func(children)));
-  return children;
+export type Props = {
+  children: ReactNode;
 };
 
-const RaspberryPiColoriser = ({ children, className }: Props) => (
-  <span className={className}>
-    {className === 'code-line' ? ColorParts(children) : children}
-  </span>
+export const Banner = ({ children }: Props) => (
+  <span className={styles.banner}>{children}</span>
 );
 
-export default RaspberryPiColoriser;
+export const Header = ({ children }: Props) => (
+  <span className={styles.header}>{children}</span>
+);
+
+export const Menu = ({ children }: Props) => (
+  <span className={styles.menu}>{children}</span>
+);
+
+export const Selected = ({ children }: Props) => (
+  <span className={styles.selected}>{children}</span>
+);

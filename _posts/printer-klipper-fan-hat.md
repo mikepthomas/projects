@@ -560,13 +560,11 @@ Restart the Pi and we can then [copy the config out of the device tree into the 
 
 # Klipper Setup
 
-You should just be able to go through the [Klipper RPi micro-controller setup guide](https://www.klipper3d.org/RPi_microcontroller.html), and that page will be the most up-to-date with the latest Klipper version.
+To get the most up-to-date info for the latest Klipper version visit the [Klipper RPi micro-controller setup guide](https://www.klipper3d.org/RPi_microcontroller.html).
 
 ## Install the RC Script
 
-If you want to use the host as a secondary MCU the klipper_mcu process must run before the klippy process.
-
-After installing Klipper, install the script. run:
+Copy and enable the `klipper-mcu.service` for systemd:
 
 ```bash
 cd ~/klipper/
@@ -576,18 +574,25 @@ sudo systemctl enable klipper-mcu.service
 
 ## Building the Micro-Controller Code
 
-To compile the Klipper micro-controller code, start by configuring it for the `Linux process`:
+Configure the Klipper micro-controller code:
 
 ```bash
 cd ~/klipper/
 make menuconfig
 ```
 
-In the menu, set `Micro-controller Architecture` to `Linux process`, then save and exit.
+Set `Micro-controller Architecture` to `Linux process`...
 
-![Klipper Firmware Configuration screen](/assets/blog/printer-klipper-fan-hat/klipper-config.jpg)
+```
+(Top)
+                                        Klipper Firmware Configuration
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (Linux process)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
 
-To build and install the new micro-controller code, run:
+then save and exit and run:
 
 ```bash
 sudo service klipper stop
