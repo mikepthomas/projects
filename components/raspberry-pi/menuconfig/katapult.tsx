@@ -29,7 +29,7 @@ import { Background, Banner, Menu } from '../menus';
 export default function ColorKatapult(children: ReactNode) {
   switch (Children.toArray(children).toString()) {
     // Header
-    case '                                        Katapult Configuration\n':
+    case '                         Katapult Configuration\n':
       return <Banner>Katapult Configuration</Banner>;
 
     // Main Menu

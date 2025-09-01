@@ -117,7 +117,9 @@ export default function ColorMenu(children: ReactNode) {
           <Background>
             <span className="d-none d-xl-block">         </span>
             <span className="d-none d-xxl-block">         </span> 
-            <Shadow> </Shadow>
+            <Shadow>
+                                                                                              
+            </Shadow>
             <span className="d-none d-md-block d-lg-none d-xl-block">
                        
             </span>

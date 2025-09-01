@@ -179,7 +179,7 @@ I have received the printed circuit boards for Version 2 of the fan hat however 
 
 We will need to install Git so we can check out the Raspberry Pi Hats Repository as it is not included in the base Raspberry Pi OS image.
 
-```bash
+```sh
 pi@raspberrypi:~ $ sudo apt update
 ...
 pi@raspberrypi:~ $ sudo apt install git
@@ -204,7 +204,7 @@ Setting up git (1:2.30.2-1+deb11u2) ...
 
 Next we need to get the code from the Raspberry Pi Hats Repository.
 
-```bash
+```sh
 pi@raspberrypi:~ $ git clone https://github.com/raspberrypi/hats.git
 Cloning into 'hats'...
 remote: Enumerating objects: 624, done.
@@ -219,7 +219,7 @@ Resolving deltas: 100% (366/366), done.
 
 Once we have cloned the repository we need to compile the tools to make the EEPROM image and flash it to the chip.
 
-```bash
+```sh
 pi@raspberrypi:~ $ cd hats/eepromutils/
 pi@raspberrypi:~/hats/eepromutils $ make -j4
 cc -Wall -Wextra eepmake.c -o eepmake
@@ -232,7 +232,7 @@ eepdump  eepdump.c  eepflash.sh  eepmake  eepmake.c  eeprom_settings.txt  eeptyp
 
 To communicate with the EEPROM chip we need to enable the I2C interface.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo raspi-config
 ```
 
@@ -241,13 +241,13 @@ interfacing Options -> I2C -> Yes -> ok -> Finish
 
 We will then need to reboot the Raspberry Pi to enable.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo reboot
 ```
 
 When finished restarting, we will need to install the `i2c-tools` package, log in and run:
 
-```bash
+```sh
 pi@raspberrypi:~ $ sudo apt install i2c-tools
 Reading package lists... Done
 Building dependency tree... Done
@@ -270,7 +270,7 @@ Setting up i2c-tools (4.2-1+b1) ...
 
 The Raspberry Pi should be powered off before making any connections to the GPIO pins.
 
-```bash
+```sh
 pi@raspberrypi:~ $ sudo halt
 ```
 
@@ -288,20 +288,20 @@ Switch the Raspberry Pi back on.
 
 If when we try to detect the EEPROM we get a 'No such file or directory' error such as...
 
-```bash
+```sh
 pi@raspberrypi:~ $ i2cdetect -y 9
 Error: Could not open file `/dev/i2c-9' or `/dev/i2c/9': No such file or directory
 ```
 
 ...run the following command as explained in the [EEPROM Utils Docs](https://github.com/raspberrypi/hats/tree/master/eepromutils).
 
-```bash
+```sh
 pi@raspberrypi:~ $ sudo dtoverlay i2c-gpio i2c_gpio_sda=0 i2c_gpio_scl=1 bus=9
 ```
 
 You should then be able to see the EEPROM Chip at address 50:
 
-```bash
+```sh
 pi@raspberrypi:~ $ i2cdetect -y 9
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:                         -- -- -- -- -- -- -- --
@@ -323,7 +323,7 @@ If your EEPROM is a different size you will need to set `count` to the value of 
 
 Make a blank image using dd:
 
-```bash
+```sh
 pi@raspberrypi:~ $ cd hats/eepromutils/
 pi@raspberrypi:~/hats/eepromutils $ dd if=/dev/zero ibs=1k count=4 of=blank.eep
 4+0 records in
@@ -333,7 +333,7 @@ pi@raspberrypi:~/hats/eepromutils $ dd if=/dev/zero ibs=1k count=4 of=blank.eep
 
 Verify it is actually blank with `hexdump`...
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ hexdump blank.eep
 0000000 0000 0000 0000 0000 0000 0000 0000 0000
 *
@@ -342,7 +342,7 @@ pi@raspberrypi:~/hats/eepromutils $ hexdump blank.eep
 
 ...and flash it to the chip.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -361,7 +361,7 @@ Done.
 Now that we have a blank EEPROM chip, we can configure and flash the Hat EEPROM image to it.
 Open the `eeprom_settings.txt` file:
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ nano eeprom_settings.txt
 ```
 
@@ -369,7 +369,7 @@ Update the contents with the [Klipper Fan Hat settings file from the Repository]
 
 Save and close the file, and then we can make the EEPROM image...
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat.eep
 Opening file eeprom_settings.txt for read
 UUID=fef562f0-9e28-4453-88c2-c073303e6ab2
@@ -380,7 +380,7 @@ Done.
 
 ...and flash it to the chip.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=klipper-fan-hat.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -397,13 +397,13 @@ Done.
 
 The Hat EEPROM is read on system boot so we will need to reboot the Pi before we can test it:
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo reboot
 ```
 
 We can then read the data using the device tree:
 
-```bash
+```sh
 pi@raspberrypi:~ $ cd /proc/device-tree/hat/
 pi@raspberrypi:/proc/device-tree/hat $ ls
 custom_0  name  product  product_id  product_ver  uuid  vendor
@@ -425,7 +425,7 @@ fef562f0-9e28-4453-88c2-c073303e6ab2
 
 To allow the hat to automatically enable I2C and SPI we will create a device tree overlay and embed it into the EEPROM. The Raspberry Pi will then enable this at boot time.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ nano klipper-fan-hat.dts
 ```
 
@@ -433,20 +433,20 @@ Update the contents with the [Klipper Fan Hat device tree source file from the R
 
 Save the file, compile the binary and set the correct permissions to the output file:
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo dtc -@ -I dts -O dtb -o klipper-fan-hat.dtb klipper-fan-hat.dts
 pi@raspberrypi:~/hats/eepromutils $ sudo chown pi:pi klipper-fan-hat.dtb
 ```
 
 You may need to install the `device-tree-compiler` package if you get any errors running the previous command, however, it was already installed in the version of Raspberry Pi OS that I was using.
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo apt-get install device-tree-compiler
 ```
 
 We can then embed the device tree binary into the flash file...
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat-with-dt.eep klipper-fan-hat.dtb
 Opening file eeprom_settings.txt for read
 UUID=967cd2a4-9c61-4397-ae2e-5184a7f2b7de
@@ -460,7 +460,7 @@ Done.
 
 ...and flash it to the EEPROM the same way we did before:
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -489,7 +489,7 @@ We can check that I2C and SPI is enabled by switching off I2C using `raspi-confi
 
 After another restart you will be able to see the devices `/dev/i2c-1`, and `/dev/spidev0.0` and `/dev/spidev0.1` only when the hat EEPROM is connected.
 
-```bash
+```sh
 pi@raspberrypi:~ $ ls /dev
 autofs         dma_heap   i2c-1    loop4         mmcblk0    ram1   ram5     spidev0.0  tty12  tty21  tty30  tty4   tty49  tty58  ttyAMA0    vcs1   vcsa4     vcsu6    video20
 block          dri        i2c-2    loop5         mmcblk0p1  ram10  ram6     spidev0.1  tty13  tty22  tty31  tty40  tty5   tty59  ttyprintk  vcs2   vcsa5     vhci     video21
@@ -505,7 +505,7 @@ disk           hwrng      loop3    mem           ram0       ram4   snd      tty1
 
 ## Embed Klipper config in EEPROM
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ nano klipper-fan-hat.cfg
 ```
 
@@ -513,7 +513,7 @@ Update the contents with the [Klipper config source file from the Repository](ht
 
 Save the file, and embed the config file into the EEPROM image
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat-with-dt.eep klipper-fan-hat.dtb -c klipper-fan-hat.cfg
 Opening file eeprom_settings.txt for read
 UUID=62ed7b88-3e38-4958-a397-5271702f3386
@@ -529,7 +529,7 @@ Done.
 
 ...then flash the EEPROM
 
-```bash
+```sh
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -560,215 +560,12 @@ Restart the Pi and we can then [copy the config out of the device tree into the 
 
 # Klipper Setup
 
-To get the most up-to-date info for the latest Klipper version visit the [Klipper RPi micro-controller setup guide](https://www.klipper3d.org/RPi_microcontroller.html).
-
-## Install the RC Script
-
-Copy and enable the `klipper-mcu.service` for systemd:
-
-```bash
-cd ~/klipper/
-sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/
-sudo systemctl enable klipper-mcu.service
-```
-
-## Building the Micro-Controller Code
-
-Configure the Klipper micro-controller code:
-
-```bash
-cd ~/klipper/
-make menuconfig
-```
-
-Set `Micro-controller Architecture` to `Linux process`...
-
-```
-(Top)
-                                        Klipper Firmware Configuration
-[ ] Enable extra low-level configuration options
-    Micro-controller Architecture (Linux process)  --->
-[Space/Enter] Toggle/enter      [?] Help            [/] Search
-[Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-then save and exit and run:
-
-```bash
-sudo service klipper stop
-make flash
-sudo service klipper start
-```
-
-If klippy.log reports a `Permission denied` error when attempting to connect to `/tmp/klipper_host_mcu` then you need to add your user to the tty group. The following command will add the `pi` user to the `tty` group:
-
-```bash
-sudo usermod -a -G tty pi
-```
+To set up Klipper on a Raspberry Pi using the same Pi as secondary mcu, you can follow the steps in the [RPi microcontroller section of my Klipper Firmware setup page](printer-klipper-firmware#rpi-microcontroller).
 
 ## Remaining configuration
 
-You can copy the config from the EEPROM chip of the hat into the Klipper config directory:
-
-```bash
-cat /proc/device-tree/hat/custom_1 > ~/printer_data/config/klipper-fan-hat.cfg
-```
-
-## Optional: Interface Options
-
-You can find the `Interface Options` in the Raspberry Pi Software Configuration Tool by running:
+Once you have the RPi microcontroller set up, you can copy the config from the EEPROM chip of the hat into the Klipper config directory, using the following command:
 
 ```sh
-sudo raspi-config
+cat /proc/device-tree/hat/custom_1 > ~/printer_data/config/klipper-fan-hat.cfg
 ```
-
-```
-┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
-│                                                                              │
-│       1 System Options       Configure system settings                       │
-│       2 Display Options      Configure display settings                      │
-│      |3 Interface Options    Configure connections to peripherals     |      │
-│       4 Performance Options  Configure performance settings                  │
-│       5 Localisation Options Configure language and regional settings        │
-│       6 Advanced Options     Configure advanced settings                     │
-│       8 Update               Update this tool to the latest version          │
-│       9 About raspi-config   Information about this configuration tool       │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                     <Select>                     <Finish>                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-### Enabling SPI
-
-SPI should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `SPI` under the `Interface Options` menu.
-
-```
-┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
-│                                                                              │
-│    I1 SSH         Enable/disable remote command line access using SSH        │
-│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
-│    I3 VNC         Enable/disable graphical remote desktop access             │
-│   |I4 SPI         Enable/disable automatic loading of SPI kernel module |    │
-│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
-│    I6 Serial Port Enable/disable shell messages on the serial connection     │
-│    I7 1-Wire      Enable/disable one-wire interface                          │
-│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                     <Select>                     <Back>                      │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-### Enabling I2C
-
-I2C should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `I2C` under the `Interface Options` menu.
-
-```
-┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
-│                                                                              │
-│    I1 SSH         Enable/disable remote command line access using SSH        │
-│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
-│    I3 VNC         Enable/disable graphical remote desktop access             │
-│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
-│   |I5 I2C         Enable/disable automatic loading of I2C kernel module |    │
-│    I6 Serial Port Enable/disable shell messages on the serial connection     │
-│    I7 1-Wire      Enable/disable one-wire interface                          │
-│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                     <Select>                     <Back>                      │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-If planning to use I2C for the MPU accelerometer, it is also required to set the baud rate to 400000 by: adding/uncommenting `dtparam=i2c_arm=on,i2c_arm_baudrate=400000` in `/boot/config.txt` (or `/boot/firmware/config.txt` in some distros).
-This should also be automatically be enabled by the hat EEPROM however you can do it manually if you have any problems.
-
-### Enabling 1-wire
-
-If you require, you can enable the 1-wire interface by selecting `1-Wire` under the `Interface Options` menu.
-
-```
-┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
-│                                                                              │
-│    I1 SSH         Enable/disable remote command line access using SSH        │
-│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
-│    I3 VNC         Enable/disable graphical remote desktop access             │
-│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
-│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
-│    I6 Serial Port Enable/disable shell messages on the serial connection     │
-│   |I7 1-Wire      Enable/disable one-wire interface                     |    │
-│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                                                                              │
-│                     <Select>                     <Back>                      │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-you can then find any conneted sensors serial numbers with: `ls /sys/bus/w1/devices/`
-
-## Optional: Hardware PWM
-
-Raspberry Pi's have two PWM channels (PWM0 and PWM1) which are exposed on the header or if not, can be routed to existing gpio pins. The Linux mcu daemon uses the pwmchip sysfs interface to control hardware pwm devices on Linux hosts. The pwm sysfs interface is not exposed by default on a Raspberry and can be activated by adding a line to `/boot/config.txt`:
-
-```bash
-# Enable pwmchip sysfs interface
-dtoverlay=pwm,pin=12,func=4
-```
-
-This example enables only PWM0 and routes it to gpio12. If both PWM channels need to be enabled you can use `pwm-2chan`:
-
-```bash
-# Enable pwmchip sysfs interface
-dtoverlay=pwm-2chan,pin=12,pin2=13,func=4,func2=4
-```
-
-The overlay does not expose the pwm line on sysfs on boot and needs to be exported by echo'ing the number of the pwm channel to `/sys/class/pwm/pwmchip0/export`:
-
-```bash
-echo 0 > /sys/class/pwm/pwmchip0/export
-```
-
-If you have enabled `pwm-2chan` you can enable PWM1 too with:
-
-```bash
-echo 1 > /sys/class/pwm/pwmchip0/export
-```
-
-This will create device `/sys/class/pwm/pwmchip0/pwm0` and optionally `/sys/class/pwm/pwmchip0/pwm1` in the filesystem. The easiest way to do this is by adding them to `/etc/rc.local` before the `exit 0` line.
-
-With the sysfs in place, you can now use either the pwm channel(s) by adding the following piece of configuration to your `klipper-fan-hat.cfg`:
-
-```bash
-[fan_generic fan1]
-pin: rpi:pwmchip0/pwm0
-hardware_pwm: true
-cycle_time: 0.000001
-```
-
-This will add hardware pwm control to gpio12 on the Pi (because the overlay was configured to route pwm0 to pin=12).
-
-PWM0 can be routed to gpio12 and gpio18, PWM1 can be routed to gpio13 and gpio19:
-
-| PWM | gpio PIN | Func |
-| --- | -------- | ---- |
-| 0   | 12       | 4    |
-| 0   | 18       | 2    |
-| 1   | 13       | 4    |
-| 1   | 19       | 2    |

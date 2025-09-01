@@ -31,7 +31,7 @@ export default function ColorKlipper(children: ReactNode) {
     // Header
     case '(Top) → Optional features (to reduce code size)\n':
       return <Header>(Top) → Optional features (to reduce code size)</Header>;
-    case '                                        Klipper Firmware Configuration\n':
+    case '                         Klipper Firmware Configuration\n':
       return <Banner>Klipper Firmware Configuration</Banner>;
 
     // Main Menu

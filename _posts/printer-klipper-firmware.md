@@ -165,7 +165,7 @@ make KCONFIG_CONFIG=config.anet_a8 -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega1284p)  --->
@@ -189,7 +189,7 @@ make KCONFIG_CONFIG=config.arduino_mega -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega2560)  --->
@@ -213,7 +213,7 @@ make KCONFIG_CONFIG=config.arduino_uno -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Atmega AVR)  --->
     Processor model (atmega328p)  --->
@@ -222,11 +222,11 @@ make KCONFIG_CONFIG=config.arduino_uno -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-#### Optional features (to reduce code size)
+As the firmware is too large to fit in the supplied flash, we also need to disable some features:
 
 ```
 (Top) → Optional features (to reduce code size)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Support micro-controller based ADC (analog to digital)
 [ ] Support communicating with external chips via SPI bus
 [ ] Support communicating with external chips via I2C bus
@@ -264,7 +264,7 @@ sudo bossac -i -d -p /dev/ttyACM1 -e -w -v -R --offset=0x2000 out/klipper.bin
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (SAMC21/SAMD21/SAMD51/SAME5x)  --->
     Processor model (SAMD21G18)  --->
@@ -294,7 +294,7 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -324,7 +324,7 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -356,7 +356,7 @@ make KCONFIG_CONFIG=config.sb2240_can_klipper flash FLASH_DEVICE=1209:beba
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -383,7 +383,7 @@ make KCONFIG_CONFIG=config.sb2240_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -416,7 +416,7 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F072)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -448,7 +448,7 @@ make KCONFIG_CONFIG=config.ebb36_1.0_klipper flash FLASH_DEVICE=/dev/serial/by-i
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F072)  --->
@@ -481,7 +481,7 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
     Build Katapult deployment application (Do not build)  --->
@@ -513,7 +513,7 @@ make KCONFIG_CONFIG=config.ebb42_1.1_klipper flash FLASH_DEVICE=/dev/serial/by-i
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32G0B1)  --->
@@ -545,7 +545,7 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F042)  --->
@@ -560,11 +560,11 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-#### Optional features (to reduce code size)
+As the firmware is too large to fit in the supplied flash, we also need to disable some features:
 
 ```
 (Top) → Optional features (to reduce code size)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Support micro-controller based ADC (analog to digital)
 [*] Support communicating with external chips via SPI bus
 [*]     Support software based SPI "bit-banging"
@@ -611,7 +611,7 @@ make KCONFIG_CONFIG=config.pitb_can_katapult -j4
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Flash chip (W25Q080 with CLKDIV 2)  --->
@@ -640,7 +640,7 @@ make KCONFIG_CONFIG=config.pitb_katapult -j4
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
     Flash chip (W25Q080 with CLKDIV 2)  --->
@@ -669,7 +669,7 @@ make KCONFIG_CONFIG=config.pitb_can_klipper -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -696,7 +696,7 @@ make KCONFIG_CONFIG=config.pitb_klipper -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -727,7 +727,7 @@ make KCONFIG_CONFIG=config.skr_1.4_serial -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1768 (100 MHz))  --->
@@ -749,7 +749,7 @@ make KCONFIG_CONFIG=config.skr_1.4_usb -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1768 (100 MHz))  --->
@@ -777,7 +777,7 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1769 (120 MHz))  --->
@@ -799,7 +799,7 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (LPC176x)  --->
     Processor model (lpc1769 (120 MHz))  --->
@@ -827,7 +827,7 @@ make KCONFIG_CONFIG=config.skr_pico_can -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -856,7 +856,7 @@ make KCONFIG_CONFIG=config.skr_pico_serial -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -878,7 +878,7 @@ make KCONFIG_CONFIG=config.skr_pico_usb -j4
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
@@ -905,7 +905,7 @@ cp out/deployer.bin ../printer_data/config/
 
 ```
 (Top)
-                                        Katapult Configuration
+                         Katapult Configuration
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F407)  --->
     Build Katapult deployment application (32KiB bootloader)  --->
@@ -934,7 +934,7 @@ make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (STMicroelectronics STM32)  --->
     Processor model (STM32F407)  --->
@@ -977,7 +977,7 @@ Set `Micro-controller Architecture` to `Linux process`...
 
 ```
 (Top)
-                                        Klipper Firmware Configuration
+                         Klipper Firmware Configuration
 [ ] Enable extra low-level configuration options
     Micro-controller Architecture (Linux process)  --->
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
@@ -994,19 +994,122 @@ sudo service klipper start
 
 If klippy.log reports a `Permission denied` error when attempting to connect to `/tmp/klipper_host_mcu` then you need to add your user to the tty group. The following command will add the `pi` user to the `tty` group:
 
-```bash
+```sh
 sudo usermod -a -G tty pi
 ```
 
-## Enable SPI and I2C
+## Optional: Interface Options
+
+You can find the `Interface Options` in the Raspberry Pi Software Configuration Tool by running:
 
 ```sh
 sudo raspi-config
 ```
 
-Enable SPI and I2C under the `Interfacing options`
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│       1 System Options       Configure system settings                       │
+│       2 Display Options      Configure display settings                      │
+│      |3 Interface Options    Configure connections to peripherals     |      │
+│       4 Performance Options  Configure performance settings                  │
+│       5 Localisation Options Configure language and regional settings        │
+│       6 Advanced Options     Configure advanced settings                     │
+│       8 Update               Update this tool to the latest version          │
+│       9 About raspi-config   Information about this configuration tool       │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Finish>                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-## Identify the correct gpiochip
+### Enabling SPI
+
+SPI should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `SPI` under the `Interface Options` menu.
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│   |I4 SPI         Enable/disable automatic loading of SPI kernel module |    │
+│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│    I7 1-Wire      Enable/disable one-wire interface                          │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Enabling I2C
+
+I2C should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `I2C` under the `Interface Options` menu.
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
+│   |I5 I2C         Enable/disable automatic loading of I2C kernel module |    │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│    I7 1-Wire      Enable/disable one-wire interface                          │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+If planning to use I2C for the MPU accelerometer, it is also required to set the baud rate to 400000 by: adding/uncommenting `dtparam=i2c_arm=on,i2c_arm_baudrate=400000` in `/boot/config.txt` (or `/boot/firmware/config.txt` in some distros).
+This should also be automatically be enabled by the hat EEPROM however you can do it manually if you have any problems.
+
+### Enabling 1-wire
+
+If you require, you can enable the 1-wire interface by selecting `1-Wire` under the `Interface Options` menu.
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
+│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│   |I7 1-Wire      Enable/disable one-wire interface                     |    │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+you can then find any conneted sensors serial numbers with: `ls /sys/bus/w1/devices/`
+
+## Optional: Identify the correct gpiochip
+
+To install the Linux GPIO character device:
 
 ```sh
 sudo apt install gpiod
@@ -1018,11 +1121,65 @@ To check available gpiochip run:
 gpiodetect
 ```
 
-To check the pin number and the pin availability tun:
+To check the pin number and the pin availability run:
 
 ```sh
 gpioinfo
 ```
+
+## Optional: Hardware PWM
+
+Raspberry Pi's have two PWM channels (PWM0 and PWM1) which are exposed on the header or if not, can be routed to existing gpio pins. The Linux mcu daemon uses the pwmchip sysfs interface to control hardware pwm devices on Linux hosts. The pwm sysfs interface is not exposed by default on a Raspberry and can be activated by adding a line to `/boot/config.txt`:
+
+```sh
+# Enable pwmchip sysfs interface
+dtoverlay=pwm,pin=12,func=4
+```
+
+This example enables only PWM0 and routes it to gpio12. If both PWM channels need to be enabled you can use `pwm-2chan`:
+
+```sh
+# Enable pwmchip sysfs interface
+dtoverlay=pwm-2chan,pin=12,pin2=13,func=4,func2=4
+```
+
+The overlay does not expose the pwm line on sysfs on boot and needs to be exported by echo'ing the number of the pwm channel to `/sys/class/pwm/pwmchip0/export`:
+
+```sh
+# Enable pwmchip sysfs interface
+echo 0 > /sys/class/pwm/pwmchip0/export
+```
+
+If you have enabled `pwm-2chan` you can enable PWM1 too with:
+
+```sh
+# Enable pwmchip sysfs interface
+echo 0 > /sys/class/pwm/pwmchip0/export
+echo 1 > /sys/class/pwm/pwmchip0/export
+```
+
+This will create device `/sys/class/pwm/pwmchip0/pwm0` and optionally `/sys/class/pwm/pwmchip0/pwm1` in the filesystem. The easiest way to do this is by adding them to `/etc/rc.local` before the `exit 0` line.
+
+With the sysfs in place, you can now use either the pwm channel(s) by adding the following piece of configuration to your board's config file:
+
+```sh
+[fan_generic fan1]
+pin: rpi:pwmchip0/pwm0
+pwm: True
+hardware_pwm: True
+cycle_time: 0.000001
+```
+
+This will add hardware pwm control to gpio12 on the Pi (because the overlay was configured to route pwm0 to pin=12).
+
+PWM0 can be routed to gpio12 and gpio18, PWM1 can be routed to gpio13 and gpio19:
+
+| PWM | gpio PIN | Func |
+| --- | -------- | ---- |
+| 0   | 12       | 4    |
+| 0   | 18       | 2    |
+| 1   | 13       | 4    |
+| 1   | 19       | 2    |
 
 # Create Flash MCU Convenience Script
 
