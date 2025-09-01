@@ -1209,10 +1209,10 @@ With the sysfs in place, you can now use either the pwm channel(s) by adding the
 
 ```ini
 [fan_generic fan1]
-pin = rpi:pwmchip0/pwm0
-pwm = True
-hardware_pwm = True
-cycle_time = 0.000001
+pin=rpi:pwmchip0/pwm0
+pwm=True
+hardware_pwm=True
+cycle_time=0.000001
 ```
 
 This will add hardware pwm control to gpio12 on the Pi (because the overlay was configured to route pwm0 to pin=12).
