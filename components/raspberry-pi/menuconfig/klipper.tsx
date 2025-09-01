@@ -47,6 +47,20 @@ export default function ColorKlipper(children: ReactNode) {
           <Menu>[*] Enable extra low-level configuration options</Menu>
         </Background>
       );
+    case '[ ] Only 10KiB of RAM (for rare stm32f103x6 variant)\n':
+      return (
+        <Background>
+          <Menu>[ ] Only 10KiB of RAM (for rare stm32f103x6 variant)</Menu>
+        </Background>
+      );
+    case '[ ] Disable SWD at startup (for GigaDevice stm32f103 clones)\n':
+      return (
+        <Background>
+          <Menu>
+            [ ] Disable SWD at startup (for GigaDevice stm32f103 clones)
+          </Menu>
+        </Background>
+      );
     case '    Bootloader offset (No bootloader)  --->\n':
       return (
         <Background>
@@ -63,6 +77,12 @@ export default function ColorKlipper(children: ReactNode) {
       return (
         <Background>
           <Menu>    Bootloader offset (16KiB bootloader)  ---&gt;</Menu>
+        </Background>
+      );
+    case '    Bootloader offset (28KiB bootloader)  --->\n':
+      return (
+        <Background>
+          <Menu>    Bootloader offset (28KiB bootloader)  ---&gt;</Menu>
         </Background>
       );
     case '    Bootloader offset (32KiB bootloader)  --->\n':
@@ -209,6 +229,12 @@ export default function ColorKlipper(children: ReactNode) {
       return (
         <Background>
           <Menu>() GPIO pins to set at micro-controller startup</Menu>
+        </Background>
+      );
+    case '(!PA14) GPIO pins to set at micro-controller startup\n':
+      return (
+        <Background>
+          <Menu>(!PA14) GPIO pins to set at micro-controller startup</Menu>
         </Background>
       );
 

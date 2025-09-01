@@ -854,6 +854,38 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+## SKR Mini E3 V2.0
+
+Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware).
+
+### Klipper Firmware Configuration
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.skr_mini_e3
+cp config.skr_mini_e3 ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_mini_e3 -j4
+```
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32F103)  --->
+[ ] Only 10KiB of RAM (for rare stm32f103x6 variant)
+[ ] Disable SWD at startup (for GigaDevice stm32f103 clones)
+    Bootloader offset (28KiB bootloader)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    USB ids  --->
+[*] Optimize stepper code for 'step on both edges'
+(!PA14) GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
 ## SKR Pico
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/SKR-Pico).

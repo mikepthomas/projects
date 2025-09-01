@@ -144,6 +144,13 @@ export default function ColorMenu(children: ReactNode) {
           <Menu> </Menu>
         </Background>
       );
+    case '    Processor model (STM32F103)  --->\n':
+      return (
+        <Background>
+              Processor model (STM32F103)  ---&gt;
+          <Menu> </Menu>
+        </Background>
+      );
     case '    Processor model (STM32F407)  --->\n':
       return (
         <Background>
