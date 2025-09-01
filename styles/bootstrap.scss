@@ -31,6 +31,13 @@
 
 // 2. Include any default variable overrides here
 $breadcrumb-margin-bottom: 0 !default;
+$container-max-widths: (
+  sm: 640px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px,
+) !default;
 $font-size-base: 0.8rem !default;
 $thumbnail-border-radius: 0.5rem !default;
 

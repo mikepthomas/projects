@@ -2,7 +2,7 @@
 title: Klipper Firmware
 heading: Configuring the software to run a 3D Printer
 date: 2025-08-29T22:45:11.067Z
-lastmod: 2025-08-30T23:45:25.299Z
+lastmod: 2025-09-01T20:33:54.319Z
 author: Mike Thomas
 description: Configuring MainsailOS with all the software to run Klipper on my 3D Printer.
 preview: /assets/blog/printer-klipper-firmware/klipper-firmware-hero.jpg
@@ -159,9 +159,9 @@ You can find the configs used in the sections below in my [Klipper Config Firmwa
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.anet_a8
-cp config.anet_a8 ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.anet_a8 -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -173,7 +173,17 @@ make KCONFIG_CONFIG=config.anet_a8 -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.anet_a8 ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.anet_a8 -j4
+avrdude -p atmega1284p -c arduino -b 57600 -P /dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0 -U out/klipper.elf.hex
+```
+
 ## Arduino Mega
+
+Used by [RAMPS Shield](https://reprap.org/wiki/RAMPS_1.6).
 
 ### Klipper Firmware Configuration
 
@@ -183,9 +193,9 @@ make KCONFIG_CONFIG=config.anet_a8 -j4
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.arduino_mega
-cp config.arduino_mega ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.arduino_mega -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -197,7 +207,17 @@ make KCONFIG_CONFIG=config.arduino_mega -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.arduino_mega ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.arduino_mega -j4
+make KCONFIG_CONFIG=config.arduino_mega flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
+```
+
 ## Arduino Uno
+
+Used by [Arduino CNC Shield](https://all3dp.com/2/arduino-cnc-shield/).
 
 ### Klipper Firmware Configuration
 
@@ -207,9 +227,9 @@ make KCONFIG_CONFIG=config.arduino_mega -j4
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.arduino_uno
-cp config.arduino_uno ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.arduino_uno -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -244,6 +264,14 @@ As the firmware is too large to fit in the supplied flash, we also need to disab
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.arduino_uno ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.arduino_uno -j4
+make KCONFIG_CONFIG=config.arduino_uno flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0
+```
+
 ## Easy BRD
 
 Get the most up to date info on the [official page](https://github.com/Tircown/ERCF-easy-brd).
@@ -256,11 +284,9 @@ Get the most up to date info on the [official page](https://github.com/Tircown/E
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.easy_brd
-cp config.easy_brd ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.easy_brd -j4
-sudo apt install bossa-cli
-sudo bossac -i -d -p /dev/ttyACM1 -e -w -v -R --offset=0x2000 out/klipper.bin
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -273,6 +299,15 @@ sudo bossac -i -d -p /dev/ttyACM1 -e -w -v -R --offset=0x2000 out/klipper.bin
     Communication interface (USB)  --->
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.easy_brd ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.easy_brd -j4
+sudo apt install bossa-cli
+sudo bossac -i -d -p /dev/ttyACM0 -e -w -v -R --offset=0x2000 out/klipper.bin
 ```
 
 ## EBB SB2240 CAN V1.0
@@ -539,9 +574,9 @@ Get the most up to date info on the [official page](https://github.com/VoronDesi
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.klipper_expander
-cp config.klipper_expander ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.klipper_expander -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -591,6 +626,16 @@ As the firmware is too large to fit in the supplied flash, we also need to disab
 [ ] Support angle sensors
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Install the boot jumper and reset the board to put the board into DFU mode.
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.klipper_expander ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.klipper_expander -j4
+make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
 ```
 
 ## PITB
@@ -1225,8 +1270,10 @@ Get the most up to date info on the [official page](https://crowsnest.mainsail.x
 
 # Fix for RepRapDiscount 128x64 Full Graphic Smart Controller
 
+My Full Graphic Smart Controller Display is showing the same issue as described in the GitHub issue [RepRap Display doesn't work properly](https://github.com/Klipper3d/klipper/issues/5089)
+
 ```sh
-cd klipper/src/
+cd ~/klipper/src/
 mv lcd_st7920.c lcd_st7920.c.bak
 wget https://github.com/Stout69/For-Klipper/raw/main/lcd_st7920.c
 cd ../klippy/extras/display/
@@ -1236,14 +1283,41 @@ wget https://github.com/Stout69/For-Klipper/raw/main/st7920.py
 
 Then recompile klipper for the MCU (See above)
 
+> [!WARNING]
+> I have retried these steps recently, however the issue in the GitHub issue still persists.
+> Maybe a new fix that will work will make it's way into Klipper some day...
+
 # KlipperScreen Fix
 
-Install KlipperScreen via kiauh.
+When installing KlipperScreen via kiauh you may get [Cannot open virtual Console](https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/VC_ERROR/) error in the log:
+
+```
+xf86OpenConsole: Cannot open virtual console 2 (Permission denied)
+```
+
+To fix this run the following:
 
 ```sh
-systemctl status KlipperScreen
 cat /etc/X11/Xwrapper.config
+```
+
+This should have the line `allowed_users=anybody` in it.
+
+Next run:
+
+```sh
 cat /etc/group | grep tty
+```
+
+If your username is not listed under that line, you need to add it with the following command:
+
+```sh
+usermod -a -G tty $USER
+```
+
+Add `needs_root_rights=yes` to `/etc/X11/Xwrapper.config`:
+
+```sh
 sudo bash -c "echo needs_root_rights=yes>>/etc/X11/Xwrapper.config"
 sudo service KlipperScreen restart
 systemctl status KlipperScreen
