@@ -32,56 +32,57 @@ export default function ColorMain(children: ReactNode) {
     case '│       1 System Options       Configure system settings                       │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       1 System Options       Configure system
             settings                       │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       2 Display Options      Configure display settings                      │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       2 Display Options      Configure display
             settings                      │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       3 Interface Options    Configure connections to peripherals            │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       3 Interface Options    Configure connections to
             peripherals            │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│      |3 Interface Options    Configure connections to peripherals     |      │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       
             <Selected>
@@ -90,90 +91,89 @@ export default function ColorMain(children: ReactNode) {
                    │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       4 Performance Options  Configure performance settings                  │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       4 Performance Options  Configure performance
             settings                  │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       5 Localisation Options Configure language and regional settings        │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       5 Localisation Options Configure language and regional
             settings        │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       6 Advanced Options     Configure advanced settings                     │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       6 Advanced Options     Configure advanced
             settings                     │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       8 Update               Update this tool to the latest version          │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       8 Update               Update this tool to the latest
             version          │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│       9 About raspi-config   Information about this configuration tool       │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │       9 About raspi-config   Information about this configuration
             tool       │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
 

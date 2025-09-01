@@ -33,10 +33,15 @@ export default function ColorMenu(children: ReactNode) {
       return (
         <>
           <Background className="d-none d-xxl-block"> </Background>
-          <Background className="d-none d-xl-block d-xxl-block"> </Background>
+          <Background className="d-none d-md-block d-lg-none d-xl-block d-xxl-block">
+            <> </>
+          </Background>
           <Background>
-            <span className="d-none d-xl-block">         </span>
-            <span className="d-none d-xxl-block">         </span>
+            <span className="d-none d-md-block d-lg-none d-xl-block">
+                   
+            </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">        </span>
             <Menu>
               ┌─────────┤ 
               <Highlight>
@@ -46,25 +51,26 @@ export default function ColorMenu(children: ReactNode) {
             </Menu>
             <ShadowTop> </ShadowTop>
             <span className="d-none d-md-block d-lg-none d-xl-block">
-                       
+                   
             </span>
-            <span className="d-none d-xxl-block">         </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">        </span>
           </Background>
         </>
       );
     case '│                                                                              │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │                                                                              │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
 
@@ -72,62 +78,72 @@ export default function ColorMenu(children: ReactNode) {
     case '│                     <Select>                     <Finish>                    │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │                     &lt;Select&gt;                     &lt;Finish&gt;                    │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│                     <Select>                     <Back>                      │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │                     &lt;Select&gt;                     &lt;Back&gt;                      │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '└──────────────────────────────────────────────────────────────────────────────┘\n':
       return (
         <>
           <Background>
-            <span className="d-none d-xl-block">         </span>
-            <span className="d-none d-xxl-block">         </span>
+            <span className="d-none d-md-block d-lg-none d-xl-block">
+                   
+            </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">        </span>
             <Menu>
               └──────────────────────────────────────────────────────────────────────────────┘
             </Menu>
             <Shadow> </Shadow>
             <span className="d-none d-md-block d-lg-none d-xl-block">
-                       
+                   
             </span>
-            <span className="d-none d-xxl-block">         </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">        </span>
           </Background>
           <Background>
-            <span className="d-none d-xl-block">         </span>
-            <span className="d-none d-xxl-block">         </span> 
+            <span className="d-none d-md-block d-lg-none d-xl-block">
+                   
+            </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">      </span> 
             <Shadow>
               <>
                                                                                                 
               </>
             </Shadow>
             <span className="d-none d-md-block d-lg-none d-xl-block">
-                       
+                   
             </span>
-            <span className="d-none d-xxl-block">         </span>
+            <span className="d-none d-xl-block">     </span>
+            <span className="d-none d-xxl-block">        </span>
           </Background>
-          <Background className="d-none d-xl-block d-xxl-block"> </Background>
+          <Background className="d-none d-md-block d-lg-none d-xl-block d-xxl-block">
+            <> </>
+          </Background>
           <Background className="d-none d-xxl-block"> </Background>
         </>
       );

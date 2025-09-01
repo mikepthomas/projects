@@ -32,72 +32,73 @@ export default function ColorInterface(children: ReactNode) {
     case '│    I1 SSH         Enable/disable remote command line access using SSH        │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I1 SSH         Enable/disable remote command line access using
             SSH        │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I2 RPi Connect Enable/disable Raspberry Pi
             Connect                        │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I3 VNC         Enable/disable graphical remote desktop access             │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I3 VNC         Enable/disable graphical remote desktop
             access             │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I4 SPI         Enable/disable automatic loading of SPI kernel
             module      │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│   |I4 SPI         Enable/disable automatic loading of SPI kernel module |    │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    
             <Selected>
@@ -107,33 +108,33 @@ export default function ColorInterface(children: ReactNode) {
                  │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I5 I2C         Enable/disable automatic loading of I2C kernel
             module      │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│   |I5 I2C         Enable/disable automatic loading of I2C kernel module |    │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    
             <Selected>
@@ -143,49 +144,49 @@ export default function ColorInterface(children: ReactNode) {
                  │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I6 Serial Port Enable/disable shell messages on the serial connection     │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I6 Serial Port Enable/disable shell messages on the serial
             connection     │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I7 1-Wire      Enable/disable one-wire interface                          │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I7 1-Wire      Enable/disable one-wire
             interface                          │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│   |I7 1-Wire      Enable/disable one-wire interface                     |    │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    
             <Selected>
@@ -195,26 +196,25 @@ export default function ColorInterface(children: ReactNode) {
                  │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
     case '│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │\n':
       return (
         <Background>
-          <span className="d-none d-xl-block">         </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
           <Menu>
             │    I8 Remote GPIO Enable/disable remote access to GPIO
             pins                  │
           </Menu>
           <Shadow> </Shadow>
-          <span className="d-none d-md-block d-lg-none d-xl-block">
-                     
-          </span>
-          <span className="d-none d-xxl-block">         </span>
+          <span className="d-none d-md-block d-lg-none d-xl-block">     </span>
+          <span className="d-none d-xl-block">     </span>
+          <span className="d-none d-xxl-block">        </span>
         </Background>
       );
 
