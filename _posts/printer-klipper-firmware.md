@@ -112,7 +112,7 @@ Create `/etc/network/interfaces.d/can0`:
 ```
 allow-hotplug can0
 iface can0 can static
-    bitrate 500000
+    bitrate 1000000
     up ifconfig $IFACE txqueuelen 128
 ```
 
@@ -636,6 +636,122 @@ Backup config, Build and Flash to the board:
 cp config.klipper_expander ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.klipper_expander -j4
 make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
+```
+
+## MMB CAN V1.0
+
+Get the most up to date info on the [official page](https://github.com/bigtreetech/MMB).
+
+### Katapult Configuration
+
+#### CAN Bus
+
+```sh
+cd ~/katapult/
+make clean
+make menuconfig KCONFIG_CONFIG=config.mmb_can_1.0_can_katapult
+cp config.mmb_can_1.0_can_katapult ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.mmb_can_1.0_can_katapult -j4
+```
+
+```
+(Top)
+                         Katapult Configuration
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32G0B1)  --->
+    Build Katapult deployment application (Do not build)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (CAN bus (on PB0/PB1))  --->
+    Application start offset (8KiB offset)  --->
+(1000000) CAN bus speed
+()  GPIO pins to set on bootloader entry
+[*] Support bootloader entry on rapid double click of reset button
+[ ] Enable bootloader entry on button (or gpio) state
+[ ] Enable Status LED
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+#### USB
+
+```sh
+cd ~/katapult/
+make clean
+make menuconfig KCONFIG_CONFIG=config.mmb_can_1.0_katapult
+cp config.mmb_can_1.0_katapult ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.mmb_can_1.0_katapult -j4
+```
+
+```
+(Top)
+                         Katapult Configuration
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32G0B1)  --->
+    Build Katapult deployment application (Do not build)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    Application start offset (8KiB offset)  --->
+    USB ids  --->
+()  GPIO pins to set on bootloader entry
+[*] Support bootloader entry on rapid double click of reset button
+[ ] Enable bootloader entry on button (or gpio) state
+[ ] Enable Status LED
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+### Klipper Firmware Configuration
+
+#### CAN Bus
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.mmb_can_1.0_can_klipper
+cp config.mmb_can_1.0_can_klipper ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.mmb_can_1.0_can_klipper -j4
+```
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32G0B1)  --->
+    Bootloader offset (8KiB bootloader)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (CAN bus (on PB0/PB1))  --->
+(1000000) CAN bus speed
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+#### USB
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.mmb_can_1.0_klipper
+cp config.mmb_can_1.0_klipper ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.mmb_can_1.0_klipper -j4
+```
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32G0B1)  --->
+    Bootloader offset (8KiB bootloader)  --->
+    Clock Reference (8 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    USB ids  --->
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
 ## PITB
