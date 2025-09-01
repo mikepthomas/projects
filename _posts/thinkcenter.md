@@ -93,13 +93,13 @@ sudo chown -R nexus:nogroup /srv/sonatype-work/
 
 Add the following to `/srv/nexus-3.83.1-03/bin/nexus.rc`:
 
-```
+```ini
 run_as_user="nexus"
 ```
 
 Add the following to `/srv/nexus-3.83.1-03/bin/nexus.vmoptions`:
 
-```
+```ini
 # Updated Memory Size
   -Xms1200m
   -Xmx1200m
@@ -118,7 +118,7 @@ sudo ln -s /srv/nexus-3.83.1-03/bin/nexus /etc/init.d/nexus
 
 Create the file `/etc/systemd/system/nexus.service` with the content:
 
-```
+```ini
 [Unit]
 Description=nexus service
 After=network.target
@@ -277,7 +277,7 @@ DMAR-IR: Enabled IRQ remapping in x2apic mode ('x2apic' can be different on old 
 
 update to the following in /etc/default/grub:
 
-```
+```ini
 GRUB_CMDLINE_LINUX="iommu=pt pcie_acs_override=downstream initcall_blacklist=sysfb_init"
 ```
 
@@ -285,7 +285,7 @@ GRUB_CMDLINE_LINUX="iommu=pt pcie_acs_override=downstream initcall_blacklist=sys
 
 update to the following in /etc/default/grub:
 
-```
+```ini
 GRUB_CMDLINE_LINUX="intel_iommu=on iommu=pt initcall_blacklist=sysfb_init"
 ```
 
