@@ -1176,14 +1176,14 @@ gpioinfo
 
 Raspberry Pi's have two PWM channels (PWM0 and PWM1) which are exposed on the header or if not, can be routed to existing gpio pins. The Linux mcu daemon uses the pwmchip sysfs interface to control hardware pwm devices on Linux hosts. The pwm sysfs interface is not exposed by default on a Raspberry and can be activated by adding a line to `/boot/config.txt`:
 
-```sh
+```ini
 # Enable pwmchip sysfs interface
 dtoverlay=pwm,pin=12,func=4
 ```
 
 This example enables only PWM0 and routes it to gpio12. If both PWM channels need to be enabled you can use `pwm-2chan`:
 
-```sh
+```ini
 # Enable pwmchip sysfs interface
 dtoverlay=pwm-2chan,pin=12,pin2=13,func=4,func2=4
 ```
@@ -1207,12 +1207,12 @@ This will create device `/sys/class/pwm/pwmchip0/pwm0` and optionally `/sys/clas
 
 With the sysfs in place, you can now use either the pwm channel(s) by adding the following piece of configuration to your board's config file:
 
-```sh
+```ini
 [fan_generic fan1]
-pin: rpi:pwmchip0/pwm0
-pwm: True
-hardware_pwm: True
-cycle_time: 0.000001
+pin = rpi:pwmchip0/pwm0
+pwm = True
+hardware_pwm = True
+cycle_time = 0.000001
 ```
 
 This will add hardware pwm control to gpio12 on the Pi (because the overlay was configured to route pwm0 to pin=12).
