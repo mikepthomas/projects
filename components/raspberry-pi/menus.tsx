@@ -23,31 +23,44 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-import { Children, ReactNode } from 'react';
-import { Banner, Header, Menu } from '../menuconfig';
+import { ReactNode } from 'react';
+import cn from 'classnames';
 
-export default function ColorMenu(children: ReactNode) {
-  switch (Children.toArray(children).toString()) {
-    // Header
-    case '(Top)\n':
-      return <Header>(Top)</Header>;
+import styles from './menus.module.scss';
 
-    // Footer
-    case '[Space/Enter] Toggle/enter      [?] Help            [/] Search\n':
-      return (
-        <>
-          <Menu>&nbsp;</Menu>
-          <Banner>&nbsp;</Banner>
-          <Header>[Space/Enter] Toggle/enter [?] Help [/] Search</Header>
-        </>
-      );
-    case '[Q] Quit (prompts for save)     [ESC] Leave menu\n':
-      return <Header>[Q] Quit (prompts for save) [ESC] Leave menu</Header>;
+export type Props = {
+  children: ReactNode;
+  className?: string;
+};
 
-    default:
-      return children;
-  }
-}
+export const Background = ({ children, className }: Props) => (
+  <span className={cn(className, styles.background)}>{children}</span>
+);
 
-export { default as ColorKatapult } from './katapult';
-export { default as ColorKlipper } from './klipper';
+export const Banner = ({ children }: Props) => (
+  <span className={styles.banner}>{children}</span>
+);
+
+export const Header = ({ children }: Props) => (
+  <span className={styles.header}>{children}</span>
+);
+
+export const Highlight = ({ children }: Props) => (
+  <span className={styles.highlight}>{children}</span>
+);
+
+export const Menu = ({ children }: Props) => (
+  <span className={styles.menu}>{children}</span>
+);
+
+export const Selected = ({ children }: Props) => (
+  <span className={styles.selected}>{children}</span>
+);
+
+export const Shadow = ({ children }: Props) => (
+  <span className={styles.shadow}>{children}</span>
+);
+
+export const ShadowTop = ({ children }: Props) => (
+  <span className={styles.shadowtop}>{children}</span>
+);

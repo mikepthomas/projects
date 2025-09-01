@@ -614,26 +614,112 @@ You can copy the config from the EEPROM chip of the hat into the Klipper config 
 cat /proc/device-tree/hat/custom_1 > ~/printer_data/config/klipper-fan-hat.cfg
 ```
 
-## Optional: Enabling SPI
+## Optional: Interface Options
 
-SPI should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by running `sudo raspi-config` and enabling SPI under the `Interfacing options` menu.
+You can find the `Interface Options` in the Raspberry Pi Software Configuration Tool by running:
 
-![Using raspi-config to enable the SPI interface](/assets/blog/printer-klipper-fan-hat/enable-spi.jpg)
+```sh
+sudo raspi-config
+```
 
-## Optional: Enabling I2C
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│       1 System Options       Configure system settings                       │
+│       2 Display Options      Configure display settings                      │
+│      |3 Interface Options    Configure connections to peripherals     |      │
+│       4 Performance Options  Configure performance settings                  │
+│       5 Localisation Options Configure language and regional settings        │
+│       6 Advanced Options     Configure advanced settings                     │
+│       8 Update               Update this tool to the latest version          │
+│       9 About raspi-config   Information about this configuration tool       │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Finish>                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-I2C should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by running `sudo raspi-config` and enabling I2C under the `Interfacing options` menu.
+### Enabling SPI
 
-![Using raspi-config to enable the I2C interface](/assets/blog/printer-klipper-fan-hat/enable-i2c.jpg)
+SPI should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `SPI` under the `Interface Options` menu.
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│   |I4 SPI         Enable/disable automatic loading of SPI kernel module |    │
+│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│    I7 1-Wire      Enable/disable one-wire interface                          │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Enabling I2C
+
+I2C should be enabled automatically by the hat EEPROM, If you have trouble, you can enable it manually by selecting `I2C` under the `Interface Options` menu.
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
+│   |I5 I2C         Enable/disable automatic loading of I2C kernel module |    │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│    I7 1-Wire      Enable/disable one-wire interface                          │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 If planning to use I2C for the MPU accelerometer, it is also required to set the baud rate to 400000 by: adding/uncommenting `dtparam=i2c_arm=on,i2c_arm_baudrate=400000` in `/boot/config.txt` (or `/boot/firmware/config.txt` in some distros).
 This should also be automatically be enabled by the hat EEPROM however you can do it manually if you have any problems.
 
-## Optional: Enabling 1-wire
+### Enabling 1-wire
 
-If you require, you can enable the 1-wire interface by running `sudo raspi-config` and enabling 1-wire under the `Interfacing options` menu.
+If you require, you can enable the 1-wire interface by selecting `1-Wire` under the `Interface Options` menu.
 
-![Using raspi-config to enable the 1-wire interface](/assets/blog/printer-klipper-fan-hat/enable-1-wire.jpg)
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
+│    I5 I2C         Enable/disable automatic loading of I2C kernel module      │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│   |I7 1-Wire      Enable/disable one-wire interface                     |    │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 you can then find any conneted sensors serial numbers with: `ls /sys/bus/w1/devices/`
 

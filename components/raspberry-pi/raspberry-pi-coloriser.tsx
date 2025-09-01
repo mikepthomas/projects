@@ -36,8 +36,9 @@ import ColorCommon, {
   ColorPiPico,
   ColorPiZero,
 } from './boards';
+import ColorMenuConfig, { ColorKatapult, ColorKlipper } from './menuconfig';
 import ColorPins, { ColorSodimm } from './pins';
-import ColorMenu, { ColorKatapult, ColorKlipper } from './menus';
+import ColorRaspiConfig, { ColorMain, ColorInterface } from './raspi-config';
 import { Props } from './raspberry-pi';
 
 const ColorParts = (children: ReactNode) => {
@@ -52,11 +53,14 @@ const ColorParts = (children: ReactNode) => {
     ColorPiCompute,
     ColorPiPico,
     ColorPiZero,
-    ColorPins,
-    ColorSodimm,
-    ColorMenu,
+    ColorMenuConfig,
     ColorKatapult,
     ColorKlipper,
+    ColorPins,
+    ColorSodimm,
+    ColorRaspiConfig,
+    ColorMain,
+    ColorInterface,
   ].forEach((func) => (children = func(children)));
   return children;
 };

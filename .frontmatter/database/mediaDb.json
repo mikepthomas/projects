@@ -552,18 +552,6 @@
           "eeprom-connection-to-rpi.jpg": {
             "alt": "Flashing an EEPROM with a Raspberry Pi",
             "title": "EEPROM Connection to RPi"
-          },
-          "enable-spi.jpg": {
-            "alt": "Using raspi-config to enable the SPI interface",
-            "title": "Enable SPI"
-          },
-          "enable-1-wire.jpg": {
-            "alt": "Using raspi-config to enable the 1-wire interface",
-            "title": "Enable 1-wire"
-          },
-          "enable-i2c.jpg": {
-            "alt": "Using raspi-config to enable the I2C interface",
-            "title": "Enable I2C"
           }
         },
         "single-board-computers": {

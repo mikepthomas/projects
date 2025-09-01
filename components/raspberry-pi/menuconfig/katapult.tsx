@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import { Children, ReactNode } from 'react';
-import { Banner, Menu } from '../menuconfig';
+import { Background, Banner, Menu } from '../menus';
 
 export default function ColorKatapult(children: ReactNode) {
   switch (Children.toArray(children).toString()) {
@@ -35,38 +35,77 @@ export default function ColorKatapult(children: ReactNode) {
     // Main Menu
     case '    Build Katapult deployment application (Do not build)  --->\n':
       return (
-        <Menu>
-              Build Katapult deployment application (Do not build)  ---&gt;
-        </Menu>
+        <Background>
+          <Menu>
+                Build Katapult deployment application (Do not build)  ---&gt;
+          </Menu>
+        </Background>
       );
     case '    Build Katapult deployment application (32KiB bootloader)  --->\n':
       return (
-        <Menu>
-              Build Katapult deployment application (32KiB bootloader)  ---&gt;
-        </Menu>
+        <Background>
+          <Menu>
+                Build Katapult deployment application (32KiB
+            bootloader)  ---&gt;
+          </Menu>
+        </Background>
       );
     case '    Application start offset (8KiB offset)  --->\n':
-      return <Menu>    Application start offset (8KiB offset)  ---&gt;</Menu>;
+      return (
+        <Background>
+          <Menu>    Application start offset (8KiB offset)  ---&gt;</Menu>
+        </Background>
+      );
     case '    Application start offset (32KiB offset)  --->\n':
-      return <Menu>    Application start offset (32KiB offset)  ---&gt;</Menu>;
+      return (
+        <Background>
+          <Menu>    Application start offset (32KiB offset)  ---&gt;</Menu>
+        </Background>
+      );
     case '()  GPIO pins to set on bootloader entry\n':
-      return <Menu>() GPIO pins to set on bootloader entry</Menu>;
+      return (
+        <Background>
+          <Menu>() GPIO pins to set on bootloader entry</Menu>
+        </Background>
+      );
     case '[*] Support bootloader entry on rapid double click of reset button\n':
       return (
-        <Menu>
-          [*] Support bootloader entry on rapid double click of reset button
-        </Menu>
+        <Background>
+          <Menu>
+            [*] Support bootloader entry on rapid double click of reset button
+          </Menu>
+        </Background>
       );
     case '[ ] Enable bootloader entry on button (or gpio) state\n':
-      return <Menu>[ ] Enable bootloader entry on button (or gpio) state</Menu>;
+      return (
+        <Background>
+          <Menu>[ ] Enable bootloader entry on button (or gpio) state</Menu>
+        </Background>
+      );
     case '[ ] Enable Status LED\n':
-      return <Menu>[ ] Enable Status LED</Menu>;
+      return (
+        <Background>
+          <Menu>[ ] Enable Status LED</Menu>
+        </Background>
+      );
     case '[*] Enable Status LED\n':
-      return <Menu>[*] Enable Status LED</Menu>;
+      return (
+        <Background>
+          <Menu>[*] Enable Status LED</Menu>
+        </Background>
+      );
     case '(PA13)  Status LED GPIO Pin\n':
-      return <Menu>(PA13) Status LED GPIO Pin</Menu>;
+      return (
+        <Background>
+          <Menu>(PA13) Status LED GPIO Pin</Menu>
+        </Background>
+      );
     case '(PA14)  Status LED GPIO Pin\n':
-      return <Menu>(PA14) Status LED GPIO Pin</Menu>;
+      return (
+        <Background>
+          <Menu>(PA14) Status LED GPIO Pin</Menu>
+        </Background>
+      );
 
     default:
       return children;

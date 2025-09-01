@@ -1,0 +1,54 @@
+.background {
+  background-color: blue;
+  color: white;
+  display: flex;
+  font-weight: bold;
+  line-height: normal;
+  min-width: 500px;
+}
+
+.menu {
+  background-color: lightgray;
+  color: black;
+  display: flex;
+  flex-grow: 1;
+  font-weight: normal;
+}
+
+.banner {
+  background-color: gold;
+  color: dimgray;
+  display: block;
+  font-weight: bold;
+  min-width: 500px;
+  text-align: center;
+}
+
+.header {
+  background-color: lightgray;
+  color: dimgray;
+  display: block;
+  font-weight: bold;
+  min-width: 500px;
+}
+
+.highlight {
+  color: crimson;
+}
+
+.selected {
+  background-color: crimson;
+  color: lightgray;
+}
+
+.shadow {
+  background-color: black;
+  display: flex;
+  flex-grow: 1;
+
+  &top {
+    background-color: blue;
+    display: flex;
+    flex-grow: 1;
+  }
+}
