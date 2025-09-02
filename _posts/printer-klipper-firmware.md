@@ -1091,10 +1091,9 @@ Get the most up to date info on the [official page](https://mellow-3d.github.io/
 cd ~/katapult/
 make clean
 make menuconfig KCONFIG_CONFIG=config.super8_katapult
-cp config.super8_katapult ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.super8_katapult -j4
-cp out/deployer.bin ../printer_data/config/
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1114,16 +1113,43 @@ cp out/deployer.bin ../printer_data/config/
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.super8_katapult ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.super8_katapult -j4
+```
+
+For the initial flash we need to copy the file to an sd card. The easiest way to do this is to copy `out/deployer.bin` to the klipper config directory:
+
+```sh
+cp out/deployer.bin ../printer_data/config/
+```
+
+You can then:
+
+1. Download it to your local machine from the Mainsail web interface.
+2. Copy the `deployer.bin` file to the root of the Micro SD card.
+3. Rename `deployer.bin` to `firmware.bin`.
+4. Eject the Micro SD card from the PC.
+5. Insert it into the Micro SD card Slot on the MCU.
+6. Press the `RESET` button on the MCU.
+
+Subsequent flashes can then be done by double prossing the `RESET` button on the MCU and then using the command:
+
+```sh
+python3 ~/katapult/scripts/flashtool.py -f ~/katapult/out/deployer.bin -d /dev/serial/by-id/usb-katapult_stm32f407xx_5A0034000250304235323120-if00
+```
+
 ### Klipper Firmware Configuration
 
 ```sh
 cd ../klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.super8_klipper
-cp config.super8_klipper ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.super8_klipper -j4
-make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/usb-katapult_stm32f407xx_5A0034000250304235323120-if00
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1139,6 +1165,14 @@ make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 ()  GPIO pins to set at micro-controller startup
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.super8_klipper ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.super8_klipper -j4
+make KCONFIG_CONFIG=config.super8_klipper flash FLASH_DEVICE=/dev/serial/by-id/usb-katapult_stm32f407xx_5A0034000250304235323120-if00
 ```
 
 # RPi microcontroller
