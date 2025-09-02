@@ -773,6 +773,8 @@ This board will be used for the [Voron 0.2](printer-voron-0.2).
 
 ### Klipper Firmware Configuration
 
+#### USB
+
 ```sh
 cd ~/klipper/
 make clean
@@ -1119,6 +1121,8 @@ This board will be used in the [Rook 2020](printer-rook).
 
 ### Klipper Firmware Configuration
 
+#### USB
+
 ```sh
 cd ~/klipper/
 make clean
@@ -1316,6 +1320,8 @@ This board will be used for the [Voron 2.4](printer-voron-2.4).
 
 ### Katapult Configuration
 
+#### USB
+
 ```sh
 cd ~/katapult/
 make clean
@@ -1372,6 +1378,8 @@ python3 ~/katapult/scripts/flashtool.py -f ~/katapult/out/deployer.bin -d /dev/s
 ```
 
 ### Klipper Firmware Configuration
+
+#### USB
 
 ```sh
 cd ../klipper/
