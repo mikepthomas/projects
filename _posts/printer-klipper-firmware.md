@@ -2,7 +2,7 @@
 title: Klipper Firmware
 heading: Configuring the software to run a 3D Printer
 date: 2025-08-29T22:45:11.067Z
-lastmod: 2025-09-01T20:33:54.319Z
+lastmod: 2025-09-02T23:00:28.882Z
 author: Mike Thomas
 description: Configuring MainsailOS with all the software to run Klipper on my 3D Printer.
 preview: /assets/blog/printer-klipper-firmware/klipper-firmware-hero.jpg
@@ -11,6 +11,7 @@ related:
   - /projects/printer-voron-0.2
   - /projects/printer-voron-1.8
   - /projects/printer-voron-2.4
+  - /projects/printer-am8
   - /projects/single-board-computers
 tags:
   - Raspberry Pi
@@ -151,6 +152,8 @@ You can find the configs used in the sections below in my [Klipper Config Firmwa
 
 ## Anet A8
 
+This is the board that originally came with [my first 3D printer](printer).
+
 ### Klipper Firmware Configuration
 
 #### USB
@@ -276,6 +279,8 @@ make KCONFIG_CONFIG=config.arduino_uno flash FLASH_DEVICE=/dev/serial/by-id/usb-
 
 Get the most up to date info on the [official page](https://github.com/Tircown/ERCF-easy-brd).
 
+This board will be used for the [6 channel Enraged Rabbit Carrot Feeder V1.1](enraged-rabbit-carrot-feeder-1.1).
+
 ### Klipper Firmware Configuration
 
 #### USB
@@ -313,6 +318,8 @@ sudo bossac -i -d -p /dev/ttyACM0 -e -w -v -R --offset=0x2000 out/klipper.bin
 ## EBB SB2240 CAN V1.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md).
+
+This board will be used for the [Stealthburner](voron-stealthburner) on the [Voron 2.4](printer-voron-2.4) when I upgrade to CAN.
 
 ### Katapult Configuration
 
@@ -566,6 +573,8 @@ make KCONFIG_CONFIG=config.ebb42_1.1_klipper flash FLASH_DEVICE=/dev/serial/by-i
 
 Get the most up to date info on the [official page](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/Documentation/Setup_and_Flashing_Guide.md).
 
+This board is used to control fans on the [Voron 1.8](printer-voron-1.8).
+
 ### Klipper Firmware Configuration
 
 #### USB
@@ -641,6 +650,8 @@ make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
 ## MMB CAN V1.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/MMB).
+
+This board will be used for the [8 channel Enraged Rabbit Carrot Feeder V2.0](enraged-rabbit-carrot-feeder-2.0).
 
 ### Katapult Configuration
 
@@ -758,6 +769,8 @@ make KCONFIG_CONFIG=config.mmb_can_1.0_klipper -j4
 
 Get the most up to date info on the [official page](https://github.com/MotorDynamicsLab/LDO-Picobilical).
 
+This board will be used for the [Voron 0.2](printer-voron-0.2).
+
 ### Klipper Firmware Configuration
 
 ```sh
@@ -783,6 +796,8 @@ make KCONFIG_CONFIG=config.picobilical -j4
 ## PITB
 
 Get the most up to date info on the [official page](https://github.com/kageurufu/PITB/tree/main/firmware).
+
+This board will be used for the A/B Motors on the [Voron 2.4](printer-voron-2.4) when I upgrade to CAN.
 
 ### Katapult Configuration
 
@@ -902,6 +917,8 @@ Get the most up to date info on the [official page](https://github.com/bigtreete
 
 There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skr13_klipper.html).
 
+This board is currently using [Marlin Firmware](https://marlinfw.org/) on my [Anet A8](printer-hardware-upgrades), but will be flashed with klipper when upgrading to the [AM8](printer-am8).
+
 ### Klipper Firmware Configuration
 
 #### Serial
@@ -998,6 +1015,8 @@ sudo service klipper start
 Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4).
 
 There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skr13_klipper.html).
+
+This board is being used by the [Voron 1.8](printer-voron-1.8).
 
 ### Klipper Firmware Configuration
 
@@ -1096,6 +1115,8 @@ Get the most up to date info on the [official page](https://github.com/bigtreete
 
 There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/miniE3_v20_klipper.html).
 
+This board will be used in the [Rook 2020](printer-rook).
+
 ### Klipper Firmware Configuration
 
 ```sh
@@ -1165,6 +1186,8 @@ sudo service klipper start
 Get the most up to date info on the [official page](https://github.com/bigtreetech/SKR-Pico).
 
 There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skrPico_klipper.html).
+
+This board will be used for the [Voron 0.2](printer-voron-0.2).
 
 ### Klipper Firmware Configuration
 
@@ -1288,6 +1311,8 @@ sudo service klipper start
 ## Super8
 
 Get the most up to date info on the [official page](https://mellow-3d.github.io/fly_super8.html).
+
+This board will be used for the [Voron 2.4](printer-voron-2.4).
 
 ### Katapult Configuration
 
