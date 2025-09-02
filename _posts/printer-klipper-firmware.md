@@ -754,6 +754,32 @@ make KCONFIG_CONFIG=config.mmb_can_1.0_klipper -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+## Picobilical
+
+Get the most up to date info on the [official page](https://github.com/MotorDynamicsLab/LDO-Picobilical).
+
+### Klipper Firmware Configuration
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.picobilical
+cp config.picobilical ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.picobilical -j4
+```
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
+    Processor model (rp2040)  --->
+    Bootloader offset (No bootloader)  --->
+    Communication Interface (USBSERIAL)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
 ## PITB
 
 Get the most up to date info on the [official page](https://github.com/kageurufu/PITB/tree/main/firmware).
