@@ -900,6 +900,8 @@ make KCONFIG_CONFIG=config.pitb_klipper -j4
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4).
 
+There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skr13_klipper.html).
+
 ### Klipper Firmware Configuration
 
 #### Serial
@@ -908,9 +910,9 @@ Get the most up to date info on the [official page](https://github.com/bigtreete
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_serial
-cp config.skr_1.4_serial ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_1.4_serial -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -924,15 +926,22 @@ make KCONFIG_CONFIG=config.skr_1.4_serial -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_1.4_serial ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_1.4_serial -j4
+```
+
 #### USB
 
 ```sh
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_usb
-cp config.skr_1.4_usb ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_1.4_usb -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -946,9 +955,49 @@ make KCONFIG_CONFIG=config.skr_1.4_usb -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_1.4_usb ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_1.4_usb -j4
+```
+
+#### Flash
+
+For the initial flash we need to copy the file to a micro sd card.
+The easiest way to do this is to copy `out/klipper.bin` to the klipper config directory:
+
+```sh
+cp out/klipper.bin ../printer_data/config/
+```
+
+You can then:
+
+1. Download it to your local machine from the Mainsail web interface.
+2. Copy the `klipper.bin` file to the root of the Micro SD card.
+3. Rename `klipper.bin` to `firmware.bin`.
+4. Eject the Micro SD card from the PC.
+5. Disconnect the power to the MCU.
+6. Insert the Micro SD card into the slot on the MCU.
+7. Power on the MCU.
+8. Check the firmware has flashed, file on the SD card will change to `firmware.cur`, if succesful.
+
+> [!IMPORTANT]
+> If the file is not named `firmware.bin`, the firmware will not be updated.
+
+Subsequent flashes can then be done by using the following commands:
+
+```sh
+sudo service klipper stop
+~/klipper/scripts/flash-sdcard.sh /dev/serial/by-id/usb-Klipper_lpc1769_1C10011425813AAFCED76B5CC22000F5-if00 btt-skr-v1.3
+sudo service klipper start
+```
+
 ## SKR 1.4 Turbo
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4).
+
+There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skr13_klipper.html).
 
 ### Klipper Firmware Configuration
 
@@ -958,9 +1007,9 @@ Get the most up to date info on the [official page](https://github.com/bigtreete
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_turbo_serial
-cp config.skr_1.4_turbo_serial ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -974,15 +1023,22 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_1.4_turbo_serial ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_1.4_turbo_serial -j4
+```
+
 #### USB
 
 ```sh
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_1.4_turbo_usb
-cp config.skr_1.4_turbo_usb ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -996,9 +1052,49 @@ make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_1.4_turbo_usb ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_1.4_turbo_usb -j4
+```
+
+#### Flash
+
+For the initial flash we need to copy the file to a micro sd card.
+The easiest way to do this is to copy `out/klipper.bin` to the klipper config directory:
+
+```sh
+cp out/klipper.bin ../printer_data/config/
+```
+
+You can then:
+
+1. Download it to your local machine from the Mainsail web interface.
+2. Copy the `klipper.bin` file to the root of the Micro SD card.
+3. Rename `klipper.bin` to `firmware.bin`.
+4. Eject the Micro SD card from the PC.
+5. Disconnect the power to the MCU.
+6. Insert the Micro SD card into the slot on the MCU.
+7. Power on the MCU.
+8. Check the firmware has flashed, file on the SD card will change to `firmware.cur`, if succesful.
+
+> [!IMPORTANT]
+> If the file is not named `firmware.bin`, the firmware will not be updated.
+
+Subsequent flashes can then be done by using the following commands:
+
+```sh
+sudo service klipper stop
+~/klipper/scripts/flash-sdcard.sh /dev/serial/by-id/usb-Klipper_lpc1769_1C10011425813AAFCED76B5CC22000F5-if00 btt-skr-v1.3
+sudo service klipper start
+```
+
 ## SKR Mini E3 V2.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware).
+
+There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/miniE3_v20_klipper.html).
 
 ### Klipper Firmware Configuration
 
@@ -1006,9 +1102,9 @@ Get the most up to date info on the [official page](https://github.com/bigtreete
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_mini_e3
-cp config.skr_mini_e3 ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_mini_e3 -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1028,21 +1124,61 @@ make KCONFIG_CONFIG=config.skr_mini_e3 -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_mini_e3 ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_mini_e3 -j4
+```
+
+For the initial flash we need to copy the file to a micro sd card.
+The easiest way to do this is to copy `out/klipper.bin` to the klipper config directory:
+
+```sh
+cp out/klipper.bin ../printer_data/config/
+```
+
+You can then:
+
+1. Download it to your local machine from the Mainsail web interface.
+2. Copy the `klipper.bin` file to the root of the Micro SD card.
+3. Rename `klipper.bin` to `firmware.bin`.
+4. Eject the Micro SD card from the PC.
+5. Disconnect the power to the MCU.
+6. Insert the Micro SD card into the slot on the MCU.
+7. Power on the MCU.
+8. Check the firmware has flashed, file on the SD card will change to `firmware.cur`, if succesful.
+
+> [!IMPORTANT]
+> If the file is not named `firmware.bin`, the firmware will not be updated.
+
+Subsequent flashes can then be done by using the following commands:
+
+```sh
+sudo service klipper stop
+~/klipper/scripts/flash-sdcard.sh /dev/serial/by-id/usb-Klipper_stm32f103xe_1C10011425813AAFCED76B5CC22000F5-if00 btt-skr-mini-e3-v2
+sudo service klipper start
+```
+
 ## SKR Pico
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/SKR-Pico).
+
+There is also some useful information in the [Voron Design Documentation](https://docs.vorondesign.com/build/software/skrPico_klipper.html).
 
 ### Klipper Firmware Configuration
 
 #### CAN
 
+You will need a `CAN Transceiver Module` for this, I used [this SN65HVD230 Module](https://www.aliexpress.com/item/1005002843325046.html) connected to the `Raspberry Pi Serial Port`.
+
 ```sh
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_pico_can
-cp config.skr_pico_can ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_pico_can -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1063,15 +1199,22 @@ make KCONFIG_CONFIG=config.skr_pico_can -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_pico_can ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_pico_can -j4
+```
+
 #### Serial
 
 ```sh
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_pico_serial
-cp config.skr_pico_serial ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_pico_serial -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1085,15 +1228,22 @@ make KCONFIG_CONFIG=config.skr_pico_serial -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
+Backup config and Build:
+
+```sh
+cp config.skr_pico_serial ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_pico_serial -j4
+```
+
 #### USB
 
 ```sh
 cd ~/klipper/
 make clean
 make menuconfig KCONFIG_CONFIG=config.skr_pico_usb
-cp config.skr_pico_usb ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.skr_pico_usb -j4
 ```
+
+Set the following configuration:
 
 ```
 (Top)
@@ -1105,6 +1255,34 @@ make KCONFIG_CONFIG=config.skr_pico_usb -j4
     Communication Interface (USBSERIAL)  --->
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config and Build:
+
+```sh
+cp config.skr_pico_usb ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.skr_pico_usb -j4
+```
+
+#### Flash
+
+For the initial flash we need to install jumpers on the `USB Power` and `Boot` pins, connect the MCU to the Raspberry Pi and run:
+
+```sh
+sudo mount /dev/sda1 /mnt
+sudo cp out/klipper.uf2 /mnt
+sudo umount /mnt
+```
+
+Disconnect power from the MCU and remove the jumpers we installed earlier.
+
+Subsequent flashes can then be done by using the following commands:
+
+```sh
+sudo service klipper stop
+cd ~/klipper
+make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_rp2040_1D0004001050563046363120-if00
+sudo service klipper start
 ```
 
 ## Super8
@@ -1146,7 +1324,8 @@ cp config.super8_katapult ../printer_data/config/Firmware/
 make KCONFIG_CONFIG=config.super8_katapult -j4
 ```
 
-For the initial flash we need to copy the file to an sd card. The easiest way to do this is to copy `out/deployer.bin` to the klipper config directory:
+For the initial flash we need to copy the file to a micro sd card.
+The easiest way to do this is to copy `out/deployer.bin` to the klipper config directory:
 
 ```sh
 cp out/deployer.bin ../printer_data/config/
@@ -1158,10 +1337,10 @@ You can then:
 2. Copy the `deployer.bin` file to the root of the Micro SD card.
 3. Rename `deployer.bin` to `firmware.bin`.
 4. Eject the Micro SD card from the PC.
-5. Insert it into the Micro SD card Slot on the MCU.
+5. Insert the Micro SD card into the slot on the MCU.
 6. Press the `RESET` button on the MCU.
 
-Subsequent flashes can then be done by double prossing the `RESET` button on the MCU and then using the command:
+Subsequent flashes can then be done by double pressing the `RESET` button on the MCU and then using the command:
 
 ```sh
 python3 ~/katapult/scripts/flashtool.py -f ~/katapult/out/deployer.bin -d /dev/serial/by-id/usb-katapult_stm32f407xx_5A0034000250304235323120-if00
@@ -1492,8 +1671,9 @@ wget https://github.com/Stout69/For-Klipper/raw/main/st7920.py
 Then recompile klipper for the MCU (See above)
 
 > [!WARNING]
-> I have retried these steps recently, however the issue in the GitHub issue still persists.
-> Maybe a new fix that will work will make it's way into Klipper some day...
+> I have retried these steps recently, however the problem in the GitHub issue still persists.
+>
+> Since Klipper no longer uses GitHub issues for it's issue tracker, [I have created a post in config-support Channel on Discord](https://discord.com/channels/431557959978450984/1412458895254749366/1412458895254749366).
 
 # KlipperScreen Fix
 
