@@ -2,7 +2,7 @@
 title: Klipper Firmware
 heading: Configuring the software to run a 3D Printer
 date: 2025-08-29T22:45:11.067Z
-lastmod: 2025-09-02T23:00:28.882Z
+lastmod: 2025-09-04T21:19:32.286Z
 author: Mike Thomas
 description: Configuring MainsailOS with all the software to run Klipper on my 3D Printer.
 preview: /assets/blog/printer-klipper-firmware/klipper-firmware-hero.jpg
@@ -795,7 +795,7 @@ make KCONFIG_CONFIG=config.picobilical -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-## PITB
+## PITB V1.0
 
 Get the most up to date info on the [official page](https://github.com/kageurufu/PITB/tree/main/firmware).
 
@@ -827,34 +827,8 @@ make KCONFIG_CONFIG=config.pitb_can_katapult -j4
 ()  GPIO pins to set on bootloader entry
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
-[ ] Enable Status LED
-[Space/Enter] Toggle/enter      [?] Help            [/] Search
-[Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-#### USB
-
-```sh
-cd ~/katapult/
-make clean
-make menuconfig KCONFIG_CONFIG=config.pitb_katapult
-cp config.pitb_katapult ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.pitb_katapult -j4
-```
-
-```
-(Top)
-                         Katapult Configuration
-    Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
-    Processor model (rp2040)  --->
-    Flash chip (W25Q080 with CLKDIV 2)  --->
-    Build Katapult deployment application (Do not build)  --->
-    Communication Interface (USBSERIAL)  --->
-    USB ids  --->
-()  GPIO pins to set on bootloader entry
-[*] Support bootloader entry on rapid double click of reset button
-[ ] Enable bootloader entry on button (or gpio) state
-[ ] Enable Status LED
+[*] Enable Status LED
+(gpio15) Status LED GPIO Pin
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
@@ -904,13 +878,24 @@ make KCONFIG_CONFIG=config.pitb_klipper -j4
 [*] Enable extra low-level configuration options
     Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  --->
     Processor model (rp2040)  --->
-    Bootloader offset (16KiB bootloader)  --->
+    Bootloader offset (No bootloader)  --->
+    Flash chip (W25Q080 with CLKDIV 2)  --->
     Communication Interface (USBSERIAL)  --->
     USB ids  --->
 [*] Optimize stepper code for 'step on both edges'
 ()  GPIO pins to set at micro-controller startup
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+#### Flash
+
+Hold the `Boot` boot button whilst connecting the MCU to the Raspberry Pi and run:
+
+```sh
+sudo mount /dev/sda1 /mnt
+sudo cp out/klipper.uf2 /mnt
+sudo umount /mnt
 ```
 
 ## SKR 1.4

@@ -94,6 +94,12 @@ export default function ColorKatapult(children: ReactNode) {
           <Menu>[*] Enable Status LED</Menu>
         </Background>
       );
+    case '(gpio15) Status LED GPIO Pin\n':
+      return (
+        <Background>
+          <Menu>(gpio15) Status LED GPIO Pin</Menu>
+        </Background>
+      );
     case '(PA13)  Status LED GPIO Pin\n':
       return (
         <Background>
