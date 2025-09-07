@@ -2,7 +2,7 @@
 title: Voron 0.2
 heading: Assembling the smallest Voron printer
 date: 2023-04-03
-lastmod: 2025-08-20T14:17:39.269Z
+lastmod: 2025-09-07T19:19:19.219Z
 author: Mike Thomas
 description: Printing parts to build and assemble the smallest of the Voron 3D printers, the Voron 0.2.
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
@@ -30,36 +30,39 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Fasteners
 
-| Item                                      | Quantity | Received | Notes                                                                                                                              |
-| ----------------------------------------- | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 3x6x0.5 Shim Washer                       | 50       | 39       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M2x4 SHCS                                 |          | 8        | To Mount Kirigami to Z-Rails                                                                                                       |
-| M2x6 FHCS                                 | 10       | 12       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M2x6 SHCS                                 | 70       | 74       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M2x8 SHCS                                 | 10       | 12       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| ~M2 Nut~                                  | ~55~     |          | Not required as Using [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/)                    |
-| M2.5x6 BHCS                               |          | 6        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x6 BHCS                                 | 40       | 63       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x8 BHCS                                 | 115      | 135      | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x8 FHCS                                 | 5        | 7        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x10 BHCS                                | 50       | 37       | In LDO V0.2-S1 Fastener Kit. Fewer needed due to Kirigami Bed Mount                                                                |
-| M3x12 BHCS                                | 25       | 33       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x16 BHCS                                | 10       | 11       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x25 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x30 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x35 BHCS                                | 30       | 33       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x40 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3x50 BHCS                                |          | 2        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3 Brass heatstake inserts - short M3x5x4 | 50       | 60       | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3 LDO Slide In Nut                       |          | 140      | 100 In LDO V0.2-S1 Fastener Kit, 40 from 2 [LDO M3 Slide In Nut Kit](https://www.onetwo3d.co.uk/product/ldo-m3-slide-in-nut-kit/)s |
-| M3 Lock Nut                               |          | 6        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3 Nut                                    | 140      | 155      | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| M3 Thumb Nut                              |          | 3        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
-| Makerbeam XL M3 t-nut                     | 2        | 3        | In LDO V0.2-S1 Fastener Kit                                                                                                        |
+| Item                                      | Quantity | Received | Notes                        |
+| ----------------------------------------- | -------- | -------- | ---------------------------- |
+| 3x6x0.5 Shim Washer                       | 50       | 39       | In LDO V0.2-S1 Fastener Kit  |
+| M2x4 SHCS                                 |          | 8        | To Mount Kirigami to Z-Rails |
+| M2x6 FHCS                                 | 10       | 12       | In LDO V0.2-S1 Fastener Kit  |
+| M2x6 SHCS                                 | 70       | 74       | In LDO V0.2-S1 Fastener Kit  |
+| M2x8 SHCS                                 | 10       | 12       | In LDO V0.2-S1 Fastener Kit  |
+| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In LDO V0.2-S1 Fastener Kit  |
+| ~M2 Nut~                                  | ~55~     |          | Not required                 |
+| M2.5x6 BHCS                               |          | 6        | In LDO V0.2-S1 Fastener Kit  |
+| M3x6 BHCS                                 | 40       | 63       | In LDO V0.2-S1 Fastener Kit  |
+| M3x8 BHCS                                 | 115      | 135      | In LDO V0.2-S1 Fastener Kit  |
+| M3x8 FHCS                                 | 5        | 7        | In LDO V0.2-S1 Fastener Kit  |
+| M3x10 BHCS                                | 50       | 37       | In LDO V0.2-S1 Fastener Kit  |
+| M3x12 BHCS                                | 25       | 33       | In LDO V0.2-S1 Fastener Kit  |
+| M3x16 BHCS                                | 10       | 11       | In LDO V0.2-S1 Fastener Kit  |
+| M3x25 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit  |
+| M3x30 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit  |
+| M3x35 BHCS                                | 30       | 33       | In LDO V0.2-S1 Fastener Kit  |
+| M3x40 BHCS                                | 10       | 12       | In LDO V0.2-S1 Fastener Kit  |
+| M3x50 BHCS                                |          | 2        | In LDO V0.2-S1 Fastener Kit  |
+| M3 Brass heatstake inserts - short M3x5x4 | 50       | 60       | In LDO V0.2-S1 Fastener Kit  |
+| M3 LDO Slide In Nut                       |          | 100      | In LDO V0.2-S1 Fastener Kit  |
+| M3 Lock Nut                               |          | 6        | In LDO V0.2-S1 Fastener Kit  |
+| M3 Nut                                    | 140      | 155      | In LDO V0.2-S1 Fastener Kit  |
+| M3 Thumb Nut                              |          | 3        | In LDO V0.2-S1 Fastener Kit  |
+| Makerbeam XL M3 t-nut                     | 2        | 3        | In LDO V0.2-S1 Fastener Kit  |
 
 > [!NOTE]
-> All fasteners are from the [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/).
+>
+> - All fasteners are from the [LDO V0.2-S1 Fastener Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-fastener-kit/).
+> - M2 nuts not required as I will be using the [LDO 0.2 Nut Bar Mount Kit](https://www.onetwo3d.co.uk/product/ldo-v0-nut-bar-mount-kit/).
+> - Fewer M3x10 BHCS needed due to installing the [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/).
 
 ## CNC Parts
 
@@ -70,14 +73,16 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Frame Extrusions
 
-| Item                       | Quantity | Received | Notes                                                                                        |
-| -------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------- |
-| Kirigami Bed Mount         |          | 1        | [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/) |
-| ~Makerbeam XL 15x15 100mm~ | ~3~      |          | Not required, Using LDO Kirigami Bed Mount Kit instead                                       |
-| Makerbeam XL 15x15 200mm   | 16       | 16       | In LDO V0.2 Frame Kit                                                                        |
+| Item                       | Quantity | Received | Notes                                                  |
+| -------------------------- | -------- | -------- | ------------------------------------------------------ |
+| Kirigami Bed Mount         |          | 1        | LDO Kirigami Bed Mount Kit                             |
+| ~Makerbeam XL 15x15 100mm~ | ~3~      |          | Not required, Using LDO Kirigami Bed Mount Kit instead |
+| Makerbeam XL 15x15 200mm   | 16       | 16       | In LDO V0.2 Frame Kit                                  |
 
 > [!NOTE]
-> All extrusions are from the [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/).
+>
+> - All extrusions are from the [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-kit/).
+> - Kirigami Bed is from the [LDO Kirigami Bed Mount Kit](https://www.onetwo3d.co.uk/product/ldo-kirigami-bed-mount-kit/).
 
 ## Extrusion Tophat Frame Extrusions
 
@@ -91,29 +96,29 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes                                                                                                                 |
-| -------------------------------------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| 100R resistor PCB for NeoPixels                          |          | 2        | [Linneo PCB with 100 Ohm resistor for Neopixels](https://www.onetwo3d.co.uk/product/100r-resistor-pcb-for-neopixels/) |
-| 24V Heater Cartridge                                     | 1        | 1        |                                                                                                                       |
-| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                                                          |
-| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)                                         |
-| 3510 axial fan 24V                                       |          | 4        | GDSTime Fans for Stealth Skirts                                                                                       |
-| 3M 5952 VHB tape                                         | 1        | 1        |                                                                                                                       |
-| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                                                       |
-| C13 Power Cord                                           | 1        | 1        |                                                                                                                       |
-| ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts                                                                                      |
-| Hotend                                                   | 1        | 1        |                                                                                                                       |
-| Hotend thermistor                                        | 1        | 1        |                                                                                                                       |
-| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                                                                                         |
-| Meanwell LRS-150-24                                      | 1        | 1        |                                                                                                                       |
-| MicroSD Card                                             | 1        | 1        |                                                                                                                       |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                                                                                                    |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | LDO-42STH25-1004CL200ET(VRN) Teflon Coat                                                                              |
-| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB](https://www.aliexpress.com/item/1005006018425337.html)                             |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                                                       |
-| Raspberry Pi 4                                           | 1        | 1        |                                                                                                                       |
-| V0 Display                                               | 1        | 1        |                                                                                                                       |
-| Wago connectors (221-412)                                |          | 2        |                                                                                                                       |
+| Item                                                     | Quantity | Received | Notes                                                                                     |
+| -------------------------------------------------------- | -------- | -------- | ----------------------------------------------------------------------------------------- |
+| 100R resistor PCB for NeoPixels                          |          | 2        | Linneo PCB with 100 Ohm resistor for Neopixels                                            |
+| 24V Heater Cartridge                                     | 1        | 1        |                                                                                           |
+| 3010 blower fans 24V                                     | 2        | 2        | GDSTime Fans                                                                              |
+| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans](https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan/)             |
+| 3510 axial fan 24V                                       |          | 4        | GDSTime Fans for Stealth Skirts                                                           |
+| 3M 5952 VHB tape                                         | 1        | 1        |                                                                                           |
+| Bigtreetech SKR Pico                                     | 1        | 1        |                                                                                           |
+| C13 Power Cord                                           | 1        | 1        |                                                                                           |
+| ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts                                                          |
+| Hotend                                                   | 1        | 1        |                                                                                           |
+| Hotend thermistor                                        | 1        | 1        |                                                                                           |
+| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                                                             |
+| Meanwell LRS-150-24                                      | 1        | 1        |                                                                                           |
+| MicroSD Card                                             | 1        | 1        |                                                                                           |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                                                                        |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | LDO-42STH25-1004CL200ET(VRN) Teflon Coat                                                  |
+| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB](https://www.aliexpress.com/item/1005006018425337.html) |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                                                           |
+| Raspberry Pi 4                                           | 1        | 1        |                                                                                           |
+| V0 Display                                               | 1        | 1        |                                                                                           |
+| Wago connectors (221-412)                                |          | 2        |                                                                                           |
 
 ## Cables
 
@@ -158,18 +163,25 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Panels
 
-| Item                                        | Quantity | Received | Notes                                                                                                                                      |
-| ------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ | ~2~      |          | Not required as using [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)              |
-| ~Acrylic Sheet Clear (door) - 212x239x3mm~  | ~1~      |          | Not required as using [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/) |
-| Acrylic Sheet Smoked - 168x180x3mm          |          | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
-| Bottom Panel 3mm thick (See DXF)            | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Deck Panel 3mm thick (See DXF)              | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Lower Rear Panel 212x185x3mm                | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| Mid Panel 3mm thick (See DXF)               | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
-| ~Motor Panel 3mm thick (See DXF)~           | ~1~      |          | Not required as using [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
-| RGBW LED Side Panel PCB                     |          | 2        | [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/)                                    |
-| Upper Rear Panel 212x63x3mm                 | 1        | 1        | [Linneo Orange ACM](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/)                                             |
+| Item                                        | Quantity | Received | Notes                                             |
+| ------------------------------------------- | -------- | -------- | ------------------------------------------------- |
+| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ | ~2~      |          | Not required as using Linneo RGBW LED Side Panels |
+| ~Acrylic Sheet Clear (door) - 212x239x3mm~  | ~1~      |          | Not required as using LDO Mini-Fridge Door Kit    |
+| Acrylic Sheet Smoked - 168x180x3mm          |          | 2        | Linneo RGBW LED Side Panels                       |
+| Bottom Panel 3mm thick (See DXF)            | 1        | 1        | Linneo Orange ACM                                 |
+| Deck Panel 3mm thick (See DXF)              | 1        | 1        | Linneo Orange ACM                                 |
+| Lower Rear Panel 212x185x3mm                | 1        | 1        | Linneo Orange ACM                                 |
+| Mid Panel 3mm thick (See DXF)               | 1        | 1        | Linneo Orange ACM                                 |
+| ~Motor Panel 3mm thick (See DXF)~           | ~1~      |          | Not required as using LDO Picobilical PCB kit     |
+| RGBW LED Side Panel PCB                     |          | 2        | Linneo RGBW LED Side Panels                       |
+| Upper Rear Panel 212x63x3mm                 | 1        | 1        | Linneo Orange ACM                                 |
+
+> [!WARNING]
+> Some of these parts are not required as I will be using the
+> [LDO Mini-Fridge Door Kit](https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2/),
+> [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/),
+> [Linneo Orange ACM Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/) and
+> [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/).
 
 ## Bowden
 
@@ -228,10 +240,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Tools
 
-| Item                                                                                                        | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |       |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |       |
+| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
+| [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/Tools%20(optional%20as%20needed)/Bearing_Press_Tool_x1.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                           |
+| [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/Tools%20(optional%20as%20needed)/Pully_Tool_x1.stl>)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                           |
 
 ## Frame
 
@@ -414,53 +428,36 @@ The [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
+I have opted to upgrade the stock Gantry to the [TULIP V2.0](https://github.com/Amekyras/tulip) mod by `Amekyras` which is a full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners.
+The benefit for the A/B Drives is that the A/B motors are mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
+
 ### :negative_squared_cross_mark: A Drive
 
-| Item                                                                                                              | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ----------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 9.61m | 24.51g | £0.42 | :heavy_check_mark: |       |
-| [A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 5.91m | 15.07g | £0.26 | :heavy_check_mark: |       |
-| [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)               | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-| [A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-
-#### Assembly
-
-##### Parts Used
-
-| Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| 3x6x0.5 Shim Washer                       | 10       |
-| F623-RS Bearing                           | 6        |
-| GT2 20T (5mm ID 6mm W)                    | 1        |
-| M3x30 BHCS                                | 2        |
-| M3x35 BHCS                                | 8        |
-| M3 Brass heatstake inserts - short M3x5x4 | 4        |
-| NEMA14 Stepper Motor 40Ncm                | 1        |
+| Item                                                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| ~[A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)~                      | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| ~[A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)~                      | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| ~[A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl)~                  | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [Mid_Mount_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/%5Ba%5D_Mid_Mount_A_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Mount_Plate_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Mount_Plate_A_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                     | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~                        | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [Top_Mount_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Top_Mount_A_x1.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ### :negative_squared_cross_mark: B Drive
 
-| Item                                                                                                              | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ----------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 9.62m | 24.52g | £0.42 | :heavy_check_mark: |       |
-| [B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 5.91m | 15.07g | £0.26 | :heavy_check_mark: |       |
-| [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)               | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-| [B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-| [Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)       | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-
-#### Assembly
-
-##### Parts Used
-
-| Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| 3x6x0.5 Shim Washer                       | 10       |
-| F623-RS Bearing                           | 6        |
-| GT2 20T (5mm ID 6mm W)                    | 1        |
-| M3x30 BHCS                                | 2        |
-| M3x35 BHCS                                | 8        |
-| M3 Brass heatstake inserts - short M3x5x4 | 4        |
-| NEMA14 Stepper Motor 40Ncm                | 1        |
+| Item                                                                                                                                 | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| ~[B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)~                      | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| ~[B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)~                      | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| ~[B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl)~                  | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [Mid_Mount_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/%5Ba%5D_Mid_Mount_B_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Mount_Plate_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Mount_Plate_B_x1.stl)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                     | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~                        | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [Top_Mount_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Top_Mount_B_x1.stl)         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ## A/B Idlers
 
@@ -468,43 +465,35 @@ The [LDO V0.2 Frame Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-2-frame-
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
+I have opted to upgrade the stock Gantry to the [TULIP V2.0](https://github.com/Amekyras/tulip) mod by `Amekyras` which is a full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners.
+The benefit for the A/B Idlers this is that belt tension is applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
+
 ### :negative_squared_cross_mark: A Idler
 
-| Item                                                                                                        | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.45m | 3.70g  | £0.06 | :heavy_check_mark: |       |
-| [A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.76m | 7.04g  | £0.12 | :heavy_check_mark: |       |
-| [Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |       |
-
-#### Assembly
-
-##### Parts Used
-
-| Item                | Quantity |
-| ------------------- | -------- |
-| 3x6x0.5 Shim Washer | 2        |
-| F623-RS Bearing     | 2        |
-| M3x35 BHCS          | 2        |
+| Item                                                                                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
+| ~[A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)~                                                                             | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                                     |
+| [A_Idler_Static_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/A_Idler_Static_LazyCam_x1.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)~                                                                             | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                                                                     |
+| [Idler_A_Tensioner_Lower_LaztCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_A_Tensioner_Lower_LaztCam_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| [Idler_A_Tensioner_Upper_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_A_Tensioner_Upper_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                   | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                                                                     |
+| [LazyCams_C-A CamArm_v1](https://www.printables.com/model/533483)                                                                                                               | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [LazyCams_C-A CamLock_v1](https://www.printables.com/model/533483)                                                                                                              | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
 
 ### :negative_squared_cross_mark: B Idler
 
-| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------- |
-| [B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 2.47m | 6.31g  | £0.11 | :heavy_check_mark: |                                        |
-| [B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)                                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.74m | 4.43g  | £0.08 | :heavy_check_mark: |                                        |
-| [Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)                         | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |       |        :x:         |                                        |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00  | :heavy_check_mark: | This is a Voron Users mod by `zruncho` |
-
-#### Assembly
-
-##### Parts Used
-
-| Item                | Quantity |
-| ------------------- | -------- |
-| 3x6x0.5 Shim Washer | 2        |
-| F623-RS Bearing     | 2        |
-| M3x35 BHCS          | 2        |
-| M3 Nut              | 4        |
+| Item                                                                                                                                                                            | Quantity | Material                                             | Size  | Weight | Cost |      Printed       | Notes                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ---- | :----------------: | ------------------------------------------------------------------- |
+| ~[B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)~                                                                             | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |        :x:         |                                                                     |
+| [B_Idler_Static_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/B_Idler_Static_LazyCam_x1.stl)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |        :x:         | This is a TULIP V2.0 Part                                           |
+| ~[B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)~                                                                             | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |      |        :x:         |                                                                     |
+| [Idler_B_Tensioner_Lower_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_B_Tensioner_Lower_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |      |        :x:         | This is a TULIP V2.0 Part                                           |
+| [Idler_B_Tensioner_Upper_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_B_Tensioner_Upper_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |      |        :x:         | This is a TULIP V2.0 Part                                           |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                   | ~1~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |      |        :x:         |                                                                     |
+| [LazyCams_C-B CamArm_v1](https://www.printables.com/model/533483)                                                                                                               | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |      |        :x:         | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [LazyCams_C-B CamLock_v1](https://www.printables.com/model/533483)                                                                                                              | 1        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |       |        |      |        :x:         | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                             | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.10m | 0.26g  | 0.00 | :heavy_check_mark: | This is a Voron Users mod by `zruncho`                              |
 
 ## Z Axis
 
@@ -565,19 +554,25 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: XY Joint Left
 
-| Item                                                                                                          | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)           | 2        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |       |
+| Item                                                                                                                                                                       | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                      | ~2~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [MMU_XY_Joint_Left_Tops](<https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Left_Tops.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                                                           | 2        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl)~                                                            | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| [XY_Joint_Left_Lower](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY_Joint_Left_Lower.stl)                                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl)~                                                            | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
 
 ### :negative_squared_cross_mark: XY Joint Right
 
-| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)             | 2        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |       |
+| Item                                                                                                                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                        | ~2~      | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   |                           |
+| [MMU_XY_Joint_Right_Tops](<https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Right_Tops.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                                                             | 2        | [LDO ASA (Orange)](printer-filament#ldo-asa-orange)  |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl)~                                                            | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
+| [XY_Joint_Right_Lower](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY_Joint_Right_Lower.stl)                                               | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl)~                                                            | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |                           |
 
 ### :negative_squared_cross_mark: X Axis
 
@@ -785,15 +780,12 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Picobilical Motor Panel
 
-| Item                                                                                                            | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                          |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------ |
-| [frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO Picobilical Part |
-
-### :negative_squared_cross_mark: Umbilical Strain Relief
-
-| Item                                                                  | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                                  |
-| --------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
-| [PTFE_umblical_strain](https://www.printables.com/model/404594/files) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a mod by [kymlalu](https://www.printables.com/@kymlalu_120002) |
+| Item                                                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------- |
+| [Cable_Tie_Point](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/Cable_Tie_Point.stl>)                  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part                               |
+| [Cover_Plate_MMU](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/MMU%20(optional)/Cover_Plate_MMU.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
+| ~[frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl)~                              | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO Picobilical Part                          |
+| [Strain_Relief](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/Strain_Relief.stl>)                      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
 
 ### :negative_squared_cross_mark: Detachable Spool Holder
 
