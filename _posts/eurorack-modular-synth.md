@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-09-13T15:42:12.013Z
+lastmod: 2025-09-13T22:50:17.069Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -37,7 +37,7 @@ I wanted something that I could connect up to a computer via USB to use software
 
 # Eurorack Case
 
-I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [EDU DIY Drums](#edu-diy-drums) and any extra modules I make using from PCBs or [Prototype Kits](#prototyping).
+I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) and any extra modules I make using from PCBs or [Prototype Kits](#prototyping).
 
 ## Accessories
 
@@ -507,9 +507,28 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## mki x es.EDU System
 
+I have purchased 2 of these kits. 1 to build as is and one to hold [Effects](edu-diy-effects) and [Drums](edu-diy-drums) modules.
+
 ### DIY Eurorack Case
 
 ![Fully Assembled DIY Eurorack Case](/assets/blog/eurorack-modular-synth/diy-eurorack-case.jpg)
+
+The case is designed specifically to accommodate the DIY modules from the kit, therefore it does not have threaded screw bar mounts to accomodate any eurorack module and only has screw holes in [Horizontal Pitch](https://learningmodular.com/glossary/hp/) for modules in a specific order.
+
+The order of the modules are as follows:
+
+- 10 HP [Sequencer](#sequencer)
+- 10 HP [Voltage Controlled Oscillator (VCO)](#voltage-controlled-oscillator-vco)
+- 4 HP [Wavefolder](#wavefolder)
+- 10 HP [Noise/Sample & Hold (S&H)](#noisesample--hold-sh)
+- 8 HP [Mixer](#mixer)
+- 10 HP [Voltage Controlled Filter (VCF)](#voltage-controlled-filter-vcf)
+- 8 HP [Envelope Generator (EG)](#envelope-generator-eg)
+- 8 HP [Voltage Controlled Amplifier (VCA)](#voltage-controlled-amplifier-vca)
+- 8 HP [Envelope Generator (EG)](#envelope-generator-eg)
+- 8 HP [Output Mixer](#output-mixer)
+
+![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/racks/modulargrid_2941317.jpg)
 
 Kit contains the `Quantity` needed for building 1 unit, except the parts for the [optional +5V Power Supply](#optional-5v-power-supply). I have purchased 2 kits.
 
@@ -1259,7 +1278,24 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer)
 
-## EDU DIY Effects
+## EDU DIY Drums & Effects
+
+### DIY Eurorack Case
+
+The order of the modules for the second case will be as follows:
+
+- 10 HP [Sequencer](#sequencer)
+- 10 HP [Bucket Brigade Delay (BBD)](#bucket-brigade-delay-bbd)
+- 4 HP [Boost](#boost)
+- 10 HP [Snare Drum](#snare-drum)
+- 8 HP [Hi-Hat](#hi-hat)
+- 10 HP [Kick Drum](#kick-drum)
+- 8 HP [Mixer](#mixer)
+- 8 HP [Compressor](#compressor)
+- 8 HP [Voltage Controlled Amplifier (VCA)](#voltage-controlled-amplifier-vca)
+- 8 HP [Output Mixer](#output-mixer)
+
+![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg)
 
 ### Compressor
 
@@ -1436,8 +1472,6 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd)
-
-## EDU DIY Drums
 
 ### Kick Drum
 
