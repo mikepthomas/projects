@@ -96,6 +96,14 @@
           "vca-installed.jpg": {
             "alt": "VCA Installed in the Case",
             "title": "VCA Installed"
+          },
+          "output-mixer-installed.jpg": {
+            "title": "Output Mixer Installed",
+            "alt": "Output Mixer Installed in the Case"
+          },
+          "output-mixer-assembled.jpg": {
+            "title": "Output Mixer Assembled",
+            "alt": "Components soldered to the Output Mixer PCB"
           }
         },
         "printer-am8": {

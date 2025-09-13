@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-08-29T15:56:40.652Z
+lastmod: 2025-09-13T15:42:12.013Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -51,9 +51,9 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope), [
 | Befaco Knurlies                            | 100      | 100      | Available from [Befaco](https://www.befaco.org/knurlies)                                                                                                     |
 | Befaco Squid Cable                         | 1        | 1        | Available from [Befaco](https://www.befaco.org/squid-cable-mult)                                                                                             |
 | Eurorack Blank Panels (Circuit Design)     | Set of 7 | Set of 7 | Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis) |
-| Eurorack Blank Panels (Erica Synths Blank) | 2 x 8HP  | 2        |                                                                                                                                                              |
-| Eurorack Blank Panels (MH Eurorack Logo)   | 2 x 4HP  | 1        | Came free with [MH Eurorack Kits](#mh-eurorack)                                                                                                              |
-| Eurorack Blank Panels (Thonk Logo)         | 1 x 2HP  | 1        |                                                                                                                                                              |
+| Eurorack Blank Panels (Erica Synths Blank) | 2 x 8HP  | 2 x 8HP  | Aluminium                                                                                                                                                    |
+| Eurorack Blank Panels (MH Eurorack Logo)   | 3 x 4HP  | 3 x 4HP  | PCB, Came free with [MH Eurorack Kits](#mh-eurorack)                                                                                                         |
+| Eurorack Blank Panels (Thonk Logo)         | 2 x 2HP  | 2 x 2HP  | 1 Aluminium and 1 PCB                                                                                                                                        |
 
 ## Power
 
@@ -511,7 +511,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ![Fully Assembled DIY Eurorack Case](/assets/blog/eurorack-modular-synth/diy-eurorack-case.jpg)
 
-Kit contains the `Quantity` needed for building 1 unit, except the parts for the [optional +5V Power Supply](#optional-5v-power-supply)
+Kit contains the `Quantity` needed for building 1 unit, except the parts for the [optional +5V Power Supply](#optional-5v-power-supply). I have purchased 2 kits.
 
 #### Case
 
@@ -560,7 +560,7 @@ The sequencer steps through a different number of voltages, selectable by a pote
 
 ![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg)
 
-Kit contains the `Quantity` needed for building 1 unit.
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
 #### PCB
 
@@ -649,7 +649,7 @@ To make music you need something to make noise, noise is created via an oscillat
 
 ![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg)
 
-Kit contains the `Quantity` needed for building 1 unit.
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
 #### PCB
 
@@ -735,7 +735,7 @@ To change the way the noise sounds you can modify it using a filter. This filter
 
 ![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg)
 
-Kit contains the `Quantity` needed for building 1 unit.
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
 #### PCB
 
@@ -814,7 +814,7 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 
 ![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg)
 
-`Quantity` is for 1 unit, kit contains enough parts for 2 units.
+`Quantity` is for 1 unit, each kit contains enough parts for 2 units, therefore I have 4.
 
 #### PCB
 
@@ -893,7 +893,7 @@ A Voltage Controlled Amplifier allows you to control the `Gain` of an input via 
 
 ![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg)
 
-Kit contains the `Quantity` needed for building 1 unit, and I have purchased one more as "you can never have too many VCAs".
+Kit contains the `Quantity` needed for building 1 unit, and I have purchased 3 as "you can never have too many VCAs".
 
 #### PCB
 
@@ -962,75 +962,157 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ![Components soldered to the VCA PCB](/assets/blog/eurorack-modular-synth/vca-assembled.jpg)
 
-### Mixer
+### Output Mixer
 
-`Quantity` is for 1 unit, kit contains enough parts for 1 unit and [Drums Bundle](https://www.thonk.co.uk/shop/mki-erica-edu-drums/) contans enough for a second.
+![Output Mixer Installed in the Case](/assets/blog/eurorack-modular-synth/output-mixer-installed.jpg)
+
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
 #### PCB
 
 | Item                | Quantity |
 | ------------------- | -------- |
-| EDUMIX2 PCB         | 1        |
-| EDUMIX2 Front Panel | 1        |
+| EDUOUT1 PCB         | 1        |
+| EDUOUT1 Front Panel | 1        |
 
 #### Capacitors
 
 | Item                          | Quantity |
 | ----------------------------- | -------- |
 | Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1uF)          | 2        |
 | Ceramic Capacitor (100nF)     | 6        |
+| Ceramic Capacitor (22pF)      | 2        |
 
 #### Diodes
 
 | Item                   | Quantity |
 | ---------------------- | -------- |
 | Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 2        |
+| Signal Diode (1N4148)  | 12       |
 
 #### Integrated Circuits
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| Op Amp Dual (TL072) | 2        |
-| 8 Pin DIP Sockets   | 2        |
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Transistor NPN (BD139) | 2        |
+| Transistor PNP (BD140) | 2        |
+| Op Amp Dual (TL072)    | 2        |
+| 8 Pin DIP Sockets      | 2        |
 
 #### Potentiometers
 
 | Item                                | Quantity |
 | ----------------------------------- | -------- |
-| PCB Mount Trim Potentiometer (20K)  | 1        |
-| Vertical Trim Potentiometer (B100K) | 3        |
+| Vertical Trim Potentiometer (B10K)  | 2        |
+| Vertical Trim Potentiometer (B100K) | 2        |
 
 #### Resistors
 
 | Item                       | Quantity |
 | -------------------------- | -------- |
-| Metal Film resistor (100K) | 8        |
-| Metal Film resistor (27K)  | 1        |
-| Metal Film resistor (1K)   | 3        |
+| Metal Film resistor (200K) | 2        |
+| Metal Film resistor (100K) | 6        |
+| Metal Film resistor (30K)  | 2        |
+| Metal Film resistor (10K)  | 4        |
+| Metal Film resistor (3.6K) | 4        |
+| Metal Film resistor (1K)   | 6        |
+| Metal Film resistor (470R) | 2        |
+| Metal Film resistor (47R)  | 2        |
+| Metal Film resistor (10R)  | 2        |
+| Metal Film resistor (2R)   | 4        |
+
+#### Misc
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Mono Audio Jack       | 2        |
+| Stereo Audio Jack     | 2        |
+| 10 Pin Power Header   | 1        |
+| 10-16 pin Power Cable | 1        |
+
+### :white_check_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output)
+
+![Components soldered to the Output Mixer PCB](/assets/blog/eurorack-modular-synth/output-mixer-assembled.jpg)
+
+### Wavefolder
+
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| EDUWAVE1 PCB         | 1        |
+| EDUWAVE1 Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1uF)          | 1        |
+| Ceramic Capacitor (100nF)     | 4        |
+| Film Capacitor (2.2nF)        | 2        |
+
+#### Diodes
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Schottky Diode (SB140) | 2        |
+
+#### Integrated Circuits
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Transistor NPN (BC548) | 4        |
+| Transistor PNP (BC558) | 2        |
+| Op Amp Quad (TL074)    | 1        |
+| 14 Pin DIP Sockets     | 1        |
+
+#### Potentiometers
+
+| Item                               | Quantity |
+| ---------------------------------- | -------- |
+| PCB Mount Trim Potentiometer (10K) | 1        |
+| Vertical Trim Potentiometer (B10K) | 1        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (220K) | 1        |
+| Metal Film resistor (100K) | 3        |
+| Metal Film resistor (51K)  | 1        |
+| Metal Film resistor (22K)  | 1        |
+| Metal Film resistor (20K)  | 4        |
+| Metal Film resistor (10K)  | 4        |
+| Metal Film resistor (1K)   | 5        |
 | Metal Film resistor (10R)  | 2        |
 
 #### Misc
 
 | Item                  | Quantity |
 | --------------------- | -------- |
-| Mono Audio Jack       | 6        |
+| Mono Audio Jack       | 3        |
 | 10 Pin Power Header   | 1        |
 | 10-16 pin Power Cable | 1        |
 
 ### How It Works
 
-[Moritz Klein's DIY Mixer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
+[Moritz Klein's DIY Wavefolder Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvREnUuLIMsN1OTiXo5j6B8y)
 
 > Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### :wrench: Assembly
 
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/WAVEFOLDER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-wavefolder)
 
 ### Noise/Sample & Hold (S&H)
 
-Kit contains the `Quantity` needed for building 1 unit.
+Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
 #### PCB
 
@@ -1111,149 +1193,71 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SH_MANUAL_v1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-noisesh)
 
-### Wavefolder
+### Mixer
 
-Kit contains the `Quantity` needed for building 1 unit.
-
-#### PCB
-
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUWAVE1 PCB         | 1        |
-| EDUWAVE1 Front Panel | 1        |
-
-#### Capacitors
-
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100nF)     | 4        |
-| Film Capacitor (2.2nF)        | 2        |
-
-#### Diodes
-
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-
-#### Integrated Circuits
-
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 4        |
-| Transistor PNP (BC558) | 2        |
-| Op Amp Quad (TL074)    | 1        |
-| 14 Pin DIP Sockets     | 1        |
-
-#### Potentiometers
-
-| Item                               | Quantity |
-| ---------------------------------- | -------- |
-| PCB Mount Trim Potentiometer (10K) | 1        |
-| Vertical Trim Potentiometer (B10K) | 1        |
-
-#### Resistors
-
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (220K) | 1        |
-| Metal Film resistor (100K) | 3        |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (22K)  | 1        |
-| Metal Film resistor (20K)  | 4        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (1K)   | 5        |
-| Metal Film resistor (10R)  | 2        |
-
-#### Misc
-
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 3        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
-
-### How It Works
-
-[Moritz Klein's DIY Wavefolder Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvREnUuLIMsN1OTiXo5j6B8y)
-
-> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/WAVEFOLDER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-wavefolder)
-
-### Output
-
-Kit contains the `Quantity` needed for building 1 unit.
+`Quantity` is for 1 unit, the two kits I purchased contain enough parts for 2 units and [Drums Bundle](https://www.thonk.co.uk/shop/mki-erica-edu-drums/) contans enough for a third.
 
 #### PCB
 
 | Item                | Quantity |
 | ------------------- | -------- |
-| EDUOUT1 PCB         | 1        |
-| EDUOUT1 Front Panel | 1        |
+| EDUMIX2 PCB         | 1        |
+| EDUMIX2 Front Panel | 1        |
 
 #### Capacitors
 
 | Item                          | Quantity |
 | ----------------------------- | -------- |
 | Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 2        |
 | Ceramic Capacitor (100nF)     | 6        |
-| Ceramic Capacitor (22pF)      | 2        |
 
 #### Diodes
 
 | Item                   | Quantity |
 | ---------------------- | -------- |
 | Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 12       |
+| Signal Diode (1N4148)  | 2        |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BD139) | 2        |
-| Transistor PNP (BD140) | 2        |
-| Op Amp Dual (TL072)    | 2        |
-| 8 Pin DIP Sockets      | 2        |
+| Item                | Quantity |
+| ------------------- | -------- |
+| Op Amp Dual (TL072) | 2        |
+| 8 Pin DIP Sockets   | 2        |
 
 #### Potentiometers
 
 | Item                                | Quantity |
 | ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (B10K)  | 2        |
-| Vertical Trim Potentiometer (B100K) | 2        |
+| PCB Mount Trim Potentiometer (20K)  | 1        |
+| Vertical Trim Potentiometer (B100K) | 3        |
 
 #### Resistors
 
 | Item                       | Quantity |
 | -------------------------- | -------- |
-| Metal Film resistor (200K) | 2        |
-| Metal Film resistor (100K) | 6        |
-| Metal Film resistor (30K)  | 2        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (3.6K) | 4        |
-| Metal Film resistor (1K)   | 6        |
-| Metal Film resistor (470R) | 2        |
-| Metal Film resistor (47R)  | 2        |
+| Metal Film resistor (100K) | 8        |
+| Metal Film resistor (27K)  | 1        |
+| Metal Film resistor (1K)   | 3        |
 | Metal Film resistor (10R)  | 2        |
-| Metal Film resistor (2R)   | 4        |
 
 #### Misc
 
 | Item                  | Quantity |
 | --------------------- | -------- |
-| Mono Audio Jack       | 2        |
-| Stereo Audio Jack     | 2        |
+| Mono Audio Jack       | 6        |
 | 10 Pin Power Header   | 1        |
 | 10-16 pin Power Cable | 1        |
 
+### How It Works
+
+[Moritz Klein's DIY Mixer Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQUWK_poeQVAd3mvSTiE0uV)
+
+> Videos © 2022 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer)
 
 ## EDU DIY Effects
 
