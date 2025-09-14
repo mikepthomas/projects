@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-09-13T22:50:17.069Z
+lastmod: 2025-09-14T12:07:17.583Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1292,10 +1292,9 @@ The order of the modules for the second case will be as follows:
 - 10 HP [Kick Drum](#kick-drum)
 - 8 HP [Mixer](#mixer)
 - 8 HP [Compressor](#compressor)
-- 8 HP [Voltage Controlled Amplifier (VCA)](#voltage-controlled-amplifier-vca)
-- 8 HP [Output Mixer](#output-mixer)
+- 16 HP [FM Drum](#fm-drum)
 
-![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg)
+![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg?1757851255)
 
 ### Compressor
 
