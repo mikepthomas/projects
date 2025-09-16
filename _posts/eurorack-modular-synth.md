@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-09-14T12:07:17.583Z
+lastmod: 2025-09-16T21:04:45.164Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -49,6 +49,7 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) an
 | Befaco Bananuts (Red)                      | 25       | 25       | Available from [Befaco](https://www.befaco.org/bananuts)                                                                                                     |
 | Befaco Bananuts Wrench Tool                | 1        | 1        | Available from [Befaco](https://www.befaco.org/bananuts)                                                                                                     |
 | Befaco Knurlies                            | 100      | 100      | Available from [Befaco](https://www.befaco.org/knurlies)                                                                                                     |
+| Befaco Midi Cable (Type B)                 | 1        | 1        | Available from [Befaco](https://www.befaco.org/midi-cables)                                                                                                  |
 | Befaco Squid Cable                         | 1        | 1        | Available from [Befaco](https://www.befaco.org/squid-cable-mult)                                                                                             |
 | Eurorack Blank Panels (Circuit Design)     | Set of 7 | Set of 7 | Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis) |
 | Eurorack Blank Panels (Erica Synths Blank) | 2 x 8HP  | 2 x 8HP  | Aluminium                                                                                                                                                    |
@@ -306,6 +307,7 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 | 5mm Red Square LED                        | 1        | 1        |                                                        |
 | 10 Pin Power Header                       | 6        | 6        |                                                        |
 | 16 Pin Power Header                       | 2        | 2        |                                                        |
+| 10-16 pin Power Cable                     | 10       | 10       | 25cm length                                            |
 | 16-16 pin Power Cable                     | 2        | 2        | 30cm length                                            |
 | 10K thermistor                            | 20       | 20       |                                                        |
 | DW3 DPDT ON-ON Sub-mini Toggle Switch     | 1        | 1        | For use with [Labor Modular Interface](#edu-diy-labor) |
@@ -1892,15 +1894,15 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### Misc
 
-| Item                               | Quantity | Received | Notes       |
-| ---------------------------------- | -------- | -------- | ----------- |
-| 5mm Red Square LED                 | 1        | 1        |             |
-| 8 Pin Header                       | 2        | 2        |             |
-| 8 Pin Socket                       | 2        | 2        |             |
-| 10 Pin Power Header                | 1        | 1        |             |
-| 10-16 pin Power Cable              | 1        | 1        | 25cm length |
-| Mono Audio Jack                    | 2        | 2        |             |
-| DWB1 SPDT ON-ON Mini Toggle Switch | 1        | 1        |             |
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| 5mm Red Square LED                 | 1        | 1        |       |
+| 8 Pin Header                       | 2        | 2        |       |
+| 8 Pin Socket                       | 2        | 2        |       |
+| 10 Pin Power Header                | 1        | 1        |       |
+| 10-16 pin Power Cable              | 1        |          |       |
+| Mono Audio Jack                    | 2        | 2        |       |
+| DWB1 SPDT ON-ON Mini Toggle Switch | 1        | 1        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1947,13 +1949,13 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 #### Misc
 
-| Item                               | Quantity | Received | Notes       |
-| ---------------------------------- | -------- | -------- | ----------- |
-| 5mm Red Square LED                 | 4        | 4        |             |
-| 10 Pin Power Header                | 1        | 1        |             |
-| 10-16 pin Power Cable              | 1        | 1        | 25cm length |
-| DWB3 DPDT ON-ON Mini Toggle Switch | 4        | 5        |             |
-| Mono Audio Jack                    | 6        | 6        |             |
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| 5mm Red Square LED                 | 4        | 4        |       |
+| 10 Pin Power Header                | 1        | 1        |       |
+| 10-16 pin Power Cable              | 1        |          |       |
+| DWB3 DPDT ON-ON Mini Toggle Switch | 4        | 5        |       |
+| Mono Audio Jack                    | 6        | 6        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2001,7 +2003,7 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 | Item                                  | Quantity | Received | Notes |
 | ------------------------------------- | -------- | -------- | ----- |
 | Aluminum Knob for Alpha Potentiometer | 2        | 2        |       |
-| Vertical Alpha Potentiometer (B50K)   | 2        |          |       |
+| Vertical Alpha Potentiometer (B50K)   | 2        | 2        |       |
 
 #### Resistors
 
@@ -2153,3 +2155,43 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-UMIX-Assembly-guide.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/umix)
+
+# Thonk Synth
+
+## Triple Attenuator
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| TAT v1.0 Front Panel | 1        |
+| TAT v1.0 PCB         | 1        |
+
+#### Potentiometers
+
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| Plastic Knob for Alpha Potentiometer | 3        |
+| Vertical Alpha Potentiometer (?)     | 3        |
+
+#### Resistors
+
+| Item                      | Quantity |
+| ------------------------- | -------- |
+| Metal Film resistor (10K) | 3        |
+
+#### Misc
+
+| Item              | Quantity |
+| ----------------- | -------- |
+| 3 Pin Header      | 3        |
+| Jumper Cap 2.54mm | 3        |
+| Mono Audio Jack   | 6        |
+
+### :negative_squared_cross_mark: Assembly
+
+[Assembly Instructions](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Build-Doc-v1.1.pdf) and [Manual](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Manual.pdf) are available on the [Thonk Website](https://www.thonk.co.uk/shop/thonk-synth-t05-tat-kit/)
