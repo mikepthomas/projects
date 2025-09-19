@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-09-16T21:04:45.164Z
+lastmod: 2025-09-19T23:33:21.814Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -2195,3 +2195,12 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :negative_squared_cross_mark: Assembly
 
 [Assembly Instructions](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Build-Doc-v1.1.pdf) and [Manual](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Manual.pdf) are available on the [Thonk Website](https://www.thonk.co.uk/shop/thonk-synth-t05-tat-kit/)
+
+# Patching
+
+Once I have fully assembled both the [mki x es.EDU System](#mki-x-esedu-system) and [EDU DIY Drums & Effects](#edu-diy-drums--effects) I plan to re-arrange the modules to connect to the ports on the back of the Keystep Pro:
+
+- Voice 1 and 2 `Pitch`, `Velo/Mod` and `Gate` each connecting to a VCO, VCF, Envelope and VCA (Top of diagram below)
+- 4 Drum Gates connecting to `Trigger` of the Drums modules (Bottom of diagram below)
+
+![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/patches/modulargrid_129015.jpg)
