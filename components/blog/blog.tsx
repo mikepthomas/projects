@@ -140,9 +140,6 @@ export default function Blog({ content, related }: Props) {
                   <Link href="knick-knacks">Knick Knacks</Link>
                 </li>
                 <li>
-                  <Link href="guitar">Guitar</Link>
-                </li>
-                <li>
                   <Link href="nuka-world">Nuka-World Parking Lot</Link>
                 </li>
                 <li>
@@ -150,6 +147,9 @@ export default function Blog({ content, related }: Props) {
                 </li>
                 <li>
                   <Link href="sanctuary-hills">Sanctuary Hills House</Link>
+                </li>
+                <li>
+                  <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
                   <Link href="eurorack-modular-synth">
