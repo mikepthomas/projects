@@ -143,6 +143,9 @@ export default function Blog({ content, related }: Props) {
                   <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
+                  <Link href="nuka-world">Nuka-World Parking Lot</Link>
+                </li>
+                <li>
                   <Link href="red-rocket">Red Rocket Truck Stop</Link>
                 </li>
                 <li>

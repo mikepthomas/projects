@@ -25,7 +25,7 @@ keywords:
 
 ## Walls
 
-![Sanctuary Example House Interior - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_01InteriorPartsList_1200x.jpg)
+![Sanctuary Example House Interior - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_01InteriorPartsList_1280x.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
@@ -79,7 +79,7 @@ keywords:
 
 ## Roof
 
-![Sanctuary Example House Roof - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_02RoofPartsList_1200x.jpg)
+![Sanctuary Example House Roof - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_02RoofPartsList_1280x.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
@@ -95,7 +95,7 @@ keywords:
 
 ## Attic
 
-![Roofing optional - roof breaks down into pieces](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image5_1200x.jpg)
+![Roofing optional - roof breaks down into pieces](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image5_1280x.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
@@ -136,7 +136,7 @@ keywords:
 
 ## Accessories
 
-![Build this layout, or invent your own!](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image6_1200x.jpg)
+![Build this layout, or invent your own!](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image6_1280x.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 

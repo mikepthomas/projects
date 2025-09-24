@@ -103,6 +103,8 @@ This filament will be used to print the window frames of the [Sanctuary Hills Ho
 
 ### eSun ABS+ (Orange)
 
+This filament was originally brought to print the accent parts for the [Voron 0.2](printer-voron-0.2) however I purchased [LDO ASA (Orange)](#ldo-asa-orange) Filament that is a better colour match to the panels.
+
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
 | ![#FA4919 {20x20}](https://placehold.co/20/FA4919/FA4919.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Orange).ini>) | [3D Jake](https://www.3djake.uk/esun/abs-orange-3) | £18.59   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
@@ -138,6 +140,8 @@ This filament will be used to print the accent parts for the [Voron 2.4](printer
 | ![#411482 {20x20}](https://placehold.co/20/411482/411482.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Purple).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07FQ2JLJG) | £19.99   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
 
 ### eSun ABS+ (Red)
+
+This filament was originally brought to print parts for the [Nuka-World Parking Lot](nuka-world).
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                        | Purchased From                                  | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
