@@ -107,62 +107,84 @@ keywords:
 
 ## Floor
 
-![Build this layout, or invent your own!](https://cdn2.myminifactory.com/assets/object-assets/5f8704fb52701/images/resize-fo-scenery-sanctuaryhouse-flooring-example2-25sept20-1.jpg)
+![Sanctuary Example House Floor](https://cdn2.myminifactory.com/assets/object-assets/5f8704fb52701/images/resize-fo-scenery-sanctuaryhouse-flooring-example2-25sept20-1.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
-| Item                              | Quantity | Material                                                           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ------------------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Clean Half Large                  |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Half Medium                 |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Tile Half Small             |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Tile Large                  |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Tile Medium                 |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Tile Mini                   |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Clean Tile Small                  |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Medium Feature 1                  |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Medium Feature 2                  |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Fifth Long Large        |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Fifth Square Large      |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Half Large              |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Half Medium             |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Half Medium Alternative |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Half Small              |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Quater Large            |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Small Alternative       |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Tile Large              |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Tile Medium             |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Scattered Tile Small              |          | [Tinmorry PLA Filament (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                              | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Clean Half Large                  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Half Medium                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Tile Half Small             |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Tile Large                  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Tile Medium                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Tile Mini                   |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Clean Tile Small                  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Medium Feature 1                  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Medium Feature 2                  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Fifth Long Large        |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Fifth Square Large      |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Half Large              |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Half Medium             |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Half Medium Alternative |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Half Small              |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Quater Large            |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Small Alternative       |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Tile Large              |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Tile Medium             |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Scattered Tile Small              |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 
-## Accessories
+## Scatter
 
-![Build this layout, or invent your own!](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image6_1280x.jpg)
+![Build this layout, or invent your own! Dressing items included](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image6_1280x.jpg)
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
+### Bathroom
+
+| Item           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| -------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Shower 1       | 1        |          |      |      |        |      |   :x:   |       |
+| Shower 2       | 1        |          |      |      |        |      |   :x:   |       |
+| Shower 3       | 1        |          |      |      |        |      |   :x:   |       |
+| Shower 4       | 1        |          |      |      |        |      |   :x:   |       |
+| Toilet Seat Up | 1        |          |      |      |        |      |   :x:   |       |
+
+### Bedroom
+
+| Item    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Bed 1   | 4        |          |      |      |        |      |   :x:   |       |
+| Crib    | 1        |          |      |      |        |      |   :x:   |       |
+| Dresser | 1        |          |      |      |        |      |   :x:   |       |
+
+### Kitchen
 
 | Item                  | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Bed 1                 |          |          |      |      |        |      |   :x:   |       |
-| Chair                 |          |          |      |      |        |      |   :x:   |       |
-| Coffee Table Large    |          |          |      |      |        |      |   :x:   |       |
-| Coffee Table Small    |          |          |      |      |        |      |   :x:   |       |
-| Couch                 |          |          |      |      |        |      |   :x:   |       |
-| Crib                  |          |          |      |      |        |      |   :x:   |       |
-| Dresser               |          |          |      |      |        |      |   :x:   |       |
-| Dryer                 |          |          |      |      |        |      |   :x:   |       |
-| Girder                |          |          |      |      |        |      |   :x:   |       |
-| Kitchen Counter       |          |          |      |      |        |      |   :x:   |       |
-| Kitchen Cupboard      |          |          |      |      |        |      |   :x:   |       |
-| Mid Century Kitchen A |          |          |      |      |        |      |   :x:   |       |
-| Mid Century Kitchen B |          |          |      |      |        |      |   :x:   |       |
-| Mid Century Kitchen C |          |          |      |      |        |      |   :x:   |       |
-| Mid Century Kitchen D |          |          |      |      |        |      |   :x:   |       |
-| Mid Century Kitchen E |          |          |      |      |        |      |   :x:   |       |
-| Shower 1              |          |          |      |      |        |      |   :x:   |       |
-| Shower 2              |          |          |      |      |        |      |   :x:   |       |
-| Shower 3              |          |          |      |      |        |      |   :x:   |       |
-| Shower 4              |          |          |      |      |        |      |   :x:   |       |
-| Stool                 |          |          |      |      |        |      |   :x:   |       |
-| Toilet Seat Up        |          |          |      |      |        |      |   :x:   |       |
-| TV                    |          |          |      |      |        |      |   :x:   |       |
-| Washer                |          |          |      |      |        |      |   :x:   |       |
+| Kitchen Counter       | 1        |          |      |      |        |      |   :x:   |       |
+| Kitchen Cupboard      | 1        |          |      |      |        |      |   :x:   |       |
+| Mid Century Kitchen A | 1        |          |      |      |        |      |   :x:   |       |
+| Mid Century Kitchen B | 1        |          |      |      |        |      |   :x:   |       |
+| Mid Century Kitchen C | 1        |          |      |      |        |      |   :x:   |       |
+| Mid Century Kitchen D | 1        |          |      |      |        |      |   :x:   |       |
+| Mid Century Kitchen E | 1        |          |      |      |        |      |   :x:   |       |
+| Stool                 | 3        |          |      |      |        |      |   :x:   |       |
+
+### Lounge
+
+| Item               | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Chair              | 1        |          |      |      |        |      |   :x:   |       |
+| Coffee Table Large | 1        |          |      |      |        |      |   :x:   |       |
+| Coffee Table Small | 1        |          |      |      |        |      |   :x:   |       |
+| Couch              | 1        |          |      |      |        |      |   :x:   |       |
+| TV                 | 1        |          |      |      |        |      |   :x:   |       |
+
+### Utility
+
+| Item   | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Dryer  | 1        |          |      |      |        |      |   :x:   |       |
+| Girder | 2        |          |      |      |        |      |   :x:   |       |
+| Washer | 1        |          |      |      |        |      |   :x:   |       |

@@ -149,6 +149,9 @@ export default function Blog({ content, related }: Props) {
                   <Link href="sanctuary-hills">Sanctuary Hills House</Link>
                 </li>
                 <li>
+                  <Link href="vault">Vault-Tec Vault</Link>
+                </li>
+                <li>
                   <Link href="guitar">Guitar</Link>
                 </li>
                 <li>
