@@ -22,7 +22,6 @@ categories:
   - 3D Printing
 keywords:
   - Fallout
-promoted: true
 ---
 
 # Table of contents
