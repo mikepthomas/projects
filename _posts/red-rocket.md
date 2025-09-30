@@ -126,19 +126,46 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
-| Item               | Quantity | Material                                                                | Time | Size | Weight | Cost |      Printed       | Notes |
-| ------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :----------------: | ----- |
-| Cart               | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |        :x:         |       |
-| Diagnostic Cart    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |        :x:         |       |
-| Gas Pump           | 2        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      | :heavy_check_mark: |       |
-| Nuka Cola Machine  | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      | :heavy_check_mark: |       |
-| Signage A1         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      | :heavy_check_mark: |       |
-| Signage A2         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      | :heavy_check_mark: |       |
-| Signage B1         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      |        :x:         |       |
-| Signage B2         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      |        :x:         |       |
-| Tool Chest         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             |      |      |        |      | :heavy_check_mark: |       |
-| Tool Rack          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |        :x:         |       |
-| Workshop Cabinet 1 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |      |        |      |        :x:         |       |
-| Workshop Cabinet 2 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |      |        |      |        :x:         |       |
-| Workshop Cabinet 3 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |      |        |      |        :x:         |       |
-| Workshop Cabinet 4 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |      |        |      |        :x:         |       |
+### Doors
+
+| Item    | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| ------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Door_01 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Door_02 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Door_03 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+
+### Furniture
+
+| Item               | Quantity | Material                                                                | Time | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------ | -------- | ----------------------------------------------------------------------- | ---- | ----- | ------ | ----- | :----------------: | ----- |
+| Cart               | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         |       |
+| Diagnostic Cart    | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow)                   |      |       |        |       |        :x:         |       |
+| Gas Pump           | 2        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             | 49m  | 1.41m | 4.22   | £0.10 | :heavy_check_mark: |       |
+| Tool Chest         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             | 1h6m | 2.06m | 6.15g  | £0.15 | :heavy_check_mark: |       |
+| Tool Rack          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         |       |
+| Workshop Cabinet 1 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
+| Workshop Cabinet 2 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
+| Workshop Cabinet 3 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
+| Workshop Cabinet 4 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
+
+### Nuka Cola Machine
+
+| Item                                                         | Quantity | Material                                                    | Time | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------ | -------- | ----------------------------------------------------------- | ---- | ----- | ------ | ----- | :----------------: | ----- |
+| [Nuka_Back](https://www.thingiverse.com/thing:3379923/files) | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | 39m  | 2.09m | 6.23g  | £0.15 | :heavy_check_mark: |       |
+| [Nuka_Top](https://www.thingiverse.com/thing:3379923/files)  | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | 26m  | 1.13m | 3.36g  | £0.08 | :heavy_check_mark: |       |
+
+### Power Armour Station
+
+| Item                                                                           | Quantity | Material                                              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------ | -------- | ----------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Power_Armor_Station_for_fww](https://www.thingiverse.com/thing:4697758/files) | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) |      |      |        |      |   :x:   |       |
+
+### Signage
+
+| Item       | Quantity | Material                                                    | Time  | Size   | Weight | Cost  |      Printed       | Notes                                                                                                                   |
+| ---------- | -------- | ----------------------------------------------------------- | ----- | ------ | ------ | ----- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| Signage A1 | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | 2h19m | 6.31m  | 18.82g | £0.45 | :heavy_check_mark: |                                                                                                                         |
+| Signage A2 | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | 3h47m | 11.23m | 33.48g | £0.81 | :heavy_check_mark: | This would be difficult to print as-is, therefore I cut the front off flat, and printed the front of the `c` separately |
+| Signage B1 | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) |       |        |        |       |        :x:         |                                                                                                                         |
+| Signage B2 | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) |       |        |        |       |        :x:         |                                                                                                                         |
