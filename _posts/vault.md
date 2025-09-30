@@ -6,6 +6,8 @@ author: Mike Thomas
 description: 3D Printing a Vault-Tec Vault for Fallout Wasteland Warfare.
 preview: /assets/blog/vault/vault-hero.jpg
 slug: /projects/vault
+related:
+  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare

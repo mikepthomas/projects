@@ -140,16 +140,9 @@ export default function Blog({ content, related }: Props) {
                   <Link href="knick-knacks">Knick Knacks</Link>
                 </li>
                 <li>
-                  <Link href="nuka-world">Nuka-World Parking Lot</Link>
-                </li>
-                <li>
-                  <Link href="red-rocket">Red Rocket Truck Stop</Link>
-                </li>
-                <li>
-                  <Link href="sanctuary-hills">Sanctuary Hills House</Link>
-                </li>
-                <li>
-                  <Link href="vault">Vault-Tec Vault</Link>
+                  <Link href="fallout-wasteland-warfare">
+                    Fallout: Wasteland Warfare
+                  </Link>
                 </li>
                 <li>
                   <Link href="guitar">Guitar</Link>

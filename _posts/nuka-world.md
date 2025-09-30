@@ -6,6 +6,8 @@ author: Mike Thomas
 description: 3D Printing the Nuka-World Parking Lot terrain for Fallout Wasteland Warfare.
 preview: /assets/blog/nuka-world/nuka-world-hero.jpg
 slug: /projects/nuka-world
+related:
+  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -19,6 +21,10 @@ keywords:
 > Image &copy; 2021 [Modiphius Entertainment](https://www.modiphius.net/)
 
 # Table of contents
+
+# Sourcing Parts
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl).
 
 # Printing Parts
 

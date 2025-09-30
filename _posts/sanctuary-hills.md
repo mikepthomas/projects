@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Building a House in Sanctuary Hills for the Sole Survivor.
 preview: /assets/blog/sanctuary-hills/sanctuary-hills-house-hero.jpg
 slug: /projects/sanctuary-hills
+related:
+  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -20,6 +22,10 @@ keywords:
 > Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 # Table of contents
+
+# Sourcing Parts
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl).
 
 # Printing Parts
 
