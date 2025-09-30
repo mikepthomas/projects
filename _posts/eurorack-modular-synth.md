@@ -509,7 +509,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ## mki x es.EDU System
 
-I have purchased 2 of these kits. 1 to build as is and one to hold [Effects](edu-diy-effects) and [Drums](edu-diy-drums) modules.
+I have purchased 2 of these kits. 1 to build 'as-is' and one to hold [Drums & Effects](#edu-diy-drums--effects) modules.
 
 ### DIY Eurorack Case
 
