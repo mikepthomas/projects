@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-09-19T23:33:21.814Z
+lastmod: 2025-09-30T12:56:24.610Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1473,6 +1473,97 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd)
+
+### Drum Sequencer
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| EDUDRSQ3 PCB         | 1        |
+| EDUDRSQ3 Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1uF)          | 5        |
+| Ceramic Capacitor (100nF)     | 24       |
+
+#### Diodes
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Signal Diode (1N4148)   | 15       |
+| Schottky Diode (1N5819) | 2        |
+
+#### Integrated Circuits
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Transistor NPN (BC548)  | 20       |
+| Transistor PNP (BC558)  | 9        |
+| Op Amp Dual (TL072)     | 1        |
+| Op Amp Quad (TL074)     | 2        |
+| Binary Counter (CD4520) | 1        |
+| Shift Register (CD4015) | 8        |
+| 8 Pin DIP Sockets       | 1        |
+| 14 Pin DIP Sockets      | 2        |
+| 16 Pin DIP Sockets      | 9        |
+
+#### Potentiometers
+
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| Vertical Trim Potentiometer (B1M)    | 2        |
+| Vertical Alpha Potentiometer (B250K) | 1        |
+| Vertical Trim Potentiometer (B100K)  | 2        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (2.2M) | 2        |
+| Metal Film resistor (1M)   | 8        |
+| Metal Film resistor (200K) | 2        |
+| Metal Film resistor (100K) | 21       |
+| Metal Film resistor (82K)  | 4        |
+| Metal Film resistor (51K)  | 2        |
+| Metal Film resistor (39K)  | 6        |
+| Metal Film resistor (27K)  | 1        |
+| Metal Film resistor (20K)  | 4        |
+| Metal Film resistor (15K)  | 5        |
+| Metal Film resistor (10K)  | 14       |
+| Metal Film resistor (4.7K) | 7        |
+| Metal Film resistor (2K)   | 4        |
+| Metal Film resistor (1K)   | 1        |
+| Metal Film resistor (470R) | 13       |
+| Metal Film resistor (10R)  | 2        |
+
+#### Misc
+
+| Item                                  | Quantity |
+| ------------------------------------- | -------- |
+| Mono Audio Jack                       | 14       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 4        |
+| DW3 DPDT ON-ON Sub-mini Toggle Switch | 6        |
+| Push Button (KS01-BV)                 | 1        |
+| Push Button (Cherry MX)               | 4        |
+| 3mm Red LED                           | 3        |
+| 1.8mm Red LED                         | 4        |
+
+### How It Works
+
+[Moritz Klein's DIY Drum Sequencer Video](https://www.youtube-nocookie.com/embed/s9HKXLPiX0w)
+
+> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DRUM_SEQUENCER_MANUAL_compressed.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-drum-sequencer)
 
 ### Kick Drum
 
