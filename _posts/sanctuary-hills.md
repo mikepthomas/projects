@@ -194,3 +194,38 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 | Dryer  | 1        |          |      |      |        |      |   :x:   |       |
 | Girder | 2        |          |      |      |        |      |   :x:   |       |
 | Washer | 1        |          |      |      |        |      |   :x:   |       |
+
+## Settlement Walls
+
+![Settlement Walls](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-settlement-walls-fallout-wasteland-warfare-modiphius-entertainment-650872_1280x.jpg)
+
+> Image &copy; 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+
+### Gate
+
+| Item              | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Gate_A            | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Gate_B            | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Gate_FencePole_01 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Gate_FencePole_02 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Gate              | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+
+### Junk Wall
+
+| Item          | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| ------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Braces        | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Corner        | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Curved_Corner | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Door          | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Junk_Wall_01  | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Junk_Wall_02  | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+
+### Spiked Barriers
+
+| Item           | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| -------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Spike_Strip_01 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Spike_Strip_02 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Spike_Strip_03 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |

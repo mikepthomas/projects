@@ -128,25 +128,42 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ### Doors
 
-| Item    | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
-| ------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Door_01 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-| Door_02 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-| Door_03 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Item       | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes                     |
+| ---------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------- |
+| Door_01    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | This is a Drive Thru Part |
+| Door_02    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | This is a Drive Thru Part |
+| Door_03    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | This is a Drive Thru Part |
+| GarageDoor | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | This is a Drive Thru Part |
 
-### Furniture
+### Exterior
 
-| Item               | Quantity | Material                                                                | Time | Size  | Weight | Cost  |      Printed       | Notes |
-| ------------------ | -------- | ----------------------------------------------------------------------- | ---- | ----- | ------ | ----- | :----------------: | ----- |
-| Cart               | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         |       |
-| Diagnostic Cart    | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow)                   |      |       |        |       |        :x:         |       |
-| Gas Pump           | 2        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             | 49m  | 1.41m | 4.22   | £0.10 | :heavy_check_mark: |       |
-| Tool Chest         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             | 1h6m | 2.06m | 6.15g  | £0.15 | :heavy_check_mark: |       |
-| Tool Rack          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         |       |
-| Workshop Cabinet 1 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
-| Workshop Cabinet 2 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
-| Workshop Cabinet 3 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
-| Workshop Cabinet 4 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         |       |
+| Item                  | Quantity | Material                                                       | Time | Size  | Weight | Cost  |      Printed       | Notes                     |
+| --------------------- | -------- | -------------------------------------------------------------- | ---- | ----- | ------ | ----- | :----------------: | ------------------------- |
+| Cannister             | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Debris_Pile_01        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)      |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Debris_Pile_02        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)      |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Debris_Pile_03        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)      |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Gas_Price_Board_Base  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)      |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Gas_Price_Board_Short | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)    |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Gas_Price_Board_Tall  | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)    |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Gas_Pump              | 2        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)    | 49m  | 1.41m | 4.22g  | £0.10 | :heavy_check_mark: | This is a Drive Thru Part |
+| IceBox                | 1        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural)       |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| NukaCola_Machine      | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)    |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Steel_Barrel          | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow)          |      |       |        |       |        :x:         | This is a Drive Thru Part |
+| Trash_Bin             | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |       |        |       |        :x:         | This is a Drive Thru Part |
+
+### Interior
+
+| Item               | Quantity | Material                                                                | Time | Size  | Weight | Cost  |      Printed       | Notes                    |
+| ------------------ | -------- | ----------------------------------------------------------------------- | ---- | ----- | ------ | ----- | :----------------: | ------------------------ |
+| Cart               | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         | This is a Preserved Part |
+| Diagnostic Cart    | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow)                   |      |       |        |       |        :x:         | This is a Preserved Part |
+| Tool Chest         | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)             | 1h6m | 2.06m | 6.15g  | £0.15 | :heavy_check_mark: | This is a Preserved Part |
+| Tool Rack          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |       |        |       |        :x:         | This is a Preserved Part |
+| Workshop Cabinet 1 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         | This is a Preserved Part |
+| Workshop Cabinet 2 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         | This is a Preserved Part |
+| Workshop Cabinet 3 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         | This is a Preserved Part |
+| Workshop Cabinet 4 | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue)     |      |       |        |       |        :x:         | This is a Preserved Part |
 
 ### Nuka Cola Machine
 
