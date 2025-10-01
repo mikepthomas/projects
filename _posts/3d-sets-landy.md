@@ -9,6 +9,8 @@ preview: /assets/blog/3d-sets-landy/3d-sets-landy-hero.jpg
 slug: /projects/3d-sets-landy
 related:
   - /projects/3d-sets-accessories
+external:
+  - https://3dsets.com/product-category/models
 draft: false
 tags:
   - 3D Sets

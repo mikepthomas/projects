@@ -9,6 +9,8 @@ preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
 slug: /projects/printer-voron-1.8-mods
 related:
   - /projects/voron-m4
+external:
+  - https://mods.vorondesign.com/
 draft: false
 tags:
   - Voron

@@ -9,6 +9,8 @@ preview: /assets/blog/printer-hypercube/hypercube-hero.jpg
 slug: /projects/printer-hypercube
 related:
   - /projects/printer-am8
+external:
+  - https://www.thingiverse.com/thing:1752766
 draft: false
 tags:
   - Anet A8

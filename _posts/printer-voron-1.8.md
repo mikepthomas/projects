@@ -8,12 +8,13 @@ description: The steps I have taken to print and source parts to assemble a Voro
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
 slug: /projects/printer-voron-1.8
 related:
-  - https://www.vorondesign.com/voron1.8
   - /projects/voron-afterburner
   - /projects/printer-voron-1.8-mods
   - /projects/printer-hypercube
   - /projects/nevermore-filter
   - /projects/printer-klipper-firmware
+external:
+  - https://www.vorondesign.com/voron1.8
 draft: false
 tags:
   - CoreXY

@@ -8,9 +8,10 @@ description: M4 Extruders for Dual color printing on the Voron 1.8.
 preview: /assets/blog/voron-m4/m4-hero.jpg
 slug: /projects/voron-m4
 related:
-  - https://www.vorondesign.com/voron_m4
   - /projects/voron-afterburner
   - /projects/voron-stealthburner
+external:
+  - https://www.vorondesign.com/voron_m4
 draft: false
 tags:
   - Extruder

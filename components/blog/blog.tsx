@@ -45,9 +45,10 @@ import type PostType from '../../interfaces/post';
 type Props = {
   content: string;
   related: PostType[];
+  external: string[];
 };
 
-export default function Blog({ content, related }: Props) {
+export default function Blog({ content, related, external }: Props) {
   return (
     <Container className="nav-padding projects-page">
       <Row>
@@ -80,18 +81,7 @@ export default function Blog({ content, related }: Props) {
                   <ul>
                     {related.map((item, index) => (
                       <li key={index}>
-                        {/^http(s)?:\/\//.test(item.slug) ? (
-                          <a
-                            href={item.slug}
-                            rel="noopener noreferrer"
-                            target="_blank"
-                          >
-                            {item.title}&nbsp;
-                            <FontAwesomeIcon icon={['fas', 'link']} />
-                          </a>
-                        ) : (
-                          <Link href={item.slug}>{item.title}</Link>
-                        )}
+                        <Link href={item.slug}>{item.title}</Link>
                       </li>
                     ))}
                   </ul>
@@ -165,6 +155,27 @@ export default function Blog({ content, related }: Props) {
                   <Link href="horology">Horology</Link>
                 </li>
               </ul>
+              {external.length > 0 ? (
+                <>
+                  <h5>External Links</h5>
+                  <ul>
+                    {external.map((item, index) => (
+                      <li key={index}>
+                        <a
+                          href={item}
+                          rel="noopener noreferrer"
+                          target="_blank"
+                        >
+                          {item}&nbsp;
+                          <FontAwesomeIcon icon={['fas', 'link']} />
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              ) : (
+                ''
+              )}
             </div>
           </div>
         </Col>

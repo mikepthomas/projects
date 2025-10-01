@@ -7,6 +7,8 @@ author: Mike Thomas
 description: How I printed my OpenRC F1 car, Designed by Daniel Norée. This project was one of the main reasons I got into 3D printing in the first place.
 preview: /assets/blog/openrc-f1/openrc-hero.jpg
 slug: /projects/openrc-f1
+external:
+  - https://danielnoree.com/the-openrc-f1-build-guide/
 draft: false
 tags:
   - OpenRC

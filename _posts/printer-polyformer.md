@@ -9,6 +9,8 @@ preview: /assets/blog/printer-polyformer/polyformer-hero.jpg
 slug: /projects/printer-polyformer
 related:
   - /projects/printer-filament
+external:
+  - https://www.reiten.design/polyformer
 draft: false
 tags:
   - Polyformer

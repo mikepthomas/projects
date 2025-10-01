@@ -7,6 +7,8 @@ author: Mike Thomas
 description: How I built an Electric Guitar with a 3D printed body from scratch.
 preview: /assets/blog/guitar/guitar-hero.jpg
 slug: /projects/guitar
+external:
+  - https://www.thingiverse.com/thing:1241278
 draft: false
 tags:
   - Music

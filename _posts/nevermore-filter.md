@@ -7,6 +7,8 @@ author: Mike Thomas
 description: The Nevermore filters the encosure to reduce the smell of printing ABS.
 preview: /assets/blog/nevermore-filter/nevermore-filter-hero.jpg
 slug: /projects/nevermore-filter
+external:
+  - https://github.com/nevermore3d
 draft: false
 tags:
   - Voron

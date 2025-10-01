@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
 slug: /projects/eurorack-modular-synth
+external:
+  - https://www.ericasynths.lv/
 draft: false
 tags:
   - Erica Synths

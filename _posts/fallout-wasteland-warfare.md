@@ -14,6 +14,8 @@ related:
   - /projects/red-rocket
   - /projects/sanctuary-hills
   - /projects/vault
+external:
+  - https://modiphius.net/pages/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare

@@ -8,8 +8,9 @@ description: Printing parts to build and assemble the smallest of the Voron 3D p
 preview: /assets/blog/printer-voron-0.2/voron-0.2-hero.jpg
 slug: /projects/printer-voron-0.2
 related:
-  - https://www.vorondesign.com/voron0.2
   - /projects/printer-klipper-firmware
+external:
+  - https://www.vorondesign.com/voron0.2
 draft: false
 tags:
   - CoreXY

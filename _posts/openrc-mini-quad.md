@@ -7,6 +7,8 @@ author: Mike Thomas
 description: How I printed my OpenRC 220 FPV Mini Quad, Designed by Daniel Norée. Another jump into Radio Contolled vehicles, this time I want to fly!
 preview: /assets/blog/openrc-mini-quad/mini-quad-hero.jpg
 slug: /projects/openrc-mini-quad
+external:
+  - https://danielnoree.com/openrc-fpv-mini-quad-v1-5/
 draft: false
 tags:
   - OpenRC

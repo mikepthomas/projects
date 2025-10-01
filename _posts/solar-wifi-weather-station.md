@@ -7,6 +7,8 @@ author: Mike Thomas
 description: I won an auction on ebay and there were 3 Wifi Weather Station PCBs and some other components in the lot, let's order the rest of the parts and assemble them.
 preview: /assets/blog/solar-wifi-weather-station/solar-wifi-weather-station-hero.jpg
 slug: /projects/solar-wifi-weather-station
+external:
+  - https://www.opengreenenergy.com/solar-powered-wifi-weather-station-v2-0/
 draft: false
 tags:
   - ESPHome

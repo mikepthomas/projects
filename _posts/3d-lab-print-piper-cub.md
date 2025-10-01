@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Sourcing parts for a 3D Lab Print Piper Cub remote control airplane!
 preview: /assets/blog/3d-lab-print-piper-cub/piper-cub-hero.png
 slug: /projects/3d-lab-print-piper-cub
+external:
+  - https://3dlabprint.com/shop/piperj3cub/
 draft: false
 tags:
   - 3D LabPrint

@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Printing Upgrades and Accessories for the 3D Sets Landy.
 preview: /assets/blog/3d-sets-accessories/3d-sets-accessories-hero.jpg
 slug: /projects/3d-sets-accessories
+external:
+  - https://3dsets.com/product-category/accessories/
 draft: false
 tags:
   - 3D Sets

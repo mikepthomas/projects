@@ -9,6 +9,8 @@ preview: /assets/blog/enraged-rabbit-carrot-feeder-1.1/enraged-rabbit-carrot-fee
 slug: /projects/enraged-rabbit-carrot-feeder-1.1
 related:
   - /projects/enraged-rabbit-carrot-feeder-2.0
+external:
+  - https://github.com/EtteGit/EnragedRabbitProject
 draft: false
 tags:
   - Anet A8

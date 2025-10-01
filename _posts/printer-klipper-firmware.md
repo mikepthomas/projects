@@ -13,6 +13,8 @@ related:
   - /projects/printer-voron-2.4
   - /projects/printer-am8
   - /projects/single-board-computers
+external:
+  - https://www.klipper3d.org/
 tags:
   - Raspberry Pi
 categories:

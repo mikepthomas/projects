@@ -74,7 +74,11 @@ export default function Post({ post, related }: Props) {
                 author={post.author}
                 tags={post.tags}
               />
-              <Blog content={post.content} related={related} />
+              <Blog
+                content={post.content}
+                related={related}
+                external={post.external}
+              />
             </article>
           </>
         )}
@@ -98,6 +102,7 @@ export async function getStaticProps({ params }: Params) {
     'lastmod',
     'slug',
     'related',
+    'external',
     'author',
     'content',
     'preview',

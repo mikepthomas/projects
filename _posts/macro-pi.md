@@ -6,6 +6,8 @@ author: Mike Thomas
 description: A 3D printed macro keyboard based on the Raspberry Pi Pico.
 preview: /assets/blog/macro-pi/macro-pi-hero.jpg
 slug: /projects/macro-pi
+external:
+  - https://www.thingiverse.com/thing:5817044
 draft: false
 tags:
   - Raspberry Pi

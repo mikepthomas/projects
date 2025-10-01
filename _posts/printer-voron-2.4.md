@@ -8,11 +8,12 @@ description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
 slug: /projects/printer-voron-2.4
 related:
-  - https://www.vorondesign.com/voron2.4
   - /projects/voron-stealthburner
   - /projects/enraged-rabbit-carrot-feeder-2.0
   - /projects/nevermore-filter
   - /projects/printer-klipper-firmware
+external:
+  - https://www.vorondesign.com/voron2.4
 draft: false
 tags:
   - CoreXY

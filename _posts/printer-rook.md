@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Sourcing and printing parts to 3D print and assemble a cheap CoreXY 3D Printer, the Rook 2020 MK2.
 preview: /assets/blog/printer-rook/rook-2020-frame.jpg
 slug: /projects/printer-rook
+external:
+  - https://www.printables.com/model/798733
 draft: false
 tags:
   - CoreXY
