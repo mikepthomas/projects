@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-08-25T16:56:45.335Z
+lastmod: 2025-10-05T11:53:12.323Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -84,15 +84,15 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload             |
 | Linear Rail MGN12H 350mm                   | 1        | 1        | All Stainless Steel, Medium Preload         |
 | GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In Powge 2.4r2 Motion Kit                   |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In LDO CNC AWD Kit                          |
 | GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
 | GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
 | GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
 | GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In Powge 2.4r2 Motion Kit                   |
 | GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
-| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 2    | 3        | 1 Not required as it is for the Z Endstop   |
+| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 6    | 6        | In LDO CNC AWD Kit                          |
 | GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In Powge 2.4r2 Motion Kit                   |
-| F695 Bearing                               | 20       | 20       | In Powge 2.4r2 Motion Kit                   |
+| F695 Bearing                               | 26       | 26       | In LDO CNC AWD Kit                          |
 | BMG Extruder Components Kit                | 1        |          | In [StealthBurner](voron-stealthburner) BOM |
 | 625 Bearing                                | 12       | 12       | In Powge 2.4r2 Motion Kit                   |
 
@@ -100,7 +100,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
 > If you get the same, make sure to request medium preload when ordering, otherwise you will be randomly sent either light or medium preload.
 >
-> All other parts except for the `BMG Extruder Components Kit` are from the [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html).
+> All other parts except for the `BMG Extruder Components Kit` are either from the [Powge 2.4r2 Motion Kit](https://www.aliexpress.com/item/4000937359753.html) or the [LDO CNC AWD Kit](https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit).
 
 ## Electronics
 
@@ -118,7 +118,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                                       |
 | Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU](https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr/)                                                  |
 | Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                                       |
-| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 2 LDO Speedy Power Motors for A/B & 4 LDO SwitchWire Motors for Z                                                                                     |
+| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 LDO Speedy Power HT Motors for A/B & 4 LDO SwitchWire Motors for Z                                                                                  |
 | NEMA14 Motor 36STH20-1004AHG                          | 1        |          | In [StealthBurner](voron-stealthburner) BOM                                                                                                           |
 | ~Mini 12864 Display~                                  | ~1~      |          | Not required as I will be using a [BigTreeTech PITFT50 V2.0 Display](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board) instead. |
 | Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14](https://www.amazon.co.uk/dp/B0BVRF249S).                                                                   |
@@ -323,9 +323,9 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 ![Bearings assembled and ready for installation](/assets/blog/printer-voron-2.4/bearings-assembled.jpg)
 
-| Item                                                                                           | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                   |
-| ---------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----------------------- |
-| [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.51m | 1.31g  | £0.03 | :heavy_check_mark: | This is an LDO 2.4 Part |
+| Item                                                                                           | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
+| ---------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
+| [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.51m | 1.31g  | £0.03 | :heavy_check_mark: | This is a LDO 2.4 Part |
 
 #### Assembly
 
@@ -409,7 +409,8 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > [!NOTE]
 > The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
-> As I am using [LDO SwitchWire Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) that I already had on hand I will be mounting them the same way as the official manual as they are 8mm shorter and will not fit in the way the LDO manual shows.
+> As I am using [LDO SwitchWire Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
+> However, they will likely need to be turned another 90° so the connector faces upwards towards the deck so that the power supply and PiPlate skirt can fit.
 
 ![The Z Drives and feet installed on the printer](/assets/blog/printer-voron-2.4/z-drives-installed.jpg)
 
@@ -465,13 +466,16 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :white_check_mark: A Idler
+I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All-Wheel-Drive) Upgrade Kit](https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit/).
 
-| Item                                                                                                                               | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
-| [tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 | :heavy_check_mark: |       |
-| [front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 | :heavy_check_mark: |       |
+### :wrench: A Idler
+
+| Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
+| ~[tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)~         | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |                        |
+| ~[front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 | :heavy_check_mark: |                        |
+| ~[front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 | :heavy_check_mark: |                        |
 
 #### Assembly
 
@@ -479,6 +483,9 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
+> [!NOTE]
+> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Idlers.
+
 ##### Parts Needed
 
 | Item                        | Quantity |
@@ -491,13 +498,14 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :white_check_mark: B Idler
+### :wrench: B Idler
 
-| Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
-| [tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |       |
-| [front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 | :heavy_check_mark: |       |
-| [front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 | :heavy_check_mark: |       |
+| Item                                                                                                                                   | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
+| ~[tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)~         | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |                        |
+| ~[front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 | :heavy_check_mark: |                        |
+| ~[front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 | :heavy_check_mark: |                        |
 
 #### Assembly
 
@@ -505,6 +513,9 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
+> [!NOTE]
+> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Idlers.
+
 ##### Parts Needed
 
 | Item                        | Quantity |
@@ -517,18 +528,20 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | M5 1mm Shim                 | 2        |
 | M5 Hexnut                   | 1        |
 
-### :white_check_mark: A Drive
+### :wrench: A Drive
 
-| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.66m | 19.53g | £0.32 | :heavy_check_mark: |       |
-| [a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.55m | 19.25g | £0.31 | :heavy_check_mark: |       |
+| Item                                                                                                                             | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
+| ~[a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.66m | 19.53g | £0.32 | :heavy_check_mark: |                        |
+| ~[a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.55m | 19.25g | £0.31 | :heavy_check_mark: |                        |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
 
 #### Assembly
 
 ![A Drive Assembled](/assets/blog/printer-voron-2.4/a-drive.jpg)
 
-I am using [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
+> [!NOTE]
+> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Drives.
 
 ##### Parts Needed
 
@@ -542,18 +555,20 @@ I am using [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-step
 | M5x30 BHCS                    | 2        |
 | M5 1mm Shim                   | 6        |
 
-### :white_check_mark: B Drive
+### :wrench: B Drive
 
-| Item                                                                                                                           | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.10m | 18.11g | £0.30 | :heavy_check_mark: |       |
-| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 7.32m | 18.66g | £0.30 | :heavy_check_mark: |       |
+| Item                                                                                                                             | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
+| ~[b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.10m | 18.11g | £0.30 | :heavy_check_mark: |                        |
+| ~[b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.32m | 18.66g | £0.30 | :heavy_check_mark: |                        |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
 
 #### Assembly
 
 ![B Drive Assembled](/assets/blog/printer-voron-2.4/b-drive.jpg)
 
-I am using [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
+> [!NOTE]
+> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Drives.
 
 ##### Parts Needed
 
@@ -762,7 +777,7 @@ Finally the belts are tidied up with the Z Belt Clip mod by `ChenTheDesignMaker`
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :wrench: X Carriage
+### :negative_squared_cross_mark: X Carriage
 
 I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298).
 
@@ -1032,12 +1047,14 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 
 ### :negative_squared_cross_mark: Z Cable Chain
 
-| Item                                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ----- |
-| [cable_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_cable_cover.stl)                              | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.86m | 7.29g  | £0.15 | :heavy_check_mark: |       |
-| [z_chain_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_z_chain_retainer_bracket_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.22m | 0.56g  | £0.01 | :heavy_check_mark: |       |
-| [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |       |
-| [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |       |
+| Item                                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------ |
+| ~[cable_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_cable_cover.stl)~                            | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.86m | 7.29g  | £0.15 | :heavy_check_mark: | Not required, as it is replaced by the LDO_AWD `cable_cover` |
+| [cable_cover](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_cover.stl)                                             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         |                                                              |
+| [z_chain_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_z_chain_retainer_bracket_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.22m | 0.56g  | £0.01 | :heavy_check_mark: |                                                              |
+| [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |                                                              |
+| [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |                                                              |
+| [z_chain_upper_mount](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/z_chain_upper_mount.stl)                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         | This is a LDO_AWD Part                                       |
 
 #### Assembly
 
@@ -1235,7 +1252,7 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 | Item                                                                                                             | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                           |
 | ---------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------- |
 | [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | ~2~ 1    | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Only 1 required as I will also be printing `z_belt_cover_a_led` |
-| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is an LDO 2.4 Part                                         |
+| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | This is a LDO 2.4 Part                                          |
 | [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   |                                                                 |
 
 #### Assembly
@@ -1329,9 +1346,9 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
-| Item                                                                                                     | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                   |
-| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------- |
-| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is an LDO 2.4 Part |
+| Item                                                                                                     | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes                  |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------- |
+| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   | This is a LDO 2.4 Part |
 
 ### :negative_squared_cross_mark: Doors
 
@@ -1356,7 +1373,7 @@ I have opted to upgrade the stock Exhaust with the [Nevermore StealthMax](neverm
 
 | Item                                                                                                                                   | Quantity | Material                                               | Size | Weight | Cost | Printed | Notes                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------- |
-| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is an LDO 2.4 Part, and is just a placeholder.     |
+| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder.      |
 | ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |        |      |   :x:   | Not required as I will be building `StealthMax` instead |
 | ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not required as I will be building `StealthMax` instead |
 | ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |      |        |      |   :x:   | Not required as I will be building `StealthMax` instead |

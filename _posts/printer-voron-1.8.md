@@ -282,6 +282,9 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 | M5x30 BHCS                    | 4        |
 | NEMA17 Motor 17HS19-2004S     | 2        |
 
+> [!NOTE]
+> I will upgrade these motors to [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
+
 ### :white_check_mark: Front Idlers
 
 ![3D render of the Voron 1.8 Front Idlers](/assets/blog/printer-voron-1.8/voron-design/front-idlers.jpg)
