@@ -27,6 +27,16 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+
+  experimental: {
+    /**
+     * Increase largePageDataBytes to fix warning when building.
+     * Most of my pages contain a lot of tables that compress down well.
+     *
+     * @see https://nextjs.org/docs/messages/large-page-data
+     */
+    largePageDataBytes: 128 * 1024,
+  },
 };
 
 module.exports = nextConfig;
