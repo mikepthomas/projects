@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-05T11:53:12.323Z
+lastmod: 2025-10-06T15:47:26.283Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -472,7 +472,7 @@ I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All
 
 | Item                                                                                                                                 | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                         | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.09m | 0.22g  | £0.01 |        :x:         | This is a LDO_AWD Part |
 | ~[tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)~         | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |                        |
 | ~[front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.57m | 6.56g  | £0.11 | :heavy_check_mark: |                        |
 | ~[front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.93m | 12.57g | £0.21 | :heavy_check_mark: |                        |
@@ -502,7 +502,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 | Item                                                                                                                                   | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                           | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.09m | 0.22g  | £0.01 |        :x:         | This is a LDO_AWD Part |
 | ~[tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)~         | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: |                        |
 | ~[front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 4.80m | 12.25g | £0.20 | :heavy_check_mark: |                        |
 | ~[front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.69m | 6.86g  | £0.11 | :heavy_check_mark: |                        |
@@ -534,7 +534,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ---------------------- |
 | ~[a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.66m | 19.53g | £0.32 | :heavy_check_mark: |                        |
 | ~[a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 7.55m | 19.25g | £0.31 | :heavy_check_mark: |                        |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         | This is a LDO_AWD Part |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.09m | 0.22g  | £0.01 |        :x:         | This is a LDO_AWD Part |
 
 #### Assembly
 
@@ -1050,11 +1050,11 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 | Item                                                                                                                                                | Quantity | Material                                               | Size  | Weight | Cost  |      Printed       | Notes                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------ |
 | ~[cable_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_cable_cover.stl)~                            | ~1~      | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.86m | 7.29g  | £0.15 | :heavy_check_mark: | Not required, as it is replaced by the LDO_AWD `cable_cover` |
-| [cable_cover](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_cover.stl)                                             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |       |        |       |        :x:         |                                                              |
+| [cable_cover](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_cover.stl)                                             | 1        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 2.03m | 5.18g  | £0.10 |        :x:         | This is a LDO_AWD Part                                       |
 | [z_chain_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_z_chain_retainer_bracket_x2.stl) | 2        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 0.22m | 0.56g  | £0.01 | :heavy_check_mark: |                                                              |
 | [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |                                                              |
 | [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |                                                              |
-| [z_chain_upper_mount](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/z_chain_upper_mount.stl)                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   |       |        |       |        :x:         | This is a LDO_AWD Part                                       |
+| [z_chain_upper_mount](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/z_chain_upper_mount.stl)                                     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)   | 2.76m | 7.04g  | £0.11 | :heavy_check_mark: | This is a LDO_AWD Part                                       |
 
 #### Assembly
 
