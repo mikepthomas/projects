@@ -2,12 +2,13 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2025-08-03T09:23:16.463Z
+lastmod: 2025-10-11T22:29:46.419Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
 slug: /projects/single-board-computers
 related:
+  - /projects/eurorack-modular-synth
   - /projects/macro-pi
   - /projects/solar-wifi-weather-station
 draft: false
@@ -45,17 +46,18 @@ This page lists all of the single board computers I own and is mainly for me to 
 
 ## Generic
 
-| Item                    | Case            | Flashed with                                                                                                                               | Notes                                                               |
-| ----------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| Arduino Mega 2560       |                 | [Klipper Firmware](printer-klipper-firmware#arduino-mega)                                                                                  | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5   |
-| Arduino Nano (USB C)    | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Blue)                                    |
-| Arduino Nano (USB C)    | Robot Arm       | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Red)                                     |
-| Arduino Nano (USB C)    |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
-| Arduino Nano (USB C)    |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
-| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
-| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
-| Arduino Nano (Mini USB) |                 | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
-| Arduino Uno             | Breadboard Case | [Klipper Firmware](printer-klipper-firmware#arduino-uno)                                                                                   | With [Arduino CNC Shield](https://all3dp.com/2/arduino-cnc-shield/) |
+| Item                    | Case                                                                | Flashed with                                                                                                                               | Notes                                                               |
+| ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Arduino Mega 2560       |                                                                     | [Klipper Firmware](printer-klipper-firmware#arduino-mega)                                                                                  | With [RAMPS 1.6](https://reprap.org/wiki/RAMPS_1.6) + DRV8825 x 5   |
+| Arduino Nano (USB C)    | Robot Arm                                                           | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Blue)                                    |
+| Arduino Nano (USB C)    | Robot Arm                                                           | [Servo Test](https://github.com/keyestudio/KS0198X-4DOF-Robot-Mechanical-Arm-Kit-for-Arduino-DIY/tree/master/02.Test%20Code%20for%20Servo) | With Nano Expansion Board (Red)                                     |
+| Arduino Nano (USB C)    |                                                                     | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
+| Arduino Nano (USB C)    |                                                                     | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
+| Arduino Nano (Mini USB) |                                                                     | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
+| Arduino Nano (Mini USB) |                                                                     | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
+| Arduino Nano (Mini USB) |                                                                     | Blink Sketch                                                                                                                               | Sealed in original packaging                                        |
+| Arduino Nano (Mini USB) | [My Modular Journey Tuna](https://github.com/MyModularJourney/Tuna) | [Tune-O-Matic](https://github.com/josbouten/Tune-O-Matic)                                                                                  |                                                                     |
+| Arduino Uno             | Breadboard Case                                                     | [Klipper Firmware](printer-klipper-firmware#arduino-uno)                                                                                   | With [Arduino CNC Shield](https://all3dp.com/2/arduino-cnc-shield/) |
 
 # BBC
 
