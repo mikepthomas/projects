@@ -25,15 +25,55 @@ keywords:
 
 This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 
-# Filament
+# Amazon Basics
 
-## ABS
+## PETG
 
-I usually print my ABS with a hotend temperature of 250-255°C and a bed temperature of 100°C.
+I usually print Amazon Basics PETG with a hotend temperature of 240-245°C and a bed temperature of 70°C.
+
+### Amazon Basics PETG (Red)
+
+This filament was originally brought to upgrade my printer to a Core XY style [Hypercube][Hypercube].
+
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#FF0400 {20x20}](https://placehold.co/20/FF0400/FF0400.png) | 240 (1st Layer) 245 (Others) | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Amazon%20Basics%20PETG%20(Red).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07T2QZYS5) | £19.19   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/3487) |
+
+## PLA
+
+I usually print Amazon Basics PLA with a hotend temperature of 210-215°C and a bed temperature of 60°C.
+
+### Amazon Basics PLA (Blue)
+
+This filament was originally brought to print [Fallout: Wasteland Warfare Vault][Vault].
+
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#42BDE5 {20x20}](https://placehold.co/20/42BDE5/42BDE5.png) | 215 (1st Layer) 210 (Others) | 60       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Amazon%20Basics%20PLA%20(Blue).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07T2R1BQJ) | £14.88   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/1382) |
+
+# BasicFil
+
+## PETG
+
+I usually print BasicFil PETG with a hotend temperature of 240-245°C and a bed temperature of 70°C.
+
+### BasicFil PETG (Clear)
+
+This filament was originally brought to print the [StealthBurner][Stealthburner] LED Diffuser.
+
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
+| ![#FFFFFC {20x20}](https://placehold.co/20/FFFFFC/FFFFFC.png) | 240 (1st Layer) 245 (Others) | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/BasicFil%20PETG%20(Clear).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07CTLV4W5) | £19.90   | 0.5           |       |
+
+# eSun
+
+## ABS+
+
+I usually print eSun ABS+ with a hotend temperature of 255°C and a bed temperature of 100°C.
 
 ### eSun ABS+ (Black)
 
-This filament will be used to print the main parts for the [Voron 0.2](printer-voron-0.2), [Voron 1.8](printer-voron-1.8) and [Voron 2.4](printer-voron-2.4).
+This filament will be used to print the main parts for the [Voron 0.2][Voron 0.2], [Voron 1.8][Voron 1.8] and [Voron 2.4][Voron 2.4].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                          | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -41,7 +81,7 @@ This filament will be used to print the main parts for the [Voron 0.2](printer-v
 
 ### eSun ABS+ (Blue)
 
-This filament will be used to print the accent parts for the [AM8 Switchwire](printer-am8).
+This filament will be used to print the accent parts for the [AM8 Switchwire][AM8].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                         | Purchased From                                | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -49,7 +89,7 @@ This filament will be used to print the accent parts for the [AM8 Switchwire](pr
 
 ### eSun ABS+ (Brown)
 
-This filament will be used to print the interior parts for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the interior parts for a [3D Sets Landy][Landy].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                          | Purchased From | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -57,7 +97,7 @@ This filament will be used to print the interior parts for a [3D Sets Landy](3d-
 
 ### eSun ABS+ (Cold White)
 
-This filament will be used to print the roof for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the roof for a [3D Sets Landy][Landy].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -65,7 +105,7 @@ This filament will be used to print the roof for a [3D Sets Landy](3d-sets-landy
 
 ### eSun ABS+ (Fire Engine Red)
 
-This filament was originally brought to print the accent parts for my [Voron 1.8](printer-voron-1.8).
+This filament was originally brought to print the accent parts for my [Voron 1.8][Voron 1.8].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                        | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -73,7 +113,7 @@ This filament was originally brought to print the accent parts for my [Voron 1.8
 
 ### eSun ABS+ (Grey)
 
-This filament will be used to print the roof of the [Sanctuary Hills House](sanctuary-hills).
+This filament will be used to print the roof of the [Sanctuary Hills House][Sanctuary Hills].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                         | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -81,7 +121,7 @@ This filament will be used to print the roof of the [Sanctuary Hills House](sanc
 
 ### eSun ABS+ (Light Blue)
 
-This filament will be used to print the walls of the [Sanctuary Hills House](sanctuary-hills).
+This filament will be used to print the walls of the [Sanctuary Hills House][Sanctuary Hills].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -95,7 +135,7 @@ This filament will be used to print the walls of the [Sanctuary Hills House](san
 
 ### eSun ABS+ (Natural)
 
-This filament will be used to print the window frames of the [Sanctuary Hills House](sanctuary-hills).
+This filament will be used to print the window frames of the [Sanctuary Hills House][Sanctuary Hills].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -103,7 +143,7 @@ This filament will be used to print the window frames of the [Sanctuary Hills Ho
 
 ### eSun ABS+ (Orange)
 
-This filament was originally brought to print the accent parts for the [Voron 0.2](printer-voron-0.2) however I purchased [LDO ASA (Orange)](#ldo-asa-orange) Filament that is a better colour match to the panels.
+This filament was originally brought to print the accent parts for the [Voron 0.2][Voron 0.2] however I purchased [LDO ASA (Orange)](#ldo-asa-orange) Filament that is a better colour match to the panels.
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -111,7 +151,7 @@ This filament was originally brought to print the accent parts for the [Voron 0.
 
 ### eSun ABS+ (Peak Green)
 
-This filament will be used to print the parts for the [Rook 2020](printer-rook).
+This filament will be used to print the parts for the [Rook 2020][Rook].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -119,7 +159,7 @@ This filament will be used to print the parts for the [Rook 2020](printer-rook).
 
 ### eSun ABS+ (Pine Green)
 
-This filament will be used to print the body panels for a [3D Sets Landy](3d-sets-landy).
+This filament will be used to print the body panels for a [3D Sets Landy][Landy].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                               | Purchased From | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -133,7 +173,7 @@ This filament will be used to print the body panels for a [3D Sets Landy](3d-set
 
 ### eSun ABS+ (Purple)
 
-This filament will be used to print the accent parts for the [Voron 2.4](printer-voron-2.4).
+This filament will be used to print the accent parts for the [Voron 2.4][Voron 2.4].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -141,7 +181,7 @@ This filament will be used to print the accent parts for the [Voron 2.4](printer
 
 ### eSun ABS+ (Red)
 
-This filament was originally brought to print parts for the [Nuka-World Parking Lot](nuka-world).
+This filament was originally brought to print parts for the [Nuka-World Parking Lot][Nuka World].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                        | Purchased From                                  | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -149,7 +189,7 @@ This filament was originally brought to print parts for the [Nuka-World Parking 
 
 ### eSun ABS+ (Silver)
 
-This filament will be used to print the frame on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
+This filament will be used to print the frame on a [3D Sets Car Hauler][Car Hauler].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                     | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -157,85 +197,55 @@ This filament will be used to print the frame on a [3D Sets Car Hauler](3d-sets-
 
 ### eSun ABS+ (Yellow)
 
-This filament was originally brought to print the [3D LabPrint Piper Cub](3d-lab-print-piper-cub) however I won some [Polylite LW-PLA](#polylite-lw-pla-yellow) that I will now use instead.
+This filament was originally brought to print the [3D LabPrint Piper Cub][Piper Cub] however I won some [Polylite LW-PLA](#polylite-lw-pla-yellow) that I will now use instead.
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                  | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
 | ![#F9BE19 {20x20}](https://placehold.co/20/F9BE19/F9BE19.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Yellow).ini>) | [3D Jake](https://www.3djake.uk/esun/absyellow) | £16.74   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
 
-### PrimaValue ABS (Dark Grey)
+## PLA
 
-This filament was brought to print the parts close to the hotend of [my Anet A8](printer).
+I usually print eSun PLA with a hotend temperature of 210-215°C and a bed temperature of 60°C.
 
-|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#535353 {20x20}](https://placehold.co/20/535353/535353.png) | 250         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20ABS%20(Dark%20Grey).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01DWTSEIK) | £15.90   | 1             |       |
+### eSun PLA (Wood)
+
+This filament will be used to print the wood panels on a [3D Sets Car Hauler][Car Hauler].
+
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                               | Avg Cost | KGs Purchased | Notes                                                                       |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
+| ![#D7AE74 {20x20}](https://placehold.co/20/D7AE74/D7AE74.png) | 215 (1st Layer) 210 (Others) | 60       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%PLA%2B%20(Wood).ini>) | [3D Jake](https://www.3djake.uk/esun/wood-2) | £27.98   | 0.5           | [Datasheet](https://www.esun3d.com/uploads/eSUN_Wood-Filament_TDS_V4.0.pdf) |
+
+# LDO
+
+## ABS
+
+I usually print LDO ABS with a hotend temperature of 255°C and a bed temperature of 100°C.
+
+### LDO ABS (Black)
+
+This filament will be used to print the main parts for the [Voron 0.2][Voron 0.2].
+
+|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile | Purchased From                                                              | Avg Cost | KGs Purchased | Notes                                                                            |
+| :-----------------------------------------------------------: | ----------- | -------- | -------------- | --------------------------------------------------------------------------- | -------- | ------------- | -------------------------------------------------------------------------------- |
+| ![#2D2926 {20x20}](https://placehold.co/20/2D2926/2D2926.png) | 255         | 100      |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-abs-filament-1kg-1-75mm/) | £15.95   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/11476) |
 
 ## ASA
 
+I usually print LDO ASA with a hotend temperature of 255°C and a bed temperature of 100°C.
+
 ### LDO ASA (Orange)
 
-This filament will be used to print the accent parts for the [Voron 0.2](printer-voron-0.2).
+This filament will be used to print the accent parts for the [Voron 0.2][Voron 0.2].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile | Purchased From                                                              | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------- | --------------------------------------------------------------------------- | -------- | ------------- | ----- |
 | ![#F93822 {20x20}](https://placehold.co/20/F93822/F93822.png) | 255         | 100      |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-asa-filament-1kg-1-75mm/) | £18.10   | 1             |       |
 
-## PETG
-
-I usually print my ABS with a hotend temperature of 240-245°C and a bed temperature of 70°C.
-
-### Amazon Basics PETG (Red)
-
-This filament was originally brought to upgrade my printer to a Core XY style [Hypercube](printer-hypercube).
-
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#EA000B {20x20}](https://placehold.co/20/EA000B/EA000B.png) | 240 (1st Layer) 245 (Others) | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Amazon%20Basics%20PETG%20(Red).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07T2QZYS5) | £19.19   | 1             |       |
-
-### BasicFil PETG (Clear)
-
-This filament was originally brought to print the [StealthBurner](https://vorondesign.com/voron_stealthburner) LED Diffuser.
-
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#FFFFFC {20x20}](https://placehold.co/20/FFFFFC/FFFFFC.png) | 240 (1st Layer) 245 (Others) | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/BasicFil%20PETG%20(Clear).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07CTLV4W5) | £19.90   | 0.5           |       |
-
-### Tinmorry PETG (Black)
-
-This filament was originally brought to upgrade my printer to a Core XY style [Hypercube](printer-hypercube).
-
-|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#040404 {20x20}](https://placehold.co/20/040404/040404.png) | 240         | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PETG%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B087TFZR9K) | £19.99   | 1             |       |
-
-### Tinmorry PETG (White)
-
-This filament was originally brought to upgrade the parts near the hotend and bed of [my Anet A8](printer) to make them more heat resistant.
-
-|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#F7F7F7 {20x20}](https://placehold.co/20/F7F7F7/F7F7F7.png) | 240         | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PETG%20(White).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B083Z69XKM) | £19.99   | 1             |       |
+# Polymaker
 
 ## PLA
 
-I usually print my ABS with a hotend temperature of 205-215°C and a bed temperature of 55-60°C.
-
-### Amazon Basics PLA (Blue)
-
-This filament was originally brought to print Fallout: Wasteland Warfare [Vault](https://www.modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle).
-
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#42D1FF {20x20}](https://placehold.co/20/42D1FF/42D1FF.png) | 215 (1st Layer) 210 (Others) | 60       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Amazon%20Basics%20PLA%20(Blue).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07T2R1BQJ) | £14.88   | 1             |       |
-
-### eSun PLA (Wood)
-
-This filament will be used to print the wood panels on a [3D Sets Car Hauler](3d-sets-accessories#car-hauler).
-
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                               | Avg Cost | KGs Purchased | Notes                                                                       |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
-| ![#D7AE74 {20x20}](https://placehold.co/20/D7AE74/D7AE74.png) | 215 (1st Layer) 210 (Others) | 60       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%PLA%2B%20(Wood).ini>) | [3D Jake](https://www.3djake.uk/esun/wood-2) | £27.98   | 0.5           | [Datasheet](https://www.esun3d.com/uploads/eSUN_Wood-Filament_TDS_V4.0.pdf) |
+I usually print Polmaker PLA with a hotend temperature of 205-215°C and a bed temperature of 55°C.
 
 ### PolyLite LW-PLA (Yellow)
 
@@ -261,17 +271,35 @@ This filament was brought to print a protective case, wall mount and plates for 
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------- | ---------------------------------------------------------------------- |
 | ![#5AABB1 {20x20}](https://placehold.co/20/5AABB1/5AABB1.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PolyTerra%20Matte%20PLA%20(Teal).ini>) | [Amazon](https://www.amazon.co.uk/dp/B08QMCNWMW) | £21.94 | 1             | [Material Database](https://app.polymaker.com/details/PolyTerra%20PLA) |
 
+# Prima Creator
+
+## ABS
+
+I usually print PrimaValue ABS with a hotend temperature of 250°C and a bed temperature of 100°C.
+
+### PrimaValue ABS (Dark Grey)
+
+This filament was brought to print the parts close to the hotend of [my Anet A8][Anet A8].
+
+|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
+| :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
+| ![#535353 {20x20}](https://placehold.co/20/535353/535353.png) | 250         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20ABS%20(Dark%20Grey).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01DWTSEIK) | £15.90   | 1             |       |
+
+## PLA
+
+I usually print PrimaValue PLA with a hotend temperature of 205-215°C and a bed temperature of 55°C.
+
 ### PrimaValue PLA (Black)
 
-This filament was originally brought to print the barge boards and turning vanes of the [OpenRC F1 Car](openrc-f1).
+This filament was originally brought to print the barge boards and turning vanes of the [OpenRC F1 Car][OpenRC F1].
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                             | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#060005 {20x20}](https://placehold.co/20/060005/060005.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B013IHX9EA) | £24.80   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                             | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#060005 {20x20}](https://placehold.co/20/060005/060005.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B013IHX9EA) | £24.80   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/9371) |
 
 ### PrimaValue PLA (Blue)
 
-This filament was originally brought to print the body of the [OpenRC F1 Car](openrc-f1).
+This filament was originally brought to print the body of the [OpenRC F1 Car][OpenRC F1].
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -279,7 +307,7 @@ This filament was originally brought to print the body of the [OpenRC F1 Car](op
 
 ### PrimaValue PLA (Dark Grey)
 
-This filament was the first type I originally brought, it was used to print the upgrade parts for [my Anet A8](printer).
+This filament was the first type I originally brought, it was used to print the upgrade parts for [my Anet A8][Anet A8].
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                   | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
@@ -287,61 +315,97 @@ This filament was the first type I originally brought, it was used to print the 
 
 ### PrimaValue PLA (Red)
 
-This filament was originally brought to print the body of the [Guitar project](guitar).
+This filament was originally brought to print the body of the [Guitar project][Guitar].
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
 | ![#D60907 {20x20}](https://placehold.co/20/D60907/D60907.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20PLA%20(Red).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01AMLMTX2) | £24.09   | 3             |       |
 
+# Tinmorry
+
+## PETG
+
+I usually print Tinmorry PETG with a hotend temperature of 240°C and a bed temperature of 70°C.
+
+### Tinmorry PETG (Black)
+
+This filament was originally brought to upgrade my printer to a Core XY style [Hypercube][Hypercube].
+
+|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#040404 {20x20}](https://placehold.co/20/040404/040404.png) | 240         | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PETG%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B087TFZR9K) | £19.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/7234) |
+
+### Tinmorry PETG (White)
+
+This filament was originally brought to upgrade the parts near the hotend and bed of [my Anet A8][Anet A8] to make them more heat resistant.
+
+|                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
+| :-----------------------------------------------------------: | ----------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
+| ![#F7F7F7 {20x20}](https://placehold.co/20/F7F7F7/F7F7F7.png) | 240         | 70       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PETG%20(White).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B083Z69XKM) | £19.99   | 1             |       |
+
+## PLA
+
+I usually print Tinmorry PLA with a hotend temperature of 205-215°C and a bed temperature of 55°C.
+
 ### Tinmorry PLA (Black)
 
-This filament was originally brought to print a [box insert](red-rocket#box-insert) for the game [Fallout: Wasteland Warfare](https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-two-player-starter-set).
+This filament was originally brought to print a [box insert](fallout-wasteland-warfare#box-insert) for the game [Fallout: Wasteland Warfare](https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-two-player-starter-set).
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#0E0E0E {20x20}](https://placehold.co/20/0E0E0E/0E0E0E.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B083Y5G2GJ) | £16.99   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#0E0E0E {20x20}](https://placehold.co/20/0E0E0E/0E0E0E.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B083Y5G2GJ) | £16.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/7233) |
 
 ### Tinmorry PLA (Grey)
 
-This filament was originally brought to print the floor of the [Red Rocket](red-rocket).
+This filament was originally brought to print the floor of the [Red Rocket][Red Rocket].
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                          | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#8D8F8B {20x20}](https://placehold.co/20/8D8F8B/8D8F8B.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PLA%20(Grey).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B089YX78N5) | £22.99   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                          | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#8A8A8A {20x20}](https://placehold.co/20/8A8A8A/8A8A8A.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PLA%20(Grey).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B089YX78N5) | £22.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/3389) |
 
 ### Tinmorry PLA (Matte Brick Red)
 
-This filament was originally brought to print the walls of the [Red Rocket](red-rocket).
+This filament was originally brought to print the walls of the [Red Rocket][Red Rocket].
 
 |                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                                         | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
 | ![#D8665D {20x20}](https://placehold.co/20/D8665D/D8665D.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Tinmorry%20PLA%20(Matte%20Brick%20Red).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B08PKMRVCS) | £25.99   | 1             |       |
 
+# Ziro
+
+## PLA
+
+I usually print Ziro PLA with a hotend temperature of 205-215°C and a bed temperature of 55°C.
+
 ### Ziro PLA (Black)
 
-This filament was originally brought to print an [Out of Marbles Marble Machine](marble-machine).
+This filament was originally brought to print an [Out of Marbles Marble Machine][Marble Machine].
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#0E0F12 {20x20}](https://placehold.co/20/0E0F12/0E0F12.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B073WX3T91) | £15.99   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#0E0F12 {20x20}](https://placehold.co/20/0E0F12/0E0F12.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20PLA%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B073WX3T91) | £15.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/4685) |
 
 ### Ziro PLA (Yellow)
 
-This filament was originally brought to print an [Out of Marbles Marble Machine](marble-machine).
+This filament was originally brought to print an [Out of Marbles Marble Machine][Marble Machine].
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                        | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#EFC509 {20x20}](https://placehold.co/20/EFC509/EFC509.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20PLA%20(Yellow).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B075M5KQ6D) | £17.99   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                        | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#FFE100 {20x20}](https://placehold.co/20/FFE100/FFE100.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20PLA%20(Yellow).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B075M5KQ6D) | £17.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/1639) |
 
 ## TPU
 
+I usually print Ziro TPU with a hotend temperature of 205-215°C and a bed temperature of 55°C.
+
 ### Ziro TPU (Black)
 
-This filament was originally brought to print the tyres and front and rear wings of the [OpenRC F1 Car](openrc-f1).
+This filament was originally brought to print the tyres and front and rear wings of the [OpenRC F1 Car][OpenRC F1].
 
-|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
-| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ----- |
-| ![#0A0A0D {20x20}](https://placehold.co/20/0A0A0D/0A0A0D.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20TPU%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01INRE4X0) | £21.99   | 1             |       |
+|                             Color                             | Hotend Temp                  | Bed Temp | Slicer Profile                                                                                                                       | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                           |
+| :-----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- | ------------- | ------------------------------------------------------------------------------- |
+| ![#0A0A0D {20x20}](https://placehold.co/20/0A0A0D/0A0A0D.png) | 215 (1st Layer) 205 (Others) | 55       | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/Ziro%20TPU%20(Black).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01INRE4X0) | £21.99   | 1             | [Info3D Filament Profile](https://3dfilamentprofiles.com/filament/details/3115) |
+
+---
 
 # Filament Clips
 
@@ -360,3 +424,22 @@ The first filament I used was the PrimaValue PLA (Dark Grey) and found it printe
 I then started experimenting with other brands, the Amazon Basics spools are also wide like the Prima ones and therefore do not fit into the dryer. The Ziro and Tinmorry ones are a perfect fit and I like the choices of filament colours that Tinmorry have.
 
 When I started on my Voron printer project I needed some ABS and the eSun ABS+ came highly recommended and being the same brand as the dryer they were guaranteed to fit.
+
+[AM8]: printer-am8 'Upgrading the Anet A8 to an AM8 Switchwire'
+[Anet A8]: printer 'Assembly of an Anet A8 3D printer'
+[Car Hauler]: 3d-sets-accessories#car-hauler '3D Sets Jumbo – Car Hauler'
+[Guitar]: guitar '3D Printing an electric guitar'
+[Hypercube]: printer-hypercube 'Upgrading my Anet A8 to a Hypercube'
+[Landy]: 3d-sets-landy '3D Sets Landy 4x4 Pickup'
+[Marble Machine]: marble-machine 'Out of Marbles, Marble Machine'
+[Nuka World]: nuka-world '3D Printing the Nuka-World Parking Lot'
+[OpenRC F1]: openrc-f1 '3D Printing an OpenRC F1 radio controlled car'
+[Piper Cub]: 3d-lab-print-piper-cub '3D LabPrint Piper Cub RC Aeroplane'
+[Red Rocket]: red-rocket '3D Printing the Red Rocket Truck Stop'
+[Rook]: printer-rook '3D Printing the Rook, a cheap CoreXY 3D Printer'
+[Sanctuary Hills]: sanctuary-hills '3D Printing a Sanctuary Hills House from Fallout 4'
+[Stealthburner]: voron-stealthburner 'Assembling the Voron StealthBurner Toolhead'
+[Vault]: vault '3D Printing a Vault-Tec Vault'
+[Voron 0.2]: printer-voron-0.2 'Assembling the smallest Voron printer'
+[Voron 1.8]: printer-voron-1.8 'Building my first Voron printer'
+[Voron 2.4]: printer-voron-2.4 'Building the Flying Gantry Voron'

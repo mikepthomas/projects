@@ -34,7 +34,7 @@ import { basePath } from '../next.config';
 
 export function getComponents() {
   return {
-    a: ({ children, href }) => {
+    a: ({ children, href, title }) => {
       if (href?.match(/^(https?:)?\/\/www.youtube(-nocookie)?.com\/embed\//)) {
         return (
           <motion.span
@@ -55,15 +55,24 @@ export function getComponents() {
         );
       } else if (href?.match(/^(https?:)?\/\//)) {
         return (
-          <a href={href} rel="noopener noreferrer" target="_blank">
+          <a
+            href={href}
+            rel="noopener noreferrer"
+            target="_blank"
+            title={title}
+          >
             {children}
           </a>
         );
       } else {
-        return <Link href={href}>{children}</Link>;
+        return (
+          <Link href={href} title={title}>
+            {children}
+          </Link>
+        );
       }
     },
-    img: ({ alt, src }) => {
+    img: ({ alt, src, title }) => {
       const altText = alt?.replace(/ *\{[^)]*\} */g, '');
       const metaWidth = alt.match(/{([^}]+)x/);
       const metaHeight = alt.match(/x([^}]+)}/);
@@ -81,6 +90,7 @@ export function getComponents() {
             width={width}
             height={height}
             alt={altText}
+            title={title}
           />
         </motion.span>
       );
