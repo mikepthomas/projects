@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-07T15:53:55.661Z
+lastmod: 2025-10-11T23:28:18.107Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -518,6 +518,9 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | ~M5 1mm Shim~                 | ~2~      |
 | ~M5 Hexnut~                   | ~1~      |
 
+> [!WARNING]
+> These parts are not required as they are for the stock `front_idler_left` parts.
+
 ##### Front Drive Frame
 
 | Item                                  | Quantity |
@@ -569,6 +572,9 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | ~M5 1mm Shim~                 | ~2~      |
 | ~M5 Hexnut~                   | ~1~      |
 
+> [!WARNING]
+> These parts are not required as they are for the stock `front_idler_right` parts.
+
 ##### Front Drive Frame
 
 | Item                                  | Quantity |
@@ -616,6 +622,9 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | ~M3 Threaded Insert (M3x5x4)~   | ~2~      |
 | ~M5x30 BHCS~                    | ~2~      |
 | ~M5 1mm Shim~                   | ~6~      |
+
+> [!WARNING]
+> These parts are not required as they are for the stock `a_drive_frame` parts.
 
 ##### Tensioner Slide
 
@@ -675,6 +684,9 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | ~M3x30 SHCS~                    | ~3~      |
 | ~M5x30 BHCS~                    | ~2~      |
 | ~M5 1mm Shim~                   | ~6~      |
+
+> [!WARNING]
+> These parts are not required as they are for the stock `b_drive_frame` parts.
 
 ##### Tensioner Slide
 
@@ -755,10 +767,13 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 ### :white_check_mark: Right XY Joint
 
-| Item                                                                                                                                           | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | ----- |
-| [xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)][primary] | 11.43m | 29.14g | £0.48 | :heavy_check_mark: |       |
-| [xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)][primary] | 3.80m  | 9.70g  | £0.16 | :heavy_check_mark: |       |
+I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers).
+
+| Item                                                                                                                                             | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------------------------------- |
+| ~[xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 11.43m | 29.14g | £0.48 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Bottom Right Part`           |
+| ~[xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 3.80m  | 9.70g  | £0.16 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Top Right Part`              |
+| [Endstops_print_with_supports](https://www.printables.com/model/1211705/files)                                                                   | 1        | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | This is a mod by [Vitalii3D](https://www.printables.com/@Vitalii3D) |
 
 #### Assembly
 
@@ -768,18 +783,28 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 | Item                                 | Quantity |
 | ------------------------------------ | -------- |
+| 10mm M5 sleeve                       | 2        |
 | F695 Bearing                         | 2        |
 | GT2 20T Toothed Idler (5mm ID 6mm W) | 1        |
-| M5x40 SHCS                           | 4        |
+| M3x8 FHCS                            | 4        |
+| ~M5x40 SHCS~                         | ~4~      |
 | M5 1mm Shim                          | 2        |
-| M5 Hexnut                            | 3        |
+| ~M5 Hexnut~                          | ~3~      |
+| Stainless steel pin                  | 2        |
+| Vitalii3D CNC Bottom Right Part      | 1        |
+| Vitalii3D CNC Top Right Part         | 1        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `xy_joint_right` parts.
 
 ### :white_check_mark: Left XY Joint
 
-| Item                                                                                                                                         | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | ----- |
-| [xy_joint_left_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl) | 1        | [eSun ABS+ (Black)][primary] | 11.32m | 28.87g | £0.47 | :heavy_check_mark: |       |
-| [xy_joint_left_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl) | 1        | [eSun ABS+ (Black)][primary] | 4.00m  | 10.21g | £0.17 | :heavy_check_mark: |       |
+I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers).
+
+| Item                                                                                                                                           | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | -------------------------------------------------------- |
+| ~[xy_joint_left_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_lower_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 11.32m | 28.87g | £0.47 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Top Left Part`    |
+| ~[xy_joint_left_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_left_upper_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 4.00m  | 10.21g | £0.17 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Bottom Left Part` |
 
 #### Assembly
 
@@ -789,11 +814,19 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 | Item                                 | Quantity |
 | ------------------------------------ | -------- |
+| 10mm M5 sleeve                       | 2        |
 | F695 Bearing                         | 2        |
 | GT2 20T Toothed Idler (5mm ID 6mm W) | 1        |
-| M5x40 SHCS                           | 4        |
+| M3x8 FHCS                            | 4        |
+| ~M5x40 SHCS~                         | ~4~      |
 | M5 1mm Shim                          | 2        |
-| M5 Hexnut                            | 3        |
+| ~M5 Hexnut~                          | ~3~      |
+| Stainless steel pin                  | 2        |
+| Vitalii3D CNC Bottom Left Part       | 1        |
+| Vitalii3D CNC Top Left Part          | 1        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the stock `xy_joint_left` parts.
 
 ### :white_check_mark: X Axis
 
