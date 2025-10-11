@@ -945,14 +945,14 @@ Finally the belts are tidied up with the Z Belt Clip mod by `ChenTheDesignMaker`
 
 ### :negative_squared_cross_mark: X Carriage
 
-I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap](https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298).
+I have opted to upgrade the stock X Carriage with [ChaoticLab CNC Tap][Tap].
 
-| Item                                                                                                                                          | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | ---------------------------------------- |
-| ~[probe_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl)~     | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by `ChaoticLab CNC Tap` |
-| [V2 Hall Sensor Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/CNC_VORON_TAP_V2/V2%20Hall%20Sensor%20Adapter.STL)   | 1        | [eSun ABS+ (Black)][primary] | 0.44m | 1.11g  | £0.02 | :heavy_check_mark: | This is `Chaoticlab` Part                |
-| ~[x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)~   | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by `ChaoticLab CNC Tap` |
-| ~[x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by `ChaoticLab CNC Tap` |
+| Item                                                                                                                                          | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | --------------------------------------------- |
+| ~[probe_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/probe_retainer_bracket.stl)~     | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by [ChaoticLab CNC Tap][Tap] |
+| [V2 Hall Sensor Adapter](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/master/STL/CNC_VORON_TAP_V2/V2%20Hall%20Sensor%20Adapter.STL)   | 1        | [eSun ABS+ (Black)][primary] | 0.44m | 1.11g  | £0.02 | :heavy_check_mark: | This is `Chaoticlab` Part                     |
+| ~[x_frame_V2TR_MGN12_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_left.stl)~   | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by [ChaoticLab CNC Tap][Tap] |
+| ~[x_frame_V2TR_MGN12_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/X_Carriage/x_frame_V2TR_MGN12_right.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         | This is replaced by [ChaoticLab CNC Tap][Tap] |
 
 > [!NOTE]
 > I am not going to install hall effect endstops now as I already have an endstop PCB with switches, however I will install the hall effect magnets in case I want to upgrade to a hall effect PCB at a later date.
@@ -1138,9 +1138,9 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-Tap repository](https://github.com/VoronDesign/Voron-Tap/blob/main/config/tap_klipper_instructions.md) mentions to change the `endstop_pin` of the `[stepper_z]` block so that it uses the virtual Z endstop for Tap.
 
-| Item                                                                                                   | Quantity | Material                     | Printed | Notes                                                           |
-| ------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | :-----: | --------------------------------------------------------------- |
-| ~[nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] |   :x:   | I will be installing [ChaoticLab CNC Tap](#-x-carriage) instead |
+| Item                                                                                                   | Quantity | Material                     | Printed | Notes                                                  |
+| ------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | :-----: | ------------------------------------------------------ |
+| ~[nozzle_probe](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Z_Endstop/nozzle_probe.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] |   :x:   | I will be installing [ChaoticLab CNC Tap][Tap] instead |
 
 #### Assembly
 
@@ -1157,7 +1157,7 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 | ~Omron D2F-01L Micro Switch~       | ~1~      |
 
 > [!CAUTION]
-> These parts are not required as I will be installing the `ChaoticLab CNC Tap`.
+> These parts are not required as I will be installing the [ChaoticLab CNC Tap][Tap].
 
 ### :negative_squared_cross_mark: X/Y Endstop
 
@@ -1285,17 +1285,17 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 
 ### :negative_squared_cross_mark: LCD
 
-I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50](https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board) touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
+I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50][PITFT50] touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
 
-| Item                                                                                                                                                           | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------- |
-| ~[btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)~                                  | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the `BigTreeTech PITFT50` |
-| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a Voron Users mod by `alanho`     |
-| ~[mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl)~                      | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the `BigTreeTech PITFT50` |
-| ~[mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)~                                    | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the `BigTreeTech PITFT50` |
-| ~[mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)~                                            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the `BigTreeTech PITFT50` |
-| ~[mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)~                                              | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the `BigTreeTech PITFT50` |
-| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a Voron Users mod by `CannedBass` |
+| Item                                                                                                                                                           | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------- |
+| ~[btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)~                                  | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a Voron Users mod by `alanho`              |
+| ~[mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl)~                      | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)~                                    | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)~                                            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)~                                              | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a Voron Users mod by `CannedBass`          |
 
 #### Assembly
 
