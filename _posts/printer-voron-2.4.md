@@ -100,7 +100,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
 > If you get the same, make sure to request medium preload when ordering, otherwise you will be randomly sent either light or medium preload.
 >
-> All other parts except for the `BMG Extruder Components Kit` are either from the [Powge 2.4r2 Motion Kit][Powge] or the [LDO CNC AWD Kit][AWD].
+> All other parts except for the `BMG Extruder Components Kit` are either from the [Powge 2.4r2 Motion Kit][Motion Kit] or the [LDO CNC AWD Kit][AWD Kit].
 
 [AWD Kit]: https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit 'LDO Voron AWD (All-Wheel-Drive) Upgrade Kit from OneTwo3D'
 [Motion Kit]: https://www.aliexpress.com/item/4000937359753.html 'Powge Voron 2.4 R2 Motion Kit from Ali Express'
@@ -169,7 +169,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | DIN 3 Rails (35mm W) - 415mm                    | 2        | 2        | 400mm |
 
 > [!NOTE]
-> All parts except from the `DIN 3 Rails` are from the [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo/).
+> All parts except from the `DIN 3 Rails` are from the [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo 'LDO Voron 2.4 Frame Set from OneTwo3D').
 
 ## Misc
 
@@ -234,9 +234,9 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | Acrylic Sheet Clear - 216.5x453x3 mm | 2        | 2        |       |
 
 > [!NOTE]
-> Instead of Coroplast Sheets I ordered [3mm Black ACM Panels](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm/)
+> Instead of Coroplast Sheets I ordered [3mm Black ACM Panels](https://plasticsheetsshop.co.uk/product/black-aluminium-composite-panel-3mm 'Black aluminium composite panel from Plastic Sheets Shop')
 > using the DXFs from the [Voron 2.4 GitHub Repository](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Drawing_DXFs/Panels), marked `300`,
-> and instead of Acrylic Sheets I ordered [3mm Clear Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm/)
+> and instead of Acrylic Sheets I ordered [3mm Clear Polycarbonate Panels](https://plasticsheetsshop.co.uk/product/clear-polycarbonate-sheet-3mm 'Clear polycarbonate sheet from Plastic Sheets Shop')
 > specifing the width and height from the table above.
 
 ## Buildplate
