@@ -37,34 +37,34 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                        | Quantity | Received | Notes                                    |
-| --------------------------- | -------- | -------- | ---------------------------------------- |
-| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit   |
-| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x6 FHCS                   | 8        | 51       |                                          |
-| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x50 SHCS                  | 2        |          | See [StealthBurner](voron-stealthburner) |
-| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x25 SHCS                  | 6        |          | See [StealthBurner](voron-stealthburner) |
-| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3x10 FHCS                  | 4        | 55       |                                          |
-| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit   |
-| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit   |
+| Item                        | Quantity | Received | Notes                                  |
+| --------------------------- | -------- | -------- | -------------------------------------- |
+| M5x40 SHCS                  | 22       | 27       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5x30 BHCS                  | 22       | 25       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5x16 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5x10 BHCS                  | 35       | 38       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5 Post-install T-nut       | 68       | 70       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5 Hexnut                   | 16       | 20       | In LDO Voron V2.4 Premium Hardware Kit |
+| M5 1mm Shim                 | 42       | 46       | In LDO Voron V2.4 Premium Hardware Kit |
+| M4x6 BHCS                   | 7        | 9        | In LDO Voron V2.4 Premium Hardware Kit |
+| M4 Knurled Nut (DIN 466-B)  | 4        | 4        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x8 SHCS                   | 180      | 190      | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x6 FHCS                   | 8        | 51       |                                        |
+| M3x6 BHCS                   | 11       | 16       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x50 SHCS                  | 2        |          | See [StealthBurner][StealthBurner] BOM |
+| M3x40 SHCS                  | 30       | 33       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x30 SHCS                  | 25       | 35       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x25 SHCS                  | 6        |          | See [StealthBurner][StealthBurner] BOM |
+| M3x20 SHCS                  | 22       | 30       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x16 SHCS                  | 20       | 23       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x12 SHCS                  | 41       | 44       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x10 FHCS                  | 4        | 55       |                                        |
+| M3 Washer                   | 4        | 3        | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Threaded Insert (M3x5x4) | 110      | 95       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Post-install T-nut       | 96       | 124      | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Hexnut                   | 6        | 12       | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Hammer Head T-nuts       | 60       | 65       | In LDO Voron V2.4 Premium Hardware Kit |
+| M2x10 Self-tapping Screw    | 18       | 18       | In LDO Voron V2.4 Premium Hardware Kit |
 
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg 'LDO Hardware Kit')
 
@@ -77,24 +77,24 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                       | Quantity | Received | Notes                                    |
-| ------------------------------------------ | -------- | -------- | ---------------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload          |
-| Linear Rail MGN12H 350mm                   | 1        | 1        | All Stainless Steel, Medium Preload      |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In [LDO CNC AWD Kit][AWD Kit]            |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 6    | 6        | In [LDO CNC AWD Kit][AWD Kit]            |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
-| F695 Bearing                               | ~20~ 26  | 26       | In [LDO CNC AWD Kit][AWD Kit]            |
-| BMG Extruder Components Kit                | 1        |          | See [StealthBurner](voron-stealthburner) |
-| 625 Bearing                                | 12       | 12       | In [Powge 2.4r2 Motion Kit][Motion Kit]  |
+| Item                                       | Quantity | Received | Notes                                   |
+| ------------------------------------------ | -------- | -------- | --------------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload         |
+| Linear Rail MGN12H 350mm                   | 1        | 1        | All Stainless Steel, Medium Preload     |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In [LDO CNC AWD Kit][AWD Kit]           |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 6    | 6        | In [LDO CNC AWD Kit][AWD Kit]           |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit][Motion Kit] |
+| F695 Bearing                               | ~20~ 26  | 26       | In [LDO CNC AWD Kit][AWD Kit]           |
+| BMG Extruder Components Kit                | 1        |          | See [StealthBurner][StealthBurner] BOM  |
+| 625 Bearing                                | 12       | 12       | In [Powge 2.4r2 Motion Kit][Motion Kit] |
 
 > [!NOTE]
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
@@ -111,40 +111,43 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                  | Quantity | Received | Notes                                                                                                                            |
-| ----------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                                                                       |
-| USB Cable for selected controller                     | 1        | 1        |                                                                                                                                  |
-| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                                                                       |
-| Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8) build                                                            |
-| TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                                               |
-| RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                                                  |
-| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU][SSR]                                                                                                       |
-| Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                                                  |
-| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 LDO Speedy Power HT Motors for A/B & 4 LDO SwitchWire Motors for Z                                                             |
-| NEMA14 Motor 36STH20-1004AHG                          | 1        |          | See [StealthBurner](voron-stealthburner)                                                                                         |
-| ~Mini 12864 Display~                                  | ~1~      |          | I will be using a [BigTreeTech PITFT50 V2.0 Display][PITFT50] instead                                                            |
-| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14][Power Inlet]                                                                          |
-| Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                                                  |
-| Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                                                  |
-| ~Keystone CAT6 Insert (Optional)~                     | ~1~      |          | I plan on printing the [PiPlate Skirt](#-raspberry-pi) instead                                                                   |
-| ~Inductive Probe (See sourcing guide)~                | ~1~      | ~1~      | I will be installing [ChaoticLab CNC Tap][Tap] instead                                                                           |
-| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                                               |
-| DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                                                  |
-| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0][Controller]                                                                                             |
-| C13 Power Cord                                        | 1        | 1        |                                                                                                                                  |
-| ~BAT85 Diode~                                         | ~1~      | 7        | Comes installed on [LDO Toolhead PCB][Toolhead PCB]                                                                              |
-| 60x60x20 Fan (24V)                                    | 3        | 2        | AFB0624HD Delta Fans, 1 Not required as I will be building [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) instead |
-| ~40x40x20 Centrifugal Fan (24V)~                      | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                        |
-| ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | For [AfterBurner](voron-afterburner), Not required, Building [StealthBurner](voron-stealthburner) instead                        |
-| BigTreeTech Smart Filament Sensor V2                  | 2        | 2        |                                                                                                                                  |
+| Item                                                  | Quantity | Received | Notes                                                                                              |
+| ----------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------- |
+| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                                         |
+| USB Cable for selected controller                     | 1        | 1        |                                                                                                    |
+| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                                         |
+| Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8](printer-voron-1.8) build                              |
+| TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                                 |
+| RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                    |
+| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU][SSR]                                                                         |
+| Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                    |
+| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 [LDO Speedy Power HT Motors][A/B Motors] for A/B & 4 [LDO SwitchWire Motors][Z Motors] for Z     |
+| NEMA14 Motor 36STH20-1004AHG                          | 1        |          | See [StealthBurner][StealthBurner] BOM                                                             |
+| ~Mini 12864 Display~                                  | ~1~      |          | I will be using a [BigTreeTech PITFT50 V2.0 Display][PITFT50] instead                              |
+| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14][Power Inlet]                                            |
+| Mean Well RS-25-5 PSU                                 | 1        | 1        |                                                                                                    |
+| Mean Well LRS-200-24 PSU                              | 1        | 1        |                                                                                                    |
+| ~Keystone CAT6 Insert (Optional)~                     | ~1~      |          | I plan on printing the [PiPlate Skirt](#-raspberry-pi) instead                                     |
+| ~Inductive Probe (See sourcing guide)~                | ~1~      | ~1~      | I will be installing [ChaoticLab CNC Tap][Tap] instead                                             |
+| Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                                 |
+| DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |                                                                                                    |
+| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0][Controller]                                                               |
+| C13 Power Cord                                        | 1        | 1        |                                                                                                    |
+| ~BAT85 Diode~                                         | ~1~      | 7        | Comes installed on [LDO Toolhead PCB][Toolhead PCB]                                                |
+| 60x60x20 Fan (24V)                                    | 3        | 2        | AFB0624HD Delta Fans, 1 Not required as I am building [Nevermore StealthMax][StealthMax] instead   |
+| ~40x40x20 Centrifugal Fan (24V)~                      | ~1~      |          | Not required, for [AfterBurner][AfterBurner], I am building [StealthBurner][StealthBurner] instead |
+| ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | Not required, for [AfterBurner][AfterBurner], I am building [StealthBurner][StealthBurner] instead |
+| Filament Sensor                                       |          | 2        | [BigTreeTech Smart Filament Sensor V2.0][Filament Sensor]                                          |
 
+[A/B Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
 [Controller]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
+[Filament Sensor]: https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor 'BigTreeTech Smart Filament Sensor V2.0'
 [PITFT50]: https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board 'BigTreeTech PITFT50 V2.0 Touch Screen for Raspberry Pi'
 [Power Inlet]: https://www.amazon.co.uk/dp/B0BVRF249S 'POFET Power Supply Socket with Fuse for 3D Printer from Amazon'
 [SSR]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr 'Omron Solid State relay (SSR) from OneTwo3D'
 [Tap]: https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298 'Chaoticlab CNC Voron Tap V2.0'
 [Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
+[Z Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
 
 ## Vibration Management
 
@@ -426,7 +429,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > [!NOTE]
 > The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
-> As I am using [LDO SwitchWire Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac/) which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
+> As I am using [LDO SwitchWire Motors][Z Motors] which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
 > However, they will likely need to be turned another 90° so the connector faces upwards towards the deck so that the power supply and PiPlate skirt can fit.
 
 ![The Z Drives and feet installed on the printer](/assets/blog/printer-voron-2.4/z-drives-installed.jpg 'Z Drives Installed')
@@ -483,7 +486,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All-Wheel-Drive) Upgrade Kit](https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit/).
+I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All-Wheel-Drive) Upgrade Kit][AWD Kit].
 
 ### :wrench: A Idler
 
@@ -501,7 +504,7 @@ I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Idlers.
+> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Idlers.
 
 ##### Parts Needed
 
@@ -552,7 +555,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Idlers.
+> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Idlers.
 
 ##### Parts Needed
 
@@ -600,7 +603,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 ![A Drive Assembled](/assets/blog/printer-voron-2.4/a-drive.jpg 'A Drive')
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Drives.
+> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Drives.
 
 ##### Parts Needed
 
@@ -660,7 +663,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 ![B Drive Assembled](/assets/blog/printer-voron-2.4/b-drive.jpg 'B Drive')
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors](https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor) for both A and B Drives.
+> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Drives.
 
 ##### Parts Needed
 
@@ -1207,7 +1210,7 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 
 ### :negative_squared_cross_mark: Heated Bed
 
-I will be using an [ultra-flat Mandala Rose Works heated bed without embeded magnets](https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic/) that has been checked to be under 0.1mm overall flatness.
+I will be using an [ultra-flat Mandala Rose Works heated bed without embeded magnets][Build Plate] that has been checked to be under 0.1mm overall flatness.
 
 #### Assembly
 
@@ -1239,7 +1242,7 @@ The manual says to install this earlier in the build. I have opted to leave it u
 
 The StealthBurner’s files are maintained separately in the [Voron Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner).
 
-[Assembly of the parts can be found on its own separate page](voron-stealthburner).
+[Assembly of the parts can be found on its own separate page][StealthBurner].
 
 ## Skirts
 
@@ -1500,20 +1503,20 @@ The Stock door hinges are attached using VHB, the Clamping Hinges grab onto the 
 
 ### :negative_squared_cross_mark: Exhaust
 
-I have opted to upgrade the stock Exhaust with the [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax).
+I have opted to upgrade the stock Exhaust with the [Nevermore StealthMax][StealthMax].
 
-| Item                                                                                                                                   | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------- |
-| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder. |
-| ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building `StealthMax` instead            |
-| ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building `StealthMax` instead            |
-| ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building `StealthMax` instead            |
-| ~[exhaust_filter_mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_filter_mount_x2.stl)~ | ~2~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building `StealthMax` instead            |
-| ~[filter_access_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_filter_access_cover.stl)~      | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building `StealthMax` instead            |
+| Item                                                                                                                                   | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------- |
+| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder   |
+| ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
+| ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
+| ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
+| ~[exhaust_filter_mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_filter_mount_x2.stl)~ | ~2~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
+| ~[filter_access_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_filter_access_cover.stl)~      | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
 
 ### :negative_squared_cross_mark: Spool Holder
 
-I have opted to upgrade the stock Bowden Retainer with a [BigTreeTech Smart Filament Sensor V2.0](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor) mount.
+I have opted to upgrade the stock Bowden Retainer with a [BigTreeTech Smart Filament Sensor V2.0][Filament Sensor] mount.
 
 I plan on printing the spool holder in accent colour as I have some black PTFE tubing which I think will look better than the standard white.
 
@@ -1522,3 +1525,7 @@ I plan on printing the spool holder in accent colour as I have some black PTFE t
 | ~[bowden_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/bowden_retainer.stl)~ | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the `BigTreeTech Smart Filament Sensor Mount` instead           |
 | [btt_sfs_mount](https://www.printables.com/model/673702/files)                                                      | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a mod by [Lecso](https://www.printables.com/@Lecso_113752). 6mm version |
 | [spool_holder](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/spool_holder.stl)         | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                                 |
+
+[AfterBurner]: voron-afterburner 'Assembling the Voron AfterBurner Toolhead'
+[StealthBurner]: voron-stealthburner 'Assembling the Voron StealthBurner Toolhead'
+[StealthMax]: nevermore-filter#nevermore-stealthmax 'Assembling a Nevermore Filter'
