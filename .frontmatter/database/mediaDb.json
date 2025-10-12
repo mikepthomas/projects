@@ -50,8 +50,9 @@
             "title": "DIY Eurorack Case"
           },
           "tuna-socks.jpg": {
-            "alt": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
-            "title": "Tuna Socks"
+            "title": "Tuna Socks",
+            "caption": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
+            "alt": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\""
           },
           "mornsun-power-supply.jpg": {
             "alt": "Fully Assembled Power Supply PCB",

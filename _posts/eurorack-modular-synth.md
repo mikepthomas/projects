@@ -29,7 +29,7 @@ I am a fan of [Look Mum No Computer](https://www.youtube.com/@LOOKMUMNOCOMPUTER)
 
 # Controller
 
-![A KeyStep Pro in its original box](/assets/blog/eurorack-modular-synth/keystep-pro.jpg)
+![A KeyStep Pro in its original box](/assets/blog/eurorack-modular-synth/keystep-pro.jpg 'KeyStep Pro')
 
 I wanted something that I could connect up to a computer via USB to use software synths like [VCVRack](https://vcvrack.com/) or for connecting up to [Garageband](https://www.apple.com/mac/garageband/) and maybe later [Logic Pro](https://www.apple.com/uk/logic-pro/). I also wanted something that is able to control hardware synths with Pitch CV, Velocity CV and Gate control or via MIDI inputs and outputs. The Keystep Pro provides all 3, via USB, MIDI and mono 3.5mm output jacks.
 
@@ -339,7 +339,7 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 # Erica Synths
 
-![Introducing Sooty and Susie to the Erica Synths mascot "Tuna The Cat"](/assets/blog/eurorack-modular-synth/tuna-socks.jpg)
+![Introducing Sooty and Susie to the Erica Synths mascot "Tuna The Cat"](/assets/blog/eurorack-modular-synth/tuna-socks.jpg 'Tuna Socks')
 
 > Introducing Sooty and Susie to the Erica Synths mascot "Tuna The Cat"
 
@@ -515,7 +515,7 @@ I have purchased 2 of these kits. 1 to build 'as-is' and one to hold [Drums & Ef
 
 ### DIY Eurorack Case
 
-![Fully Assembled DIY Eurorack Case](/assets/blog/eurorack-modular-synth/diy-eurorack-case.jpg)
+![Fully Assembled DIY Eurorack Case](/assets/blog/eurorack-modular-synth/diy-eurorack-case.jpg 'DIY Eurorack Case')
 
 The case is designed specifically to accommodate the DIY modules from the kit, therefore it does not have threaded screw bar mounts to accomodate any eurorack module and only has screw holes in [Horizontal Pitch](https://learningmodular.com/glossary/hp/) for modules in a specific order.
 
@@ -532,7 +532,7 @@ The order of the modules are as follows:
 - 8 HP [Envelope Generator (EG)](#envelope-generator-eg)
 - 8 HP [Output Mixer](#output-mixer)
 
-![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/racks/modulargrid_2941317.jpg)
+![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/racks/modulargrid_2941317.jpg 'mki x es.EDU System layout on Modular Grid')
 
 Kit contains the `Quantity` needed for building 1 unit, except the parts for the [optional +5V Power Supply](#optional-5v-power-supply). I have purchased 2 kits.
 
@@ -575,13 +575,13 @@ Kit contains the `Quantity` needed for building 1 unit, except the parts for the
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/instrukcija_2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/mki-x-esedu-diy-1x84hp-case)
 
-![Fully Assembled Power Supply PCB](/assets/blog/eurorack-modular-synth/mornsun-power-supply.jpg)
+![Fully Assembled Power Supply PCB](/assets/blog/eurorack-modular-synth/mornsun-power-supply.jpg 'Mornsun Power Supply')
 
 ### Sequencer
 
 The sequencer steps through a different number of voltages, selectable by a potentiometer for each step. You also have the ability to switch each step on or off via it's `Gate` toggle switch and to change the tempo via the `Rate` selector.
 
-![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg)
+![Sequencer Installed in the Case](/assets/blog/eurorack-modular-synth/sequencer-installed.jpg 'Sequencer Installed')
 
 Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
@@ -664,13 +664,13 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SEQ_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-sequencer)
 
-![Components soldered to the Sequencer PCB](/assets/blog/eurorack-modular-synth/sequencer-assembled.jpg)
+![Components soldered to the Sequencer PCB](/assets/blog/eurorack-modular-synth/sequencer-assembled.jpg 'Sequencer Assembled')
 
 ### Voltage Controlled Oscillator (VCO)
 
 To make music you need something to make noise, noise is created via an oscillation at different frequencies controlled by the `Coarse` and `Fine` potentiometers.
 
-![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg)
+![VCO Installed in the Case](/assets/blog/eurorack-modular-synth/vco-installed.jpg 'VCO Installed')
 
 Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
@@ -750,13 +750,13 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco)
 
-![Components soldered to the VCO PCB](/assets/blog/eurorack-modular-synth/vco-assembled.jpg)
+![Components soldered to the VCO PCB](/assets/blog/eurorack-modular-synth/vco-assembled.jpg 'VCO Assembled')
 
 ### Voltage Controlled Filter (VCF)
 
 To change the way the noise sounds you can modify it using a filter. This filter is a low pass filter known as a `diode ladder VCF`.
 
-![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg)
+![VCF Installed in the Case](/assets/blog/eurorack-modular-synth/vcf-installed.jpg 'VCF Installed')
 
 Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
@@ -829,13 +829,13 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCF_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vcf)
 
-![Components soldered to the VCF PCB](/assets/blog/eurorack-modular-synth/vcf-assembled.jpg)
+![Components soldered to the VCF PCB](/assets/blog/eurorack-modular-synth/vcf-assembled.jpg 'VCF Assembled')
 
 ### Envelope Generator (EG)
 
 The Envelope generator shapes the amplitude of a sound over time the one in this kit is known as an `ADSR envelope generator`. ADSR stands for `Attack`, `Decay`, `Sustain`, `Release`. Attack is how fast the sound ramps up, Decay is how fast the sound ramps down, Sustain is how long the sound lasts for and Release is how fast the sound stops.
 
-![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg)
+![Envelope Installed in the Case](/assets/blog/eurorack-modular-synth/envelope-installed.jpg 'Envelope Installed')
 
 `Quantity` is for 1 unit, each kit contains enough parts for 2 units, therefore I have 4.
 
@@ -908,13 +908,13 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/EG_MANUAL_v3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-eg)
 
-![Components soldered to the Envelope PCB](/assets/blog/eurorack-modular-synth/envelope-assembled.jpg)
+![Components soldered to the Envelope PCB](/assets/blog/eurorack-modular-synth/envelope-assembled.jpg 'Envelope Assembled')
 
 ### Voltage Controlled Amplifier (VCA)
 
 A Voltage Controlled Amplifier allows you to control the `Gain` of an input via a control voltage. It can have a few uses such as shaping the output of an envelope generator or muting a step of a sequence using the `Gate` of the sequencer.
 
-![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg)
+![VCA Installed in the Case](/assets/blog/eurorack-modular-synth/vca-installed.jpg 'VCA Installed')
 
 Kit contains the `Quantity` needed for building 1 unit, and I have purchased 3 as "you can never have too many VCAs".
 
@@ -983,11 +983,11 @@ Kit contains the `Quantity` needed for building 1 unit, and I have purchased 3 a
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/VCA_MANUAL_FINAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca)
 
-![Components soldered to the VCA PCB](/assets/blog/eurorack-modular-synth/vca-assembled.jpg)
+![Components soldered to the VCA PCB](/assets/blog/eurorack-modular-synth/vca-assembled.jpg 'VCA Assembled')
 
 ### Output Mixer
 
-![Output Mixer Installed in the Case](/assets/blog/eurorack-modular-synth/output-mixer-installed.jpg)
+![Output Mixer Installed in the Case](/assets/blog/eurorack-modular-synth/output-mixer-installed.jpg 'Output Mixer Installed')
 
 Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units.
 
@@ -1058,7 +1058,7 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DIY_EDU_Output_Manual.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output)
 
-![Components soldered to the Output Mixer PCB](/assets/blog/eurorack-modular-synth/output-mixer-assembled.jpg)
+![Components soldered to the Output Mixer PCB](/assets/blog/eurorack-modular-synth/output-mixer-assembled.jpg 'Output Mixer Assembled')
 
 ### Wavefolder
 
@@ -1298,7 +1298,7 @@ The order of the modules for the second case will be as follows:
 - 8 HP [Compressor](#compressor)
 - 16 HP [FM Drum](#fm-drum)
 
-![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg?1757851255)
+![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg 'mki x es.EDU Drums and Effects layout on Modular Grid')
 
 ### Compressor
 
@@ -2249,6 +2249,80 @@ Assembly Instructions are available in the [Assembly Guide](http://database-help
 
 Assembly Instructions are available in the [Assembly Guide](http://database-help.co.uk/wp-content/uploads/2024/08/MH-UMIX-Assembly-guide.pdf) on the [MH Eurorack Website](http://database-help.co.uk/mheurorack/umix)
 
+# My Modular Journey
+
+## Tuna
+
+### Parts
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| Tuna v1a Front Panel | 1        |
+| Tuna v1 PCB          | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Ceramic Capacitor (100nF)     | 3        |
+| Electrolytic Capacitor (10uF) | 3        |
+
+#### Connectors
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| 16-pin female header | 2        |
+
+#### Diodes
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Signal Diode (1N4148) | 2        |
+
+#### Fasteners
+
+| Item           | Quantity |
+| -------------- | -------- |
+| M3x8 BHCS      | 3        |
+| M3x10 Standoff | 1        |
+| M3 Nut         | 1        |
+
+#### Integrated Circuits
+
+| Item                | Quantity |
+| ------------------- | -------- |
+| Op Amp Dual (TL072) | 1        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (100K) | 2        |
+| Metal Film resistor (10K)  | 1        |
+| Metal Film resistor (2K)   | 11       |
+| Metal Film resistor (100R) | 1        |
+
+#### Misc
+
+| Item                             | Quantity |
+| -------------------------------- | -------- |
+| 3mm Green LED                    | 1        |
+| 3mm Red LED                      | 2        |
+| 5V 1.5A Voltage Regulator (7805) | 1        |
+| 7 Segment LED Display (14.22mm)  | 1        |
+| 10 Pin Power Header              | 1        |
+| 10-16 pin Power Cable            | 1        |
+| Arduino Nano                     | 1        |
+| Mono Audio Jack                  | 2        |
+
+### :white_check_mark: Assembly
+
+[Assembly Instructions](https://raw.githubusercontent.com/MyModularJourney/Tuna/main/Tuna%20v1%20-%20build%20guide.pdf) and [Schematic](https://raw.githubusercontent.com/MyModularJourney/Tuna/main/Tuna_schematic.PNG) are available on [GitHub](https://github.com/MyModularJourney/Tuna)
+
 # Thonk Synth
 
 ## Triple Attenuator
@@ -2287,7 +2361,7 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ### :negative_squared_cross_mark: Assembly
 
-[Assembly Instructions](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Build-Doc-v1.1.pdf) and [Manual](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Manual.pdf) are available on the [Thonk Website](https://www.thonk.co.uk/shop/thonk-synth-t05-tat-kit/)
+[Assembly Instructions](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Build-Doc-v1.1.pdf) and [Manual](https://www.thonk.co.uk/wp-content/uploads/2025/06/t05-TAT-Manual.pdf) are available on the [Thonk Website](https://www.thonk.co.uk/shop/thonk-synth-t05-tat-kit)
 
 # Patching
 
@@ -2296,4 +2370,4 @@ Once I have fully assembled both the [mki x es.EDU System](#mki-x-esedu-system) 
 - Voice 1 and 2 `Pitch`, `Velo/Mod` and `Gate` each connecting to a VCO, VCF, Envelope and VCA (Top of diagram below)
 - 4 Drum Gates connecting to `Trigger` of the Drums modules (Bottom of diagram below)
 
-![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/patches/modulargrid_129015.jpg)
+![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/patches/modulargrid_129015.jpg 'mki x es.EDU example patch layout on Modular Grid')
