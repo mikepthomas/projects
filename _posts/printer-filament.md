@@ -73,7 +73,7 @@ I usually print eSun ABS+ with a hotend temperature of 255°C and a bed temperat
 
 ### eSun ABS+ (Black)
 
-This filament will be used to print the main parts for the [Voron 0.2][Voron 0.2], [Voron 1.8][Voron 1.8] and [Voron 2.4][Voron 2.4].
+This filament will be used to print the main parts for the [Voron 1.8][Voron 1.8] and [Voron 2.4][Voron 2.4].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                          | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
@@ -151,8 +151,6 @@ This filament was originally brought to print the accent parts for the [Voron 0.
 
 ### eSun ABS+ (Peak Green)
 
-This filament will be used to print the parts for the [Rook 2020][Rook].
-
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                                 | Purchased From                                           | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | --------------------------------------------------------------------------- |
 | ![#29B94C {20x20}](https://placehold.co/20/29B94C/29B94C.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Peak%20Green).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B07FQCQ17Y) | £16.99   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
@@ -166,6 +164,8 @@ This filament will be used to print the body panels for a [3D Sets Landy][Landy]
 | ![#2A6F47 {20x20}](https://placehold.co/20/2A6F47/2A6F47.png) | 255         | 100      | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/eSun%20ABS%2B%20(Pine Green).ini>) | Wedge3D        | £16.20   | 1             | [Datasheet](https://www.esun3d.com/uploads/eSUN_ABS+-Filament_TDS_V4.0.pdf) |
 
 ### eSun ABS+ (Pink)
+
+This filament will be used to print the parts for the [Rook 2020][Rook].
 
 |                             Color                             | Hotend Temp | Bed Temp | Slicer Profile                                                                                                                         | Purchased From | Avg Cost | KGs Purchased | Notes                                                                       |
 | :-----------------------------------------------------------: | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------- | --------------------------------------------------------------------------- |
