@@ -42,8 +42,8 @@ import {
   faWarehouse,
 } from '@fortawesome/free-solid-svg-icons';
 
-import { config, library } from '@fortawesome/fontawesome-svg-core'
-config.autoAddCss = false
+import { config, library } from '@fortawesome/fontawesome-svg-core';
+config.autoAddCss = false;
 
 export default function register() {
   library.add(
