@@ -21,6 +21,13 @@
     "showInNav": true
   },
   {
+    "name": "Discord",
+    "icon": "discord",
+    "url": "https://discordapp.com/users/",
+    "user": "460182324626325535",
+    "showInNav": true
+  },
+  {
     "name": "Facebook",
     "icon": "facebook",
     "url": "https://facebook.com/",

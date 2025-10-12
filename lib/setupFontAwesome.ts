@@ -25,6 +25,7 @@
  */
 import {
   faApple,
+  faDiscord,
   faGithub,
   faInstagram,
   faLinkedin,
@@ -38,6 +39,7 @@ import {
   faHome,
   faLaptopCode,
   faLink,
+  faMicrochip,
   faUserGraduate,
   faWarehouse,
 } from '@fortawesome/free-solid-svg-icons';
@@ -53,12 +55,14 @@ export default function register() {
     faCalendarAlt,
     faCalendarDay,
     faChalkboardTeacher,
+    faDiscord,
     faGithub,
     faHome,
     faInstagram,
     faLaptopCode,
     faLink,
     faLinkedin,
+    faMicrochip,
     faUserGraduate,
     faWarehouse,
   );

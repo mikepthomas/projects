@@ -1,5 +1,17 @@
 [
   {
+    "title": "Introduction to Compound Semiconductor Electronics",
+    "startDate": "2024-05-09T11:25:00.000Z",
+    "endDate": "2024-07-23T10:05:00.000Z",
+    "city": "Cardiff",
+    "location": "Cardiff University",
+    "url": "https://www.cardiff.ac.uk/professional-development/available-training/short-courses/view/introduction-to-compound-semiconductor-electronics-part-1-online",
+    "description": "Learned about the simple physics behind semiconductor properties, strengths of when best to use different compound semiconductors for certain applications e.g. gallium nitride (GaN) and silicon carbide (SiC) in comparison to silicon (Si), how compound semiconductor electronic devices are made and applications of semiconductor electronics and compound semiconductor electronics.",
+    "color": "dark",
+    "icon": "fa-solid fa-microchip",
+    "inverted": true
+  },
+  {
     "title": "Senior Software Engineer",
     "startDate": "2018-02-19T00:00:00.000Z",
     "city": "Cardiff",
