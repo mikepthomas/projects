@@ -121,7 +121,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | RaspberryPi 3B+ or better                             | 1        | 1        |                                                                                                    |
 | Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU][SSR]                                                                         |
 | Omron D2F-01L Micro Switch                            | 3        | 30       |                                                                                                    |
-| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 [LDO Speedy Power HT Motors][A/B Motors] for A/B & 4 [LDO SwitchWire Motors][Z Motors] for Z     |
+| NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 [LDO Speedy Power HT Motors][A/B Motor] for A/B & 4 [LDO SwitchWire Motors][Z Motor] for Z       |
 | NEMA14 Motor 36STH20-1004AHG                          | 1        |          | See [StealthBurner][StealthBurner] BOM                                                             |
 | ~Mini 12864 Display~                                  | ~1~      |          | I will be using a [BigTreeTech PITFT50 V2.0 Display][PITFT50] instead                              |
 | Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14][Power Inlet]                                            |
@@ -139,7 +139,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | Not required, for [AfterBurner][AfterBurner], I am building [StealthBurner][StealthBurner] instead |
 | Filament Sensor                                       |          | 2        | [BigTreeTech Smart Filament Sensor V2.0][Filament Sensor]                                          |
 
-[A/B Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
+[A/B Motor]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
 [Controller]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
 [Filament Sensor]: https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor 'BigTreeTech Smart Filament Sensor V2.0'
 [PITFT50]: https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board 'BigTreeTech PITFT50 V2.0 Touch Screen for Raspberry Pi'
@@ -147,7 +147,7 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 [SSR]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr 'Omron Solid State relay (SSR) from OneTwo3D'
 [Tap]: https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298 'Chaoticlab CNC Voron Tap V2.0'
 [Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
-[Z Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
+[Z Motor]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
 
 ## Vibration Management
 
@@ -429,7 +429,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 > [!NOTE]
 > The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
-> As I am using [LDO SwitchWire Motors][Z Motors] which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
+> As I am using [LDO SwitchWire Motors][Z Motor] which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
 > However, they will likely need to be turned another 90° so the connector faces upwards towards the deck so that the power supply and PiPlate skirt can fit.
 
 ![The Z Drives and feet installed on the printer](/assets/blog/printer-voron-2.4/z-drives-installed.jpg 'Z Drives Installed')
@@ -504,7 +504,7 @@ I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Idlers.
+> I will be using [LDO Speedy Power HT Motors][A/B Motor] for both A and B Idlers.
 
 ##### Parts Needed
 
@@ -558,7 +558,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 The screw on the front of the idler moves the tensioner forwards and backwards, this allows for easy adjustment of the belt tension.
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Idlers.
+> I will be using [LDO Speedy Power HT Motors][A/B Motor] for both A and B Idlers.
 
 ##### Parts Needed
 
@@ -609,7 +609,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 ![A Drive Assembled](/assets/blog/printer-voron-2.4/a-drive.jpg 'A Drive')
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Drives.
+> I will be using [LDO Speedy Power HT Motors][A/B Motor] for both A and B Drives.
 
 ##### Parts Needed
 
@@ -672,7 +672,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 ![B Drive Assembled](/assets/blog/printer-voron-2.4/b-drive.jpg 'B Drive')
 
 > [!NOTE]
-> I will be using [LDO Speedy Power HT Motors][A/B Motors] for both A and B Drives.
+> I will be using [LDO Speedy Power HT Motors][A/B Motor] for both A and B Drives.
 
 ##### Parts Needed
 

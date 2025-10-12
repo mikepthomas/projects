@@ -103,97 +103,112 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Electronics
 
-| Item                                                     | Quantity | Received | Notes                                          |
-| -------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
-| 100R resistor PCB for NeoPixels                          |          | 2        | Linneo PCB with 100 Ohm resistor for Neopixels |
-| 24V Heater Cartridge                                     | 1        | 1        |                                                |
-| 3010 blower fans 24V                                     | 2        | 2        | [GDSTime Fans][Part Cooling]                   |
-| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans][Hotend Fan]                         |
-| 3510 axial fan 24V                                       |          | 4        | [GDSTime Fans][Skirt Fans] for Stealth Skirts  |
-| 3M 5952 VHB tape                                         | 1        | 1        |                                                |
-| Bigtreetech SKR Pico                                     | 1        | 1        |                                                |
-| C13 Power Cord                                           | 1        | 1        |                                                |
-| ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts               |
-| Hotend                                                   | 1        | 1        |                                                |
-| Hotend thermistor                                        | 1        | 1        |                                                |
-| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                  |
-| Meanwell LRS-150-24                                      | 1        | 1        |                                                |
-| MicroSD Card                                             | 1        | 1        |                                                |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                             |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | LDO-42STH25-1004CL200ET(VRN) Teflon Coat       |
-| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB][Sequins]    |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                |
-| Raspberry Pi 4                                           | 1        | 1        |                                                |
-| V0 Display                                               | 1        | 1        |                                                |
-| Wago connectors (221-412)                                |          | 2        |                                                |
+| Item                                                     | Quantity | Received | Notes                                               |
+| -------------------------------------------------------- | -------- | -------- | --------------------------------------------------- |
+| 100R resistor PCB for NeoPixels                          |          | 2        | Linneo PCB with 100 Ohm resistor for Neopixels      |
+| 24V Heater Cartridge                                     | 1        | 1        |                                                     |
+| 3010 blower fans 24V                                     | 2        | 2        | [GDSTime Fans][Part Cooling]                        |
+| 3010 axial fan 24V                                       | 2        | 2        | [LDO Fans][Hotend Fan]                              |
+| 3510 axial fan 24V                                       |          | 4        | [GDSTime Fans][Skirt Fans] for Stealth Skirts       |
+| 3M 5952 VHB tape                                         | 1        | 1        |                                                     |
+| Bigtreetech SKR Pico                                     | 1        | 1        |                                                     |
+| C13 Power Cord                                           | 1        | 1        |                                                     |
+| ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts                    |
+| Hotend                                                   | 1        | 1        |                                                     |
+| Hotend thermistor                                        | 1        | 1        |                                                     |
+| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                       |
+| Meanwell LRS-150-24                                      | 1        | 1        |                                                     |
+| MicroSD Card                                             | 1        | 1        |                                                     |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | [LDO-35STH48-1684AH][A/B Motor]                     |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | [LDO-42STH25-1004CL200ET(VRN) Teflon Coat][Z Motor] |
+| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB][Sequins]         |
+| Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                     |
+| Raspberry Pi 4                                           | 1        | 1        |                                                     |
+| V0 Display                                               | 1        | 1        |                                                     |
+| Wago connectors (221-412)                                |          | 2        |                                                     |
 
+[A/B Motor]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-35sth48-1684ah 'LDO Stepper Motor (35STH48-1684AH) from OneTwo3D'
 [Hotend Fan]: https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan 'LDO V0.2 Upgrade Kit – 3010 Fan from OneTwo3D'
 [Part Cooling]: http://www.gdstime.com/list_45/139.html 'GDSTime 3010 Blower Fan'
 [Sequins]: https://www.aliexpress.com/item/1005006018425337.html 'FYSETC RGB Sequins for Voron Mini StealthBurner from Ali Express'
 [Skirt Fans]: http://www.gdstime.com/pro1/64.html 'GDSTime 3510 Axial Fan'
+[Z Motor]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth25-1004cl200et 'LDO Stepper Motor (42STH25-1004CL200ET) from OneTwo3D'
 
 ## Cables
 
-| Item                                               | Quantity | Received | Notes                                                                                                                |
-| -------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
-| 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        | [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html)                                               |
-| Cable Clips                                        |          | 5        | Replace with [Cable Trunking Raceway Kit](https://www.amazon.co.uk/gp/product/B09BL9N1P1)                            |
-| High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness                                                                               |
-| High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness                                                                               |
-| Insulated Crimp Receptical                         | 4        |          | Kit comes with pre-made wiring harness                                                                               |
-| JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                                                                               |
-| Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                                                                               |
-| Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |                                                                                                                      |
-| Thermal Fuse 150C                                  | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/) |
-| Umbilical PCB Boards                               |          | 1        | [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/)                               |
-| Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                                                                               |
+| Item                                               | Quantity | Received | Notes                                                       |
+| -------------------------------------------------- | -------- | -------- | ----------------------------------------------------------- |
+| 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        | Veekaft Brand                                               |
+| Cable Clips                                        |          | 5        | Replace with [Cable Trunking Raceway Kit][Cable Management] |
+| High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness                      |
+| High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness                      |
+| Insulated Crimp Receptical                         | 4        |          | Kit comes with pre-made wiring harness                      |
+| JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                      |
+| Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                      |
+| Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |                                                             |
+| Thermal Fuse 150C                                  | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]        |
+| Umbilical PCB Boards                               |          | 1        | [LDO Picobilical PCB kit][Picobilical]                      |
+| Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                      |
+
+> [!NOTE]
+> I ordered [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) cable chains specifying a Bending Radius of `R15`.
+
+[Bed Kit]: https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts 'LDO Voron 0.1 & 0.2 Build Plate & Parts from OneTwo3D'
+[Cable Management]: https://www.amazon.co.uk/gp/product/B09BL9N1P1 'Cable Trunking Raceway Kit from Amazon'
+[Picobilical]: https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit 'LDO Picobilical PCB Kit from OneTwo3D'
 
 ## Motion
 
-| Item                                    | Quantity | Received | Notes                                                                |
-| --------------------------------------- | -------- | -------- | -------------------------------------------------------------------- |
-| F623-RS Bearing                         | 24       | 30       | [Fushi Bearings](https://www.aliexpress.com/item/4001227123701.html) |
-| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                                                      |
-| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                                                      |
-| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | LDO SLR7H-1R-150Z0                                                   |
-| Nut Bar Mounts                          |          | 5        | [LDO 0.2 Nut Bar Mount Kit][Nut Bar]                                 |
-| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                                                      |
+| Item                                    | Quantity | Received | Notes                                |
+| --------------------------------------- | -------- | -------- | ------------------------------------ |
+| F623-RS Bearing                         | 24       | 30       | [Fushi Bearings][Bearings]           |
+| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |                                      |
+| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |                                      |
+| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | [LDO SLR7H-1R-150Z0][Linear Rails]   |
+| Nut Bar Mounts                          |          | 5        | [LDO 0.2 Nut Bar Mount Kit][Nut Bar] |
+| T8x8 Anti-backlash Flange Nut           | 1        | 1        |                                      |
+
+[Bearings]: https://www.aliexpress.com/item/4001227123701.html 'Fushi Bearings For VORON 0 Motion from Ali Express'
+[Linear Rails]: https://www.onetwo3d.co.uk/product/voron-0-linear-rail-kit-by-ldo 'Voron 0.1 & 0.2 Linear Rail Kit by LDO from OneTwo3D'
 
 ## Buildplate
 
 | Item                                                     | Quantity | Received | Notes                                                          |
 | -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------- |
-| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In LDO Voron V0.1 Build Plate & Parts Kit                      |
-| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In LDO Voron V0.1 Build Plate & Parts Kit                      |
+| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
+| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
 | ~PEI + 3M 468MP (200MP)~                                 | ~1~      |          | Not required as using Powder Coated Flex Buildplate            |
-| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In LDO Voron V0.1 Build Plate & Parts Kit                      |
+| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
 | Spring Steel Flex Buildplate 120x120mm (OPTIONAL)        | 1        | 1        | Ultistik Premium ULTEM (PEI) Powder Coated Heatbed Steel Sheet |
-| Yellow die springs 8x4x20mm                              | 3        | 3        | In LDO Voron V0.1 Build Plate & Parts Kit                      |
+| Yellow die springs 8x4x20mm                              | 3        | 3        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
 
 > [!NOTE]
-> All parts are from the [LDO Voron V0.1 Build Plate & Parts Kit](https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts/).
+> All parts are from the [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit].
 
 ## Panels
 
-| Item                                        | Quantity | Received | Notes                                             |
-| ------------------------------------------- | -------- | -------- | ------------------------------------------------- |
-| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ | ~2~      |          | Not required as using Linneo RGBW LED Side Panels |
-| ~Acrylic Sheet Clear (door) - 212x239x3mm~  | ~1~      |          | Not required as using LDO Mini-Fridge Door Kit    |
-| Acrylic Sheet Smoked - 168x180x3mm          |          | 2        | Linneo RGBW LED Side Panels                       |
-| Bottom Panel 3mm thick (See DXF)            | 1        | 1        | Linneo Orange ACM                                 |
-| Deck Panel 3mm thick (See DXF)              | 1        | 1        | Linneo Orange ACM                                 |
-| Lower Rear Panel 212x185x3mm                | 1        | 1        | Linneo Orange ACM                                 |
-| Mid Panel 3mm thick (See DXF)               | 1        | 1        | Linneo Orange ACM                                 |
-| ~Motor Panel 3mm thick (See DXF)~           | ~1~      |          | Not required as using LDO Picobilical PCB kit     |
-| RGBW LED Side Panel PCB                     |          | 2        | Linneo RGBW LED Side Panels                       |
-| Upper Rear Panel 212x63x3mm                 | 1        | 1        | Linneo Orange ACM                                 |
+| Item                                        | Quantity | Received | Notes                                                           |
+| ------------------------------------------- | -------- | -------- | --------------------------------------------------------------- |
+| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ | ~2~      |          | Not required as using [Linneo RGBW LED Side Panels][LED Panels] |
+| ~Acrylic Sheet Clear (door) - 212x239x3mm~  | ~1~      |          | Not required as using [LDO Mini-Fridge Door Kit][Fridge Door]   |
+| Acrylic Sheet Smoked - 168x180x3mm          |          | 2        | [Linneo RGBW LED Side Panels][LED Panels]                       |
+| Bottom Panel 3mm thick (See DXF)            | 1        | 1        | [Linneo Orange ACM][ACM Panels]                                 |
+| Deck Panel 3mm thick (See DXF)              | 1        | 1        | [Linneo Orange ACM][ACM Panels]                                 |
+| Lower Rear Panel 212x185x3mm                | 1        | 1        | [Linneo Orange ACM][ACM Panels]                                 |
+| Mid Panel 3mm thick (See DXF)               | 1        | 1        | [Linneo Orange ACM][ACM Panels]                                 |
+| ~Motor Panel 3mm thick (See DXF)~           | ~1~      |          | Not required as using [LDO Picobilical PCB kit][Picobilical]    |
+| RGBW LED Side Panel PCB                     |          | 2        | [Linneo RGBW LED Side Panels][LED Panels]                       |
+| Upper Rear Panel 212x63x3mm                 | 1        | 1        | [Linneo Orange ACM][ACM Panels]                                 |
 
 > [!WARNING]
 > Some of these parts are not required as I will be using the
 > [LDO Mini-Fridge Door Kit][Fridge Door],
-> [LDO Picobilical PCB kit](https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit/),
-> [Linneo Orange ACM Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm/) and
-> [Linneo RGBW LED Side Panels](https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels/).
+> [LDO Picobilical PCB kit][Picobilical],
+> [Linneo Orange ACM Panels][ACM Panels] and
+> [Linneo RGBW LED Side Panels][LED Panels].
+
+[ACM Panels]: https://www.onetwo3d.co.uk/product/linneo-voron-0-2-deck-back-panels-acm
+[LED Panels]: https://www.onetwo3d.co.uk/product/linneo-voron-0-1_0-2-rgbw-led-panels
 
 ## Bowden
 
@@ -266,7 +281,7 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ## Frame
 
-![3D render of the Voron 0.2 Frame](/assets/blog/printer-voron-0.2/voron-design/frame.jpg)
+![3D render of the Voron 0.2 Frame](/assets/blog/printer-voron-0.2/voron-design/frame.jpg 'Frame')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -284,13 +299,13 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ### :white_check_mark: Linear Rails
 
-![Cleaning the bearings with IPA](/assets/blog/printer-voron-0.2/bearings-cleaning.jpg)
+![Cleaning the bearings with IPA](/assets/blog/printer-voron-0.2/bearings-cleaning.jpg 'Bearings Cleaning')
 
 The linear rails come delivered with a coating of oil to prevent rust during storage and shipping. This coating is not a lubricant and needs to be removed before applying a coating of grease to the bearing surfaces.
 
 I carefully removed the carriages from the rails and soaked them in Isopropyl alcohol for a few hours, then let them air dry before applying Mobil EP2 grease with a syringe directly to the ball bearings. I then reassembled the rails and applied more grease through one of the mounting holes behind the carriage.
 
-![Bearings assembled and ready for installation](/assets/blog/printer-voron-0.2/bearings-assembled.jpg)
+![Bearings assembled and ready for installation](/assets/blog/printer-voron-0.2/bearings-assembled.jpg 'Bearings Assembled')
 
 ### :negative_squared_cross_mark: Y Rails
 
@@ -441,7 +456,7 @@ The [LDO V0.2 Frame Kit][Frame] does not come with the extrusions to build the s
 
 ## A/B Drives
 
-![3D render of the Voron 0.2 A/B Drives](/assets/blog/printer-voron-0.2/voron-design/a-b-drives.jpg)
+![3D render of the Voron 0.2 A/B Drives](/assets/blog/printer-voron-0.2/voron-design/a-b-drives.jpg 'A/B Drives')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -478,7 +493,7 @@ The benefit for the A/B Drives is that the A/B motors are mounted solidly to the
 
 ## A/B Idlers
 
-![3D render of the Voron 0.2 A/B Idlers](/assets/blog/printer-voron-0.2/voron-design/a-b-idlers.jpg)
+![3D render of the Voron 0.2 A/B Idlers](/assets/blog/printer-voron-0.2/voron-design/a-b-idlers.jpg 'A/B Idlers')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -514,7 +529,7 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ## Z Axis
 
-![3D render of the Voron 0.2 Z-Axis](/assets/blog/printer-voron-0.2/voron-design/z-axis.jpg)
+![3D render of the Voron 0.2 Z-Axis](/assets/blog/printer-voron-0.2/voron-design/z-axis.jpg 'Z-Axis')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -565,7 +580,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ## X Axis
 
-![3D render of the Voron 0.2 X-Axis](/assets/blog/printer-voron-0.2/voron-design/x-axis.jpg)
+![3D render of the Voron 0.2 X-Axis](/assets/blog/printer-voron-0.2/voron-design/x-axis.jpg 'X-Axis')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -610,7 +625,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ## A/B Belts
 
-![3D render of the Voron 0.2 A/B Belts](/assets/blog/printer-voron-0.2/voron-design/a-b-belts.jpg)
+![3D render of the Voron 0.2 A/B Belts](/assets/blog/printer-voron-0.2/voron-design/a-b-belts.jpg 'A/B Belts')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -626,7 +641,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ## Print Bed
 
-![3D render of the Voron 0.2 ](/assets/blog/printer-voron-0.2/voron-design/print-bed.jpg)
+![3D render of the Voron 0.2 ](/assets/blog/printer-voron-0.2/voron-design/print-bed.jpg 'Print Bed')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -646,7 +661,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ## Print Head
 
-![3D render of the Voron 0.2 Print Head](/assets/blog/printer-voron-0.2/voron-design/print-head.jpg)
+![3D render of the Voron 0.2 Print Head](/assets/blog/printer-voron-0.2/voron-design/print-head.jpg 'Print Head')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -681,7 +696,7 @@ I will print the main cowling using the [Multi-Colour Prints with a Single Nozzl
 
 ## Electronics & Wiring
 
-![3D render of the Voron 0.2 Electronics & Wiring](/assets/blog/printer-voron-0.2/voron-design/electronics-and-wiring.jpg)
+![3D render of the Voron 0.2 Electronics & Wiring](/assets/blog/printer-voron-0.2/voron-design/electronics-and-wiring.jpg 'Electronics and Wiring')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -731,7 +746,7 @@ The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [
 
 ## Skirts & Panels
 
-![3D render of the Voron 0.2 Skirts & Panels](/assets/blog/printer-voron-0.2/voron-design/skirts-and-panels.jpg)
+![3D render of the Voron 0.2 Skirts & Panels](/assets/blog/printer-voron-0.2/voron-design/skirts-and-panels.jpg 'Skirts and Panels')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -871,7 +886,7 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ## Extrusion Tophat
 
-![3D render of the Voron 0.2 Extrusion Tophat](/assets/blog/printer-voron-0.2/voron-design/extrusion-tophat.jpg)
+![3D render of the Voron 0.2 Extrusion Tophat](/assets/blog/printer-voron-0.2/voron-design/extrusion-tophat.jpg 'Extrusion Tophat')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
@@ -925,6 +940,6 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ## Assembly Complete
 
-![3D Render of the Voron 0.2 Complete](/assets/blog/printer-voron-0.2/voron-design/assembly-complete.jpg)
+![3D Render of the Voron 0.2 Complete](/assets/blog/printer-voron-0.2/voron-design/assembly-complete.jpg 'Assembly Complete')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)

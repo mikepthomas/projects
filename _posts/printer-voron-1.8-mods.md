@@ -5,7 +5,7 @@ date: 2022-04-27
 lastmod: 2024-05-22T20:08:31.566Z
 author: Mike Thomas
 description: List of upgrades that I plan on adding from the printer mods directory of the Voron Users repository.
-preview: /assets/blog/printer-voron-mods/corner-cable-cover.jpg
+preview: /assets/blog/printer-voron-1.8-mods/corner-cable-cover.jpg
 slug: /projects/printer-voron-1.8-mods
 related:
   - /projects/voron-m4
@@ -40,7 +40,7 @@ The stock exhaust filter has the bowden coupler coming out of the back. As I wil
 
 ### :white_check_mark: Assembly
 
-![Modified Exhaust filter with multiple PTFE entry points](/assets/blog/printer-voron-mods/exhaust-mount-side-entry.jpg)
+![Modified Exhaust filter with multiple PTFE entry points](/assets/blog/printer-voron-1.8-mods/exhaust-mount-side-entry.jpg 'Exhaust Mount Side Entry')
 
 #### Parts Used
 
@@ -66,7 +66,7 @@ The Stock door hinges are attached using VHB, these clamp around the acrylic pan
 
 ### :wrench: Assembly
 
-![Door Hinges that do not require VHB Tape](/assets/blog/printer-voron-mods/clamping-door-hinges.jpg)
+![Door Hinges that do not require VHB Tape](/assets/blog/printer-voron-1.8-mods/clamping-door-hinges.jpg 'Clamping Door Hinges')
 
 #### Parts Used
 
@@ -180,7 +180,7 @@ Cover for the Exhaust filter grill to allow the chamber to hold it's temperature
 
 ### :white_check_mark: Assembly
 
-![Cover to hold in chamber temperature whilst printing](/assets/blog/printer-voron-mods/magnetic-grill-cover.jpg)
+![Cover to hold in chamber temperature whilst printing](/assets/blog/printer-voron-1.8-mods/magnetic-grill-cover.jpg 'Magnetic Grill Cover')
 
 #### Parts Used
 
@@ -191,7 +191,7 @@ Cover for the Exhaust filter grill to allow the chamber to hold it's temperature
 
 The cover can be easily removed to allow air to be exracted from the exhaust filter.
 
-![Cover removed to allow ventilation](/assets/blog/printer-voron-mods/magnetic-grill-cover-removed.jpg)
+![Cover removed to allow ventilation](/assets/blog/printer-voron-1.8-mods/magnetic-grill-cover-removed.jpg 'Magnetic Grill Cover Removed')
 
 ## Sexbolt Z Endstop
 
@@ -203,7 +203,7 @@ An enclosed bolt with sleeved bearings for the Z endstop.
 
 ### :white_check_mark: Assembly
 
-![Z endstop based on a PCB](/assets/blog/printer-voron-mods/sexbolt-z-endstop.jpg)
+![Z endstop based on a PCB](/assets/blog/printer-voron-1.8-mods/sexbolt-z-endstop.jpg 'Sexbolt Z Endstop')
 
 #### Parts Used
 
@@ -249,7 +249,7 @@ Mount for the display allowing it to be tilted and angled.
 
 ### :white_check_mark: Assembly
 
-![Display Mount that can be tilted for a better view](/assets/blog/printer-voron-mods/display-mount.jpg)
+![Display Mount that can be tilted for a better view](/assets/blog/printer-voron-1.8-mods/display-mount.jpg 'Display Mount')
 
 #### Parts Used
 
@@ -261,11 +261,11 @@ Mount for the display allowing it to be tilted and angled.
 | M5x16 BHCS         | 2        |
 | Mini 12864 Display | 1        |
 
-![The Display Mount installed on the printer](/assets/blog/printer-voron-mods/display-mount-installed.jpg)
+![The Display Mount installed on the printer](/assets/blog/printer-voron-1.8-mods/display-mount-installed.jpg 'Display Mount Installed')
 
 The reason to add this mod is that it allows me to fold the display flat with the frame out of the way or angled up to view the display at different angles.
 
-![Display Mount Folded Flat out of the way](/assets/blog/printer-voron-mods/display-mount-flat.jpg)
+![Display Mount Folded Flat out of the way](/assets/blog/printer-voron-1.8-mods/display-mount-flat.jpg 'Display Mount Flat')
 
 ## Mosfet Mounts
 
@@ -277,7 +277,7 @@ The SKR 1.4 Turbo only has 1 controllable fan header, I have purchased a few [mo
 
 ### :wrench: Assembly
 
-![Mount to hold 4 External Mosfets](/assets/blog/printer-voron-mods/mosfet-mounts.jpg)
+![Mount to hold 4 External Mosfets](/assets/blog/printer-voron-1.8-mods/mosfet-mounts.jpg 'Mosfet Mounts')
 
 #### Parts Used
 
@@ -341,7 +341,7 @@ Recommended upgrade to replace the PL-08N Inductive Probe which can be a bit unr
 
 #### :white_check_mark: Assembly
 
-![Klicky Probe installed on the printer](/assets/blog/printer-voron-mods/klicky-probe.jpg)
+![Klicky Probe installed on the printer](/assets/blog/printer-voron-1.8-mods/klicky-probe.jpg 'Klicky Probe')
 
 ##### Parts Used
 
@@ -415,7 +415,7 @@ Wago Mount for connecting wires under the bed and in the electronics compartment
 
 ### :wrench: Assembly
 
-![Wago Mounts to make wiring up the printer electronics easier](/assets/blog/printer-voron-mods/wago-mounts.jpg)
+![Wago Mounts to make wiring up the printer electronics easier](/assets/blog/printer-voron-1.8-mods/wago-mounts.jpg 'Wago Mounts')
 
 > [!WARNING]
 > I have currently printed [this version from Thingyverse](https://www.thingiverse.com/thing:4579456) for the Wago 221-412, I will replace these with ones from this User mod.
@@ -486,7 +486,7 @@ Cover to hide the cables for the LED strip around the top corners of the printer
 
 I will also use some extrusion slot covers to hold the LED strip cables inside the rear of the front top extrusion like so:
 
-![Rear of the Corner Cable Covers showing holes to route the cables](/assets/blog/printer-voron-mods/corner-cable-cover-rear.jpg)
+![Rear of the Corner Cable Covers showing holes to route the cables](/assets/blog/printer-voron-1.8-mods/corner-cable-cover-rear.jpg 'Corner Cable Cover Rear')
 
 ## Power Supply Cover
 
@@ -510,7 +510,7 @@ The coroplast on the bottom of the printer is not that well supported so this ju
 
 ### :white_check_mark: Assembly
 
-![Decorative clips to hold in the deck panel](/assets/blog/printer-voron-mods/deck-panel-support-clips.jpg)
+![Decorative clips to hold in the deck panel](/assets/blog/printer-voron-1.8-mods/deck-panel-support-clips.jpg 'Deck Panel Support Clips')
 
 #### Parts Used
 
@@ -533,7 +533,7 @@ There are three different mounts, one vertical, one horizontal and one for DIN r
 
 ### :wrench: Assembly
 
-![Timmit99's Klipper Expander PCB](/assets/blog/printer-voron-mods/klipper-expander.jpg)
+![Timmit99's Klipper Expander PCB](/assets/blog/printer-voron-1.8-mods/klipper-expander.jpg 'Klipper Expander')
 
 I have printed the horizontal mount as I am planning on mounting the Klipper Expander on the bottom of the rear electronics compartment.
 
@@ -556,7 +556,7 @@ These mesh skirts were made using the method decribed in [Eddie the Engineer's Y
 
 ### :negative_squared_cross_mark: Assembly
 
-![Slicer Preview](https://github.com/mikepthomas/3dprinting/raw/main/Designs/Voron%201.8%20Skirt%20Mesh/slicer-preview.png)
+![Slicer Preview](https://github.com/mikepthomas/3dprinting/raw/main/Designs/Voron%201.8%20Skirt%20Mesh/slicer-preview.png 'Voron Skirt Mesh')
 
 #### Parts Used
 
