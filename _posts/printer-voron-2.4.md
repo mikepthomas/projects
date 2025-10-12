@@ -1559,6 +1559,7 @@ I plan on printing the spool holder in accent colour as I have some black PTFE t
 | [btt_sfs_mount](https://www.printables.com/model/673702/files)                                                      | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a mod by [Lecso](https://www.printables.com/@Lecso_113752). 6mm version |
 | [spool_holder](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Spool_Management/spool_holder.stl)         | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                                 |
 
+[Related Links]: #
 [AfterBurner]: voron-afterburner 'Assembling the Voron AfterBurner Toolhead'
 [StealthBurner]: voron-stealthburner 'Assembling the Voron StealthBurner Toolhead'
 [StealthMax]: nevermore-filter#nevermore-stealthmax 'Assembling a Nevermore Filter'
