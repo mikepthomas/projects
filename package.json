@@ -11,13 +11,13 @@
     "deploy": "gh-pages -b gh-pages -d out -m 'Deploy Site to GitHub Pages' -f -t"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^7.0.1",
-    "@fortawesome/free-brands-svg-icons": "^7.0.1",
-    "@fortawesome/free-solid-svg-icons": "^7.0.1",
-    "@fortawesome/react-fontawesome": "^0.2.3",
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.0",
     "bootstrap": "^5.3.8",
     "date-fns": "^4.1.0",
-    "framer-motion": "^12.23.22",
+    "framer-motion": "^12.23.24",
     "github-fork-ribbon-css": "^0.2.3",
     "gray-matter": "^4.0.3",
     "next": "latest",
@@ -39,7 +39,7 @@
     "remark-gfm": "^4.0.1",
     "remark-toc": "^9.0.0",
     "sass": "^1.93.2",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
     "@types/node": "^22.18.6",
