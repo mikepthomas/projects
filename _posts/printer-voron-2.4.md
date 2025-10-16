@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-11T23:28:18.107Z
+lastmod: 2025-10-16T11:04:35.600Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -773,7 +773,7 @@ I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------------------------------- |
 | ~[xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 11.43m | 29.14g | £0.48 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Bottom Right Part`           |
 | ~[xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 3.80m  | 9.70g  | £0.16 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Top Right Part`              |
-| [Endstops_print_with_supports](https://www.printables.com/model/1211705/files)                                                                   | 1        | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | This is a mod by [Vitalii3D](https://www.printables.com/@Vitalii3D) |
+| [Endstops_print_with_supports](https://www.printables.com/model/1211705/files)                                                                   | 1        | [eSun ABS+ (Black)][primary] | 8.87m  | 22.60g | £0.37 |        :x:         | This is a mod by [Vitalii3D](https://www.printables.com/@Vitalii3D) |
 
 #### Assembly
 
@@ -1287,15 +1287,15 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 
 I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50][PITFT50] touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
 
-| Item                                                                                                                                                           | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------- |
-| ~[btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)~                                  | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
-| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a Voron Users mod by `alanho`              |
-| ~[mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl)~                      | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
-| ~[mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)~                                    | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
-| ~[mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)~                                            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
-| ~[mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)~                                              | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be using the [BigTreeTech PITFT50][PITFT50] |
-| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a Voron Users mod by `CannedBass`          |
+| Item                                                                                                                                                           | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | -------------------------------------------------- |
+| ~[btt_knob_light_shield](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_btt_knob_light_shield.stl)~                                  | ~1~      | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| [BTT-PITFT50-v2-Mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/alanho/BTT_PITFT50_v2_Mount/STLs/BTT-PITFT50-v2-Mount.stl)             | 1        | [eSun ABS+ (Purple)][accent] | 10.07m | 25.68g | £0.51 | :heavy_check_mark: | This is a Voron Users mod by `alanho`              |
+| ~[mini12864_case_front_insert](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_front_insert.stl)~                      | ~1~      | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_mini12864_case_hinge.stl)~                                    | ~1~      | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_front](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_front.stl)~                                            | ~1~      | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| ~[mini12864_case_rear](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/mini12864_case_rear.stl)~                                              | ~1~      | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | I will be using the [BigTreeTech PITFT50][PITFT50] |
+| [PITFT50_45_degree_mount](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl) | 1        | [eSun ABS+ (Black)][primary] | 13.33m | 33.98g | £0.55 |        :x:         | This is a Voron Users mod by `CannedBass`          |
 
 #### Assembly
 
@@ -1320,14 +1320,14 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50][PITF
 
 Rather than modifying the stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
 
-| Item                                                                                                            | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes                                                          |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | -------------------------------------------------------------- |
-| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)    | 1        | [eSun ABS+ (Purple)][accent] | 1.70m | 4.33g  | £0.09 |   :x:   |                                                                |
-| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)    | 1        | [eSun ABS+ (Purple)][accent] | 1.70m | 4.33g  | £0.09 |   :x:   |                                                                |
-| [Front Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                  | 1        | [eSun ABS+ (Purple)][accent] |       |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [Front Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                 | 1        | [eSun ABS+ (Purple)][accent] |       |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl) | 1        | [eSun ABS+ (Black)][primary] |       |        |       |   :x:   |                                                                |
-| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl) | 1        | [eSun ABS+ (Black)][primary] |       |        |       |   :x:   |                                                                |
+| Item                                                                                                            | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes                                                          |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------------------------------- |
+| [belt_guard_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_a_x2.stl)    | 1        | [eSun ABS+ (Purple)][accent] | 1.70m | 4.33g  | £0.09 | :heavy_check_mark: |                                                                |
+| [belt_guard_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_belt_guard_b_x2.stl)    | 1        | [eSun ABS+ (Purple)][accent] | 1.70m | 4.33g  | £0.09 | :heavy_check_mark: |                                                                |
+| [Front Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                  | 1        | [eSun ABS+ (Purple)][accent] | 3.54m | 9.01g  | £0.18 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Front Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                 | 1        | [eSun ABS+ (Purple)][accent] | 3.53m | 9.01g  | £0.18 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [front_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_a_300.stl) | 1        | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         |                                                                |
+| [front_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/front_skirt_b_300.stl) | 1        | [eSun ABS+ (Black)][primary] |       |        |       |        :x:         |                                                                |
 
 #### Assembly
 
