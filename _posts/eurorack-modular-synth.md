@@ -1547,15 +1547,15 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### Misc
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| Mono Audio Jack                       | 14       |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch | 4        |
-| DW3 DPDT ON-ON Sub-mini Toggle Switch | 6        |
-| Push Button (KS01-BV)                 | 1        |
-| Push Button (Cherry MX)               | 4        |
-| 3mm Red LED                           | 3        |
-| 1.8mm Red LED                         | 4        |
+| Item                                           | Quantity |
+| ---------------------------------------------- | -------- |
+| Mono Audio Jack                                | 14       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch          | 4        |
+| DW4 DPDT DPDT ON-OFF-ON Sub-mini Toggle Switch | 6        |
+| Push Button (KS01-BV)                          | 1        |
+| Push Button (Cherry MX)                        | 4        |
+| 3mm Red LED                                    | 3        |
+| 1.8mm Red LED                                  | 4        |
 
 ### How It Works
 
