@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-17T22:00:44.220Z
+lastmod: 2025-10-18T22:49:25.462Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -773,7 +773,7 @@ I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------------------------------- |
 | ~[xy_joint_right_lower_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_lower_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 11.43m | 29.14g | £0.48 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Bottom Right Part`           |
 | ~[xy_joint_right_upper_MGN12](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/xy_joint_right_upper_MGN12.stl)~ | ~1~      | [eSun ABS+ (Black)][primary] | 3.80m  | 9.70g  | £0.16 | :heavy_check_mark: | This is replaced by the Vitalii3D CNC `Top Right Part`              |
-| [Endstops_print_with_supports](https://www.printables.com/model/1211705/files)                                                                   | 1        | [eSun ABS+ (Black)][primary] | 8.87m  | 22.60g | £0.37 |        :x:         | This is a mod by [Vitalii3D](https://www.printables.com/@Vitalii3D) |
+| [Endstops_print_with_supports](https://www.printables.com/model/1211705/files)                                                                   | 1        | [eSun ABS+ (Black)][primary] | 8.87m  | 22.60g | £0.37 | :heavy_check_mark: | This is a mod by [Vitalii3D](https://www.printables.com/@Vitalii3D) |
 
 #### Assembly
 
@@ -1371,18 +1371,18 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
 
-| Item                                                                                                                     | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                                          |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
-| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                |
-| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                |
-| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                |
-| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |                                                                |
-| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |                                                                |
-| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |                                                                |
-| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| Item                                                                                                                     | Quantity | Material                     | Size   | Weight | Cost  | Printed | Notes                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :-----: | -------------------------------------------------------------- |
+| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   |                                                                |
+| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   |                                                                |
+| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   |                                                                |
+| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] | 10.61m | 27.05g | £0.44 |   :x:   |                                                                |
+| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 |   :x:   |                                                                |
+| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 |   :x:   |                                                                |
+| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 
 #### Assembly
 
@@ -1513,9 +1513,9 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
-| Item                                                                                                     | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                  |
-| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | ---------------------- |
-| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a LDO 2.4 Part |
+| Item                                                                                                     | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes                  |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | ---------------------- |
+| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)][primary] | 0.69m | 1.76g  | £0.03 |   :x:   | This is a LDO 2.4 Part |
 
 ### :negative_squared_cross_mark: Doors
 
