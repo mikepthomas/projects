@@ -1156,7 +1156,7 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 | ~M3 Post-install T-nut~            | ~2~      |
 | ~Omron D2F-01L Micro Switch~       | ~1~      |
 
-> [!CAUTION]
+> [!WARNING]
 > These parts are not required as I will be installing the [ChaoticLab CNC Tap][Tap].
 
 ### :negative_squared_cross_mark: X/Y Endstop
@@ -1165,10 +1165,10 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 
 ![Endstop pod for X/Y Endstop PCB](/assets/blog/printer-voron-2.4/xy-endstop-pcb.jpg 'X/Y Endstop PCB')
 
-| Item                                                                                                                                          | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------- |
-| ~[endstop_pod](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/%5Ba%5D_endstop_pod_D2F_switch.stl)~         | ~1~      | [eSun ABS+ (Purple)][accent] |       |        |       |        :x:         | I will be using a `Microswitch X/Y Endstop PCB` instead |
-| [Microswitch_Edge_Pod](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl) | 1        | [eSun ABS+ (Purple)][accent] | 2.68m | 6.83g  | £0.14 | :heavy_check_mark: | This is a Voron Users mod by `randell`                  |
+| Item                                                                                                                                            | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------- |
+| ~[endstop_pod](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/X_Axis/XY_Joints/%5Ba%5D_endstop_pod_D2F_switch.stl)~           | ~1~      | [eSun ABS+ (Purple)][accent] |       |        |       |        :x:         | I will be using a `Microswitch X/Y Endstop PCB` instead |
+| ~[Microswitch_Edge_Pod](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/randell/Microswitch_Endstop/Microswitch_Edge_Pod.stl)~ | ~1~      | [eSun ABS+ (Purple)][accent] | 2.68m | 6.83g  | £0.14 | :heavy_check_mark: | This is a Voron Users mod by `randell`                  |
 
 #### Assembly
 
@@ -1178,7 +1178,7 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 | ---------------------------- | -------- |
 | ~M2x10 Self-tapping Screw~   | ~4~      |
 | M3x8 SHCS                    | 2        |
-| M3x30 SHCS                   | 2        |
+| ~M3x30 SHCS~                 | ~2~      |
 | Microswitch X/Y Endstop PCB  | 1        |
 | ~Omron D2F-01L Micro Switch~ | ~2~      |
 
@@ -1371,18 +1371,18 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 
 Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
 
-| Item                                                                                                                     | Quantity | Material                     | Size   | Weight | Cost  | Printed | Notes                                                          |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :-----: | -------------------------------------------------------------- |
-| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |   :x:   |                                                                |
-| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |   :x:   |                                                                |
-| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.37m  | 3.49g  | £0.07 |   :x:   |                                                                |
-| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] | 10.61m | 27.05g | £0.44 |   :x:   |                                                                |
-| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 |   :x:   |                                                                |
-| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 |   :x:   |                                                                |
-| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |   :x:   | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| Item                                                                                                                     | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | -------------------------------------------------------------- |
+| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
+| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
+| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.37m  | 3.49g  | £0.07 |        :x:         |                                                                |
+| [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] | 10.61m | 27.05g | £0.44 | :heavy_check_mark: |                                                                |
+| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 |        :x:         |                                                                |
+| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 |        :x:         |                                                                |
+| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 
 #### Assembly
 
