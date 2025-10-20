@@ -352,7 +352,12 @@ In `Marlin/Configuration_adv.h` Enable:
 
 # Smart Filament Sensor
 
-[Mount for BTT SFS V1.0 Smart Filament Sensor from Thingyverse](https://www.thingiverse.com/thing:4640216) by user [StonehengeFR](https://www.thingiverse.com/StonehengeFR)
+[BigTreeTech Smart Filament Sensor V1.0](https://raw.githubusercontent.com/bigtreetech/smart-filament-detection-module/master/V1.0/manual/smart%20filament%20sensor%20module%20manual201125.pdf)
+
+| Item                                                                                            | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                                     |
+| ----------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------------- |
+| [Mount_BTT_smart_filament_sensor_V1](https://www.thingiverse.com/thing:4640216/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 4.41m | 13.14g | £0.26 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
+| [Support_Smart_Filament_Sensor_without_arm_v1](https://www.thingiverse.com/thing:4640216/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 3.75m | 11.19g | £0.22 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
 
 I used the original design with the arms as the updated design without the arms was too loose and would not hold the sensor in an upright position.
 
@@ -370,11 +375,16 @@ In `Marlin/Configuration.h` Update:
 
 # Relay Mount
 
-Adapted from [PSU Cover Remix](printer-printed-upgrades#psu-cover-remix)
+[BigTreeTech Relay V1.2](https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-Relay-V1.2/master/BIGTREETECH%20Relay%20V1.2/BIGTREETECH%20Relay%20V1.2/Relay%20V1.2-Operating%20Instruction.pdf)
 
-I updated the PSU Cover to hold the [BTT Relay V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2/blob/master/BIGTREETECH%20Relay%20V1.2/BIGTREETECH%20Relay%20V1.2/Relay%20V1.2-Operating%20Instruction.pdf) The relay allows me to safely turn off the printer when a print has finished and to save electricity.
+| Item                                                                                                                                          | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
+| [Anet A8 Relay Mount](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 23.75m | 70.84g | £1.40 | :heavy_check_mark: |       |
 
-You can download the changes to the original PSU Cover from [my 3D printing repository on Github](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl).
+> [!NOTE]
+> Adapted from [PSU Cover Remix](printer-printed-upgrades#psu-cover-remix) by `MakerDan55`
+
+I updated the PSU Cover to hold the relay which allows me to safely turn off the printer when a print has finished and to save electricity.
 
 ![The Relay board installed in the power supply mount](/assets/blog/printer-hardware-upgrades/relay-mount.jpg)
 
@@ -395,6 +405,8 @@ In `Marlin/Configuration.h` Update:
 # 3D Touch
 
 My inductive probe did not sense the bed underneath the borosilicate glass plate I purchased to make my prints have a smoother appearance on the first layer so I installed a 3D Touch sensor in place of it to physically touch the bed and get more accurate bed mesh.
+
+I used [Anet A8 BL Touch Mount](printer-printed-upgrades#anet-a8-bl-touch-mount) by `spencerx4` to mount the 3D Touch to the printer.
 
 # Hard Silicone Bed Mounts
 
