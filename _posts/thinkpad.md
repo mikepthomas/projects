@@ -200,7 +200,8 @@ It's always a good idea to read the BIOS data from the chip twice and compare th
 
 One of my X220s had a different brand EEPROM chip than the Winbond one in the screenshot above:
 
-```bash
+```bash {1}
+$ flashrom -p linux_spi:dev=/dev/spidev0.0
 flashrom unknown on Linux 6.1.0-rpi8-rpi-v8 (aarch64)
 flashrom is free software, get the source code at https://flashrom.org
 
@@ -216,8 +217,8 @@ Please specify which chip definition to use with the -c <chipname> option.
 
 To connect to this chip I had to pass the `-c` parameter
 
-```bash
-flashrom -p linux_spi:dev=/dev/spidev0.0 -c MX25L6405
+```bash {1}
+$ flashrom -p linux_spi:dev=/dev/spidev0.0 -c MX25L6405
 flashrom unknown on Linux 6.1.0-rpi8-rpi-v8 (aarch64)
 flashrom is free software, get the source code at https://flashrom.org
 
@@ -256,7 +257,7 @@ It Works! Running the SeaBIOS Payload using [Coreboot](https://www.coreboot.org/
 
 I used Debian 12 Bookworm to build Libreboot from sources:
 
-```bash
+```bash {1-6, 8}
 $ git clone https://codeberg.org/libreboot/lbmk
 $ cd lbmk
 $ git config --global user.name "Mike Thomas"
@@ -271,7 +272,7 @@ $ ./mk -b coreboot list
 
 #### X220
 
-```bash
+```bash {1}
 $ ./mk -b coreboot x220_8mb
 ...
 ...
@@ -364,7 +365,7 @@ make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 
 #### X230
 
-```bash
+```bash {1}
 $ ./mk -b coreboot x230_12mb
 ...
 ...
@@ -459,7 +460,7 @@ make: Leaving directory '/home/mike/Repos/lbmk/src/coreboot/default'
 
 Get the latest release rom from [a mirror on the Downloads page](https://libreboot.org/download.html) and verify the sha512 e.g:
 
-```bash
+```bash {1, 13, 25}
 $ wget https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz
 --2024-08-28 15:46:01--  https://www.mirrorservice.org/sites/libreboot.org/release/stable/20240612/roms/libreboot-20240612_x220_8mb.tar.xz
 Resolving www.mirrorservice.org (www.mirrorservice.org)... 212.219.56.184, 2001:630:341:12::184
@@ -490,7 +491,7 @@ $ sha512sum -c libreboot-20240612_x220_8mb.tar.xz.sha512
 
 Inject the Management Engine into a Release image:
 
-```bash
+```bash {1}
 $ ./vendor inject libreboot-20240612_x220_8mb.tar.xz
 ...
 File tmp/romdir/bin/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom is 8388608 bytes
@@ -510,7 +511,7 @@ Warning: No platform specified. Output may be incomplete
 
 Make sure the Management Engine is present before flashing the image:
 
-```bash
+```bash {1, 3, 11}
 $ ./mk -d coreboot x220_8mb
 ...
 $ ./elf/ifdtool/default/ifdtool -x bin/release/x220_8mb/seabios_withgrub_x220_8mb_libgfxinit_corebootfb_ukqwerty_grubfirst.rom
@@ -554,7 +555,7 @@ $ hexdump flashregion_2_intel_me.bin
 
 ### Split X230 image
 
-```bash
+```bash {1-2, 6}
 $ cd ./bin/x230_12mb/
 $ dd if=seagrub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=top.rom bs=1M skip=8
 4+0 records in
@@ -572,7 +573,7 @@ $ dd if=seagrub_x230_12mb_libgfxinit_corebootfb_ukqwerty.rom of=bottom.rom bs=1M
 
 You can use a Raspberry Pi Pico to flash the bios, you can compile the image to flash to the pico with one of the following.
 
-```bash
+```bash {1}
 $ ./mk -b pico-serprog
 ```
 
@@ -580,7 +581,7 @@ $ ./mk -b pico-serprog
 
 Libreboot standardises on flashprog now, compile it with:
 
-```bash
+```bash {1}
 $ ./mk -b flashprog
 ```
 
@@ -590,7 +591,7 @@ Connecting the EEPROM to a Raspberry Pi for flashing is same the same way as [Ba
 
 I had an error when erasing and writing the flash chip, however it managed to recover itself:
 
-```bash
+```bash {1}
 $ flashrom -p linux_spi:dev=/dev/spidev0.0 -c MX25L6405 -w ./grub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
 flashrom unknown on Linux 6.1.0-rpi8-rpi-v8 (aarch64)
 flashrom is free software, get the source code at https://flashrom.org
@@ -619,7 +620,7 @@ Verifying flash... VERIFIED.
 
 Once Libreboot is installed, you can flash updates internally without having to take the machine apart again:
 
-```bash
+```bash {1}
 $ sudo ./elf/flashprog/flashprog -p internal -c MX25L6405 -w ./bin/x220_8mb/seagrub_x220_8mb_libgfxinit_corebootfb_ukqwerty.rom
 [sudo] password for user:
 flashprog p1.1-72-ge86b2a0 on Linux 5.15.0-119-generic (x86_64)
