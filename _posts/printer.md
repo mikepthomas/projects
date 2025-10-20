@@ -492,15 +492,200 @@ The hello world of the 3D printing world... the first print had to be a [3D Benc
 The Anet A8 has [a bit of a reputation](https://www.fabbaloo.com/2018/12/3d-printer-safety-another-anet-a8-burns) for [catching on fire and burning your house down](https://www.thissmarthouse.net/dont-burn-your-house-down-3d-printing-a-cautionary-tale/) these upgrades are a must to ensure safety of using the printer.
 
 - 30A power supply
-- Mosfets
-- Enable Thermal runaway in Marlin
+- Stand alone Mosfets for the Heated Bed and Hotend
+- [Flash Marlin 2 to enable thermal runaway protection](#firmware)
 
-I also ran 2 more cables to the heated bed to spread the current load between the extra pins on the heated bed as if the existing pins become loose they will melt the connector.
+I also ran 2 more cables to the bed to spread the current load between the extra pins on the heated bed because the movement of the bed can make the pins loose which in turn can make them melt the connector due to the high current.
 
-# Auto Bed Levelling
+## Firmware
+
+The full configured firmware to run the printer with the auto bed level sensor is available on [my Marlin Github repository](https://github.com/mikepthomas/Marlin/tree/2.0.x-Anet3D-V1-5).
+
+In `Marlin/Configuration.h` Update:
+
+```c showLineNumbers=72
+#define STRING_CONFIG_H_AUTHOR "(Mike Thomas, Anet config)"
+```
+
+```c showLineNumbers=118
+#define BAUDRATE 115200
+```
+
+```c showLineNumbers=142
+#define MOTHERBOARD BOARD_ANET_10
+```
+
+```c showLineNumbers=146
+#define CUSTOM_MACHINE_NAME "Anet A8"
+```
+
+### Temperature Sensors
+
+```c showLineNumbers=425
+#define TEMP_SENSOR_0 11
+```
+
+```c showLineNumbers=433
+#define TEMP_SENSOR_BED 5
+```
+
+```c showLineNumbers=453
+#define TEMP_RESIDENCY_TIME          6
+```
+
+```c showLineNumbers=453
+#define TEMP_BED_RESIDENCY_TIME      6
+```
+
+```c showLineNumbers=489
+#define BED_MAXTEMP      130
+```
+
+### PID Tuning
+
+The easiest way I have found to find the values to use for PID Tune is to use the `PID_AUTOTUNE_MENU`:
+
+```c showLineNumbers=515
+#define PID_AUTOTUNE_MENU
+```
+
+Once you have flashed with it enabled you can run an autotune from the `Advanced Settings` menu.
+
+You can then add the values to the config:
+
+```c showLineNumbers=528
+#define DEFAULT_Kp 19.3532
+#define DEFAULT_Ki  1.1057
+#define DEFAULT_Kd 84.6825
+```
+
+For the bed you will have to enable:
+
+```c showLineNumbers=551
+#define PIDTEMPBED
+```
+
+...and update the values in the config:
+
+```c showLineNumbers=528
+#define DEFAULT_bedKp 236.5893
+#define DEFAULT_bedKi  45.2326
+#define DEFAULT_bedKd 824.9868
+```
+
+### Endstops
+
+The Anet A8 comes with endstops that are wired Normally Open (NO) therefore the endstop logic needs to be inverted.
+
+```c showLineNumbers=728
+#define X_MIN_ENDSTOP_INVERTING true
+#define Y_MIN_ENDSTOP_INVERTING true
+#define Z_MIN_ENDSTOP_INVERTING true
+```
+
+The endstop pins on the Anet A8 mainboard are interrupt-capable so to save CPU cycles it's good to enable:
+
+```c showLineNumbers=773
+#define ENDSTOP_INTERRUPTS_FEATURE
+```
+
+### Speeds and Feeds
+
+I started with the values from the [Anet A9 sample config](https://github.com/MarlinFirmware/Configurations/blob/release-2.0.8.3/config/examples/Anet/A8/Configuration.h#L814-L856) and have slightly tuned them to fit my needs.
+
+```c showLineNumbers=817
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 100, 100, 400, 105.35 }
+```
+
+```c showLineNumbers=824
+#define DEFAULT_MAX_FEEDRATE          { 400, 400, 8, 50 }
+```
+
+```c showLineNumbers=837
+#define DEFAULT_MAX_ACCELERATION      { 2000, 2000, 100, 10000 }
+```
+
+```c showLineNumbers=852
+#define DEFAULT_ACCELERATION          500
+#define DEFAULT_RETRACT_ACCELERATION  1000
+#define DEFAULT_TRAVEL_ACCELERATION   1000
+```
+
+### Auto Bed Levelling
 
 To enable auto bed levelling on the printer I used a Tronxy XY-08N.
 
 ![Auto Level Sensor Installed](/assets/blog/printer/auto-level-sensor.jpg)
 
-The firmware to enable the sensor is available on [my Marlin Github repository](https://github.com/mikepthomas/Marlin/tree/2.0.x-Anet3D-V1-5)
+```c showLineNumbers=734
+#define Z_MIN_PROBE_ENDSTOP_INVERTING true
+```
+
+```c showLineNumbers=957
+#define FIX_MOUNTED_PROBE
+```
+
+```c showLineNumbers=1072
+#define NOZZLE_TO_PROBE_OFFSET { -25, -45, 0 }
+```
+
+```c showLineNumbers=1076
+#define PROBING_MARGIN 50
+```
+
+```c showLineNumbers=1079
+#define XY_PROBE_FEEDRATE (100*60)
+```
+
+```c showLineNumbers=1404
+#define AUTO_BED_LEVELING_BILINEAR
+```
+
+```c showLineNumbers=1604
+#define Z_SAFE_HOMING
+```
+
+```c showLineNumbers=1612
+#define HOMING_FEEDRATE_MM_M { (100*60), (100*60), (4*60) }
+```
+
+### Machine
+
+The steppers moved the wrong way when homing the printer for the first time therefore I had to invert the axes from defaults:
+
+```c showLineNumbers=1208
+#define INVERT_Y_DIR false
+#define INVERT_Z_DIR true
+```
+
+```c showLineNumbers=1249
+#define X_BED_SIZE 220
+#define Y_BED_SIZE 220
+```
+
+```c showLineNumbers=1253
+#define X_MIN_POS -33
+#define Y_MIN_POS -10
+```
+
+```c showLineNumbers=1258
+#define Z_MAX_POS 240
+```
+
+```c showLineNumbers=1286
+#define SOFT_ENDSTOPS_MENU_ITEM
+```
+
+```c showLineNumbers=1689
+#define EEPROM_SETTINGS
+```
+
+```c showLineNumbers=1959
+#define SDSUPPORT
+```
+
+### Display
+
+```c showLineNumbers=2326
+#define ANET_FULL_GRAPHICS_LCD
+```

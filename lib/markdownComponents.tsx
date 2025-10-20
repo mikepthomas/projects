@@ -24,6 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 import cn from 'classnames';
+import React from 'react';
 import { Table } from 'reactstrap';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
@@ -106,11 +107,14 @@ export function getComponents() {
         {children}
       </pre>
     ),
-    span: ({ children, className }) => (
-      <RaspberryPiColoriser className={className}>
-        {children}
-      </RaspberryPiColoriser>
-    ),
+    span: ({ children, className, line }) =>
+      line ? (
+        React.createElement('span', { className, line }, children)
+      ) : (
+        <RaspberryPiColoriser className={className}>
+          {children}
+        </RaspberryPiColoriser>
+      ),
     table: ({ children }) => (
       <Table bordered hover responsive size="sm" striped>
         {children}

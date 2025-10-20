@@ -179,7 +179,7 @@ I have received the printed circuit boards for Version 2 of the fan hat however 
 
 We will need to install Git so we can check out the Raspberry Pi Hats Repository as it is not included in the base Raspberry Pi OS image.
 
-```sh
+```sh {1, 3, 16}
 pi@raspberrypi:~ $ sudo apt update
 ...
 pi@raspberrypi:~ $ sudo apt install git
@@ -204,7 +204,7 @@ Setting up git (1:2.30.2-1+deb11u2) ...
 
 Next we need to get the code from the Raspberry Pi Hats Repository.
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ git clone https://github.com/raspberrypi/hats.git
 Cloning into 'hats'...
 remote: Enumerating objects: 624, done.
@@ -219,7 +219,7 @@ Resolving deltas: 100% (366/366), done.
 
 Once we have cloned the repository we need to compile the tools to make the EEPROM image and flash it to the chip.
 
-```sh
+```sh {1-2, 5}
 pi@raspberrypi:~ $ cd hats/eepromutils/
 pi@raspberrypi:~/hats/eepromutils $ make -j4
 cc -Wall -Wextra eepmake.c -o eepmake
@@ -232,7 +232,7 @@ eepdump  eepdump.c  eepflash.sh  eepmake  eepmake.c  eeprom_settings.txt  eeptyp
 
 To communicate with the EEPROM chip we need to enable the I2C interface.
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ sudo raspi-config
 ```
 
@@ -241,13 +241,13 @@ interfacing Options -> I2C -> Yes -> ok -> Finish
 
 We will then need to reboot the Raspberry Pi to enable.
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ sudo reboot
 ```
 
 When finished restarting, we will need to install the `i2c-tools` package, log in and run:
 
-```sh
+```sh {1, 14}
 pi@raspberrypi:~ $ sudo apt install i2c-tools
 Reading package lists... Done
 Building dependency tree... Done
@@ -270,7 +270,7 @@ Setting up i2c-tools (4.2-1+b1) ...
 
 The Raspberry Pi should be powered off before making any connections to the GPIO pins.
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ sudo halt
 ```
 
@@ -288,20 +288,20 @@ Switch the Raspberry Pi back on.
 
 If when we try to detect the EEPROM we get a 'No such file or directory' error such as...
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ i2cdetect -y 9
 Error: Could not open file `/dev/i2c-9' or `/dev/i2c/9': No such file or directory
 ```
 
 ...run the following command as explained in the [EEPROM Utils Docs](https://github.com/raspberrypi/hats/tree/master/eepromutils).
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ sudo dtoverlay i2c-gpio i2c_gpio_sda=0 i2c_gpio_scl=1 bus=9
 ```
 
 You should then be able to see the EEPROM Chip at address 50:
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ i2cdetect -y 9
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:                         -- -- -- -- -- -- -- --
@@ -323,7 +323,7 @@ If your EEPROM is a different size you will need to set `count` to the value of 
 
 Make a blank image using dd:
 
-```sh
+```sh {1-2}
 pi@raspberrypi:~ $ cd hats/eepromutils/
 pi@raspberrypi:~/hats/eepromutils $ dd if=/dev/zero ibs=1k count=4 of=blank.eep
 4+0 records in
@@ -333,7 +333,7 @@ pi@raspberrypi:~/hats/eepromutils $ dd if=/dev/zero ibs=1k count=4 of=blank.eep
 
 Verify it is actually blank with `hexdump`...
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ hexdump blank.eep
 0000000 0000 0000 0000 0000 0000 0000 0000 0000
 *
@@ -342,7 +342,7 @@ pi@raspberrypi:~/hats/eepromutils $ hexdump blank.eep
 
 ...and flash it to the chip.
 
-```sh
+```sh {1, 4}
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -361,7 +361,7 @@ Done.
 Now that we have a blank EEPROM chip, we can configure and flash the Hat EEPROM image to it.
 Open the `eeprom_settings.txt` file:
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ nano eeprom_settings.txt
 ```
 
@@ -369,7 +369,7 @@ Update the contents with the [Klipper Fan Hat settings file from the Repository]
 
 Save and close the file, and then we can make the EEPROM image...
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat.eep
 Opening file eeprom_settings.txt for read
 UUID=fef562f0-9e28-4453-88c2-c073303e6ab2
@@ -380,7 +380,7 @@ Done.
 
 ...and flash it to the chip.
 
-```sh
+```sh {1, 4}
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=klipper-fan-hat.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -397,13 +397,13 @@ Done.
 
 The Hat EEPROM is read on system boot so we will need to reboot the Pi before we can test it:
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ sudo reboot
 ```
 
 We can then read the data using the device tree:
 
-```sh
+```sh {1-2, 4, 6, 8, 10, 12, 14}
 pi@raspberrypi:~ $ cd /proc/device-tree/hat/
 pi@raspberrypi:/proc/device-tree/hat $ ls
 custom_0  name  product  product_id  product_ver  uuid  vendor
@@ -425,7 +425,7 @@ fef562f0-9e28-4453-88c2-c073303e6ab2
 
 To allow the hat to automatically enable I2C and SPI we will create a device tree overlay and embed it into the EEPROM. The Raspberry Pi will then enable this at boot time.
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ nano klipper-fan-hat.dts
 ```
 
@@ -433,20 +433,20 @@ Update the contents with the [Klipper Fan Hat device tree source file from the R
 
 Save the file, compile the binary and set the correct permissions to the output file:
 
-```sh
+```sh {1-2}
 pi@raspberrypi:~/hats/eepromutils $ sudo dtc -@ -I dts -O dtb -o klipper-fan-hat.dtb klipper-fan-hat.dts
 pi@raspberrypi:~/hats/eepromutils $ sudo chown pi:pi klipper-fan-hat.dtb
 ```
 
 You may need to install the `device-tree-compiler` package if you get any errors running the previous command, however, it was already installed in the version of Raspberry Pi OS that I was using.
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ sudo apt-get install device-tree-compiler
 ```
 
 We can then embed the device tree binary into the flash file...
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat-with-dt.eep klipper-fan-hat.dtb
 Opening file eeprom_settings.txt for read
 UUID=967cd2a4-9c61-4397-ae2e-5184a7f2b7de
@@ -460,7 +460,7 @@ Done.
 
 ...and flash it to the EEPROM the same way we did before:
 
-```sh
+```sh {1, 4, 12, 15}
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -489,7 +489,7 @@ We can check that I2C and SPI is enabled by switching off I2C using `raspi-confi
 
 After another restart you will be able to see the devices `/dev/i2c-1`, and `/dev/spidev0.0` and `/dev/spidev0.1` only when the hat EEPROM is connected.
 
-```sh
+```sh {1}
 pi@raspberrypi:~ $ ls /dev
 autofs         dma_heap   i2c-1    loop4         mmcblk0    ram1   ram5     spidev0.0  tty12  tty21  tty30  tty4   tty49  tty58  ttyAMA0    vcs1   vcsa4     vcsu6    video20
 block          dri        i2c-2    loop5         mmcblk0p1  ram10  ram6     spidev0.1  tty13  tty22  tty31  tty40  tty5   tty59  ttyprintk  vcs2   vcsa5     vhci     video21
@@ -505,7 +505,7 @@ disk           hwrng      loop3    mem           ram0       ram4   snd      tty1
 
 ## Embed Klipper config in EEPROM
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ nano klipper-fan-hat.cfg
 ```
 
@@ -513,7 +513,7 @@ Update the contents with the [Klipper config source file from the Repository](ht
 
 Save the file, and embed the config file into the EEPROM image
 
-```sh
+```sh {1}
 pi@raspberrypi:~/hats/eepromutils $ ./eepmake eeprom_settings.txt klipper-fan-hat-with-dt.eep klipper-fan-hat.dtb -c klipper-fan-hat.cfg
 Opening file eeprom_settings.txt for read
 UUID=62ed7b88-3e38-4958-a397-5271702f3386
@@ -529,7 +529,7 @@ Done.
 
 ...then flash the EEPROM
 
-```sh
+```sh {1, 4, 12, 15}
 pi@raspberrypi:~/hats/eepromutils $ sudo ./eepflash.sh -w -f=blank.eep -t=24c32
 This will attempt to talk to an eeprom at i2c address 0x50. Make sure there is an eeprom at this address.
 This script comes with ABSOLUTELY no warranty. Continue only if you know what you are doing.
@@ -566,6 +566,6 @@ To set up Klipper on a Raspberry Pi using the same Pi as secondary mcu, you can 
 
 Once you have the RPi microcontroller set up, you can copy the config from the EEPROM chip of the hat into the Klipper config directory, using the following command:
 
-```sh
+```sh {1}
 cat /proc/device-tree/hat/custom_1 > ~/printer_data/config/klipper-fan-hat.cfg
 ```

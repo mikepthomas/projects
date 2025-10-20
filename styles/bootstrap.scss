@@ -164,3 +164,31 @@ table thead {
     }
   }
 }
+
+.code-line {
+  display: block;
+  padding: 0 16px;
+  margin: 0 -16px;
+
+  &.deleted {
+    background-color: rgba(var(--#{$prefix}danger-rgb), 0.15);
+  }
+
+  &.highlight-line {
+    background-color: rgba(var(--#{$prefix}warning-rgb), 0.15);
+  }
+
+  &.inserted {
+    background-color: rgba(var(--#{$prefix}success-rgb), 0.15);
+  }
+
+  &.line-number::before {
+    display: inline-block;
+    width: $spacer * 1.15;
+    text-align: right;
+    margin-right: 16px;
+    margin-left: -8px;
+    color: $body-tertiary-color;
+    content: attr(line);
+  }
+}
