@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-18T22:49:25.462Z
+lastmod: 2025-10-20T19:04:23.131Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -1375,14 +1375,14 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | -------------------------------------------------------------- |
 | [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
 | [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
-| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 2        | [eSun ABS+ (Black)][primary] | 1.71m  | 4.36g  | £0.07 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 | [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.37m  | 3.49g  | £0.07 |        :x:         |                                                                |
 | [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] | 10.61m | 27.05g | £0.44 | :heavy_check_mark: |                                                                |
-| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 |        :x:         |                                                                |
-| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 |        :x:         |                                                                |
-| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] |        |        |       |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] | 2.71m  | 6.90g  | £0.14 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] | 2.70m  | 6.90g  | £0.14 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 | :heavy_check_mark: |                                                                |
+| [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 | :heavy_check_mark: |                                                                |
+| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] | 1.59m  | 4.05g  | £0.08 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 
 #### Assembly
 
@@ -1526,13 +1526,13 @@ The Stock door hinges are attached using VHB, the Clamping Hinges grab onto the 
 | Item                                                                                                                                                               | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | ---------------------------------------------- |
 | ~[door_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/door_hinge_x6.stl)~                                             | ~6~      | [eSun ABS+ (Purple)][accent] |       |        |       |   :x:   | I will be using `Clamping Door Hinges` instead |
-| [face_plate_bottom](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/face_plate_bottom.stl)             | 6        | [eSun ABS+ (Black)][primary] | 0.97m | 2.47g  | £0.05 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
-| [face_plate_no_logo](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/face_plate_no_logo.stl)           | 4        | [eSun ABS+ (Purple)][accent] | 1.94m | 4.93g  | £0.09 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
+| [face_plate_bottom](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/face_plate_bottom.stl)             | 4        | [eSun ABS+ (Black)][primary] | 0.97m | 2.47g  | £0.05 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
+| [face_plate_no_logo](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/face_plate_no_logo.stl)           | 2        | [eSun ABS+ (Purple)][accent] | 1.94m | 4.93g  | £0.09 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
 | [face_plate_through_logo](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/face_plate_through_logo.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.90m | 4.86g  | £0.09 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
 | [handle_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_a_x2.stl)                                                   | 2        | [eSun ABS+ (Purple)][accent] |       |        |       |   :x:   |                                                |
 | [handle_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/handle_b_x2.stl)                                                   | 2        | [eSun ABS+ (Purple)][accent] |       |        |       |   :x:   |                                                |
 | [latch](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/Front_Doors/latch_x2.stl)                                                         | 2        | [eSun ABS+ (Black)][primary] |       |        |       |   :x:   |                                                |
-| [side_mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/side_mount_brimed.stl)                    | 6        | [eSun ABS+ (Purple)][accent] | 1.93m | 4.93g  | £0.09 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
+| [side_mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/STLs/side_mount_brimed.stl)                    | 4        | [eSun ABS+ (Purple)][accent] | 1.93m | 4.93g  | £0.09 |   :x:   | This is a Voron Users mod by `AlexanderT-Moss` |
 
 ### :negative_squared_cross_mark: Exhaust
 
