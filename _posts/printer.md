@@ -492,7 +492,7 @@ The hello world of the 3D printing world... the first print had to be a [3D Benc
 The Anet A8 has [a bit of a reputation](https://www.fabbaloo.com/2018/12/3d-printer-safety-another-anet-a8-burns) for [catching on fire and burning your house down](https://www.thissmarthouse.net/dont-burn-your-house-down-3d-printing-a-cautionary-tale/) these upgrades are a must to ensure safety of using the printer.
 
 - 30A power supply
-- Stand alone Mosfets for the Heated Bed and Hotend
+- Stand alone [Mosfets](https://www.amazon.co.uk/dp/B07BJZRSCP) for the Heated Bed and Hotend
 - [Flash Marlin 2 to enable thermal runaway protection](#firmware)
 
 I also ran 2 more cables to the bed to spread the current load between the extra pins on the heated bed because the movement of the bed can make the pins loose which in turn can make them melt the connector due to the high current.
