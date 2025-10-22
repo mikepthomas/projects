@@ -434,6 +434,15 @@ An insert for the extruder housing to stop flexible filament from wrapping itsel
 | --------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------------- |
 | [flex55](https://www.thingiverse.com/thing:1829810/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [ashrafau](https://www.thingiverse.com/ashrafau) |
 
+## Improved Anet A8 Filament Guide
+
+| Item                                                                               | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                               |
+| ---------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------------- |
+| [Improved_Anet_A8_Filament_Guide](https://www.thingiverse.com/thing:2373640/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Thorinair](https://www.thingiverse.com/Thorinair) |
+
+> [!WARNING]
+> This was removed as it got in the way of the filament release when swapping filament.
+
 # Bed Upgrades
 
 ![Parts to upgrade the bed](/assets/blog/printer-printed-upgrades/bed-upgrades.jpg)
@@ -478,3 +487,10 @@ My glass bed was just a bit smaller than the heated bed so I printed these to re
 > These got a bit melty whilst printing with the hotter bed temperatures ABS requires. This made the screws a little loose, I held them in a while with a bit of nail polish but the repeated heat expansion always made them become loose over time.
 
 I have [remixed them to make them slightly thicker around the screw holes and modelled threads into the part](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Glass%20Bed%20Holder%20Strengthened/Glass%20Bed%20Holder%20Strengthened.stl), allowing the threads to hold on a little tighter.
+
+## Spool Holder
+
+| Item                                                           | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                           |
+| -------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | --------------------------------------------------------------- |
+| [clip](https://www.thingiverse.com/thing:767317/files)         | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [rowokii](https://www.thingiverse.com/rowokii) |
+| [spool_holder](https://www.thingiverse.com/thing:767317/files) | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [rowokii](https://www.thingiverse.com/rowokii) |
