@@ -1399,10 +1399,10 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 
 ### :negative_squared_cross_mark: Bottom Panel
 
-| Item                                                                                                                     | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | ----- |
-| [bottom_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/bottom_panel_clip_x4.stl)   | 4        | [eSun ABS+ (Black)][primary] | 1.08m | 2.75g  | £0.04 |   :x:   |       |
-| [bottom_panel_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/bottom_panel_hinge_x2.stl) | 2        | [eSun ABS+ (Black)][primary] | 1.54m | 3.94g  | £0.06 |   :x:   |       |
+| Item                                                                                                                     | Quantity | Material                     | Size  | Weight | Cost  |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ----- | ------ | ----- | :----------------: | ----- |
+| [bottom_panel_clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/bottom_panel_clip_x4.stl)   | 4        | [eSun ABS+ (Black)][primary] | 1.08m | 2.75g  | £0.04 | :heavy_check_mark: |       |
+| [bottom_panel_hinge](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/bottom_panel_hinge_x2.stl) | 2        | [eSun ABS+ (Black)][primary] | 1.54m | 3.94g  | £0.06 | :heavy_check_mark: |       |
 
 #### Assembly
 
@@ -1540,7 +1540,7 @@ I have opted to upgrade the stock Exhaust with the [Nevermore StealthMax][Stealt
 
 | Item                                                                                                                                   | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------- |
-| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder   |
+| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder   |
 | ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
 | ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
 | ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   | I will be building [StealthMax][StealthMax] instead |
