@@ -183,15 +183,15 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 
 ## Rear Anet A8 LCD mount for Raspberry Pi 3 with camera
 
-| Item                                                               | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                                     |
-| ------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------------------- |
-| [boitier_pi](https://www.thingiverse.com/thing:3017821/files)      | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
-| [couvercle_pi](https://www.thingiverse.com/thing:3017821/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
-| [Pi_Cam_Only](https://www.thingiverse.com/thing:3033378/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Bowden_Only](https://www.thingiverse.com/thing:3033378/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Pi_Cam_Bowden](https://www.thingiverse.com/thing:3033378/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Pi_Cam_Bowden_B](https://www.thingiverse.com/thing:3033378/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Bowden_Only_B](https://www.thingiverse.com/thing:3033378/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| Item                                                               | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes                                                                     |
+| ------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------------------------------------- |
+| [boitier_pi](https://www.thingiverse.com/thing:3017821/files)      | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
+| [couvercle_pi](https://www.thingiverse.com/thing:3017821/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 2.59m  | 10.70g | £0.21 | :heavy_check_mark: | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
+| [Pi_Cam_Only](https://www.thingiverse.com/thing:3033378/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 15.24m | 45.44g | £0.90 | :heavy_check_mark: | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Bowden_Only](https://www.thingiverse.com/thing:3033378/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Pi_Cam_Bowden](https://www.thingiverse.com/thing:3033378/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Pi_Cam_Bowden_B](https://www.thingiverse.com/thing:3033378/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Bowden_Only_B](https://www.thingiverse.com/thing:3033378/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
 
 > [!NOTE]
 > The parts needed for the camera are the same as the [Raspberry Pi 1 Version](#rear-anet-a8-mount-for-raspberry-pi-b-with-camera).
@@ -202,7 +202,7 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 | --------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------- |
 | [led_strip_holder_1](https://www.thingiverse.com/thing:2206024/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 3.07m | 10.70g | £0.21 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
 | [led_strip_holder_2](https://www.thingiverse.com/thing:2206024/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 3.44m | 12.00g | £0.24 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 1.95m | 6.80g  | £0.14 |        :x:         | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |       |        |       |        :x:         | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
 | [left_bracket_2](https://www.thingiverse.com/thing:2206024/files)     | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 0.41m | 1.44g  | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
 | [right_bracket](https://www.thingiverse.com/thing:2206024/files)      | ~1~ 2    | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 1.59m | 5.56g  | £0.11 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
 | [right_bracket_2](https://www.thingiverse.com/thing:2206024/files)    | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 0.41m | 1.43g  | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
@@ -233,26 +233,26 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 
 Stiffens up the top of the frame. Leo_N's version did not fit my printer.
 
-| Item                                                                                        | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------- |
-| [Anet_A8_Top_L_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
-| [Anet_A8_Top_R_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
+| Item                                                                                        | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----------------------------------------------------------- |
+| [Anet_A8_Top_L_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 16.97m | 50.62g | £1.00 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
+| [Anet_A8_Top_R_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 17.13m | 51.08g | £1.01 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
 
 ## Hulk Frame Brace for the Anet A8
 
 Stiffens up the frame to reduce ripples in the print related to the X carriage moving from side to side.
 
-| Item                                                                                 | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------- |
-| [Hulk_Left_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Left_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Left_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files)  | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_1mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_1.5mm_Plate](https://www.thingiverse.com/thing:2189694/files)                  | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_2mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| Item                                                                                 | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------- |
+| [Hulk_Left_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 5.54m | 16.54g | £0.33 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Left_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Left_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files)  | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 8.57m | 25.55g | £0.51 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 5.84m | 17.41g | £0.34 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)          | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 8.55m | 25.50g | £0.50 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_1mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.07m | 0.20g  | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_1.5mm_Plate](https://www.thingiverse.com/thing:2189694/files)                  | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.09m | 0.27g  | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_2mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.12m | 0.37g  | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
 
 > [!NOTE]
 > I printed the versions `wBracket` as I am using [Anet A8 Brackets to Reduce X-Axis Motion](#anet-a8-brackets-to-reduce-x-axis-motion).
@@ -261,18 +261,18 @@ Stiffens up the frame to reduce ripples in the print related to the X carriage m
 
 Supports the weight of the X-axis and carriage through the bottom of the Z stepper motors.
 
-| Item                                                                      | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                         |
-| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------- |
-| [Anet_A8_Z_stepperV5_DX](https://www.thingiverse.com/thing:2010468/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
-| [Anet_A8_Z_stepperV5_SX](https://www.thingiverse.com/thing:2010468/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
+| Item                                                                      | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                         |
+| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------- |
+| [Anet_A8_Z_stepperV5_DX](https://www.thingiverse.com/thing:2010468/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 7.81m | 23.28g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
+| [Anet_A8_Z_stepperV5_SX](https://www.thingiverse.com/thing:2010468/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 7.75m | 23.13g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
 
 ## Frame brace for Anet A8
 
 Stiffens up the front of the frame allowing the belt to be tightened without bending the acrylic frame.
 
-| Item                                                                | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                             |
-| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------------- |
-| [AnetA8FrontBrace](https://www.thingiverse.com/thing:3016461/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [3DMagicm](https://www.thingiverse.com/3DMagicm) |
+| Item                                                                | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes                                                             |
+| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----------------------------------------------------------------- |
+| [AnetA8FrontBrace](https://www.thingiverse.com/thing:3016461/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 29.64m | 88.40g | £1.75 | :heavy_check_mark: | This is a mod by [3DMagicm](https://www.thingiverse.com/3DMagicm) |
 
 > [!NOTE]
 > The original was by [Simhopp](https://www.thingiverse.com/Simhopp) however it is no longer available, this is the closest to the design I printed.
@@ -281,17 +281,17 @@ Stiffens up the front of the frame allowing the belt to be tightened without ben
 
 Rear frame brace with integrated mount for the Y Motor. Stiffens up the space between the bottom parts of the frame allowing the belt to be tightened without bending the acrylic frame.
 
-| Item                                                     | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                         |
-| -------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------- |
-| [Brace](https://www.thingiverse.com/thing:2350830/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [ykimhi](https://www.thingiverse.com/ykimhi) |
+| Item                                                     | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes                                                         |
+| -------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ------------------------------------------------------------- |
+| [Brace](https://www.thingiverse.com/thing:2350830/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 54.28m | 161.89 | £3.21 | :heavy_check_mark: | This is a mod by [ykimhi](https://www.thingiverse.com/ykimhi) |
 
 ## Anet A8 filament guide
 
 I added this filament guide to stop the filament rubbing against the frame whilst printing.
 
-| Item                                                                 | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                                     |
-| -------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------------------- |
-| [Filament_Guide_V1](https://www.thingiverse.com/thing:1840645/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [DRPrinting3D](https://www.thingiverse.com/DRPrinting3D) |
+| Item                                                                 | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                                     |
+| -------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------------- |
+| [Filament_Guide_V1](https://www.thingiverse.com/thing:1840645/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.76m | 2.26g  | £0.04 | :heavy_check_mark: | This is a mod by [DRPrinting3D](https://www.thingiverse.com/DRPrinting3D) |
 
 # Motion Upgrades
 
