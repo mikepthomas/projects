@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-21T15:21:09.119Z
+lastmod: 2025-10-25T22:09:45.685Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -1373,16 +1373,16 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 
 | Item                                                                                                                     | Quantity | Material                     | Size   | Weight | Cost  |      Printed       | Notes                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------- | ------ | ------ | ----- | :----------------: | -------------------------------------------------------------- |
-| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
-| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 |        :x:         |                                                                |
+| [fan_grill_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_a_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 | :heavy_check_mark: |                                                                |
+| [fan_grill_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_b_x2.stl)               | 2        | [eSun ABS+ (Purple)][accent] | 2.00m  | 5.10g  | £0.10 | :heavy_check_mark: |                                                                |
 | [Fan Grill - Mesh Insert - HF Logo](https://www.printables.com/model/931612/files)                                       | 4        | [eSun ABS+ (Black)][primary] | 1.71m  | 4.36g  | £0.07 | :heavy_check_mark: | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.37m  | 3.49g  | £0.07 |        :x:         |                                                                |
+| [fan_grill_retainer](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/%5Ba%5D_fan_grill_retainer_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 1.37m  | 3.49g  | £0.07 | :heavy_check_mark: |                                                                |
 | [side_fan_support](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/side_fan_support_x2.STL)             | 2        | [eSun ABS+ (Black)][primary] | 10.61m | 27.05g | £0.44 | :heavy_check_mark: |                                                                |
-| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] | 2.71m  | 6.90g  | £0.14 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
-| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] | 2.70m  | 6.90g  | £0.14 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Left](https://www.printables.com/model/925417/files)                                            | 2        | [eSun ABS+ (Purple)][accent] | 2.71m  | 6.90g  | £0.14 | :heavy_check_mark: | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt 300 - Mesh - Right](https://www.printables.com/model/925417/files)                                           | 2        | [eSun ABS+ (Purple)][accent] | 2.70m  | 6.90g  | £0.14 | :heavy_check_mark: | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 | [side_skirt_a_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_a_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.95g | £0.41 | :heavy_check_mark: |                                                                |
 | [side_skirt_b_300](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/300/side_skirt_b_300_x2.stl)         | 2        | [eSun ABS+ (Black)][primary] | 9.79m  | 24.96g | £0.41 | :heavy_check_mark: |                                                                |
-| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] | 1.59m  | 4.05g  | £0.08 |        :x:         | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
+| [Side Skirt Center - Mesh](https://www.printables.com/model/925417/files)                                                | 2        | [eSun ABS+ (Purple)][accent] | 1.59m  | 4.05g  | £0.08 | :heavy_check_mark: | This is a mod by [DET-Man](https://www.printables.com/@DETMan) |
 
 #### Assembly
 
@@ -1416,11 +1416,11 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 
 ### :negative_squared_cross_mark: Z Belt Covers
 
-| Item                                                                                                             | Quantity | Material                     | Size | Weight | Cost | Printed | Notes                                                           |
-| ---------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------- |
-| [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | ~2~ 1    | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | Only 1 required as I will also be printing `z_belt_cover_a_led` |
-| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   | This is a LDO 2.4 Part                                          |
-| [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] |      |        |      |   :x:   |                                                                 |
+| Item                                                                                                             | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes                                                           |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | --------------------------------------------------------------- |
+| [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | ~2~ 1    | [eSun ABS+ (Purple)][accent] | 2.30m | 5.87g  | £0.12 |   :x:   | Only 1 required as I will also be printing `z_belt_cover_a_led` |
+| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)][accent] | 2.27m | 5.78g  | £0.12 |   :x:   | This is a LDO 2.4 Part                                          |
+| [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Purple)][accent] | 2.30m | 5.87g  | £0.12 |   :x:   |                                                                 |
 
 #### Assembly
 
