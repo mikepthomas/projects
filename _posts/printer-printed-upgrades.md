@@ -301,9 +301,9 @@ I added this filament guide to stop the filament rubbing against the frame whils
 
 Belt tensioner to allow fine adjustment of the X-Axis belt.
 
-| Item                                                                | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                             |
-| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------------- |
-| [x_belt_tensioner](https://www.thingiverse.com/thing:1683070/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [freemark](https://www.thingiverse.com/freemark) |
+| Item                                                                | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                             |
+| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------- |
+| [x_belt_tensioner](https://www.thingiverse.com/thing:1683070/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 5.40m | 16.10g | £0.32 | :heavy_check_mark: | This is a mod by [freemark](https://www.thingiverse.com/freemark) |
 
 > [!WARNING]
 > This has been replaced with a [version that can accept a GT2 pulley with teeth](#anet-a8-x-belt-tensioner-for-gt2-pulley).
@@ -317,13 +317,13 @@ Belt tensioner to allow fine adjustment of the Y-Axis belt.
 > [!NOTE]
 > I printed the medium sized screw as I was not sure of the size I needed therefore I could print a larger or smaller one if needed.
 
-| Item                                                                | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                         |
-| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ------------------------------------------------------------- |
-| [plate](https://www.thingiverse.com/thing:2149867/files)            | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw](https://www.thingiverse.com/thing:2149867/files)            | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw2](https://www.thingiverse.com/thing:2149867/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw_large](https://www.thingiverse.com/thing:2149867/files)      | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [y_belt_tensioner](https://www.thingiverse.com/thing:2149867/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| Item                                                                | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                         |
+| ------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------- |
+| [plate](https://www.thingiverse.com/thing:2149867/files)            | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 1.34m | 4.00g  | £0.08 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw](https://www.thingiverse.com/thing:2149867/files)            | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw2](https://www.thingiverse.com/thing:2149867/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.96m | 2.87g  | £0.06 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw_large](https://www.thingiverse.com/thing:2149867/files)      | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [y_belt_tensioner](https://www.thingiverse.com/thing:2149867/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 4.61m | 13.75g | £0.27 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
 
 > [!WARNING]
 > This has been replaced with a [version that can accept a GT2 pulley with teeth](#anet-a8-y-belt-tensioner-for-toothed-idler).
@@ -332,28 +332,28 @@ Belt tensioner to allow fine adjustment of the Y-Axis belt.
 
 3D printed inserts to add teeth to the stock smooth belt bearings.
 
-| Item                                                           | Quantity | Material                                                                | Size | Weight | Cost |      Printed       | Notes                                                             |
-| -------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------------- |
-| [idlerpulley](https://www.thingiverse.com/thing:2144338/files) | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |        |      | :heavy_check_mark: | This is a mod by [j0ker31m](https://www.thingiverse.com/j0ker31m) |
+| Item                                                           | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                             |
+| -------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------- |
+| [idlerpulley](https://www.thingiverse.com/thing:2144338/files) | 2        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 0.11m | 0.33g  | £0.01 | :heavy_check_mark: | This is a mod by [j0ker31m](https://www.thingiverse.com/j0ker31m) |
 
 > [!WARNING]
 > These were replaced by M3 16 tooth GT2 pulleys when they eventually broke down and cracked mid print causing the print to fail.
 
 ## Anet A8 X-belt tensioner for GT2 pulley
 
-| Item                                                                   | Quantity | Material                                                      | Size | Weight | Cost |      Printed       | Notes                                                                   |
-| ---------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------------------- |
-| [x_belt_tensioner](https://www.thingiverse.com/thing:2745367/files)    | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |      |        |      |        :x:         | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
-| [x_belt_tensioner_20](https://www.thingiverse.com/thing:2745367/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |      |        |      | :heavy_check_mark: | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
+| Item                                                                   | Quantity | Material                                                      | Size  | Weight | Cost  |      Printed       | Notes                                                                   |
+| ---------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------------- |
+| [x_belt_tensioner](https://www.thingiverse.com/thing:2745367/files)    | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |       |        |       |        :x:         | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
+| [x_belt_tensioner_20](https://www.thingiverse.com/thing:2745367/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 3.84m | 13.39g | £0.27 | :heavy_check_mark: | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
 
 ## Anet A8 Y belt tensioner for toothed idler
 
 ![Updated Y-Axis Belt Tensioner](/assets/blog/printer-printed-upgrades/y-belt-tensioner-updated.jpg)
 
-| Item                                                                                       | Quantity | Material                                                      | Size | Weight | Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | ---- | ------ | ---- | :----------------: | ----------------------------------------------------------- |
-| [Y_belt_tensioner_for_toothed_idler](https://www.thingiverse.com/thing:2341663/files)      | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |      |        |      | :heavy_check_mark: | This is a mod by [musta](https://www.thingiverse.com/musta) |
-| [Y_belt_tensioner_for_toothed_idler_11mm](https://www.thingiverse.com/thing:2341663/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |      |        |      |        :x:         | This is a mod by [musta](https://www.thingiverse.com/musta) |
+| Item                                                                                       | Quantity | Material                                                      | Size  | Weight | Cost  |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------- |
+| [Y_belt_tensioner_for_toothed_idler](https://www.thingiverse.com/thing:2341663/files)      | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) | 4.60m | 16.06g | £0.32 | :heavy_check_mark: | This is a mod by [musta](https://www.thingiverse.com/musta) |
+| [Y_belt_tensioner_for_toothed_idler_11mm](https://www.thingiverse.com/thing:2341663/files) | 1        | [Tinmorry PETG (White)](printer-filament#tinmorry-petg-white) |       |        |       |        :x:         | This is a mod by [musta](https://www.thingiverse.com/musta) |
 
 ## Anet A8 lightweight and unobtrusive X-axis cable chain
 
