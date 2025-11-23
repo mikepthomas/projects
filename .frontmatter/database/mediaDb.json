@@ -1900,8 +1900,8 @@
             "title": "Raspberry Pi 2 Cluster"
           },
           "raspberry-pi-3-cluster.jpg": {
-            "alt": "Updated Raspberry Pi cluster for Docker Swarm",
-            "title": "Raspberry Pi 3 Cluster"
+            "title": "Raspberry Pi 3 Cluster",
+            "alt": "Previous Raspberry Pi cluster for Docker Swarm"
           },
           "raspberry-pi-zero-cluster.jpg": {
             "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
