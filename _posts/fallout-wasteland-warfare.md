@@ -4,6 +4,7 @@ title: >
 heading: >
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
+lastmod: 2025-12-03T22:22:19.372Z
 author: Mike Thomas
 description: >
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -58,6 +59,42 @@ keywords:
 | [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
 | [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
 
+# Brotherhood of Steel Encampment
+
+![Print at Home - Brotherhood of Steel Encampment](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-656728.jpg)
+
+> Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
+
+- Campfire
+- Cooking Fire
+- Stump With Axe
+- Wood Pile
+- AA Turret
+- Barricade 1-5
+- Barricade Overturned Jeep
+- Concrete Barricade
+- Jeep
+- Ammo Pouch
+- Bed
+- Camp Stove
+- Construction Light
+- Dufflebag
+- Ham Radio
+- Metal Box
+- Pallet
+- Radio
+- Sleeping Bag
+- Table
+- Platform Curved
+- Platform Stairs
+- Platform Straight
+- Corpse 1-3
+- Tent 1-4
+- Tent Floor Large 1-6
+- Tent Floor Small 1-4
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl)
+
 # Drumlin Diner
 
 One of the locations in the [Wasteland Locales Map Pack](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales) is Drumlin Diner.
@@ -87,13 +124,45 @@ One of the locations in the [Wasteland Locales Map Pack](https://modiphius.net/p
 
 # Nuka World
 
+## Parking Lot
+
+![Print at Home - Nuka World Parking Lot](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-476325.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net/)
+
+These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
+
+The build can be found [on its own page](nuka-world).
+
+## Nuka Town, USA
+
+### Cola-Cars Arena
+
+![Print at Home - Cola-Cars Arena](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-cola-cars-arena-fallout-wasteland-warfare-modiphius-entertainment-179901.jpg)
+
+> Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
+
+- Bottle Stand 1-3
+- Cola Car 1-3
+- Cola Car Display Stand
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena)
+
 ## Dry Rock Gulch
+
+These are 3D printable STLs available to replace the [card parts](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) that come with the Fallout Factions [Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set).
 
 ### Buildings
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings).
+![Print at Home - Dry Rock Gulch Buildings](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings-fallout-wasteland-warfare-modiphius-entertainment-341918.jpg)
 
-There are parts available to replace the [card parts](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) that come with the Fallout Factions [Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set).
+> Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
+
+- Building 1-8
+- Windmill
+- Signage
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings).
 
 ### Bundle
 
@@ -104,21 +173,47 @@ There are parts available to replace the [card parts](https://files.elfsightcdn.
 - [Cacti Stands](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands)
 - [Stingwing Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests)
 
-I have not purchased most of these parts so have not decided on filament to print them in yet.
+## Galactic Zone
 
-## Parking Lot
+### Space Adventure
 
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
+![Print at Home - Galactic Zone, Space Adventure](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-galactic-zone-space-adventure-fallout-wasteland-warfare-modiphius-entertainment-513138.jpg)
 
-The build can be found [on its own page](nuka-world).
+> Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
 
-## Rides
+- Asteroids 1-5
+- Dead Alien Animatronics 1-2
+- Nuka-Girl Rocket
+- Nuka-Globes 1-2
+- Nuka-Rocket Car
 
-- [Cola-Cars Arena](https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena)
-- [Galactic Zone, Space Adventure](https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure)
-- [Kiddie Kingdom](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom)
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure)
 
-I have not purchased any of these parts so have not decided on filament to print them in yet.
+## Kiddie Kingdom
+
+### Blast Off!
+
+![Print at Home - Kiddie Kingdom](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-print-at-home-kiddie-kingdom-fallout-wasteland-warfare-modiphius-entertainment-655651.jpg)
+
+> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
+
+- Blast Off Ride Floor - Inner 1-8
+- Blast Off Ride Floor - Outer 1-8
+- Blast Off Ride Ring - Lower 1-8
+- Blast Off Ride Ring - Middle 1-4
+- Blast Off Ride Ring - Upper 1-8
+- Blast Off Ride Ring Signs 1-8
+- Blast Off Ride Rocket Arms 1-8
+- Blast Off Ride Rockets 1-8
+- Blast Off Ride Tower 1-8
+- Blast Off Ride Tower Brace 1-8
+- Sign Posts - various signs, poles, and posts
+- Tea-Cups 1-3
+- Tea-Cups - Saucer 1-3
+- Vendor Cart - various parts
+- Wrecked Ferris Wheel Car
+
+You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom)
 
 # Red Rocket
 
@@ -133,8 +228,10 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 # Sanctuary Hills
 
 - [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl)
-- [House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl?_pos=2&_sid=74ffd2a08&_ss=r)
+- [House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl)
+- [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl)
 - [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)
+- [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)
 - [Toys and Bobbleheads](modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl)
 
 I will use elements from all 4 sets to create my own version of Sanctuary Hills from Fallout 4. The build for this can be found [on its own page](sanctuary-hills).
