@@ -2,7 +2,7 @@
 title: Homelab
 heading: Putting together my homelab
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-11-23T15:28:08.963Z
+lastmod: 2025-12-06T23:43:49.087Z
 author: Mike Thomas
 description: Just a few things I use hardware and software for within my homelab.
 preview: /assets/blog/homelab/homelab-hero.jpg
@@ -60,9 +60,10 @@ How I have filled the rack units are as follows:
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Huey)
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Dewey)
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Louie)
-- 2U [Raspberry Pi Rack Mount](#raspberry-pi-rack-mount)
+- 1U [Network Switch Rack Mount](#network-switch-rack-mount)
+- 2U [Raspberry Pi Cluster](#raspberry-pi-cluster)
 - 1U [keyboard-video-and-mouse-switch-kvm](#keyboard-video-and-mouse-switch-kvm)
-- 2U [USB Power and Raspberry Pi Cluster](#raspberry-pi-clusters)
+- 1U [Tecmojo 1U Rack Mount Shelf](https://www.amazon.co.uk/dp/B0F4JYXC5Z)
 - 1U [Power Distribution](https://www.amazon.co.uk/dp/B00MODRM8Y)
 
 ## Mini PC Rack Shelf
@@ -71,33 +72,33 @@ How I have filled the rack units are as follows:
 | ----------------------------------------------------------------------------------- | -------- | -------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------- |
 | ~[Lenovo Thinkcentre Tiny 1U Rack Mount](https://www.printables.com/model/1040412)~ | 3        | ~[eSun ABS+ (Red)](printer-filament#esun-abs-red)~ |      |        |      |   :x:   | Replaced by [DeskPi RackMate 10" Mini PC Rack Shelf](https://www.amazon.co.uk/dp/B0FN44R7F2) |
 
-## Raspberry Pi Rack Mount
+## Network Switch Rack Mount
+
+| Item                                                                                    | Quantity | Material                                             | Size   | Weight  | Cost  | Printed | Notes                                                             |
+| --------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------- | ----- | :-----: | ----------------------------------------------------------------- |
+| [TP-Link TL-SG105-M2 2.5G 10-inch Rack Mount](https://www.printables.com/model/1479309) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 49.67m | 126.64g | £2.07 |   :x:   | For [TP-Link TL-SG105-M2](https://www.amazon.co.uk/dp/B08SWPLGXF) |
+
+## Raspberry Pi Cluster
 
 | Item                                                                         | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
 | ---------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [10' - 1U - 3 RPI - Base](https://www.printables.com/model/952392)           | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 4 - Left](https://www.printables.com/model/952392)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 4 - Middle](https://www.printables.com/model/952392) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 4 - Right](https://www.printables.com/model/952392)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 5 - Left](https://www.printables.com/model/952392)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 5 - Middle](https://www.printables.com/model/952392) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [10' - 1U - 3 RPI - RPI 5 - Right](https://www.printables.com/model/952392)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - Base](https://www.printables.com/model/952392)           | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 4 - Left](https://www.printables.com/model/952392)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 4 - Middle](https://www.printables.com/model/952392) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 4 - Right](https://www.printables.com/model/952392)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 5 - Left](https://www.printables.com/model/952392)   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 5 - Middle](https://www.printables.com/model/952392) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [10" - 1U - 3 RPI - RPI 5 - Right](https://www.printables.com/model/952392)  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
-# Keyboard, Video, and Mouse Switch (KVM)
-
-![A Raspberry Pi powered KVM Switch](/assets/blog/homelab/pikvm.jpg)
-
-I use a Raspberry Pi 4 under my desk as a KVM switch using [PiKVM](https://pikvm.org/) alongside an [Ezcoo EZ-SW41HA-KVMU3L](https://docs.pikvm.org/ezcoo/) to access 4 machines over my network.
-
-# Raspberry Pi Clusters
-
-## Current
+### Current
 
 ![8086 Cluster Hat with 4 Raspberry Pi Zeros](/assets/blog/homelab/raspberry-pi-zero-cluster.jpg)
 
-My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat that is quite cool due to it using USB gadget mode of the Raspberry Pi Zero to boot up the Raspberry Pis over USB therefore they do not require their own MicroSD cards and can share the storage of the controller Pi... However after some testing, adding their own SD cards speeds up disk reads and writes considerably under load.
+My Raspberry Pi Zero cluster was assembled using a 8086 Cluster Hat which uses USB gadget mode on the Raspberry Pi Zeros to boot up the Raspberry Pis over USB, therefore they do not require their own MicroSD cards and can share the storage of the main Raspberry Pi... However after some testing, adding their own SD cards speeds up disk reads and writes considerably under load.
 
-## Previous
+This has currently been installed in the 1U Rack Mount SBC Shelf that came with the Tecmojo 10" Desktop Mini Rack.
+
+### Previous
 
 ![Previous Raspberry Pi cluster for Docker Swarm](/assets/blog/homelab/raspberry-pi-3-cluster.jpg)
 
@@ -107,13 +108,19 @@ I cleaned it up with some isopropyl alcohol and re-assembled it with some new sc
 
 I assembled this cluster to learn all about Containerization using [Docker Swarm mode](https://docs.docker.com/engine/swarm) and eventually, Kubernetes using [MicroK8s](https://microk8s.io/), however the Raspberry Pi 3s are a little too slow to fully run a K8s cluster with more than a handful of containers.
 
-## Original
+### Original
 
 ![My original Raspberry Pi cluster](/assets/blog/homelab/raspberry-pi-2-cluster.jpg)
 
 This was my original Raspberry Pi cluster, It was originally 4 layers however I managed to find a case that fit perfectly to add an additional layer. If you look hard enough, you will see that the fan of the bottom layer is in a slightly different place and the standoffs are slightly shorter.
 
 The cluster was later repurposed to learn [Ansible](https://www.ansible.com) when the Raspberry Pi 2s became a little too slow to run Docker.
+
+# Keyboard, Video, and Mouse Switch (KVM)
+
+![A Raspberry Pi powered KVM Switch](/assets/blog/homelab/pikvm.jpg)
+
+I use a Raspberry Pi 4 under my desk as a KVM switch using [PiKVM](https://pikvm.org/) alongside an [Ezcoo EZ-SW41HA-KVMU3L](https://docs.pikvm.org/ezcoo/) to access 4 machines over my network.
 
 # Network Attached Storage (NAS)
 
