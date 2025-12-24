@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-10-12T15:15:14.216Z
+lastmod: 2025-12-24T12:54:23.431Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -488,7 +488,7 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Labor Scope
 
-[Erica Synths EDU DIY Labor Scope](https://www.youtube.com/embed/8YweHBtXg0k)
+[Erica Synths EDU DIY Labor Scope](https://www.youtube-nocookie.com/embed/8YweHBtXg0k)
 
 > Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
@@ -1300,92 +1300,6 @@ The order of the modules for the second case will be as follows:
 
 ![Modular Grid EDU DIY Drums and Effects](https://cdn.modulargrid.net/img/racks/modulargrid_2941319.jpg 'mki x es.EDU Drums and Effects layout on Modular Grid')
 
-### Compressor
-
-Kit contains the `Quantity` needed for building 1 unit.
-
-#### PCB
-
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUCOMP2 PCB         | 1        |
-| EDUCOMP2 Front Panel | 1        |
-
-#### Capacitors
-
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1.5uF)        | 3        |
-| Ceramic Capacitor (100nF)     | 8        |
-| Ceramic Capacitor (680pF)     | 1        |
-
-#### Diodes
-
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Signal Diode (1N4148)  | 13       |
-| Schottky Diode (SB140) | 2        |
-
-#### Integrated Circuits
-
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Transistor NPN (2N3904) | 5        |
-| Op Amp Dual (TL072)     | 2        |
-| Op Amp Quad (TL074)     | 1        |
-| 8 Pin DIP Sockets       | 2        |
-| 14 Pin DIP Sockets      | 1        |
-
-#### Potentiometers
-
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (A1M)   | 1        |
-| Vertical Trim Potentiometer (A500K) | 1        |
-| Vertical Trim Potentiometer (A100K) | 2        |
-| Vertical Trim Potentiometer (A20K)  | 1        |
-| Vertical Trim Potentiometer (A10K)  | 1        |
-
-#### Resistors
-
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (470K) | 2        |
-| Metal Film resistor (330K) | 1        |
-| Metal Film resistor (220K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 11       |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (33K)  | 4        |
-| Metal Film resistor (20K)  | 1        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (3.3K) | 4        |
-| Metal Film resistor (2K)   | 1        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (200R) | 1        |
-| Metal Film resistor (10R)  | 2        |
-
-#### Misc
-
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 3        |
-| 3mm Red LED           | 2        |
-| 3mm Green LED         | 3        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
-
-### How It Works
-
-[Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
-
-> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor)
-
 ### Bucket Brigade Delay (BBD)
 
 Kit contains the `Quantity` needed for building 1 unit.
@@ -1476,6 +1390,168 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/BBD_MANUAL_250228.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-bbd)
 
+### Compressor
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| EDUCOMP2 PCB         | 1        |
+| EDUCOMP2 Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1.5uF)        | 3        |
+| Ceramic Capacitor (100nF)     | 8        |
+| Ceramic Capacitor (680pF)     | 1        |
+
+#### Diodes
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Signal Diode (1N4148)  | 13       |
+| Schottky Diode (SB140) | 2        |
+
+#### Integrated Circuits
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Transistor NPN (2N3904) | 5        |
+| Op Amp Dual (TL072)     | 2        |
+| Op Amp Quad (TL074)     | 1        |
+| 8 Pin DIP Sockets       | 2        |
+| 14 Pin DIP Sockets      | 1        |
+
+#### Potentiometers
+
+| Item                                | Quantity |
+| ----------------------------------- | -------- |
+| Vertical Trim Potentiometer (A1M)   | 1        |
+| Vertical Trim Potentiometer (A500K) | 1        |
+| Vertical Trim Potentiometer (A100K) | 2        |
+| Vertical Trim Potentiometer (A20K)  | 1        |
+| Vertical Trim Potentiometer (A10K)  | 1        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (470K) | 2        |
+| Metal Film resistor (330K) | 1        |
+| Metal Film resistor (220K) | 1        |
+| Metal Film resistor (120K) | 1        |
+| Metal Film resistor (100K) | 11       |
+| Metal Film resistor (47K)  | 1        |
+| Metal Film resistor (33K)  | 4        |
+| Metal Film resistor (20K)  | 1        |
+| Metal Film resistor (10K)  | 4        |
+| Metal Film resistor (3.3K) | 4        |
+| Metal Film resistor (2K)   | 1        |
+| Metal Film resistor (470R) | 1        |
+| Metal Film resistor (200R) | 1        |
+| Metal Film resistor (10R)  | 2        |
+
+#### Misc
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Mono Audio Jack       | 3        |
+| 3mm Red LED           | 2        |
+| 3mm Green LED         | 3        |
+| 10 Pin Power Header   | 1        |
+| 10-16 pin Power Cable | 1        |
+
+### How It Works
+
+[Moritz Klein's DIY Effects Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLHeL0JWdJLvQeWCS5kOJJf2vuoYNQj1Cb)
+
+> Videos © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor)
+
+### Drum Mixer
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                | Quantity |
+| ------------------- | -------- |
+| EMIXDR1C PCB        | 1        |
+| EMIXDR1M PCB        | 1        |
+| EMIXDR1 Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (1uF)          | 1        |
+| Ceramic Capacitor (100nF)     | 8        |
+| Ceramic Capacitor (220pF)     | 2        |
+| Ceramic Capacitor (22pF)      | 1        |
+
+#### Diodes
+
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Signal Diode (1N4148)   | 2        |
+| Schottky Diode (1N5819) | 2        |
+
+#### Integrated Circuits
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| 8 Pin DIP Sockets           | 1        |
+| 14 Pin DIP Sockets          | 2        |
+| Op Amp Quad (TL074)         | 2        |
+| Power Op Amp Dual (NJM4556) | 1        |
+
+#### Potentiometers
+
+| Item                                | Quantity |
+| ----------------------------------- | -------- |
+| Vertical Trim Potentiometer (A100K) | 9        |
+| Vertical Trim Potentiometer (B100K) | 1        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (100K) | 16       |
+| Metal Film resistor (33K)  | 1        |
+| Metal Film resistor (15K)  | 2        |
+| Metal Film resistor (10K)  | 2        |
+| Metal Film resistor (3.3K) | 2        |
+| Metal Film resistor (470R) | 4        |
+| Metal Film resistor (10R)  | 4        |
+
+#### Misc
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Mono Audio Jack       | 8        |
+| Stereo Audio Jack     | 2        |
+| 10 Pin Power Header   | 1        |
+| 10-16 pin Power Cable | 1        |
+
+### How It Works
+
+[Moritz Klein's DIY Drum Mixer Video](https://www.youtube-nocookie.com/embed/BgYF2dBojpA)
+
+> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/OUTPUT_MIXER2_MANUAL_v2.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-output-2-drums-mixer)
+
 ### Drum Sequencer
 
 Kit contains the `Quantity` needed for building 1 unit.
@@ -1556,6 +1632,8 @@ Kit contains the `Quantity` needed for building 1 unit.
 | Push Button (Cherry MX)                        | 4        |
 | 3mm Red LED                                    | 3        |
 | 1.8mm Red LED                                  | 4        |
+| 10 Pin Power Header                            | 1        |
+| 10-16 pin Power Cable                          | 1        |
 
 ### How It Works
 
@@ -1567,89 +1645,103 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/DRUM_SEQUENCER_MANUAL_compressed.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-drum-sequencer)
 
-### Kick Drum
+### FM Drum
 
 Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUKICK2 PCB         | 1        |
-| EDUKICK2 Front Panel | 1        |
+| Item                | Quantity |
+| ------------------- | -------- |
+| EDUFMD2 PCB         | 1        |
+| EDUFMD2 Front Panel | 1        |
 
 #### Capacitors
 
 | Item                          | Quantity |
 | ----------------------------- | -------- |
 | Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (220nF)        | 1        |
-| Ceramic Capacitor (100nF)     | 6        |
-| Film Capacitor (15nF)         | 3        |
-| Film Capacitor (10nF)         | 1        |
-| Film Capacitor (3.3nF)        | 1        |
+| Film Capacitor (1uF)          | 1        |
+| Ceramic Capacitor (470nF)     | 1        |
+| Ceramic Capacitor (100nF)     | 4        |
+| Film Capacitor (15nF)         | 1        |
+| Ceramic Capacitor (10nF)      | 1        |
+| Film Capacitor (5.6nF)        | 1        |
+| Film Capacitor (2.2nF)        | 1        |
+| Film Capacitor (470pF)        | 2        |
+| Film Capacitor (330pF)        | 1        |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 7        |
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Schottky Diode (1N5819) | 2        |
+| Signal Diode (1N4148)   | 18       |
 
 #### Integrated Circuits
 
 | Item                   | Quantity |
 | ---------------------- | -------- |
-| Transistor NPN (BC548) | 3        |
-| Transistor PNP (BC558) | 2        |
-| Op Amp Dual (TL072)    | 2        |
-| 8 Pin DIP Sockets      | 2        |
+| Transistor NPN (BC548) | 8        |
+| Transistor PNP (BC558) | 5        |
+| Op Amp Dual (TL072)    | 1        |
+| Op Amp Quad (TL074)    | 1        |
+| 8 Pin DIP Sockets      | 1        |
+| 14 Pin DIP Sockets     | 1        |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Alpha Potentiometer (B1M)  | 1        |
-| Vertical Trim Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (A100K) | 1        |
-| Vertical Trim Potentiometer (B100K) | 2        |
-| Vertical Trim Potentiometer (B50K)  | 1        |
-| Vertical Trim Potentiometer (B10K)  | 1        |
+| Item                                 | Quantity |
+| ------------------------------------ | -------- |
+| PCB Mount Trim Potentiometer (2M)    | 1        |
+| Vertical Trim Potentiometer (B1M)    | 1        |
+| Vertical Trim Potentiometer (A500K)  | 1        |
+| Vertical Trim Potentiometer (B250K)  | 1        |
+| Vertical Alpha Potentiometer (A100K) | 2        |
+| Vertical Trim Potentiometer (A100K)  | 1        |
 
 #### Resistors
 
 | Item                       | Quantity |
 | -------------------------- | -------- |
-| Metal Film resistor (1M)   | 2        |
-| Metal Film resistor (470K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 5        |
-| Metal Film resistor (47K)  | 2        |
-| Metal Film resistor (39K)  | 1        |
-| Metal Film resistor (33K)  | 2        |
-| Metal Film resistor (14K)  | 1        |
-| Metal Film resistor (10K)  | 2        |
-| Metal Film resistor (2K)   | 1        |
-| Metal Film resistor (1K)   | 3        |
+| Metal Film resistor (1M)   | 4        |
+| Metal Film resistor (470K) | 3        |
+| Metal Film resistor (330K) | 1        |
+| Metal Film resistor (200K) | 1        |
+| Metal Film resistor (100K) | 16       |
+| Metal Film resistor (68K)  | 1        |
+| Metal Film resistor (51K)  | 2        |
+| Metal Film resistor (47K)  | 1        |
+| Metal Film resistor (39K)  | 2        |
+| Metal Film resistor (33K)  | 3        |
+| Metal Film resistor (18K)  | 1        |
+| Metal Film resistor (10K)  | 7        |
+| Metal Film resistor (5.6K) | 1        |
+| Metal Film resistor (4.7K) | 1        |
+| Metal Film resistor (2K)   | 2        |
+| Metal Film resistor (1K)   | 4        |
+| Metal Film resistor (470R) | 1        |
+| Metal Film resistor (47R)  | 1        |
 | Metal Film resistor (10R)  | 2        |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 4        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                                  | Quantity |
+| ------------------------------------- | -------- |
+| Mono Audio Jack                       | 5        |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 2        |
+| 10 Pin Power Header                   | 1        |
+| 10-16 pin Power Cable                 | 1        |
 
 ### How It Works
 
-[Moritz Klein's DIY Kick Drum Video](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
+[Moritz Klein's DIY FM Drum Video](https://www.youtube-nocookie.com/embed/Xbl1xwFR3eg)
 
-> Video © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/KICKDRUM_MANUAL_5wVQsEK.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-kick-drum)
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/FM_DRUM_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-fm-drum)
 
 ### Hi-Hat
 
@@ -1744,6 +1836,90 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/HIHAT_MANUAL_1.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-hi-hat)
 
+### Kick Drum
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                 | Quantity |
+| -------------------- | -------- |
+| EDUKICK2 PCB         | 1        |
+| EDUKICK2 Front Panel | 1        |
+
+#### Capacitors
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| Electrolytic Capacitor (47uF) | 2        |
+| Film Capacitor (220nF)        | 1        |
+| Ceramic Capacitor (100nF)     | 6        |
+| Film Capacitor (15nF)         | 3        |
+| Film Capacitor (10nF)         | 1        |
+| Film Capacitor (3.3nF)        | 1        |
+
+#### Diodes
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Schottky Diode (SB140) | 2        |
+| Signal Diode (1N4148)  | 7        |
+
+#### Integrated Circuits
+
+| Item                   | Quantity |
+| ---------------------- | -------- |
+| Transistor NPN (BC548) | 3        |
+| Transistor PNP (BC558) | 2        |
+| Op Amp Dual (TL072)    | 2        |
+| 8 Pin DIP Sockets      | 2        |
+
+#### Potentiometers
+
+| Item                                | Quantity |
+| ----------------------------------- | -------- |
+| Vertical Alpha Potentiometer (B1M)  | 1        |
+| Vertical Trim Potentiometer (B250K) | 1        |
+| Vertical Trim Potentiometer (A100K) | 1        |
+| Vertical Trim Potentiometer (B100K) | 2        |
+| Vertical Trim Potentiometer (B50K)  | 1        |
+| Vertical Trim Potentiometer (B10K)  | 1        |
+
+#### Resistors
+
+| Item                       | Quantity |
+| -------------------------- | -------- |
+| Metal Film resistor (1M)   | 2        |
+| Metal Film resistor (470K) | 1        |
+| Metal Film resistor (120K) | 1        |
+| Metal Film resistor (100K) | 5        |
+| Metal Film resistor (47K)  | 2        |
+| Metal Film resistor (39K)  | 1        |
+| Metal Film resistor (33K)  | 2        |
+| Metal Film resistor (14K)  | 1        |
+| Metal Film resistor (10K)  | 2        |
+| Metal Film resistor (2K)   | 1        |
+| Metal Film resistor (1K)   | 3        |
+| Metal Film resistor (10R)  | 2        |
+
+#### Misc
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Mono Audio Jack       | 4        |
+| 10 Pin Power Header   | 1        |
+| 10-16 pin Power Cable | 1        |
+
+### How It Works
+
+[Moritz Klein's DIY Kick Drum Video](https://www.youtube-nocookie.com/embed/yz37Yz315eU)
+
+> Video © 2023 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/KICKDRUM_MANUAL_5wVQsEK.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-kick-drum)
+
 ### Snare Drum
 
 Kit contains the `Quantity` needed for building 1 unit.
@@ -1831,102 +2007,6 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/SNARE_MANUAL_Q9zNEN3.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-snare-drum)
-
-### FM Drum
-
-Kit contains the `Quantity` needed for building 1 unit.
-
-#### PCB
-
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUFMD2 PCB         | 1        |
-| EDUFMD2 Front Panel | 1        |
-
-#### Capacitors
-
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (470nF)     | 1        |
-| Ceramic Capacitor (100nF)     | 4        |
-| Film Capacitor (15nF)         | 1        |
-| Ceramic Capacitor (10nF)      | 1        |
-| Film Capacitor (5.6nF)        | 1        |
-| Film Capacitor (2.2nF)        | 1        |
-| Film Capacitor (470pF)        | 2        |
-| Film Capacitor (330pF)        | 1        |
-
-#### Diodes
-
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Schottky Diode (1N5819) | 2        |
-| Signal Diode (1N4148)   | 18       |
-
-#### Integrated Circuits
-
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 8        |
-| Transistor PNP (BC558) | 5        |
-| Op Amp Dual (TL072)    | 1        |
-| Op Amp Quad (TL074)    | 1        |
-| 8 Pin DIP Sockets      | 1        |
-| 14 Pin DIP Sockets     | 1        |
-
-#### Potentiometers
-
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| PCB Mount Trim Potentiometer (2M)    | 1        |
-| Vertical Trim Potentiometer (B1M)    | 1        |
-| Vertical Trim Potentiometer (A500K)  | 1        |
-| Vertical Trim Potentiometer (B250K)  | 1        |
-| Vertical Alpha Potentiometer (A100K) | 2        |
-| Vertical Trim Potentiometer (A100K)  | 1        |
-
-#### Resistors
-
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 4        |
-| Metal Film resistor (470K) | 3        |
-| Metal Film resistor (330K) | 1        |
-| Metal Film resistor (200K) | 1        |
-| Metal Film resistor (100K) | 16       |
-| Metal Film resistor (68K)  | 1        |
-| Metal Film resistor (51K)  | 2        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (39K)  | 2        |
-| Metal Film resistor (33K)  | 3        |
-| Metal Film resistor (18K)  | 1        |
-| Metal Film resistor (10K)  | 7        |
-| Metal Film resistor (5.6K) | 1        |
-| Metal Film resistor (4.7K) | 1        |
-| Metal Film resistor (2K)   | 2        |
-| Metal Film resistor (1K)   | 4        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (47R)  | 1        |
-| Metal Film resistor (10R)  | 2        |
-
-#### Misc
-
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| Mono Audio Jack                       | 5        |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch | 2        |
-
-### How It Works
-
-[Moritz Klein's DIY FM Drum Video](https://www.youtube-nocookie.com/embed/Xbl1xwFR3eg)
-
-> Video © 2025 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
-
-### :negative_squared_cross_mark: Assembly
-
-Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/FM_DRUM_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-fm-drum)
 
 # Bleep Sound
 
