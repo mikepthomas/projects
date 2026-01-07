@@ -2,7 +2,7 @@
 title: Thinkcenter
 heading: Getting small machines to create a Proxmox cluster
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-11-23T16:15:56.074Z
+lastmod: 2026-01-07T22:38:06.559Z
 author: Mike Thomas
 description: Making old outdated machines do modern things.
 preview: /assets/blog/thinkcenter/thinkcenter-hero.jpg
@@ -47,30 +47,35 @@ The replacement for "Shed Server" was named "Lenny" (just because it is a Lenovo
 
 ### Router
 
-| Item  | CPU      | Memory               | Wifi | Ethernet                                                                     | Storage                                                      | OS                                              | Hostname | Notes                                   |
-| ----- | -------- | -------------------- | ---- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | -------- | --------------------------------------- |
-| M720Q | i5-8500T | 16GB Ramaxel 2666MHz |      | Intel Ethernet Connection I219-V & Intel PRO I350 Quad Port Gigabit Ethernet | 512GB Micron 3400 M.2 NVME SSD & 256GB Sandisk 2.5" SATA SSD | [Proxmox VE (8.4.14)](https://www.proxmox.com/) | Scrooge  | With Lenovo VESA Mount to mount to wall |
+| Item  | CPU      | Memory              | Wifi                            | Ethernet                                                | Storage                     | OS                                             | Hostname  | Notes |
+| ----- | -------- | ------------------- | ------------------------------- | ------------------------------------------------------- | --------------------------- | ---------------------------------------------- | --------- | ----- |
+| M720Q | i5-8400T | 16GB Micron 2133MHz | Intel Wireless 8265, No Antenna | Intel I219-V Gigabit & Intel PRO I350 Quad Port Gigabit | 256GB Sandisk 2.5" SATA SSD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Scrooge   |       |
+| M720Q | i5-8400T | 16GB Micron 2666MHz | Intel Wireless 8265, No Antenna | Intel I219-V Gigabit & Intel PRO I350 Quad Port Gigabit | 256GB Sandisk 2.5" SATA SSD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Duckworth |       |
 
 > [!NOTE]
-> This machine will not be part of the main Proxmox cluster but will replace my main router with a OPNsense VM, and will also host VMs for [Proxmox Datacenter Manager](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-alpha) and [Sonatype Nexus Repository Community Edition](https://www.sonatype.com/products/nexus-community-edition-download)
+> These machines will not be part of the main Proxmox cluster but will replace some aging and no longer supported gigabit switches in the house, and will also host VMs for [Proxmox Datacenter Manager](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-alpha) and [Sonatype Nexus Repository Community Edition](https://www.sonatype.com/products/nexus-community-edition-download)
 
 ### Proxmox Cluster
 
-| Item  | CPU      | Memory                | Wifi                            | Ethernet                                                                     | Storage                                                        | OS                                             | Hostname | Notes                                         |
-| ----- | -------- | --------------------- | ------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------- | -------- | --------------------------------------------- |
-| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Intel Wireless 8265, No Antenna | Intel Ethernet Connection I219-V                                             | 1TB Crucial P3 Plus M.2 NVME SSD & 256GB Samsung 2.5" SATA SSD | [Proxmox VE (9.1.1)](https://www.proxmox.com/) | Huey     | Will be installed in [10" Rack](homelab#rack) |
-| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Intel Wireless 8265, No Antenna | Intel Ethernet Connection I219-V                                             | 1TB Crucial P3 Plus M.2 NVME SSD & 256GB Samsung 2.5" SATA SSD | [Proxmox VE (9.1.1)](https://www.proxmox.com/) | Dewey    | Will be installed in [10" Rack](homelab#rack) |
-| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Intel Wireless 8265, No Antenna | Intel Ethernet Connection I219-V & Intel PRO I350 Quad Port Gigabit Ethernet | 1TB Crucial P3 Plus M.2 NVME SSD & 256GB Sandisk 2.5" SATA SSD | [Proxmox VE (9.1.1)](https://www.proxmox.com/) | Louie    | Will be installed in [10" Rack](homelab#rack) |
+| Item  | CPU      | Memory                | Wifi    | Ethernet                                      | NVME                             | SATA                            | OS                                             | Hostname | Notes                                                   |
+| ----- | -------- | --------------------- | ------- | --------------------------------------------- | -------------------------------- | ------------------------------- | ---------------------------------------------- | -------- | ------------------------------------------------------- |
+| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Removed | Intel I219-V Gigabit & Realtek RTL8125 2.5GbE | 1TB Crucial P3 Plus M.2 NVME SSD | 256GB Micron 1300 2.5" SATA SSD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Huey     | Will be installed in [10" Rack](homelab#10-server-rack) |
+| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Removed | Intel I219-V Gigabit & Realtek RTL8125 2.5GbE | 1TB Crucial P3 Plus M.2 NVME SSD | 256GB Micron 1300 2.5" SATA SSD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Dewey    | Will be installed in [10" Rack](homelab#10-server-rack) |
+| M720Q | i5-8500T | 32GB Hypertec 2400MHz | Removed | Intel I219-V Gigabit & Realtek RTL8125 2.5GbE | 1TB Crucial P3 Plus M.2 NVME SSD | 256GB Micron 1300 2.5" SATA SSD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Louie    | Will be installed in [10" Rack](homelab#10-server-rack) |
+
+#### Spare
+
+| Item  | CPU      | Memory               | Wifi | Ethernet             | NVME                           | SATA                            | OS                                              | Hostname | Notes |
+| ----- | -------- | -------------------- | ---- | -------------------- | ------------------------------ | ------------------------------- | ----------------------------------------------- | -------- | ----- |
+| M720Q | i5-8500T | 16GB Ramaxel 2666MHz |      | Intel I219-V Gigabit | 512GB Micron 3400 M.2 NVME SSD | 256GB Micron 1300 2.5" SATA SSD | [Proxmox VE (8.4.14)](https://www.proxmox.com/) |          |       |
 
 ### Desktops
 
-| Item  | CPU      | Memory                | Wifi                             | Ethernet                         | Storage                                                  | OS                                             | Hostname | Notes                                                           |
-| ----- | -------- | --------------------- | -------------------------------- | -------------------------------- | -------------------------------------------------------- | ---------------------------------------------- | -------- | --------------------------------------------------------------- |
-| M720Q | i5-8400T | 16GB Micron 2133MHz   |                                  | Intel Ethernet Connection I219-V | 256GB Micron 1300 2.5" SATA SSD                          | Windows 11 Pro 64                              |          |                                                                 |
-| M720Q | i5-8400T | 16GB Micron 2666MHz   | Intel Wireless 8265              | Intel Ethernet Connection I219-V | 256GB Micron 1300 2.5" SATA SSD                          | Windows 11 Pro 64                              |          |                                                                 |
-| M720Q | i5-9400T | 16GB SK Hynix 2666MHz |                                  | Intel Ethernet Connection I219-V | 256GB Micron 1300 2.5" SATA SSD                          | Windows 11 Pro 64                              |          |                                                                 |
-| M720Q | i5-9400T | 16GB SK Hynix 2666MHz | Intel Wireless 8265              | Intel Ethernet Connection I219-V | 256GB Micron 1300 2.5" SATA SSD                          | Windows 11 Pro 64                              |          |                                                                 |
-| M710Q | i7-7700T | 16GB SK Hynix 2400MHz | Intel Dual Band Wireless-AC 3165 | Intel Ethernet Connection I219-V | 256GB WD Black M.2 NVME SSD & 1TB WD Black 2.5" SATA HDD | [Proxmox VE (9.1.1)](https://www.proxmox.com/) | Donald   | Currently using to test upgrade to Proxmox 9 with Debian Trixie |
+| Item  | CPU      | Memory                | Wifi                                           | Ethernet             | NVME                        | SATA                        | OS                                             | Hostname | Notes                  |
+| ----- | -------- | --------------------- | ---------------------------------------------- | -------------------- | --------------------------- | --------------------------- | ---------------------------------------------- | -------- | ---------------------- |
+| M720Q | i5-9400T | 16GB SK Hynix 2666MHz | Intel Wireless 8265, With Antenna              | Intel I219-V Gigabit |                             | 256GB Samsung 2.5" SATA SSD | Windows 11 Pro 64                              |          |                        |
+| M720Q | i5-9400T | 16GB SK Hynix 2666MHz | Intel Wireless 8265, With Antenna              | Intel I219-V Gigabit |                             | 256GB Samsung 2.5" SATA SSD | Windows 11 Pro 64                              |          |                        |
+| M710Q | i7-7700T | 16GB SK Hynix 2400MHz | Intel Dual Band Wireless-AC 3165, With Antenna | Intel I219-V Gigabit | 256GB WD Black M.2 NVME SSD | 1TB WD Black 2.5" SATA SSHD | [Proxmox VE (9.1.4)](https://www.proxmox.com/) | Donald   | With Lenovo VESA Mount |
 
 # Sonatype Nexus Repository
 
