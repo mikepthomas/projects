@@ -2,7 +2,7 @@
 title: Homelab
 heading: Putting together my homelab
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2025-12-06T23:43:49.087Z
+lastmod: 2026-01-21T22:34:45.818Z
 author: Mike Thomas
 description: Just a few things I use hardware and software for within my homelab.
 preview: /assets/blog/homelab/homelab-hero.jpg
@@ -57,26 +57,27 @@ I managed to get a good deal on the 9U Tecmojo 10” Desktop Mini Rack at £76.4
 
 How I have filled the rack units are as follows:
 
+- Network Switch on top of rack
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Huey)
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Dewey)
 - 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf) (Louie)
-- 1U [Network Switch Rack Mount](#network-switch-rack-mount)
+- 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf)
+- 1U [Mini PC Rack Shelf](#mini-pc-rack-shelf)
 - 2U [Raspberry Pi Cluster](#raspberry-pi-cluster)
 - 1U [keyboard-video-and-mouse-switch-kvm](#keyboard-video-and-mouse-switch-kvm)
-- 1U [Tecmojo 1U Rack Mount Shelf](https://www.amazon.co.uk/dp/B0F4JYXC5Z)
-- 1U [Power Distribution](https://www.amazon.co.uk/dp/B00MODRM8Y)
+- 1U [Power Distribution](https://www.amazon.co.uk/dp/B00MOD0I6C)
 
 ## Mini PC Rack Shelf
 
 | Item                                                                                | Quantity | Material                                           | Size | Weight | Cost | Printed | Notes                                                                                        |
 | ----------------------------------------------------------------------------------- | -------- | -------------------------------------------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------- |
-| ~[Lenovo Thinkcentre Tiny 1U Rack Mount](https://www.printables.com/model/1040412)~ | 3        | ~[eSun ABS+ (Red)](printer-filament#esun-abs-red)~ |      |        |      |   :x:   | Replaced by [DeskPi RackMate 10" Mini PC Rack Shelf](https://www.amazon.co.uk/dp/B0FN44R7F2) |
+| ~[Lenovo Thinkcentre Tiny 1U Rack Mount](https://www.printables.com/model/1040412)~ | ~5~      | ~[eSun ABS+ (Red)](printer-filament#esun-abs-red)~ |      |        |      |   :x:   | Replaced by [DeskPi RackMate 10" Mini PC Rack Shelf](https://www.amazon.co.uk/dp/B0FN44R7F2) |
 
 ## Network Switch Rack Mount
 
-| Item                                                                                    | Quantity | Material                                             | Size   | Weight  | Cost  | Printed | Notes                                                             |
-| --------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------- | ----- | :-----: | ----------------------------------------------------------------- |
-| [TP-Link TL-SG105-M2 2.5G 10-inch Rack Mount](https://www.printables.com/model/1479309) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 49.67m | 126.64g | £2.07 |   :x:   | For [TP-Link TL-SG105-M2](https://www.amazon.co.uk/dp/B08SWPLGXF) |
+| Item                                                                                      | Quantity | Material                                               | Size   | Weight  | Cost  | Printed | Notes                                                             |
+| ----------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ------ | ------- | ----- | :-----: | ----------------------------------------------------------------- |
+| ~[TP-Link TL-SG105-M2 2.5G 10-inch Rack Mount](https://www.printables.com/model/1479309)~ | ~1~      | ~[eSun ABS+ (Black)](printer-filament#esun-abs-black)~ | 49.67m | 126.64g | £2.07 |   :x:   | For [TP-Link TL-SG105-M2](https://www.amazon.co.uk/dp/B08SWPLGXF) |
 
 ## Raspberry Pi Cluster
 
@@ -134,11 +135,9 @@ It also used to be used to run a handful of Docker containers, however, since ma
 
 ## Backups and Media
 
-- 2TB 2.5" Western Digital Blue £30.00
-- 32GB Corsair Vengeance 3000MHz £37.99
-- Generic PCIe SATA 3.0 Expansion Card £7.50
-- MSI H310M PRO-M2 PLUS for £43.39
-- Stone Small Factor case with 250W PSU for £14.12
+| Item                             | CPU                      | Memory                                | Case                                             | Storage                              | OS                                              | Hostname | Notes                                      |
+| -------------------------------- | ------------------------ | ------------------------------------- | ------------------------------------------------ | ------------------------------------ | ----------------------------------------------- | -------- | ------------------------------------------ |
+| MSI H310M PRO-M2 PLUS for £43.39 | Intel i7-8700 for £57.90 | 32GB Corsair Vengeance 3000MHz £37.99 | Stone Small Factor case with 250W PSU for £14.12 | 2TB 2.5" Western Digital Blue £30.00 | [Proxmox VE (8.4.16)](https://www.proxmox.com/) | larry    | Generic PCIe SATA 3.0 Expansion Card £7.50 |
 
 # Flight Tracker
 
