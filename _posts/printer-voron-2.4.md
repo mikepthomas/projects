@@ -2,7 +2,7 @@
 title: Voron 2.4
 heading: Building the Flying Gantry Voron
 date: 2024-05-14T21:10:30.971Z
-lastmod: 2025-10-25T22:09:45.685Z
+lastmod: 2026-01-26T17:08:42.837Z
 author: Mike Thomas
 description: Building another Voron... The Voron 2.4 with it's flying gantry.
 preview: /assets/blog/printer-voron-2.4/voron-hero.jpg
@@ -993,7 +993,7 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 
 The Electronics mounts are maintained separately in the [Voron Parts repository](https://github.com/VoronDesign/Voron-Parts).
 
-### :negative_squared_cross_mark: Raspberry Pi
+### :wrench: Raspberry Pi
 
 I have opted to upgrade the stock Raspberry Pi mount with [PiPlate Skirt mod](https://mods.vorondesign.com/details/SMPmB3yokwtdGs23vUiKQ) by `LoganFraser`.
 
@@ -1114,7 +1114,7 @@ A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector fr
 | ------------------------ | -------- |
 | M2x10 Self-Tapping Screw | 6        |
 
-### :negative_squared_cross_mark: Power Inlet
+### :white_check_mark: Power Inlet
 
 The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
@@ -1159,7 +1159,7 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 > [!WARNING]
 > These parts are not required as I will be installing the [ChaoticLab CNC Tap][Tap].
 
-### :negative_squared_cross_mark: X/Y Endstop
+### :white_check_mark: X/Y Endstop
 
 I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/product/voron-2-4-microswitch-xy-endstop-pcb/) for the X/Y endstops as I am more familliar with physical switches in my other machines. I will potentially experiment with Hall Effect Switches or Sensorless Homing once I have the machine up and running.
 
@@ -1283,7 +1283,7 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-### :negative_squared_cross_mark: LCD
+### :wrench: LCD
 
 I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50][PITFT50] touch screen display to run [KlipperScreen](https://klipperscreen.readthedocs.io/).
 
@@ -1316,7 +1316,7 @@ I have opted to upgrade the stock Mini 12864 LCD with [BigTreeTech PITFT50][PITF
 > [!WARNING]
 > Some of these parts are not required as they are for the stock `mini12864_case`.
 
-### :negative_squared_cross_mark: Front Skirts
+### :white_check_mark: Front Skirts
 
 Rather than modifying the stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
 
@@ -1339,7 +1339,7 @@ Rather than modifying the stock skirts to add mesh I have chosen to print [Plug-
 | M3 Post-install T-nut       | 4        |
 | M3 Threaded Insert (M3x5x4) | 6        |
 
-### :negative_squared_cross_mark: Rear Skirts
+### :white_check_mark: Rear Skirts
 
 The first 20 layers of the rear skirt parts will be printed in Purple and then I will perform a filament swap to Black to achieve two-tone skirts.
 
@@ -1367,7 +1367,7 @@ The first 20 layers of the rear skirt parts will be printed in Purple and then I
 > [!WARNING]
 > Some of these parts are not required as they are for the `keystone_panel`.
 
-### :negative_squared_cross_mark: Side Skirts
+### :white_check_mark: Side Skirts
 
 Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-In Mesh Inserts](https://www.printables.com/model/925417) by `DET-Man`.
 
