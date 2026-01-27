@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2025-12-24T12:54:23.431Z
+lastmod: 2026-01-27T18:53:17.330Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -2205,6 +2205,31 @@ BOM and Build Information are available on the [Bleep Sound Website](https://ble
 
 Assembly Instructions are available on the [Free Modular Website](https://freemodular.org/modules/Boost/docs/assembly_instructions) along with the [User Manual](https://files.freemodular.org/Boost/boost_manual.pdf)
 
+# LPZW
+
+## TE PO Series Adapter
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+### Parts
+
+#### PCB
+
+| Item                                                                 | Quantity |
+| -------------------------------------------------------------------- | -------- |
+| PO series Eurorack Adapter v.2 PCB                                   | 1        |
+| [Teenage Engineering PO-12](https://teenage.engineering/store/po-12) | 1        |
+
+#### Misc
+
+| Item            | Quantity |
+| --------------- | -------- |
+| Mono Audio Jack | 2        |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [Assembly Guide](http://leipzigwest.org/wp-content/uploads/2025/11/LPZW-PO-Adapter-Manual-V2.0.pdf) on the [LPZW Website](https://leipzigwest.org/?page_id=32)
+
 # MH Eurorack
 
 ## Bypass
@@ -2402,6 +2427,41 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :white_check_mark: Assembly
 
 [Assembly Instructions](https://raw.githubusercontent.com/MyModularJourney/Tuna/main/Tuna%20v1%20-%20build%20guide.pdf) and [Schematic](https://raw.githubusercontent.com/MyModularJourney/Tuna/main/Tuna_schematic.PNG) are available on [GitHub](https://github.com/MyModularJourney/Tuna)
+
+# Tesseract Modular
+
+## Low Coast
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+### Parts
+
+#### PCB
+
+| Item               | Quantity |
+| ------------------ | -------- |
+| Low Coast v5 Panel | 1        |
+| Low Coast v5 PCB   | 1        |
+
+#### Fasteners
+
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| 3x10mm Spacer (female/female) | 2        |
+| M3X6 Phillips Screw (Black)   | 4        |
+
+#### Misc
+
+| Item                  | Quantity |
+| --------------------- | -------- |
+| 16 Pin Power Header   | 1        |
+| 16-16 pin Power Cable | 1        |
+| Car Radio MP3 Player  | 1        |
+| Mono Audio Jack       | 2        |
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [Assembly Guide](https://docs.google.com/document/d/1gVTkDuZs5G1EnH_UWXXsUXguXrfBs2TKLbTt98Ejy9w) on the [LPZW Website](https://www.tesseractmodular.com/eurorack-modules/low-coast)
 
 # Thonk Synth
 
