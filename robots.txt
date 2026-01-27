@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mikethomas.info
+
+# Sitemaps
+Sitemap: https://www.mikethomas.info/sitemap.xml
