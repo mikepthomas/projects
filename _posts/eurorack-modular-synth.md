@@ -2461,7 +2461,7 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ### :negative_squared_cross_mark: Assembly
 
-Assembly Instructions are available in the [Assembly Guide](https://docs.google.com/document/d/1gVTkDuZs5G1EnH_UWXXsUXguXrfBs2TKLbTt98Ejy9w) on the [LPZW Website](https://www.tesseractmodular.com/eurorack-modules/low-coast)
+Assembly Instructions are available in the [Assembly Guide](https://docs.google.com/document/d/1gVTkDuZs5G1EnH_UWXXsUXguXrfBs2TKLbTt98Ejy9w) on the [Tesseract Modular Website](https://www.tesseractmodular.com/eurorack-modules/low-coast)
 
 # Thonk Synth
 
