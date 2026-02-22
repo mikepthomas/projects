@@ -4,7 +4,7 @@ title: >
 heading: >
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2025-12-03T22:22:19.372Z
+lastmod: 2026-02-22T18:47:58.450Z
 author: Mike Thomas
 description: >
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -65,6 +65,10 @@ keywords:
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
 
+| Item                                                                                                                                          | Price |     Purchased      | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Brotherhood of Steel Encampment](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl) | £45   | :heavy_check_mark: |       |
+
 - Campfire
 - Cooking Fire
 - Stump With Axe
@@ -93,7 +97,35 @@ keywords:
 - Tent Floor Large 1-6
 - Tent Floor Small 1-4
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl)
+# Cult of the Mothman Altar
+
+![Print at Home - Cult of the Mothman Altar](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar-fallout-wasteland-warfare-modiphius-entertainment-616475.jpg)
+
+> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
+
+| Item                                                                                                                          | Price | Purchased | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ----- |
+| [Cult of the Mothman Altar](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar) | £45   |    :x:    |       |
+
+- Canopy Bed
+- Chair
+- Shelf
+- Table
+- Large Totem 1-2
+- Cannibal Tree Trunk
+- Small Totem 1-3
+- Candles 1-2
+- Gargoyle
+- Statue
+- Throne of Bone
+- Throne Platform
+- Wise Mothman Throne
+- Effigy
+- Ceiling Light
+- Table Light
+- Torch 1-3
+- Backpack
+- Stein
 
 # Drumlin Diner
 
@@ -122,7 +154,35 @@ One of the locations in the [Wasteland Locales Map Pack](https://modiphius.net/p
 | [stool](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
 | [table](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
 
+# Metal Dome
+
+![Print at Home - Metal Dome](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-metal-dome-fallout-wasteland-warfare-modiphius-entertainment-982340.jpg)
+
+> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
+
+| Item                                                                                            | Price | Purchased | Notes |
+| ----------------------------------------------------------------------------------------------- | ----- | :-------: | ----- |
+| [Metal Dome](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome) | £45   |    :x:    |       |
+
+- Blood Rock
+- Buried Car
+- Buried Lorry - Closed
+- Buried Lorry - Open
+- Buried Truck
+- Fuel Tank
+- Oil Drums
+- Pipe
+- Radioactive Rock
+- Robot Fabricator - Closed
+- Robot Fabricator - Open
+
 # Nuka World
+
+These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
+
+| Item                                                                                                            | Price |     Purchased      | Notes |
+| --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: |       |
 
 ## Parking Lot
 
@@ -130,9 +190,9 @@ One of the locations in the [Wasteland Locales Map Pack](https://modiphius.net/p
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net/)
 
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
-
-The build can be found [on its own page](nuka-world).
+| Item                                                                                                                        | Price |     Purchased      | Notes                                                |
+| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------- |
+| [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: | [The build can be found on its own page](nuka-world) |
 
 ## Nuka Town, USA
 
@@ -142,15 +202,15 @@ The build can be found [on its own page](nuka-world).
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
 
+| Item                                                                                            | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Cola-Cars Arena](https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena) | £40   | :heavy_check_mark: |       |
+
 - Bottle Stand 1-3
 - Cola Car 1-3
 - Cola Car Display Stand
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena)
-
 ## Dry Rock Gulch
-
-These are 3D printable STLs available to replace the [card parts](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) that come with the Fallout Factions [Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set).
 
 ### Buildings
 
@@ -158,20 +218,32 @@ These are 3D printable STLs available to replace the [card parts](https://files.
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
 
+| Item                                                                                                                        | Price |     Purchased      | Notes                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dry Rock Gulch Buildings](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings) | £15   | :heavy_check_mark: | These replace the [versions](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) in the [Fallout Factions: Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set) |
+
 - Building 1-8
 - Windmill
 - Signage
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings).
-
 ### Bundle
 
-- [Ant Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests)
-- [Graveyard](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard)
-- [Wrecked Rollercoaster](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster)
-- [Barrels, Crates and Coffins](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins)
-- [Cacti Stands](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands)
-- [Stingwing Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests)
+The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                             | Price |     Purchased      | Notes                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ant Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests)                                    | £10   | :heavy_check_mark: |                                                                                                                                                                                                                                                                                                                                                                |
+| [Barrels, Crates and Coffins](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins) | £10   | :heavy_check_mark: |                                                                                                                                                                                                                                                                                                                                                                |
+| [Cacti Stands](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands)                              | £10   | :heavy_check_mark: | These replace the [versions](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) in the [Fallout Factions: Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set) |
+| [Graveyard](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard)                                    | £8    | :heavy_check_mark: | These replace the [versions](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) in the [Fallout Factions: Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set) |
+| [Stingwing Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests)                        | £10   | :heavy_check_mark: |                                                                                                                                                                                                                                                                                                                                                                |
+| [Wrecked Rollercoaster](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster)            | £8    | :heavy_check_mark: |                                                                                                                                                                                                                                                                                                                                                                |
+
+There is also a sampler containing some of the items from the bundle:
+
+| Item                                                                                                                | Price | Purchased | Notes                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Tabletop STL Sampler](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler) | £25   |    :x:    | These replace the [versions](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf) in the [Fallout Factions: Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set) |
 
 ## Galactic Zone
 
@@ -181,13 +253,15 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
 
+| Item                                                                                                                         | Price |     Purchased      | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Galactic Zone, Space Adventure](https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure) | £45   | :heavy_check_mark: |       |
+
 - Asteroids 1-5
 - Dead Alien Animatronics 1-2
 - Nuka-Girl Rocket
 - Nuka-Globes 1-2
 - Nuka-Rocket Car
-
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure)
 
 ## Kiddie Kingdom
 
@@ -196,6 +270,10 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 ![Print at Home - Kiddie Kingdom](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-print-at-home-kiddie-kingdom-fallout-wasteland-warfare-modiphius-entertainment-655651.jpg)
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
+
+| Item                                                                                                    | Price |     Purchased      | Notes |
+| ------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Kiddie Kingdom](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom) | £45   | :heavy_check_mark: |       |
 
 - Blast Off Ride Floor - Inner 1-8
 - Blast Off Ride Floor - Outer 1-8
@@ -213,38 +291,90 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 - Vendor Cart - various parts
 - Wrecked Ferris Wheel Car
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom)
-
 # Red Rocket
 
 There are 3 sets of STLs for the Red Rocket:
 
-- [Drive Thru](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru)
-- [Preserved](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl)
-- [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)
+| Item                                                                                                             | Price |     Purchased      | Notes                                                |
+| ---------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------- |
+| [Drive Thru](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru)       | £30   | :heavy_check_mark: |                                                      |
+| [Preserved](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl) | £30   | :heavy_check_mark: | [The build can be found on its own page](red-rocket) |
+| [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)       | £30   | :heavy_check_mark: |                                                      |
 
-I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4. The build for this can be found [on its own page here](red-rocket).
+I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4.
 
 # Sanctuary Hills
 
-- [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl)
-- [House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl)
-- [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl)
-- [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)
-- [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)
-- [Toys and Bobbleheads](modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl)
+| Item                                                                                                                   | Price |     Purchased      | Notes                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------- |
+| [Sanctuary Hill House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl) | £30   | :heavy_check_mark: | [The build can be found on its own page](sanctuary-hills) |
 
-I will use elements from all 4 sets to create my own version of Sanctuary Hills from Fallout 4. The build for this can be found [on its own page](sanctuary-hills).
+## Bundle
+
+The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                             | Price |     Purchased      | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
+| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
+| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
+| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
+| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
+| [Slabs & Stones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones)            | £5    | :heavy_check_mark: |       |
+
+## Scatter
+
+| Item                                                                                                                   | Price |     Purchased      | Notes |
+| ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)            | £20   |        :x:         |       |
+| [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | £20   | :heavy_check_mark: |       |
+| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                  | £45   |        :x:         |       |
+| [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl)     | £5    | :heavy_check_mark: |       |
+| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)        | £20   |        :x:         |       |
+| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)            | £20   | :heavy_check_mark: |       |
+| [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)      | £20   | :heavy_check_mark: |       |
+| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                            | £20   |        :x:         |       |
+| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor) | £10   |        :x:         |       |
+| [Toys and Bobbleheads](modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl)        | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)    | £20   | :heavy_check_mark: |       |
+
+I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
 # Vault
 
 There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault).
 
-- [Vault Atrium Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl)
-- [Vault Design Starter Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl)
-- [Vault Flooring Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl)
-- [Vault Interior Themed Scatter](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl)
-- [Vault Tec Office Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl)
-- [Vault Walls Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl)
+| Item                                                                                                          | Price |     Purchased      | Notes |
+| ------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Vault-Tec Poster Girl](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl) | £5    | :heavy_check_mark: |       |
 
-I will use elements from all of these to create my own version of Vault 88 from Fallout 4. The build for this can be found [on its own page here](vault).
+## Bundle
+
+The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                                                   | Price |     Purchased      | Notes                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | :----------------: | ---------------------------------------------------- |
+| [Vault Atrium Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl)                                  | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+| [Vault Design Starter Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl)                  | £15   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+| [Vault Flooring Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl)                              | £7    | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+| [Vault Interior Themed Scatter](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl) | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+| [Vault Tec Office Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl)                          | £10   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+| [Vault Walls Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl)                                      | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
+
+I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
+
+# Vehicles
+
+| Item                                                                                                                      | Price |     Purchased      | Notes                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------------------------- |
+| [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)                       | £20   | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
+| [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles)                   | £40   | :heavy_check_mark: | Will be used in [Sanctuary Hills](sanctuary-hills)                                      |
+| [Corvega Atomic V8 Sedan](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan) | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
+| [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)             | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
+| [Crashed UFO](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl)                 | £20   |        :x:         |                                                                                         |
+| [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)                     | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
+| [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl)               | £40   | :heavy_check_mark: | Will be used in the [Vault](vault)                                                      |
+| [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl)       | £20   | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)             | £5    | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
+| [Pre-war APC](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc)                     | £5    | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Tank](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl)                               | £25   |        :x:         | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
