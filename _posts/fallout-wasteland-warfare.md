@@ -4,7 +4,7 @@ title: >
 heading: >
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-02-22T18:47:58.450Z
+lastmod: 2026-02-23T00:31:27.061Z
 author: Mike Thomas
 description: >
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -15,8 +15,6 @@ related:
   - /projects/red-rocket
   - /projects/sanctuary-hills
   - /projects/vault
-external:
-  - https://modiphius.net/pages/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -28,6 +26,137 @@ keywords:
 ---
 
 # Table of contents
+
+# Physical Items
+
+## Fallout: Factions
+
+| Item                                                                                                                     | Price |     Purchased      | Notes                                                              |
+| ------------------------------------------------------------------------------------------------------------------------ | ----- | :----------------: | ------------------------------------------------------------------ |
+| [Battle for Boston Starter Set](https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready) | £100  |        :x:         |                                                                    |
+| [Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set)   | £95   | :heavy_check_mark: |                                                                    |
+| [Battle Map: Nuka-World](https://modiphius.net/products/fallout-factions-battle-map-nuka-world)                          | £55   | :heavy_check_mark: | Neoprene playing mat to replace the paper one in the `Starter Set` |
+| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)                                           | £35   | :heavy_check_mark: |                                                                    |
+| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight)                                    | £35   |        :x:         |                                                                    |
+
+## Fallout: Wasteland Wanderer
+
+| Item                                                                                                         | Price | Purchased | Notes |
+| ------------------------------------------------------------------------------------------------------------ | ----- | :-------: | ----- |
+| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) | £40   |    :x:    |       |
+
+## Fallout: Wasteland Warfare
+
+[Release Tracker is available here](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf)
+
+### Wave 1
+
+| Item                                                                                                                                                      | Price |     Purchased      | Notes                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                | £20   | :heavy_check_mark: |                                                                                                                                                                                    |
+| [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template) | £54   | :heavy_check_mark: | [Assembly Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf), Also contains Neoprene playing mat to replace the paper one in the `Starter Set` |
+| [Two Player Starter Set](https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set)                                                 | £75   | :heavy_check_mark: |                                                                                                                                                                                    |
+
+### Wave 4
+
+| Item                                                                                                                    | Price |     Purchased      | Notes                                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------- |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                       | £30   | :heavy_check_mark: |                                         |
+| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck) | £20   | :heavy_check_mark: | Required cards for `Survivors Core Box` |
+
+### Wave 9
+
+| Item                                                                                                              | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Nuka World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion) | £40   | :heavy_check_mark: |       |
+
+### RPG Bundle
+
+The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
+
+| Item                                                                                                                                               | Price |     Purchased      | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Extra Tabletop Dice Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set)                                     | £20   | :heavy_check_mark: |       |
+| [RPG (Expansion Book)](https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book) | £23   | :heavy_check_mark: |       |
+| [RPG - GM Screen and Booklet](https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet)                              | £25   | :heavy_check_mark: |       |
+
+## The Roleplaying Game (2d20)
+
+| Item                                                                                   | Price |     Purchased      | Notes |
+| -------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Core Rulebook](https://modiphius.net/products/falloutrpg_core-rulebook)               | £50   | :heavy_check_mark: |       |
+| [Starter Set](https://modiphius.net/products/fallout-the-roleplaying-game-starter-set) | £40   | :heavy_check_mark: |       |
+
+## Minatures
+
+| Item                                                                                                       | Price |     Purchased      | Notes                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------- | ----- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | £35   | :heavy_check_mark: | [Assembly Guide][Hollywood Heroes Assembly Guide] & [Rules](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2)                                                        |
+| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | £35   | :heavy_check_mark: | [Assembly Guide][Hollywood Icons Assembly Guide] & [Rules](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2)                                                         |
+| [Raiders: The Disciples](https://modiphius.net/products/fallout-miniatures-raiders-the-disciples)          | £40   | :heavy_check_mark: | [Assembly Guide][The Disciples Assembly Guide], The `Battle For Nuka-World Starter Set` has [The Operators][The Operators Assembly Guide] and [The Pack][The Pack Assembly Guide] Miniatures |
+| [Survivors Core Box](https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box)          | £50   | :heavy_check_mark: | Contains Miniatures related to [Sanctuary](sanctuary-hills)                                                                                                                                  |
+
+[Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
+[Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
+[The Disciples Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf
+[The Operators Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf
+[The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
+
+# PDFs
+
+## Fallout: Factions
+
+| Item                                                                                                                          | Price |     Purchased      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: |
+| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook-pdf)                                            | £20   | :heavy_check_mark: |
+| [Welcome to Nuka-World Quickstart](https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free) | £0    | :heavy_check_mark: |
+
+## Fallout: Wasteland Warfare
+
+| Item                                                                                                                                                 | Price |     Purchased      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: |
+| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf)                    | £10   |        :x:         |
+| [Astoundingly Awesome Tales 2](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)                        | £15   |        :x:         |
+| [Campaign Book](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                                                          | £10   | :heavy_check_mark: |
+| [Caught in the Crossfire Campaign book](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book)              | £10   | :heavy_check_mark: |
+| [Homestead Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf)                      | £15   | :heavy_check_mark: |
+| [Into the Vault](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                                                        | £20   | :heavy_check_mark: |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf)                                                | £15   |        :x:         |
+| [Machine Frequency](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)                                                  | £5    | :heavy_check_mark: |
+| [Nuka World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf)                                          | £20   | :heavy_check_mark: |
+| [RPG (Expansion Book)](https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf)                                              | £14   | :heavy_check_mark: |
+| [The Unexpected Shepherd Part 1](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)                               | £5    | :heavy_check_mark: |
+| [The Unexpected Shepherd Part 2](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf)                        | £5    | :heavy_check_mark: |
+| [The Unexpected Shepherd Part 3](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf)                        | £5    | :heavy_check_mark: |
+| [Wave 1 AI Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-ai-card-deck-survivors-super-mutants-brotherhood-of-steel-pdf) | £10   | :heavy_check_mark: |
+| [Wave 2 AI Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-2-ai-card-deck-raiders-pdf)                                      | £5    | :heavy_check_mark: |
+| [Wave 3 AI Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-3-ai-card-deck-institute-pdf)                                    | £5    | :heavy_check_mark: |
+
+## The Roleplaying Game (2d20)
+
+| Item                                                                                                                                                | Price |     Purchased      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: |
+| [Astoundingly Awesome Tales 1 - Orange Coloured Sky](https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf)            | £10   | :heavy_check_mark: |
+| [Astoundingly Awesome Tales 2 - Fully Operational](https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf)               | £10   | :heavy_check_mark: |
+| [Astoundingly Awesome Tales 3 - Showdown in Skull Canyon](https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf) | £10   | :heavy_check_mark: |
+| [Astoundingly Awesome Tales 4 - Hunted!](https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf)                                    | £10   | :heavy_check_mark: |
+| [Astoundingly Awesome Tales 6 - Into the Abyss](https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf)                     | £10   | :heavy_check_mark: |
+| [Core Rulebook](https://modiphius.net/products/falloutrpg_corerulebook-pdf)                                                                         | £20   | :heavy_check_mark: |
+| [Gamemaster's Toolkit](https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf)                                         | £10   | :heavy_check_mark: |
+| [GM Screen + Booklet](https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-pdf)                                            | £15   | :heavy_check_mark: |
+| [Map Pack 1: Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)                                               | £20   | :heavy_check_mark: |
+| [Map Pack 2: Wasteland Locales](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf)                       | £20   | :heavy_check_mark: |
+| [NPC Pack - Hollywood Heroes](https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf)                                            | £12   | :heavy_check_mark: |
+| [NPC Pack 1 - The Rust Devils](https://modiphius.net/products/fallout-2d20-npc-pack-2-enclave-remnants-pdf)                                         | £15   | :heavy_check_mark: |
+| [NPC Pack 2 - Enclave Remnants](https://modiphius.net/products/fallout-2d20-npc-pack-2-enclave-remnants-pdf)                                        | £12   | :heavy_check_mark: |
+| [NPC Pack 3 - Reilly's Rangers](https://modiphius.net/products/fallout-2d20-npc-pack-3-reillys-rangers-pdf)                                         | £12   | :heavy_check_mark: |
+| [NPC Pack 4 - Mariposa Military Base](https://modiphius.net/products/fallout-2d20-npc-pack-4-mariposa-military-base-pdf)                            | £12   | :heavy_check_mark: |
+| [Quickstart Guide](https://modiphius.net/products/fallout-the-roleplaying-game-quickstart-guide-pdf-free)                                           | £0    | :heavy_check_mark: |
+| [Royal Flush](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf)                                                          | £20   |        :x:         |
+| [Settler's Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf)                                         | £20   | :heavy_check_mark: |
+| [Starter Set](https://modiphius.net/products/fallout-the-roleplaying-game-starter-set-pdf)                                                          | £15   | :heavy_check_mark: |
+| [Wanderers Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book-pdf)                                        | £20   | :heavy_check_mark: |
+| [Winter of Atom](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf)                                                    | £20   | :heavy_check_mark: |
 
 # Game Organisers
 
@@ -103,9 +232,9 @@ keywords:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
 
-| Item                                                                                                                          | Price | Purchased | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ----- |
-| [Cult of the Mothman Altar](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar) | £45   |    :x:    |       |
+| Item                                                                                                                          | Price | Purchased | Notes                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | --------------------------------------------------------------------------------- |
+| [Cult of the Mothman Altar](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar) | £45   |    :x:    | [Rules](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) |
 
 - Canopy Bed
 - Chair

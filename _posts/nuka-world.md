@@ -143,7 +143,20 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ## Vehicles
 
-### Nuka Bus
+The `Nuka world Parking Lot` comes with:
+
+- `Nuka Bus` appears to be the same as the [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)
+- `Pickup Truck` appears to be the same as the [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)
+
+However there are a few more vehicles available to purchase separately that can be used within the Parking Lot:
+
+- [Corvega Atomic V8 Sedan](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan)
+- [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)
+- [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)
+
+### Included
+
+#### Nuka Bus
 
 ![Nuka World Nuka Bus](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-958451_1280x.jpg)
 
@@ -172,7 +185,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 | Steering_Wheel    | 1        |          |      |      |        |      |   :x:   |       |
 | Window            | 1        |          |      |      |        |      |   :x:   |       |
 
-### Pickup Truck
+#### Pickup Truck
 
 ![Nuka World Pickup Truck](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-616858_1280x.jpg)
 
