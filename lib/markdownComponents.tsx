@@ -58,6 +58,7 @@ export function getComponents() {
       } else if (href?.match(/^(https?:)?\/\//)) {
         return (
           <a
+            className="text-nowrap"
             href={href}
             rel="noopener noreferrer"
             target="_blank"
