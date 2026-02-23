@@ -212,15 +212,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 # Game Organisers
 
-## Euro-Mini Card Box
-
-| Item                                                                  | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files) | 3        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [EUROBOX_top_V2](https://www.thingiverse.com/thing:7139338/files)     | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [EUROBOX_V2](https://www.thingiverse.com/thing:7139338/files)         | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
-
 ## Box Insert
+
+These are inserts to fit inside the `Two Player Starter Set` box to help organise it's contents.
 
 | Item                                                                      | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -239,6 +233,25 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Base40Horizontal](https://www.thingiverse.com/thing:3197502/files)       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
 | [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
 | [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+
+## Caps Stash Tub
+
+A box to hold all your [caps](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set).
+
+| Item                                                      | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom](https://www.thingiverse.com/thing:3140194/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| [lid](https://www.thingiverse.com/thing:3140194/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+
+## Euro-Mini Card Box
+
+A slide top box to hold the many, many cards that are used to play the game.
+
+| Item                                                                  | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files) | 3        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [EUROBOX_top_V2](https://www.thingiverse.com/thing:7139338/files)     | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [EUROBOX_V2](https://www.thingiverse.com/thing:7139338/files)         | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
 
 # Brotherhood of Steel Encampment
 
