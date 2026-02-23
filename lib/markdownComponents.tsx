@@ -23,6 +23,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import cn from 'classnames';
 import React from 'react';
 import { Table } from 'reactstrap';
@@ -72,6 +73,9 @@ export function getComponents() {
           </Link>
         );
       }
+    },
+    i: ({ className }) => {
+      return <FontAwesomeIcon className="fs-5" icon={className} />;
     },
     img: ({ alt, src, title }) => {
       const altText = alt?.replace(/ *\{[^)]*\} */g, '');

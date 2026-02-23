@@ -35,6 +35,7 @@ import remarkToc from 'remark-toc';
 import { rehypeGithubAlerts } from 'rehype-github-alerts';
 import rehypeMinifyWhitespace from 'rehype-minify-whitespace';
 import rehypePrism from 'rehype-prism-plus';
+import rehypeRaw from 'rehype-raw';
 import rehypeReact from 'rehype-react';
 import rehypeSlug from 'rehype-slug';
 
@@ -64,6 +65,7 @@ export default function Blog({ content, related, external }: Props) {
             rehypePlugins={[
               rehypeGithubAlerts,
               rehypePrism,
+              rehypeRaw,
               rehypeReact,
               rehypeSlug,
               rehypeMinifyWhitespace,

@@ -43,6 +43,7 @@ import {
   faUserGraduate,
   faWarehouse,
 } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faFileZipper } from '@fortawesome/free-regular-svg-icons';
 
 import { config, library } from '@fortawesome/fontawesome-svg-core';
 config.autoAddCss = false;
@@ -56,6 +57,8 @@ export default function register() {
     faCalendarDay,
     faChalkboardTeacher,
     faDiscord,
+    faFilePdf,
+    faFileZipper,
     faGithub,
     faHome,
     faInstagram,
