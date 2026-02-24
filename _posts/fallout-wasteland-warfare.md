@@ -77,7 +77,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
 | [Mutfruit Pile](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |      |        |      |   :x:   |       |
 
-##### Tutorial 3
+##### Tutorial 4
 
 | Item                                                                                                                    | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
