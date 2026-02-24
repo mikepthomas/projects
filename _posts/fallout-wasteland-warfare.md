@@ -57,6 +57,32 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | ┕ Campaign Book                                                                                                                                                                              |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                                                    | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
 | Wave 1 AI Card Deck                                                                                                                                                                          |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-ai-card-deck-survivors-super-mutants-brotherhood-of-steel-pdf) | :heavy_check_mark: |                                                                                                                                                                                    |
 
+#### Getting Acclimated
+
+##### Tutorial 1
+
+| Item                                                                                                       | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Wood Crate](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston) | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+
+##### Tutorial 2
+
+| Item                                                                                                             | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Water Purified](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+
+##### Tutorial 3
+
+| Item                                                                                                            | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Mutfruit Pile](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |      |        |      |   :x:   |       |
+
+##### Tutorial 3
+
+| Item                                                                                                                    | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Slabs & Stones 4](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones) | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+
 #### Scenarios
 
 | Item                            | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes |
