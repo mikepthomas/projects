@@ -1,12 +1,12 @@
 ---
-title: >
+title: |
   Fallout: Wasteland Warfare
-heading: >
+heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-02-24T00:12:11.966Z
+lastmod: 2026-02-24T19:21:23.409Z
 author: Mike Thomas
-description: >
+description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
 preview: /assets/blog/fallout-wasteland-warfare/fallout-wasteland-warfare-hero.jpg
 slug: /projects/fallout-wasteland-warfare
@@ -18,11 +18,15 @@ related:
 draft: false
 tags:
   - Fallout Wasteland Warfare
+  - Fallout Factions
   - Toys
 categories:
   - 3D Printing
 keywords:
   - Fallout
+  - Modiphius
+  - Wargaming
+  - Roleplaying
 ---
 
 # Table of contents
@@ -42,15 +46,16 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 1 - Starter Set
 
-| Item                                                                                                                                                      |     Purchased      | Digital                                                                                                                                                                  |       Owned        | Notes                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                | :heavy_check_mark: |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
-| [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template) | :heavy_check_mark: |                                                                                                                                                                          |                    | [Assembly Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf), Also contains Neoprene playing mat to replace the paper one in the `Starter Set` |
-| [Two Player Starter Set](https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set)                                                 | :heavy_check_mark: |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
-| ┝ Getting Acclimated                                                                                                                                      |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf)                             | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
-| ┝ Rules of Play                                                                                                                                           |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view)                                                       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
-| ┕ Campaign Book                                                                                                                                           |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                                                    | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
-| Wave 1 AI Card Deck                                                                                                                                       |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-ai-card-deck-survivors-super-mutants-brotherhood-of-steel-pdf) | :heavy_check_mark: |                                                                                                                                                                                    |
+| Item                                                                                                                                                                                         |     Purchased      | Digital                                                                                                                                                                  |       Owned        | Notes                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                                                   | :heavy_check_mark: |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
+| [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template)                                    | :heavy_check_mark: |                                                                                                                                                                          |                    | [Assembly Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf), Also contains Neoprene playing mat to replace the paper one in the `Starter Set` |
+| [Settlement Deck](https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck) |        :x:         |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
+| [Two Player Starter Set](https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set)                                                                                    | :heavy_check_mark: |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
+| ┝ Getting Acclimated                                                                                                                                                                         |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf)                             | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
+| ┝ Rules of Play                                                                                                                                                                              |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view)                                                       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
+| ┕ Campaign Book                                                                                                                                                                              |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                                                    | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                                                                                              |
+| Wave 1 AI Card Deck                                                                                                                                                                          |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-ai-card-deck-survivors-super-mutants-brotherhood-of-steel-pdf) | :heavy_check_mark: |                                                                                                                                                                                    |
 
 #### Scenarios
 
@@ -69,9 +74,10 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 2 - Raiders
 
-| Item                | Purchased | Digital                                                                                                                             |       Owned        | Notes |
-| ------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Wave 2 AI Card Deck |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-2-ai-card-deck-raiders-pdf) | :heavy_check_mark: |       |
+| Item                                                                                                                  | Purchased | Digital                                                                                                                             |       Owned        | Notes |
+| --------------------------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Raiders Wave Expansion Card Pack](https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack) |    :x:    |                                                                                                                                     |                    |       |
+| Wave 2 AI Card Deck                                                                                                   |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-2-ai-card-deck-raiders-pdf) | :heavy_check_mark: |       |
 
 #### Scenarios
 
@@ -81,10 +87,12 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 3 - Institute
 
-| Item                                  | Purchased | Digital                                                                                                                                   |       Owned        | Notes |
-| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Caught in the Crossfire Campaign book |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book) | :heavy_check_mark: |       |
-| Wave 3 AI Card Deck                   |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-3-ai-card-deck-institute-pdf)     | :heavy_check_mark: |       |
+| Item                                                                                                                                          | Purchased | Digital                                                                                                                                   |       Owned        | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Caught in the Crossfire Campaign book                                                                                                         |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book) | :heavy_check_mark: |       |
+| [Institute Wave Expansion Card Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack) |    :x:    |                                                                                                                                           |                    |       |
+| [The Automatron Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack) |    :x:    |                                                                                                                                           |                    |       |
+| Wave 3 AI Card Deck                                                                                                                           |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-3-ai-card-deck-institute-pdf)     | :heavy_check_mark: |       |
 
 #### Scenarios
 
@@ -94,16 +102,27 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 4 - Enclave
 
-| Item                                                                                                                    |     Purchased      | Digital                                                                                                                    | Owned | Notes                                   |
-| ----------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :---: | --------------------------------------- |
-| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                       | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) |  :x:  |                                         |
-| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck) | :heavy_check_mark: |                                                                                                                            |       | Required cards for `Survivors Core Box` |
+| Item                                                                                                                                                                |     Purchased      | Digital                                                                                                                    | Owned | Notes                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :---: | --------------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack) |        :x:         |                                                                                                                            |       |                                         |
+| [Enclave Wave Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack)                           |        :x:         |                                                                                                                            |       |                                         |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) |  :x:  |                                         |
+| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck)                                             | :heavy_check_mark: |                                                                                                                            |       | Required cards for `Survivors Core Box` |
 
 ### Wave 5 - New Vegas Expansion
 
 | Item                                                                                                      | Purchased | Digital | Owned | Notes |
 | --------------------------------------------------------------------------------------------------------- | :-------: | ------- | :---: | ----- |
 | [New Vegas Rules Expansion](https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion) |    :x:    |         |       |       |
+
+#### Scenarios
+
+| Item                   | Purchased | Digital                                                                                                                       |       Owned        | Notes |
+| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Bear Force One         |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf)         | :heavy_check_mark: |       |
+| Black Mountain Beacons |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf) | :heavy_check_mark: |       |
+| Border Patrol          |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Border_Patrol_002w.pdf)          | :heavy_check_mark: |       |
+| No Dice                |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/No_Dice_002w.pdf)                | :heavy_check_mark: |       |
 
 ### Wave 6 - Commonwealth Expansion
 
@@ -123,15 +142,23 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 8 - Capital Expansion
 
-| Item                                                                                                        | Purchased | Digital | Owned | Notes |
-| ----------------------------------------------------------------------------------------------------------- | :-------: | ------- | :---: | ----- |
-| [Capital Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion) |    :x:    |         |       |       |
+| Item                                                                                                        |     Purchased      | Digital | Owned | Notes |
+| ----------------------------------------------------------------------------------------------------------- | :----------------: | ------- | :---: | ----- |
+| [Capital Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion) | :heavy_check_mark: |         |       |       |
 
 ### Wave 9 - Nuka-World Expansion
 
 | Item                                                                                                              |     Purchased      | Digital                                                                                                                  |       Owned        | Notes |
 | ----------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | [Nuka World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
+
+#### Scenarios
+
+| Item                       | Purchased | Digital                                                                                                                                   |       Owned        | Notes |
+| -------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Error! System Malfunction  |           | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/view)                        | :heavy_check_mark: |       |
+| Oh, a Hunting We Shall Go! |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf) | :heavy_check_mark: |       |
+| Cappy in a Haystack        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf)   | :heavy_check_mark: |       |
 
 ## Fallout: Wasteland Warfare Roleplaying Game
 
@@ -170,14 +197,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Astoundingly Awesome Tales
 
-| Item                                                                                                                                         | Purchased | Digital                                                                                                                             |       Owned        | Notes                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ |
-| [Issue No. 1 - Orange Coloured Sky](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)        |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf)       | :heavy_check_mark: |                                                              |
-| [Issue No. 2 - Fully Operational](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)          |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf)        | :heavy_check_mark: |                                                              |
-| [Issue No. 3 - Showdown in Skull Canyon](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)   |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf) | :heavy_check_mark: |                                                              |
-| [Issue No. 4 - Hunted!](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)                    |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf)                   | :heavy_check_mark: |                                                              |
-| [Issue No. 5 - Raider Base of Your Dreams](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus) |    :x:    |                                                                                                                                     |                    | This is only available as a bonus issue in the physical book |
-| Issue No. 6 - Into the Abyss                                                                                                                 |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf)           | :heavy_check_mark: |                                                              |
+| Item                                                                                                                                         |     Purchased      | Digital                                                                                                                             |       Owned        | Notes                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ |
+| [Issue No. 1 - Orange Coloured Sky](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)        | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf)       | :heavy_check_mark: |                                                              |
+| [Issue No. 2 - Fully Operational](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)          | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf)        | :heavy_check_mark: |                                                              |
+| [Issue No. 3 - Showdown in Skull Canyon](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf) | :heavy_check_mark: |                                                              |
+| [Issue No. 4 - Hunted!](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)                    | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf)                   | :heavy_check_mark: |                                                              |
+| [Issue No. 5 - Raider Base of Your Dreams](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus) | :heavy_check_mark: |                                                                                                                                     |                    | This is only available as a bonus issue in the physical book |
+| Issue No. 6 - Into the Abyss                                                                                                                 |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf)           | :heavy_check_mark: |                                                              |
 
 ### Guide Book
 
@@ -233,15 +260,21 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
-| Item                                                                                                       |     Purchased      | Digital                                                                               | Owned | Notes                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide] |       | [Hollywood Heroes & Icons Rules Packet <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2) |
-| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]  |       | [Hollywood Heroes & Icons Rules Packet <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2) |
-| [Raiders: The Disciples](https://modiphius.net/products/fallout-miniatures-raiders-the-disciples)          | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]    |       | The `Battle For Nuka-World Starter Set` has [The Operators][The Operators Assembly Guide] and [The Pack][The Pack Assembly Guide] Miniatures             |
-| [Survivors Core Box](https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box)          | :heavy_check_mark: | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Painting Guide]         |       | Contains Miniatures related to [Sanctuary](sanctuary-hills)                                                                                              |
+| Item                                                                                                                      |     Purchased      | Digital                                                                                   |       Owned        | Notes                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------ |
+| [Brotherhood of Steel: Core Box](https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic) |        :x:         | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide] |                    | Included in the `Battle for Boston Starter Set`                                                        |
+| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                                      | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide]     | :heavy_check_mark: | [Hollywood Heroes & Icons Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
+| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in)                | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]      | :heavy_check_mark: | [Hollywood Heroes & Icons Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
+| [Institute: Core Box](https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic)                       |        :x:         |                                                                                           |                    | Included in the `Battle for Boston Starter Set`                                                        |
+| [Raiders: The Disciples](https://modiphius.net/products/fallout-miniatures-raiders-the-disciples)                         | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]        | :heavy_check_mark: |                                                                                                        |
+| [Raiders: The Operators](https://modiphius.net/products/fallout-miniatures-raiders-the-operators)                         | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]        | :heavy_check_mark: | Included in the `Battle For Nuka-World Starter Set`                                                    |
+| [Raiders: The Pack](https://modiphius.net/products/fallout-miniatures-raiders-the-pack)                                   | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]             | :heavy_check_mark: | Included in the `Battle For Nuka-World Starter Set`                                                    |
+| [Survivors Core Box](https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box)                         | :heavy_check_mark: | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Painting Guide]             | :heavy_check_mark: | Contains Miniatures related to [Sanctuary](sanctuary-hills)                                            |
 
+[Brotherhood of Steel Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
 [Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
+[Hollywood Rules Packet]: https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2
 [The Disciples Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf
 [The Operators Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf
 [The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
@@ -555,19 +588,19 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ## Scatter
 
-| Item                                                                                                                   | Price |     Purchased      | Notes |
-| ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)            | £20   |        :x:         |       |
-| [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | £20   | :heavy_check_mark: |       |
-| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                  | £45   |        :x:         |       |
-| [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl)     | £5    | :heavy_check_mark: |       |
-| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)        | £20   |        :x:         |       |
-| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)            | £20   | :heavy_check_mark: |       |
-| [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)      | £20   | :heavy_check_mark: |       |
-| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                            | £20   |        :x:         |       |
-| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor) | £10   |        :x:         |       |
-| [Toys and Bobbleheads](modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl)        | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)    | £20   | :heavy_check_mark: |       |
+| Item                                                                                                                    | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
+| [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl)  | £20   | :heavy_check_mark: |       |
+| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
+| [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl)      | £5    | :heavy_check_mark: |       |
+| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
+| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
+| [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)       | £20   | :heavy_check_mark: |       |
+| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
+| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
+| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
 
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
