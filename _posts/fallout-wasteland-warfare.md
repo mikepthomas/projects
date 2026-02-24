@@ -36,7 +36,7 @@ keywords:
 There are many items available for the [Modiphius Fallout Games](https://modiphius.net/collections/fallout), some items are available to be purchased as physical items or as a digital download and sometimes both.
 Below is a list I have created to track the items I am either interested in or own.
 
-A tick in the `Purchased` column means that I have the Physical item and the `Owned` column means that I have the Digital item.
+A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
 ## Fallout: Wasteland Warfare
 
@@ -46,7 +46,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 1 - Starter Set
 
-| Item                                                                                                                                                                                         |     Purchased      | Digital                                                                                                                                                                  |       Owned        | Notes                                                                                                                                                                              |
+| Item                                                                                                                                                                                         |     Purchased      | Digital                                                                                                                                                                  |     Downloaded     | Notes                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                                                   | :heavy_check_mark: |                                                                                                                                                                          |                    |                                                                                                                                                                                    |
 | [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template)                                    | :heavy_check_mark: |                                                                                                                                                                          |                    | [Assembly Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf), Also contains Neoprene playing mat to replace the paper one in the `Starter Set` |
@@ -59,7 +59,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 #### Scenarios
 
-| Item                            | Purchased | Digital                                                                                                                                       |       Owned        | Notes |
+| Item                            | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes |
 | ------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | 1-5                             |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)             | :heavy_check_mark: |       |
 | 6-11                            |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)            | :heavy_check_mark: |       |
@@ -74,20 +74,20 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 2 - Raiders
 
-| Item                                                                                                                  | Purchased | Digital                                                                                                                             |       Owned        | Notes |
+| Item                                                                                                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Notes |
 | --------------------------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Raiders Wave Expansion Card Pack](https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack) |    :x:    |                                                                                                                                     |                    |       |
 | Wave 2 AI Card Deck                                                                                                   |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-2-ai-card-deck-raiders-pdf) | :heavy_check_mark: |       |
 
 #### Scenarios
 
-| Item                            | Purchased | Digital                                                                                                                                |       Owned        | Notes |
+| Item                            | Purchased | Digital                                                                                                                                |     Downloaded     | Notes |
 | ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | The Beast of the Bottling Plant |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |       |
 
 ### Wave 3 - Institute
 
-| Item                                                                                                                                          | Purchased | Digital                                                                                                                                   |       Owned        | Notes |
+| Item                                                                                                                                          | Purchased | Digital                                                                                                                                   |     Downloaded     | Notes |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Caught in the Crossfire Campaign book                                                                                                         |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book) | :heavy_check_mark: |       |
 | [Institute Wave Expansion Card Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack) |    :x:    |                                                                                                                                           |                    |       |
@@ -96,28 +96,28 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 #### Scenarios
 
-| Item                  | Purchased | Digital                                                                                                                      |       Owned        | Notes |
+| Item                  | Purchased | Digital                                                                                                                      |     Downloaded     | Notes |
 | --------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Showdown at Synthtown |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: |       |
 
 ### Wave 4 - Enclave
 
-| Item                                                                                                                                                                |     Purchased      | Digital                                                                                                                    | Owned | Notes                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :---: | --------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack) |        :x:         |                                                                                                                            |       |                                         |
-| [Enclave Wave Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack)                           |        :x:         |                                                                                                                            |       |                                         |
-| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) |  :x:  |                                         |
-| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck)                                             | :heavy_check_mark: |                                                                                                                            |       | Required cards for `Survivors Core Box` |
+| Item                                                                                                                                                                |     Purchased      | Digital                                                                                                                    | Downloaded | Notes                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :--------: | --------------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack) |        :x:         |                                                                                                                            |            |                                         |
+| [Enclave Wave Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack)                           |        :x:         |                                                                                                                            |            |                                         |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) |    :x:     |                                         |
+| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck)                                             | :heavy_check_mark: |                                                                                                                            |            | Required cards for `Survivors Core Box` |
 
 ### Wave 5 - New Vegas Expansion
 
-| Item                                                                                                      | Purchased | Digital | Owned | Notes |
-| --------------------------------------------------------------------------------------------------------- | :-------: | ------- | :---: | ----- |
-| [New Vegas Rules Expansion](https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion) |    :x:    |         |       |       |
+| Item                                                                                                      | Purchased | Digital | Downloaded | Notes |
+| --------------------------------------------------------------------------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [New Vegas Rules Expansion](https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion) |    :x:    |         |            |       |
 
 #### Scenarios
 
-| Item                   | Purchased | Digital                                                                                                                       |       Owned        | Notes |
+| Item                   | Purchased | Digital                                                                                                                       |     Downloaded     | Notes |
 | ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Bear Force One         |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf)         | :heavy_check_mark: |       |
 | Black Mountain Beacons |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf) | :heavy_check_mark: |       |
@@ -126,7 +126,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 6 - Commonwealth Expansion
 
-| Item                                                                                                                          | Purchased | Digital                                                                                                                                      |       Owned        | Notes |
+| Item                                                                                                                          | Purchased | Digital                                                                                                                                      |     Downloaded     | Notes |
 | ----------------------------------------------------------------------------------------------------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |       |
 | Astoundingly Awesome Tales 2                                                                                                  |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |       |
@@ -135,26 +135,26 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 ### Wave 7 - Forged in the Fire & Homestead Expansions
 
-| Item                                                                                                                                          | Purchased | Digital                                                                                                                                       |       Owned        | Notes |
+| Item                                                                                                                                          | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Forged in the Fire Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion) |    :x:    |                                                                                                                                               |                    |       |
 | Homestead Rules Expansion                                                                                                                     |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
 
 ### Wave 8 - Capital Expansion
 
-| Item                                                                                                        |     Purchased      | Digital | Owned | Notes |
-| ----------------------------------------------------------------------------------------------------------- | :----------------: | ------- | :---: | ----- |
-| [Capital Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion) | :heavy_check_mark: |         |       |       |
+| Item                                                                                                        |     Purchased      | Digital | Downloaded | Notes |
+| ----------------------------------------------------------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Capital Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion) | :heavy_check_mark: |         |            |       |
 
 ### Wave 9 - Nuka-World Expansion
 
-| Item                                                                                                              |     Purchased      | Digital                                                                                                                  |       Owned        | Notes |
+| Item                                                                                                              |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | ----------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | [Nuka World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
 
 #### Scenarios
 
-| Item                       | Purchased | Digital                                                                                                                                   |       Owned        | Notes |
+| Item                       | Purchased | Digital                                                                                                                                   |     Downloaded     | Notes |
 | -------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Error! System Malfunction  |           | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/view)                        | :heavy_check_mark: |       |
 | Oh, a Hunting We Shall Go! |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf) | :heavy_check_mark: |       |
@@ -168,7 +168,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Ow
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                                                                                                                                               |     Purchased      | Digital                                                                                                                    |       Owned        | Notes |
+| Item                                                                                                                                               |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Extra Tabletop Dice Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set)                                     | :heavy_check_mark: |                                                                                                                            |                    |       |
 | [RPG (Expansion Book)](https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf) | :heavy_check_mark: |       |
@@ -176,7 +176,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                                                                                                                |       Owned        | Notes |
+| Item                           | Purchased | Digital                                                                                                                                |     Downloaded     | Notes |
 | ------------------------------ | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Machine Frequency              |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |       |
 | The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: |       |
@@ -187,7 +187,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: The Roleplaying Game` is a tabletop role-playing game which uses a version of Modiphius' 2d20 tabletop system.
 
-| Item                                                                                                                       |     Purchased      | Digital                                                                                                                           |       Owned        | Notes |
+| Item                                                                                                                       |     Purchased      | Digital                                                                                                                           |     Downloaded     | Notes |
 | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Core Rulebook](https://modiphius.net/products/falloutrpg_core-rulebook)                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/falloutrpg_corerulebook-pdf)                             | :heavy_check_mark: |       |
 | [Gamemaster's Toolkit](https://web.archive.org/web/20240524154444/https://www.modiphius.net/products/falloutrpg_gmtoolkit) |        :x:         | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf)    | :heavy_check_mark: |       |
@@ -197,7 +197,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Astoundingly Awesome Tales
 
-| Item                                                                                                                                         |     Purchased      | Digital                                                                                                                             |       Owned        | Notes                                                        |
+| Item                                                                                                                                         |     Purchased      | Digital                                                                                                                             |     Downloaded     | Notes                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ |
 | [Issue No. 1 - Orange Coloured Sky](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)        | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf)       | :heavy_check_mark: |                                                              |
 | [Issue No. 2 - Fully Operational](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)          | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf)        | :heavy_check_mark: |                                                              |
@@ -208,21 +208,21 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Guide Book
 
-| Item                                                                                                     | Purchased | Digital                                                                                                                         |       Owned        | Notes |
+| Item                                                                                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Notes |
 | -------------------------------------------------------------------------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Settler's Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement)  |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf)  | :heavy_check_mark: |       |
 | [Wanderers Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book-pdf) | :heavy_check_mark: |       |
 
 ### Map Pack
 
-| Item                                                                                                                      | Purchased | Digital                                                                                                                                 |       Owned        | Notes |
+| Item                                                                                                                      | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes |
 | ------------------------------------------------------------------------------------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Map Pack 1: Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault)                         |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)             | :heavy_check_mark: |       |
 | [Map Pack 2: Wasteland Locales](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf) | :heavy_check_mark: |       |
 
 ### NPC Pack
 
-| Item                                | Purchased | Digital                                                                                                                               |       Owned        | Notes |
+| Item                                | Purchased | Digital                                                                                                                               |     Downloaded     | Notes |
 | ----------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | NPC Pack - Hollywood Heroes         |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf)                  | :heavy_check_mark: |       |
 | NPC Pack 1 - The Rust Devils        |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-npc-pack-1-the-rust-devils-pdf) | :heavy_check_mark: |       |
@@ -232,7 +232,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Quest Book
 
-| Item                                                                                              | Purchased | Digital                                                                                                                   |       Owned        | Notes |
+| Item                                                                                              | Purchased | Digital                                                                                                                   |     Downloaded     | Notes |
 | ------------------------------------------------------------------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Royal Flush](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush)            |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf)    |        :x:         |       |
 | [Winter of Atom](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf) | :heavy_check_mark: |       |
@@ -241,7 +241,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: Factions` is a skirmish-level wargame for two players.
 
-| Item                                                                                                                     |     Purchased      | Digital                                                                                                                               |       Owned        | Notes                                                              |
+| Item                                                                                                                     |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                              |
 | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------ |
 | [Battle for Boston Starter Set](https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready) |        :x:         |                                                                                                                                       |                    |                                                                    |
 | [Battle For Nuka-World Starter Set](https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set)   | :heavy_check_mark: |                                                                                                                                       |                    |                                                                    |
@@ -254,13 +254,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: Wasteland Wanderer` is a solo roleplaying game adapted from `Fallout: The Roleplaying Game` to play original Fallout stories with characters of your own creation.
 
-| Item                                                                                                         | Purchased | Digital | Owned | Notes |
-| ------------------------------------------------------------------------------------------------------------ | :-------: | ------- | :---: | ----- |
-| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) |    :x:    |         |       |       |
+| Item                                                                                                         | Purchased | Digital | Downloaded | Notes |
+| ------------------------------------------------------------------------------------------------------------ | :-------: | ------- | :--------: | ----- |
+| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) |    :x:    |         |            |       |
 
 ## Minatures
 
-| Item                                                                                                                      |     Purchased      | Digital                                                                                   |       Owned        | Notes                                                                                                  |
+| Item                                                                                                                      |     Purchased      | Digital                                                                                   |     Downloaded     | Notes                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------ |
 | [Brotherhood of Steel: Core Box](https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic) |        :x:         | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide] |                    | Included in the `Battle for Boston Starter Set`                                                        |
 | [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                                      | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide]     | :heavy_check_mark: | [Hollywood Heroes & Icons Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
