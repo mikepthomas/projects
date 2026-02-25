@@ -26,9 +26,11 @@
 import {
   faApple,
   faDiscord,
+  faFacebook,
   faGithub,
   faInstagram,
   faLinkedin,
+  faXTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import {
   faAnchor,
@@ -57,6 +59,7 @@ export default function register() {
     faCalendarDay,
     faChalkboardTeacher,
     faDiscord,
+    faFacebook,
     faFilePdf,
     faFileZipper,
     faGithub,
@@ -66,6 +69,7 @@ export default function register() {
     faLink,
     faLinkedin,
     faMicrochip,
+    faXTwitter,
     faUserGraduate,
     faWarehouse,
   );

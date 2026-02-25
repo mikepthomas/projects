@@ -11,7 +11,7 @@
     "icon": "linkedin",
     "url": "https://www.linkedin.com/in/",
     "user": "mikepaulthomas",
-    "showInNav": true
+    "showInNav": false
   },
   {
     "name": "Instagram",
@@ -35,9 +35,9 @@
     "showInNav": false
   },
   {
-    "name": "Twitter",
-    "icon": "twitter",
-    "url": "https://www.twitter.com/",
+    "name": "X",
+    "icon": "x-twitter",
+    "url": "https://x.com/",
     "user": "montycrabapple",
     "showInNav": false
   }

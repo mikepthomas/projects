@@ -147,9 +147,7 @@
       "id": "author",
       "title": "Author",
       "file": "[[workspace]]/data/author.json",
-      "fileType": "json",
       "labelField": "name",
-      "singleEntry": false,
       "schema": {
         "title": "Author",
         "type": "object",
@@ -170,9 +168,7 @@
       "id": "experience",
       "title": "Experience",
       "file": "[[workspace]]/data/experience.json",
-      "fileType": "json",
       "labelField": "title",
-      "singleEntry": false,
       "schema": {
         "title": "Experience",
         "type": "object",
@@ -222,13 +218,11 @@
       "id": "social",
       "title": "Social",
       "file": "[[workspace]]/data/social.json",
-      "fileType": "json",
       "labelField": "name",
-      "singleEntry": false,
       "schema": {
         "title": "SocialItem",
         "type": "object",
-        "required": ["name", "icon", "url", "user", "showInNav"],
+        "required": ["name", "icon", "url", "user"],
         "properties": {
           "name": {
             "type": "string",

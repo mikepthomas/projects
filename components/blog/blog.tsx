@@ -64,10 +64,10 @@ export default function Blog({ content, related, external }: Props) {
             ]}
             rehypePlugins={[
               rehypeGithubAlerts,
-              rehypePrism,
               rehypeRaw,
               rehypeReact,
               rehypeSlug,
+              rehypePrism,
               rehypeMinifyWhitespace,
             ]}
           >
