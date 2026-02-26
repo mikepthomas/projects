@@ -400,43 +400,43 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Mini European
 
-| Item                                                                                         | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
-| -------------------------------------------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [Chems](https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf)       | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
-| [Equipment](https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/view)          | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
-| [Heroic](https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf)         | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
-| [Leader](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf) | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
-| [Mods](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/view)               | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
-| [Perk](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/view)               | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
-| [Power Armour](https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/view)       | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
-| [Weapon](https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/view)             | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
-| `Total`                                                                                      |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+| Item                                                                                                                             | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [Chems <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf)       | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
+| [Equipment <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/view)          | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
+| [Heroic <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf)         | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
+| [Leader <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf) | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
+| [Mods <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/view)               | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
+| [Perk <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/view)               | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
+| [Power Armour <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/view)       | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
+| [Weapon <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/view)             | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
+| `Total`                                                                                                                          |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
 
 ### Doctor's Bag
 
 ### Mini European
 
-| Item                                                                                         | Downloaded         | Quantity |
-| -------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Chems](https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf) | :heavy_check_mark: | 1        |
-| `Total`                                                                                      |                    | `1`      |
+| Item                                                                                                                             | Downloaded         | Quantity |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
+| [Chems <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf) | :heavy_check_mark: | 1        |
+| `Total`                                                                                                                          |                    | `1`      |
 
 ### Robobrain
 
 ### Standard
 
-| Item                                                                                      | Downloaded         | Quantity |
-| ----------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Unit](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
-| `Total`                                                                                   |                    | `1`      |
+| Item                                                                                                                          | Downloaded         | Quantity |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
+| [Unit <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
+| `Total`                                                                                                                       |                    | `1`      |
 
 ### Mini European
 
-| Item                                                                                           | Downloaded         | Quantity |
-| ---------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Equipment](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
-| [Weapon](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf)    | :heavy_check_mark: | 2        |
-| `Total`                                                                                        |                    | `3`      |
+| Item                                                                                                                               | Downloaded         | Quantity |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
+| [Equipment <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
+| [Weapon <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf)    | :heavy_check_mark: | 2        |
+| `Total`                                                                                                                            |                    | `3`      |
 
 # Game Organisers
 
