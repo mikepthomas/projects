@@ -2,13 +2,13 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2026-03-21T08:20:30.839Z
+lastmod: 2026-03-21T15:02:49.588Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
 slug: /projects/eurorack-modular-synth
 external:
-  - https://www.ericasynths.lv/
+  - https://www.ericasynths.lv
 draft: false
 tags:
   - Erica Synths
@@ -322,10 +322,10 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 ### Sourcing Parts
 
-| Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| DIY 2.4" inch LCD Digital Oscilloscope | 1        |
-| MT3608 DC-DC Boost Converter           | 1        |
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| DIY 2.4" inch LCD Digital Oscilloscope | 1        | 1        |       |
+| MT3608 DC-DC Boost Converter           | 1        | 1        |       |
 
 ### Printing Parts
 
@@ -355,59 +355,59 @@ Basic Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                                    | Quantity |
-| --------------------------------------- | -------- |
-| EDULAB Main PCB                         | 1        |
-| EDUPRTP Utility Section Panel           | 1        |
-| EDUPNLF Expansion Slot Panel            | 1        |
-| EDUPNLB Breadboard Panel                | 1        |
-| EDUPNLM Modular I/O Panel               | 1        |
-| EDUPOT Potentiometer/Socket adapter PCB | 24       |
-| EDUSW Switch/Button adapter PCB         | 16       |
+| Item                                    | Quantity | Received | Notes |
+| --------------------------------------- | -------- | -------- | ----- |
+| EDULAB Main PCB                         | 1        | 1        |       |
+| EDUPRTP Utility Section Panel           | 1        | 1        |       |
+| EDUPNLF Expansion Slot Panel            | 1        | 1        |       |
+| EDUPNLB Breadboard Panel                | 1        | 1        |       |
+| EDUPNLM Modular I/O Panel               | 1        | 1        |       |
+| EDUPOT Potentiometer/Socket adapter PCB | 24       | 24       |       |
+| EDUSW Switch/Button adapter PCB         | 16       | 16       |       |
 
 #### Connectors
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| 16-pin female header  | 8        |
-| 4-pin female header   | 36       |
-| 8-pin female header   | 3        |
-| 40-pin male connector | 4        |
-| 830 Point Breadboard  | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| 16-pin female header  | 8        | 8        |       |
+| 4-pin female header   | 36       | 36       |       |
+| 8-pin female header   | 3        | 3        |       |
+| 40-pin male connector | 4        | 4        |       |
+| 830 Point Breadboard  | 1        | 1        |       |
 
 #### Fasteners
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| 3x11mm Spacer (female/female) | 6        |
-| 3x11mm Spacer (female/male)   | 2        |
-| 3x23mm Spacer (female/male)   | 2        |
-| 3x23mm Spacer (female/female) | 6        |
-| M3X6 Phillips Screw (Black)   | 28       |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| 3x11mm Spacer (female/female) | 6        | 6        |       |
+| 3x11mm Spacer (female/male)   | 2        | 2        |       |
+| 3x23mm Spacer (female/male)   | 2        | 2        |       |
+| 3x23mm Spacer (female/female) | 6        | 6        |       |
+| M3X6 Phillips Screw (Black)   | 28       | 28       |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (B1M)   | 2        |
-| Vertical Trim Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (B100K) | 5        |
-| Vertical Trim Potentiometer (B50K)  | 1        |
-| Vertical Trim Potentiometer (B10K)  | 2        |
-| Vertical Trim Potentiometer (B5K)   | 1        |
-| Vertical Trim Potentiometer (B1K)   | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B1M)   | 2        | 2        |       |
+| Vertical Trim Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K) | 5        | 5        |       |
+| Vertical Trim Potentiometer (B50K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B10K)  | 2        | 2        |       |
+| Vertical Trim Potentiometer (B5K)   | 1        | 1        |       |
+| Vertical Trim Potentiometer (B1K)   | 1        | 1        |       |
 
 #### Misc
 
-| Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| Mono Audio Jack                           | 5        |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 1        |
-| DW2 SPDT ON-OFF-ON Sub-mini Toggle Switch | 1        |
-| 3mm Red LED                               | 2        |
-| Plywood base                              | 1        |
-| Breadboarding cable set                   | 1        |
-| 12V 1A wall wart                          | 1        |
+| Item                                      | Quantity | Received | Notes |
+| ----------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                           | 5        | 5        |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 1        | 1        |       |
+| DW2 SPDT ON-OFF-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 3mm Red LED                               | 2        | 2        |       |
+| Plywood base                              | 1        | 1        |       |
+| Breadboarding cable set                   | 1        | 1        |       |
+| 12V 1A wall wart                          | 1        | 1        |       |
 
 ### Full Kit
 
@@ -415,57 +415,57 @@ Full Kit also contains the `Quantity` of additional parts.
 
 #### Capacitors
 
-| Item                      | Quantity |
-| ------------------------- | -------- |
-| Ceramic Capacitor (1uF)   | 2        |
-| Ceramic Capacitor (470nF) | 1        |
-| Ceramic Capacitor (100nF) | 5        |
-| Ceramic Capacitor (10nF)  | 2        |
-| Ceramic Capacitor (2.2nF) | 2        |
-| Ceramic Capacitor (1nF)   | 5        |
+| Item                      | Quantity | Received | Notes |
+| ------------------------- | -------- | -------- | ----- |
+| Ceramic Capacitor (1uF)   | 2        | 2        |       |
+| Ceramic Capacitor (470nF) | 1        | 1        |       |
+| Ceramic Capacitor (100nF) | 5        | 5        |       |
+| Ceramic Capacitor (10nF)  | 2        | 2        |       |
+| Ceramic Capacitor (2.2nF) | 2        | 2        |       |
+| Ceramic Capacitor (1nF)   | 5        | 5        |       |
 
 #### Diodes
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Signal Diode (1N4148) | 10       |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148) | 10       | 10       |       |
 
 #### Integrated Circuits
 
-| Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| Op Amp Dual (TL072)                    | 2        |
-| Op Amp Quad (TL074)                    | 2        |
-| Hex Schmitt-Trigger Inverter (CD40106) | 2        |
-| Decade Counter (CD4017)                | 2        |
-| Shift Register Dual (4015)             | 2        |
-| Transistor NPN (BC548)                 | 10       |
-| Transistor PNP (BC558)                 | 10       |
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| Op Amp Dual (TL072)                    | 2        | 2        |       |
+| Op Amp Quad (TL074)                    | 2        | 2        |       |
+| Hex Schmitt-Trigger Inverter (CD40106) | 2        | 2        |       |
+| Decade Counter (CD4017)                | 2        | 2        |       |
+| Shift Register Dual (4015)             | 2        | 2        |       |
+| Transistor NPN (BC548)                 | 10       | 10       |       |
+| Transistor PNP (BC558)                 | 10       | 10       |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 5        |
-| Metal Film resistor (470K) | 2        |
-| Metal Film resistor (100K) | 10       |
-| Metal Film resistor (82K)  | 2        |
-| Metal Film resistor (68K)  | 5        |
-| Metal Film resistor (47K)  | 5        |
-| Metal Film resistor (33K)  | 5        |
-| Metal Film resistor (27K)  | 2        |
-| Metal Film resistor (22K)  | 5        |
-| Metal Film resistor (14K)  | 2        |
-| Metal Film resistor (10K)  | 10       |
-| Metal Film resistor (4.7K) | 2        |
-| Metal Film resistor (2K)   | 5        |
-| Metal Film resistor (1K)   | 10       |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 5        | 5        |       |
+| Metal Film resistor (470K) | 2        | 2        |       |
+| Metal Film resistor (100K) | 10       | 10       |       |
+| Metal Film resistor (82K)  | 2        | 2        |       |
+| Metal Film resistor (68K)  | 5        | 5        |       |
+| Metal Film resistor (47K)  | 5        | 5        |       |
+| Metal Film resistor (33K)  | 5        | 5        |       |
+| Metal Film resistor (27K)  | 2        | 2        |       |
+| Metal Film resistor (22K)  | 5        | 5        |       |
+| Metal Film resistor (14K)  | 2        | 2        |       |
+| Metal Film resistor (10K)  | 10       | 10       |       |
+| Metal Film resistor (4.7K) | 2        | 2        |       |
+| Metal Film resistor (2K)   | 5        | 5        |       |
+| Metal Film resistor (1K)   | 10       | 10       |       |
 
 #### Misc
 
-| Item        | Quantity |
-| ----------- | -------- |
-| 3mm Red LED | 5        |
+| Item        | Quantity | Received | Notes |
+| ----------- | -------- | -------- | ----- |
+| 3mm Red LED | 5        | 5        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -475,16 +475,16 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item             | Quantity |
-| ---------------- | -------- |
-| EDUPDB2 Main PCB | 1        |
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| EDUPDB2 Main PCB | 1        | 1        |       |
 
 #### Connectors
 
-| Item              | Quantity |
-| ----------------- | -------- |
-| 2x8 Pin Sockets   | 3        |
-| 8-pin male header | 2        |
+| Item              | Quantity | Received | Notes |
+| ----------------- | -------- | -------- | ----- |
+| 2x8 Pin Sockets   | 3        | 3        |       |
+| 8-pin male header | 2        | 2        |       |
 
 ### Labor Scope
 
@@ -494,16 +494,16 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item             | Quantity |
-| ---------------- | -------- |
-| EDUSCP2 Main PCB | 1        |
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------- | -------- | ----- |
+| EDUSCP2 Main PCB | 1        | 1        |       |
 
 #### Connectors
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| 4-pin female header | 1        |
-| 8-pin male header   | 2        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| 4-pin female header | 1        | 1        |       |
+| 8-pin male header   | 2        | 2        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -538,38 +538,38 @@ Kit contains the `Quantity` needed for building 1 unit, except the parts for the
 
 #### Case
 
-| Item                      | Quantity |
-| ------------------------- | -------- |
-| 12V 1A AC/DC Wall Adapter | 1        |
-| 84HP Eurorack Case        | 1        |
-| DC Socket                 | 1        |
-| Power Switch              | 1        |
+| Item                      | Quantity | Received | Notes |
+| ------------------------- | -------- | -------- | ----- |
+| 12V 1A AC/DC Wall Adapter | 1        | 1        |       |
+| 84HP Eurorack Case        | 1        | 1        |       |
+| DC Socket                 | 1        | 1        |       |
+| Power Switch              | 1        | 1        |       |
 
 #### Power Supply
 
-| Item                             | Quantity |
-| -------------------------------- | -------- |
-| 2x8 Pin Sockets                  | 14       |
-| 5mm Green LED                    | 1        |
-| 5mm Red LED                      | 1        |
-| EDU DIY PSU PCB                  | 1        |
-| Electrolytic Capacitor (100uF)   | 1        |
-| Electrolytic Capacitor (220uF)   | 2        |
-| KF301 Screw Terminal (5mm pitch) | 2        |
-| Metal Film resistor (3K)         | 2        |
-| Mornsun DC/DC converter          | 1        |
-| Resettable Fuse (RB300-30)       | 1        |
-| Schottky diode (1N5819)          | 1        |
+| Item                             | Quantity | Received | Notes |
+| -------------------------------- | -------- | -------- | ----- |
+| 2x8 Pin Sockets                  | 14       | 14       |       |
+| 5mm Green LED                    | 1        | 1        |       |
+| 5mm Red LED                      | 1        | 1        |       |
+| EDU DIY PSU PCB                  | 1        | 1        |       |
+| Electrolytic Capacitor (100uF)   | 1        | 1        |       |
+| Electrolytic Capacitor (220uF)   | 2        | 2        |       |
+| KF301 Screw Terminal (5mm pitch) | 2        | 2        |       |
+| Metal Film resistor (3K)         | 2        | 2        |       |
+| Mornsun DC/DC converter          | 1        | 1        |       |
+| Resettable Fuse (RB300-30)       | 1        | 1        |       |
+| Schottky diode (1N5819)          | 1        | 1        |       |
 
 #### Optional: +5V Power Supply
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| 5mm Red LED                   | 1        |
-| Electrolytic Capacitor (10uF) | 2        |
-| Film Capacitor (0.1uF)        | 2        |
-| Metal Film resistor (1K)      | 1        |
-| Voltage Regulator (78M05)     | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| 5mm Red LED                   | 1        |          |       |
+| Electrolytic Capacitor (10uF) | 2        |          |       |
+| Film Capacitor (0.1uF)        | 2        |          |       |
+| Metal Film resistor (1K)      | 1        |          |       |
+| Voltage Regulator (78M05)     | 1        |          |       |
 
 ### :white_check_mark: Assembly
 
@@ -587,72 +587,72 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUSEQ4 PCB         | 1        |
-| EDUSEQ4 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUSEQ4 PCB         | 1        | 1        |       |
+| EDUSEQ4 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100nF)     | 5        |
-| Ceramic Capacitor (1nF)       | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 5        | 5        |       |
+| Ceramic Capacitor (1nF)       | 1        | 1        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 15       |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 15       | 15       |       |
 
 #### Integrated Circuits
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Transistor NPN (2N3904) | 5        |
-| Transistor NPN (BC547)  | 1        |
-| Op Amp Quad (TL074)     | 1        |
-| Decade Counter (CD4017) | 1        |
-| 14 Pin DIP Sockets      | 1        |
-| 16 Pin DIP Sockets      | 1        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (2N3904) | 5        | 5        |       |
+| Transistor NPN (BC547)  | 1        | 1        |       |
+| Op Amp Quad (TL074)     | 1        | 1        |       |
+| Decade Counter (CD4017) | 1        | 1        |       |
+| 14 Pin DIP Sockets      | 1        | 1        |       |
+| 16 Pin DIP Sockets      | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (B100K) | 5        |
-| PCB Mount Trim Potentiometer (5K)   | 1        |
-| PCB Mount Trim Potentiometer (2K)   | 2        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K) | 5        | 5        |       |
+| PCB Mount Trim Potentiometer (5K)   | 1        | 1        |       |
+| PCB Mount Trim Potentiometer (2K)   | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 14       |
-| Metal Film resistor (68K)  | 1        |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (18K)  | 1        |
-| Metal Film resistor (6.8K) | 1        |
-| Metal Film resistor (4.7K) | 1        |
-| Metal Film resistor (1K)   | 7        |
-| Metal Film resistor (200R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 14       | 14       |       |
+| Metal Film resistor (68K)  | 1        | 1        |       |
+| Metal Film resistor (51K)  | 1        | 1        |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (18K)  | 1        | 1        |       |
+| Metal Film resistor (6.8K) | 1        | 1        |       |
+| Metal Film resistor (4.7K) | 1        | 1        |       |
+| Metal Film resistor (1K)   | 7        | 7        |       |
+| Metal Film resistor (200R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 6        |
-| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        |
-| 3mm Red LED                               | 5        |
-| Mono Audio Jack                           | 5        |
-| 10 Pin Power Header                       | 1        |
-| 10-16 pin Power Cable                     | 1        |
+| Item                                      | Quantity | Received | Notes |
+| ----------------------------------------- | -------- | -------- | ----- |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch     | 6        | 6        |       |
+| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 3mm Red LED                               | 5        | 5        |       |
+| Mono Audio Jack                           | 5        | 5        |       |
+| 10 Pin Power Header                       | 1        | 1        |       |
+| 10-16 pin Power Cable                     | 1        | 1        |       |
 
 ### How It Works
 
@@ -676,69 +676,69 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUVCO3 PCB         | 1        |
-| EDUVCO3 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCO3 PCB         | 1        | 1        |       |
+| EDUVCO3 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100nF)     | 5        |
-| Film Capacitor (2.2nF)        | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 5        | 5        |       |
+| Film Capacitor (2.2nF)        | 1        | 1        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Signal Diode (1N4148)  | 1        |
-| Schottky Diode (SB140) | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148)  | 1        | 1        |       |
+| Schottky Diode (SB140) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| Transistor NPN (BC548)                 | 1        |
-| Transistor PNP (BC558)                 | 1        |
-| Op Amp Quad (TL074)                    | 1        |
-| Hex Schmitt-Trigger Inverter (CD40106) | 1        |
-| 14 Pin DIP Sockets                     | 2        |
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548)                 | 1        | 1        |       |
+| Transistor PNP (BC558)                 | 1        | 1        |       |
+| Op Amp Quad (TL074)                    | 1        | 1        |       |
+| Hex Schmitt-Trigger Inverter (CD40106) | 1        | 1        |       |
+| 14 Pin DIP Sockets                     | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| PCB Mount Trim Potentiometer (1K)    | 1        |
-| Vertical Alpha Potentiometer (B100K) | 1        |
-| Vertical Trim Potentiometer (B100K)  | 2        |
-| Vertical Trim Potentiometer (B250K)  | 1        |
-| Vertical Trim Potentiometer (B1M)    | 1        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (1K)    | 1        | 1        |       |
+| Vertical Alpha Potentiometer (B100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K)  | 2        | 2        |       |
+| Vertical Trim Potentiometer (B250K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B1M)    | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 2        |
-| Metal Film resistor (100K) | 9        |
-| Metal Film resistor (68K)  | 2        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (33K)  | 1        |
-| Metal Film resistor (14K)  | 1        |
-| Metal Film resistor (1.5K) | 1        |
-| Metal Film resistor (1K)   | 2        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 2        |       |
+| Metal Film resistor (100K) | 9        | 9        |       |
+| Metal Film resistor (68K)  | 2        | 2        |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (33K)  | 1        | 1        |       |
+| Metal Film resistor (14K)  | 1        | 1        |       |
+| Metal Film resistor (1.5K) | 1        | 1        |       |
+| Metal Film resistor (1K)   | 2        | 2        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| 10K thermistor        | 4        |
-| Mono Audio Jack       | 5        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| 10K thermistor        | 4        | 4        |       |
+| Mono Audio Jack       | 5        | 5        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -762,62 +762,62 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUVCF1 PCB         | 1        |
-| EDUVCF1 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCF1 PCB         | 1        | 1        |       |
+| EDUVCF1 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 2        |
-| Ceramic Capacitor (100nF)     | 6        |
-| Film Capacitor (1nF)          | 5        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 6        | 6        |       |
+| Film Capacitor (1nF)          | 5        | 5        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 9        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 9        | 9        |       |
 
 #### Integrated Circuits
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| Op Amp Quad (TL074) | 2        |
-| 14 Pin DIP Sockets  | 2        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Op Amp Quad (TL074) | 2        | 2        |       |
+| 14 Pin DIP Sockets  | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| PCB Mount Trim Potentiometer (50K)   | 1        |
-| Vertical Trim Potentiometer (B100K)  | 4        |
-| Vertical Alpha Potentiometer (B100K) | 1        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (50K)   | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K)  | 4        | 4        |       |
+| Vertical Alpha Potentiometer (B100K) | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 5        |
-| Metal Film resistor (68K)  | 2        |
-| Metal Film resistor (33K)  | 8        |
-| Metal Film resistor (27K)  | 2        |
-| Metal Film resistor (14K)  | 1        |
-| Metal Film resistor (2K)   | 2        |
-| Metal Film resistor (1K)   | 3        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 5        | 5        |       |
+| Metal Film resistor (68K)  | 2        | 2        |       |
+| Metal Film resistor (33K)  | 8        | 8        |       |
+| Metal Film resistor (27K)  | 2        | 2        |       |
+| Metal Film resistor (14K)  | 1        | 1        |       |
+| Metal Film resistor (2K)   | 2        | 2        |       |
+| Metal Film resistor (1K)   | 3        | 3        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 4        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 4        | 4        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -841,62 +841,62 @@ The Envelope generator shapes the amplitude of a sound over time the one in this
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUENV1 PCB         | 1        |
-| EDUENV1 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUENV1 PCB         | 1        | 1        |       |
+| EDUENV1 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 2        |
-| Ceramic Capacitor (100nF)     | 8        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 8        | 8        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 6        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 6        | 6        |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 1        |
-| Op Amp Dual (TL072)    | 3        |
-| 8 Pin DIP Sockets      | 3        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 1        | 1        |       |
+| Op Amp Dual (TL072)    | 3        | 3        |       |
+| 8 Pin DIP Sockets      | 3        | 3        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (A1M)   | 2        |
-| Vertical Trim Potentiometer (A100K) | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (A1M)   | 2        | 2        |       |
+| Vertical Trim Potentiometer (A100K) | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 10       |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (10K)  | 1        |
-| Metal Film resistor (1K)   | 2        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (100R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 10       | 10       |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 1        | 1        |       |
+| Metal Film resistor (1K)   | 2        | 2        |       |
+| Metal Film resistor (470R) | 1        | 1        |       |
+| Metal Film resistor (100R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        |
-| 3mm Red LED                           | 1        |
-| Mono Audio Jack                       | 3        |
-| 10 Pin Power Header                   | 1        |
-| 10-16 pin Power Cable                 | 1        |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 3mm Red LED                           | 1        | 1        |       |
+| Mono Audio Jack                       | 3        | 3        |       |
+| 10 Pin Power Header                   | 1        | 1        |       |
+| 10-16 pin Power Cable                 | 1        | 1        |       |
 
 ### How It Works
 
@@ -920,58 +920,58 @@ Kit contains the `Quantity` needed for building 1 unit, and I have purchased 3 a
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUVCA2 PCB         | 1        |
-| EDUVCA2 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUVCA2 PCB         | 1        | 1        |       |
+| EDUVCA2 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Ceramic Capacitor (100nF)     | 6        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 6        | 6        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 4        |
-| Op Amp Dual (TL072)    | 2        |
-| 8 Pin DIP Sockets      | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 4        | 4        |       |
+| Op Amp Dual (TL072)    | 2        | 2        |       |
+| 8 Pin DIP Sockets      | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| PCB Mount Trim Potentiometer (100K) | 2        |
-| Vertical Trim Potentiometer (B100K) | 2        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (100K) | 2        | 2        |       |
+| Vertical Trim Potentiometer (B100K) | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 12       |
-| Metal Film resistor (82K)  | 2        |
-| Metal Film resistor (20K)  | 6        |
-| Metal Film resistor (10K)  | 6        |
-| Metal Film resistor (1K)   | 2        |
-| Metal Film resistor (100R) | 4        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 12       | 12       |       |
+| Metal Film resistor (82K)  | 2        | 2        |       |
+| Metal Film resistor (20K)  | 6        | 6        |       |
+| Metal Film resistor (10K)  | 6        | 6        |       |
+| Metal Film resistor (1K)   | 2        | 2        |       |
+| Metal Film resistor (100R) | 4        | 4        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 6        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 6        | 6        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -993,66 +993,66 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUOUT1 PCB         | 1        |
-| EDUOUT1 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUOUT1 PCB         | 1        | 1        |       |
+| EDUOUT1 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 2        |
-| Ceramic Capacitor (100nF)     | 6        |
-| Ceramic Capacitor (22pF)      | 2        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 6        | 6        |       |
+| Ceramic Capacitor (22pF)      | 2        | 2        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 12       |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 12       | 12       |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BD139) | 2        |
-| Transistor PNP (BD140) | 2        |
-| Op Amp Dual (TL072)    | 2        |
-| 8 Pin DIP Sockets      | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BD139) | 2        | 2        |       |
+| Transistor PNP (BD140) | 2        | 2        |       |
+| Op Amp Dual (TL072)    | 2        | 2        |       |
+| 8 Pin DIP Sockets      | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (B10K)  | 2        |
-| Vertical Trim Potentiometer (B100K) | 2        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B10K)  | 2        | 2        |       |
+| Vertical Trim Potentiometer (B100K) | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (200K) | 2        |
-| Metal Film resistor (100K) | 6        |
-| Metal Film resistor (30K)  | 2        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (3.6K) | 4        |
-| Metal Film resistor (1K)   | 6        |
-| Metal Film resistor (470R) | 2        |
-| Metal Film resistor (47R)  | 2        |
-| Metal Film resistor (10R)  | 2        |
-| Metal Film resistor (2R)   | 4        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (200K) | 2        | 2        |       |
+| Metal Film resistor (100K) | 6        | 6        |       |
+| Metal Film resistor (30K)  | 2        | 2        |       |
+| Metal Film resistor (10K)  | 4        | 4        |       |
+| Metal Film resistor (3.6K) | 4        | 4        |       |
+| Metal Film resistor (1K)   | 6        | 6        |       |
+| Metal Film resistor (470R) | 2        | 2        |       |
+| Metal Film resistor (47R)  | 2        | 2        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
+| Metal Film resistor (2R)   | 4        | 4        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 2        |
-| Stereo Audio Jack     | 2        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 2        | 2        |       |
+| Stereo Audio Jack     | 2        | 2        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### :white_check_mark: Assembly
 
@@ -1066,62 +1066,62 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUWAVE1 PCB         | 1        |
-| EDUWAVE1 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUWAVE1 PCB         | 1        | 1        |       |
+| EDUWAVE1 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100nF)     | 4        |
-| Film Capacitor (2.2nF)        | 2        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 4        | 4        |       |
+| Film Capacitor (2.2nF)        | 2        | 2        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 4        |
-| Transistor PNP (BC558) | 2        |
-| Op Amp Quad (TL074)    | 1        |
-| 14 Pin DIP Sockets     | 1        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 4        | 4        |       |
+| Transistor PNP (BC558) | 2        | 2        |       |
+| Op Amp Quad (TL074)    | 1        | 1        |       |
+| 14 Pin DIP Sockets     | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                               | Quantity |
-| ---------------------------------- | -------- |
-| PCB Mount Trim Potentiometer (10K) | 1        |
-| Vertical Trim Potentiometer (B10K) | 1        |
+| Item                               | Quantity | Received | Notes |
+| ---------------------------------- | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (10K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B10K) | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (220K) | 1        |
-| Metal Film resistor (100K) | 3        |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (22K)  | 1        |
-| Metal Film resistor (20K)  | 4        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (1K)   | 5        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (220K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 3        | 3        |       |
+| Metal Film resistor (51K)  | 1        | 1        |       |
+| Metal Film resistor (22K)  | 1        | 1        |       |
+| Metal Film resistor (20K)  | 4        | 4        |       |
+| Metal Film resistor (10K)  | 4        | 4        |       |
+| Metal Film resistor (1K)   | 5        | 5        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 3        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 3        | 3        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1139,78 +1139,78 @@ Kit contains the `Quantity` needed for building 1 unit. I have purchased 2 units
 
 #### PCB
 
-| Item               | Quantity |
-| ------------------ | -------- |
-| EDUSH2 PCB         | 1        |
-| EDUSH2 Front Panel | 1        |
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| EDUSH2 PCB         | 1        | 1        |       |
+| EDUSH2 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 3        |
-| Film Capacitor (1uF)          | 2        |
-| Film Capacitor (470nF)        | 1        |
-| Ceramic Capacitor (100nF)     | 8        |
-| Film Capacitor (100nF)        | 1        |
-| Film Capacitor (5.6nF)        | 2        |
-| Film Capacitor (2.2nF)        | 2        |
-| Ceramic Capacitor (1nF)       | 1        |
-| Film Capacitor (680pF)        | 2        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 3        | 3        |       |
+| Film Capacitor (1uF)          | 2        | 2        |       |
+| Film Capacitor (470nF)        | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 8        | 8        |       |
+| Film Capacitor (100nF)        | 1        | 1        |       |
+| Film Capacitor (5.6nF)        | 2        | 2        |       |
+| Film Capacitor (2.2nF)        | 2        | 2        |       |
+| Ceramic Capacitor (1nF)       | 1        | 1        |       |
+| Film Capacitor (680pF)        | 2        | 2        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Transistor NPN (2N3904) | 1        |
-| Transistor NPN (BC548)  | 1        |
-| Transistor JFET (J113)  | 1        |
-| Op Amp Dual (TL072)     | 1        |
-| Op Amp Quad (TL074)     | 2        |
-| 8 Pin DIP Sockets       | 1        |
-| 14 Pin DIP Sockets      | 2        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (2N3904) | 1        | 1        |       |
+| Transistor NPN (BC548)  | 1        | 1        |       |
+| Transistor JFET (J113)  | 1        | 1        |       |
+| Op Amp Dual (TL072)     | 1        | 1        |       |
+| Op Amp Quad (TL074)     | 2        | 2        |       |
+| 8 Pin DIP Sockets       | 1        | 1        |       |
+| 14 Pin DIP Sockets      | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| Vertical Alpha Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (B100K)  | 2        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Vertical Alpha Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K)  | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 2        |
-| Metal Film resistor (470K) | 2        |
-| Metal Film resistor (100K) | 12       |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (33K)  | 2        |
-| Metal Film resistor (22K)  | 1        |
-| Metal Film resistor (20K)  | 1        |
-| Metal Film resistor (10K)  | 1        |
-| Metal Film resistor (4.7K) | 2        |
-| Metal Film resistor (2K)   | 1        |
-| Metal Film resistor (1K)   | 6        |
-| Metal Film resistor (680R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 2        |       |
+| Metal Film resistor (470K) | 2        | 2        |       |
+| Metal Film resistor (100K) | 12       | 12       |       |
+| Metal Film resistor (51K)  | 1        | 1        |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (33K)  | 2        | 2        |       |
+| Metal Film resistor (22K)  | 1        | 1        |       |
+| Metal Film resistor (20K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 1        | 1        |       |
+| Metal Film resistor (4.7K) | 2        | 2        |       |
+| Metal Film resistor (2K)   | 1        | 1        |       |
+| Metal Film resistor (1K)   | 6        | 6        |       |
+| Metal Film resistor (680R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| 3mm Red LED           | 1        |
-| Mono Audio Jack       | 8        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| 3mm Red LED           | 1        | 1        |       |
+| Mono Audio Jack       | 8        | 8        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -1222,55 +1222,55 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUMIX2 PCB         | 1        |
-| EDUMIX2 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUMIX2 PCB         | 1        | 1        |       |
+| EDUMIX2 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Ceramic Capacitor (100nF)     | 6        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 6        | 6        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| Op Amp Dual (TL072) | 2        |
-| 8 Pin DIP Sockets   | 2        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Op Amp Dual (TL072) | 2        | 2        |       |
+| 8 Pin DIP Sockets   | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| PCB Mount Trim Potentiometer (20K)  | 1        |
-| Vertical Trim Potentiometer (B100K) | 3        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (20K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K) | 3        | 3        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 8        |
-| Metal Film resistor (27K)  | 1        |
-| Metal Film resistor (1K)   | 3        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 8        | 8        |       |
+| Metal Film resistor (27K)  | 1        | 1        |       |
+| Metal Film resistor (1K)   | 3        | 3        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 6        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 6        | 6        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1283,6 +1283,10 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/MIXER_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-mixer)
 
 ## KONSTRUKT-8 // EDU DIY Drum System
+
+[Erica Synths KONSTRUKT-8 // EDU DIY Drum System Video](https://www.youtube-nocookie.com/embed/hcJCAo_qtKE)
+
+> Video © 2026 [Erica Synths](https://www.youtube.com/@EricaSynths)
 
 The order of the modules for the Drum System Case are as follows:
 
@@ -1308,73 +1312,73 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUKICK2 PCB         | 1        |
-| EDUKICK2 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes                                                                                                              |
+| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| EDUKICK2 PCB         | 1        | 1        |                                                                                                                    |
+| EDUKICK2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (220nF)        | 1        |
-| Ceramic Capacitor (100nF)     | 6        |
-| Film Capacitor (15nF)         | 3        |
-| Film Capacitor (10nF)         | 1        |
-| Film Capacitor (3.3nF)        | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (220nF)        | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 6        | 6        |       |
+| Film Capacitor (15nF)         | 3        | 3        |       |
+| Film Capacitor (10nF)         | 1        | 1        |       |
+| Film Capacitor (3.3nF)        | 1        | 1        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 7        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 7        | 7        |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 3        |
-| Transistor PNP (BC558) | 2        |
-| Op Amp Dual (TL072)    | 2        |
-| 8 Pin DIP Sockets      | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 3        | 3        |       |
+| Transistor PNP (BC558) | 2        | 2        |       |
+| Op Amp Dual (TL072)    | 2        | 2        |       |
+| 8 Pin DIP Sockets      | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Alpha Potentiometer (B1M)  | 1        |
-| Vertical Trim Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (A100K) | 1        |
-| Vertical Trim Potentiometer (B100K) | 2        |
-| Vertical Trim Potentiometer (B50K)  | 1        |
-| Vertical Trim Potentiometer (B10K)  | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Alpha Potentiometer (B1M)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (A100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K) | 2        | 2        |       |
+| Vertical Trim Potentiometer (B50K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B10K)  | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 2        |
-| Metal Film resistor (470K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 5        |
-| Metal Film resistor (47K)  | 2        |
-| Metal Film resistor (39K)  | 1        |
-| Metal Film resistor (33K)  | 2        |
-| Metal Film resistor (14K)  | 1        |
-| Metal Film resistor (10K)  | 2        |
-| Metal Film resistor (2K)   | 1        |
-| Metal Film resistor (1K)   | 3        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 2        |       |
+| Metal Film resistor (470K) | 1        | 1        |       |
+| Metal Film resistor (120K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 5        | 5        |       |
+| Metal Film resistor (47K)  | 2        | 2        |       |
+| Metal Film resistor (39K)  | 1        | 1        |       |
+| Metal Film resistor (33K)  | 2        | 2        |       |
+| Metal Film resistor (14K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 2        | 2        |       |
+| Metal Film resistor (2K)   | 1        | 1        |       |
+| Metal Film resistor (1K)   | 3        | 3        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 4        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 4        | 4        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1392,77 +1396,77 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUSNAR1 PCB         | 1        |
-| EDUSNAR1 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes                                                                                                              |
+| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| EDUSNAR1 PCB         | 1        | 1        |                                                                                                                    |
+| EDUSNAR1 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (470nF)     | 2        |
-| Ceramic Capacitor (100nF)     | 8        |
-| Film Capacitor (33nF)         | 3        |
-| Film Capacitor (10nF)         | 2        |
-| Ceramic Capacitor (2.2nF)     | 2        |
-| Film Capacitor (1nF)          | 2        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (470nF)     | 2        | 2        |       |
+| Ceramic Capacitor (100nF)     | 8        | 8        |       |
+| Film Capacitor (33nF)         | 3        | 3        |       |
+| Film Capacitor (10nF)         | 2        | 2        |       |
+| Ceramic Capacitor (2.2nF)     | 2        | 2        |       |
+| Film Capacitor (1nF)          | 2        | 2        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 6        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 6        | 6        |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 5        |
-| Transistor PNP (BC558) | 2        |
-| Op Amp Dual (TL072)    | 3        |
-| 8 Pin DIP Sockets      | 3        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 5        | 5        |       |
+| Transistor PNP (BC558) | 2        | 2        |       |
+| Op Amp Dual (TL072)    | 3        | 3        |       |
+| 8 Pin DIP Sockets      | 3        | 3        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (A100K) | 1        |
-| Vertical Trim Potentiometer (B100K) | 1        |
-| Vertical Trim Potentiometer (B5K)   | 1        |
-| Vertical Alpha Potentiometer (B1K)  | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (A100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B5K)   | 1        | 1        |       |
+| Vertical Alpha Potentiometer (B1K)  | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 2        |
-| Metal Film resistor (910K) | 1        |
-| Metal Film resistor (470K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 7        |
-| Metal Film resistor (47K)  | 3        |
-| Metal Film resistor (39K)  | 1        |
-| Metal Film resistor (33K)  | 2        |
-| Metal Film resistor (27K)  | 1        |
-| Metal Film resistor (22K)  | 5        |
-| Metal Film resistor (10K)  | 2        |
-| Metal Film resistor (1K)   | 7        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (330R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 2        | 2        |       |
+| Metal Film resistor (910K) | 1        | 1        |       |
+| Metal Film resistor (470K) | 1        | 1        |       |
+| Metal Film resistor (120K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 7        | 7        |       |
+| Metal Film resistor (47K)  | 3        | 3        |       |
+| Metal Film resistor (39K)  | 1        | 1        |       |
+| Metal Film resistor (33K)  | 2        | 2        |       |
+| Metal Film resistor (27K)  | 1        | 1        |       |
+| Metal Film resistor (22K)  | 5        | 5        |       |
+| Metal Film resistor (10K)  | 2        | 2        |       |
+| Metal Film resistor (1K)   | 7        | 7        |       |
+| Metal Film resistor (470R) | 1        | 1        |       |
+| Metal Film resistor (330R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 5        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 5        | 5        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1476,91 +1480,95 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### FM Drum
 
+[Erica Synths x mki DIY FM DRUM sound demo Video](https://www.youtube-nocookie.com/embed/c3QBm4yFoKM)
+
+> Video © 2025 [Erica Synths](https://www.youtube.com/@EricaSynths)
+
 Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUFMD2 PCB         | 1        |
-| EDUFMD2 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUFMD2 PCB         | 1        | 1        |       |
+| EDUFMD2 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (470nF)     | 1        |
-| Ceramic Capacitor (100nF)     | 4        |
-| Film Capacitor (15nF)         | 1        |
-| Ceramic Capacitor (10nF)      | 1        |
-| Film Capacitor (5.6nF)        | 1        |
-| Film Capacitor (2.2nF)        | 1        |
-| Film Capacitor (470pF)        | 2        |
-| Film Capacitor (330pF)        | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (470nF)     | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 4        | 4        |       |
+| Film Capacitor (15nF)         | 1        | 1        |       |
+| Ceramic Capacitor (10nF)      | 1        | 1        |       |
+| Film Capacitor (5.6nF)        | 1        | 1        |       |
+| Film Capacitor (2.2nF)        | 1        | 1        |       |
+| Film Capacitor (470pF)        | 2        | 2        |       |
+| Film Capacitor (330pF)        | 1        | 1        |       |
 
 #### Diodes
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Schottky Diode (1N5819) | 2        |
-| Signal Diode (1N4148)   | 18       |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Schottky Diode (1N5819) | 2        | 2        |       |
+| Signal Diode (1N4148)   | 18       | 18       |       |
 
 #### Integrated Circuits
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Transistor NPN (BC548) | 8        |
-| Transistor PNP (BC558) | 5        |
-| Op Amp Dual (TL072)    | 1        |
-| Op Amp Quad (TL074)    | 1        |
-| 8 Pin DIP Sockets      | 1        |
-| 14 Pin DIP Sockets     | 1        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548) | 8        | 8        |       |
+| Transistor PNP (BC558) | 5        | 5        |       |
+| Op Amp Dual (TL072)    | 1        | 1        |       |
+| Op Amp Quad (TL074)    | 1        | 1        |       |
+| 8 Pin DIP Sockets      | 1        | 1        |       |
+| 14 Pin DIP Sockets     | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| PCB Mount Trim Potentiometer (2M)    | 1        |
-| Vertical Trim Potentiometer (B1M)    | 1        |
-| Vertical Trim Potentiometer (A500K)  | 1        |
-| Vertical Trim Potentiometer (B250K)  | 1        |
-| Vertical Alpha Potentiometer (A100K) | 2        |
-| Vertical Trim Potentiometer (A100K)  | 1        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| PCB Mount Trim Potentiometer (2M)    | 1        | 1        |       |
+| Vertical Trim Potentiometer (B1M)    | 1        | 1        |       |
+| Vertical Trim Potentiometer (A500K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B250K)  | 1        | 1        |       |
+| Vertical Alpha Potentiometer (A100K) | 2        | 2        |       |
+| Vertical Trim Potentiometer (A100K)  | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 4        |
-| Metal Film resistor (470K) | 3        |
-| Metal Film resistor (330K) | 1        |
-| Metal Film resistor (200K) | 1        |
-| Metal Film resistor (100K) | 16       |
-| Metal Film resistor (68K)  | 1        |
-| Metal Film resistor (51K)  | 2        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (39K)  | 2        |
-| Metal Film resistor (33K)  | 3        |
-| Metal Film resistor (18K)  | 1        |
-| Metal Film resistor (10K)  | 7        |
-| Metal Film resistor (5.6K) | 1        |
-| Metal Film resistor (4.7K) | 1        |
-| Metal Film resistor (2K)   | 2        |
-| Metal Film resistor (1K)   | 4        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (47R)  | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 4        | 4        |       |
+| Metal Film resistor (470K) | 3        | 3        |       |
+| Metal Film resistor (330K) | 1        | 1        |       |
+| Metal Film resistor (200K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 16       | 16       |       |
+| Metal Film resistor (68K)  | 1        | 1        |       |
+| Metal Film resistor (51K)  | 2        | 2        |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (39K)  | 2        | 2        |       |
+| Metal Film resistor (33K)  | 3        | 3        |       |
+| Metal Film resistor (18K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 7        | 7        |       |
+| Metal Film resistor (5.6K) | 1        | 1        |       |
+| Metal Film resistor (4.7K) | 1        | 1        |       |
+| Metal Film resistor (2K)   | 2        | 2        |       |
+| Metal Film resistor (1K)   | 4        | 4        |       |
+| Metal Film resistor (470R) | 1        | 1        |       |
+| Metal Film resistor (47R)  | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| Mono Audio Jack                       | 5        |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch | 2        |
-| 10 Pin Power Header                   | 1        |
-| 10-16 pin Power Cable                 | 1        |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                       | 5        | 5        |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 2        | 2        |       |
+| 10 Pin Power Header                   | 1        | 1        |       |
+| 10-16 pin Power Cable                 | 1        | 1        |       |
 
 ### How It Works
 
@@ -1578,82 +1586,82 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUHHAT2 PCB         | 1        |
-| EDUHHAT2 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes                                                                                                              |
+| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| EDUHHAT2 PCB         | 1        | 1        |                                                                                                                    |
+| EDUHHAT2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (470nF)     | 1        |
-| Ceramic Capacitor (100nF)     | 13       |
-| Ceramic Capacitor (10nF)      | 1        |
-| Ceramic Capacitor (2.2nF)     | 1        |
-| Ceramic Capacitor (1nF)       | 2        |
-| Ceramic Capacitor (330pF)     | 2        |
-| Ceramic Capacitor (100pF)     | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (470nF)     | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 13       | 13       |       |
+| Ceramic Capacitor (10nF)      | 1        | 1        |       |
+| Ceramic Capacitor (2.2nF)     | 1        | 1        |       |
+| Ceramic Capacitor (1nF)       | 2        | 2        |       |
+| Ceramic Capacitor (330pF)     | 2        | 2        |       |
+| Ceramic Capacitor (100pF)     | 1        | 1        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Schottky Diode (SB140) | 2        |
-| Signal Diode (1N4148)  | 6        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Schottky Diode (SB140) | 2        | 2        |       |
+| Signal Diode (1N4148)  | 6        | 6        |       |
 
 #### Integrated Circuits
 
-| Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| Transistor NPN (BC548)                 | 4        |
-| Transistor PNP (BC558)                 | 2        |
-| Op Amp Dual (TL072)                    | 3        |
-| Hex Schmitt-Trigger Inverter (CD40106) | 1        |
-| 8 Pin DIP Sockets                      | 3        |
-| 14 Pin DIP Sockets                     | 2        |
+| Item                                   | Quantity | Received | Notes |
+| -------------------------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548)                 | 4        | 4        |       |
+| Transistor PNP (BC558)                 | 2        | 2        |       |
+| Op Amp Dual (TL072)                    | 3        | 3        |       |
+| Hex Schmitt-Trigger Inverter (CD40106) | 1        | 1        |       |
+| 8 Pin DIP Sockets                      | 3        | 3        |       |
+| 14 Pin DIP Sockets                     | 2        | 2        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| Vertical Trim Potentiometer (B250K)  | 1        |
-| Vertical Alpha Potentiometer (B100K) | 1        |
-| Vertical Trim Potentiometer (B10K)   | 2        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B250K)  | 1        | 1        |       |
+| Vertical Alpha Potentiometer (B100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B10K)   | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (1M)   | 1        |
-| Metal Film resistor (820K) | 1        |
-| Metal Film resistor (470K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 18       |
-| Metal Film resistor (82K)  | 1        |
-| Metal Film resistor (68K)  | 1        |
-| Metal Film resistor (56K)  | 1        |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (47K)  | 3        |
-| Metal Film resistor (39K)  | 2        |
-| Metal Film resistor (33K)  | 2        |
-| Metal Film resistor (22K)  | 1        |
-| Metal Film resistor (10K)  | 1        |
-| Metal Film resistor (4.7K) | 1        |
-| Metal Film resistor (1K)   | 3        |
-| Metal Film resistor (680R) | 1        |
-| Metal Film resistor (100R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (1M)   | 1        | 1        |       |
+| Metal Film resistor (820K) | 1        | 1        |       |
+| Metal Film resistor (470K) | 1        | 1        |       |
+| Metal Film resistor (120K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 18       | 18       |       |
+| Metal Film resistor (82K)  | 1        | 1        |       |
+| Metal Film resistor (68K)  | 1        | 1        |       |
+| Metal Film resistor (56K)  | 1        | 1        |       |
+| Metal Film resistor (51K)  | 1        | 1        |       |
+| Metal Film resistor (47K)  | 3        | 3        |       |
+| Metal Film resistor (39K)  | 2        | 2        |       |
+| Metal Film resistor (33K)  | 2        | 2        |       |
+| Metal Film resistor (22K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 1        | 1        |       |
+| Metal Film resistor (4.7K) | 1        | 1        |       |
+| Metal Film resistor (1K)   | 3        | 3        |       |
+| Metal Film resistor (680R) | 1        | 1        |       |
+| Metal Film resistor (100R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 5        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 5        | 5        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1667,83 +1675,87 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Bucket Brigade Delay (BBD)
 
+[Erica Synths x mki DIY BBD sound demo Video](https://www.youtube-nocookie.com/embed/hgKO5EIRT3E)
+
+> Video © 2024 [Erica Synths](https://www.youtube.com/@EricaSynths)
+
 Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EDUBBD2 PCB         | 1        |
-| EDUBBD2 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EDUBBD2 PCB         | 1        | 1        |       |
+| EDUBBD2 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| Electrolytic Capacitor (47uF)  | 2        |
-| Electrolytic Capacitor (3.3uF) | 2        |
-| Film Capacitor (1uF)           | 2        |
-| Film Capacitor (15nF)          | 1        |
-| Ceramic Capacitor (100nF)      | 12       |
-| Ceramic Capacitor (1nF)        | 1        |
-| Ceramic Capacitor (220pF)      | 2        |
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF)  | 2        | 2        |       |
+| Electrolytic Capacitor (3.3uF) | 2        | 2        |       |
+| Film Capacitor (1uF)           | 2        | 2        |       |
+| Film Capacitor (15nF)          | 1        | 1        |       |
+| Ceramic Capacitor (100nF)      | 12       | 12       |       |
+| Ceramic Capacitor (1nF)        | 1        | 1        |       |
+| Ceramic Capacitor (220pF)      | 2        | 2        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Signal Diode (1N4148)  | 5        |
-| Schottky Diode (SB140) | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148)  | 5        | 5        |       |
+| Schottky Diode (SB140) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| N-CH JFET (J113)     | 1        |
-| 5V Regulator (78L05) | 1        |
-| Op Amp Dual (TL072)  | 3        |
-| BBF 4096 (V3205SD)   | 1        |
-| PLL (CD4046BE)       | 1        |
-| 8 Pin DIP Sockets    | 3        |
-| 14 Pin DIP Sockets   | 1        |
-| 16 Pin DIP Sockets   | 1        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| N-CH JFET (J113)     | 1        | 1        |       |
+| 5V Regulator (78L05) | 1        | 1        |       |
+| Op Amp Dual (TL072)  | 3        | 3        |       |
+| BBF 4096 (V3205SD)   | 1        | 1        |       |
+| PLL (CD4046BE)       | 1        | 1        |       |
+| 8 Pin DIP Sockets    | 3        | 3        |       |
+| 14 Pin DIP Sockets   | 1        | 1        |       |
+| 16 Pin DIP Sockets   | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| Vertical Alpha Potentiometer (B100K) | 1        |
-| Vertical Trim Potentiometer (A100K)  | 1        |
-| Vertical Trim Potentiometer (B100K)  | 2        |
-| Vertical Trim Potentiometer (B10K)   | 1        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Vertical Alpha Potentiometer (B100K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (A100K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K)  | 2        | 2        |       |
+| Vertical Trim Potentiometer (B10K)   | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (2.2M) | 1        |
-| Metal Film resistor (100K) | 9        |
-| Metal Film resistor (82K)  | 1        |
-| Metal Film resistor (62K)  | 1        |
-| Metal Film resistor (51K)  | 1        |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (39K)  | 1        |
-| Metal Film resistor (22K)  | 3        |
-| Metal Film resistor (10K)  | 2        |
-| Metal Film resistor (6.2K) | 1        |
-| Metal Film resistor (4.7K) | 1        |
-| Metal Film resistor (1K)   | 1        |
-| Metal Film resistor (470R) | 2        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (2.2M) | 1        | 1        |       |
+| Metal Film resistor (100K) | 9        | 9        |       |
+| Metal Film resistor (82K)  | 1        | 1        |       |
+| Metal Film resistor (62K)  | 1        | 1        |       |
+| Metal Film resistor (51K)  | 1        | 1        |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (39K)  | 1        | 1        |       |
+| Metal Film resistor (22K)  | 3        | 3        |       |
+| Metal Film resistor (10K)  | 2        | 2        |       |
+| Metal Film resistor (6.2K) | 1        | 1        |       |
+| Metal Film resistor (4.7K) | 1        | 1        |       |
+| Metal Film resistor (1K)   | 1        | 1        |       |
+| Metal Film resistor (470R) | 2        | 2        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| Mono Audio Jack                       | 5        |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        |
-| 10 Pin Power Header                   | 1        |
-| 10-16 pin Power Cable                 | 1        |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                       | 5        | 5        |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| 10 Pin Power Header                   | 1        | 1        |       |
+| 10-16 pin Power Cable                 | 1        | 1        |       |
 
 ### How It Works
 
@@ -1761,82 +1773,82 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUDRSQ3 PCB         | 1        |
-| EDUDRSQ3 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| EDUDRSQ3 PCB         | 1        | 1        |       |
+| EDUDRSQ3 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 5        |
-| Ceramic Capacitor (100nF)     | 24       |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 5        | 5        |       |
+| Ceramic Capacitor (100nF)     | 24       | 24       |       |
 
 #### Diodes
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Signal Diode (1N4148)   | 15       |
-| Schottky Diode (1N5819) | 2        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148)   | 15       | 15       |       |
+| Schottky Diode (1N5819) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Transistor NPN (BC548)  | 20       |
-| Transistor PNP (BC558)  | 9        |
-| Op Amp Dual (TL072)     | 1        |
-| Op Amp Quad (TL074)     | 2        |
-| Binary Counter (CD4520) | 1        |
-| Shift Register (CD4015) | 8        |
-| 8 Pin DIP Sockets       | 1        |
-| 14 Pin DIP Sockets      | 2        |
-| 16 Pin DIP Sockets      | 9        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (BC548)  | 20       | 20       |       |
+| Transistor PNP (BC558)  | 9        | 9        |       |
+| Op Amp Dual (TL072)     | 1        | 1        |       |
+| Op Amp Quad (TL074)     | 2        | 2        |       |
+| Binary Counter (CD4520) | 1        | 1        |       |
+| Shift Register (CD4015) | 8        | 8        |       |
+| 8 Pin DIP Sockets       | 1        | 1        |       |
+| 14 Pin DIP Sockets      | 2        | 2        |       |
+| 16 Pin DIP Sockets      | 9        | 9        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| Vertical Trim Potentiometer (B1M)    | 2        |
-| Vertical Alpha Potentiometer (B250K) | 1        |
-| Vertical Trim Potentiometer (B100K)  | 2        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (B1M)    | 2        | 2        |       |
+| Vertical Alpha Potentiometer (B250K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (B100K)  | 2        | 2        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (2.2M) | 2        |
-| Metal Film resistor (1M)   | 8        |
-| Metal Film resistor (200K) | 2        |
-| Metal Film resistor (100K) | 21       |
-| Metal Film resistor (82K)  | 4        |
-| Metal Film resistor (51K)  | 2        |
-| Metal Film resistor (39K)  | 6        |
-| Metal Film resistor (27K)  | 1        |
-| Metal Film resistor (20K)  | 4        |
-| Metal Film resistor (15K)  | 5        |
-| Metal Film resistor (10K)  | 14       |
-| Metal Film resistor (4.7K) | 7        |
-| Metal Film resistor (2K)   | 4        |
-| Metal Film resistor (1K)   | 1        |
-| Metal Film resistor (470R) | 13       |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (2.2M) | 2        | 2        |       |
+| Metal Film resistor (1M)   | 8        | 8        |       |
+| Metal Film resistor (200K) | 2        | 2        |       |
+| Metal Film resistor (100K) | 21       | 21       |       |
+| Metal Film resistor (82K)  | 4        | 4        |       |
+| Metal Film resistor (51K)  | 2        | 2        |       |
+| Metal Film resistor (39K)  | 6        | 6        |       |
+| Metal Film resistor (27K)  | 1        | 1        |       |
+| Metal Film resistor (20K)  | 4        | 4        |       |
+| Metal Film resistor (15K)  | 5        | 5        |       |
+| Metal Film resistor (10K)  | 14       | 14       |       |
+| Metal Film resistor (4.7K) | 7        | 7        |       |
+| Metal Film resistor (2K)   | 4        | 4        |       |
+| Metal Film resistor (1K)   | 1        | 1        |       |
+| Metal Film resistor (470R) | 13       | 13       |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                           | Quantity |
-| ---------------------------------------------- | -------- |
-| Mono Audio Jack                                | 14       |
-| DW1 SPDT ON-ON Sub-mini Toggle Switch          | 4        |
-| DW4 DPDT DPDT ON-OFF-ON Sub-mini Toggle Switch | 6        |
-| Push Button (KS01-BV)                          | 1        |
-| Push Button (Cherry MX)                        | 4        |
-| 3mm Red LED                                    | 3        |
-| 1.8mm Red LED                                  | 4        |
-| 10 Pin Power Header                            | 1        |
-| 10-16 pin Power Cable                          | 1        |
+| Item                                           | Quantity | Received | Notes |
+| ---------------------------------------------- | -------- | -------- | ----- |
+| Mono Audio Jack                                | 14       | 14       |       |
+| DW1 SPDT ON-ON Sub-mini Toggle Switch          | 4        | 4        |       |
+| DW4 DPDT DPDT ON-OFF-ON Sub-mini Toggle Switch | 6        | 6        |       |
+| Push Button (KS01-BV)                          | 1        | 1        |       |
+| Push Button (Cherry MX)                        | 4        | 4        |       |
+| 3mm Red LED                                    | 3        | 3        |       |
+| 1.8mm Red LED                                  | 4        | 4        |       |
+| 10 Pin Power Header                            | 1        | 1        |       |
+| 10-16 pin Power Cable                          | 1        | 1        |       |
 
 ### How It Works
 
@@ -1854,65 +1866,65 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| EMIXDR1C PCB        | 1        |
-| EMIXDR1M PCB        | 1        |
-| EMIXDR1 Front Panel | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| EMIXDR1C PCB        | 1        | 1        |       |
+| EMIXDR1M PCB        | 1        | 1        |       |
+| EMIXDR1 Front Panel | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1uF)          | 1        |
-| Ceramic Capacitor (100nF)     | 8        |
-| Ceramic Capacitor (220pF)     | 2        |
-| Ceramic Capacitor (22pF)      | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1uF)          | 1        | 1        |       |
+| Ceramic Capacitor (100nF)     | 8        | 8        |       |
+| Ceramic Capacitor (220pF)     | 2        | 2        |       |
+| Ceramic Capacitor (22pF)      | 1        | 1        |       |
 
 #### Diodes
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Signal Diode (1N4148)   | 2        |
-| Schottky Diode (1N5819) | 2        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148)   | 2        | 2        |       |
+| Schottky Diode (1N5819) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| 8 Pin DIP Sockets           | 1        |
-| 14 Pin DIP Sockets          | 2        |
-| Op Amp Quad (TL074)         | 2        |
-| Power Op Amp Dual (NJM4556) | 1        |
+| Item                        | Quantity | Received | Notes |
+| --------------------------- | -------- | -------- | ----- |
+| 8 Pin DIP Sockets           | 1        | 1        |       |
+| 14 Pin DIP Sockets          | 2        | 2        |       |
+| Op Amp Quad (TL074)         | 2        | 2        |       |
+| Power Op Amp Dual (NJM4556) | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (A100K) | 9        |
-| Vertical Trim Potentiometer (B100K) | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (A100K) | 9        | 9        |       |
+| Vertical Trim Potentiometer (B100K) | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 16       |
-| Metal Film resistor (33K)  | 1        |
-| Metal Film resistor (15K)  | 2        |
-| Metal Film resistor (10K)  | 2        |
-| Metal Film resistor (3.3K) | 2        |
-| Metal Film resistor (470R) | 4        |
-| Metal Film resistor (10R)  | 4        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 16       | 16       |       |
+| Metal Film resistor (33K)  | 1        | 1        |       |
+| Metal Film resistor (15K)  | 2        | 2        |       |
+| Metal Film resistor (10K)  | 2        | 2        |       |
+| Metal Film resistor (3.3K) | 2        | 2        |       |
+| Metal Film resistor (470R) | 4        | 4        |       |
+| Metal Film resistor (10R)  | 4        | 4        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 8        |
-| Stereo Audio Jack     | 2        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 8        | 8        |       |
+| Stereo Audio Jack     | 2        | 2        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -1930,75 +1942,75 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| EDUCOMP2 PCB         | 1        |
-| EDUCOMP2 Front Panel | 1        |
+| Item                 | Quantity | Received | Notes                                                                                                              |
+| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| EDUCOMP2 PCB         | 1        | 1        |                                                                                                                    |
+| EDUCOMP2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Electrolytic Capacitor (47uF) | 2        |
-| Film Capacitor (1.5uF)        | 3        |
-| Ceramic Capacitor (100nF)     | 8        |
-| Ceramic Capacitor (680pF)     | 1        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Electrolytic Capacitor (47uF) | 2        | 2        |       |
+| Film Capacitor (1.5uF)        | 3        | 3        |       |
+| Ceramic Capacitor (100nF)     | 8        | 8        |       |
+| Ceramic Capacitor (680pF)     | 1        | 1        |       |
 
 #### Diodes
 
-| Item                   | Quantity |
-| ---------------------- | -------- |
-| Signal Diode (1N4148)  | 13       |
-| Schottky Diode (SB140) | 2        |
+| Item                   | Quantity | Received | Notes |
+| ---------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148)  | 13       | 13       |       |
+| Schottky Diode (SB140) | 2        | 2        |       |
 
 #### Integrated Circuits
 
-| Item                    | Quantity |
-| ----------------------- | -------- |
-| Transistor NPN (2N3904) | 5        |
-| Op Amp Dual (TL072)     | 2        |
-| Op Amp Quad (TL074)     | 1        |
-| 8 Pin DIP Sockets       | 2        |
-| 14 Pin DIP Sockets      | 1        |
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------- | -------- | ----- |
+| Transistor NPN (2N3904) | 5        | 5        |       |
+| Op Amp Dual (TL072)     | 2        | 2        |       |
+| Op Amp Quad (TL074)     | 1        | 1        |       |
+| 8 Pin DIP Sockets       | 2        | 2        |       |
+| 14 Pin DIP Sockets      | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                | Quantity |
-| ----------------------------------- | -------- |
-| Vertical Trim Potentiometer (A1M)   | 1        |
-| Vertical Trim Potentiometer (A500K) | 1        |
-| Vertical Trim Potentiometer (A100K) | 2        |
-| Vertical Trim Potentiometer (A20K)  | 1        |
-| Vertical Trim Potentiometer (A10K)  | 1        |
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------- | -------- | ----- |
+| Vertical Trim Potentiometer (A1M)   | 1        | 1        |       |
+| Vertical Trim Potentiometer (A500K) | 1        | 1        |       |
+| Vertical Trim Potentiometer (A100K) | 2        | 2        |       |
+| Vertical Trim Potentiometer (A20K)  | 1        | 1        |       |
+| Vertical Trim Potentiometer (A10K)  | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (470K) | 2        |
-| Metal Film resistor (330K) | 1        |
-| Metal Film resistor (220K) | 1        |
-| Metal Film resistor (120K) | 1        |
-| Metal Film resistor (100K) | 11       |
-| Metal Film resistor (47K)  | 1        |
-| Metal Film resistor (33K)  | 4        |
-| Metal Film resistor (20K)  | 1        |
-| Metal Film resistor (10K)  | 4        |
-| Metal Film resistor (3.3K) | 4        |
-| Metal Film resistor (2K)   | 1        |
-| Metal Film resistor (470R) | 1        |
-| Metal Film resistor (200R) | 1        |
-| Metal Film resistor (10R)  | 2        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (470K) | 2        | 2        |       |
+| Metal Film resistor (330K) | 1        | 1        |       |
+| Metal Film resistor (220K) | 1        | 1        |       |
+| Metal Film resistor (120K) | 1        | 1        |       |
+| Metal Film resistor (100K) | 11       | 11       |       |
+| Metal Film resistor (47K)  | 1        | 1        |       |
+| Metal Film resistor (33K)  | 4        | 4        |       |
+| Metal Film resistor (20K)  | 1        | 1        |       |
+| Metal Film resistor (10K)  | 4        | 4        |       |
+| Metal Film resistor (3.3K) | 4        | 4        |       |
+| Metal Film resistor (2K)   | 1        | 1        |       |
+| Metal Film resistor (470R) | 1        | 1        |       |
+| Metal Film resistor (200R) | 1        | 1        |       |
+| Metal Film resistor (10R)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Mono Audio Jack       | 3        |
-| 3mm Red LED           | 2        |
-| 3mm Green LED         | 3        |
-| 10 Pin Power Header   | 1        |
-| 10-16 pin Power Cable | 1        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Mono Audio Jack       | 3        | 3        |       |
+| 3mm Red LED           | 2        | 2        |       |
+| 3mm Green LED         | 3        | 3        |       |
+| 10 Pin Power Header   | 1        | 1        |       |
+| 10-16 pin Power Cable | 1        | 1        |       |
 
 ### How It Works
 
@@ -2217,16 +2229,16 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                                                                 | Quantity |
-| -------------------------------------------------------------------- | -------- |
-| PO series Eurorack Adapter v.2 PCB                                   | 1        |
-| [Teenage Engineering PO-12](https://teenage.engineering/store/po-12) | 1        |
+| Item                                                                 | Quantity | Received | Notes |
+| -------------------------------------------------------------------- | -------- | -------- | ----- |
+| PO series Eurorack Adapter v.2 PCB                                   | 1        | 1        |       |
+| [Teenage Engineering PO-12](https://teenage.engineering/store/po-12) | 1        | 1        |       |
 
 #### Misc
 
-| Item            | Quantity |
-| --------------- | -------- |
-| Mono Audio Jack | 2        |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| Mono Audio Jack | 2        | 2        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2244,24 +2256,24 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item               | Quantity |
-| ------------------ | -------- |
-| Bypass Front Panel | 1        |
-| Bypass PCB         | 1        |
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| Bypass Front Panel | 1        | 1        |       |
+| Bypass PCB         | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| Aluminum Knob for Alpha Potentiometer | 2        |
-| Vertical Alpha Potentiometer (A100K)  | 2        |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| Aluminum Knob for Alpha Potentiometer | 2        | 2        |       |
+| Vertical Alpha Potentiometer (A100K)  | 2        | 2        |       |
 
 #### Misc
 
-| Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| DW3 DPDT ON-ON Sub-mini Toggle Switch | 1        |
-| Mono Audio Jack                       | 6        |
+| Item                                  | Quantity | Received | Notes |
+| ------------------------------------- | -------- | -------- | ----- |
+| DW3 DPDT ON-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| Mono Audio Jack                       | 6        | 6        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2277,25 +2289,25 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item            | Quantity |
-| --------------- | -------- |
-| TRS Front Panel | 1        |
-| TRS PCB         | 1        |
+| Item            | Quantity | Received | Notes |
+| --------------- | -------- | -------- | ----- |
+| TRS Front Panel | 1        | 1        |       |
+| TRS PCB         | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                            | Quantity |
-| ----------------------------------------------- | -------- |
-| Aluminum Knob for Alpha Potentiometer           | 1        |
-| Vertical Alpha Potentiometer - Dual Gang (A50K) | 1        |
+| Item                                            | Quantity | Received | Notes |
+| ----------------------------------------------- | -------- | -------- | ----- |
+| Aluminum Knob for Alpha Potentiometer           | 1        | 1        |       |
+| Vertical Alpha Potentiometer - Dual Gang (A50K) | 1        | 1        |       |
 
 #### Misc
 
-| Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        |
-| Mono Audio Jack                           | 2        |
-| Stereo Audio Jack                         | 8        |
+| Item                                      | Quantity | Received | Notes |
+| ----------------------------------------- | -------- | -------- | ----- |
+| DW4 DPDT ON-OFF-ON Sub-mini Toggle Switch | 1        | 1        |       |
+| Mono Audio Jack                           | 2        | 2        |       |
+| Stereo Audio Jack                         | 8        | 8        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2366,65 +2378,65 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| Tuna v1a Front Panel | 1        |
-| Tuna v1 PCB          | 1        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| Tuna v1a Front Panel | 1        | 1        |       |
+| Tuna v1 PCB          | 1        | 1        |       |
 
 #### Capacitors
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| Ceramic Capacitor (100nF)     | 3        |
-| Electrolytic Capacitor (10uF) | 3        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| Ceramic Capacitor (100nF)     | 3        | 3        |       |
+| Electrolytic Capacitor (10uF) | 3        | 3        |       |
 
 #### Connectors
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| 16-pin female header | 2        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| 16-pin female header | 2        | 2        |       |
 
 #### Diodes
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| Signal Diode (1N4148) | 2        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| Signal Diode (1N4148) | 2        | 2        |       |
 
 #### Fasteners
 
-| Item           | Quantity |
-| -------------- | -------- |
-| M3x8 BHCS      | 3        |
-| M3x10 Standoff | 1        |
-| M3 Nut         | 1        |
+| Item           | Quantity | Received | Notes |
+| -------------- | -------- | -------- | ----- |
+| M3x8 BHCS      | 3        | 3        |       |
+| M3x10 Standoff | 1        | 1        |       |
+| M3 Nut         | 1        | 1        |       |
 
 #### Integrated Circuits
 
-| Item                | Quantity |
-| ------------------- | -------- |
-| Op Amp Dual (TL072) | 1        |
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------- | -------- | ----- |
+| Op Amp Dual (TL072) | 1        | 1        |       |
 
 #### Resistors
 
-| Item                       | Quantity |
-| -------------------------- | -------- |
-| Metal Film resistor (100K) | 2        |
-| Metal Film resistor (10K)  | 1        |
-| Metal Film resistor (2K)   | 11       |
-| Metal Film resistor (100R) | 1        |
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (100K) | 2        | 2        |       |
+| Metal Film resistor (10K)  | 1        | 1        |       |
+| Metal Film resistor (2K)   | 11       | 11       |       |
+| Metal Film resistor (100R) | 1        | 1        |       |
 
 #### Misc
 
-| Item                             | Quantity |
-| -------------------------------- | -------- |
-| 3mm Green LED                    | 1        |
-| 3mm Red LED                      | 2        |
-| 5V 1.5A Voltage Regulator (7805) | 1        |
-| 7 Segment LED Display (14.22mm)  | 1        |
-| 10 Pin Power Header              | 1        |
-| 10-16 pin Power Cable            | 1        |
-| Arduino Nano                     | 1        |
-| Mono Audio Jack                  | 2        |
+| Item                             | Quantity | Received | Notes |
+| -------------------------------- | -------- | -------- | ----- |
+| 3mm Green LED                    | 1        | 1        |       |
+| 3mm Red LED                      | 2        | 2        |       |
+| 5V 1.5A Voltage Regulator (7805) | 1        | 1        |       |
+| 7 Segment LED Display (14.22mm)  | 1        | 1        |       |
+| 10 Pin Power Header              | 1        | 1        |       |
+| 10-16 pin Power Cable            | 1        | 1        |       |
+| Arduino Nano                     | 1        | 1        |       |
+| Mono Audio Jack                  | 2        | 2        |       |
 
 ### :white_check_mark: Assembly
 
@@ -2440,26 +2452,26 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item               | Quantity |
-| ------------------ | -------- |
-| Low Coast v5 Panel | 1        |
-| Low Coast v5 PCB   | 1        |
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------- | -------- | ----- |
+| Low Coast v5 Panel | 1        | 1        |       |
+| Low Coast v5 PCB   | 1        | 1        |       |
 
 #### Fasteners
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| 3x10mm Spacer (female/female) | 2        |
-| M3X6 Phillips Screw (Black)   | 4        |
+| Item                          | Quantity | Received | Notes |
+| ----------------------------- | -------- | -------- | ----- |
+| 3x10mm Spacer (female/female) | 2        | 2        |       |
+| M3X6 Phillips Screw (Black)   | 4        | 4        |       |
 
 #### Misc
 
-| Item                  | Quantity |
-| --------------------- | -------- |
-| 16 Pin Power Header   | 1        |
-| 16-16 pin Power Cable | 1        |
-| Car Radio MP3 Player  | 1        |
-| Mono Audio Jack       | 2        |
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------- | -------- | ----- |
+| 16 Pin Power Header   | 1        | 1        |       |
+| 16-16 pin Power Cable | 1        | 1        |       |
+| Car Radio MP3 Player  | 1        | 1        |       |
+| Mono Audio Jack       | 2        | 2        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
@@ -2475,31 +2487,31 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| TAT v1.0 Front Panel | 1        |
-| TAT v1.0 PCB         | 1        |
+| Item                 | Quantity | Received | Notes |
+| -------------------- | -------- | -------- | ----- |
+| TAT v1.0 Front Panel | 1        | 1        |       |
+| TAT v1.0 PCB         | 1        | 1        |       |
 
 #### Potentiometers
 
-| Item                                 | Quantity |
-| ------------------------------------ | -------- |
-| Plastic Knob for Alpha Potentiometer | 3        |
-| Vertical Alpha Potentiometer (?)     | 3        |
+| Item                                 | Quantity | Received | Notes |
+| ------------------------------------ | -------- | -------- | ----- |
+| Plastic Knob for Alpha Potentiometer | 3        | 3        |       |
+| Vertical Alpha Potentiometer (?)     | 3        | 3        |       |
 
 #### Resistors
 
-| Item                      | Quantity |
-| ------------------------- | -------- |
-| Metal Film resistor (10K) | 3        |
+| Item                      | Quantity | Received | Notes |
+| ------------------------- | -------- | -------- | ----- |
+| Metal Film resistor (10K) | 3        | 3        |       |
 
 #### Misc
 
-| Item              | Quantity |
-| ----------------- | -------- |
-| 3 Pin Header      | 3        |
-| Jumper Cap 2.54mm | 3        |
-| Mono Audio Jack   | 6        |
+| Item              | Quantity | Received | Notes |
+| ----------------- | -------- | -------- | ----- |
+| 3 Pin Header      | 3        | 3        |       |
+| Jumper Cap 2.54mm | 3        | 3        |       |
+| Mono Audio Jack   | 6        | 6        |       |
 
 ### :negative_squared_cross_mark: Assembly
 
