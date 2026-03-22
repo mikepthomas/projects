@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-03-20T15:03:26.476Z
+lastmod: 2026-03-22T10:58:22.890Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -41,6 +41,10 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 ## Fallout: Wasteland Warfare
 
 `Fallout: Wasteland Warfare` is a tabletop miniatures wargame for the Fallout Series.
+
+[How To Play Fallout: Wasteland Warfare Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd3CogQRy-qGDtgunxUhcm-M)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 [Release Tracker is available here](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf)
 
@@ -107,10 +111,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 2 - Raiders
 
-| Item                                                                                                                  |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes |
-| --------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Raiders Wave Expansion Card Pack](https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack) | :heavy_check_mark: |                                                                                                                              |                    |       |
-| [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook)         | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |       |
+| Item                                                                                                                  |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                  |
+| --------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
+| [Raiders Wave Expansion Card Pack](https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack) | :heavy_check_mark: |                                                                                                                              |                    | Required cards for `Raiders: Core Box` |
+| [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook)         | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |                                        |
 
 #### Scenarios
 
@@ -134,12 +138,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 4 - Enclave
 
-| Item                                                                                                                                                                |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack) | :heavy_check_mark: |                                                                                                                            |                    |                                         |
-| [Enclave Wave Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack)                           |        :x:         |                                                                                                                            |                    |                                         |
-| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) | :heavy_check_mark: |                                         |
-| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck)                                             | :heavy_check_mark: |                                                                                                                            |                    | Required cards for `Survivors Core Box` |
+| Item                                                                                                                                                                |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------ |
+| [Denizens of the Wasteland Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack) | :heavy_check_mark: |                                                                                                                            |                    |                                                        |
+| [Enclave Wave Card Expansion Pack](https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack)                           |        :x:         |                                                                                                                            |                    |                                                        |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)                                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) | :heavy_check_mark: |                                                        |
+| [Wave 1 Fundamentals Card Deck](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck)                                             | :heavy_check_mark: |                                                                                                                            |                    | Required cards for `Survivors: Core Box` & `Nuka Girl` |
 
 ### Wave 5 - New Vegas Expansion
 
@@ -158,19 +162,19 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 6 - Commonwealth Expansion
 
-| Item                                                                                                                          | Purchased | Digital                                                                                                                                      |     Downloaded     | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |       |
-| Astoundingly Awesome Tales 2                                                                                                  |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |       |
-| Into the Vault                                                                                                                |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: |       |
-| [The Commonwealth Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion) |    :x:    |                                                                                                                                              |                    |       |
+| Item                                                                                                                          |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) |        :x:         | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |       |
+| Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |       |
+| Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: |       |
+| [The Commonwealth Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion) | :heavy_check_mark: |                                                                                                                                              |                    |       |
 
 ### Wave 7 - Forged in the Fire Expansion
 
-| Item                                                                                                                                          | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Forged in the Fire Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion) |    :x:    |                                                                                                                                               |                    |       |
-| Homestead Rules Expansion                                                                                                                     |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+| Item                                                                                                                                          |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Forged in the Fire Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion) | :heavy_check_mark: |                                                                                                                                               |                    |       |
+| Homestead Rules Expansion                                                                                                                     |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
 
 ### Wave 8 - Capital Expansion
 
@@ -291,6 +295,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: The Roleplaying Game` is a tabletop role-playing game which uses a version of Modiphius' 2d20 tabletop system.
 
+[Fallout 2D20 RPG - How To Create a Character Video](https://www.youtube-nocookie.com/embed/om6P-rhElnE)
+
+> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                                                                                                       |     Purchased      | Digital                                                                                                                           |     Downloaded     | Notes                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------ |
 | [Core Rulebook](https://modiphius.net/products/falloutrpg_core-rulebook)                                                   | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/falloutrpg_corerulebook-pdf)                             | :heavy_check_mark: |                                                                                      |
@@ -347,6 +355,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: Factions` is a skirmish-level wargame for two players.
 
+[Exclusive First Look Playthrough (The Operators vs. The Pack) video](https://www.youtube-nocookie.com/embed/6ijEX1fTMms)
+
+> Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                                                                                                     |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                              |
 | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------ |
 | [Battle for Boston Starter Set](https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready) |        :x:         |                                                                                                                                       |                    |                                                                    |
@@ -359,6 +371,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 ## Fallout: Wasteland Wanderer
 
 `Fallout: Wasteland Wanderer` is a solo roleplaying game adapted from `Fallout: The Roleplaying Game` to play original Fallout stories with characters of your own creation.
+
+[Fallout Solo RPG - How to Create a Character for Wasteland Wanderer! Video](https://www.youtube-nocookie.com/embed/oS7opd-cKGg)
+
+> Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                                                                                                         |     Purchased      | Digital |     Downloaded     | Notes |
 | ------------------------------------------------------------------------------------------------------------ | :----------------: | ------- | :----------------: | ----- |
@@ -373,6 +389,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in)                | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]      | :heavy_check_mark: | [Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
 | [Institute: Core Box](https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic)                       |        :x:         |                                                                                           |                    | Included in the `Battle for Boston Starter Set`                               |
 | [Nuka Cola Girl](https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature)                       | :heavy_check_mark: |                                                                                           |                    |                                                                               |
+| [Raiders: Core Box](https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set)                            | :heavy_check_mark: |                                                                                           |                    |                                                                               |
 | [Raiders: The Disciples](https://modiphius.net/products/fallout-miniatures-raiders-the-disciples)                         | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]        | :heavy_check_mark: |                                                                               |
 | [Raiders: The Operators](https://modiphius.net/products/fallout-miniatures-raiders-the-operators)                         | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]        | :heavy_check_mark: | Included in the `Battle For Nuka-World Starter Set`                           |
 | [Raiders: The Pack](https://modiphius.net/products/fallout-miniatures-raiders-the-pack)                                   | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]             | :heavy_check_mark: | Included in the `Battle For Nuka-World Starter Set`                           |
