@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-03-23T12:27:49.610Z
+lastmod: 2026-03-23T19:45:38.602Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -186,9 +186,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 5 - New Vegas Expansion
 
-| Item                                                                                                      | Purchased | Digital | Downloaded | Notes |
-| --------------------------------------------------------------------------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [New Vegas Rules Expansion](https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion) |    :x:    |         |            |       |
+| Item                                                   | Purchased | Digital | Downloaded | Notes |
+| ------------------------------------------------------ | :-------: | ------- | :--------: | ----- |
+| [New Vegas Rules Expansion][New Vegas Rules Expansion] |    :x:    |         |            |       |
+
+[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
 
 #### Scenarios
 
@@ -206,26 +208,34 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |       |
 | Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |       |
 | Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: |       |
-| [The Commonwealth Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion) | :heavy_check_mark: |                                                                                                                                              |                    |       |
+| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion]                                                          | :heavy_check_mark: |                                                                                                                                              |                    |       |
+
+[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
 
 ### Wave 7 - Forged in the Fire Expansion
 
-| Item                                                                                                                                          |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Forged in the Fire Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion) | :heavy_check_mark: |                                                                                                                                               |                    |       |
-| Homestead Rules Expansion                                                                                                                     |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+| Item                                                                     |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
+| ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
+| Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+
+[Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
 
 ### Wave 8 - Capital Expansion
 
-| Item                                                                                                        |     Purchased      | Digital | Downloaded | Notes |
-| ----------------------------------------------------------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Capital Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion) | :heavy_check_mark: |         |            |       |
+| Item                                               |     Purchased      | Digital | Downloaded | Notes |
+| -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
+
+[Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
 
 ### Wave 9 - Nuka-World Expansion
 
-| Item                                                                                                              |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
-| ----------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [Nuka World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
+| Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
+| -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
+
+[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Fallout: Wasteland Warfare - Nuka World Rules Expansion'
 
 #### Scenarios
 
@@ -410,24 +420,29 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                                                                                        |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
-| [Battle for Boston Starter Set][Boston Starter Set]                                                                         |        :x:         |                                                                                                                                       |                    |                                                                                          |
-| ┝ [Brotherhood of Steel: Core Box](https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic) |        :x:         | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide]                                             | :heavy_check_mark: | HIPS plastic version                                                                     |
-| ┕ [Institute: Core Box](https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic)                       |        :x:         |                                                                                                                                       |                    | HIPS plastic version                                                                     |
-| [Battle for Nuka-World Starter Set][Nuka World Starter Set]                                                                 | :heavy_check_mark: |                                                                                                                                       |                    |                                                                                          |
-| ┝ [Tokens and Terrain Pack 1](https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1)                    | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Tokens and Terrain Assembly Guide]                                               | :heavy_check_mark: |                                                                                          |
-| ┝ [Raiders: The Operators](https://modiphius.net/products/fallout-miniatures-raiders-the-operators)                         | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]                                                    | :heavy_check_mark: |                                                                                          |
-| ┕ [Raiders: The Pack](https://modiphius.net/products/fallout-miniatures-raiders-the-pack)                                   | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]                                                         | :heavy_check_mark: |                                                                                          |
-| [Raiders: The Disciples](https://modiphius.net/products/fallout-miniatures-raiders-the-disciples)                           | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]                                                    | :heavy_check_mark: | Not Included in `Battle for Nuka-World Starter Set`                                      |
-| [Battle Map: Nuka-World](https://modiphius.net/products/fallout-factions-battle-map-nuka-world)                             | :heavy_check_mark: |                                                                                                                                       |                    | Neoprene playing mat to replace the paper one in the `Battle for Nuka-World Starter Set` |
-| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)                                              | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf)                          | :heavy_check_mark: |                                                                                          |
-| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight)                                       |        :x:         |                                                                                                                                       |                    |                                                                                          |
-| Welcome to Nuka-World Quickstart                                                                                            |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free) | :heavy_check_mark: |                                                                                          |
+| Item                                                                                                     |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
+| [Battle for Boston Starter Set][Boston Starter Set]                                                      |        :x:         |                                                                                                                                       |                    |                                                                                          |
+| ┝ [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box Plastic]                                |        :x:         | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide]                                             | :heavy_check_mark: | HIPS plastic version                                                                     |
+| ┕ [Institute: Core Box][Institute Core Box Plastic]                                                      |        :x:         |                                                                                                                                       |                    | HIPS plastic version                                                                     |
+| [Battle for Nuka-World Starter Set][Nuka World Starter Set]                                              | :heavy_check_mark: |                                                                                                                                       |                    |                                                                                          |
+| ┝ [Tokens and Terrain Pack 1](https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Tokens and Terrain Assembly Guide]                                               | :heavy_check_mark: |                                                                                          |
+| ┝ [Raiders: The Operators][Raiders The Operators]                                                        | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]                                                    | :heavy_check_mark: |                                                                                          |
+| ┕ [Raiders: The Pack][Raiders The Pack]                                                                  | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]                                                         | :heavy_check_mark: |                                                                                          |
+| [Raiders: The Disciples][Raiders The Disciples]                                                          | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]                                                    | :heavy_check_mark: | Not Included in `Battle for Nuka-World Starter Set`                                      |
+| [Battle Map: Nuka-World](https://modiphius.net/products/fallout-factions-battle-map-nuka-world)          | :heavy_check_mark: |                                                                                                                                       |                    | Neoprene playing mat to replace the paper one in the `Battle for Nuka-World Starter Set` |
+| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)                           | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf)                          | :heavy_check_mark: |                                                                                          |
+| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight)                    |        :x:         |                                                                                                                                       |                    |                                                                                          |
+| Welcome to Nuka-World Quickstart                                                                         |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free) | :heavy_check_mark: |                                                                                          |
 
 [Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready 'Fallout: Factions - Battle for Boston Starter Set'
 [Nuka World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set 'Fallout: Factions - Battle For Nuka-World Starter Set'
+[Brotherhood of Steel Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
 [Brotherhood of Steel Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
+[Institute Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic
+[Raiders The Disciples]: https://modiphius.net/products/fallout-miniatures-raiders-the-disciples
+[Raiders The Operators]: https://modiphius.net/products/fallout-miniatures-raiders-the-operators
+[Raiders The Pack]: https://modiphius.net/products/fallout-miniatures-raiders-the-pack
 [The Disciples Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf
 [The Operators Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf
 [The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
@@ -447,6 +462,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
+[Item & Unit Costs](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf)
+
 ### Brotherhood of Steel
 
 [Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
@@ -463,6 +480,58 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | --------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ----- |
 | Alien     | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
 | Deathclaw | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
+
+### Nuka-World Gangs Raiders
+
+[Nuka-World Gangs Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf)
+
+> [!IMPORTANT]
+> The Nuka-World Gangs Raiders can be built in multiple ways. Please read the `Fallout: Factions` or `Wasteland Warfare` rules before building.
+
+#### The Disciples
+
+| Item                 | Quantity | Material | Included In                                     | Cards                                                    | Notes                                                                                        |
+| -------------------- | -------- | -------- | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster A             | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+
+#### The Operators
+
+| Item                 | Quantity | Material | Included In                                     | Cards                                                    | Notes                                                                                        |
+| -------------------- | -------- | -------- | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+
+#### The Pack
+
+| Item                 | Quantity | Material | Included In                           | Cards                                                    | Notes                                                                                   |
+| -------------------- | -------- | -------- | ------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 1             | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
 
 ### Raiders
 
@@ -601,13 +670,13 @@ A box to hold all your [caps](https://modiphius.net/products/fallout-wasteland-w
 
 ## Euro-Mini Card Box
 
-A slide top box to hold the many, many cards that are used to play the game.
+A slide top box to hold the all the Mini European size cards from the `Two Player Starter Set` and expansions.
 
-| Item                                                                  | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files) | 3        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [EUROBOX_top_V2](https://www.thingiverse.com/thing:7139338/files)     | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [EUROBOX_V2](https://www.thingiverse.com/thing:7139338/files)         | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
+| Item                                                                       | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files)      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [eurobox-top-v2-longer](https://www.thingiverse.com/thing:7139338/files)   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [euroboxv2_double_longer](https://www.thingiverse.com/thing:7139338/files) | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
 
 # Brotherhood of Steel Encampment
 
