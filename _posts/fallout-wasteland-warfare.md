@@ -303,8 +303,6 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ### Liberty Prime Rules Expansion
 
-Rules for using [Liberty Prime](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime)
-
 | Item                                                                      | Purchased | Digital                                                                                                                                |     Downloaded     | Notes                                                                                                                                   |
 | ------------------------------------------------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
 | [Brotherhood of Steel: Liberty Prime][Brotherhood of Steel Liberty Prime] |    :x:    |                                                                                                                                        |                    |                                                                                                                                         |
