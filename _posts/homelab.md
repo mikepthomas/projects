@@ -2,7 +2,7 @@
 title: Homelab
 heading: Putting together my homelab
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2026-01-21T22:34:45.818Z
+lastmod: 2026-03-27T18:56:03.970Z
 author: Mike Thomas
 description: Just a few things I use hardware and software for within my homelab.
 preview: /assets/blog/homelab/homelab-hero.jpg
@@ -149,7 +149,11 @@ As I live fairly close to Cardiff International Airport and notice many aircraft
 
 ![My water cooled gaming PC](/assets/blog/homelab/gaming-pc.jpg)
 
-My current gaming PC is starting to show it's age now, it's still running the 40th anniversary limited-edition Core i7-8086K and a Nvidia GeForce GTX 1080 cooled by water with EK water blocks.
+My current gaming PC is starting to show it's age now.
+
+| Item                             | CPU                                          | GPU                                 | Memory                                  | Case                         | Storage            | OS         | Hostname | Notes                                                                                                                                                                                                                                                                                                              |
+| -------------------------------- | -------------------------------------------- | ----------------------------------- | --------------------------------------- | ---------------------------- | ------------------ | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gigabyte Z370 Aorus Ultra Gaming | Intel Core i7-8086K 4.00GHz 40th Anniversary | Gigabyte GeForce GTX 1080 Windforce | 32GB Corsair Dominator Platinum 3000MHz | Corsair Carbide 600C Inverse | 1TB Crucial P5 M.2 | Windows 11 | Mike-PC  | EK Water Blocks [P280 Watercooling Kit](https://www.ekwb.com/shop/ek-kit-p280), extra [PE 240 Radiator](https://www.ekwb.com/shop/ek-coolstream-pe-240-dual) and [GPU Water Block](https://www.ekwb.com/shop/ek-fc1080-gtx-g1-nickel) with [Backplate](https://www.ekwb.com/shop/ek-fc1080-gtx-g1-backplate-black) |
 
 # VR Room
 
