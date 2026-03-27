@@ -2,7 +2,7 @@
 title: Printer Filament
 heading: 3D Printer Filament
 date: 2022-01-22
-lastmod: 2026-03-27T16:04:37.474Z
+lastmod: 2026-03-27T18:28:42.108Z
 author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -320,6 +320,18 @@ This filament was originally brought to print the body of the [Guitar project][G
 |                             Color                             | Hotend Temp                  | Bed Temp | Filament Profile | Slicer Profile                                                                                                                           | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :-----------------------------------------------------------: | ---------------------------- | -------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------- | ------------- | ----- |
 | ![#D60907 {20x20}](https://placehold.co/20/D60907/D60907.png) | 215 (1st Layer) 205 (Others) | 55       |                  | [PrusaSlicer](<https://github.com/mikepthomas/3dprinting/blob/main/Slicer%20Profiles/PrusaSlicer/filament/PrimaValue%20PLA%20(Red).ini>) | [Amazon](https://www.amazon.co.uk/gp/product/B01AMLMTX2) | £24.09   | 3             |       |
+
+# Sunlu
+
+## ABS
+
+I usually print Sunlu ABS with a hotend temperature of 250°C and a bed temperature of 100°C.
+
+### Sunlu ABS (Red)
+
+|                             Color                             | Hotend Temp | Bed Temp | Filament Profile                                              | Slicer Profile | Purchased From                                   | Avg Cost | KGs Purchased | Notes |
+| :-----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------- | -------------- | ------------------------------------------------ | -------- | ------------- | ----- |
+| ![#E34941 {20x20}](https://placehold.co/20/E34941/E34941.png) | 250         | 100      | [Info3D](https://3dfilamentprofiles.com/filament/details/945) |                | [3D Jake](https://www.3djake.uk/sunlu/abs-red-7) | £14.10   | 1             |       |
 
 # Tinmorry
 
