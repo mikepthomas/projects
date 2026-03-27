@@ -203,12 +203,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 6 - Commonwealth Expansion
 
-| Item                                                                                                                          |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |       |
-| Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |       |
-| Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: |       |
-| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion]                                                          | :heavy_check_mark: |                                                                                                                                              |                    |       |
+| Item                                                                                                                          |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
+| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
+| Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
+| Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
+| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion]                                                          | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
 
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
 
@@ -322,12 +322,10 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ### Vault-Tec Simulator
 
-[Blog post explaining what it is here](https://modiphius.net/blogs/news/vault-tec-simulator)
-
 | Item                | Purchased | Digital                                                                                                                   |     Downloaded     | Notes                                                                                                                                                    |
 | ------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vault-Tec Profile   |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf) | :heavy_check_mark: | [Form Fillable Version <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf) |
-| Vault-Tec Simulator |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/view)     | :heavy_check_mark: |                                                                                                                                                          |
+| Vault-Tec Simulator |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/view)     | :heavy_check_mark: | [Vault-Tec Simulator Blog post](https://modiphius.net/blogs/news/vault-tec-simulator)                                                                    |
 
 ## Fallout: Wasteland Warfare Roleplaying Game
 
