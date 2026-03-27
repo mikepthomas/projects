@@ -123,11 +123,11 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Apron LEDs
 
-| Item                                                                                                                            | Quantity | Material                                                      | Printed | Notes    |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :-----: | -------- |
-| [Cover_Body](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Cover_Body_xN.stl)                 | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
-| [Holder_PCB_Led](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Options/Holder_PCB_Led_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Optional |
-| [Cover_Lens](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/%5Bc%5D_Cover_Lens_xN.stl)         | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Optional |
+| Item                                                                                                                            | Quantity | Material                                                    | Printed | Notes    |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | :-----: | -------- |
+| [Cover_Body](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Cover_Body_xN.stl)                 | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)        |   :x:   | Optional |
+| [Holder_PCB_Led](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/Options/Holder_PCB_Led_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)        |   :x:   | Optional |
+| [Cover_Lens](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Stls/Apron_Leds/%5Bc%5D_Cover_Lens_xN.stl)         | 8        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   | Optional |
 
 ### Filament Blocks
 
@@ -280,11 +280,11 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 
 ### Coupler Block
 
-| Item                                                                                                                                                                     | Quantity | Material                                                      | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | :-----: | ----- |
-| [LED_Carrier_Apron](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_Apron_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   |       |
-| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)        |   :x:   |       |
+| Item                                                                                                                                                                     | Quantity | Material                                                    | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------- | :-----: | ----- |
+| [LED_Carrier_Apron](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_Apron_xN.stl) | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)        |   :x:   |       |
+| [LED_Carrier](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Ba%5D_LED_Carrier_xN.stl)             | 8        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Coupler_Block](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/ERCT_Buffer/Stls/Coupler_Block/%5Bc%5D_Coupler_Block_xN.stl)         | 8        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple)      |   :x:   |       |
 
 ### Support Arm
 

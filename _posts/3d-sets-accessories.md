@@ -155,12 +155,12 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 
 ### Rear Bumper 1
 
-| Item                | Quantity | Material                                                      | Printed | Notes |
-| ------------------- | -------- | ------------------------------------------------------------- | :-----: | ----- |
-| Light - left        | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| Light - right       | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| Rear Bumper - left  | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)        |   :x:   |       |
-| Rear Bumper - right | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)        |   :x:   |       |
+| Item                | Quantity | Material                                                    | Printed | Notes |
+| ------------------- | -------- | ----------------------------------------------------------- | :-----: | ----- |
+| Light - left        | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| Light - right       | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| Rear Bumper - left  | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)      |   :x:   |       |
+| Rear Bumper - right | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)      |   :x:   |       |
 
 > [!TIP]
 > Indicator and Brake lights can be added by making a Filament Change (M600) at layers 47 & 49.

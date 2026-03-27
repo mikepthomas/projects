@@ -146,9 +146,9 @@ Sourcing parts for a Land Rover inspired remote control car, the [3D Sets Landy]
 | Splash Guard - right       | 1        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)            |   :x:   |                                                                               |
 | ~Tail Light Cover - left~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required with the [Wagon Upgrade](#landy-4x4-wagon-upgrade)               |
 | ~Tail Light Cover - right~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required with the [Wagon Upgrade](#landy-4x4-wagon-upgrade)               |
-| Tail Light Large           | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                               |
-| Tail Light Small - winker  | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                               |
-| Tail Light Small - brake   | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                               |
+| Tail Light Large           | 2        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                               |
+| Tail Light Small - winker  | 2        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                               |
+| Tail Light Small - brake   | 2        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                               |
 
 ### Gearbox
 
@@ -222,10 +222,10 @@ I am not sure which gearbox I am going to use. I may start with the geared gearb
 
 | Item           | Quantity | Material                                                       | Printed | Notes                                                                                                                         |
 | -------------- | -------- | -------------------------------------------------------------- | :-----: | ----------------------------------------------------------------------------------------------------------------------------- |
-| Front light    | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                                               |
+| Front light    | 2        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                                                                               |
 | ~Grill~        | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black)           |   :x:   | Not required as this will be replaced by the [Grill with headlamp guards](3d-sets-accessories#rock-sliders-and-grill) version |
 | Hinge A        | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |   :x:   |                                                                                                                               |
-| Winker - front | 4        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                                                                               |
+| Winker - front | 4        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                                                                               |
 
 ### Fender & Hood
 
@@ -293,7 +293,7 @@ There is a choice of 2 different wheel styles.
 | ~Wheel D - inner Rim~ | ~4~      | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Kit](#wheel-e) version |
 | ~Wheel D - outer Rim~ | ~4~      | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Kit](#wheel-e) version |
 | ~Wheel D - wheel Hub~ | ~4~      | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |   :x:   | Not required as this will be replaced by the [Offroad Kit](#wheel-e) version |
-| Winker - side         | 2        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear)  |   :x:   |                                                                              |
+| Winker - side         | 2        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear)    |   :x:   |                                                                              |
 
 ## Landy 4x4 Hardtop Upgrade
 

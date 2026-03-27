@@ -76,9 +76,9 @@ Sourcing and printing parts to assemble a [Polyformer](https://www.reiten.design
 
 I plan to start by using the [PolyPlank Mod](https://github.com/Reiten966/Polyformer/tree/main/User_Mods/Sean9%238523/PolyPlank) which means printing the bare minimum parts to get the machine working out of ABS.
 
-| Item                                                                                                                          | Quantity | Material                                                      | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :-----: | ----- |
-| [Polyplank_Q4_2022](https://github.com/Reiten966/Polyformer/blob/main/User_Mods/Sean9%238523/PolyPlank/Polyplank_Q4_2022.3mf) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
+| Item                                                                                                                          | Quantity | Material                                                    | Printed | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | :-----: | ----- |
+| [Polyplank_Q4_2022](https://github.com/Reiten966/Polyformer/blob/main/User_Mods/Sean9%238523/PolyPlank/Polyplank_Q4_2022.3mf) | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
 
 ## Bottle Cutter
 
@@ -93,14 +93,14 @@ I plan to start by using the [PolyPlank Mod](https://github.com/Reiten966/Polyfo
 
 ## Gearbox
 
-| Item                                                                                                           | Quantity | Material                                                      | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :-----: | ----- |
-| [Gear_Box_CAM](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_CAM.stl)                 | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Gear_Box_Cap](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Cap.stl)                 | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Gear_Box_Fan](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Fan.stl)                 | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Gear_Box_Motor_Mount](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Motor_Mount.stl) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Gear_Box_Output_Gear](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Output_Gear.stl) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
-| [Gear_Box_Ring_Gear](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Ring_Gear.stl)     | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   |       |
+| Item                                                                                                           | Quantity | Material                                                    | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | :-----: | ----- |
+| [Gear_Box_CAM](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_CAM.stl)                 | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Gear_Box_Cap](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Cap.stl)                 | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Gear_Box_Fan](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Fan.stl)                 | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Gear_Box_Motor_Mount](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Motor_Mount.stl) | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Gear_Box_Output_Gear](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Output_Gear.stl) | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
+| [Gear_Box_Ring_Gear](https://github.com/Reiten966/Polyformer/blob/main/STL/Gearbox/Gear_Box_Ring_Gear.stl)     | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   |       |
 
 ## Spool
 

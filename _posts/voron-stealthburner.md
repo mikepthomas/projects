@@ -174,10 +174,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: LEDs
 
-| Item                                                                                                                                                                     | Quantity | Material                                                      | Printed | Notes                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------- | :-----: | --------------------------------------------------------------------- |
-| [stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl) | 1        | [BasicFil PETG (Clear)](printer-filament#basicfil-petg-clear) |   :x:   | Rainbow Barf LED Version, Not required as I have a Resin Printed one. |
-| [led_carrier_rev2](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/led_carrier_rev2.stl)                                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)          |   :x:   | Rainbow Barf LED Version                                              |
+| Item                                                                                                                                                                     | Quantity | Material                                                    | Printed | Notes                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------- | :-----: | --------------------------------------------------------------------- |
+| [stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl) | 1        | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |   :x:   | Rainbow Barf LED Version, Not required as I have a Resin Printed one. |
+| [led_carrier_rev2](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/led_carrier_rev2.stl)                                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black)        |   :x:   | Rainbow Barf LED Version                                              |
 
 ## ADXL345 Mount
 
