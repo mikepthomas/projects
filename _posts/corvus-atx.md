@@ -167,11 +167,18 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Motherboard
 
-| Item                                                                                         | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Mobo_Mount_Bottom](https://www.printables.com/model/1428809/files#folder:model:Motherboard) | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
-| [Mobo_Mount_Side](https://www.printables.com/model/1428809/files#folder:model:Motherboard)   | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
-| [Mobo_Mount_Top](https://www.printables.com/model/1428809/files#folder:model:Motherboard)    | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| Item                                                                                           | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes                                                            |
+| ---------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------- |
+| ~[Mobo_Mount_Bottom](https://www.printables.com/model/1428809/files#folder:model:Motherboard)~ | ~1~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
+| ~[Mobo_Mount_Side](https://www.printables.com/model/1428809/files#folder:model:Motherboard)~   | ~1~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
+| [Mobo_Mount_Top](https://www.printables.com/model/1428809/files#folder:model:Motherboard)      | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |                                                                  |
+
+### :negative_squared_cross_mark: Universal Motherboard Mounting
+
+| Item                                                                  | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [Mobo Mount (Bottom)](https://www.printables.com/model/1444693/files) | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| [Mobo Mount (Side)](https://www.printables.com/model/1444693/files)   | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Rear Panels
 
@@ -205,10 +212,16 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Hidden Cable Channel
 
-| Item                                                                                                         | Quantity | Material                           | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Cable_Channel_Bottom](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel) | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |       |
-| [Cable_Channel_Top](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel)    | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |       |
+| Item                                                                                                           | Quantity | Material                           | Size | Weight | Cost | Printed | Notes                                                                 |
+| -------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------- |
+| ~[Cable_Channel_Bottom](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel)~ | ~1~      | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Cable Channel` |
+| [Cable_Channel_Top](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel)      | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |                                                                       |
+
+### :negative_squared_cross_mark: Universal Motherboard Cable Channel
+
+| Item                                                                     | Quantity | Material                           | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------ | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [Cable Channel (Bottom)](https://www.printables.com/model/1444693/files) | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |       |
 
 ### :negative_squared_cross_mark: Front Panel
 
