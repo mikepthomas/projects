@@ -1312,10 +1312,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes                                                                                                              |
-| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| EDUKICK2 PCB         | 1        | 1        |                                                                                                                    |
-| EDUKICK2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| Item                    | Quantity | Received | Notes                                                                                                              |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| ~EDUKICK1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| EDUKICK2P Front Panel   | 1        | 1        |                                                                                                                    |
+| EDUKICK2 PCB            | 1        | 1        |                                                                                                                    |
 
 #### Capacitors
 
@@ -1396,10 +1397,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes                                                                                                              |
-| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| EDUSNAR1 PCB         | 1        | 1        |                                                                                                                    |
-| EDUSNAR1 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| Item                    | Quantity | Received | Notes                                                                                                              |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| ~EDUSNAR1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| EDUSNAR2P Front Panel   | 1        | 1        |                                                                                                                    |
+| EDUSNAR2 PCB            | 1        | 1        |                                                                                                                    |
 
 #### Capacitors
 
@@ -1586,10 +1588,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes                                                                                                              |
-| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| EDUHHAT2 PCB         | 1        | 1        |                                                                                                                    |
-| EDUHHAT2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| Item                    | Quantity | Received | Notes                                                                                                              |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| ~EDUHHAT1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| EDUHHAT2P Front Panel   | 1        | 1        |                                                                                                                    |
+| EDUHHAT2 PCB            | 1        | 1        |                                                                                                                    |
 
 #### Capacitors
 
@@ -1942,10 +1945,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                 | Quantity | Received | Notes                                                                                                              |
-| -------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| EDUCOMP2 PCB         | 1        | 1        |                                                                                                                    |
-| EDUCOMP2 Front Panel | 1        | 1        | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| Item                    | Quantity | Received | Notes                                                                                                              |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| ~EDUCOMP1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
+| EDUCOMP2P Front Panel   | 1        | 1        |                                                                                                                    |
+| EDUCOMP2 PCB            | 1        | 1        |                                                                                                                    |
 
 #### Capacitors
 
