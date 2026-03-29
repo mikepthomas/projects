@@ -8,6 +8,7 @@ description: Just a few things I use hardware and software for within my homelab
 preview: /assets/blog/homelab/homelab-hero.jpg
 slug: /projects/homelab
 related:
+  - /projects/corvus-atx
   - /projects/thinkcenter
   - /projects/thinkpad
   - /projects/single-board-computers
@@ -37,19 +38,19 @@ As I have an interest in 3D printing I originally wanted to create my rack using
 
 ## 3D Printed Mini Rack (Mod10)
 
-| Item                                                                      | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [1U_40mm_Fans_MOD10](https://www.printables.com/model/1225275)            | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [8_Port_Keystone_MOD10](https://www.printables.com/model/1225275)         | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [Handle_MOD10](https://www.printables.com/model/1225275)                  | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [Lid_Solid_MOD10](https://www.printables.com/model/1225275)               | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [Lid_Vented_MOD10](https://www.printables.com/model/1225275)              | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [Mod_10_Foot](https://www.printables.com/model/1225275)                   | 4        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |      |        |      |   :x:   |       |
-| [MOD10_Crossmembers](https://www.printables.com/model/1225275)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [MOD10_Front_Back_Connectors](https://www.printables.com/model/1225275)   | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [MOD10_Mid_Modular_Sections_2U](https://www.printables.com/model/1225275) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
-| [MOD10_Side_Connectors](https://www.printables.com/model/1225275)         | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
-| [MOD10_Top_Bottom_2U](https://www.printables.com/model/1225275)           | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| Item                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [1U_40mm_Fans](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)                  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [8_Port_Keystone](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)               | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Crossmembers](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [Feet](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                    | 4        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |      |        |      |   :x:   |       |
+| [Front_Back_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Handle](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                  | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Lid_Solid](https://www.printables.com/model/1225275/files#folder:model:Lids)                                  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Lid_Vented](https://www.printables.com/model/1225275/files#folder:model:Lids)                                 | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Mid_Modular_Sections_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [Side_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                      | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |       |
+| [Top_Bottom_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)           | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 ## Tecmojo 10" Desktop Mini Rack
 
