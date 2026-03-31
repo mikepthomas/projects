@@ -3,6 +3,7 @@ title: Corvus ATX
 heading: |
   Corvus ATX: The 3D Printed, PC Case
 date: 2026-03-29T17:15:51.154Z
+lastmod: 2026-03-31T20:11:26.405Z
 author: Mike Thomas
 description: Building a 3D printed, Voron inspired, computer case for my gaming PC
 preview: /assets/blog/corvus-atx/corvus-hero.jpg
@@ -78,11 +79,11 @@ The following list of parts are from the Bill of Materials (BOM) that can be fou
 
 ## Misc
 
-| Item                                    | Quantity | Received | Notes                             |
-| --------------------------------------- | -------- | -------- | --------------------------------- |
-| Ø6x3mm Neodimium Magnet                 | 30       | 30       | In LDO Voron PC Case Hardware Kit |
-| Single Sided Foam Tape 1mm Thick (6.4m) | 1        | 1        | In LDO Voron PC Case Hardware Kit |
-| 3M VHB Tape 5952                        | 1        | 1        | In LDO Voron PC Case Hardware Kit |
+| Item                             | Quantity | Received | Notes                             |
+| -------------------------------- | -------- | -------- | --------------------------------- |
+| Ø6x3mm Neodimium Magnet          | 30       | 30       | In LDO Voron PC Case Hardware Kit |
+| Single Sided Foam Tape 1mm Thick | 6.4m     | 6.4m     | In LDO Voron PC Case Hardware Kit |
+| 3M VHB Tape 5952                 | 1        | 1        | In LDO Voron PC Case Hardware Kit |
 
 ## Cables
 
@@ -131,6 +132,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                          | Quantity |
 | ----------------------------- | -------- |
+| M5x8 BHCS                     | 16       |
 | Misumi HFSB5-2020-400-LCP-RCP | 4        |
 | Misumi HFSB5-2020-400-TPW     | 4        |
 | Misumi HFSB5-2020-200-TPW     | 4        |
@@ -147,6 +149,21 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Foot_A_Accent](https://www.printables.com/model/1428809/files#folder:model:Feet) | 2        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | [Foot_B](https://www.printables.com/model/1428809/files#folder:model:Feet)        | 2        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
 | [Foot_B_Accent](https://www.printables.com/model/1428809/files#folder:model:Feet) | 2        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                            | Quantity |
+| ------------------------------- | -------- |
+| M3x6 BHCS                       | 12       |
+| M3x8 BHCS                       | 4        |
+| M3 Post-install T-nut           | 4        |
+| M5x8 BHCS                       | 4        |
+| M5x12 BHCS                      | 4        |
+| M5 Hexnut                       | 4        |
+| M5 Post-install T-nut           | 4        |
+| Rubber Foot (1.5x.75", 38x19mm) | 4        |
 
 ## Electronics
 
@@ -165,6 +182,17 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [PSU_Right_Front_Cleat](https://www.printables.com/model/1428809/files#folder:model:Power%20Supply)   | 1        | [eSun ABS+ (Black)][primary]       |      |        |      |   :x:   |       |
 | [PSU_Right_Rear_Cleat](https://www.printables.com/model/1428809/files#folder:model:Power%20Supply)    | 1        | [eSun ABS+ (Black)][primary]       |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x16 BHCS                  | 4        |
+| M3x25 BHCS                  | 4        |
+| M3 Post-install T-nut       | 4        |
+| M3 Threaded Insert (M3x5x4) | 4        |
+
 ### :negative_squared_cross_mark: Motherboard
 
 | Item                                                                                           | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes                                                            |
@@ -172,6 +200,16 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ~[Mobo_Mount_Bottom](https://www.printables.com/model/1428809/files#folder:model:Motherboard)~ | ~1~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
 | ~[Mobo_Mount_Side](https://www.printables.com/model/1428809/files#folder:model:Motherboard)~   | ~1~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
 | [Mobo_Mount_Top](https://www.printables.com/model/1428809/files#folder:model:Motherboard)      | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |                                                                  |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M5x10 BHCS                  | 7        |
+| M5 Post-install T-nut       | 7        |
+| M3 Threaded Insert (M3x5x4) | 12       |
 
 ### :negative_squared_cross_mark: Universal Motherboard Mounting
 
@@ -189,6 +227,26 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [IO_Plate_Filler](https://www.printables.com/model/1428809/files#folder:model:Rear%20Panels)        | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | ~[PCI_Blanking_Plate](https://www.printables.com/model/1428809/files#folder:model:Rear%20Panels)~   | ~7~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | [PCI_Blanking_Plate_Hex](https://www.printables.com/model/1428809/files#folder:model:Rear%20Panels) | 7        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| ~M3x6 BHCS~                 | ~7~      |
+| M3x6 Thumbscrews            | 7        |
+| M3x8 BHCS                   | 7        |
+| M3x16 BHCS                  | 2        |
+| M3x35 BHCS                  | 8        |
+| M3 Post-install T-nut       | 9        |
+| M3 Threaded Insert (M3x5x4) | 15       |
+| M5x8 BHCS                   | 1        |
+| M5x10 BHCS                  | 1        |
+| M5 Post-install T-nut       | 2        |
+
+> [!WARNING]
+> Some of these parts are not required as i plan on using `Thumbscrews` instead.
 
 ### :negative_squared_cross_mark: Fans
 
@@ -217,13 +275,22 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ~[Cable_Channel_Bottom](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel)~ | ~1~      | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Cable Channel` |
 | [Cable_Channel_Top](https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel)      | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |                                                                       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x10 BHCS                  | 7        |
+| M3 Threaded Insert (M3x5x4) | 2        |
+
 ### :negative_squared_cross_mark: Universal Motherboard Cable Channel
 
 | Item                                                                     | Quantity | Material                           | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------ | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [Cable Channel (Bottom)](https://www.printables.com/model/1444693/files) | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |       |
 
-### :negative_squared_cross_mark: Front Panel
+### :negative_squared_cross_mark: Front Skirt
 
 | Item                                                                                             | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes                                                 |
 | ------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------- |
@@ -236,6 +303,19 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Power_Button](https://www.printables.com/model/1428809/files#folder:model:Skirts)               | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |                                                       |
 | [Reset_Button](https://www.printables.com/model/1428809/files#folder:model:Skirts)               | 1        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |                                                       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M2x10 Self-tapping Screw    | 4        |
+| M3x8 BHCS                   | 2        |
+| M3x8 SHCS                   | 2        |
+| M3x16 BHCS                  | 2        |
+| M3 Post-install T-nut       | 2        |
+| M3 Threaded Insert (M3x5x4) | 4        |
+
 ## Skirts
 
 ![3D render of the Corvus ATX Skirts](/assets/blog/corvus-atx/skirts.png 'Skirts')
@@ -245,6 +325,16 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                             | Quantity | Material                     | Size | Weight | Cost | Printed | Notes |
 | -------------------------------------------------------------------------------- | -------- | ---------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [Rear_Skirt](https://www.printables.com/model/1428809/files#folder:model:Skirts) | 1        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3 Threaded Insert (M3x5x4) | 2        |
+| M5x10 BHCS                  | 2        |
+| M5 Post-install T-nut       | 2        |
 
 ### :negative_squared_cross_mark: Side Skirts
 
@@ -258,9 +348,30 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ~[Side_Skirt_Middle](https://www.printables.com/model/1428809/files#folder:model:Skirts)~     | ~2~      | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
 | [Side_Skirt_Middle_Inlay](https://www.printables.com/model/1428809/files#folder:model:Skirts) | 2        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| M3x8 BHCS                   | 10       |
+| M3 Post-install T-nut       | 10       |
+| M3 Threaded Insert (M3x5x4) | 8        |
+
 ## Panels
 
 ![3D render of the Corvus ATX Panels](/assets/blog/corvus-atx/panels.png 'Panels')
+
+### :negative_squared_cross_mark: Bottom Panel
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                              | Quantity |
+| ------------------------------------------------- | -------- |
+| Acrylic Sheet Black - 430x230x3 mm (Bottom panel) | 1        |
+| M3x8 BHCS                                         | 12       |
 
 ### :negative_squared_cross_mark: Deck Panel
 
@@ -272,12 +383,37 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Deck_Support_Corner_Mirror](https://www.printables.com/model/1428809/files#folder:model:Deck%20Panel) | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |                                                        |
 | [Deck_Support_Mid](https://www.printables.com/model/1428809/files#folder:model:Deck%20Panel)           | 2        | [eSun ABS+ (Black)][primary] |      |        |      |   :x:   |                                                        |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                                                | Quantity |
+| --------------------------------------------------- | -------- |
+| ~Ø6x3mm Neodimium Magnet~                           | ~16~     |
+| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel) | 1        |
+| M3x10 BHCS                                          | 6        |
+| M3 Post-install T-nut                               | 6        |
+
+> [!WARNING]
+> Some of these parts are not required as they are for the printed `Deck_Panel` parts.
+
 ### :negative_squared_cross_mark: Front Panel
 
 | Item                                                                                                   | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
 | [Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)  | 4        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | [Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting) | 4        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                               | Quantity |
+| -------------------------------------------------- | -------- |
+| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) | 1        |
+| M3x8 SHCS                                          | 12       |
+| M3 Hammer Head T-nuts                              | 12       |
+| Single Sided Foam Tape 1mm Thick                   | ?        |
 
 ### :negative_squared_cross_mark: Rear Panel
 
@@ -286,6 +422,17 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)  | 2        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | [Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting) | 3        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
 
+#### Assembly
+
+##### Parts Needed
+
+| Item                                              | Quantity |
+| ------------------------------------------------- | -------- |
+| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) | 1        |
+| M3x8 SHCS                                         | 7        |
+| M3 Hammer Head T-nuts                             | 7        |
+| Single Sided Foam Tape 1mm Thick                  | ?        |
+
 ### :negative_squared_cross_mark: Side Panel
 
 | Item                                                                                                   | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
@@ -293,12 +440,61 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)  | 4        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 | [Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting) | 4        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
 
-### :negative_squared_cross_mark: Top Panel
+#### Assembly
+
+##### Parts Needed
+
+| Item                                                 | Quantity |
+| ---------------------------------------------------- | -------- |
+| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 1        |
+| M3x8 SHCS                                            | 12       |
+| M3 Hammer Head T-nuts                                | 12       |
+| Single Sided Foam Tape 1mm Thick                     | ?        |
+
+### :negative_squared_cross_mark: Top Hat
 
 | Item                                                                                                   | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)  | 4        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
-| [Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting) | 4        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+| [TH_Corner_Clip](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>) | 4        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| [TH_Mid_Clip](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>)    | 4        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+| [TH_Front_Rear](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>)  | 2        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
+| [TH_Left_Front](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>)  | 1        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
+| [TH_Left_Rear](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>)   | 1        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
+| [TH_Right_Front](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>) | 1        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
+| [TH_Right_Rear](<https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)>)  | 1        | [eSun ABS+ (Black)][primary]             |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                               | Quantity |
+| -------------------------------------------------- | -------- |
+| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel) | 1        |
+| M3x8 SHCS                                          | 42       |
+| M3 Post-install T-nut                              | 18       |
+| M3 Threaded Insert (M3x5x4)                        | 40       |
+| Single Sided Foam Tape 1mm Thick                   | ?        |
+
+### :negative_squared_cross_mark: Top Panel
+
+| Item                                                                                                     | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| ~[Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~  | ~4~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| ~[Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~ | ~4~      | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                                 | Quantity |
+| ---------------------------------------------------- | -------- |
+| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |
+| ~M3x8 SHCS~                                          | ~12~     |
+| ~M3 Hammer Head T-nuts~                              | ~12~     |
+| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |
+
+> [!WARNING]
+> These parts are not required when installing the `Top Hat`.
 
 ### :negative_squared_cross_mark: Door
 
@@ -311,6 +507,19 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [Door_Handle_Top](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)      | 1        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |       |
 | [Door_Latch_Bottom](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)    | 1        | [eSun ABS+ (Black)][primary]       |      |        |      |   :x:   |       |
 | [Door_Latch_Top](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)       | 1        | [eSun ABS+ (Black)][primary]       |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| Ø6x3mm Neodimium Magnet     | 4        |
+| 3M VHB Tape 5952            | ?        |
+| M3x8 SHCS                   | 4        |
+| M3x35 SHCS                  | 2        |
+| M3 Hammer Head T-nuts       | 4        |
+| M3 Threaded Insert (M3x5x4) | 2        |
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
