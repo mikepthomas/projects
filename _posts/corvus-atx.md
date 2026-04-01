@@ -3,7 +3,7 @@ title: Corvus ATX
 heading: |
   Corvus ATX: The 3D Printed, PC Case
 date: 2026-03-29T17:15:51.154Z
-lastmod: 2026-03-31T20:11:26.405Z
+lastmod: 2026-04-01T12:10:13.010Z
 author: Mike Thomas
 description: Building a 3D printed, Voron inspired, computer case for my gaming PC
 preview: /assets/blog/corvus-atx/corvus-hero.jpg
@@ -451,6 +451,27 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M3 Hammer Head T-nuts                                | 12       |
 | Single Sided Foam Tape 1mm Thick                     | ?        |
 
+### :negative_squared_cross_mark: Top Panel
+
+> [!WARNING]
+> These parts are not required when installing the `Top Hat`.
+
+| Item                                                                                                     | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| ~[Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~  | ~4~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| ~[Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~ | ~4~      | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                                                 | Quantity |
+| ---------------------------------------------------- | -------- |
+| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |
+| ~M3x8 SHCS~                                          | ~12~     |
+| ~M3 Hammer Head T-nuts~                              | ~12~     |
+| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |
+
 ### :negative_squared_cross_mark: Top Hat
 
 | Item                                                                                                   | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
@@ -475,26 +496,25 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M3 Threaded Insert (M3x5x4)                        | 40       |
 | Single Sided Foam Tape 1mm Thick                   | ?        |
 
-### :negative_squared_cross_mark: Top Panel
+### :negative_squared_cross_mark: 360 Radiator Mount
 
-| Item                                                                                                     | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| ~[Corner_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~  | ~4~      | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
-| ~[Midspan_Panel_Clip_4mm](https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting)~ | ~4~      | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+> [!BOTE]
+> I will not be using the Scoops and Filters from this as I will be using the Acrylic one in the `LDO Voron PC Case Panel Kit`.
+
+| Item                                                                                                   | Quantity | Material                                 | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [Rad_Mount_Left_Front](https://www.printables.com/model/1433672/files#folder:model:Radiator%20Mounts)  | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| [Rad_Mount_Left_Rear](https://www.printables.com/model/1433672/files#folder:model:Radiator%20Mounts)   | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| [Rad_Mount_Right_Front](https://www.printables.com/model/1433672/files#folder:model:Radiator%20Mounts) | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
+| [Rad_Mount_Right_Rear](https://www.printables.com/model/1433672/files#folder:model:Radiator%20Mounts)  | 1        | [eSun ABS+ (Fire Engine Red)][secondary] |      |        |      |   :x:   |       |
 
 #### Assembly
 
 ##### Parts Needed
 
-| Item                                                 | Quantity |
-| ---------------------------------------------------- | -------- |
-| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |
-| ~M3x8 SHCS~                                          | ~12~     |
-| ~M3 Hammer Head T-nuts~                              | ~12~     |
-| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |
-
-> [!WARNING]
-> These parts are not required when installing the `Top Hat`.
+| Item      | Quantity |
+| --------- | -------- |
+| M3x8 BHCS | 12       |
 
 ### :negative_squared_cross_mark: Door
 
@@ -526,3 +546,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                     | Quantity | Material                     | Size  | Weight | Cost  | Printed | Notes                  |
 | -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------- | ----- | ------ | ----- | :-----: | ---------------------- |
 | [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)][primary] | 0.69m | 1.76g  | £0.03 |   :x:   | This is a LDO 2.4 Part |
+
+### :negative_squared_cross_mark: Noctua Fan Grills
+
+| Item                                                                                        | Quantity | Material                           | Size | Weight | Cost | Printed | Notes                                                                             |
+| ------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------------------- |
+| [High-efficiency Noctua 120mm fan grill](https://www.printables.com/model/1096961/files)    | 3        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |                                                                                   |
+| [High-efficiency Noctua 140mm fan grill v2](https://www.printables.com/model/1098014/files) | 3        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   | This is a mod by [SuperIntendent](https://www.printables.com/@ernestizze_1625778) |
