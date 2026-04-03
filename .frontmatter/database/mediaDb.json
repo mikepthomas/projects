@@ -1930,6 +1930,11 @@
           "vr-room-mk3.jpg": {
             "title": "VR Room MK3",
             "alt": "The final iteration of the VR room"
+          },
+          "mini-minirack.jpg": {
+            "title": "Mini Minirack",
+            "caption": "",
+            "alt": "Japanese \"Gatcha\" Mini Server Rack"
           }
         },
         "thinkcenter": {
@@ -1942,6 +1947,38 @@
           "klipper-firmware-hero.jpg": {
             "title": "Klipper Firmware Hero",
             "alt": "Klipper MOTD screenshot"
+          }
+        },
+        "corvus-atx": {
+          "corvus-hero.jpg": {
+            "title": "Corvus Hero",
+            "caption": "",
+            "alt": "LDO Kits to build a Corvus ATX PC Case"
+          },
+          "frame.png": {
+            "title": "Frame",
+            "caption": "",
+            "alt": "3D render of the Corvus ATX Frame"
+          },
+          "feet.png": {
+            "title": "Feet",
+            "caption": "",
+            "alt": "3D render of the Corvus ATX Feet"
+          },
+          "electronics.png": {
+            "title": "Electronics",
+            "caption": "",
+            "alt": "3D render of the Corvus ATX Electronics"
+          },
+          "skirts.png": {
+            "title": "Skirts",
+            "caption": "",
+            "alt": "3D render of the Corvus ATX Skirts"
+          },
+          "panels.png": {
+            "title": "Panels",
+            "caption": "",
+            "alt": "3D render of the Corvus ATX Panels"
           }
         }
       }

@@ -2,7 +2,7 @@
 title: Homelab
 heading: Putting together my homelab
 date: 2025-03-14T23:22:38.962Z
-lastmod: 2026-03-27T18:56:03.970Z
+lastmod: 2026-04-03T22:07:45.776Z
 author: Mike Thomas
 description: Just a few things I use hardware and software for within my homelab.
 preview: /assets/blog/homelab/homelab-hero.jpg
@@ -117,6 +117,36 @@ I assembled this cluster to learn all about Containerization using [Docker Swarm
 This was my original Raspberry Pi cluster, It was originally 4 layers however I managed to find a case that fit perfectly to add an additional layer. If you look hard enough, you will see that the fan of the bottom layer is in a slightly different place and the standoffs are slightly shorter.
 
 The cluster was later repurposed to learn [Ansible](https://www.ansible.com) when the Raspberry Pi 2s became a little too slow to run Docker.
+
+# Mini Minirack
+
+![Japanese "Gatcha" Mini Server Rack](/assets/blog/homelab/mini-minirack.jpg)
+
+Found these in [Gashapon](https://en.wikipedia.org/wiki/Gashapon) machines on my visit to Japan.
+
+I have the Full set of [Computer Accessories](https://tarlin-capsule.jp/product/477), [Network Equipment 2](https://tarlin-capsule.jp/product/377) and 2 of the [Network Equipment 3](https://tarlin-capsule.jp/product/686) capsules to build the rack.
+
+There is also a 3D Printable version that should be compatible available on Maker world by [Made In Japan](https://makerworld.com/en/@Made_In_Japan):
+
+| Item                                                       | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
+| [corner](https://makerworld.com/en/models/661495)          | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [dell face plate](https://makerworld.com/en/models/662580) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [dell r510b](https://makerworld.com/en/models/662580)      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [middle bar](https://makerworld.com/en/models/661495)      | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [shelf](https://makerworld.com/en/models/661495)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw power](https://makerworld.com/en/models/662580)        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 1](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 2](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 2.1](https://makerworld.com/en/models/661495)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 2u](https://makerworld.com/en/models/661495)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 2u power](https://makerworld.com/en/models/662580)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 3](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [sw 3.1](https://makerworld.com/en/models/661495)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [top](https://makerworld.com/en/models/661495)             | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [ups bb](https://makerworld.com/en/models/662580)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [wire long](https://makerworld.com/en/models/661495)       | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
+| [wire short](https://makerworld.com/en/models/661495)      | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |       |
 
 # Keyboard, Video, and Mouse Switch (KVM)
 
