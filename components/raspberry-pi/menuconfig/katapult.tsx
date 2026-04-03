@@ -62,6 +62,12 @@ export default function ColorKatapult(children: ReactNode) {
           <Menu>    Application start offset (32KiB offset)  ---&gt;</Menu>
         </Background>
       );
+    case '    Build Optimization Override (Size (-Os))  --->\n':
+      return (
+        <Background>
+          <Menu>    Build Optimization Override (Size (-Os)) ---&gt;</Menu>
+        </Background>
+      );
     case '()  GPIO pins to set on bootloader entry\n':
       return (
         <Background>

@@ -404,6 +404,20 @@ export default function ColorKlipper(children: ReactNode) {
           <Menu>[*] Support ADS 1220 ADC chip</Menu>
         </Background>
       );
+    case '    *** Other features ***\n':
+      return (
+        <Background>
+          <Menu>    *** Other features ***</Menu>
+        </Background>
+      );
+    case '[ ] Support for homing/probing events using analog sensors\n':
+      return (
+        <Background>
+          <Menu>
+            [ ] Support for homing/probing events using analog sensors
+          </Menu>
+        </Background>
+      );
     case '    *** Other external sensor chips ***\n':
       return (
         <Background>

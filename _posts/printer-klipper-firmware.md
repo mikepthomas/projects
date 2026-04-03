@@ -265,6 +265,8 @@ As the firmware is too large to fit in the supplied flash, we also need to disab
 [*] Support HD44780 LCD display
     *** External ADC type chips ***
 [ ] Support HX711 and HX717 ADC chips
+    *** Other features ***
+[ ] Support for homing/probing events using analog sensors
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
@@ -346,6 +348,7 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
     Communication interface (CAN bus (on PB0/PB1))  --->
     Application start offset (8KiB offset)  --->
 (1000000) CAN bus speed
+    Build Optimization Override (Size (-Os))  --->
 ()  GPIO pins to set on bootloader entry
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
@@ -376,6 +379,7 @@ sudo dfu-util -a 0 -d 0483:df11 -s 0x08000000:mass-erase:force -D ~/katapult/out
     Communication interface (USB (on PA11/PA12))  --->
     Application start offset (8KiB offset)  --->
     USB ids  --->
+    Build Optimization Override (Size (-Os))  --->
 ()  GPIO pins to set on bootloader entry
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
@@ -468,6 +472,7 @@ sudo dfu-util -a 0 -D ~/katapult/out/katapult.bin --dfuse-address 0x08000000:for
     Communication interface (USB (on PA11/PA12))  --->
     Application start offset (8KiB offset)  --->
     USB ids  --->
+    Build Optimization Override (Size (-Os))  --->
 ()  GPIO pins to set on bootloader entry
 [*] Support bootloader entry on rapid double click of reset button
 [ ] Enable bootloader entry on button (or gpio) state
