@@ -3,7 +3,7 @@ title: Corvus ATX
 heading: |
   Corvus ATX: The 3D Printed, PC Case
 date: 2026-03-29T17:15:51.154Z
-lastmod: 2026-04-01T12:10:13.010Z
+lastmod: 2026-04-05T16:14:13.572Z
 author: Mike Thomas
 description: Building a 3D printed, Voron inspired, computer case for my gaming PC
 preview: /assets/blog/corvus-atx/corvus-hero.jpg
@@ -130,12 +130,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| M5x8 BHCS                     | 16       |
-| Misumi HFSB5-2020-400-LCP-RCP | 4        |
-| Misumi HFSB5-2020-400-TPW     | 4        |
-| Misumi HFSB5-2020-200-TPW     | 4        |
+| Item                          | Quantity | Notes                   |
+| ----------------------------- | -------- | ----------------------- |
+| M5x8 BHCS                     | 16       | Trident uses M5x16 BHCS |
+| Misumi HFSB5-2020-400-LCP-RCP | 4        |                         |
+| Misumi HFSB5-2020-400-TPW     | 4        |                         |
+| Misumi HFSB5-2020-200-TPW     | 4        |                         |
 
 ## Bottom Compartment
 
@@ -154,16 +154,16 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                            | Quantity |
-| ------------------------------- | -------- |
-| M3x6 BHCS                       | 12       |
-| M3x8 BHCS                       | 4        |
-| M3 Post-install T-nut           | 4        |
-| M5x8 BHCS                       | 4        |
-| M5x12 BHCS                      | 4        |
-| M5 Hexnut                       | 4        |
-| M5 Post-install T-nut           | 4        |
-| Rubber Foot (1.5x.75", 38x19mm) | 4        |
+| Item                            | Quantity | Notes                                         |
+| ------------------------------- | -------- | --------------------------------------------- |
+| M3x6 BHCS                       | 12       | Holds Accent to Foot                          |
+| M3x8 SHCS                       | 4        | Holds Foot to Frame, Trident uses M5x10 BHCS  |
+| M3 Post-install T-nut           | 4        | Holds Foot to Frame                           |
+| M5x8 BHCS                       | 4        | Holds Foot to Frame                           |
+| M5x12 BHCS                      | 4        | Holds Rubber to Foot, Trident uses M5x16 BHCS |
+| M5 Hexnut                       | 4        | Holds Rubber to Foot                          |
+| M5 Post-install T-nut           | 4        | Holds Foot to Frame                           |
+| Rubber Foot (1.5x.75", 38x19mm) | 4        |                                               |
 
 ## Electronics
 
@@ -186,12 +186,13 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M3x16 BHCS                  | 4        |
-| M3x25 BHCS                  | 4        |
-| M3 Post-install T-nut       | 4        |
-| M3 Threaded Insert (M3x5x4) | 4        |
+| Item                        | Quantity | Notes                     |
+| --------------------------- | -------- | ------------------------- |
+| M3x8 BHCS                   | 2        | Holds Cleats to Frame     |
+| M3x16 BHCS                  | 2        | Holds Cleats to Frame     |
+| M3x25 BHCS                  | 4        | Holds PSU Mount to Cleats |
+| M3 Post-install T-nut       | 4        | Holds Cleats to Frame     |
+| M3 Threaded Insert (M3x5x4) | 4        | For Cleats                |
 
 ### :negative_squared_cross_mark: Motherboard
 
@@ -205,11 +206,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M5x10 BHCS                  | 7        |
-| M5 Post-install T-nut       | 7        |
-| M3 Threaded Insert (M3x5x4) | 12       |
+| Item                        | Quantity | Notes                             |
+| --------------------------- | -------- | --------------------------------- |
+| M5x10 BHCS                  | 7        | Holds Motherboard Mounts to Frame |
+| M5 Post-install T-nut       | 7        | Holds Motherboard Mounts to Frame |
+| M3 Threaded Insert (M3x5x4) | 12       | For Motherboard Mounts            |
 
 ### :negative_squared_cross_mark: Universal Motherboard Mounting
 
@@ -232,21 +233,18 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| ~M3x6 BHCS~                 | ~7~      |
-| M3x6 Thumbscrews            | 7        |
-| M3x8 BHCS                   | 7        |
-| M3x16 BHCS                  | 2        |
-| M3x35 BHCS                  | 8        |
-| M3 Post-install T-nut       | 9        |
-| M3 Threaded Insert (M3x5x4) | 15       |
-| M5x8 BHCS                   | 1        |
-| M5x10 BHCS                  | 1        |
-| M5 Post-install T-nut       | 2        |
+| Item                        | Quantity | Notes                                     |
+| --------------------------- | -------- | ----------------------------------------- |
+| ~M3x6 BHCS~                 | ~7~      | Using Thumbscrews Instead                 |
+| M3x6 Thumbscrews            | 7        | For Expansion Slots                       |
+| M3x8 BHCS                   | 5        | Holds Expansion Slots & IO Panel to Frame |
+| M3 Post-install T-nut       | 5        | Holds Expansion Slots & IO Panel to Frame |
+| M3 Threaded Insert (M3x5x4) | 7        | For Expansion Slots                       |
+| M5x8 BHCS                   | 1        | Holds Expansion Slots to Frame            |
+| M5 Post-install T-nut       | 1        | Holds Expansion Slots to Frame            |
 
 > [!WARNING]
-> Some of these parts are not required as i plan on using `Thumbscrews` instead.
+> Some of these parts are not required as I plan on using `Thumbscrews` instead.
 
 ### :negative_squared_cross_mark: Fans
 
@@ -261,6 +259,21 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ~[PCI_Filler_Hex](https://www.printables.com/model/1428809/files#folder:model:Printable%20Rear%20Panel%20Fillers)~         | ~1~      | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
 | [PCI_Filler_Hex_60mm](https://www.printables.com/model/1428809/files#folder:model:Printable%20Rear%20Panel%20Fillers)      | 1        | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
 | ~[PCI_Filler_Partial_Hex](https://www.printables.com/model/1428809/files#folder:model:Printable%20Rear%20Panel%20Fillers)~ | ~1~      | [eSun ABS+ (Cold White)][tertiary]       |      |        |      |   :x:   |       |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity | Notes                                      |
+| --------------------------- | -------- | ------------------------------------------ |
+| M3x8 BHCS                   | 2        | Holds PCI-e Filler Fan to Frame            |
+| M3x16 BHCS                  | 2        | Holds Exhaust Fan to Frame                 |
+| M3x35 BHCS                  | 8        | For Fan Grills                             |
+| M3 Post-install T-nut       | 4        | Holds Exhaust & PCI-e Filler Fans to Frame |
+| M3 Threaded Insert (M3x5x4) | 8        | For Fan Grills                             |
+| M3 Washer                   | 8        | For Fan Grills                             |
+| M5x10 BHCS                  | 1        | Holds Exhaust Fan to Frame                 |
+| M5 Post-install T-nut       | 1        | Holds Exhaust Fan to Frame                 |
 
 ## Wiring
 
@@ -279,10 +292,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M3x10 BHCS                  | 7        |
-| M3 Threaded Insert (M3x5x4) | 2        |
+| Item                        | Quantity | Notes                                                      |
+| --------------------------- | -------- | ---------------------------------------------------------- |
+| M3x10 BHCS                  | 5        | Holds Bottom Cable Channel to Frame and Motherboard Mounts |
+| M3x16 BHCS                  | 2        | Holds Top Cable Channel to Motherboard Mounts              |
+| M3 Post-install T-nut       | 2        | Holds Bottom Cable Channel to Frame                        |
+| M3 Threaded Insert (M3x5x4) | 2        | For Bottom Cable Channel                                   |
 
 ### :negative_squared_cross_mark: Universal Motherboard Cable Channel
 
@@ -307,14 +322,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M2x10 Self-tapping Screw    | 4        |
-| M3x8 BHCS                   | 2        |
-| M3x8 SHCS                   | 2        |
-| M3x16 BHCS                  | 2        |
-| M3 Post-install T-nut       | 2        |
-| M3 Threaded Insert (M3x5x4) | 4        |
+| Item                        | Quantity | Notes                         |
+| --------------------------- | -------- | ----------------------------- |
+| M2x10 Self-tapping Screw    | 4        | For Panel Mount USB Ports     |
+| M3x8 BHCS                   | 2        | Holds Skirt to IO Mount       |
+| M3x8 SHCS                   | 2        | Holds Skirt to Frame          |
+| ~M3x16 BHCS~                | ~2~      | For LED Mount Block           |
+| M3 Post-install T-nut       | 2        | Holds Skirt to Frame          |
+| M3 Threaded Insert (M3x5x4) | 4        | For Bottom Panel and IO Mount |
+| Panel Mount USB Port        | 2        |                               |
 
 ## Skirts
 
@@ -330,11 +346,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M3 Threaded Insert (M3x5x4) | 2        |
-| M5x10 BHCS                  | 2        |
-| M5 Post-install T-nut       | 2        |
+| Item                        | Quantity | Notes                |
+| --------------------------- | -------- | -------------------- |
+| M3x8 SHCS                   | 2        | Holds Skirt to Frame |
+| M3 Post-install T-nut       | 2        | Holds Skirt to Frame |
+| M3 Threaded Insert (M3x5x4) | 2        | For Bottom Panel     |
 
 ### :negative_squared_cross_mark: Side Skirts
 
@@ -352,11 +368,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| M3x8 BHCS                   | 10       |
-| M3 Post-install T-nut       | 10       |
-| M3 Threaded Insert (M3x5x4) | 8        |
+| Item                        | Quantity | Notes                |
+| --------------------------- | -------- | -------------------- |
+| M3x8 SHCS                   | 10       | Holds Skirt to Frame |
+| M3 Post-install T-nut       | 10       | Holds Skirt to Frame |
+| M3 Threaded Insert (M3x5x4) | 8        | For Bottom Panel     |
 
 ## Panels
 
@@ -368,10 +384,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                              | Quantity |
-| ------------------------------------------------- | -------- |
-| Acrylic Sheet Black - 430x230x3 mm (Bottom panel) | 1        |
-| M3x8 BHCS                                         | 12       |
+| Item                                              | Quantity | Notes            |
+| ------------------------------------------------- | -------- | ---------------- |
+| Acrylic Sheet Black - 430x230x3 mm (Bottom panel) | 1        |                  |
+| M3x8 BHCS                                         | 12       | For Bottom Panel |
+| M3 Washer                                         | 12       | For Bottom Panel |
 
 ### :negative_squared_cross_mark: Deck Panel
 
@@ -387,12 +404,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                                | Quantity |
-| --------------------------------------------------- | -------- |
-| ~Ø6x3mm Neodimium Magnet~                           | ~16~     |
-| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel) | 1        |
-| M3x10 BHCS                                          | 6        |
-| M3 Post-install T-nut                               | 6        |
+| Item                                                | Quantity | Notes                              |
+| --------------------------------------------------- | -------- | ---------------------------------- |
+| Ø6x3mm Neodimium Magnet                             | ~16~ 8   |                                    |
+| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel) | 1        |                                    |
+| M3x10 BHCS                                          | 6        | Holds Deck Panel Supports to Frame |
+| M3 Post-install T-nut                               | 6        | Holds Deck Panel Supports to Frame |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the printed `Deck_Panel` parts.
@@ -408,12 +425,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                               | Quantity |
-| -------------------------------------------------- | -------- |
-| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) | 1        |
-| M3x8 SHCS                                          | 12       |
-| M3 Hammer Head T-nuts                              | 12       |
-| Single Sided Foam Tape 1mm Thick                   | ?        |
+| Item                                               | Quantity | Notes           |
+| -------------------------------------------------- | -------- | --------------- |
+| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) | 1        |                 |
+| M3x8 SHCS                                          | 12       | For Panel Clips |
+| M3 Hammer Head T-nuts                              | 12       | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                   | ?        |                 |
 
 ### :negative_squared_cross_mark: Rear Panel
 
@@ -426,12 +443,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                              | Quantity |
-| ------------------------------------------------- | -------- |
-| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) | 1        |
-| M3x8 SHCS                                         | 7        |
-| M3 Hammer Head T-nuts                             | 7        |
-| Single Sided Foam Tape 1mm Thick                  | ?        |
+| Item                                              | Quantity | Notes           |
+| ------------------------------------------------- | -------- | --------------- |
+| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) | 1        |                 |
+| M3x8 SHCS                                         | 7        | For Panel Clips |
+| M3 Hammer Head T-nuts                             | 7        | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                  | ?        |                 |
 
 ### :negative_squared_cross_mark: Side Panel
 
@@ -444,12 +461,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                                 | Quantity |
-| ---------------------------------------------------- | -------- |
-| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 1        |
-| M3x8 SHCS                                            | 12       |
-| M3 Hammer Head T-nuts                                | 12       |
-| Single Sided Foam Tape 1mm Thick                     | ?        |
+| Item                                                 | Quantity | Notes           |
+| ---------------------------------------------------- | -------- | --------------- |
+| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 1        |                 |
+| M3x8 SHCS                                            | 12       | For Panel Clips |
+| M3 Hammer Head T-nuts                                | 12       | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                     | ?        |                 |
 
 ### :negative_squared_cross_mark: Top Panel
 
@@ -465,12 +482,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                                 | Quantity |
-| ---------------------------------------------------- | -------- |
-| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |
-| ~M3x8 SHCS~                                          | ~12~     |
-| ~M3 Hammer Head T-nuts~                              | ~12~     |
-| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |
+| Item                                                 | Quantity | Notes           |
+| ---------------------------------------------------- | -------- | --------------- |
+| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |                 |
+| ~M3x8 SHCS~                                          | ~12~     | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                              | ~12~     | For Panel Clips |
+| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |                 |
 
 ### :negative_squared_cross_mark: Top Hat
 
@@ -488,13 +505,14 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                                               | Quantity |
-| -------------------------------------------------- | -------- |
-| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel) | 1        |
-| M3x8 SHCS                                          | 42       |
-| M3 Post-install T-nut                              | 18       |
-| M3 Threaded Insert (M3x5x4)                        | 40       |
-| Single Sided Foam Tape 1mm Thick                   | ?        |
+| Item                                               | Quantity | Notes                                      |
+| -------------------------------------------------- | -------- | ------------------------------------------ |
+| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel) | 1        |                                            |
+| M3x8 BHCS                                          | 12       | Holds Top Hat parts together               |
+| M3x8 SHCS                                          | 30       | Holds Top Hat to Frame and For Panel Clips |
+| M3 Post-install T-nut                              | 18       | Holds Top Hat to Frame                     |
+| M3 Threaded Insert (M3x5x4)                        | 40       | For Panel Clips and Radiator Mounts        |
+| Single Sided Foam Tape 1mm Thick                   | ?        |                                            |
 
 ### :negative_squared_cross_mark: 360 Radiator Mount
 
@@ -512,9 +530,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item      | Quantity |
-| --------- | -------- |
-| M3x8 BHCS | 12       |
+| Item      | Quantity | Notes                            |
+| --------- | -------- | -------------------------------- |
+| M3x8 BHCS | 12       | Holds Radiator Mounts to Top Hat |
 
 ### :negative_squared_cross_mark: Door
 
@@ -532,14 +550,14 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ##### Parts Needed
 
-| Item                        | Quantity |
-| --------------------------- | -------- |
-| Ø6x3mm Neodimium Magnet     | 4        |
-| 3M VHB Tape 5952            | ?        |
-| M3x8 SHCS                   | 4        |
-| M3x35 SHCS                  | 2        |
-| M3 Hammer Head T-nuts       | 4        |
-| M3 Threaded Insert (M3x5x4) | 2        |
+| Item                        | Quantity | Notes                             |
+| --------------------------- | -------- | --------------------------------- |
+| Ø6x3mm Neodimium Magnet     | 4        |                                   |
+| 3M VHB Tape 5952            | ?        |                                   |
+| M3x8 SHCS                   | 4        | Holds Hinges and Latches to Frame |
+| M3x35 SHCS                  | 2        | For Door Hinges                   |
+| M3 Hammer Head T-nuts       | 4        | Holds Hinges and Latches to Frame |
+| M3 Threaded Insert (M3x5x4) | 2        | For Bottom of Door Hinges         |
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
@@ -553,3 +571,25 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | ------------------------------------------------------------------------------------------- | -------- | ---------------------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------------------- |
 | [High-efficiency Noctua 120mm fan grill](https://www.printables.com/model/1096961/files)    | 3        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   |                                                                                   |
 | [High-efficiency Noctua 140mm fan grill v2](https://www.printables.com/model/1098014/files) | 3        | [eSun ABS+ (Cold White)][tertiary] |      |        |      |   :x:   | This is a mod by [SuperIntendent](https://www.printables.com/@ernestizze_1625778) |
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                        | Quantity | Notes                                                            |
+| --------------------------- | -------- | ---------------------------------------------------------------- |
+| M3x8 BHCS                   | 20       | Holds Fan Grills to Panels                                       |
+| M3 Hexnut                   | 12       | For Top Panel Fan Grills, Not In LDO Voron PC Case Fasteners Kit |
+| M3 Threaded Insert (M3x5x4) | 8        | For Front Panel Fans                                             |
+| M3 Washer                   | 20       | Holds Fan Grills to Panels                                       |
+
+### Spare Fasteners
+
+| Item                        | Quantity | Notes |
+| --------------------------- | -------- | ----- |
+| M3x8 BHCS                   | 9        |       |
+| M3x8 SHCS                   | 4        |       |
+| M3x10 BHCS                  | 4        |       |
+| M3 Threaded Insert (M3x5x4) | 14       |       |
+| M3 Washer                   | 9        |       |
+| M5x10 BHCS                  | 2        |       |
