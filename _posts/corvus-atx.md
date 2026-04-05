@@ -157,9 +157,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                            | Quantity | Notes                                         |
 | ------------------------------- | -------- | --------------------------------------------- |
 | M3x6 BHCS                       | 12       | Holds Accent to Foot                          |
-| M3x8 SHCS                       | 4        | Holds Foot to Frame, Trident uses M5x10 BHCS  |
+| M3x8 SHCS                       | 4        | Holds Foot to Frame                           |
 | M3 Post-install T-nut           | 4        | Holds Foot to Frame                           |
-| M5x8 BHCS                       | 4        | Holds Foot to Frame                           |
+| M5x8 BHCS                       | 4        | Holds Foot to Frame, Trident uses M5x10 BHCS  |
 | M5x12 BHCS                      | 4        | Holds Rubber to Foot, Trident uses M5x16 BHCS |
 | M5 Hexnut                       | 4        | Holds Rubber to Foot                          |
 | M5 Post-install T-nut           | 4        | Holds Foot to Frame                           |
