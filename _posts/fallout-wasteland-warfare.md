@@ -53,7 +53,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box]                                                                                           |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                        |
 | [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                | :heavy_check_mark: |                                                                                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                                                            |
-| [Nuka Cola Girl][Nuka Cola Girl]                                                                                                                          | :heavy_check_mark: |                                                                                                                                      |                    |                                                                                                                                                                                              |
+| [Nuka Cola Girl][Nuka Cola Girl]                                                                                                                          | :heavy_check_mark: |                                                                                                                                      |                    | Promo                                                                                                                                                                                        |
 | [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf) | :heavy_check_mark: | Contains Neoprene playing mat to replace the paper one in the `Two Player Starter Set`, clip together Red Rocket Building will be replaced by [3D Printed Red Rocket Truck Stop](red-rocket) |
 | [Super Mutants: Core Box][Super Mutants Core Box]                                                                                                         |        :x:         |                                                                                                                                      |                    |                                                                                                                                                                                              |
 | [Survivors: Core Box][Survivors Core Box]                                                                                                                 | :heavy_check_mark: |                                                                                                                                      |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                                                            |
@@ -141,7 +141,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------- |
 | [Raiders: Core Box][Raiders Core Box]                                                                         | :heavy_check_mark: |                                                                                                                              |                    |                                                                         |
 | [Raiders Wave Expansion Card Pack][Raiders Card Deck]                                                         | :heavy_check_mark: |                                                                                                                              |                    | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
-| [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                              |                    |                                                                         |
+| [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                              |                    | Promo                                                                   |
 | [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook) | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |                                                                         |
 
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Fallout: Wasteland Warfare - Raiders Wave Expansion Card Pack'
@@ -162,10 +162,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Institute: Core Box][Institute Core Box]                  |        :x:         |                                                                                                                                           |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                       |
 | [Institute Wave Expansion Card Pack][Institute Card Deck]  |        :x:         |                                                                                                                                           |                    | Contains required cards for `Institute: Core Box`                                                                                           |
 | [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: |                                                                                                                                           |                    | [Rules Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) |
+| [The Mechanist][The Mechanist]                             |        :x:         |                                                                                                                                           |                    | Promo                                                                                                                                       |
 
 [Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'Fallout: Wasteland Warfare - The Automatron Card Expansion Pack'
 [Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Institute Wave Expansion Card Pack'
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
+[The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
 
 #### Scenarios
 
@@ -181,23 +183,29 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Enclave: Core Box][Enclave Core Box]                                                             |        :x:         |                                                                                                                            |                    |                                                                                                                |
 | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                                             |        :x:         |                                                                                                                            |                    | Contains required cards for `Enclave: Core Box`                                                                |
 | [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) | :heavy_check_mark: |                                                                                                                |
+| [Lorenzo Cabot][Lorenzo Cabot]                                                                    |        :x:         |                                                                                                                            |                    | Promo                                                                                                          |
 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                                           | :heavy_check_mark: |                                                                                                                            |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Fallout: Wasteland Warfare - Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Enclave Wave Card Expansion Pack'
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Fallout: Wasteland Warfare - Wave 1 Fundamentals Card Deck'
+[Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
 
 ### Wave 5 - New Vegas Expansion
 
 | Item                                                   | Purchased | Digital | Downloaded | Notes |
 | ------------------------------------------------------ | :-------: | ------- | :--------: | ----- |
+| [Burned Man][Burned Man]                               |    :x:    |         |            | Promo |
 | [Caesar's Legion: Core Box][Caesars Legion Core Box]   |    :x:    |         |            |       |
 | [NCR: Core Box][NCR Core Box]                          |    :x:    |         |            |       |
+| [NCR Ranger][NCR Ranger]                               |    :x:    |         |            | Promo |
 | [New Vegas Rules Expansion][New Vegas Rules Expansion] |    :x:    |         |            |       |
 
+[Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
 [NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box 'Fallout: Wasteland Warfare - NCR: Core Box'
+[NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger 'Fallout: Wasteland Warfare - NCR: Ranger'
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
 
 #### Scenarios
@@ -215,11 +223,13 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
 | [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
 | Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
+| [Grognak][Grognak]                                                                                                            |        :x:         |                                                                                                                                              |                    | Promo                                                 |
 | [Gunners: Core Box][Gunners Core Box]                                                                                         |        :x:         |                                                                                                                                              |                    |                                                       |
 | Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
 | [Railroad: Core Box][Railroad Core Box]                                                                                       |        :x:         |                                                                                                                                              |                    |                                                       |
 | [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion]                                                          | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
 
+[Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
@@ -230,23 +240,29 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
 | Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+| [Jake Finch][Jake Finch]                                                 |        :x:         |                                                                                                                                               |                    | Promo |
 
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
+[Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Fallout: Wasteland Warfare - Survivors: Jake Finch'
 
 ### Wave 8 - Capital Expansion
 
 | Item                                               |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
 | [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
+| [Rosa Meitner][Rosa Meitner]                       |        :x:         |         |            | Promo |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
+[Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo 'Fallout: Wasteland Warfare - Survivors: Rosa Meitner'
 
 ### Wave 9 - Nuka-World Expansion
 
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [NIRA][NIRA]                                             |        :x:         |                                                                                                                          |                    | Promo |
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
 
+[NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo 'Fallout: Wasteland Warfare - NIRA'
 [Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Fallout: Wasteland Warfare - Nuka World Rules Expansion'
 
 #### Scenarios
@@ -258,6 +274,14 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Cappy in a Haystack        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf)   | :heavy_check_mark: |       |
 
 ### Wave 10 - The Wilds of Appalachia Expansion
+
+| Item                 | Purchased | Digital | Downloaded | Notes |
+| -------------------- | :-------: | ------- | :--------: | ----- |
+| [Mr Fuzzy][Mr Fuzzy] |    :x:    |         |            | Promo |
+
+[Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo 'Fallout: Wasteland Warfare - Mr Fuzzy'
+
+#### Scenarios
 
 | Item                                             | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                                      |
 | ------------------------------------------------ | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------ |
@@ -275,6 +299,14 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 11 - Far Harbor Expansion
 
+| Item                             | Purchased | Digital | Downloaded | Notes |
+| -------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Old Longfellow][Old Longfellow] |    :x:    |         |            | Promo |
+
+[Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Fallout: Wasteland Warfare - Survivors: Old Longfellow'
+
+#### Scenarios
+
 | Item                                     | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                                      |
 | ---------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------ |
 | Children of Atom Rules Packet            |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
@@ -284,14 +316,19 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Amazon TV Sets
 
-| Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes                                                                         |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------- |
-| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
-| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [Rules Packet <i class="fa-regular fa-file-zipper"/>][Hollywood Rules Packet] |
+| Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes |
+| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: |       |
+| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: |       |
 
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
 [Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
-[Hollywood Rules Packet]: https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2
+
+#### Scenarios
+
+| Item                                  | Purchased | Digital                                                                                                                 |     Downloaded     | Notes |
+| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Hollywood Heroes & Icons Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2) | :heavy_check_mark: |       |
 
 ### AI Mode
 
