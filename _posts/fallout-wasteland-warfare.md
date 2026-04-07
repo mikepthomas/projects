@@ -657,7 +657,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                                                                           |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes |
 | ------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
-| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio)       | :heavy_check_mark: |                                                                                                              |                    |       |
+| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio)       | :heavy_check_mark: | Included with purchase of physical item                                                                      | :heavy_check_mark: |       |
 
 ## Accessories
 
@@ -713,9 +713,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                                                                         |     Purchased      | Digital |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------------------------------------ | :----------------: | ------- | :----------------: | ----- |
-| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) | :heavy_check_mark: |         | :heavy_check_mark: |       |
+| Item                                                                                                         |     Purchased      | Digital                                 |     Downloaded     | Notes |
+| ------------------------------------------------------------------------------------------------------------ | :----------------: | --------------------------------------- | :----------------: | ----- |
+| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) | :heavy_check_mark: | Included with purchase of physical item | :heavy_check_mark: |       |
 
 # Units
 
