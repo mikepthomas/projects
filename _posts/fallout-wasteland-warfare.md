@@ -51,18 +51,20 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 #### Rules
 
-| Item                                             |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                                                                |
-| ------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------- |
-| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                                                                                                              |                    | Discontinued, however, most of the cards in this pack have been re-released in subsequent card packs |
-| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                                                                                                              |                    |                                                                                                      |
-| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf) | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Rules of Play]                                                                                    | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                        | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                                                                                              |                    | Promo                                                                                                |
+| Item                                             |     Purchased      | Digital                                                        |     Downloaded     | Notes                                                                                                |
+| ------------------------------------------------ | :----------------: | -------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------- |
+| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                                |                    | Discontinued, however, most of the cards in this pack have been re-released in subsequent card packs |
+| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                                |                    |                                                                                                      |
+| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
+| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
+| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
+| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                |                    | Promo                                                                                                |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck 'Fallout: Wasteland Warfare - Settlement Deck'
-[Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set 'Fallout: Wasteland Warfare - Two Player Starter Set'
+[Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
+[Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view
+[Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
 [Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature 'Fallout: Wasteland Warfare - Zetan'
 
 #### Getting Acclimated
@@ -794,6 +796,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Sturges          | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
 
 [Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
+
+### Unaligned
+
+| Item                | Quantity | Material | Included In                                | Cards                                                 | Notes |
+| ------------------- | -------- | -------- | ------------------------------------------ | ----------------------------------------------------- | ----- |
+| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
 
 ## Game Cards
 
