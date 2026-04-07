@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-07T11:21:08.254Z
+lastmod: 2026-04-07T17:41:20.331Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -113,7 +113,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                                                            |     Purchased      | Digital                                                                                                                              |     Downloaded     | Notes                                                                                                                                                                                        |
 | --------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box] |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                        |
+| [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box] |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston)                                                                                                    |
 | [Nuka Cola Caps Set][Nuka Cola Caps Set]                        | :heavy_check_mark: |                                                                                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                                                            |
 | [Nuka Cola Girl][Nuka Cola Girl]                                | :heavy_check_mark: |                                                                                                                                      |                    | Promo                                                                                                                                                                                        |
 | [Red Rocket Scenic Set][Red Rocket Scenic Set]                  | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf) | :heavy_check_mark: | Contains Neoprene playing mat to replace the paper one in the `Two Player Starter Set`, clip together Red Rocket Building will be replaced by [3D Printed Red Rocket Truck Stop](red-rocket) |
@@ -232,11 +232,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Accessories
 
-| Item                                               | Purchased | Digital | Downloaded | Notes                                                                 |
-| -------------------------------------------------- | :-------: | ------- | :--------: | --------------------------------------------------------------------- |
-| [Institute: Core Box][Institute Core Box]          |    :x:    |         |            | Resin Version, Updated version in the `Battle for Boston Starter Set` |
-| [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |                                                                       |
-| [The Mechanist][The Mechanist]                     |    :x:    |         |            | Promo                                                                 |
+| Item                                               | Purchased | Digital | Downloaded | Notes                                                                                     |
+| -------------------------------------------------- | :-------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
+| [Institute: Core Box][Institute Core Box]          |    :x:    |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |                                                                                           |
+| [The Mechanist][The Mechanist]                     |    :x:    |         |            | Promo                                                                                     |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
 [Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches 'Fallout: Wasteland Warfare - Settlement Work Benches'
@@ -361,10 +361,14 @@ This scenario was designed for using the `Robot Work Bench`.
 | ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
 | Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+| [Ghoul Settlers (The Slog)][Ghoul Settlers]                              |        :x:         |                                                                                                                                               |                    |       |
 | [Jake Finch][Jake Finch]                                                 |        :x:         |                                                                                                                                               |                    | Promo |
+| [The Forged][The Forged]                                                 |        :x:         |                                                                                                                                               |                    |       |
 
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
+[Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog 'Fallout: Wasteland Warfare: - Survivors: Ghoul Settlers (The Slog)'
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Fallout: Wasteland Warfare - Survivors: Jake Finch'
+[The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged 'Fallout: Wasteland Warfare - Raiders: The Forged'
 
 ### Wave 8 - Capital Expansion
 
@@ -372,12 +376,14 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                               |     Purchased      | Digital | Downloaded | Notes |
-| -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
-| [Rosa Meitner][Rosa Meitner]                       |        :x:         |         |            | Promo |
+| Item                                               |     Purchased      | Digital | Downloaded | Notes                                  |
+| -------------------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
+| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |                                        |
+| [Reilly's Rangers][Reillys Rangers]                |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Rosa Meitner][Rosa Meitner]                       |        :x:         |         |            | Promo                                  |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
+[Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers "Fallout: Wasteland Warfare - Survivors: Reilly's Rangers"
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo 'Fallout: Wasteland Warfare - Survivors: Rosa Meitner'
 
 ### Wave 9 - Nuka-World Expansion
@@ -408,10 +414,12 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                 | Purchased | Digital | Downloaded | Notes |
-| -------------------- | :-------: | ------- | :--------: | ----- |
-| [Mr Fuzzy][Mr Fuzzy] |    :x:    |         |            | Promo |
+| Item                                   | Purchased | Digital | Downloaded | Notes |
+| -------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Ghoulish Remnants][Ghoulish Remnants] |    :x:    |         |            |       |
+| [Mr Fuzzy][Mr Fuzzy]                   |    :x:    |         |            | Promo |
 
+[Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants 'Fallout: Miniatures - Creatures: Ghoulish Remnants'
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo 'Fallout: Wasteland Warfare - Mr Fuzzy'
 
 #### Scenarios
@@ -436,10 +444,14 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                             | Purchased | Digital | Downloaded | Notes |
-| -------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Old Longfellow][Old Longfellow] |    :x:    |         |            | Promo |
+| Item                                                        | Purchased | Digital | Downloaded | Notes |
+| ----------------------------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Children of Atom: Choir][Children of Atom Choir]           |    :x:    |         |            |       |
+| [Children of Atom: Priesthood][Children of Atom Priesthood] |    :x:    |         |            |       |
+| [Old Longfellow][Old Longfellow]                            |    :x:    |         |            | Promo |
 
+[Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Fallout: Miniatures - Children of Atom: Choir'
+[Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Fallout: Miniatures - Children of Atom: Priesthood'
 [Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Fallout: Wasteland Warfare - Survivors: Old Longfellow'
 
 #### Scenarios
@@ -453,10 +465,10 @@ This scenario was designed for using the `Robot Work Bench`.
 
 ### Amazon TV Sets
 
-| Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: |       |
-| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: |       |
+| Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes                                  |
+| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
+| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: |                                        |
 
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
 [Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
@@ -635,26 +647,38 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Videos © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
+## Rules
+
+| Item                                                                                  |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes |
+| ------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)        | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
+| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight) |        :x:         |                                                                                                              |                    |       |
+
+## Accessories
+
+| Item                                                          | Purchased | Digital                                                                                  |     Downloaded     | Notes |
+| ------------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Wasteland Raiders: Core Box][Wasteland Raiders Core Box]     |    :x:    | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Wasteland Raiders Assembly Guide]   | :heavy_check_mark: |       |
+| [Wasteland Survivors: Core Box][Wasteland Survivors Core Box] |    :x:    | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Wasteland Survivors Assembly Guide] | :heavy_check_mark: |       |
+
+[Wasteland Raiders Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
+[Wasteland Raiders Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic 'Fallout: Miniatures - Wasteland Raiders: Core Box (Plastic)'
+[Wasteland Survivors Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e4509eec-07e6-4cee-a105-76454dac5db7/FO_Miniatures_Wasteland-Survivors_Assembly-Guide.pdf
+[Wasteland Survivors Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-survivors-core-set-plastic 'Fallout: Miniatures - Wasteland Survivors: Core Box (Plastic)'
+
+## Battle for Nuka-World
+
 | Item                                                                                                     |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                                                    |
 | -------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
-| [Battle for Boston Starter Set][Boston Starter Set]                                                      |        :x:         |                                                                                                                                       |                    |                                                                                          |
-| ┝ [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box Plastic]                                |        :x:         | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide]                                             | :heavy_check_mark: | HIPS plastic version                                                                     |
-| ┕ [Institute: Core Box][Institute Core Box Plastic]                                                      |        :x:         |                                                                                                                                       |                    | HIPS plastic version                                                                     |
 | [Battle for Nuka-World Starter Set][Nuka World Starter Set]                                              | :heavy_check_mark: |                                                                                                                                       |                    |                                                                                          |
 | ┝ [Tokens and Terrain Pack 1](https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Tokens and Terrain Assembly Guide]                                               | :heavy_check_mark: |                                                                                          |
 | ┝ [Raiders: The Operators][Raiders The Operators]                                                        | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]                                                    | :heavy_check_mark: |                                                                                          |
 | ┕ [Raiders: The Pack][Raiders The Pack]                                                                  | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]                                                         | :heavy_check_mark: |                                                                                          |
 | [Raiders: The Disciples][Raiders The Disciples]                                                          | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide]                                                    | :heavy_check_mark: | Not Included in `Battle for Nuka-World Starter Set`                                      |
 | [Battle Map: Nuka-World](https://modiphius.net/products/fallout-factions-battle-map-nuka-world)          | :heavy_check_mark: |                                                                                                                                       |                    | Neoprene playing mat to replace the paper one in the `Battle for Nuka-World Starter Set` |
-| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)                           | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf)                          | :heavy_check_mark: |                                                                                          |
-| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight)                    |        :x:         |                                                                                                                                       |                    |                                                                                          |
 | Welcome to Nuka-World Quickstart                                                                         |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free) | :heavy_check_mark: |                                                                                          |
 
-[Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready 'Fallout: Factions - Battle for Boston Starter Set'
 [Nuka World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set 'Fallout: Factions - Battle For Nuka-World Starter Set'
-[Brotherhood of Steel Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
-[Brotherhood of Steel Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
-[Institute Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic
 [Raiders The Disciples]: https://modiphius.net/products/fallout-miniatures-raiders-the-disciples
 [Raiders The Operators]: https://modiphius.net/products/fallout-miniatures-raiders-the-operators
 [Raiders The Pack]: https://modiphius.net/products/fallout-miniatures-raiders-the-pack
@@ -662,6 +686,19 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [The Operators Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf
 [The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
 [Tokens and Terrain Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf
+
+## Battle for Boston
+
+| Item                                                                      | Purchased | Digital                                                                                   |     Downloaded     | Notes                |
+| ------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------- | :----------------: | -------------------- |
+| [Battle for Boston Starter Set][Boston Starter Set]                       |    :x:    |                                                                                           |                    |                      |
+| ┝ [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box Plastic] |    :x:    | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Brotherhood of Steel Assembly Guide] | :heavy_check_mark: | HIPS plastic version |
+| ┕ [Institute: Core Box][Institute Core Box Plastic]                       |    :x:    |                                                                                           |                    | HIPS plastic version |
+
+[Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready 'Fallout: Factions - Battle for Boston Starter Set'
+[Brotherhood of Steel Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
+[Brotherhood of Steel Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
+[Institute Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic
 
 # Fallout: Wasteland Wanderer
 
