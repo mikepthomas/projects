@@ -168,15 +168,15 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Scenarios
 
-| Item                        | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes                         |
-| --------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- |
-| Scenarios 1-5               |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)       | :heavy_check_mark: |                               |
-| Scenarios 6-11              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)      | :heavy_check_mark: |                               |
-| Scenarios 12-15 (Robots)    |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)    | :heavy_check_mark: |                               |
-| Scenarios 16-20 (Creatures) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf) | :heavy_check_mark: |                               |
-| The Shoot                   |           | [Read on Reddit](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario)                                | :heavy_check_mark: | Scenario for `Nuka Cola Girl` |
-| The Undiscovered Vault      |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf)  | :heavy_check_mark: |                               |
-| The Zetan Incident          |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)       | :heavy_check_mark: | Scenario for `Zetan`          |
+| Item                        | Purchased | Digital                                                                                                                                         |     Downloaded     | Notes                         |
+| --------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- |
+| Scenarios 1-5               |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)               | :heavy_check_mark: |                               |
+| Scenarios 6-11              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)              | :heavy_check_mark: |                               |
+| Scenarios 12-15 (Robots)    |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)            | :heavy_check_mark: |                               |
+| Scenarios 16-20 (Creatures) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)         | :heavy_check_mark: |                               |
+| The Shoot                   |           | [Read on Reddit <i class="fa-brands fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | Scenario for `Nuka Cola Girl` |
+| The Undiscovered Vault      |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf)          | :heavy_check_mark: |                               |
+| The Zetan Incident          |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)               | :heavy_check_mark: | Scenario for `Zetan`          |
 
 ### Wave 2 - Raiders
 
@@ -184,16 +184,30 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                                                                          |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                                                   |
-| ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------- |
-| [Raiders: Core Box][Raiders Core Box]                                                                         | :heavy_check_mark: |                                                                                                                              |                    |                                                                         |
-| [Raiders Wave Expansion Card Pack][Raiders Card Deck]                                                         | :heavy_check_mark: |                                                                                                                              |                    | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
-| [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                              |                    | Promo                                                                   |
-| [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook) | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |                                                                         |
+#### Rules
+
+| Item                                                  |     Purchased      | Digital | Downloaded | Notes                                                                   |
+| ----------------------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------- |
+| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |         |            | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
 
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Fallout: Wasteland Warfare - Raiders Wave Expansion Card Pack'
+
+#### Accessories
+
+| Item                                                                                                          |     Purchased      | Digital                                                                                                                                           |     Downloaded     | Notes                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [Raiders: Core Box][Raiders Core Box]                                                                         | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
+| [Liberty Prime][Liberty Prime]                                                                                |        :x:         | [Rules Expansion <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
+| [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                                                   |                    | Promo                                                                                                                                   |
+| [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook) | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf)          | :heavy_check_mark: |                                                                                                                                         |
+
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
+[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
 [Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
+
+[Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
+
+> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Scenarios
 
@@ -201,32 +215,29 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | The Beast of the Bottling Plant |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |       |
 
-#### Liberty Prime Expansion
-
-| Item                           | Purchased | Digital                                                                                                                                |     Downloaded     | Notes                                                                                                                                   |
-| ------------------------------ | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Liberty Prime][Liberty Prime] |    :x:    |                                                                                                                                        |                    |                                                                                                                                         |
-| Liberty Prime Rules Expansion  |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
-
-[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
-
-[Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
-
-> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
-
 ### Wave 3 - Institute
 
-| Item                                                       |     Purchased      | Digital                                                                                                                                   |     Downloaded     | Notes                                                                                                                                                                                    |
-| ---------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book) | :heavy_check_mark: |                                                                                                                                                                                          |
-| [Institute: Core Box][Institute Core Box]                  |        :x:         |                                                                                                                                           |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                    |
-| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                                                                                           |                    | Contains required cards for `Institute: Core Box`                                                                                                                                        |
-| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: |                                                                                                                                           |                    | Contains required cards for `The Mechanist`, [Rules Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) |
-| [The Mechanist][The Mechanist]                             |        :x:         |                                                                                                                                           |                    | Promo                                                                                                                                                                                    |
+#### Rules
+
+| Item                                                       |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                             |
+| ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------- |
+| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book)    | :heavy_check_mark: |                                                   |
+| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                                                                                              |                    | Contains required cards for `Institute: Core Box` |
+| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) | :heavy_check_mark: | Contains required cards for `The Mechanist`       |
 
 [Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'Fallout: Wasteland Warfare - The Automatron Card Expansion Pack'
 [Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Institute Wave Expansion Card Pack'
+
+#### Accessories
+
+| Item                                               | Purchased | Digital | Downloaded | Notes                                                                 |
+| -------------------------------------------------- | :-------: | ------- | :--------: | --------------------------------------------------------------------- |
+| [Institute: Core Box][Institute Core Box]          |    :x:    |         |            | Resin Version, Updated version in the `Battle for Boston Starter Set` |
+| [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |                                                                       |
+| [The Mechanist][The Mechanist]                     |    :x:    |         |            | Promo                                                                 |
+
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
+[Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches 'Fallout: Wasteland Warfare - Settlement Work Benches'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
 
 #### Scenarios
@@ -237,21 +248,32 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ### Wave 4 - Enclave
 
-| Item                                                                                                           |     Purchased      | Digital                                                                                                                                   |     Downloaded     | Notes                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck]                                            | :heavy_check_mark: |                                                                                                                                           |                    |                                                                                                                |
-| [Enclave: Core Box][Enclave Core Box]                                                                          |        :x:         |                                                                                                                                           |                    |                                                                                                                |
-| [Enclave Wave Card Expansion Pack][Enclave Card Deck]                                                          |        :x:         |                                                                                                                                           |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
-| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland)              | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf)                | :heavy_check_mark: |                                                                                                                |
-| [Lorenzo Cabot][Lorenzo Cabot]                                                                                 |        :x:         |                                                                                                                                           |                    | Promo                                                                                                          |
-| [Robot Work Bench](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench) |        :x:         | [Buy <i class="fa-regular fa-file-zipper"/>](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl) | :heavy_check_mark: |                                                                                                                |
-| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                                                        | :heavy_check_mark: |                                                                                                                                           |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
+#### Rules
+
+| Item                                                                                              |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                                                                                          |
+| ------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck]                               | :heavy_check_mark: |                                                                                                                            |                    |                                                                                                                |
+| [Enclave Wave Card Expansion Pack][Enclave Card Deck]                                             |        :x:         |                                                                                                                            |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
+| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) | :heavy_check_mark: |                                                                                                                |
+| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                                           | :heavy_check_mark: |                                                                                                                            |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Fallout: Wasteland Warfare - Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Enclave Wave Card Expansion Pack'
-[Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Fallout: Wasteland Warfare - Wave 1 Fundamentals Card Deck'
+
+#### Accessories
+
+| Item                                                                                | Purchased | Digital                                                                                                                                  |     Downloaded     | Notes |
+| ----------------------------------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Crashed UFO](https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo) |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl) |        :x:         |       |
+| [Enclave: Core Box][Enclave Core Box]                                               |    :x:    |                                                                                                                                          |                    |       |
+| [Lorenzo Cabot][Lorenzo Cabot]                                                      |    :x:    |                                                                                                                                          |                    | Promo |
+| [Robot Work Bench][Robot Work Bench]                                                |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Robot Work Bench STL]                                                                       | :heavy_check_mark: |       |
+
+[Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
+[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
+[Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
 
 #### Scenarios
 
@@ -261,6 +283,21 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf) | :heavy_check_mark: |       |
 | The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf) | :heavy_check_mark: |       |
 | The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf) | :heavy_check_mark: |       |
+
+##### Automaton Assembly
+
+This scenario was designed for using the `Robot Work Bench`.
+
+| Item                                                 | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [RobotWorkbench_BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotWorkbench_Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 
 ### Wave 5 - New Vegas Expansion
 
@@ -1097,7 +1134,6 @@ I will use elements from all of these to create my own version of Vault 88 from 
 | [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles)                   | £40   | :heavy_check_mark: | Will be used in [Sanctuary Hills](sanctuary-hills)                                      |
 | [Corvega Atomic V8 Sedan](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan) | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
 | [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)             | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Crashed UFO](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl)                 | £20   |        :x:         |                                                                                         |
 | [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)                     | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
 | [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl)               | £40   | :heavy_check_mark: | Will be used in the [Vault](vault)                                                      |
 | [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl)       | £20   | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |

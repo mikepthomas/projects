@@ -30,6 +30,7 @@ import {
   faGithub,
   faInstagram,
   faLinkedin,
+  faRedditAlien,
   faXTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import {
@@ -69,6 +70,7 @@ export default function register() {
     faLink,
     faLinkedin,
     faMicrochip,
+    faRedditAlien,
     faXTwitter,
     faUserGraduate,
     faWarehouse,
