@@ -649,10 +649,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                                                                                  |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook)        | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
-| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio-rogue-knight) |        :x:         |                                                                                                              |                    |       |
+| Item                                                                           |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes |
+| ------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
+| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio)       |        :x:         |                                                                                                              |                    |       |
 
 ## Accessories
 
