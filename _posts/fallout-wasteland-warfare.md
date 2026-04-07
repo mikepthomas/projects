@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-06T00:36:12.042Z
+lastmod: 2026-04-07T11:21:08.254Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -31,7 +31,7 @@ keywords:
 
 # Table of contents
 
-# Items
+# Intro
 
 There are many items available for the [Modiphius Fallout Games](https://modiphius.net/collections/fallout), some items are available to be purchased as physical items or as a digital download and sometimes both.
 
@@ -39,29 +39,15 @@ Due to the abscence of a Buyer's Guide, I have created this page to try to under
 
 A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
-## Fallout: Wasteland Warfare
+# Fallout: Wasteland Warfare
 
 `Fallout: Wasteland Warfare` is a tabletop miniatures wargame for the Fallout Series.
 
-[Release Tracker of items released in waves 1-7 is available here](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf).
+## Items
+
+[The official Release Tracker of items released in waves 1-7 is available here](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf).
 
 ### Wave 1 - Starter Set
-
-#### Accessories
-
-| Item                                                                                                                                                      |     Purchased      | Digital                                                                                                                              |     Downloaded     | Notes                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box]                                                                                           |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                        |
-| [Nuka Cola Caps Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set)                                                | :heavy_check_mark: |                                                                                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                                                            |
-| [Nuka Cola Girl][Nuka Cola Girl]                                                                                                                          | :heavy_check_mark: |                                                                                                                                      |                    | Promo                                                                                                                                                                                        |
-| [Red Rocket Scenic Set](https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template) | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf) | :heavy_check_mark: | Contains Neoprene playing mat to replace the paper one in the `Two Player Starter Set`, clip together Red Rocket Building will be replaced by [3D Printed Red Rocket Truck Stop](red-rocket) |
-| [Super Mutants: Core Box][Super Mutants Core Box]                                                                                                         |        :x:         |                                                                                                                                      |                    |                                                                                                                                                                                              |
-| [Survivors: Core Box][Survivors Core Box]                                                                                                                 | :heavy_check_mark: |                                                                                                                                      |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                                                            |
-
-[Brotherhood of Steel Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
-[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
-[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
-[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
 
 #### Rules
 
@@ -71,11 +57,13 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                                                                                                              |                    |                                                                                                      |
 | ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf) | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
 | ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Rules of Play]                                                                                    | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┕ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                        | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
+| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf)                        | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
+| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                                                                                              |                    | Promo                                                                                                |
 
-[Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck 'Archived page on Wayback Machine'
+[Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck 'Fallout: Wasteland Warfare - Settlement Deck'
 [Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set 'Fallout: Wasteland Warfare - Two Player Starter Set'
+[Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature 'Fallout: Wasteland Warfare - Zetan'
 
 #### Getting Acclimated
 
@@ -119,6 +107,65 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
 | [Slabs & Stones 4](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones) | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
 
+#### Accessories
+
+| Item                                                            |     Purchased      | Digital                                                                                                                              |     Downloaded     | Notes                                                                                                                                                                                        |
+| --------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Brotherhood of Steel: Core Box][Brotherhood of Steel Core Box] |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                        |
+| [Nuka Cola Caps Set][Nuka Cola Caps Set]                        | :heavy_check_mark: |                                                                                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                                                            |
+| [Nuka Cola Girl][Nuka Cola Girl]                                | :heavy_check_mark: |                                                                                                                                      |                    | Promo                                                                                                                                                                                        |
+| [Red Rocket Scenic Set][Red Rocket Scenic Set]                  | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf) | :heavy_check_mark: | Contains Neoprene playing mat to replace the paper one in the `Two Player Starter Set`, clip together Red Rocket Building will be replaced by [3D Printed Red Rocket Truck Stop](red-rocket) |
+| [Super Mutants: Core Box][Super Mutants Core Box]               |        :x:         |                                                                                                                                      |                    |                                                                                                                                                                                              |
+| [Survivors: Core Box][Survivors Core Box]                       | :heavy_check_mark: |                                                                                                                                      |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                                                            |
+
+[Brotherhood of Steel Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
+[Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set 'Fallout: Wasteland Warfare - Nuka Cola Caps Set'
+[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
+[Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template 'Fallout: Wasteland Warfare - Red Rocket Scenic Set'
+[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
+[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
+
+##### Box Insert
+
+These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Player Starter Set] box to help organise it's contents.
+
+| Item                                                                      | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Big_Cards](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Small_Cards](https://www.thingiverse.com/thing:3197502/files)            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Deathclaw](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3](https://www.thingiverse.com/thing:3197502/files)                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3-Lid](https://www.thingiverse.com/thing:3197502/files)             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token4](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Dice](https://www.thingiverse.com/thing:3197502/files)                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal](https://www.thingiverse.com/thing:3197502/files)      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40Horizontal](https://www.thingiverse.com/thing:3197502/files)       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+
+##### Caps Stash Tub
+
+3D Printed box to hold all your [Nuka Cola Caps][Nuka Cola Caps Set].
+
+| Item                                                      | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom](https://www.thingiverse.com/thing:3140194/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| [lid](https://www.thingiverse.com/thing:3140194/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+
+##### Euro-Mini Card Box
+
+A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Two Player Starter Set] and expansions.
+
+| Item                                                                       | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files)      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [eurobox-top-v2-longer](https://www.thingiverse.com/thing:7139338/files)   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [euroboxv2_double_longer](https://www.thingiverse.com/thing:7139338/files) | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
+
 #### Scenarios
 
 | Item                            | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes                         |
@@ -133,9 +180,13 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf) | :heavy_check_mark: |                               |
 | The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf) | :heavy_check_mark: |                               |
 | The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf) | :heavy_check_mark: |                               |
-| The Zetan Incident              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)             | :heavy_check_mark: |                               |
+| The Zetan Incident              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)             | :heavy_check_mark: | Scenario for `Zetan`          |
 
 ### Wave 2 - Raiders
+
+[Fallout: Wasteland Warfare - Raiders Vs. Survivors Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1lO3Ivjfzq69AsntzJfXNX)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                                                                                                          |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                                                   |
 | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------- |
@@ -154,13 +205,26 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | The Beast of the Bottling Plant |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |       |
 
+#### Liberty Prime Expansion
+
+| Item                           | Purchased | Digital                                                                                                                                |     Downloaded     | Notes                                                                                                                                   |
+| ------------------------------ | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [Liberty Prime][Liberty Prime] |    :x:    |                                                                                                                                        |                    |                                                                                                                                         |
+| Liberty Prime Rules Expansion  |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
+
+[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
+
+[Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
+
+> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 ### Wave 3 - Institute
 
 | Item                                                       |     Purchased      | Digital                                                                                                                                   |     Downloaded     | Notes                                                                                                                                                                                    |
 | ---------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Caught in the Crossfire Campaign book                      |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book) | :heavy_check_mark: |                                                                                                                                                                                          |
 | [Institute: Core Box][Institute Core Box]                  |        :x:         |                                                                                                                                           |                    | Resin Version, Updated version in the `Battle for Boston Starter Set`                                                                                                                    |
-| [Institute Wave Expansion Card Pack][Institute Card Deck]  |        :x:         |                                                                                                                                           |                    | Contains required cards for `Institute: Core Box`                                                                                                                                        |
+| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                                                                                           |                    | Contains required cards for `Institute: Core Box`                                                                                                                                        |
 | [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: |                                                                                                                                           |                    | Contains required cards for `The Mechanist`, [Rules Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) |
 | [The Mechanist][The Mechanist]                             |        :x:         |                                                                                                                                           |                    | Promo                                                                                                                                                                                    |
 
@@ -194,13 +258,17 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 5 - New Vegas Expansion
 
-| Item                                                   | Purchased | Digital | Downloaded | Notes |
-| ------------------------------------------------------ | :-------: | ------- | :--------: | ----- |
-| [Burned Man][Burned Man]                               |    :x:    |         |            | Promo |
-| [Caesar's Legion: Core Box][Caesars Legion Core Box]   |    :x:    |         |            |       |
-| [NCR: Core Box][NCR Core Box]                          |    :x:    |         |            |       |
-| [NCR Ranger][NCR Ranger]                               |    :x:    |         |            | Promo |
-| [New Vegas Rules Expansion][New Vegas Rules Expansion] |    :x:    |         |            |       |
+[Modiphius New Releases - May 2021 Video](https://www.youtube-nocookie.com/embed/xhCQaQq27OM)
+
+> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                                                   |     Purchased      | Digital | Downloaded | Notes |
+| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----- |
+| [Burned Man][Burned Man]                               |        :x:         |         |            | Promo |
+| [Caesar's Legion: Core Box][Caesars Legion Core Box]   |        :x:         |         |            |       |
+| [NCR: Core Box][NCR Core Box]                          |        :x:         |         |            |       |
+| [NCR Ranger][NCR Ranger]                               |        :x:         |         |            | Promo |
+| [New Vegas Rules Expansion][New Vegas Rules Expansion] | :heavy_check_mark: |         |            |       |
 
 [Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
@@ -219,6 +287,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 6 - Commonwealth Expansion
 
+[Fallout: Wasteland Warfare - Wave 6: Commonwealth Video](https://www.youtube-nocookie.com/embed/NvRzPgSjSxY)
+
+> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                                                                                                          |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
 | [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
@@ -236,6 +308,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 7 - Forged in the Fire Expansion
 
+[Fallout: Wasteland Warfare - Wave 7: Forged in the Fire Video](https://www.youtube-nocookie.com/embed/Y1CGbUW-UWM)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                                                     |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
 | ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
@@ -247,6 +323,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Wave 8 - Capital Expansion
 
+[Fallout: Wasteland Warfare - Wave 8: Capital Video](https://www.youtube-nocookie.com/embed/QhN7G6K64TQ)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                               |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
 | [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
@@ -256,6 +336,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo 'Fallout: Wasteland Warfare - Survivors: Rosa Meitner'
 
 ### Wave 9 - Nuka-World Expansion
+
+[Fallout: Wasteland Warfare - Wave 9: Nuka World Video](https://www.youtube-nocookie.com/embed/Rpt7ofp0PIE)
+
+> Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
@@ -274,6 +358,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Cappy in a Haystack        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf)   | :heavy_check_mark: |       |
 
 ### Wave 10 - The Wilds of Appalachia Expansion
+
+[Fallout: Factions & Wasteland Warfare - Wave 10: The Wilds of Appalachia Video](https://www.youtube-nocookie.com/embed/Ru0CrPVhOx4)
+
+> Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                 | Purchased | Digital | Downloaded | Notes |
 | -------------------- | :-------: | ------- | :--------: | ----- |
@@ -298,6 +386,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Scorched Plague Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
 
 ### Wave 11 - Far Harbor Expansion
+
+[Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
+
+> Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                             | Purchased | Digital | Downloaded | Notes |
 | -------------------------------- | :-------: | ------- | :--------: | ----- |
@@ -330,21 +422,52 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Hollywood Heroes & Icons Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2) | :heavy_check_mark: |       |
 
-### AI Mode
+## AI Mode
 
 The AI Handbook gives more rules and advice for getting the most out of the AI for Solo, Co-Op or Battle Mode games.
+
+[Fallout: Wasteland Warfare - AI Mode First Look! Video](https://www.youtube-nocookie.com/embed/9MdlvOtlcWI)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item        | Purchased | Digital                                                                                                                           |     Downloaded     | Notes |
 | ----------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | AI Handbook |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf) | :heavy_check_mark: |       |
 
-#### Scenarios
+### Scenarios
 
 | Item                            | Purchased | Digital                                                                                                                                                   |     Downloaded     | Notes |
 | ------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | The Red Rocket Misunderstanding |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf) | :heavy_check_mark: |       |
 
-### Battle Mode
+#### The Red Rocket Misunderstanding
+
+##### Drumlin Diner
+
+Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2 Wasteland Locales].
+
+| Item                                                             | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom_part_1](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
+| [bottom_part_2](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
+| [top_part_1](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
+| [top_part_2](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
+
+##### Sign
+
+| Item                                                                  | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [drumlin_diner_sign](https://www.thingiverse.com/thing:3099945/files) | 1        |          |      |      |        |      |   :x:   |       |
+
+##### Furniture
+
+| Item                                                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [seat](https://www.thingiverse.com/thing:3132141/files)  | 1        |          |      |      |        |      |   :x:   |       |
+| [stool](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
+| [table](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
+
+## Battle Mode
 
 The Battle Mode Rulebook gives more rules and advice for playing PvP style games.
 
@@ -352,7 +475,7 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 | -------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------- |
 | Battle Mode Rulebook |           | [Free <i class="fa-regular fa-file-pdf"/>](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf) | :heavy_check_mark: | Made by the Community |
 
-### Co-Op Mode
+## Co-Op Mode
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
@@ -360,27 +483,22 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 | -------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | Co-Op Handbook |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf) | :heavy_check_mark: |       |
 
-### Liberty Prime Rules Expansion
-
-| Item                                                                      | Purchased | Digital                                                                                                                                |     Downloaded     | Notes                                                                                                                                   |
-| ------------------------------------------------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brotherhood of Steel: Liberty Prime][Brotherhood of Steel Liberty Prime] |    :x:    |                                                                                                                                        |                    |                                                                                                                                         |
-| Liberty Prime Rules Expansion                                             |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
-
-[Brotherhood of Steel Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
-
-### Vault-Tec Simulator
+## Vault-Tec Simulator
 
 | Item                | Purchased | Digital                                                                                                                   |     Downloaded     | Notes                                                                                                                                                    |
 | ------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vault-Tec Profile   |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf) | :heavy_check_mark: | [Form Fillable Version <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf) |
 | Vault-Tec Simulator |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/view)     | :heavy_check_mark: | [Vault-Tec Simulator Blog post](https://modiphius.net/blogs/news/vault-tec-simulator)                                                                    |
 
-## Fallout: Wasteland Warfare Roleplaying Game
+# Fallout: Wasteland Warfare Roleplaying Game
 
 `Fallout: Wasteland Warfare Roleplaying Game`, also called `Fallout: Wasteland Warfare RPG`, is a standalone expansion for `Fallout: Wasteland Warfare`.
 
-### Bundle
+[Fallout Wasteland Warfare - Roleplaying Game Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2QtAC1I9QuGHFYahk5sIdv)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
+## Items
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
@@ -399,13 +517,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: |       |
 | The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: |       |
 
-## Fallout: The Roleplaying Game (2d20)
+# Fallout: The Roleplaying Game (2d20)
 
 `Fallout: The Roleplaying Game` is a tabletop role-playing game which uses a version of Modiphius' 2d20 tabletop system.
 
-[Fallout 2D20 RPG - How To Create a Character Video](https://www.youtube-nocookie.com/embed/om6P-rhElnE)
+[Fallout 2D20 - Behind the Scenes Developer Chat Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1M_1hkL_iLk5QT1y59EtpS)
 
-> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
+> Videos © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
+
+## Items
 
 | Item                                                                                                                       |     Purchased      | Digital                                                                                                                           |     Downloaded     | Notes                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------ |
@@ -437,10 +557,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Map Pack
 
-| Item                                                                                                                      | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Map Pack 1: Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault)                         |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)             | :heavy_check_mark: |       |
-| [Map Pack 2: Wasteland Locales](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf) | :heavy_check_mark: |       |
+| Item                                                          | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes |
+| ------------------------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Map Pack 1: Vault][Map Pack 1 Vault]                         |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)             | :heavy_check_mark: |       |
+| [Map Pack 2: Wasteland Locales][Map Pack 2 Wasteland Locales] |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf) | :heavy_check_mark: |       |
+
+[Map Pack 1 Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault 'Fallout: The Roleplaying Game - Map Pack 1: Vault'
+[Map Pack 2 Wasteland Locales]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales 'Fallout: The Roleplaying Game - Map Pack 2: Wasteland Locales'
 
 ### NPC Pack
 
@@ -459,13 +582,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Royal Flush](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush)            |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf)    |        :x:         |       |
 | [Winter of Atom](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book) |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf) | :heavy_check_mark: |       |
 
-## Fallout: Factions
+# Fallout: Factions
 
 `Fallout: Factions` is a skirmish-level wargame for two players.
 
-[Exclusive First Look Playthrough (The Operators vs. The Pack) video](https://www.youtube-nocookie.com/embed/6ijEX1fTMms)
+[Fallout Factions - Battle Reports Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd3zIa5wLmwR49qvtsgZxrsV)
 
-> Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
+> Videos © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                                                                                                     |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                                                    |
 | -------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
@@ -495,7 +618,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
 [Tokens and Terrain Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf
 
-## Fallout: Wasteland Wanderer
+# Fallout: Wasteland Wanderer
 
 `Fallout: Wasteland Wanderer` is a solo roleplaying game adapted from `Fallout: The Roleplaying Game` to play original Fallout stories with characters of your own creation.
 
@@ -506,6 +629,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                                                                                                         |     Purchased      | Digital |     Downloaded     | Notes |
 | ------------------------------------------------------------------------------------------------------------ | :----------------: | ------- | :----------------: | ----- |
 | [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) | :heavy_check_mark: |         | :heavy_check_mark: |       |
+
+# Units
 
 ## Minatures
 
@@ -682,49 +807,6 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | [Weapon <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf)    | :heavy_check_mark: | 2        |
 | `Total`                                                                                                                            |                    | `3`      |
 
-# Game Organisers
-
-## Box Insert
-
-These are inserts to fit inside the `Two Player Starter Set` box to help organise it's contents.
-
-| Item                                                                      | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Big_Cards](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Small_Cards](https://www.thingiverse.com/thing:3197502/files)            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Deathclaw](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3](https://www.thingiverse.com/thing:3197502/files)                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3-Lid](https://www.thingiverse.com/thing:3197502/files)             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token4](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Dice](https://www.thingiverse.com/thing:3197502/files)                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal](https://www.thingiverse.com/thing:3197502/files)      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40Horizontal](https://www.thingiverse.com/thing:3197502/files)       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-
-## Caps Stash Tub
-
-A box to hold all your [caps](https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set).
-
-| Item                                                      | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom](https://www.thingiverse.com/thing:3140194/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-| [lid](https://www.thingiverse.com/thing:3140194/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-
-## Euro-Mini Card Box
-
-A slide top box to hold the all the Mini European size cards from the `Two Player Starter Set` and expansions.
-
-| Item                                                                       | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files)      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [eurobox-top-v2-longer](https://www.thingiverse.com/thing:7139338/files)   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [euroboxv2_double_longer](https://www.thingiverse.com/thing:7139338/files) | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
-
 # Brotherhood of Steel Encampment
 
 ![Print at Home - Brotherhood of Steel Encampment](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-656728.jpg)
@@ -792,33 +874,6 @@ A slide top box to hold the all the Mini European size cards from the `Two Playe
 - Torch 1-3
 - Backpack
 - Stein
-
-# Drumlin Diner
-
-One of the locations in the [Wasteland Locales Map Pack](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales) is Drumlin Diner.
-
-| Item                                                             | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom_part_1](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [bottom_part_2](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [top_part_1](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
-| [top_part_2](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
-
-## Scatter
-
-### Sign
-
-| Item                                                                  | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [drumlin_diner_sign](https://www.thingiverse.com/thing:3099945/files) | 1        |          |      |      |        |      |   :x:   |       |
-
-### Furniture
-
-| Item                                                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [seat](https://www.thingiverse.com/thing:3132141/files)  | 1        |          |      |      |        |      |   :x:   |       |
-| [stool](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [table](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
 
 # Metal Dome
 
