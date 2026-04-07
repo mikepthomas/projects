@@ -45,7 +45,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 ## Items
 
-[The official Release Tracker of items released in waves 1-7 is available here](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf).
+[Release Tracker of items released in waves 1-7](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf).
 
 ### Wave 1 - Starter Set
 
@@ -198,12 +198,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 | Item                                                                                                          |     Purchased      | Digital                                                                                                                                           |     Downloaded     | Notes                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [Crashed Vertibird][Crashed Vertibird]                                                                        |        :x:         |                                                                                                                                                   |                    |                                                                                                                                         |
 | [Raiders: Core Box][Raiders Core Box]                                                                         | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
 | [Liberty Prime][Liberty Prime]                                                                                | :heavy_check_mark: | [Rules Expansion <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
 | [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                                                   |                    | Promo                                                                                                                                   |
 | [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook) | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf)          | :heavy_check_mark: |                                                                                                                                         |
 | [Weapons Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack)         | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
 
+[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
 [Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
 [Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
@@ -218,6 +220,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | ---------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------- |
 | The Beast of the Bottling Plant                                                                            |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |                                          |
 | [Raid the Crash Site](https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit) | :heavy_check_mark: |                                                                                                                                        |                    | Part of the `Raiders Organised Play Kit` |
+
+##### Raid the Crash Site
+
+This scenario was designed for using the `Crashed Vertibird`.
+I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 ### Wave 3 - Institute
 
