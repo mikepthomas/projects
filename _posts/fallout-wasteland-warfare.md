@@ -49,6 +49,8 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 ### Wave 1 - Starter Set
 
+Wave 1 introduces the game with the `Two Player Starter Set` which contains everything you need to learn how to play the game.
+
 #### Rules
 
 | Item                                             |     Purchased      | Digital                                                        |     Downloaded     | Notes                                                                              |
@@ -182,27 +184,31 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ### Wave 2 - Raiders
 
+Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
+
 [Fallout: Wasteland Warfare - Raiders Vs. Survivors Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1lO3Ivjfzq69AsntzJfXNX)
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Rules
 
-| Item                                                  |     Purchased      | Digital | Downloaded | Notes                                                                   |
-| ----------------------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------- |
-| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |         |            | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
+| Item                                                  |     Purchased      | Digital                                                             |     Downloaded     | Notes                                                                   |
+| ----------------------------------------------------- | :----------------: | ------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------- |
+| Liberty Prime Expansion                               |                    | [Free <i class="fa-regular fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |                                                                         |
+| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |                                                                     |                    | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
 
+[Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Fallout: Wasteland Warfare - Raiders Wave Expansion Card Pack'
 
 #### Accessories
 
-| Item                                         |     Purchased      | Digital                                                                                                                                           |     Downloaded     | Notes                                                                                                                                   |
-| -------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Raiders: Core Box][Raiders Core Box]        | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
-| [Liberty Prime][Liberty Prime]               | :heavy_check_mark: | [Rules Expansion <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
-| [Mysterious Stranger][Mysterious Stranger]   | :heavy_check_mark: |                                                                                                                                                   |                    | Promo                                                                                                                                   |
-| [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf)          | :heavy_check_mark: |                                                                                                                                         |
-| [Weapons Upgrade Pack][Weapons Upgrade Pack] | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
+| Item                                         |     Purchased      | Digital                                                                                                                                  |     Downloaded     | Notes |
+| -------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Raiders: Core Box][Raiders Core Box]        | :heavy_check_mark: |                                                                                                                                          |                    |       |
+| [Liberty Prime][Liberty Prime]               | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf)  | :heavy_check_mark: |       |
+| [Mysterious Stranger][Mysterious Stranger]   | :heavy_check_mark: |                                                                                                                                          |                    | Promo |
+| [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |       |
+| [Weapons Upgrade Pack][Weapons Upgrade Pack] | :heavy_check_mark: |                                                                                                                                          |                    |       |
 
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
 [Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
@@ -235,6 +241,10 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 ##### Streets of Boston
 
+![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-boston).
 
 | Item                                             | Purchased | Digital | Downloaded | Notes                                                                                                  |
@@ -251,7 +261,11 @@ Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-bo
 [Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines 'Fallout: Wasteland Warfare - Terrain Expansion: Nuka-Cola Machines'
 [Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers 'Fallout: Wasteland Warfare - Terrain Expansion: Radioactive Containers'
 
-##### Vault Tec
+##### Vault Tec Office
+
+![Vault Tech Office Bundle](https://modiphius.net/cdn/shop/products/FO_Week_04_VaultecBundle_Webstore_Image1_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle)
 
@@ -282,6 +296,8 @@ This scenario was designed for using the `Crashed Vertibird`.
 I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 ### Wave 3 - Institute
+
+Wave 3 expands on the base game, introducing the `Institute` faction, with new Minatures and Card Deck.
 
 #### Rules
 
@@ -325,6 +341,8 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 ### Wave 4 - Enclave
 
+Wave 4 expands on the base game, introducing the `Enclave` faction, with new Minatures and Card Deck.
+
 #### Rules
 
 | Item                                                                                              |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                                                                                          |
@@ -340,14 +358,16 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 #### Accessories
 
-| Item                                                   |     Purchased      | Digital | Downloaded | Notes |
-| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----- |
-| [Enclave: Core Box][Enclave Core Box]                  |        :x:         |         |            |       |
-| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |         |            | Promo |
-| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |         |            |       |
+| Item                                                   |     Purchased      | Digital                                                                                                                        |     Downloaded     | Notes |
+| ------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [Enclave: Core Box][Enclave Core Box]                  |        :x:         |                                                                                                                                |                    |       |
+| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                                                                                                |                    | Promo |
+| [Robobrain][Robobrain]                                 |        :x:         | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
+| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                                                                                                |                    |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
+[Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain 'Fallout: Wasteland Warfare - Robots: Robobrain'
 [T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor 'Fallout: Wasteland Warfare – Brotherhood of Steel Power Armor 1'
 
 #### Scatter
@@ -375,6 +395,10 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 This scenario was designed for using the `Robot Work Bench`.
 
+![Robot Work Bench](https://modiphius.net/cdn/shop/products/RobotWorkbench_RGB-150dpi_1_95b5deb5-1571-4a49-8e42-b6ce3b90d411_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 | Item                                                 | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
 | ---------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
 | [RobotWorkbench_BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
@@ -387,6 +411,8 @@ This scenario was designed for using the `Robot Work Bench`.
 | [RobotWorkbench_Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 
 ### Wave 5 - New Vegas Expansion
+
+In Wave 5, Modiphius changed the way they release content. In this Wave they released the new cards as part of a `New Vegas Expansion` which also contains a rules booklet which expands on the base game.
 
 [Modiphius New Releases - May 2021 Video](https://www.youtube-nocookie.com/embed/xhCQaQq27OM)
 
@@ -963,23 +989,6 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
 | [Chems <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf) | :heavy_check_mark: | 1        |
 | `Total`                                                                                                                          |                    | `1`      |
-
-### Robobrain
-
-### Standard
-
-| Item                                                                                                                          | Downloaded         | Quantity |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Unit <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
-| `Total`                                                                                                                       |                    | `1`      |
-
-### Mini European
-
-| Item                                                                                                                               | Downloaded         | Quantity |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Equipment <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: | 1        |
-| [Weapon <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf)    | :heavy_check_mark: | 2        |
-| `Total`                                                                                                                            |                    | `3`      |
 
 # Print at Home
 
