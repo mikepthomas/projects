@@ -24,7 +24,15 @@ promoted: true
 
 # Sourcing Parts
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl).
+There are 3 sets of STLs for the Red Rocket:
+
+| Item                                                                                                             | Price |     Purchased      | Notes |
+| ---------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Drive Thru](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru)       | £30   | :heavy_check_mark: |       |
+| [Preserved](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl) | £30   | :heavy_check_mark: |       |
+| [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)       | £30   | :heavy_check_mark: |       |
+
+I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4.
 
 # Printing Parts
 
