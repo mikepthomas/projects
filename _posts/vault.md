@@ -22,7 +22,30 @@ keywords:
 
 # Table of contents
 
-# Printing Parts
+# Intro
+
+Modiphius has released multiple `Print at Home` STL packs that can be used to create your own Vault-Tec Vault. I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
+
+There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault) that can be used for inspiration.
+
+# Minatures
+
+| Item                                                                                                          | Price |     Purchased      | Notes |
+| ------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Vault-Tec Poster Girl](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl) | £5    | :heavy_check_mark: |       |
+
+# Vault STL Bundle
+
+The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                                                   | Price |     Purchased      | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | :----------------: | ----- |
+| [Vault Design Starter Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl)                  | £15   | :heavy_check_mark: |       |
+| [Vault Walls Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl)                                      | £12   | :heavy_check_mark: |       |
+| [Vault Flooring Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl)                              | £7    | :heavy_check_mark: |       |
+| [Vault Atrium Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl)                                  | £12   | :heavy_check_mark: |       |
+| [Vault Interior Themed Scatter](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl) | £12   | :heavy_check_mark: |       |
+| [Vault Tec Office Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl)                          | £10   | :heavy_check_mark: |       |
 
 ## Vault Design Starter Pack
 
@@ -308,7 +331,7 @@ keywords:
 | ShortRackingSingle | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 | TallRackingSingle  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 
-# Vault Tec Crates
+### Vault Tec Crates
 
 | Item              | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -316,6 +339,8 @@ keywords:
 | Crate_02\_(Tall)  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 | Crate_03\_(Wide)  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 | Crate_04\_(Big)   | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+
+# Example Layouts
 
 ## Basic Room
 

@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-07T18:23:54.854Z
+lastmod: 2026-04-08T10:41:59.211Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -51,14 +51,14 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 #### Rules
 
-| Item                                             |     Purchased      | Digital                                                        |     Downloaded     | Notes                                                                                                |
-| ------------------------------------------------ | :----------------: | -------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------- |
-| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                                |                    | Discontinued, however, most of the cards in this pack have been re-released in subsequent card packs |
-| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                                |                    |                                                                                                      |
-| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                                                |
-| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                |                    | Promo                                                                                                |
+| Item                                             |     Purchased      | Digital                                                        |     Downloaded     | Notes                                                                              |
+| ------------------------------------------------ | :----------------: | -------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------- |
+| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                                |                    | Discontinued, but most of the cards have been re-released in subsequent card packs |
+| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                                |                    |                                                                                    |
+| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
+| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="fa-regular fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
+| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
+| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                |                    | Promo                                                                              |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck 'Fallout: Wasteland Warfare - Settlement Deck'
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set 'Fallout: Wasteland Warfare - Two Player Starter Set'
@@ -81,33 +81,33 @@ The Getting Acclimated book explains further detail and has a few Tutorials so t
 
 This tutorial gets you used to the moving mechanics of the game by retrieving a 10mm Pistol from a crate.
 
-| Item                                                                                                       | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Wood Crate](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston) | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Wood Crate][Streets of Boston] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
 
 ##### Tutorial 2: Shooting Range
 
 This tutorial gets you used to the shooting mechanics of the game by shooting cans with your new 10mm Pistol.
 
-| Item                                                                                                             | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Water Purified](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 
 ##### Tutorial 3: Weird Harvest
 
 This tutorial gets introduces melee mechanics of the game by destroying Mutfruit with a Baseball Bat.
 
-| Item                                                                                                            | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Mutfruit Pile](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl) | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |      |        |      |   :x:   |       |
 
 ##### Tutorial 4: Solving the Rat Problem
 
 This tutorial brings together all that we have learned so far by using a Hunting Rifle to seal up some dangerous looking Mole Rat mounds.
 
-| Item                                                                                                                    | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Slabs & Stones 4](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones) | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Slabs & Stones 4][Slabs and Stones] | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
 
 #### Accessories
 
@@ -196,30 +196,85 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Accessories
 
-| Item                                                                                                          |     Purchased      | Digital                                                                                                                                           |     Downloaded     | Notes                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Crashed Vertibird][Crashed Vertibird]                                                                        |        :x:         |                                                                                                                                                   |                    |                                                                                                                                         |
-| [Raiders: Core Box][Raiders Core Box]                                                                         | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
-| [Liberty Prime][Liberty Prime]                                                                                | :heavy_check_mark: | [Rules Expansion <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
-| [Mysterious Stranger][Mysterious Stranger]                                                                    | :heavy_check_mark: |                                                                                                                                                   |                    | Promo                                                                                                                                   |
-| [Vault-Tec Notebook](https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook) | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf)          | :heavy_check_mark: |                                                                                                                                         |
-| [Weapons Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack)         | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
+| Item                                         |     Purchased      | Digital                                                                                                                                           |     Downloaded     | Notes                                                                                                                                   |
+| -------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [Raiders: Core Box][Raiders Core Box]        | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
+| [Liberty Prime][Liberty Prime]               | :heavy_check_mark: | [Rules Expansion <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf) | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) |
+| [Mysterious Stranger][Mysterious Stranger]   | :heavy_check_mark: |                                                                                                                                                   |                    | Promo                                                                                                                                   |
+| [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf)          | :heavy_check_mark: |                                                                                                                                         |
+| [Weapons Upgrade Pack][Weapons Upgrade Pack] | :heavy_check_mark: |                                                                                                                                                   |                    |                                                                                                                                         |
 
-[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
 [Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
 [Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
+[Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook 'Fallout: Wasteland Warfare - Vault-Tec Notebook'
+[Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack 'Fallout: Wasteland Warfare - Weapons Upgrade Pack'
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Scatter
+
+The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
+
+| Item                                       | Purchased | Digital                                                      |     Downloaded     | Notes                                                                                              |
+| ------------------------------------------ | :-------: | ------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------- |
+| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Sedan STL] | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)   |
+| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                              |                    |                                                                                                    |
+| [Junk Barricades][Junk Barricades]         |    :x:    |                                                              |                    |                                                                                                    |
+| [Military Barricades][Military Barricades] |    :x:    |                                                              |                    | Similar items available in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Turrets][Turrets]                         |    :x:    |                                                              |                    |                                                                                                    |
+
+[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega 'Fallout: Wasteland Warfare - Terrain Expansion: Corvega Sedan'
+[Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan 'Fallout: Wasteland Warfare - Print At Home: Corvega Atomic V8 Sedan'
+[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
+[Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades 'Fallout: Wasteland Warfare – Junk Barricades'
+[Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades 'Fallout: Wasteland Warfare – Military Barricades'
+[Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets 'Fallout: Wasteland Warfare - Terrain Expansion: Turrets'
+
+##### Streets of Boston
+
+Similar items available in the [Streets of Boston](#sanctuary-hills).
+
+| Item                                             | Purchased | Digital | Downloaded | Notes                                                                                                  |
+| ------------------------------------------------ | :-------: | ------- | :--------: | ------------------------------------------------------------------------------------------------------ |
+| [Boston Searchables][Boston Searchables]         |    :x:    |         |            | `Safe` & `Deskside Cabinet` available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle) |
+| [Boston Street Scatter][Boston Street Scatter]   |    :x:    |         |            |                                                                                                        |
+| [Cases and Crates][Cases and Crates]             |    :x:    |         |            |                                                                                                        |
+| [Nuka Cola Machines][Nuka Cola Machines]         |    :x:    |         |            |                                                                                                        |
+| [Radioactive Containers][Radioactive Containers] |    :x:    |         |            |                                                                                                        |
+
+[Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables 'Fallout: Wasteland Warfare - Boston Searchables'
+[Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter 'Fallout: Wasteland Warfare - Boston Street Scatter'
+[Cases and Crates]: https://modiphius.net/products/fallout-wasteland-warfare-cases-and-crates 'Fallout: Wasteland Warfare - Cases and Crates'
+[Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines 'Fallout: Wasteland Warfare - Terrain Expansion: Nuka-Cola Machines'
+[Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers 'Fallout: Wasteland Warfare - Terrain Expansion: Radioactive Containers'
+
+##### Vault Tec
+
+Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle)
+
+| Item                                     | Purchased | Digital | Downloaded | Notes |
+| ---------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Heavy Consoles][Heavy Consoles]         |    :x:    |         |            |       |
+| [Terminals][Terminals]                   |    :x:    |         |            |       |
+| [Vault Tec Lockers][Vault Tec Lockers]   |    :x:    |         |            |       |
+| [Vault Tec Supplies][Vault Tec Supplies] |    :x:    |         |            |       |
+
+[Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles 'Fallout: Wasteland Warfare - Terrain Expansion: Heavy Consoles'
+[Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals 'Fallout: Wasteland Warfare - Terrain Expansion: Terminals'
+[Vault Tec Lockers]: https://modiphius.net/products/fallout-wasteland-warfare-vault-tec-lockers 'Fallout: Wasteland Warfare - Vault Tec Lockers'
+[Vault Tec Supplies]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-tec-supplies 'Fallout: Wasteland Warfare - Terrain Expansion: Vault Tec Supplies'
+
 #### Scenarios
 
-| Item                                                                                                       |     Purchased      | Digital                                                                                                                                |     Downloaded     | Notes                                    |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------- |
-| The Beast of the Bottling Plant                                                                            |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |                                          |
-| [Raid the Crash Site](https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit) | :heavy_check_mark: |                                                                                                                                        |                    | Part of the `Raiders Organised Play Kit` |
+| Item                                          |     Purchased      | Digital                                                                                                                                |     Downloaded     | Notes                                    |
+| --------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------- |
+| The Beast of the Bottling Plant               |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |                                          |
+| [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                                                                                        |                    | Part of the `Raiders Organised Play Kit` |
+
+[Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit 'Fallout: Wasteland Warfare – Raiders Organised Play Kit'
 
 ##### Raid the Crash Site
 
@@ -241,24 +296,32 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 #### Accessories
 
-| Item                                               | Purchased | Digital | Downloaded | Notes                                                                                     |
-| -------------------------------------------------- | :-------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
-| [Institute: Core Box][Institute Core Box]          |    :x:    |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
-| [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |                                                                                           |
-| [The Mechanist][The Mechanist]                     |    :x:    |         |            | Promo                                                                                     |
-| [Vault Personnel][Vault Personnel]                 |    :x:    |         |            | Contains Miniatures related to the [Vault](vault)                                         |
+| Item                                      | Purchased | Digital | Downloaded | Notes                                                                                     |
+| ----------------------------------------- | :-------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
+| [Institute: Core Box][Institute Core Box] |    :x:    |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [The Mechanist][The Mechanist]            |    :x:    |         |            | Promo                                                                                     |
+| [Vault Personnel][Vault Personnel]        |    :x:    |         |            | Contains Miniatures related to the [Vault](vault)                                         |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
-[Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches 'Fallout: Wasteland Warfare - Settlement Work Benches'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
 [Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel 'Fallout: Wasteland Warfare - Survivors: Vault Personnel'
 
+#### Scatter
+
+| Item                                               | Purchased | Digital | Downloaded | Notes |
+| -------------------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |       |
+
+[Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches 'Fallout: Wasteland Warfare - Settlement Work Benches'
+
 #### Scenarios
 
-| Item                                                                                                         |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                      |
-| ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------ |
-| Showdown at Synthtown                                                                                        |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: |                                            |
-| [Teleporting Trouble](https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit) | :heavy_check_mark: |                                                                                                                              |                    | Part of the `Institute Organised Play Kit` |
+| Item                                            |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                      |
+| ----------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------ |
+| Showdown at Synthtown                           |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: |                                            |
+| [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                              |                    | Part of the `Institute Organised Play Kit` |
+
+[Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit 'Fallout: Wasteland Warfare – Institute Organised Play Kit'
 
 ### Wave 4 - Enclave
 
@@ -277,17 +340,25 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 #### Accessories
 
-| Item                                                                                | Purchased | Digital                                                                                                                                  |     Downloaded     | Notes |
-| ----------------------------------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Crashed UFO](https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo) |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl) |        :x:         |       |
-| [Enclave: Core Box][Enclave Core Box]                                               |    :x:    |                                                                                                                                          |                    |       |
-| [Lorenzo Cabot][Lorenzo Cabot]                                                      |    :x:    |                                                                                                                                          |                    | Promo |
-| [Robot Work Bench][Robot Work Bench]                                                |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Robot Work Bench STL]                                                                       | :heavy_check_mark: |       |
+| Item                                  | Purchased | Digital | Downloaded | Notes |
+| ------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Enclave: Core Box][Enclave Core Box] |    :x:    |         |            |       |
+| [Lorenzo Cabot][Lorenzo Cabot]        |    :x:    |         |            | Promo |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
-[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
-[Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
+
+#### Scatter
+
+| Item                                 | Purchased | Digital                                                            |     Downloaded     | Notes |
+| ------------------------------------ | :-------: | ------------------------------------------------------------------ | :----------------: | ----- |
+| [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Crashed UFO STL]      |        :x:         |       |
+| [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |       |
+
+[Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo 'Fallout: Wasteland Warfare - Terrain Expansion: Crashed UFO'
+[Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl 'Fallout: Wasteland Warfare - Print at Home: Crashed UFO'
+[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench 'Fallout: Wasteland Warfare - Terrain Expansion: Robot Work Bench'
+[Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl 'Fallout: Wasteland Warfare - Print at Home: Robot Work Bench'
 
 #### Scenarios
 
@@ -348,16 +419,17 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                                                                                          |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
-| [Astoundingly Awesome Tales 1](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
-| Astoundingly Awesome Tales 2                                                                                                  |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
-| [Grognak][Grognak]                                                                                                            |        :x:         |                                                                                                                                              |                    | Promo                                                 |
-| [Gunners: Core Box][Gunners Core Box]                                                                                         |        :x:         |                                                                                                                                              |                    |                                                       |
-| Into the Vault                                                                                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
-| [Railroad: Core Box][Railroad Core Box]                                                                                       |        :x:         |                                                                                                                                              |                    |                                                       |
-| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion]                                                          | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
+| Item                                                                 |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
+| -------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
+| [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1]         | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
+| Astoundingly Awesome Tales 2                                         |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
+| [Grognak][Grognak]                                                   |        :x:         |                                                                                                                                              |                    | Promo                                                 |
+| [Gunners: Core Box][Gunners Core Box]                                |        :x:         |                                                                                                                                              |                    |                                                       |
+| Into the Vault                                                       |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
+| [Railroad: Core Box][Railroad Core Box]                              |        :x:         |                                                                                                                                              |                    |                                                       |
+| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
 
+[Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1 'Fallout: Wasteland Warfare - Astoundingly Awesome Tales: Chapter 1'
 [Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
@@ -1141,59 +1213,40 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 | [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
 | [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
 | [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
-| [Slabs & Stones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones)            | £5    | :heavy_check_mark: |       |
+| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
+
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
 ## Scatter
 
 | Item                                                                                                                    | Price |     Purchased      | Notes |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
 | [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
-| [Chems, Meds and Food](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl)  | £20   | :heavy_check_mark: |       |
+| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
 | [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
 | [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
 | [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
-| [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)       | £20   | :heavy_check_mark: |       |
+| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
 | [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
 | [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
 | [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
 | [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
 
+[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
+
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
-
-# Vault
-
-There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault).
-
-| Item                                                                                                          | Price |     Purchased      | Notes |
-| ------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Vault-Tec Poster Girl](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl) | £5    | :heavy_check_mark: |       |
-
-## Bundle
-
-The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
-
-| Item                                                                                                                                                   | Price |     Purchased      | Notes                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | :----------------: | ---------------------------------------------------- |
-| [Vault Atrium Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl)                                  | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-| [Vault Design Starter Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl)                  | £15   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-| [Vault Flooring Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl)                              | £7    | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-| [Vault Interior Themed Scatter](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl) | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-| [Vault Tec Office Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl)                          | £10   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-| [Vault Walls Upgrade Pack](https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl)                                      | £12   | :heavy_check_mark: | [The build can be found on its own page here](vault) |
-
-I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
 
 # Vehicles
 
-| Item                                                                                                                      | Price |     Purchased      | Notes                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------------------------- |
-| [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)                       | £20   | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
-| [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles)                   | £40   | :heavy_check_mark: | Will be used in [Sanctuary Hills](sanctuary-hills)                                      |
-| [Corvega Atomic V8 Sedan](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan) | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)             | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)                     | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl)               | £40   | :heavy_check_mark: | Will be used in the [Vault](vault)                                                      |
-| [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl)       | £20   | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)             | £5    | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
-| [Pre-war APC](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc)                     | £5    | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Tank](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl)                               | £25   |        :x:         | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| Item                                                                                                                | Price |     Purchased      | Notes                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------------------------- |
+| [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)                 | £20   | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
+| [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles)             | £40   | :heavy_check_mark: | Will be used in [Sanctuary Hills](sanctuary-hills)                                      |
+| [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)       | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
+| [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)               | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
+| [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl)         | £40   | :heavy_check_mark: | Will be used in the [Vault](vault)                                                      |
+| [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl) | £20   | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)       | £5    | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
+| [Pre-war APC](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc)               | £5    | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Tank](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl)                         | £25   |        :x:         | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
