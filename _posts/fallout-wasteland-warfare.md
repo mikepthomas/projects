@@ -979,7 +979,9 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | [Weapon <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf)    | :heavy_check_mark: | 2        |
 | `Total`                                                                                                                            |                    | `3`      |
 
-# Brotherhood of Steel Encampment
+# Print at Home
+
+## Brotherhood of Steel Encampment
 
 ![Print at Home - Brotherhood of Steel Encampment](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-656728.jpg)
 
@@ -1017,7 +1019,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 - Tent Floor Large 1-6
 - Tent Floor Small 1-4
 
-# Cult of the Mothman Altar
+## Cult of the Mothman Altar
 
 ![Print at Home - Cult of the Mothman Altar](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar-fallout-wasteland-warfare-modiphius-entertainment-616475.jpg)
 
@@ -1047,7 +1049,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 - Backpack
 - Stein
 
-# Metal Dome
+## Metal Dome
 
 ![Print at Home - Metal Dome](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-metal-dome-fallout-wasteland-warfare-modiphius-entertainment-982340.jpg)
 
@@ -1069,7 +1071,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 - Robot Fabricator - Closed
 - Robot Fabricator - Open
 
-# Nuka World
+## Nuka World
 
 These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
 
@@ -1077,7 +1079,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](h
 | --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
 | [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: |       |
 
-## Parking Lot
+### Parking Lot
 
 ![Print at Home - Nuka World Parking Lot](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-476325.jpg)
 
@@ -1087,9 +1089,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](h
 | --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------- |
 | [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: | [The build can be found on its own page](nuka-world) |
 
-## Nuka Town, USA
+### Nuka Town, USA
 
-### Cola-Cars Arena
+#### Cola-Cars Arena
 
 ![Print at Home - Cola-Cars Arena](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-cola-cars-arena-fallout-wasteland-warfare-modiphius-entertainment-179901.jpg)
 
@@ -1103,9 +1105,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](h
 - Cola Car 1-3
 - Cola Car Display Stand
 
-## Dry Rock Gulch
+### Dry Rock Gulch
 
-### Buildings
+#### Buildings
 
 ![Print at Home - Dry Rock Gulch Buildings](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings-fallout-wasteland-warfare-modiphius-entertainment-341918.jpg)
 
@@ -1119,7 +1121,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](h
 - Windmill
 - Signage
 
-### Bundle
+#### Bundle
 
 The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
 
@@ -1138,9 +1140,9 @@ There is also a sampler containing some of the items from the bundle:
 | ------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Tabletop STL Sampler](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler) | £25   |    :x:    | These replace the [versions][Tokens and Terrain Assembly Guide] in the [Fallout Factions: Battle for Nuka-World Starter Set][Nuka World Starter Set] |
 
-## Galactic Zone
+### Galactic Zone
 
-### Space Adventure
+#### Space Adventure
 
 ![Print at Home - Galactic Zone, Space Adventure](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-galactic-zone-space-adventure-fallout-wasteland-warfare-modiphius-entertainment-513138.jpg)
 
@@ -1156,9 +1158,9 @@ There is also a sampler containing some of the items from the bundle:
 - Nuka-Globes 1-2
 - Nuka-Rocket Car
 
-## Kiddie Kingdom
+### Kiddie Kingdom
 
-### Blast Off!
+#### Blast Off!
 
 ![Print at Home - Kiddie Kingdom](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-print-at-home-kiddie-kingdom-fallout-wasteland-warfare-modiphius-entertainment-655651.jpg)
 
@@ -1184,7 +1186,7 @@ There is also a sampler containing some of the items from the bundle:
 - Vendor Cart - various parts
 - Wrecked Ferris Wheel Car
 
-# Red Rocket
+## Red Rocket
 
 There are 3 sets of STLs for the Red Rocket:
 
@@ -1196,13 +1198,13 @@ There are 3 sets of STLs for the Red Rocket:
 
 I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4.
 
-# Sanctuary Hills
+## Sanctuary Hills
 
 | Item                                                                                                                   | Price |     Purchased      | Notes                                                     |
 | ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------- |
 | [Sanctuary Hill House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl) | £30   | :heavy_check_mark: | [The build can be found on its own page](sanctuary-hills) |
 
-## Bundle
+### Bundle
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
@@ -1217,7 +1219,7 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 [Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
-## Scatter
+### Scatter
 
 | Item                                                                                                                    | Price |     Purchased      | Notes |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
@@ -1237,7 +1239,7 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
-# Vehicles
+## Vehicles
 
 | Item                                                                                                                | Price |     Purchased      | Notes                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------------------------- |
