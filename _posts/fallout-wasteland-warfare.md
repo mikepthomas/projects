@@ -405,16 +405,16 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
-| Item                                                 | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [RobotWorkbench_BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotWorkbench_Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 
 ### Wave 5 - New Vegas Expansion
 
