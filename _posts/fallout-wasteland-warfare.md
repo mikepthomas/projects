@@ -113,18 +113,19 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Accessories
 
-| Item                                              |     Purchased      | Digital                                                                                                                              |     Downloaded     | Notes                                                                                                                                                                                        |
-| ------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brotherhood of Steel: Core Box][BoS Core Box]    |        :x:         |                                                                                                                                      |                    | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston)                                                                                                    |
-| [Nuka Cola Caps Set][Nuka Cola Caps Set]          | :heavy_check_mark: |                                                                                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                                                            |
-| [Nuka Cola Girl][Nuka Cola Girl]                  | :heavy_check_mark: |                                                                                                                                      |                    | Promo                                                                                                                                                                                        |
-| [Red Rocket Scenic Set][Red Rocket Scenic Set]    | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf) | :heavy_check_mark: | Contains Neoprene playing mat to replace the paper one in the `Two Player Starter Set`, clip together Red Rocket Building will be replaced by [3D Printed Red Rocket Truck Stop](red-rocket) |
-| [Super Mutants: Core Box][Super Mutants Core Box] |        :x:         |                                                                                                                                      |                    |                                                                                                                                                                                              |
-| [Survivors: Core Box][Survivors Core Box]         | :heavy_check_mark: |                                                                                                                                      |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                                                            |
+| Item                                              |     Purchased      | Digital                                                                         |     Downloaded     | Notes                                                                                                                                                          |
+| ------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Brotherhood of Steel: Core Box][BoS Core Box]    |        :x:         |                                                                                 |                    | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston)                                                                      |
+| [Nuka Cola Caps Set][Nuka Cola Caps Set]          | :heavy_check_mark: |                                                                                 |                    | Also contains stickers so that they can be used as in game tokens                                                                                              |
+| [Nuka Cola Girl][Nuka Cola Girl]                  | :heavy_check_mark: |                                                                                 |                    | Promo                                                                                                                                                          |
+| [Red Rocket Scenic Set][Red Rocket Scenic Set]    | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, clip together building will be replaced by [3D Printed Red Rocket](red-rocket) |
+| [Super Mutants: Core Box][Super Mutants Core Box] |        :x:         |                                                                                 |                    |                                                                                                                                                                |
+| [Survivors: Core Box][Survivors Core Box]         | :heavy_check_mark: |                                                                                 |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                              |
 
 [BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set 'Fallout: Wasteland Warfare - Nuka Cola Caps Set'
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
+[Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
 [Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template 'Fallout: Wasteland Warfare - Red Rocket Scenic Set'
 [Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
 [Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
@@ -185,10 +186,6 @@ A printable slide top box to hold the all the Mini European size cards from the 
 ### Wave 2 - Raiders
 
 Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
-
-[Fallout: Wasteland Warfare - Raiders Vs. Survivors Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1lO3Ivjfzq69AsntzJfXNX)
-
-> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Rules
 
@@ -291,6 +288,14 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit 'Fallout: Wasteland Warfare – Raiders Organised Play Kit'
 
+##### The Beast of the Bottling Plant
+
+Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scenarios:
+
+[Fallout: Wasteland Warfare - Raiders Vs. Survivors Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1lO3Ivjfzq69AsntzJfXNX)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 ##### Raid the Crash Site
 
 This scenario was designed for using the `Crashed Vertibird`.
@@ -333,10 +338,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Scenarios
 
-| Item                                            |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                      |
-| ----------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------ |
-| Showdown at Synthtown                           |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: |                                            |
-| [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                              |                    | Part of the `Institute Organised Play Kit` |
+| Item                                            |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                                               |
+| ----------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------- |
+| Showdown in Synthtown                           |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/showdown-in-synthtown) |
+| [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                              |                    | Part of the `Institute Organised Play Kit`                          |
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit 'Fallout: Wasteland Warfare – Institute Organised Play Kit'
 
