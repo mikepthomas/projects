@@ -23,17 +23,17 @@ keywords:
 
 # Table of contents
 
-# Intro
-
-Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Boston Wasteland. I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
-
 # Sourcing Parts
+
+Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Boston Wasteland.
 
 | Item                                                                                                                   | Price |     Purchased      | Notes |
 | ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
 | [Sanctuary Hill House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl) | £30   | :heavy_check_mark: |       |
 | [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)            | £20   | :heavy_check_mark: |       |
 | [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)      | £20   | :heavy_check_mark: |       |
+
+I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
 # Printing Parts
 

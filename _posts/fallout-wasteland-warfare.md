@@ -224,19 +224,20 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                                       | Purchased | Digital                                                      |     Downloaded     | Notes                                                                                              |
-| ------------------------------------------ | :-------: | ------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------------------- |
-| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Sedan STL] | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)   |
-| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                              |                    |                                                                                                    |
-| [Junk Barricades][Junk Barricades]         |    :x:    |                                                              |                    |                                                                                                    |
-| [Military Barricades][Military Barricades] |    :x:    |                                                              |                    | Similar items available in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Turrets][Turrets]                         |    :x:    |                                                              |                    |                                                                                                    |
+| Item                                       | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                              |
+| ------------------------------------------ | :-------: | ------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------- |
+| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)   |
+| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                               |                    |                                                                                                    |
+| [Junk Barricades][Junk Barricades]         |    :x:    |                                                               |                    |                                                                                                    |
+| [Military Barricades][Military Barricades] |    :x:    |                                                               |                    | Similar items available in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
+| [Turrets][Turrets]                         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                    |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega 'Fallout: Wasteland Warfare - Terrain Expansion: Corvega Sedan'
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan 'Fallout: Wasteland Warfare - Print At Home: Corvega Atomic V8 Sedan'
 [Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
 [Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades 'Fallout: Wasteland Warfare – Junk Barricades'
 [Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades 'Fallout: Wasteland Warfare – Military Barricades'
+[Scenic Set Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
 [Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets 'Fallout: Wasteland Warfare - Terrain Expansion: Turrets'
 
 ##### Streets of Boston
@@ -247,13 +248,13 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-boston).
 
-| Item                                             | Purchased | Digital | Downloaded | Notes                                                                                                  |
-| ------------------------------------------------ | :-------: | ------- | :--------: | ------------------------------------------------------------------------------------------------------ |
-| [Boston Searchables][Boston Searchables]         |    :x:    |         |            | `Safe` & `Deskside Cabinet` available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle) |
-| [Boston Street Scatter][Boston Street Scatter]   |    :x:    |         |            |                                                                                                        |
-| [Cases and Crates][Cases and Crates]             |    :x:    |         |            |                                                                                                        |
-| [Nuka Cola Machines][Nuka Cola Machines]         |    :x:    |         |            |                                                                                                        |
-| [Radioactive Containers][Radioactive Containers] |    :x:    |         |            |                                                                                                        |
+| Item                                             | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                                  |
+| ------------------------------------------------ | :-------: | ------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------ |
+| [Boston Searchables][Boston Searchables]         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | `Safe` & `Deskside Cabinet` available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle) |
+| [Boston Street Scatter][Boston Street Scatter]   |    :x:    |                                                               |                    |                                                                                                        |
+| [Cases and Crates][Cases and Crates]             |    :x:    |                                                               |                    |                                                                                                        |
+| [Nuka Cola Machines][Nuka Cola Machines]         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                        |
+| [Radioactive Containers][Radioactive Containers] |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                        |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables 'Fallout: Wasteland Warfare - Boston Searchables'
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter 'Fallout: Wasteland Warfare - Boston Street Scatter'
@@ -269,12 +270,12 @@ Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-bo
 
 Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle)
 
-| Item                                     | Purchased | Digital | Downloaded | Notes |
-| ---------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Heavy Consoles][Heavy Consoles]         |    :x:    |         |            |       |
-| [Terminals][Terminals]                   |    :x:    |         |            |       |
-| [Vault Tec Lockers][Vault Tec Lockers]   |    :x:    |         |            |       |
-| [Vault Tec Supplies][Vault Tec Supplies] |    :x:    |         |            |       |
+| Item                                     | Purchased | Digital                                                       |     Downloaded     | Notes |
+| ---------------------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----- |
+| [Heavy Consoles][Heavy Consoles]         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |       |
+| [Terminals][Terminals]                   |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |       |
+| [Vault Tec Lockers][Vault Tec Lockers]   |    :x:    |                                                               |                    |       |
+| [Vault Tec Supplies][Vault Tec Supplies] |    :x:    |                                                               |                    |       |
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles 'Fallout: Wasteland Warfare - Terrain Expansion: Heavy Consoles'
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals 'Fallout: Wasteland Warfare - Terrain Expansion: Terminals'
@@ -1109,16 +1110,6 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](h
 | --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
 | [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: |       |
 
-### Parking Lot
-
-![Print at Home - Nuka World Parking Lot](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-476325.jpg)
-
-> Image © 2021 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                                        | Price |     Purchased      | Notes                                                |
-| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------- |
-| [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: | [The build can be found on its own page](nuka-world) |
-
 ### Nuka Town, USA
 
 #### Cola-Cars Arena
@@ -1218,35 +1209,48 @@ There is also a sampler containing some of the items from the bundle:
 
 ## Scatter
 
-| Item                                                                                                                    | Price |     Purchased      | Notes |
-| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
-| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
-| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
-| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
-| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
-| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
-| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
-| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
-| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
+| Item                                            | Price |     Purchased      | Notes |
+| ----------------------------------------------- | ----- | :----------------: | ----- |
+| [Art Deco Statues][Art Deco Statues]            | £20   |        :x:         |       |
+| [Chems, Meds and Food][Chems Meds and Food]     | £20   | :heavy_check_mark: |       |
+| [Meat and Gore][Meat and Gore]                  | £45   |        :x:         |       |
+| [Scorched Statues][Scorched Statues]            | £20   |        :x:         |       |
+| [Settlement Walls][Settlement Walls]            | £20   | :heavy_check_mark: |       |
+| [Streets of Boston][Streets of Boston]          | £20   | :heavy_check_mark: |       |
+| [The Deep][The Deep]                            | £20   |        :x:         |       |
+| [The Pack: Animal Decor][The Pack Animal Decor] | £10   |        :x:         |       |
+| [Toys and Bobbleheads][Toys and Bobbleheads]    | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters][Wasteland Critters]        | £20   | :heavy_check_mark: |       |
 
+[Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
+[Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
+[Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
 [Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
+[The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
+[The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
+[Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
+[Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
 
 ### Basing Greebles Bundle
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
-| Item                                                                                                                             | Price |     Purchased      | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
-| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
-| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
-| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
-| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
-| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
+| Item                                          | Price |     Purchased      | Notes |
+| --------------------------------------------- | ----- | :----------------: | ----- |
+| [Downtown Debris][Downtown Debris]            | £5    | :heavy_check_mark: |       |
+| [Logs, Stumps & Roots][Logs Stumps and Roots] | £5    | :heavy_check_mark: |       |
+| [Mushrooms & Fungi][Mushrooms and Fungi]      | £5    | :heavy_check_mark: |       |
+| [Plants & Crops][Plants and Crops]            | £5    | :heavy_check_mark: |       |
+| [Skulls & Bones][Skulls and Bones]            | £5    | :heavy_check_mark: |       |
+| [Slabs & Stones][Slabs and Stones]            | £5    | :heavy_check_mark: |       |
 
+[Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
+[Logs Stumps and Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
+[Mushrooms and Fungi]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi
+[Plants and Crops]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops
+[Skulls and Bones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones
 [Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
 ## Vehicles

@@ -24,7 +24,9 @@ keywords:
 
 # Sourcing Parts
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl).
+| Item                                                                                                                        | Price |     Purchased      | Notes |
+| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: |       |
 
 # Printing Parts
 

@@ -24,7 +24,7 @@ keywords:
 
 # Intro
 
-Modiphius has released multiple `Print at Home` STL packs that can be used to create your own Vault-Tec Vault. I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
+Modiphius has released multiple `Print at Home` STL packs that can be used to create your own Vault-Tec Vault.
 
 There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault) that can be used for inspiration.
 
@@ -46,6 +46,8 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 | [Vault Atrium Pack](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl)                                  | £12   | :heavy_check_mark: |       |
 | [Vault Interior Themed Scatter](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl) | £12   | :heavy_check_mark: |       |
 | [Vault Tec Office Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl)                          | £10   | :heavy_check_mark: |       |
+
+I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
 
 ## Vault Design Starter Pack
 
