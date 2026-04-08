@@ -866,48 +866,48 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 #### The Disciples
 
-| Item                 | Quantity | Material | Included In                                     | Cards                                                    | Notes                                                                                        |
-| -------------------- | -------- | -------- | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster A             | 1        | HIPS     | [Raiders: The Disciples][Raiders The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Item                 | Quantity | Material | Included In                             | Cards                                                    | Notes                                                                                        |
+| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster A             | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Disciples Assembly Guide] |
 
 #### The Operators
 
-| Item                 | Quantity | Material | Included In                                     | Cards                                                    | Notes                                                                                        |
-| -------------------- | -------- | -------- | ----------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
-| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Raiders The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Item                 | Quantity | Material | Included In                             | Cards                                                    | Notes                                                                                        |
+| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
+| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide] |
 
 #### The Pack
 
-| Item                 | Quantity | Material | Included In                           | Cards                                                    | Notes                                                                                   |
-| -------------------- | -------- | -------- | ------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 1             | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Raiders The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Item                 | Quantity | Material | Included In                   | Cards                                                    | Notes                                                                                   |
+| -------------------- | -------- | -------- | ----------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide] |
 
 ### Raiders
 
@@ -919,6 +919,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
 | Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
 | Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
+
+### Robots
+
+[Robots Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf)
+
+| Item          | Quantity | Material | Included In                    | Cards                                                      | Notes |
+| ------------- | -------- | -------- | ------------------------------ | ---------------------------------------------------------- | ----- |
+| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist] | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
 
 ### Super Mutants
 
@@ -943,6 +951,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | ---------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Dogmeat          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
 | Enslaved Tech    | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
+| Lorenzo Cabot    | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                   | [Enclave Wave Card Expansion Pack][Enclave Card Deck]   |                                                                                       |
 | Mama Murphy      | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
 | Nuka Girl        | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
 | Preston Garvey   | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] | [Painting Guide (Page 6) <i class="fa-regular fa-file-pdf"/>][Rules of Play]          |
@@ -1001,39 +1010,6 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | `Total`                                                                                                                          |                    | `1`      |
 
 # Print at Home
-
-## Scatter
-
-| Item                                                                                                                    | Price |     Purchased      | Notes |
-| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
-| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
-| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
-| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
-| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
-| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
-| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
-| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
-| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
-
-[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
-
-### Basing Greebles Bundle
-
-The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
-
-| Item                                                                                                                             | Price |     Purchased      | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
-| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
-| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
-| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
-| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
-| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
-
-[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
 ## Brotherhood of Steel Encampment
 
@@ -1239,6 +1215,39 @@ There is also a sampler containing some of the items from the bundle:
 - Tea-Cups - Saucer 1-3
 - Vendor Cart - various parts
 - Wrecked Ferris Wheel Car
+
+## Scatter
+
+| Item                                                                                                                    | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
+| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
+| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
+| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
+| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
+| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
+| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
+| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
+| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
+
+[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
+
+### Basing Greebles Bundle
+
+The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                             | Price |     Purchased      | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
+| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
+| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
+| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
+| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
+| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
+
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
 ## Vehicles
 
