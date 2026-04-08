@@ -424,19 +424,28 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                   |     Purchased      | Digital | Downloaded | Notes |
-| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----- |
-| [Burned Man][Burned Man]                               |        :x:         |         |            | Promo |
-| [Caesar's Legion: Core Box][Caesars Legion Core Box]   |        :x:         |         |            |       |
-| [NCR: Core Box][NCR Core Box]                          |        :x:         |         |            |       |
-| [NCR Ranger][NCR Ranger]                               |        :x:         |         |            | Promo |
-| [New Vegas Rules Expansion][New Vegas Rules Expansion] | :heavy_check_mark: |         |            |       |
+#### Rules
+
+| Item                                                   |     Purchased      | Digital                                                                           |     Downloaded     | Notes                                                                       |
+| ------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
+| [New Vegas Rules Expansion][New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-regular fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `The Commonwealth Rules Expansion` |
+
+[Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
+[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
+
+#### Accessories
+
+| Item                                                 | Purchased | Digital | Downloaded | Notes |
+| ---------------------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Burned Man][Burned Man]                             |    :x:    |         |            | Promo |
+| [Caesar's Legion: Core Box][Caesars Legion Core Box] |    :x:    |         |            |       |
+| [NCR: Core Box][NCR Core Box]                        |    :x:    |         |            |       |
+| [NCR Ranger][NCR Ranger]                             |    :x:    |         |            | Promo |
 
 [Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
 [NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box 'Fallout: Wasteland Warfare - NCR: Core Box'
 [NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger 'Fallout: Wasteland Warfare - NCR: Ranger'
-[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
 
 #### Scenarios
 
@@ -453,21 +462,29 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Rules
+
 | Item                                                                 |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
 | -------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
 | [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1]         | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
 | Astoundingly Awesome Tales 2                                         |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
-| [Grognak][Grognak]                                                   |        :x:         |                                                                                                                                              |                    | Promo                                                 |
-| [Gunners: Core Box][Gunners Core Box]                                |        :x:         |                                                                                                                                              |                    |                                                       |
 | Into the Vault                                                       |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
-| [Railroad: Core Box][Railroad Core Box]                              |        :x:         |                                                                                                                                              |                    |                                                       |
 | [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
 
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1 'Fallout: Wasteland Warfare - Astoundingly Awesome Tales: Chapter 1'
+[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
+
+#### Accessories
+
+| Item                                    | Purchased | Digital | Downloaded | Notes |
+| --------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Grognak][Grognak]                      |    :x:    |         |            | Promo |
+| [Gunners: Core Box][Gunners Core Box]   |    :x:    |         |            |       |
+| [Railroad: Core Box][Railroad Core Box] |    :x:    |         |            |       |
+
 [Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
-[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
 
 ### Wave 7 - Forged in the Fire Expansion
 
@@ -475,15 +492,24 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Rules
+
 | Item                                                                     |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
 | ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
 | Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
-| [Ghoul Settlers (The Slog)][Ghoul Settlers]                              |        :x:         |                                                                                                                                               |                    |       |
-| [Jake Finch][Jake Finch]                                                 |        :x:         |                                                                                                                                               |                    | Promo |
-| [The Forged][The Forged]                                                 |        :x:         |                                                                                                                                               |                    |       |
 
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
+[Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf 'Fallout: Wasteland Warfare - Homestead Rules Expansion'
+
+#### Accessories
+
+| Item                                        | Purchased | Digital | Downloaded | Notes |
+| ------------------------------------------- | :-------: | ------- | :--------: | ----- |
+| [Ghoul Settlers (The Slog)][Ghoul Settlers] |    :x:    |         |            |       |
+| [Jake Finch][Jake Finch]                    |    :x:    |         |            | Promo |
+| [The Forged][The Forged]                    |    :x:    |         |            |       |
+
 [Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog 'Fallout: Wasteland Warfare: - Survivors: Ghoul Settlers (The Slog)'
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Fallout: Wasteland Warfare - Survivors: Jake Finch'
 [The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged 'Fallout: Wasteland Warfare - Raiders: The Forged'
@@ -1005,15 +1031,6 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | [Power Armour <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/view)       | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
 | [Weapon <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/view)             | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
 | `Total`                                                                                                                          |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
-
-### Doctor's Bag
-
-### Mini European
-
-| Item                                                                                                                             | Downloaded         | Quantity |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
-| [Chems <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf) | :heavy_check_mark: | 1        |
-| `Total`                                                                                                                          |                    | `1`      |
 
 # Print at Home
 
