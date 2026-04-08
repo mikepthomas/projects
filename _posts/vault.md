@@ -298,6 +298,10 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ### Heavy Duty Consoles
 
+![Heavy Consoles](https://modiphius.net/cdn/shop/products/Heavy_Concoles_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 | Item                | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
 | HeavyDutyConsoles_A |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
@@ -305,6 +309,10 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 | HeavyDutyConsoles_C |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 
 ### Misc
+
+![Terminals](https://modiphius.net/cdn/shop/products/Terminals_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                 | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -316,6 +324,10 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 | Terminal_Desktop     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 | Terminal_WallMounted |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 | VaultLocker          | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+
+![Vault Tec Lockers](https://modiphius.net/cdn/shop/products/1-Painted-Shot-Fallout-Wasteland-Warfare-MUH051819_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Modular Shelving
 
@@ -332,6 +344,10 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 | TallRackingSingle  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
 
 ### Vault Tec Crates
+
+![Vault Tec Supplies](https://modiphius.net/cdn/shop/products/Supplies_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item              | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |

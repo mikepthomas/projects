@@ -246,15 +246,23 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ### Containers
 
+![Cases and Crates](https://modiphius.net/cdn/shop/products/Cases_and_Crates_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 | Item          | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
 | ------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| AmmoCluster   | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| MilitaryTrunk | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| SteamerTrunk  | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
-| Suitcase      | 1        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural)       |      |      |        |      |   :x:   |       |
-| WoodCrate     | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)              |      |      |        |      |   :x:   |       |
+| AmmoCluster   | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| MilitaryTrunk | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| SteamerTrunk  | 2        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
+| Suitcase      | 2        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural)       |      |      |        |      |   :x:   |       |
+| WoodCrate     | 2        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)              |      |      |        |      |   :x:   |       |
 
 ### Misc
+
+![Boston Street Scatter](https://modiphius.net/cdn/shop/products/Street_Scatter_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item         | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
 | ------------ | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -263,25 +271,33 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 | EatOTronic   | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
 | Gas-Pump     | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
 | IceBox       | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| Mailbox      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| Mailbox      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
 | Refrigerator | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
 | Trash Bin    | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
 
 ### Nuka Cola Machine
 
+![Nuka-Cola Machines](https://modiphius.net/cdn/shop/products/Nuka_Cola_Machines_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 | Item                           | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------ | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Nuka-Cola_Machine_Back_Cover_A | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| Nuka-Cola_Machine_Back_Cover_B | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| Nuka-Cola_Machine_Body         | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| Nuka-Cola_Machine_Door         | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Back_Cover_A | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Back_Cover_B | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Body         | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Door         | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
 
 ### Radioactive Barrels
 
+![Radioactive Containers](https://modiphius.net/cdn/shop/products/Radioactive_containers_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+
 | Item                            | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| RadioactiveWaste_Barrel         | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_Barrel         | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
 | RadioactiveWaste_Brahmin_Puddle | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
-| RadioactiveWaste_DrippyBarrel   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
-| RadioactiveWaste_NukaBarrel     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_DrippyBarrel   | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_NukaBarrel     | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
 | RadioactiveWaste_RadroachPuddle | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
