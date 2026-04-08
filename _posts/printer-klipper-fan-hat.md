@@ -278,7 +278,7 @@ We will then need to connect the EEPROM chip as per the following diagram, I did
 
 ![EEPROM Connection Diagram](https://rpi-magazines.s3-eu-west-1.amazonaws.com/magpi/legacy-assets/2016/03/eeprom-hat-led_bb.jpg)
 
-> Image &copy; 2016 [The MagPi Magazine](https://magpi.raspberrypi.com/articles/make-your-own-hat)
+> Image © 2016 [The MagPi Magazine](https://magpi.raspberrypi.com/articles/make-your-own-hat)
 
 I did not have any 3.9kΩ resistors available but I used 4.7kΩ without any problems.
 

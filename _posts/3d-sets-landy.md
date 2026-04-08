@@ -94,7 +94,7 @@ Sourcing parts for a Land Rover inspired remote control car, the [3D Sets Landy]
 
 ![3D Sets Landy Pickup](https://3dsets.com/wp-content/uploads/2021/12/P8140019-3.jpg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 ### Chassis 1
 
@@ -299,7 +299,7 @@ There is a choice of 2 different wheel styles.
 
 ![3D Sets Landy Hardtop Upgrade](https://3dsets.com/wp-content/uploads/2021/12/PA280054-5.jpg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 These parts are required in addition to the parts printed above.
 
@@ -363,7 +363,7 @@ These parts are required in addition to the parts printed above.
 
 ![3D Sets Landy Wagon Upgrade](https://3dsets.com/wp-content/uploads/2021/12/P1310210-4.jpg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 These parts are required in addition to the parts printed above.
 
@@ -472,7 +472,7 @@ These parts are required in addition to the parts printed above.
 
 ![3D Sets Landy Wagon Pickup Upgrade](https://3dsets.com/wp-content/uploads/2021/12/P7170442-3.jpeg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 These parts are required in addition to the parts printed above.
 
@@ -525,7 +525,7 @@ These parts are required in addition to the parts printed above.
 
 ![3D Sets Offroad Kit](https://3dsets.com/wp-content/uploads/2021/12/P5280494-5.jpeg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 ### Fender Flares
 

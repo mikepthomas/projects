@@ -32,7 +32,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ![Preserved Red Rocket Interior - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_01InteriorPartsList_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item           | Quantity | Material                                                                        | Time   | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------- | -------- | ------------------------------------------------------------------------------- | ------ | ------ | ------ | ----- | :----------------: | ----- |
@@ -57,7 +57,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ![Preserved Red Rocket Main Roof - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_02RoofPartsList_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                | Quantity | Material                                                                | Time    | Size   | Weight  | Cost  |      Printed       | Notes |
 | ------------------- | -------- | ----------------------------------------------------------------------- | ------- | ------ | ------- | ----- | :----------------: | ----- |
@@ -73,7 +73,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ![Preserved Red Rocket Canopy - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_03CanopyPartsList_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item    | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
 | ------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -96,7 +96,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ![Red Rocket Flooring Layout](https://www.modiphius.net/cdn/shop/products/FO_PAH_RedRocketFLOORING_Assembly1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                 | Quantity | Material                                                  | Time   | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------------- | -------- | --------------------------------------------------------- | ------ | ------ | ------ | ----- | :----------------: | ----- |
@@ -124,7 +124,7 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 
 ![Components supplied to assemble full Red Rocket Truck Stop with canopy and accessories](https://www.modiphius.net/cdn/shop/products/FO_PAH_Preserved_Red_Rocket_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Doors
 

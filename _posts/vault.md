@@ -18,7 +18,7 @@ keywords:
   - Vault
 ---
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 # Table of contents
 
@@ -51,7 +51,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Design Starter Pack](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave01_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vault Gear Door
 
@@ -94,7 +94,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Wall Variants](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave02_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item           | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -119,7 +119,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Utility Walls](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave02_Image2_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                | Quantity | Material                                                                        | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------- | -------- | ------------------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -136,7 +136,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Basic Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Flooring_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                    | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -162,7 +162,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Utility Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Flooring_Image3_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                           | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------ | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -175,7 +175,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Atrium Floor Support](https://modiphius.net/cdn/shop/products/ShortAtriumFloorSupport_FlooringPack_Example_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                       | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -185,7 +185,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Atrium Pack](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave03_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                       | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -215,7 +215,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Dorm Dressing](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                  | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -237,7 +237,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Utility Dressing](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image3_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                  | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -252,7 +252,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Diner Dressing](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image5_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                  | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -270,7 +270,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Reactor Dressing](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image7_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item               | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -294,7 +294,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Tech Office Bundle](https://modiphius.net/cdn/shop/products/FO_Week_04_VaultecBundle_Webstore_Image1_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Heavy Duty Consoles
 
@@ -346,7 +346,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Basic Room](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave01_Image2_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vertical Supports
 
@@ -369,7 +369,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Vault Entrance](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave01_Image3_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vault Gear Door
 
@@ -404,7 +404,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Dorm Room](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave02_Image3_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vertical Supports
 
@@ -435,7 +435,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Dorm Room Scatter](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image2_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 #### Vault Interior Scatter
 
@@ -467,7 +467,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Reactor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave02_Image4_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vertical Supports
 
@@ -499,7 +499,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Reactor Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Flooring_Image5_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                    | Quantity |
 | ----------------------- | -------- |
@@ -521,7 +521,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Reactor Scatter](https://modiphius.net/cdn/shop/products/FO_VaultInteriorThemedScatter_Webstore_Image8_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 #### Vault Interior Scatter
 
@@ -555,7 +555,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Utility Corridor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave02_Image5_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                | Quantity |
 | ------------------- | -------- |
@@ -569,7 +569,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Utility Corridor Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Flooring_Image4_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                           | Quantity |
 | ------------------------------ | -------- |
@@ -584,7 +584,7 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Atrium (Small) Ground Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave03_Image2_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Vertical Supports
 
@@ -628,10 +628,10 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 ![Atrium (Small) First Floor](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave03_Image3_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ## Atrium (Large)
 
 ![Atrium (Large)](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave03_Image4_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)

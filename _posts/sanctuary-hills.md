@@ -19,7 +19,7 @@ keywords:
   - Sanctuary
 ---
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 # Table of contents
 
@@ -41,7 +41,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Sanctuary Example House Interior - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_01InteriorPartsList_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------ | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -95,7 +95,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Sanctuary Example House Roof - Parts List](https://www.modiphius.net/cdn/shop/products/FO_SanctuaryHouse_02RoofPartsList_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item   | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
 | ------ | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -111,7 +111,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Roofing optional - roof breaks down into pieces](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image5_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item           | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
 | -------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -123,7 +123,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Sanctuary Example House Floor](https://cdn2.myminifactory.com/assets/object-assets/5f8704fb52701/images/resize-fo-scenery-sanctuaryhouse-flooring-example2-25sept20-1.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 | Item                              | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -152,7 +152,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Build this layout, or invent your own! Dressing items included](https://www.modiphius.net/cdn/shop/products/FO_PAH_SanctuaryHouse_Image6_1280x.jpg)
 
-> Image &copy; 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Bathroom
 
@@ -207,7 +207,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Settlement Walls](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-settlement-walls-fallout-wasteland-warfare-modiphius-entertainment-650872_1280x.jpg)
 
-> Image &copy; 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Gate
 
@@ -242,7 +242,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 ![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
 
-> Image &copy; 2023 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
 
 ### Containers
 

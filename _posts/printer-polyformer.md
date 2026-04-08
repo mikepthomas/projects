@@ -20,7 +20,7 @@ keywords:
   - Filament
 ---
 
-> Image &copy; 2022 [Reiten Design](https://www.reiten.design/polyformer)
+> Image © 2022 [Reiten Design](https://www.reiten.design/polyformer)
 
 # Table of contents
 

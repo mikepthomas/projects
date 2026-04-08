@@ -31,7 +31,7 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 
 ![Flight Stack](https://cdn.thingiverse.com/renders/fb/b7/e0/83/61/b9b63088542ecdf303b32c2c17c08386_display_large.jpg)
 
-> Image &copy; 2017 [Daniel Norée](https://danielnoree.com/)
+> Image © 2017 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                                                                                                                                                              | Quantity | Material                                            | Size      | Weight | Cost                  |      Printed       | Notes                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | --------- | ------ | --------------------- | :----------------: | ------------------------------------------------------ |
@@ -49,7 +49,7 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 
 ![Motors](https://cdn.thingiverse.com/renders/32/b1/6e/7e/68/e211b031d8a914aedd008e7674e19697_display_large.jpg)
 
-> Image &copy; 2017 [Daniel Norée](https://danielnoree.com/)
+> Image © 2017 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                       | Quantity | Material                                                    | Size   | Weight | Cost        |      Printed       | Notes                              |
 | -------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ------ | ------ | ----------- | :----------------: | ---------------------------------- |
@@ -67,7 +67,7 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 
 ![Body](https://cdn.thingiverse.com/renders/e6/2b/d3/40/ca/4884ad2477c635cd751c05bfea55c215_display_large.jpg)
 
-> Image &copy; 2017 [Daniel Norée](https://danielnoree.com/)
+> Image © 2017 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                          | Quantity | Material                                            | Size       | Weight | Cost                  |      Printed       | Notes |
 | ----------------------------------------------------------------------------- | -------- | --------------------------------------------------- | ---------- | ------ | --------------------- | :----------------: | ----- |
@@ -81,7 +81,7 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 
 ![Top Deck](https://cdn.thingiverse.com/renders/3f/2a/0a/04/70/02f56ebfb5618839cec8baa3176a00c8_display_large.jpg)
 
-> Image &copy; 2017 [Daniel Norée](https://danielnoree.com/)
+> Image © 2017 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                                                               | Quantity | Material                                                    | Size       | Weight | Cost              |      Printed       | Notes                                |
 | ---------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---------- | ------ | ----------------- | :----------------: | ------------------------------------ |
@@ -103,7 +103,7 @@ I purchased most of the parts online, mainly from BangGood and Amazon.
 
 ![Props](https://cdn.thingiverse.com/renders/32/cf/23/e5/26/78eecef77fbd59e10b1072db22847b53_display_large.jpg)
 
-> Image &copy; 2017 [Daniel Norée](https://danielnoree.com/)
+> Image © 2017 [Daniel Norée](https://danielnoree.com/)
 
 | Item                                  | Quantity | Material | Size   | Weight | Cost               | Printed | Notes |
 | ------------------------------------- | -------- | -------- | ------ | ------ | ------------------ | :-----: | ----- |

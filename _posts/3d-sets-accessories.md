@@ -29,7 +29,7 @@ Printing Upgrades and Accessories for the [3D Sets Landy](https://3dsets.com/pro
 
 ![3D Sets Landy Rock Sliders and Grill](https://3dsets.com/wp-content/uploads/2021/12/PB170056-1-scaled-1-3-900x675.jpg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 | Item                        | Quantity | Material                                               | Printed | Notes |
 | --------------------------- | -------- | ------------------------------------------------------ | :-----: | ----- |
@@ -44,7 +44,7 @@ Printing parts for the [3D Sets Car Hauler](https://3dsets.com/product/3d-sets-j
 
 ![3D Sets Car Hauler](https://3dsets.com/wp-content/uploads/2022/06/img-599-900x600.jpeg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 ## Sourcing Parts
 
@@ -266,7 +266,7 @@ There is a choice of 2 different wheel styles.
 
 ![3D Sets Street Accessory](https://3dsets.com/wp-content/uploads/2023/03/IMG_0015-900x600.jpg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 | Item              | Quantity | Material                                                       | Printed | Notes |
 | ----------------- | -------- | -------------------------------------------------------------- | :-----: | ----- |
@@ -281,7 +281,7 @@ There is a choice of 2 different wheel styles.
 
 ![3D Sets Storage System](https://3dsets.com/wp-content/uploads/2021/12/image-2-3-900x600.jpeg)
 
-> Image &copy; 2022 [3D Sets](https://3dsets.com/)
+> Image © 2022 [3D Sets](https://3dsets.com/)
 
 ## Sourcing Parts
 
