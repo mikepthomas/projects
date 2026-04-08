@@ -23,9 +23,17 @@ keywords:
 
 # Table of contents
 
+# Intro
+
+Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Boston Wasteland. I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
+
 # Sourcing Parts
 
-You can [purchase the STLs to print your own from the Modiphius website](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl).
+| Item                                                                                                                   | Price |     Purchased      | Notes |
+| ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Sanctuary Hill House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl) | £30   | :heavy_check_mark: |       |
+| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)            | £20   | :heavy_check_mark: |       |
+| [Streets of Boston](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston)      | £20   | :heavy_check_mark: |       |
 
 # Printing Parts
 
@@ -229,3 +237,51 @@ You can [purchase the STLs to print your own from the Modiphius website](https:/
 | Spike_Strip_01 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
 | Spike_Strip_02 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
 | Spike_Strip_03 | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+
+## Streets of Boston
+
+![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
+
+> Image &copy; 2023 [Modiphius Entertainment](https://www.modiphius.net/)
+
+### Containers
+
+| Item          | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| AmmoCluster   | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| MilitaryTrunk | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| SteamerTrunk  | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
+| Suitcase      | 1        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural)       |      |      |        |      |   :x:   |       |
+| WoodCrate     | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)              |      |      |        |      |   :x:   |       |
+
+### Misc
+
+| Item         | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------ | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Dumpster     | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| DumpsterLid  | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| EatOTronic   | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
+| Gas-Pump     | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
+| IceBox       | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Mailbox      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| Refrigerator | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Trash Bin    | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+
+### Nuka Cola Machine
+
+| Item                           | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------ | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Nuka-Cola_Machine_Back_Cover_A | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Back_Cover_B | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Body         | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Nuka-Cola_Machine_Door         | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+
+### Radioactive Barrels
+
+| Item                            | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| RadioactiveWaste_Barrel         | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_Brahmin_Puddle | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_DrippyBarrel   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_NukaBarrel     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
+| RadioactiveWaste_RadroachPuddle | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |

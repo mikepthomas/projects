@@ -235,7 +235,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 ##### Streets of Boston
 
-Similar items available in the [Streets of Boston](#sanctuary-hills).
+Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-boston).
 
 | Item                                             | Purchased | Digital | Downloaded | Notes                                                                                                  |
 | ------------------------------------------------ | :-------: | ------- | :--------: | ------------------------------------------------------------------------------------------------------ |
@@ -296,11 +296,11 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 #### Accessories
 
-| Item                                      | Purchased | Digital | Downloaded | Notes                                                                                     |
-| ----------------------------------------- | :-------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
-| [Institute: Core Box][Institute Core Box] |    :x:    |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
-| [The Mechanist][The Mechanist]            |    :x:    |         |            | Promo                                                                                     |
-| [Vault Personnel][Vault Personnel]        |    :x:    |         |            | Contains Miniatures related to the [Vault](vault)                                         |
+| Item                                      |     Purchased      | Digital | Downloaded | Notes                                                                                     |
+| ----------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
+| [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                                     |
+| [Vault Personnel][Vault Personnel]        |        :x:         |         |            | Contains Miniatures related to the [Vault](vault)                                         |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
@@ -340,13 +340,15 @@ I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
 #### Accessories
 
-| Item                                  | Purchased | Digital | Downloaded | Notes |
-| ------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Enclave: Core Box][Enclave Core Box] |    :x:    |         |            |       |
-| [Lorenzo Cabot][Lorenzo Cabot]        |    :x:    |         |            | Promo |
+| Item                                                   |     Purchased      | Digital | Downloaded | Notes |
+| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----- |
+| [Enclave: Core Box][Enclave Core Box]                  |        :x:         |         |            |       |
+| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |         |            | Promo |
+| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |         |            |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
+[T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor 'Fallout: Wasteland Warfare – Brotherhood of Steel Power Armor 1'
 
 #### Scatter
 
@@ -478,7 +480,7 @@ This scenario was designed for using the `Robot Work Bench`.
 
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [N.I.R.A][NIRA]                                          | :heavy_check_mark: |                                                                                                                          |                    | Promo |
+| [N.I.R.A][NIRA]                                          |        :x:         |                                                                                                                          |                    | Promo |
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
 
 [NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo 'Fallout: Wasteland Warfare - NIRA'
@@ -498,10 +500,10 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                   | Purchased | Digital | Downloaded | Notes |
-| -------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Ghoulish Remnants][Ghoulish Remnants] |    :x:    |         |            |       |
-| [Mr Fuzzy][Mr Fuzzy]                   |    :x:    |         |            | Promo |
+| Item                                   |     Purchased      | Digital | Downloaded | Notes |
+| -------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Ghoulish Remnants][Ghoulish Remnants] |        :x:         |         |            |       |
+| [Mr Fuzzy][Mr Fuzzy]                   | :heavy_check_mark: |         |            | Promo |
 
 [Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants 'Fallout: Miniatures - Creatures: Ghoulish Remnants'
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo 'Fallout: Wasteland Warfare - Mr Fuzzy'
@@ -528,11 +530,11 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                        | Purchased | Digital | Downloaded | Notes |
-| ----------------------------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Children of Atom: Choir][Children of Atom Choir]           |    :x:    |         |            |       |
-| [Children of Atom: Priesthood][Children of Atom Priesthood] |    :x:    |         |            |       |
-| [Old Longfellow][Old Longfellow]                            |    :x:    |         |            | Promo |
+| Item                                                        |     Purchased      | Digital | Downloaded | Notes |
+| ----------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Children of Atom: Choir][Children of Atom Choir]           |        :x:         |         |            |       |
+| [Children of Atom: Priesthood][Children of Atom Priesthood] |        :x:         |         |            |       |
+| [Old Longfellow][Old Longfellow]                            | :heavy_check_mark: |         |            | Promo |
 
 [Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Fallout: Miniatures - Children of Atom: Choir'
 [Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Fallout: Miniatures - Children of Atom: Priesthood'
@@ -981,6 +983,39 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 # Print at Home
 
+## Scatter
+
+| Item                                                                                                                    | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
+| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
+| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
+| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
+| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
+| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
+| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
+| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
+| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
+
+[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
+
+### Basing Greebles Bundle
+
+The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
+
+| Item                                                                                                                             | Price |     Purchased      | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
+| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
+| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
+| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
+| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
+| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
+
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
+
 ## Brotherhood of Steel Encampment
 
 ![Print at Home - Brotherhood of Steel Encampment](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-656728.jpg)
@@ -1197,47 +1232,6 @@ There are 3 sets of STLs for the Red Rocket:
 | [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)       | £30   | :heavy_check_mark: |                                                      |
 
 I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4.
-
-## Sanctuary Hills
-
-| Item                                                                                                                   | Price |     Purchased      | Notes                                                     |
-| ---------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------- |
-| [Sanctuary Hill House](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl) | £30   | :heavy_check_mark: | [The build can be found on its own page](sanctuary-hills) |
-
-### Bundle
-
-The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
-
-| Item                                                                                                                             | Price |     Purchased      | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Downtown Debris](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris)        | £5    | :heavy_check_mark: |       |
-| [Logs, Stumps & Roots](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots) | £5    | :heavy_check_mark: |       |
-| [Mushrooms & Fungi](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi)      | £5    | :heavy_check_mark: |       |
-| [Plants & Crops](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops)            | £5    | :heavy_check_mark: |       |
-| [Skulls & Bones](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones)            | £5    | :heavy_check_mark: |       |
-| [Slabs & Stones][Slabs and Stones]                                                                                               | £5    | :heavy_check_mark: |       |
-
-[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
-
-### Scatter
-
-| Item                                                                                                                    | Price |     Purchased      | Notes |
-| ----------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Art Deco Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues)             | £20   |        :x:         |       |
-| [Chems, Meds and Food][Chems Meds and Food]                                                                             | £20   | :heavy_check_mark: |       |
-| [Meat and Gore](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore)                   | £45   |        :x:         |       |
-| [Scorched Statues](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl)         | £20   |        :x:         |       |
-| [Settlement Walls](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls)             | £20   | :heavy_check_mark: |       |
-| [Streets of Boston][Streets of Boston]                                                                                  | £20   | :heavy_check_mark: |       |
-| [The Deep](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep)                             | £20   |        :x:         |       |
-| [The Pack: Animal Decor](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor)  | £10   |        :x:         |       |
-| [Toys and Bobbleheads](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl) | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl)     | £20   | :heavy_check_mark: |       |
-
-[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
-
-I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
 ## Vehicles
 
