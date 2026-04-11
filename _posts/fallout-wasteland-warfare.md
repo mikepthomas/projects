@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-08T15:52:14.445Z
+lastmod: 2026-04-11T19:05:43.050Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -322,7 +322,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | ----------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
 | [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
 | [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                                     |
-| [Vault Personnel][Vault Personnel]        |        :x:         |         |            | Contains Miniatures related to the [Vault](vault)                                         |
+| [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                                         |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
@@ -366,9 +366,9 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 | Item                                                   |     Purchased      | Digital                                                                                                                        |     Downloaded     | Notes |
 | ------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [Enclave: Core Box][Enclave Core Box]                  |        :x:         |                                                                                                                                |                    |       |
+| [Enclave: Core Box][Enclave Core Box]                  | :heavy_check_mark: |                                                                                                                                |                    |       |
 | [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                                                                                                |                    | Promo |
-| [Robobrain][Robobrain]                                 |        :x:         | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
+| [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
 | [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                                                                                                |                    |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
@@ -435,12 +435,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Accessories
 
-| Item                                                 | Purchased | Digital | Downloaded | Notes |
-| ---------------------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Burned Man][Burned Man]                             |    :x:    |         |            | Promo |
-| [Caesar's Legion: Core Box][Caesars Legion Core Box] |    :x:    |         |            |       |
-| [NCR: Core Box][NCR Core Box]                        |    :x:    |         |            |       |
-| [NCR Ranger][NCR Ranger]                             |    :x:    |         |            | Promo |
+| Item                                                 |     Purchased      | Digital | Downloaded | Notes |
+| ---------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Burned Man][Burned Man]                             | :heavy_check_mark: |         |            | Promo |
+| [Caesar's Legion: Core Box][Caesars Legion Core Box] |        :x:         |         |            |       |
+| [NCR: Core Box][NCR Core Box]                        |        :x:         |         |            |       |
+| [NCR Ranger][NCR Ranger]                             |        :x:         |         |            | Promo |
 
 [Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
@@ -476,11 +476,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Accessories
 
-| Item                                    | Purchased | Digital | Downloaded | Notes |
-| --------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Grognak][Grognak]                      |    :x:    |         |            | Promo |
-| [Gunners: Core Box][Gunners Core Box]   |    :x:    |         |            |       |
-| [Railroad: Core Box][Railroad Core Box] |    :x:    |         |            |       |
+| Item                                    |     Purchased      | Digital | Downloaded | Notes |
+| --------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Grognak][Grognak]                      | :heavy_check_mark: |         |            | Promo |
+| [Gunners: Core Box][Gunners Core Box]   |        :x:         |         |            |       |
+| [Railroad: Core Box][Railroad Core Box] |        :x:         |         |            |       |
 
 [Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
@@ -494,21 +494,21 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Rules
 
-| Item                                                                     |     Purchased      | Digital                                                                                                                                       |     Downloaded     | Notes |
-| ------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                                                                                               |                    |       |
-| Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf) | :heavy_check_mark: |       |
+| Item                                                                     |     Purchased      | Digital                                                              |     Downloaded     | Notes |
+| ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------- | :----------------: | ----- |
+| [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                      |                    |       |
+| Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
 
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf 'Fallout: Wasteland Warfare - Homestead Rules Expansion'
 
 #### Accessories
 
-| Item                                        | Purchased | Digital | Downloaded | Notes |
-| ------------------------------------------- | :-------: | ------- | :--------: | ----- |
-| [Ghoul Settlers (The Slog)][Ghoul Settlers] |    :x:    |         |            |       |
-| [Jake Finch][Jake Finch]                    |    :x:    |         |            | Promo |
-| [The Forged][The Forged]                    |    :x:    |         |            |       |
+| Item                                        |     Purchased      | Digital | Downloaded | Notes |
+| ------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Ghoul Settlers (The Slog)][Ghoul Settlers] |        :x:         |         |            |       |
+| [Jake Finch][Jake Finch]                    | :heavy_check_mark: |         |            | Promo |
+| [The Forged][The Forged]                    |        :x:         |         |            |       |
 
 [Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog 'Fallout: Wasteland Warfare: - Survivors: Ghoul Settlers (The Slog)'
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Fallout: Wasteland Warfare - Survivors: Jake Finch'
@@ -524,7 +524,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | -------------------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
 | [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |                                        |
 | [Reilly's Rangers][Reillys Rangers]                |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Rosa Meitner][Rosa Meitner]                       |        :x:         |         |            | Promo                                  |
+| [Rosa Meitner][Rosa Meitner]                       | :heavy_check_mark: |         |            | Promo                                  |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
 [Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers "Fallout: Wasteland Warfare - Survivors: Reilly's Rangers"
@@ -538,7 +538,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [N.I.R.A][NIRA]                                          |        :x:         |                                                                                                                          |                    | Promo |
+| [N.I.R.A][NIRA]                                          | :heavy_check_mark: |                                                                                                                          |                    | Promo |
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
 
 [NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo 'Fallout: Wasteland Warfare - NIRA'
@@ -797,6 +797,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | ------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
 | [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio)       | :heavy_check_mark: | Included with purchase of physical item                                                                      | :heavy_check_mark: |       |
+| ┕ Rogue Knight                                                                 | :heavy_check_mark: |                                                                                                              |                    | Promo |
 
 ## Accessories
 
@@ -817,6 +818,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                                                        |     Purchased      | Digital                                                                                 |     Downloaded     | Notes                                                                            |
 | ----------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------- |
 | [Battle for Nuka-World Starter Set][Nuka World Starter Set] | :heavy_check_mark: |                                                                                         |                    |                                                                                  |
+| ┝ [Bottle and Cappy][Bottle and Cappy]                      | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | Promo                                                                            |
 | ┝ [Tokens and Terrain Pack 1][Tokens and Terrain]           | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: |                                                                                  |
 | ┝ [Raiders: The Operators][The Operators]                   | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: | [Dice Set][The Operators Dice Set]                                               |
 | ┕ [Raiders: The Pack][The Pack]                             | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: | [Dice Set][The Pack Dice Set]                                                    |
@@ -824,6 +826,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Battle Map: Nuka-World][Nuka World Battle Map]             | :heavy_check_mark: |                                                                                         |                    | Neoprene mat to replace the paper one in the `Battle for Nuka-World Starter Set` |
 | Welcome to Nuka-World Quickstart                            |                    | [Free <i class="fa-regular fa-file-pdf"/>][Nuka World Quickstart]                       | :heavy_check_mark: |                                                                                  |
 
+[Bottle and Cappy]: https://modiphius.net/products/fallout-miniatures-bottle-and-cappy-all-fizzed-up-limited-run 'Fallout: Miniatures - Raiders: The Operators'
+[Bottle and Cappy Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5bc9c858-bc3d-467f-b5a5-6a21af477480/Fallout-Miniatures_Bottle_and_cappy_All_Fizzed_Up_Rules-052924.pdf
 [Nuka World Battle Map]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world 'Fallout: Factions - Battle Map: Nuka-World'
 [Nuka World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set 'Fallout: Factions - Battle For Nuka-World Starter Set'
 [Nuka World Quickstart]: https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free "Fallout: Factions - 'Welcome to Nuka-World' Quickstart"
@@ -841,11 +845,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Battle for Boston
 
-| Item                                                     | Purchased | Digital                                                                  |     Downloaded     | Notes                          |
-| -------------------------------------------------------- | :-------: | ------------------------------------------------------------------------ | :----------------: | ------------------------------ |
-| [Battle for Boston Starter Set][Boston Starter Set]      |    :x:    |                                                                          |                    |                                |
-| ┝ [Brotherhood of Steel: Core Box][BoS Core Box Plastic] |    :x:    | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][BoS Assembly Guide] | :heavy_check_mark: | [Dice Set][BoS Dice Set]       |
-| ┕ [Institute: Core Box][Institute Core Box Plastic]      |    :x:    |                                                                          |                    | [Dice Set][Institute Dice Set] |
+| Item                                                     |     Purchased      | Digital                                                                  |     Downloaded     | Notes                          |
+| -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------ | :----------------: | ------------------------------ |
+| [Battle for Boston Starter Set][Boston Starter Set]      | :heavy_check_mark: |                                                                          |                    |                                |
+| ┝ [Brotherhood of Steel: Core Box][BoS Core Box Plastic] | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][BoS Assembly Guide] | :heavy_check_mark: | [Dice Set][BoS Dice Set]       |
+| ┝ [Institute: Core Box][Institute Core Box Plastic]      | :heavy_check_mark: |                                                                          |                    | [Dice Set][Institute Dice Set] |
+| ┕ Robert MacCready                                       | :heavy_check_mark: |                                                                          |                    | Promo                          |
 
 [Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready 'Fallout: Factions - Battle for Boston Starter Set'
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
@@ -1126,7 +1131,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ## Nuka World
 
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion).
+These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion][Nuka World Rules Expansion].
 
 | Item                                                                                                            | Price |     Purchased      | Notes |
 | --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
