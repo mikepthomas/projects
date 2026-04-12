@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-11T19:05:43.050Z
+lastmod: 2026-04-12T17:36:52.540Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -83,52 +83,44 @@ The Getting Acclimated book explains further detail and has a few Tutorials so t
 
 This tutorial gets you used to the moving mechanics of the game by retrieving a 10mm Pistol from a crate.
 
-| Item                            | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Wood Crate][Streets of Boston] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material                                          | Time | Size  | Weight | Cost  | Printed | Notes |
+| ------------------------------- | -------- | ------------------------------------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
+| [Wood Crate][Streets of Boston] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) | 12m  | 0.53m | 0.89g  | £0.03 |   :x:   |       |
 
 ##### Tutorial 2: Shooting Range
 
 This tutorial gets you used to the shooting mechanics of the game by shooting cans with your new 10mm Pistol.
 
-| Item                                  | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material                                               | Time | Size  | Weight | Cost  | Printed | Notes |
+| ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ----- | ------ | ----- | :-----: | ----- |
+| [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) | 2m   | 0.04m | 0.10g  | £0.01 |   :x:   |       |
 
 ##### Tutorial 3: Weird Harvest
 
 This tutorial gets introduces melee mechanics of the game by destroying Mutfruit with a Baseball Bat.
 
-| Item                                 | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                               | Time | Size  | Weight | Cost  | Printed | Notes |
+| ------------------------------------ | -------- | ------------------------------------------------------ | ---- | ----- | ------ | ----- | :-----: | ----- |
+| [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 15m  | 0.40m | 1.02g  | £0.02 |   :x:   |       |
 
 ##### Tutorial 4: Solving the Rat Problem
 
 This tutorial brings together all that we have learned so far by using a Hunting Rifle to seal up some dangerous looking Mole Rat mounds.
 
-| Item                                 | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Slabs & Stones 4][Slabs and Stones] | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                             | Time | Size  | Weight | Cost  | Printed | Notes |
+| ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
+| [Slabs & Stones 4][Slabs and Stones] | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) | 5m   | 0.16m | 0.40g  | £0.01 |   :x:   |       |
 
 #### Accessories
 
-| Item                                              |     Purchased      | Digital                                                                         |     Downloaded     | Notes                                                                                                                                                          |
-| ------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brotherhood of Steel: Core Box][BoS Core Box]    |        :x:         |                                                                                 |                    | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston)                                                                      |
-| [Nuka Cola Caps Set][Nuka Cola Caps Set]          | :heavy_check_mark: |                                                                                 |                    | Also contains stickers so that they can be used as in game tokens                                                                                              |
-| [Nuka Cola Girl][Nuka Cola Girl]                  | :heavy_check_mark: |                                                                                 |                    | Promo                                                                                                                                                          |
-| [Red Rocket Scenic Set][Red Rocket Scenic Set]    | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, clip together building will be replaced by [3D Printed Red Rocket](red-rocket) |
-| [Super Mutants: Core Box][Super Mutants Core Box] |        :x:         |                                                                                 |                    |                                                                                                                                                                |
-| [Survivors: Core Box][Survivors Core Box]         | :heavy_check_mark: |                                                                                 |                    | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                                                                                              |
+| Item                                           |     Purchased      | Digital                                                                         |     Downloaded     | Notes                                                                                                                                                          |
+| ---------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Nuka Cola Caps Set][Nuka Cola Caps Set]       | :heavy_check_mark: |                                                                                 |                    | Also contains stickers so that they can be used as in game tokens                                                                                              |
+| [Red Rocket Scenic Set][Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, clip together building will be replaced by [3D Printed Red Rocket](red-rocket) |
 
-[BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set 'Fallout: Wasteland Warfare - Nuka Cola Caps Set'
-[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
 [Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template 'Fallout: Wasteland Warfare - Red Rocket Scenic Set'
-[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
-[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
 
 ##### Box Insert
 
@@ -171,6 +163,26 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | [eurobox-top-v2-longer](https://www.thingiverse.com/thing:7139338/files)   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
 | [euroboxv2_double_longer](https://www.thingiverse.com/thing:7139338/files) | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
 
+#### Minatures
+
+| Item                                                   |     Purchased      | Digital | Downloaded | Notes                                                                                     |
+| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
+| [Boston Companions][Boston Companions]                 |        :x:         |         |            |                                                                                           |
+| [Brotherhood of Steel: Core Box][BoS Core Box]         |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] |        :x:         |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
+| [Nuka Cola Girl][Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                                                     |
+| [Super Mutants: Behemoth][Super Mutants Behemoth]      |        :x:         |         |            |                                                                                           |
+| [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                                           |
+| [Survivors: Core Box][Survivors Core Box]              | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
+
+[Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions 'Fallout: Wasteland Warfare - Survivors: Boston Companions'
+[BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
+[Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills 'Fallout: Wasteland Warfare - Survivors: Heroes of Sanctuary Hills'
+[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
+[Super Mutants Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth 'Fallout: Wasteland Warfare - Super Mutants: Behemoth'
+[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
+[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
+
 #### Scenarios
 
 | Item                        | Purchased | Digital                                                                                                                                         |     Downloaded     | Notes                         |
@@ -201,17 +213,25 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 | Item                                         |     Purchased      | Digital                                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Raiders: Core Box][Raiders Core Box]        | :heavy_check_mark: |                                                                                                                                          |                    |       |
-| [Liberty Prime][Liberty Prime]               | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf)  | :heavy_check_mark: |       |
-| [Mysterious Stranger][Mysterious Stranger]   | :heavy_check_mark: |                                                                                                                                          |                    | Promo |
 | [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |       |
 | [Weapons Upgrade Pack][Weapons Upgrade Pack] | :heavy_check_mark: |                                                                                                                                          |                    |       |
+
+[Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook 'Fallout: Wasteland Warfare - Vault-Tec Notebook'
+[Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack 'Fallout: Wasteland Warfare - Weapons Upgrade Pack'
+
+#### Minatures
+
+| Item                                       |     Purchased      | Digital                                                                                                                                 |     Downloaded     | Notes |
+| ------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Raiders: Core Box][Raiders Core Box]      | :heavy_check_mark: |                                                                                                                                         |                    |       |
+| [Liberty Prime][Liberty Prime]             | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) | :heavy_check_mark: |       |
+| [Mysterious Stranger][Mysterious Stranger] | :heavy_check_mark: |                                                                                                                                         |                    | Promo |
+| [X-01 Survivor & Dogmeat][X01 and Dogmeat] |        :x:         |                                                                                                                                         |                    |       |
 
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
 [Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
 [Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
-[Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook 'Fallout: Wasteland Warfare - Vault-Tec Notebook'
-[Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack 'Fallout: Wasteland Warfare - Weapons Upgrade Pack'
+[X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat 'Fallout: Wasteland Warfare - X-01 Survivor & Dogmeat'
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
 
@@ -318,13 +338,25 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Accessories
 
+| Item                                 | Purchased | Digital | Downloaded | Notes |
+| ------------------------------------ | :-------: | ------- | :--------: | ----- |
+| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            |       |
+| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            |       |
+
+[Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 1'
+[Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 2'
+
+#### Minatures
+
 | Item                                      |     Purchased      | Digital | Downloaded | Notes                                                                                     |
 | ----------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
 | [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [T-51 Power Armour][T51 Power Armour]     |        :x:         |         |            |                                                                                           |
 | [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                                     |
 | [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                                         |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
+[T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour 'Fallout: Wasteland Warfare - Unaligned: T-51 Power Armour'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
 [Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel 'Fallout: Wasteland Warfare - Survivors: Vault Personnel'
 
@@ -362,18 +394,20 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Enclave Wave Card Expansion Pack'
 [Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Fallout: Wasteland Warfare - Wave 1 Fundamentals Card Deck'
 
-#### Accessories
+#### Minatures
 
 | Item                                                   |     Purchased      | Digital                                                                                                                        |     Downloaded     | Notes |
 | ------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
+| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                                                                                                |                    |       |
 | [Enclave: Core Box][Enclave Core Box]                  | :heavy_check_mark: |                                                                                                                                |                    |       |
 | [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                                                                                                |                    | Promo |
 | [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
-| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                                                                                                |                    |       |
+| [T-45 Power Armour][T45 Power Armour]                  |        :x:         |                                                                                                                                |                    |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
 [Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain 'Fallout: Wasteland Warfare - Robots: Robobrain'
+[T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour 'Fallout: Wasteland Warfare - Unaligned: T-45 Power Armour'
 [T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor 'Fallout: Wasteland Warfare – Brotherhood of Steel Power Armor 1'
 
 #### Scatter
@@ -433,7 +467,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
 
-#### Accessories
+#### Minatures
 
 | Item                                                 |     Purchased      | Digital | Downloaded | Notes |
 | ---------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -474,17 +508,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1 'Fallout: Wasteland Warfare - Astoundingly Awesome Tales: Chapter 1'
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
 
-#### Accessories
+#### Minatures
 
-| Item                                    |     Purchased      | Digital | Downloaded | Notes |
-| --------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Grognak][Grognak]                      | :heavy_check_mark: |         |            | Promo |
-| [Gunners: Core Box][Gunners Core Box]   |        :x:         |         |            |       |
-| [Railroad: Core Box][Railroad Core Box] |        :x:         |         |            |       |
+| Item                                      |     Purchased      | Digital | Downloaded | Notes |
+| ----------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Grognak][Grognak]                        | :heavy_check_mark: |         |            | Promo |
+| [Gunners: Core Box][Gunners Core Box]     |        :x:         |         |            |       |
+| [Railroad: Core Box][Railroad Core Box]   |        :x:         |         |            |       |
+| [Super Mutants: Swan][Super Mutants Swan] |        :x:         |         |            |       |
 
 [Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
+[Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan 'Fallout: Wasteland Warfare - Super Mutants: Swan'
 
 ### Wave 7 - Forged in the Fire Expansion
 
@@ -502,7 +538,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf 'Fallout: Wasteland Warfare - Homestead Rules Expansion'
 
-#### Accessories
+#### Minatures
 
 | Item                                        |     Purchased      | Digital | Downloaded | Notes |
 | ------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -525,10 +561,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |                                        |
 | [Reilly's Rangers][Reillys Rangers]                |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
 | [Rosa Meitner][Rosa Meitner]                       | :heavy_check_mark: |         |            | Promo                                  |
+| [T-45 Heavy Armor][T45 Heavy Armor]                |        :x:         |         |            |                                        |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
 [Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers "Fallout: Wasteland Warfare - Survivors: Reilly's Rangers"
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo 'Fallout: Wasteland Warfare - Survivors: Rosa Meitner'
+[T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45 'Fallout: Wasteland Warfare - Brotherhood of Steel: Heavy Armor (T45)'
 
 ### Wave 9 - Nuka-World Expansion
 
@@ -540,9 +578,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
 | [N.I.R.A][NIRA]                                          | :heavy_check_mark: |                                                                                                                          |                    | Promo |
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
+| [X-01 Power Armor][X01 Power Armor]                      |        :x:         |                                                                                                                          |                    |       |
 
 [NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo 'Fallout: Wasteland Warfare - NIRA'
 [Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Fallout: Wasteland Warfare - Nuka World Rules Expansion'
+[X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor 'Fallout: Wasteland Warfare - Unaligned - X-01 Power Armor'
 
 #### Scenarios
 
@@ -1128,111 +1168,6 @@ This section was started as an excersise to understand how many Card Sleeves I w
 - Radioactive Rock
 - Robot Fabricator - Closed
 - Robot Fabricator - Open
-
-## Nuka World
-
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion][Nuka World Rules Expansion].
-
-| Item                                                                                                            | Price |     Purchased      | Notes |
-| --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: |       |
-
-### Nuka Town, USA
-
-#### Cola-Cars Arena
-
-![Print at Home - Cola-Cars Arena](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-cola-cars-arena-fallout-wasteland-warfare-modiphius-entertainment-179901.jpg)
-
-> Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                            | Price |     Purchased      | Notes |
-| ----------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Cola-Cars Arena](https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena) | £40   | :heavy_check_mark: |       |
-
-- Bottle Stand 1-3
-- Cola Car 1-3
-- Cola Car Display Stand
-
-### Dry Rock Gulch
-
-#### Buildings
-
-![Print at Home - Dry Rock Gulch Buildings](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings-fallout-wasteland-warfare-modiphius-entertainment-341918.jpg)
-
-> Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                                        | Price |     Purchased      | Notes                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dry Rock Gulch Buildings](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings) | £15   | :heavy_check_mark: | These replace the [versions][Tokens and Terrain Assembly Guide] in the [Fallout Factions: Battle for Nuka-World Starter Set][Nuka World Starter Set] |
-
-- Building 1-8
-- Windmill
-- Signage
-
-#### Bundle
-
-The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
-
-| Item                                                                                                                             | Price |     Purchased      | Notes                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ant Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests)                                    | £10   | :heavy_check_mark: |                                                                                                                                                      |
-| [Barrels, Crates and Coffins](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins) | £10   | :heavy_check_mark: |                                                                                                                                                      |
-| [Cacti Stands](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands)                              | £10   | :heavy_check_mark: | These replace the [versions][Tokens and Terrain Assembly Guide] in the [Fallout Factions: Battle for Nuka-World Starter Set][Nuka World Starter Set] |
-| [Graveyard](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard)                                    | £8    | :heavy_check_mark: | These replace the [versions][Tokens and Terrain Assembly Guide] in the [Fallout Factions: Battle for Nuka-World Starter Set][Nuka World Starter Set] |
-| [Stingwing Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests)                        | £10   | :heavy_check_mark: |                                                                                                                                                      |
-| [Wrecked Rollercoaster](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster)            | £8    | :heavy_check_mark: |                                                                                                                                                      |
-
-There is also a sampler containing some of the items from the bundle:
-
-| Item                                                                                                                | Price | Purchased | Notes                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tabletop STL Sampler](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler) | £25   |    :x:    | These replace the [versions][Tokens and Terrain Assembly Guide] in the [Fallout Factions: Battle for Nuka-World Starter Set][Nuka World Starter Set] |
-
-### Galactic Zone
-
-#### Space Adventure
-
-![Print at Home - Galactic Zone, Space Adventure](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-galactic-zone-space-adventure-fallout-wasteland-warfare-modiphius-entertainment-513138.jpg)
-
-> Image © 2024 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                                         | Price |     Purchased      | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Galactic Zone, Space Adventure](https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure) | £45   | :heavy_check_mark: |       |
-
-- Asteroids 1-5
-- Dead Alien Animatronics 1-2
-- Nuka-Girl Rocket
-- Nuka-Globes 1-2
-- Nuka-Rocket Car
-
-### Kiddie Kingdom
-
-#### Blast Off!
-
-![Print at Home - Kiddie Kingdom](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-print-at-home-kiddie-kingdom-fallout-wasteland-warfare-modiphius-entertainment-655651.jpg)
-
-> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                    | Price |     Purchased      | Notes |
-| ------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Kiddie Kingdom](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom) | £45   | :heavy_check_mark: |       |
-
-- Blast Off Ride Floor - Inner 1-8
-- Blast Off Ride Floor - Outer 1-8
-- Blast Off Ride Ring - Lower 1-8
-- Blast Off Ride Ring - Middle 1-4
-- Blast Off Ride Ring - Upper 1-8
-- Blast Off Ride Ring Signs 1-8
-- Blast Off Ride Rocket Arms 1-8
-- Blast Off Ride Rockets 1-8
-- Blast Off Ride Tower 1-8
-- Blast Off Ride Tower Brace 1-8
-- Sign Posts - various signs, poles, and posts
-- Tea-Cups 1-3
-- Tea-Cups - Saucer 1-3
-- Vendor Cart - various parts
-- Wrecked Ferris Wheel Car
 
 ## Scatter
 
