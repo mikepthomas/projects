@@ -921,6 +921,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
 
+[Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item             | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                        |
 | ---------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- |
 | Aspirant Goddard | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide (Page 7) <i class="fa-regular fa-file-pdf"/>][Rules of Play] |
@@ -933,6 +937,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | --------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ----- |
 | Alien     | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
 | Deathclaw | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
+
+### Enclave
+
+[Enclave Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/976b80dd-d2b6-4d48-9761-f340ce3865e0/BMCE-Enclave-v-1-0.pdf)
+
+| Item            | Quantity | Material | Included In                           | Cards                                                 | Notes |
+| --------------- | -------- | -------- | ------------------------------------- | ----------------------------------------------------- | ----- |
+| Enclave Soldier | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
+| Tesla Soldier   | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
+| Warrant Officer | 1        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
 
 ### Nuka-World Gangs Raiders
 
@@ -1003,13 +1017,17 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item          | Quantity | Material | Included In                    | Cards                                                      | Notes |
 | ------------- | -------- | -------- | ------------------------------ | ---------------------------------------------------------- | ----- |
+| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                | [Nuka World Rules Expansion][Nuka World Rules Expansion]   |       |
+| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]         | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
 | The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist] | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
 
 ### Super Mutants
 
 [Super Mutants Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/abbb01b5-cf62-43a1-9033-66df0068d8b0/BMCE-Supermutants-v-1-0.pdf)
 
-#### Commonwealth Super Mutants
+[Fallout Wasteland Warfare Super Mutants Miniatures Video](https://www.youtube-nocookie.com/embed/lq46sRF-DyU)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                        |
 | ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -1022,31 +1040,39 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Survivors Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c09206da-4f18-45df-a628-7e0b984b7bc9/BMCE-Survivors-v-1-1.pdf)
 
-#### Commonwealth Survivors
+[Fallout Wasteland Warfare Survivors Miniatures Video](https://www.youtube-nocookie.com/embed/eNUOSiWVgZc)
 
-| Item             | Quantity | Material | Included In                                      | Cards                                                   | Notes                                                                                 |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Dogmeat          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
-| Enslaved Tech    | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
-| Lorenzo Cabot    | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                   | [Enclave Wave Card Expansion Pack][Enclave Card Deck]   |                                                                                       |
-| Mama Murphy      | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
-| Nuka Girl        | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
-| Preston Garvey   | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] | [Painting Guide (Page 6) <i class="fa-regular fa-file-pdf"/>][Rules of Play]          |
-| Ronnie Shaw      | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
-| Settler (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Female) | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]        | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Male)   | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
-| Settler (Male)   | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
-| Sole Survivor    | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]        |                                                                                       |
-| Sturges          | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck] |                                                                                       |
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                   | Quantity | Material | Included In                                      | Cards                                                                    | Notes                                                                                 |
+| ---------------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
+| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
+| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                         | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                       |
+| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                   | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                       |
+| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
+| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
+| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="fa-regular fa-file-pdf"/>][Rules of Play]          |
+| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
+| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                     | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                       |
+| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
+| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
+| Sole Survivor          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
+| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
+| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]               | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                       |
+| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]               | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                       |
 
 [Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
 
 ### Unaligned
 
-| Item                | Quantity | Material | Included In                                | Cards                                                 | Notes |
-| ------------------- | -------- | -------- | ------------------------------------------ | ----------------------------------------------------- | ----- |
-| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
+| Item                | Quantity | Material | Included In                                | Cards                                                                | Notes |
+| ------------------- | -------- | -------- | ------------------------------------------ | -------------------------------------------------------------------- | ----- |
+| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] |       |
+| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Rules Expansion][New Vegas Rules Expansion]               |       |
+| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Wave Expansion Card Pack][Raiders Card Deck]                |       |
 
 ## Game Cards
 
