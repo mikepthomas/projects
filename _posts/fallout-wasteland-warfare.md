@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-12T17:36:52.540Z
+lastmod: 2026-04-13T20:24:30.619Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -126,42 +126,48 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Player Starter Set] box to help organise it's contents.
 
-| Item                                                                      | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Big_Cards](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Small_Cards](https://www.thingiverse.com/thing:3197502/files)            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Deathclaw](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2Lid](https://www.thingiverse.com/thing:3197502/files)              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3](https://www.thingiverse.com/thing:3197502/files)                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3-Lid](https://www.thingiverse.com/thing:3197502/files)             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token4](https://www.thingiverse.com/thing:3197502/files)                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Dice](https://www.thingiverse.com/thing:3197502/files)                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal](https://www.thingiverse.com/thing:3197502/files)      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40Horizontal](https://www.thingiverse.com/thing:3197502/files)       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40_Horizontal_Side](https://www.thingiverse.com/thing:3197502/files) | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Big_Cards][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Small_Cards][Box Insert]            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Deathclaw][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token1Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token2Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3][Box Insert]                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token3-Lid][Box Insert]             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Token4][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Dice][Box Insert]                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal][Box Insert]      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40Horizontal][Box Insert]       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| [Base40_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+
+[Box Insert]: https://www.thingiverse.com/thing:3197502/files
 
 ##### Caps Stash Tub
 
 3D Printed box to hold all your [Nuka Cola Caps][Nuka Cola Caps Set].
 
-| Item                                                      | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom](https://www.thingiverse.com/thing:3140194/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-| [lid](https://www.thingiverse.com/thing:3140194/files)    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Item                     | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom][Caps Stash Tub] | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| [lid][Caps Stash Tub]    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+
+[Caps Stash Tub]: https://www.thingiverse.com/thing:3140194/files
 
 ##### Euro-Mini Card Box
 
 A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Two Player Starter Set] and expansions.
 
-| Item                                                                       | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2](https://www.thingiverse.com/thing:7139338/files)      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [eurobox-top-v2-longer](https://www.thingiverse.com/thing:7139338/files)   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [euroboxv2_double_longer](https://www.thingiverse.com/thing:7139338/files) | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2][Card Box]      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [eurobox-top-v2-longer][Card Box]   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
+| [euroboxv2_double_longer][Card Box] | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
+
+[Card Box]: https://www.thingiverse.com/thing:7139338/files
 
 #### Minatures
 
@@ -221,16 +227,20 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 #### Minatures
 
-| Item                                       |     Purchased      | Digital                                                                                                                                 |     Downloaded     | Notes |
-| ------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Raiders: Core Box][Raiders Core Box]      | :heavy_check_mark: |                                                                                                                                         |                    |       |
-| [Liberty Prime][Liberty Prime]             | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) | :heavy_check_mark: |       |
-| [Mysterious Stranger][Mysterious Stranger] | :heavy_check_mark: |                                                                                                                                         |                    | Promo |
-| [X-01 Survivor & Dogmeat][X01 and Dogmeat] |        :x:         |                                                                                                                                         |                    |       |
+| Item                                                     |     Purchased      | Digital                                                                                                                                 |     Downloaded     | Notes |
+| -------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| [Assaultrons & Protectrons][Assaultrons and Protectrons] |        :x:         |                                                                                                                                         |                    |       |
+| [Raiders: Core Box][Raiders Core Box]                    | :heavy_check_mark: |                                                                                                                                         |                    |       |
+| [Liberty Prime][Liberty Prime]                           | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf) | :heavy_check_mark: |       |
+| [Mysterious Stranger][Mysterious Stranger]               | :heavy_check_mark: |                                                                                                                                         |                    | Promo |
+| [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                                                                                                         |                    |       |
+| [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                                                                                                         |                    |       |
 
+[Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons 'Fallout: Wasteland Warfare - Robots: Assaultrons & Protectrons'
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
 [Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
 [Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
+[Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019 'Fallout: Wasteland Warfare - Robots: Sentry Bot'
 [X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat 'Fallout: Wasteland Warfare - X-01 Survivor & Dogmeat'
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
@@ -383,16 +393,18 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 #### Rules
 
-| Item                                                                                              |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                                                                                          |
-| ------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck]                               | :heavy_check_mark: |                                                                                                                            |                    |                                                                                                                |
-| [Enclave Wave Card Expansion Pack][Enclave Card Deck]                                             | :heavy_check_mark: |                                                                                                                            |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
-| [Into the Wasteland](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland) | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf) | :heavy_check_mark: |                                                                                                                |
-| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                                           | :heavy_check_mark: |                                                                                                                            |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
+| Item                                                                |     Purchased      | Digital                                                           |     Downloaded     | Notes                                                                                                          |
+| ------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                                   |                    |                                                                                                                |
+| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                                   |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
+| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: |                                                                                                                |
+| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                                   |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Fallout: Wasteland Warfare - Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Enclave Wave Card Expansion Pack'
 [Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Fallout: Wasteland Warfare - Wave 1 Fundamentals Card Deck'
+[Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland 'Fallout: Wasteland Warfare - Into the Wasteland'
+[Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf 'Fallout: Wasteland Warfare – Into the Wasteland - PDF'
 
 #### Minatures
 
@@ -475,11 +487,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Caesar's Legion: Core Box][Caesars Legion Core Box] |        :x:         |         |            |       |
 | [NCR: Core Box][NCR Core Box]                        |        :x:         |         |            |       |
 | [NCR Ranger][NCR Ranger]                             |        :x:         |         |            | Promo |
+| [Securitron Enforcers][Securitron Enforcers]         |        :x:         |         |            |       |
 
 [Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
 [NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box 'Fallout: Wasteland Warfare - NCR: Core Box'
 [NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger 'Fallout: Wasteland Warfare - NCR: Ranger'
+[Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers 'Fallout: Wasteland Warfare - Robots: Securitron Enforcers'
 
 #### Scenarios
 
@@ -514,11 +528,15 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | ----------------------------------------- | :----------------: | ------- | :--------: | ----- |
 | [Grognak][Grognak]                        | :heavy_check_mark: |         |            | Promo |
 | [Gunners: Core Box][Gunners Core Box]     |        :x:         |         |            |       |
+| [Mister Handy Pack][Mister Handy Pack]    |        :x:         |         |            |       |
+| [Protectron Workers][Protectron Workers]  |        :x:         |         |            |       |
 | [Railroad: Core Box][Railroad Core Box]   |        :x:         |         |            |       |
 | [Super Mutants: Swan][Super Mutants Swan] |        :x:         |         |            |       |
 
 [Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
+[Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack 'Fallout: Wasteland Warfare - Robots: Mister Handy Pack'
+[Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers 'Fallout: Wasteland Warfare - Robots: Protectron Workers'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
 [Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan 'Fallout: Wasteland Warfare - Super Mutants: Swan'
 
