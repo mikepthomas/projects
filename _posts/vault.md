@@ -34,6 +34,12 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 | ------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
 | [Vault-Tec Poster Girl](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl) | £5    | :heavy_check_mark: |       |
 
+# Vehicles
+
+| Item                                                                                                        | Price |     Purchased      | Notes |
+| ----------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl) | £40   | :heavy_check_mark: |       |
+
 # Vault STL Bundle
 
 The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:

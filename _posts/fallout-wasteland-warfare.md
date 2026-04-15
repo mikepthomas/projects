@@ -11,6 +11,7 @@ description: |
 preview: /assets/blog/fallout-wasteland-warfare/fallout-wasteland-warfare-hero.jpg
 slug: /projects/fallout-wasteland-warfare
 related:
+  - /projects/brotherhood-of-steel
   - /projects/nuka-world
   - /projects/red-rocket
   - /projects/sanctuary-hills
@@ -86,6 +87,8 @@ This tutorial gets you used to the moving mechanics of the game by retrieving a 
 | Item                            | Quantity | Material                                          | Time | Size  | Weight | Cost  | Printed | Notes |
 | ------------------------------- | -------- | ------------------------------------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Wood Crate][Streets of Boston] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) | 12m  | 0.53m | 0.89g  | £0.03 |   :x:   |       |
+
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 
 ##### Tutorial 2: Shooting Range
 
@@ -251,14 +254,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                                       | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                              |
-| ------------------------------------------ | :-------: | ------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------- |
-| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)   |
-| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                               |                    |                                                                                                    |
-| [Junk Barricades][Junk Barricades]         |    :x:    |                                                               |                    |                                                                                                    |
-| [Military Barricades][Military Barricades] |    :x:    |                                                               |                    | Similar items available in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Turrets][Turrets]                         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                    |
+| Item                                       | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                  |
+| ------------------------------------------ | :-------: | ------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- |
+| Corvega Coupe                              |           | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Coupe STL]  | :heavy_check_mark: | Was only released as Print at Home Terrain                                             |
+| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)      |
+| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                               |                    |                                                                                        |
+| [Junk Barricades][Junk Barricades]         |    :x:    |                                                               |                    |                                                                                        |
+| [Military Barricades][Military Barricades] |    :x:    |                                                               |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets][Turrets]                         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                        |
 
+[Corvega Coupe STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl 'Fallout: Wasteland Warfare - Print at Home: Corvega Coupe'
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega 'Fallout: Wasteland Warfare - Terrain Expansion: Corvega Sedan'
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan 'Fallout: Wasteland Warfare - Print At Home: Corvega Atomic V8 Sedan'
 [Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
@@ -348,10 +353,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Accessories
 
-| Item                                 | Purchased | Digital | Downloaded | Notes |
-| ------------------------------------ | :-------: | ------- | :--------: | ----- |
-| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            |       |
-| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            |       |
+| Item                                 | Purchased | Digital | Downloaded | Notes                                                                                 |
+| ------------------------------------ | :-------: | ------- | :--------: | ------------------------------------------------------------------------------------- |
+| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog post](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
+| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog post](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 1'
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 2'
@@ -626,19 +631,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Scenarios
 
-| Item                                             | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                                      |
-| ------------------------------------------------ | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------ |
-| Mr. Fuzzy and The Ghoulish Remnants Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
-| The Dawn of the Mothman Rules Packet             |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
-| The Crater and The Foundation Rules Packet       |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
-| Invasion! Rules Packet                           |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
-| Hungry Hills! Rules Packet                       |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                                            |
-| Spooktober Rules Packet                          |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                                            |
-| Catching Floaters Rules Packet                   |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
-| Wasteland Wildlife Rules Packet                  |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
-| In Sheeps Clothing Rules Packet                  |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
-| Stoic Defenders Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
-| Scorched Plague Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
+| Item                                             | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                       |
+| ------------------------------------------------ | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
+| Mr. Fuzzy and The Ghoulish Remnants Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
+| The Dawn of the Mothman Rules Packet             |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
+| The Crater and The Foundation Rules Packet       |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
+| Invasion! Rules Packet                           |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
+| Hungry Hills! Rules Packet                       |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                             |
+| Spooktober Rules Packet                          |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                             |
+| Catching Floaters Rules Packet                   |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
+| Wasteland Wildlife Rules Packet                  |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
+| In Sheeps Clothing Rules Packet                  |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
+| Stoic Defenders Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
+| Scorched Plague Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
 
 ### Wave 11 - Far Harbor Expansion
 
@@ -658,12 +663,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Scenarios
 
-| Item                                     | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                                      |
-| ---------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------ |
-| Children of Atom Rules Packet            |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Fallout Friday Blog post](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
-| Arcadia and the Harbormen Rules Packet   |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                                            |
-| Creatures of the Fog Rules Packet        |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                                            |
-| Longfellow and the Trappers Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                                            |
+| Item                                     | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                       |
+| ---------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
+| Children of Atom Rules Packet            |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
+| Arcadia and the Harbormen Rules Packet   |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                             |
+| Creatures of the Fog Rules Packet        |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                             |
+| Longfellow and the Trappers Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                             |
 
 ### Amazon TV Sets
 
@@ -747,7 +752,7 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 | Item                | Purchased | Digital                                                                                                                   |     Downloaded     | Notes                                                                                                                                                    |
 | ------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vault-Tec Profile   |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf) | :heavy_check_mark: | [Form Fillable Version <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf) |
-| Vault-Tec Simulator |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/view)     | :heavy_check_mark: | [Vault-Tec Simulator Blog post](https://modiphius.net/blogs/news/vault-tec-simulator)                                                                    |
+| Vault-Tec Simulator |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/view)     | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/vault-tec-simulator)                                                                                        |
 
 # Fallout: Wasteland Warfare Roleplaying Game
 
@@ -1123,123 +1128,31 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 # Print at Home
 
-## Brotherhood of Steel Encampment
-
-![Print at Home - Brotherhood of Steel Encampment](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-656728.jpg)
-
-> Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                                                          | Price |     Purchased      | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Brotherhood of Steel Encampment](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl) | £45   | :heavy_check_mark: |       |
-
-- Campfire
-- Cooking Fire
-- Stump With Axe
-- Wood Pile
-- AA Turret
-- Barricade 1-5
-- Barricade Overturned Jeep
-- Concrete Barricade
-- Jeep
-- Ammo Pouch
-- Bed
-- Camp Stove
-- Construction Light
-- Dufflebag
-- Ham Radio
-- Metal Box
-- Pallet
-- Radio
-- Sleeping Bag
-- Table
-- Platform Curved
-- Platform Stairs
-- Platform Straight
-- Corpse 1-3
-- Tent 1-4
-- Tent Floor Large 1-6
-- Tent Floor Small 1-4
-
-## Cult of the Mothman Altar
-
-![Print at Home - Cult of the Mothman Altar](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar-fallout-wasteland-warfare-modiphius-entertainment-616475.jpg)
-
-> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                                                          | Price | Purchased | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ----- |
-| [Cult of the Mothman Altar](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar) | £45   |    :x:    |       |
-
-- Canopy Bed
-- Chair
-- Shelf
-- Table
-- Large Totem 1-2
-- Cannibal Tree Trunk
-- Small Totem 1-3
-- Candles 1-2
-- Gargoyle
-- Statue
-- Throne of Bone
-- Throne Platform
-- Wise Mothman Throne
-- Effigy
-- Ceiling Light
-- Table Light
-- Torch 1-3
-- Backpack
-- Stein
-
-## Metal Dome
-
-![Print at Home - Metal Dome](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-metal-dome-fallout-wasteland-warfare-modiphius-entertainment-982340.jpg)
-
-> Image © 2023 [Modiphius Entertainment](https://modiphius.net/)
-
-| Item                                                                                            | Price | Purchased | Notes |
-| ----------------------------------------------------------------------------------------------- | ----- | :-------: | ----- |
-| [Metal Dome](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome) | £45   |    :x:    |       |
-
-- Blood Rock
-- Buried Car
-- Buried Lorry - Closed
-- Buried Lorry - Open
-- Buried Truck
-- Fuel Tank
-- Oil Drums
-- Pipe
-- Radioactive Rock
-- Robot Fabricator - Closed
-- Robot Fabricator - Open
-
-## Scatter
-
-| Item                                            | Price |     Purchased      | Notes |
-| ----------------------------------------------- | ----- | :----------------: | ----- |
-| [Art Deco Statues][Art Deco Statues]            | £20   |        :x:         |       |
-| [Chems, Meds and Food][Chems Meds and Food]     | £20   | :heavy_check_mark: |       |
-| [Meat and Gore][Meat and Gore]                  | £45   |        :x:         |       |
-| [Scorched Statues][Scorched Statues]            | £20   |        :x:         |       |
-| [Settlement Walls][Settlement Walls]            | £20   | :heavy_check_mark: |       |
-| [Streets of Boston][Streets of Boston]          | £20   | :heavy_check_mark: |       |
-| [The Deep][The Deep]                            | £20   |        :x:         |       |
-| [The Pack: Animal Decor][The Pack Animal Decor] | £10   |        :x:         |       |
-| [Toys and Bobbleheads][Toys and Bobbleheads]    | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters][Wasteland Critters]        | £20   | :heavy_check_mark: |       |
+| Item                                                   | Price |     Purchased      | Notes |
+| ------------------------------------------------------ | ----- | :----------------: | ----- |
+| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         |       |
+| [Chems, Meds and Food][Chems Meds and Food]            | £20   | :heavy_check_mark: |       |
+| [Cult of the Mothman Altar][Cult of the Mothman Altar] | £45   |        :x:         |       |
+| [Meat and Gore][Meat and Gore]                         | £45   |        :x:         |       |
+| [Metal Dome][Metal Dome]                               | £45   |        :x:         |       |
+| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         |       |
+| [The Deep][The Deep]                                   | £20   |        :x:         |       |
+| [The Pack: Animal Decor][The Pack Animal Decor]        | £10   |        :x:         |       |
+| [Toys and Bobbleheads][Toys and Bobbleheads]           | £20   | :heavy_check_mark: |       |
+| [Wasteland Critters][Wasteland Critters]               | £20   | :heavy_check_mark: |       |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
+[Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
 [Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
-[Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 [The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
 [The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
 [Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
 [Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
 
-### Basing Greebles Bundle
+## Basing Greebles Bundle
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
@@ -1258,17 +1171,3 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 [Plants and Crops]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops
 [Skulls and Bones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones
 [Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
-
-## Vehicles
-
-| Item                                                                                                                | Price |     Purchased      | Notes                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------------------------- |
-| [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)                 | £20   | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
-| [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles)             | £40   | :heavy_check_mark: | Will be used in [Sanctuary Hills](sanctuary-hills)                                      |
-| [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)       | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)               | £5    | :heavy_check_mark: | Will be used in the [Nuka-World Parking Lot](nuka-world)                                |
-| [Industrial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl)         | £40   | :heavy_check_mark: | Will be used in the [Vault](vault)                                                      |
-| [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl) | £20   | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)       | £5    | :heavy_check_mark: | Included with [Nuka-World Parking Lot](nuka-world)                                      |
-| [Pre-war APC](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc)               | £5    | :heavy_check_mark: | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |
-| [Tank](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl)                         | £25   |        :x:         | Will be used in the [Brotherhood of Steel Encampment](#brotherhood-of-steel-encampment) |

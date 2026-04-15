@@ -1980,6 +1980,13 @@
             "caption": "",
             "alt": "3D render of the Corvus ATX Panels"
           }
+        },
+        "brotherhood-of-steel": {
+          "brotherhood-of-steel-hero.jpg": {
+            "title": "Brotherhood of Steel Hero",
+            "caption": "Image © 2022 Modiphius Entertainment",
+            "alt": "3D render of the Brotherhood of Steel Encampment"
+          }
         }
       }
     }

@@ -35,6 +35,12 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
+## Vehicles
+
+| Item                                                                                                    | Price |     Purchased      | Notes |
+| ------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
+| [Commercial Vehicles](https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles) | £40   | :heavy_check_mark: |       |
+
 # Printing Parts
 
 ## Walls
