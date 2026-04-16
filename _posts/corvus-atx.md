@@ -3,7 +3,7 @@ title: Corvus ATX
 heading: |
   Corvus ATX: The 3D Printed, PC Case
 date: 2026-03-29T17:15:51.154Z
-lastmod: 2026-04-05T16:14:13.572Z
+lastmod: 2026-04-16T23:15:09.565Z
 author: Mike Thomas
 description: Building a 3D printed, Voron inspired, computer case for my gaming PC
 preview: /assets/blog/corvus-atx/corvus-hero.jpg
@@ -208,9 +208,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                        | Quantity | Notes                             |
 | --------------------------- | -------- | --------------------------------- |
+| M3x8 BHCS                   | 9        | For Mounting Motherboard          |
+| M3 Threaded Insert (M3x5x4) | 12       | For Motherboard Mounts            |
+| M3 Washer                   | 9        | For Mounting Motherboard          |
 | M5x10 BHCS                  | 7        | Holds Motherboard Mounts to Frame |
 | M5 Post-install T-nut       | 7        | Holds Motherboard Mounts to Frame |
-| M3 Threaded Insert (M3x5x4) | 12       | For Motherboard Mounts            |
 
 ### :negative_squared_cross_mark: Universal Motherboard Mounting
 
@@ -587,9 +589,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 | Item                        | Quantity | Notes |
 | --------------------------- | -------- | ----- |
-| M3x8 BHCS                   | 9        |       |
 | M3x8 SHCS                   | 4        |       |
 | M3x10 BHCS                  | 4        |       |
 | M3 Threaded Insert (M3x5x4) | 14       |       |
-| M3 Washer                   | 9        |       |
 | M5x10 BHCS                  | 2        |       |
