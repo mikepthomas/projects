@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-13T20:24:30.619Z
+lastmod: 2026-04-16T22:10:57.357Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -178,7 +178,7 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | ------------------------------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
 | [Boston Companions][Boston Companions]                 |        :x:         |         |            |                                                                                           |
 | [Brotherhood of Steel: Core Box][BoS Core Box]         |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
-| [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] |        :x:         |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
+| [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
 | [Nuka Cola Girl][Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                                                     |
 | [Super Mutants: Behemoth][Super Mutants Behemoth]      |        :x:         |         |            |                                                                                           |
 | [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                                           |
@@ -710,26 +710,32 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2 Wasteland Locales].
 
-| Item                                                             | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom_part_1](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [bottom_part_2](https://www.thingiverse.com/thing:4080651/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [top_part_1](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
-| [top_part_2](https://www.thingiverse.com/thing:4080651/files)    | 1        |          |      |      |        |      |   :x:   |       |
+| Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom_part_1][Drumlin Diner] | 1        |          |      |      |        |      |   :x:   |       |
+| [bottom_part_2][Drumlin Diner] | 1        |          |      |      |        |      |   :x:   |       |
+| [top_part_1][Drumlin Diner]    | 1        |          |      |      |        |      |   :x:   |       |
+| [top_part_2][Drumlin Diner]    | 1        |          |      |      |        |      |   :x:   |       |
+
+[Drumlin Diner]: https://www.thingiverse.com/thing:4080651/files
 
 ##### Sign
 
-| Item                                                                  | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [drumlin_diner_sign](https://www.thingiverse.com/thing:3099945/files) | 1        |          |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [drumlin_diner_sign][Drumlin Diner Sign] | 1        |          |      |      |        |      |   :x:   |       |
+
+[Drumlin Diner Sign]: https://www.thingiverse.com/thing:3099945/files
 
 ##### Furniture
 
-| Item                                                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [seat](https://www.thingiverse.com/thing:3132141/files)  | 1        |          |      |      |        |      |   :x:   |       |
-| [stool](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
-| [table](https://www.thingiverse.com/thing:3132141/files) | 1        |          |      |      |        |      |   :x:   |       |
+| Item                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [seat][Diner Furniture]  | 1        |          |      |      |        |      |   :x:   |       |
+| [stool][Diner Furniture] | 1        |          |      |      |        |      |   :x:   |       |
+| [table][Diner Furniture] | 1        |          |      |      |        |      |   :x:   |       |
+
+[Diner Furniture]: https://www.thingiverse.com/thing:3132141/files
 
 ## Battle Mode
 
