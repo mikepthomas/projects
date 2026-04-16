@@ -653,13 +653,17 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 | Item                                                        |     Purchased      | Digital | Downloaded | Notes |
 | ----------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Big Fish][Big Fish]                                        |        :x:         |         |            |       |
 | [Children of Atom: Choir][Children of Atom Choir]           |        :x:         |         |            |       |
 | [Children of Atom: Priesthood][Children of Atom Priesthood] |        :x:         |         |            |       |
 | [Old Longfellow][Old Longfellow]                            | :heavy_check_mark: |         |            | Promo |
+| [Trappers][Trappers]                                        |        :x:         |         |            |       |
 
+[Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish 'Fallout: Miniatures - Raiders - Big Fish'
 [Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Fallout: Miniatures - Children of Atom: Choir'
 [Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Fallout: Miniatures - Children of Atom: Priesthood'
 [Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Fallout: Wasteland Warfare - Survivors: Old Longfellow'
+[Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers 'Fallout: Miniatures - Raiders - Trappers'
 
 #### Scenarios
 
