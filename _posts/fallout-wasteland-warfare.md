@@ -1044,11 +1044,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Robots Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf)
 
-| Item          | Quantity | Material | Included In                    | Cards                                                      | Notes |
-| ------------- | -------- | -------- | ------------------------------ | ---------------------------------------------------------- | ----- |
-| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                | [Nuka World Rules Expansion][Nuka World Rules Expansion]   |       |
-| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]         | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
-| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist] | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
+| Item          | Quantity | Material | Included In                                            | Cards                                                      | Notes |
+| ------------- | -------- | -------- | ------------------------------------------------------ | ---------------------------------------------------------- | ----- |
+| Codsworth     | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]    |       |
+| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                                        | [Nuka World Rules Expansion][Nuka World Rules Expansion]   |       |
+| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]                                 | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
+| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist]                         | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
 
 ### Super Mutants
 
@@ -1058,12 +1059,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                        |
-| ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Aviator      | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                              |
-| Brute        | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                              |
-| Mutant Hound | 2        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                              |
-| Super Mutant | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide (Page 7) <i class="fa-regular fa-file-pdf"/>][Rules of Play] |
+| Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                                                        |
+| ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Aviator      | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                                                              |
+| Brute        | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                                                              |
+| Mutant Hound | 2        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Blog Post](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
+| Super Mutant | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide (Page 7) <i class="fa-regular fa-file-pdf"/>][Rules of Play]                                 |
 
 ### Survivors
 
@@ -1073,25 +1074,27 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                   | Quantity | Material | Included In                                      | Cards                                                                    | Notes                                                                                 |
-| ---------------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
-| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
-| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                         | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                       |
-| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                   | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                       |
-| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
-| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
-| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="fa-regular fa-file-pdf"/>][Rules of Play]          |
-| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
-| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                     | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                       |
-| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
-| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
-| Sole Survivor          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                       |
-| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]        | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                       |
-| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]               | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                       |
-| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]               | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                       |
+| Item                   | Quantity | Material | Included In                                            | Cards                                                                    | Notes                                                                                                        |
+| ---------------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Blog Post](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
+| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Blog Post](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
+| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                              |
+| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                                              |
+| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                                              |
+| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                              |
+| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                              |
+| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="fa-regular fa-file-pdf"/>][Rules of Play]                                 |
+| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                              |
+| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                                              |
+| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide]                        |
+| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="fa-regular fa-file-pdf"/>][Survivor Settler Painting Guide]                        |
+| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                              |
+| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                              |
+| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                              |
+| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                              |
+| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                              |
+| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                                              |
+| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                                              |
 
 [Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
 
