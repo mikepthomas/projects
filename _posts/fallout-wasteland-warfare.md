@@ -44,15 +44,13 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 `Fallout: Wasteland Warfare` is a tabletop miniatures wargame for the Fallout Series.
 
-## Items
-
 [Release Tracker of items released in waves 1-7](https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Release_Tracker_-_121022.pdf).
 
-### Wave 1 - Starter Set
+## Wave 1 - Starter Set
 
 Wave 1 introduces the game with the `Two Player Starter Set` which contains everything you need to learn how to play the game.
 
-#### Rules
+### Rules
 
 | Item                                             |     Purchased      | Digital                                                        |     Downloaded     | Notes                                                                              |
 | ------------------------------------------------ | :----------------: | -------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------- |
@@ -70,7 +68,7 @@ Wave 1 introduces the game with the `Two Player Starter Set` which contains ever
 [Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
 [Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature
 
-#### Getting Acclimated
+### Getting Acclimated
 
 A good place to start is the video series that Modiphus has put together which goes over the basics at a very high level:
 
@@ -80,7 +78,7 @@ A good place to start is the video series that Modiphus has put together which g
 
 The Getting Acclimated book explains further detail and has a few Tutorials so that you can try out the game mechanics.
 
-##### Tutorial 1: Navigating the Wastes
+#### Tutorial 1: Navigating the Wastes
 
 This tutorial gets you used to the moving mechanics of the game by retrieving a 10mm Pistol from a crate.
 
@@ -90,7 +88,7 @@ This tutorial gets you used to the moving mechanics of the game by retrieving a 
 
 [Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 
-##### Tutorial 2: Shooting Range
+#### Tutorial 2: Shooting Range
 
 This tutorial gets you used to the shooting mechanics of the game by shooting cans with your new 10mm Pistol.
 
@@ -98,7 +96,7 @@ This tutorial gets you used to the shooting mechanics of the game by shooting ca
 | ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) | 2m   | 0.04m | 0.10g  | £0.01 |   :x:   |       |
 
-##### Tutorial 3: Weird Harvest
+#### Tutorial 3: Weird Harvest
 
 This tutorial gets introduces melee mechanics of the game by destroying Mutfruit with a Baseball Bat.
 
@@ -106,7 +104,7 @@ This tutorial gets introduces melee mechanics of the game by destroying Mutfruit
 | ------------------------------------ | -------- | ------------------------------------------------------ | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)](printer-filament#esun-abs-purple) | 15m  | 0.40m | 1.02g  | £0.02 |   :x:   |       |
 
-##### Tutorial 4: Solving the Rat Problem
+#### Tutorial 4: Solving the Rat Problem
 
 This tutorial brings together all that we have learned so far by using a Hunting Rifle to seal up some dangerous looking Mole Rat mounds.
 
@@ -116,7 +114,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 [Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
-#### Accessories
+### Accessories
 
 | Item                                           |     Purchased      | Digital                                                                         |     Downloaded     | Notes                                                                                                                                                          |
 | ---------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,7 +125,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
 [Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
 
-##### Box Insert
+#### Box Insert
 
 These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Player Starter Set] box to help organise it's contents.
 
@@ -151,7 +149,7 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Pl
 
 [Box Insert]: https://www.thingiverse.com/thing:3197502/files
 
-##### Caps Stash Tub
+#### Caps Stash Tub
 
 3D Printed box to hold all your [Nuka Cola Caps][Nuka Cola Caps Set].
 
@@ -162,7 +160,7 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Pl
 
 [Caps Stash Tub]: https://www.thingiverse.com/thing:3140194/files
 
-##### Euro-Mini Card Box
+#### Euro-Mini Card Box
 
 A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Two Player Starter Set] and expansions.
 
@@ -174,7 +172,7 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 [Card Box]: https://www.thingiverse.com/thing:7139338/files
 
-#### Minatures
+### Minatures
 
 | Item                                                   |     Purchased      | Digital | Downloaded | Notes                                                                                     |
 | ------------------------------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
@@ -194,7 +192,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 [Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
 [Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box
 
-#### Scenarios
+### Scenarios
+
+#### Fallout Wasteland Warfare Box
 
 | Item                                     | Purchased | Digital                                                                                                                                    |     Downloaded     | Notes |
 | ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
@@ -210,15 +210,15 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | SCP-010-111: Benny's Request             |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: |       |
 | SCP-011-111: Atomic Sprint!              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: |       |
 
-Items Needed:
+##### Big John’s Salvage Showdown
 
-| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                       |
-| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | --------------------------- |
-| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   | Big John’s Salvage Showdown |
+| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |       |
 
 [Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 
-##### Robots
+#### Robots
 
 | Item                            | Purchased | Digital                                                                                                                                     |     Downloaded     | Notes |
 | ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
@@ -227,7 +227,7 @@ Items Needed:
 | SCP-014-111: Deadly Run         |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: |       |
 | SCP-015-111: Target Locked      |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: |       |
 
-##### Creatures
+#### Creatures
 
 | Item                                  | Purchased | Digital                                                                                                                                        |     Downloaded     | Notes |
 | ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
@@ -237,23 +237,23 @@ Items Needed:
 | SCP-019-111: Chemtest Pit             |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: |       |
 | SCP-020-111: Den of Pestilence        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: |       |
 
-##### Promo
+#### Promo
 
 | Item                   | Purchased | Digital                                                                                                                                         |     Downloaded     | Notes                         |
 | ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- |
 | SCP-021-111: The Shoot |           | [Read on Reddit <i class="fa-brands fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | Scenario for `Nuka Cola Girl` |
 
-Items Needed:
+##### The Shoot
 
-| Item                                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes     |
-| -------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | --------- |
-| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   | The Shoot |
+| Item                                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
 
-### Wave 2 - Raiders
+## Wave 2 - Raiders
 
 Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
 
-#### Rules
+### Rules
 
 | Item                                                  |     Purchased      | Digital                                                             |     Downloaded     | Notes                                                                   |
 | ----------------------------------------------------- | :----------------: | ------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------- |
@@ -263,7 +263,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
 
-#### Accessories
+### Accessories
 
 | Item                                         |     Purchased      | Digital                                                                  |     Downloaded     | Notes |
 | -------------------------------------------- | :----------------: | ------------------------------------------------------------------------ | :----------------: | ----- |
@@ -274,7 +274,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 [Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
 [Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack
 
-#### Minatures
+### Minatures
 
 | Item                                                     |     Purchased      | Digital                                                          |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ----- |
@@ -297,7 +297,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Scatter
+### Scatter
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
@@ -317,7 +317,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 [Scenic Set Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
 [Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets
 
-##### Streets of Boston
+#### Streets of Boston
 
 ![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
 
@@ -339,7 +339,7 @@ Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-bo
 [Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines
 [Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers
 
-##### Vault Tec Office
+#### Vault Tec Office
 
 ![Vault Tech Office Bundle](https://modiphius.net/cdn/shop/products/FO_Week_04_VaultecBundle_Webstore_Image1_1280x.jpg)
 
@@ -359,7 +359,7 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 [Vault Tec Lockers]: https://modiphius.net/products/fallout-wasteland-warfare-vault-tec-lockers
 [Vault Tec Supplies]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-tec-supplies
 
-#### Scenarios
+### Scenarios
 
 | Item                                          |     Purchased      | Digital                                                                     |     Downloaded     | Notes                                                                           |
 | --------------------------------------------- | :----------------: | --------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- |
@@ -371,7 +371,7 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 [The Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
 
-##### The Beast of the Bottling Plant
+#### The Beast of the Bottling Plant
 
 Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scenarios:
 
@@ -379,16 +379,16 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-##### Raid the Crash Site
+#### Raid the Crash Site
 
 This scenario was designed for using the `Crashed Vertibird`.
 I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
 
-### Wave 3 - Institute
+## Wave 3 - Institute
 
 Wave 3 expands on the base game, introducing the `Institute` faction, with new Minatures and Card Deck.
 
-#### Rules
+### Rules
 
 | Item                                                       |     Purchased      | Digital                                                                     |     Downloaded     | Notes                                             |
 | ---------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- | :----------------: | ------------------------------------------------- |
@@ -401,7 +401,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
 [Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
-#### Accessories
+### Accessories
 
 | Item                                 | Purchased | Digital | Downloaded | Notes                                                                                 |
 | ------------------------------------ | :-------: | ------- | :--------: | ------------------------------------------------------------------------------------- |
@@ -411,7 +411,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
-#### Minatures
+### Minatures
 
 | Item                                      |     Purchased      | Digital | Downloaded | Notes                                                                                     |
 | ----------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
@@ -425,7 +425,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
 [Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
 
-#### Scatter
+### Scatter
 
 | Item                                               | Purchased | Digital                                                    |     Downloaded     | Notes |
 | -------------------------------------------------- | :-------: | ---------------------------------------------------------- | :----------------: | ----- |
@@ -437,7 +437,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
 [Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches
 
-#### Scenarios
+### Scenarios
 
 | Item                                            |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                                               |
 | ----------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------- |
@@ -446,11 +446,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 
-### Wave 4 - Enclave
+## Wave 4 - Enclave
 
 Wave 4 expands on the base game, introducing the `Enclave` faction, with new Minatures and Card Deck.
 
-#### Rules
+### Rules
 
 | Item                                                                |     Purchased      | Digital                                                           |     Downloaded     | Notes                                                                                                          |
 | ------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
@@ -465,7 +465,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
-#### Minatures
+### Minatures
 
 | Item                                                   |     Purchased      | Digital                                                                                                                        |     Downloaded     | Notes |
 | ------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
@@ -481,7 +481,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
 [T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 
-#### Scatter
+### Scatter
 
 | Item                                 | Purchased | Digital                                                            |     Downloaded     | Notes |
 | ------------------------------------ | :-------: | ------------------------------------------------------------------ | :----------------: | ----- |
@@ -493,7 +493,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
 [Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
 
-#### Scenarios
+### Scenarios
 
 | Item                                         | Purchased | Digital                                                                                                                                       |     Downloaded     | Notes                                  |
 | -------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
@@ -503,7 +503,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf) | :heavy_check_mark: |                                        |
 | SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf) | :heavy_check_mark: |                                        |
 
-##### Automaton Assembly
+#### Automaton Assembly
 
 This scenario was designed for using the `Robot Work Bench`.
 
@@ -522,7 +522,7 @@ This scenario was designed for using the `Robot Work Bench`.
 | [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 | [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
 
-### Wave 5 - New Vegas Expansion
+## Wave 5 - New Vegas Expansion
 
 In Wave 5, Modiphius changed the way they release content. In this Wave they released the new cards as part of a `New Vegas Expansion` which also contains a rules booklet which expands on the base game.
 
@@ -530,7 +530,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                                   |     Purchased      | Digital                                                                           |     Downloaded     | Notes                                                                       |
 | ------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
@@ -539,7 +539,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
 
-#### Minatures
+### Minatures
 
 | Item                                                 |     Purchased      | Digital | Downloaded | Notes |
 | ---------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -555,7 +555,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
 [Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
 
-#### Scenarios
+### Scenarios
 
 | Item                   | Purchased | Digital                                                                                                                       |     Downloaded     | Notes |
 | ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
@@ -564,13 +564,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Border Patrol          |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Border_Patrol_002w.pdf)          | :heavy_check_mark: |       |
 | No Dice                |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/No_Dice_002w.pdf)                | :heavy_check_mark: |       |
 
-### Wave 6 - Commonwealth Expansion
+## Wave 6 - Commonwealth Expansion
 
 [Fallout: Wasteland Warfare - Wave 6: Commonwealth Video](https://www.youtube-nocookie.com/embed/NvRzPgSjSxY)
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                                                 |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                                 |
 | -------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
@@ -582,7 +582,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
 
-#### Minatures
+### Minatures
 
 | Item                                      |     Purchased      | Digital | Downloaded | Notes |
 | ----------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -600,13 +600,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
 [Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
 
-### Wave 7 - Forged in the Fire Expansion
+## Wave 7 - Forged in the Fire Expansion
 
 [Fallout: Wasteland Warfare - Wave 7: Forged in the Fire Video](https://www.youtube-nocookie.com/embed/Y1CGbUW-UWM)
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                                                     |     Purchased      | Digital                                                              |     Downloaded     | Notes |
 | ------------------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------- | :----------------: | ----- |
@@ -616,7 +616,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
-#### Minatures
+### Minatures
 
 | Item                                        |     Purchased      | Digital | Downloaded | Notes |
 | ------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -628,19 +628,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
 [The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
 
-#### Scenarios
+### Scenarios
 
 | Item                                        | Purchased | Digital                                                                                                                                        |     Downloaded     | Notes |
 | ------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: |       |
 
-### Wave 8 - Capital Expansion
+## Wave 8 - Capital Expansion
 
 [Fallout: Wasteland Warfare - Wave 8: Capital Video](https://www.youtube-nocookie.com/embed/QhN7G6K64TQ)
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                               |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -648,7 +648,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
 
-#### Minatures
+### Minatures
 
 | Item                                |     Purchased      | Digital | Downloaded | Notes                                  |
 | ----------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
@@ -660,13 +660,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
 [T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
 
-### Wave 9 - Nuka-World Expansion
+## Wave 9 - Nuka-World Expansion
 
 [Fallout: Wasteland Warfare - Wave 9: Nuka World Video](https://www.youtube-nocookie.com/embed/Rpt7ofp0PIE)
 
 > Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
@@ -674,7 +674,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 [Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
 
-#### Minatures
+### Minatures
 
 | Item                                            |     Purchased      | Digital | Downloaded | Notes |
 | ----------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -690,7 +690,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [The Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
 [X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
 
-#### Scenarios
+### Scenarios
 
 | Item                       | Purchased | Digital                                                                                                                                   |     Downloaded     | Notes |
 | -------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
@@ -698,13 +698,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Oh, a Hunting We Shall Go! |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf) | :heavy_check_mark: |       |
 | Cappy in a Haystack        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf)   | :heavy_check_mark: |       |
 
-### Wave 10 - The Wilds of Appalachia Expansion
+## Wave 10 - The Wilds of Appalachia Expansion
 
 [Fallout: Factions & Wasteland Warfare - Wave 10: The Wilds of Appalachia Video](https://www.youtube-nocookie.com/embed/Ru0CrPVhOx4)
 
 > Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                             | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                       |
 | ------------------------------------------------ | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
@@ -720,7 +720,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Stoic Defenders Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
 | Scorched Plague Rules Packet                     |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
 
-#### Minatures
+### Minatures
 
 | Item                                   |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -730,7 +730,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
-#### Scenarios
+### Scenarios
 
 | Item                       | Purchased | Digital                                                                                                               |     Downloaded     | Notes |
 | -------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
@@ -746,13 +746,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Grafton Day Parade!        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/1EJaT-36dG1ZsTTF-XTTQTyHc9gQc9sUv/preview) | :heavy_check_mark: |       |
 | Hole Lotta Trouble!        |           | [Free <i class="fa-regular fa-file-pdf"/>](https://drive.google.com/file/d/12jmWwkkY3h7P2xhER_EWhe32Wh2TfN1j/preview) | :heavy_check_mark: |       |
 
-### Wave 11 - Far Harbor Expansion
+## Wave 11 - Far Harbor Expansion
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
 > Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Rules
+### Rules
 
 | Item                                     | Purchased | Digital                                                                                                                 |     Downloaded     | Notes                                                                       |
 | ---------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
@@ -761,7 +761,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Creatures of the Fog Rules Packet        |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                             |
 | Longfellow and the Trappers Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                             |
 
-#### Minatures
+### Minatures
 
 | Item                                                        |     Purchased      | Digital | Downloaded | Notes |
 | ----------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -777,15 +777,15 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow
 [Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers
 
-### Amazon TV Sets
+## Amazon TV Sets
 
-#### Rules
+### Rules
 
 | Item                                  | Purchased | Digital                                                                                                                 |     Downloaded     | Notes |
 | ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
 | Hollywood Heroes & Icons Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2) | :heavy_check_mark: |       |
 
-#### Minatures
+### Minatures
 
 | Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes                                  |
 | ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
