@@ -204,6 +204,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | The Undiscovered Vault      |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf)          | :heavy_check_mark: |                               |
 | The Zetan Incident          |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)               | :heavy_check_mark: | Scenario for `Zetan`          |
 
+##### Big John’s Salvage Showdown
+
+| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |       |
+
+[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
+
 ### Wave 2 - Raiders
 
 Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
@@ -276,7 +284,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 ![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-boston).
 
@@ -298,7 +306,7 @@ Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-bo
 
 ![Vault Tech Office Bundle](https://modiphius.net/cdn/shop/products/FO_Week_04_VaultecBundle_Webstore_Image1_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office-bundle)
 
@@ -454,7 +462,7 @@ This scenario was designed for using the `Robot Work Bench`.
 
 ![Robot Work Bench](https://modiphius.net/cdn/shop/products/RobotWorkbench_RGB-150dpi_1_95b5deb5-1571-4a49-8e42-b6ce3b90d411_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
