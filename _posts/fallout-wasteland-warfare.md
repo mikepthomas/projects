@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-16T22:10:57.357Z
+lastmod: 2026-04-17T23:10:59.538Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -210,6 +210,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | SCP-010-111: Benny's Request             |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: |       |
 | SCP-011-111: Atomic Sprint!              |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: |       |
 
+Items Needed:
+
+| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                       |
+| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | --------------------------- |
+| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   | Big John’s Salvage Showdown |
+
+[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
+
 ##### Robots
 
 | Item                            | Purchased | Digital                                                                                                                                     |     Downloaded     | Notes |
@@ -235,25 +243,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- |
 | SCP-021-111: The Shoot |           | [Read on Reddit <i class="fa-brands fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | Scenario for `Nuka Cola Girl` |
 
-##### Fallout Friday
+Items Needed:
 
-| Item                                | Purchased | Digital                                                                                                                                |     Downloaded     | Notes                                                                           |
-| ----------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- |
-| SCP-034-111: The Undiscovered Vault |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays) |
-
-##### Big John’s Salvage Showdown
-
-| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |       |
-
-[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
-
-##### The Shoot
-
-| Item                                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
+| Item                                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes     |
+| -------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | --------- |
+| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   | The Shoot |
 
 ### Wave 2 - Raiders
 
@@ -367,11 +361,14 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 
 #### Scenarios
 
-| Item                                          |     Purchased      | Digital                                                                                                                                |     Downloaded     | Notes                                    |
-| --------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------- |
-| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |                                          |
-| [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                                                                                        |                    | Part of the `Raiders Organised Play Kit` |
+| Item                                          |     Purchased      | Digital                                                                     |     Downloaded     | Notes                                                                           |
+| --------------------------------------------- | :----------------: | --------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- |
+| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="fa-regular fa-file-pdf"/>][The Undiscovered Vault]          | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays) |
+| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="fa-regular fa-file-pdf"/>][The Beast of the Bottling Plant] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/wave-2-document-updates)                |
+| [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                             |                    | Part of the `Raiders Organised Play Kit`                                        |
 
+[The Undiscovered Vault]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf
+[The Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
 
 ##### The Beast of the Bottling Plant
@@ -393,13 +390,15 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Rules
 
-| Item                                                       |     Purchased      | Digital                                                                                                                                      |     Downloaded     | Notes                                             |
-| ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------- |
-| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book)    | :heavy_check_mark: |                                                   |
-| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                                                                                              |                    | Contains required cards for `Institute: Core Box` |
-| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) | :heavy_check_mark: | Contains required cards for `The Mechanist`       |
+| Item                                                       |     Purchased      | Digital                                                                     |     Downloaded     | Notes                                             |
+| ---------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- | :----------------: | ------------------------------------------------- |
+| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="fa-regular fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |                                                   |
+| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                             |                    | Contains required cards for `Institute: Core Box` |
+| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-regular fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | Contains required cards for `The Mechanist`       |
 
 [Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
+[Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
+[Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
 [Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
 #### Accessories
@@ -628,6 +627,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
 [The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
+
+#### Scenarios
+
+| Item                                        | Purchased | Digital                                                                                                                                        |     Downloaded     | Notes |
+| ------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: |       |
 
 ### Wave 8 - Capital Expansion
 
