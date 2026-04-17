@@ -29,6 +29,26 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
 
+# Basing Greebles Bundle
+
+The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
+
+| Item                 | Purchased | Digital                                                             |     Downloaded     | Notes |
+| -------------------- | :-------: | ------------------------------------------------------------------- | :----------------: | ----- |
+| Downtown Debris      |           | [Buy <i class="fa-regular fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: |       |
+| Logs, Stumps & Roots |           | [Buy <i class="fa-regular fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: |       |
+| Mushrooms & Fungi    |           | [Buy <i class="fa-regular fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: |       |
+| Plants & Crops       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: |       |
+| Skulls & Bones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: |       |
+| Slabs & Stones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: |       |
+
+[Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
+[Logs Stumps and Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
+[Mushrooms and Fungi]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi
+[Plants and Crops]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops
+[Skulls and Bones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
+
 # Sanctuary Hills House
 
 | Item                  | Purchased | Digital                                                             |     Downloaded     | Notes |
