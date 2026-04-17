@@ -593,14 +593,22 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                               |     Purchased      | Digital | Downloaded | Notes                                  |
-| -------------------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
-| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |                                        |
-| [Reilly's Rangers][Reillys Rangers]                |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Rosa Meitner][Rosa Meitner]                       | :heavy_check_mark: |         |            | Promo                                  |
-| [T-45 Heavy Armor][T45 Heavy Armor]                |        :x:         |         |            |                                        |
+#### Rules
+
+| Item                                               |     Purchased      | Digital | Downloaded | Notes |
+| -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
+
+#### Minatures
+
+| Item                                |     Purchased      | Digital | Downloaded | Notes                                  |
+| ----------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
+| [Reilly's Rangers][Reillys Rangers] |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Rosa Meitner][Rosa Meitner]        | :heavy_check_mark: |         |            | Promo                                  |
+| [T-45 Heavy Armor][T45 Heavy Armor] |        :x:         |         |            |                                        |
+
 [Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
 [T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
@@ -611,14 +619,28 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2023 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Rules
+
 | Item                                                     |     Purchased      | Digital                                                                                                                  |     Downloaded     | Notes |
 | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [N.I.R.A][NIRA]                                          | :heavy_check_mark: |                                                                                                                          |                    | Promo |
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
-| [X-01 Power Armor][X01 Power Armor]                      |        :x:         |                                                                                                                          |                    |       |
+
+[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
+
+#### Minatures
+
+| Item                                            |     Purchased      | Digital | Downloaded | Notes |
+| ----------------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [N.I.R.A][NIRA]                                 | :heavy_check_mark: |         |            | Promo |
+| [The Disciples: Leaders][The Disciples Leaders] |        :x:         |         |            |       |
+| [The Operators: Bosses][The Operators Bosses]   |        :x:         |         |            |       |
+| [The Pack: Top Dogs][The Pack Top Dogs]         |        :x:         |         |            |       |
+| [X-01 Power Armor][X01 Power Armor]             |        :x:         |         |            |       |
 
 [NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo
-[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
+[The Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
+[The Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
+[The Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
 [X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
 
 #### Scenarios
@@ -634,6 +656,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Fallout: Factions & Wasteland Warfare - Wave 10: The Wilds of Appalachia Video](https://www.youtube-nocookie.com/embed/Ru0CrPVhOx4)
 
 > Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
+
+#### Minatures
 
 | Item                                   |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | ----- |
@@ -665,6 +689,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Minatures
+
 | Item                                                        |     Purchased      | Digital | Downloaded | Notes |
 | ----------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
 | [Big Fish][Big Fish]                                        |        :x:         |         |            |       |
@@ -689,6 +715,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Longfellow and the Trappers Rules Packet |           | [Free <i class="fa-regular fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                             |
 
 ### Amazon TV Sets
+
+#### Minatures
 
 | Item                                                                                                       |     Purchased      | Digital                                                                               |     Downloaded     | Notes                                  |
 | ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
