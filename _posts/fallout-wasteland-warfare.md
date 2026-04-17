@@ -114,6 +114,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Slabs & Stones 4][Slabs and Stones] | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) | 5m   | 0.16m | 0.40g  | £0.01 |   :x:   |       |
 
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
+
 #### Accessories
 
 | Item                                           |     Purchased      | Digital                                                                         |     Downloaded     | Notes                                                                                                                                                          |
