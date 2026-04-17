@@ -63,12 +63,12 @@ Wave 1 introduces the game with the `Two Player Starter Set` which contains ever
 | ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
 | ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                                |                    | Promo                                                                              |
 
-[Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck 'Fallout: Wasteland Warfare - Settlement Deck'
-[Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set 'Fallout: Wasteland Warfare - Two Player Starter Set'
+[Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
+[Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
 [Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
 [Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/view
 [Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
-[Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature 'Fallout: Wasteland Warfare - Zetan'
+[Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature
 
 #### Getting Acclimated
 
@@ -121,9 +121,9 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Nuka Cola Caps Set][Nuka Cola Caps Set]       | :heavy_check_mark: |                                                                                 |                    | Also contains stickers so that they can be used as in game tokens                                                                                              |
 | [Red Rocket Scenic Set][Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, clip together building will be replaced by [3D Printed Red Rocket](red-rocket) |
 
-[Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set 'Fallout: Wasteland Warfare - Nuka Cola Caps Set'
+[Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
-[Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template 'Fallout: Wasteland Warfare - Red Rocket Scenic Set'
+[Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
 
 ##### Box Insert
 
@@ -184,13 +184,13 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                                           |
 | [Survivors: Core Box][Survivors Core Box]              | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
 
-[Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions 'Fallout: Wasteland Warfare - Survivors: Boston Companions'
-[BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box 'Fallout: Wasteland Warfare - Brotherhood of Steel Core Box'
-[Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills 'Fallout: Wasteland Warfare - Survivors: Heroes of Sanctuary Hills'
-[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature 'Fallout: Wasteland Warfare - Nuka Cola Girl'
-[Super Mutants Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth 'Fallout: Wasteland Warfare - Super Mutants: Behemoth'
-[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box 'Fallout: Wasteland Warfare - Super Mutants Core Box'
-[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box 'Fallout: Wasteland Warfare - Survivors Core Box'
+[Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions
+[BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
+[Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills
+[Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
+[Super Mutants Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
+[Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
+[Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box
 
 #### Scenarios
 
@@ -224,7 +224,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |                                                                     |                    | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
-[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Fallout: Wasteland Warfare - Raiders Wave Expansion Card Pack'
+[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
 
 #### Accessories
 
@@ -233,8 +233,8 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf) | :heavy_check_mark: |       |
 | [Weapons Upgrade Pack][Weapons Upgrade Pack] | :heavy_check_mark: |                                                                                                                                          |                    |       |
 
-[Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook 'Fallout: Wasteland Warfare - Vault-Tec Notebook'
-[Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack 'Fallout: Wasteland Warfare - Weapons Upgrade Pack'
+[Vault Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
+[Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack
 
 #### Minatures
 
@@ -247,12 +247,12 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                                                                                                         |                    |       |
 | [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                                                                                                         |                    |       |
 
-[Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons 'Fallout: Wasteland Warfare - Robots: Assaultrons & Protectrons'
-[Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set 'Fallout: Wasteland Warfare - Raiders Core Set'
-[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Fallout: Wasteland Warfare | Brotherhood of Steel: Liberty Prime'
-[Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Fallout: Wasteland Warfare - Unaligned: Mysterious Stranger'
-[Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019 'Fallout: Wasteland Warfare - Robots: Sentry Bot'
-[X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat 'Fallout: Wasteland Warfare - X-01 Survivor & Dogmeat'
+[Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
+[Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
+[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
+[Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger
+[Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
+[X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
 
@@ -271,14 +271,14 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | [Military Barricades][Military Barricades] |    :x:    |                                                               |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
 | [Turrets][Turrets]                         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                        |
 
-[Corvega Coupe STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl 'Fallout: Wasteland Warfare - Print at Home: Corvega Coupe'
-[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega 'Fallout: Wasteland Warfare - Terrain Expansion: Corvega Sedan'
-[Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan 'Fallout: Wasteland Warfare - Print At Home: Corvega Atomic V8 Sedan'
-[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird 'Fallout: Wasteland Warfare – Crashed Vertibird'
-[Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades 'Fallout: Wasteland Warfare – Junk Barricades'
-[Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades 'Fallout: Wasteland Warfare – Military Barricades'
+[Corvega Coupe STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
+[Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
+[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird
+[Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades
+[Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades
 [Scenic Set Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
-[Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets 'Fallout: Wasteland Warfare - Terrain Expansion: Turrets'
+[Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets
 
 ##### Streets of Boston
 
@@ -296,11 +296,11 @@ Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-bo
 | [Nuka Cola Machines][Nuka Cola Machines]         |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                        |
 | [Radioactive Containers][Radioactive Containers] |    :x:    | [Cards <i class="fa-regular fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                                        |
 
-[Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables 'Fallout: Wasteland Warfare - Boston Searchables'
-[Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter 'Fallout: Wasteland Warfare - Boston Street Scatter'
-[Cases and Crates]: https://modiphius.net/products/fallout-wasteland-warfare-cases-and-crates 'Fallout: Wasteland Warfare - Cases and Crates'
-[Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines 'Fallout: Wasteland Warfare - Terrain Expansion: Nuka-Cola Machines'
-[Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers 'Fallout: Wasteland Warfare - Terrain Expansion: Radioactive Containers'
+[Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
+[Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
+[Cases and Crates]: https://modiphius.net/products/fallout-wasteland-warfare-cases-and-crates
+[Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines
+[Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers
 
 ##### Vault Tec Office
 
@@ -317,10 +317,10 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 | [Vault Tec Lockers][Vault Tec Lockers]   |    :x:    |                                                               |                    |       |
 | [Vault Tec Supplies][Vault Tec Supplies] |    :x:    |                                                               |                    |       |
 
-[Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles 'Fallout: Wasteland Warfare - Terrain Expansion: Heavy Consoles'
-[Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals 'Fallout: Wasteland Warfare - Terrain Expansion: Terminals'
-[Vault Tec Lockers]: https://modiphius.net/products/fallout-wasteland-warfare-vault-tec-lockers 'Fallout: Wasteland Warfare - Vault Tec Lockers'
-[Vault Tec Supplies]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-tec-supplies 'Fallout: Wasteland Warfare - Terrain Expansion: Vault Tec Supplies'
+[Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
+[Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals
+[Vault Tec Lockers]: https://modiphius.net/products/fallout-wasteland-warfare-vault-tec-lockers
+[Vault Tec Supplies]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-tec-supplies
 
 #### Scenarios
 
@@ -329,7 +329,7 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 | The Beast of the Bottling Plant               |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf) | :heavy_check_mark: |                                          |
 | [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                                                                                        |                    | Part of the `Raiders Organised Play Kit` |
 
-[Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit 'Fallout: Wasteland Warfare – Raiders Organised Play Kit'
+[Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
 
 ##### The Beast of the Bottling Plant
 
@@ -356,8 +356,8 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                                                                                              |                    | Contains required cards for `Institute: Core Box` |
 | [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf) | :heavy_check_mark: | Contains required cards for `The Mechanist`       |
 
-[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'Fallout: Wasteland Warfare - The Automatron Card Expansion Pack'
-[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Institute Wave Expansion Card Pack'
+[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
+[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
 #### Accessories
 
@@ -366,8 +366,8 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog post](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
 | [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog post](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
 
-[Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 1'
-[Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2 'Fallout: Wasteland Warfare - Terrain Expansion: Objective Markers 2'
+[Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
+[Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
 #### Minatures
 
@@ -378,10 +378,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                                     |
 | [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                                         |
 
-[Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box 'Fallout: Wasteland Warfare - Institute: Core Box'
-[T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour 'Fallout: Wasteland Warfare - Unaligned: T-51 Power Armour'
-[The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist 'Fallout: Wasteland Warfare - The Mechanist'
-[Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel 'Fallout: Wasteland Warfare - Survivors: Vault Personnel'
+[Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
+[T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
+[The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
+[Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
 
 #### Scatter
 
@@ -389,7 +389,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | -------------------------------------------------- | :-------: | ------- | :--------: | ----- |
 | [Settlement Work Benches][Settlement Work Benches] |    :x:    |         |            |       |
 
-[Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches 'Fallout: Wasteland Warfare - Settlement Work Benches'
+[Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches
 
 #### Scenarios
 
@@ -398,7 +398,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | Showdown in Synthtown                           |                    | [Free <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog post](https://modiphius.net/blogs/news/showdown-in-synthtown) |
 | [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                              |                    | Part of the `Institute Organised Play Kit`                          |
 
-[Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit 'Fallout: Wasteland Warfare – Institute Organised Play Kit'
+[Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 
 ### Wave 4 - Enclave
 
@@ -413,11 +413,11 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: |                                                                                                                |
 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                                   |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
 
-[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Fallout: Wasteland Warfare - Denizens of the Wasteland Card Expansion Pack'
-[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Fallout: Wasteland Warfare - Enclave Wave Card Expansion Pack'
-[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Fallout: Wasteland Warfare - Wave 1 Fundamentals Card Deck'
-[Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland 'Fallout: Wasteland Warfare - Into the Wasteland'
-[Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf 'Fallout: Wasteland Warfare – Into the Wasteland - PDF'
+[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
+[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
+[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
+[Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
+[Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
 #### Minatures
 
@@ -429,11 +429,11 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="fa-regular fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
 | [T-45 Power Armour][T45 Power Armour]                  |        :x:         |                                                                                                                                |                    |       |
 
-[Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box 'Fallout: Wasteland Warfare - Enclave: Core Box'
-[Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Fallout: Wasteland Warfare - Survivors: Lorenzo Cabot'
-[Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain 'Fallout: Wasteland Warfare - Robots: Robobrain'
-[T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour 'Fallout: Wasteland Warfare - Unaligned: T-45 Power Armour'
-[T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor 'Fallout: Wasteland Warfare – Brotherhood of Steel Power Armor 1'
+[Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
+[Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
+[Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
+[T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
+[T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 
 #### Scatter
 
@@ -442,10 +442,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Crashed UFO STL]      |        :x:         |       |
 | [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |       |
 
-[Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo 'Fallout: Wasteland Warfare - Terrain Expansion: Crashed UFO'
-[Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl 'Fallout: Wasteland Warfare - Print at Home: Crashed UFO'
-[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench 'Fallout: Wasteland Warfare - Terrain Expansion: Robot Work Bench'
-[Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl 'Fallout: Wasteland Warfare - Print at Home: Robot Work Bench'
+[Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
+[Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
+[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
+[Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
 
 #### Scenarios
 
@@ -490,7 +490,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [New Vegas Rules Expansion][New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-regular fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `The Commonwealth Rules Expansion` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
-[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'Fallout: Wasteland Warfare - New Vegas Rules Expansion'
+[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
 
 #### Minatures
 
@@ -502,11 +502,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [NCR Ranger][NCR Ranger]                             |        :x:         |         |            | Promo |
 | [Securitron Enforcers][Securitron Enforcers]         |        :x:         |         |            |       |
 
-[Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Fallout: Wasteland Warfare - Unaligned: Burned Man'
-[Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box "Fallout: Wasteland Warfare - Caesar's Legion: Core Box"
-[NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box 'Fallout: Wasteland Warfare - NCR: Core Box'
-[NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger 'Fallout: Wasteland Warfare - NCR: Ranger'
-[Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers 'Fallout: Wasteland Warfare - Robots: Securitron Enforcers'
+[Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
+[Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
+[NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box
+[NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
+[Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
 
 #### Scenarios
 
@@ -532,8 +532,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Into the Vault                                                       |                    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
 | [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] | :heavy_check_mark: |                                                                                                                                              |                    |                                                       |
 
-[Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1 'Fallout: Wasteland Warfare - Astoundingly Awesome Tales: Chapter 1'
-[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'Fallout: Wasteland Warfare - The Commonwealth Rules Expansion'
+[Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
+[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
 
 #### Minatures
 
@@ -546,12 +546,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Railroad: Core Box][Railroad Core Box]   |        :x:         |         |            |       |
 | [Super Mutants: Swan][Super Mutants Swan] |        :x:         |         |            |       |
 
-[Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Fallout: Wasteland Warfare - Unaligned: Grognak'
-[Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box 'Fallout: Wasteland Warfare - Gunners: Core Box'
-[Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack 'Fallout: Wasteland Warfare - Robots: Mister Handy Pack'
-[Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers 'Fallout: Wasteland Warfare - Robots: Protectron Workers'
-[Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box 'Fallout: Wasteland Warfare - Railroad: Core Box'
-[Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan 'Fallout: Wasteland Warfare - Super Mutants: Swan'
+[Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak
+[Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
+[Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack
+[Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers
+[Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
+[Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
 
 ### Wave 7 - Forged in the Fire Expansion
 
@@ -566,8 +566,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                                      |                    |       |
 | Homestead Rules Expansion                                                |                    | [Buy <i class="fa-regular fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
 
-[Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Fallout: Wasteland Warfare - Forged in the Fire Rules Expansion'
-[Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf 'Fallout: Wasteland Warfare - Homestead Rules Expansion'
+[Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
+[Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
 #### Minatures
 
@@ -577,9 +577,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Jake Finch][Jake Finch]                    | :heavy_check_mark: |         |            | Promo |
 | [The Forged][The Forged]                    |        :x:         |         |            |       |
 
-[Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog 'Fallout: Wasteland Warfare: - Survivors: Ghoul Settlers (The Slog)'
-[Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Fallout: Wasteland Warfare - Survivors: Jake Finch'
-[The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged 'Fallout: Wasteland Warfare - Raiders: The Forged'
+[Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
+[Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
+[The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
 
 ### Wave 8 - Capital Expansion
 
@@ -594,10 +594,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Rosa Meitner][Rosa Meitner]                       | :heavy_check_mark: |         |            | Promo                                  |
 | [T-45 Heavy Armor][T45 Heavy Armor]                |        :x:         |         |            |                                        |
 
-[Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Fallout: Wasteland Warfare - Capital Rules Expansion'
-[Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers "Fallout: Wasteland Warfare - Survivors: Reilly's Rangers"
-[Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo 'Fallout: Wasteland Warfare - Survivors: Rosa Meitner'
-[T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45 'Fallout: Wasteland Warfare - Brotherhood of Steel: Heavy Armor (T45)'
+[Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
+[Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers
+[Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
+[T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
 
 ### Wave 9 - Nuka-World Expansion
 
@@ -611,9 +611,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
 | [X-01 Power Armor][X01 Power Armor]                      |        :x:         |                                                                                                                          |                    |       |
 
-[NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo 'Fallout: Wasteland Warfare - NIRA'
-[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Fallout: Wasteland Warfare - Nuka World Rules Expansion'
-[X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor 'Fallout: Wasteland Warfare - Unaligned - X-01 Power Armor'
+[NIRA]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo
+[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
+[X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
 
 #### Scenarios
 
@@ -634,8 +634,8 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Ghoulish Remnants][Ghoulish Remnants] |        :x:         |         |            |       |
 | [Mr Fuzzy][Mr Fuzzy]                   | :heavy_check_mark: |         |            | Promo |
 
-[Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants 'Fallout: Miniatures - Creatures: Ghoulish Remnants'
-[Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo 'Fallout: Wasteland Warfare - Mr Fuzzy'
+[Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
+[Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
 #### Scenarios
 
@@ -667,11 +667,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Old Longfellow][Old Longfellow]                            | :heavy_check_mark: |         |            | Promo |
 | [Trappers][Trappers]                                        |        :x:         |         |            |       |
 
-[Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish 'Fallout: Miniatures - Raiders - Big Fish'
-[Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Fallout: Miniatures - Children of Atom: Choir'
-[Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Fallout: Miniatures - Children of Atom: Priesthood'
-[Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Fallout: Wasteland Warfare - Survivors: Old Longfellow'
-[Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers 'Fallout: Miniatures - Raiders - Trappers'
+[Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish
+[Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir
+[Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood
+[Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow
+[Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers
 
 #### Scenarios
 
@@ -844,8 +844,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Map Pack 1: Vault][Map Pack 1 Vault]                         |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)             | :heavy_check_mark: |       |
 | [Map Pack 2: Wasteland Locales][Map Pack 2 Wasteland Locales] |    :x:    | [Buy <i class="fa-regular fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf) | :heavy_check_mark: |       |
 
-[Map Pack 1 Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault 'Fallout: The Roleplaying Game - Map Pack 1: Vault'
-[Map Pack 2 Wasteland Locales]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales 'Fallout: The Roleplaying Game - Map Pack 2: Wasteland Locales'
+[Map Pack 1 Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
+[Map Pack 2 Wasteland Locales]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales
 
 ### NPC Pack
 
@@ -888,11 +888,11 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Wasteland Survivors: Core Box][Wasteland Survivors Core Box] |    :x:    | [Assembly Guide <i class="fa-regular fa-file-pdf"/>][Wasteland Survivors Assembly Guide] | :heavy_check_mark: | [Dice Set][Wasteland Survivors Dice Set] |
 
 [Wasteland Raiders Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
-[Wasteland Raiders Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic 'Fallout: Miniatures - Wasteland Raiders: Core Box (Plastic)'
-[Wasteland Raiders Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-raiders 'Fallout: Factions - Dice Set: Wasteland Raiders'
+[Wasteland Raiders Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
+[Wasteland Raiders Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-raiders
 [Wasteland Survivors Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e4509eec-07e6-4cee-a105-76454dac5db7/FO_Miniatures_Wasteland-Survivors_Assembly-Guide.pdf
-[Wasteland Survivors Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-survivors-core-set-plastic 'Fallout: Miniatures - Wasteland Survivors: Core Box (Plastic)'
-[Wasteland Survivors Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-survivors 'Fallout: Factions - Dice Set: Wasteland Survivors'
+[Wasteland Survivors Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-survivors-core-set-plastic
+[Wasteland Survivors Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-survivors
 
 ## Battle for Nuka-World
 
@@ -907,21 +907,21 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Battle Map: Nuka-World][Nuka World Battle Map]             | :heavy_check_mark: |                                                                                         |                    | Neoprene mat to replace the paper one in the `Battle for Nuka-World Starter Set` |
 | Welcome to Nuka-World Quickstart                            |                    | [Free <i class="fa-regular fa-file-pdf"/>][Nuka World Quickstart]                       | :heavy_check_mark: |                                                                                  |
 
-[Bottle and Cappy]: https://modiphius.net/products/fallout-miniatures-bottle-and-cappy-all-fizzed-up-limited-run 'Fallout: Miniatures - Raiders: The Operators'
+[Bottle and Cappy]: https://modiphius.net/products/fallout-miniatures-bottle-and-cappy-all-fizzed-up-limited-run
 [Bottle and Cappy Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5bc9c858-bc3d-467f-b5a5-6a21af477480/Fallout-Miniatures_Bottle_and_cappy_All_Fizzed_Up_Rules-052924.pdf
-[Nuka World Battle Map]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world 'Fallout: Factions - Battle Map: Nuka-World'
-[Nuka World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set 'Fallout: Factions - Battle For Nuka-World Starter Set'
-[Nuka World Quickstart]: https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free "Fallout: Factions - 'Welcome to Nuka-World' Quickstart"
-[The Disciples]: https://modiphius.net/products/fallout-miniatures-raiders-the-disciples 'Fallout: Miniatures - Raiders: The Disciples'
+[Nuka World Battle Map]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world
+[Nuka World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set
+[Nuka World Quickstart]: https://modiphius.net/products/fallout-factions-welcome-to-nuka-world-quickstart-pdf-free
+[The Disciples]: https://modiphius.net/products/fallout-miniatures-raiders-the-disciples
 [The Disciples Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf
-[The Disciples Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-disciples 'Fallout: Factions - Dice Set: The Disciples'
-[The Operators]: https://modiphius.net/products/fallout-miniatures-raiders-the-operators 'Fallout: Miniatures - Raiders: The Operators'
+[The Disciples Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-disciples
+[The Operators]: https://modiphius.net/products/fallout-miniatures-raiders-the-operators
 [The Operators Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf
-[The Operators Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-operators 'Fallout: Factions - Dice Set: The Operators'
-[The Pack]: https://modiphius.net/products/fallout-miniatures-raiders-the-pack 'Fallout: Miniatures - Raiders: The Pack'
+[The Operators Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-operators
+[The Pack]: https://modiphius.net/products/fallout-miniatures-raiders-the-pack
 [The Pack Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf
-[The Pack Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-pack 'Fallout: Factions - Dice Set: The Pack'
-[Tokens and Terrain]: https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1 'Fallout: Factions - Tokens and Terrain Pack 1'
+[The Pack Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-pack
+[Tokens and Terrain]: https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1
 [Tokens and Terrain Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf
 
 ## Battle for Boston
@@ -933,12 +933,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | ┝ [Institute: Core Box][Institute Core Box Plastic]      | :heavy_check_mark: |                                                                          |                    | [Dice Set][Institute Dice Set] |
 | ┕ Robert MacCready                                       | :heavy_check_mark: |                                                                          |                    | Promo                          |
 
-[Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready 'Fallout: Factions - Battle for Boston Starter Set'
+[Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
-[BoS Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic 'Fallout: Miniatures - Brotherhood of Steel Core Box (Plastic)'
-[BoS Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-brotherhood-of-steel 'Fallout: Factions - Dice Set: Brotherhood of Steel'
-[Institute Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic 'Fallout: Miniatures - Institute: Core Box (Plastic)'
-[Institute Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-institute 'Fallout: Factions - Dice Set: The Institute'
+[BoS Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
+[BoS Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-brotherhood-of-steel
+[Institute Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic
+[Institute Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-institute
 
 # Fallout: Wasteland Wanderer
 
