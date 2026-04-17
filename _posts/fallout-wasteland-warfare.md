@@ -212,6 +212,12 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 [Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 
+##### The Shoot
+
+| Item                                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
+
 ### Wave 2 - Raiders
 
 Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
