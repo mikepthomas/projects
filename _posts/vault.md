@@ -40,7 +40,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 | Item                                                                          | Purchased | Digital                                                      |     Downloaded     | Notes |
 | ----------------------------------------------------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ----- |
-| [Vault-Tec Poster Girl](https://only-games.co/products/vault-tec-poster-girl) |           | [Buy <i class="fa-regular fa-file-zipper"/>][Vault Tec Girl] | :heavy_check_mark: |       |
+| [Vault-Tec Poster Girl](https://only-games.co/products/vault-tec-poster-girl) |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Vault Tec Girl] | :heavy_check_mark: |       |
 
 [Vault Tec Girl]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl
 
