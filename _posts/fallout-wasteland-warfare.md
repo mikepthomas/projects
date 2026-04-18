@@ -456,7 +456,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
 | [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                                                                                                |
 | [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
-| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: |                                                                                                                |
+| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed)                                   |
 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
@@ -995,7 +995,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                                                        |     Purchased      | Digital                                                                          |     Downloaded     | Notes                                                                            |
 | ----------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------- |
-| [Battle for Nuka-World Starter Set][Nuka World Starter Set] | :heavy_check_mark: |                                                                                  |                    |                                                                                  |
+| [Battle for Nuka-World Starter Set][Nuka World Starter Set] | :heavy_check_mark: |                                                                                  |                    | [Blog](https://modiphius.net/blogs/news/getting-started-with-plastic-miniatures) |
 | ┝ [Bottle and Cappy][Bottle and Cappy]                      | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | Promo                                                                            |
 | ┝ [Tokens and Terrain Pack 1][Tokens and Terrain]           | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: |                                                                                  |
 | ┝ [Raiders: The Operators][The Operators]                   | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: | [Dice Set][The Operators Dice Set]                                               |
@@ -1249,14 +1249,16 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 # Print at Home
 
+Although the `Print at Home` terrain is designed to be printed on a Resin printer [there has been some success at printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
+
 | Item                                                   | Price |     Purchased      | Notes                                                                  |
 | ------------------------------------------------------ | ----- | :----------------: | ---------------------------------------------------------------------- |
-| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         |                                                                        |
+| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th)  |
 | [Chems, Meds and Food][Chems Meds and Food]            | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
 | [Cult of the Mothman Altar][Cult of the Mothman Altar] | £45   |        :x:         |                                                                        |
 | [Meat and Gore][Meat and Gore]                         | £45   |        :x:         |                                                                        |
 | [Metal Dome][Metal Dome]                               | £45   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th)       |
-| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         |                                                                        |
+| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)   |
 | [The Deep][The Deep]                                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th)   |
 | [The Pack: Animal Decor][The Pack Animal Decor]        | £10   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
 | [Toys and Bobbleheads][Toys and Bobbleheads]           | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |

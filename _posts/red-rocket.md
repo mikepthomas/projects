@@ -26,11 +26,11 @@ promoted: true
 
 There are 3 sets of STLs for the Red Rocket:
 
-| Item                                                                                                             | Price |     Purchased      | Notes |
-| ---------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Drive Thru](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru)       | £30   | :heavy_check_mark: |       |
-| [Preserved](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl) | £30   | :heavy_check_mark: |       |
-| [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)       | £30   | :heavy_check_mark: |       |
+| Item                                                                                                             | Price |     Purchased      | Notes                                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------- |
+| [Drive Thru](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru)       | £30   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-november-11th) |
+| [Preserved](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl) | £30   | :heavy_check_mark: |                                                                       |
+| [Ruined](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl)       | £30   | :heavy_check_mark: |                                                                       |
 
 I will use elements from all 3 sets to create my own version of the Red Rocket Truck Stop outside of Sanctuary Hills from Fallout 4.
 
@@ -40,7 +40,7 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 
 ![Preserved Red Rocket Interior - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_01InteriorPartsList_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item           | Quantity | Material                                                                        | Time   | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------- | -------- | ------------------------------------------------------------------------------- | ------ | ------ | ------ | ----- | :----------------: | ----- |
@@ -65,7 +65,7 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 
 ![Preserved Red Rocket Main Roof - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_02RoofPartsList_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material                                                                | Time    | Size   | Weight  | Cost  |      Printed       | Notes |
 | ------------------- | -------- | ----------------------------------------------------------------------- | ------- | ------ | ------- | ----- | :----------------: | ----- |
@@ -81,7 +81,7 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 
 ![Preserved Red Rocket Canopy - Parts List](https://www.modiphius.net/cdn/shop/products/FO_PreservedRedRocket_03CanopyPartsList_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item    | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
 | ------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -104,7 +104,7 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 
 ![Red Rocket Flooring Layout](https://www.modiphius.net/cdn/shop/products/FO_PAH_RedRocketFLOORING_Assembly1_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material                                                  | Time   | Size   | Weight | Cost  |      Printed       | Notes |
 | -------------------- | -------- | --------------------------------------------------------- | ------ | ------ | ------ | ----- | :----------------: | ----- |
@@ -132,7 +132,7 @@ I will use elements from all 3 sets to create my own version of the Red Rocket T
 
 ![Components supplied to assemble full Red Rocket Truck Stop with canopy and accessories](https://www.modiphius.net/cdn/shop/products/FO_PAH_Preserved_Red_Rocket_Image1_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 ### Doors
 

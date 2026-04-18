@@ -34,9 +34,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 # Parking Lot
 
-| Item                                                                                                                        | Price |     Purchased      | Notes |
-| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: |       |
+| Item                                                                                                                        | Price |     Purchased      | Notes                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------------------------------------------- |
+| [Nuka World Parking Lot](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | £45   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/welcome-wastelanders-to-october-s-falloutfriday) |
 
 ## Bus Stop
 
@@ -160,9 +160,18 @@ The `Nuka world Parking Lot` comes with:
 
 However there are a few more vehicles available to purchase separately that can be used within the Parking Lot:
 
-- [Corvega Atomic V8 Sedan](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan)
-- [Corvega Coupe](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl)
-- [Flatbed Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck)
+| Item                           | Purchased | Digital                                                         |     Downloaded     | Notes                                                            |
+| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------- |
+| Chryslus Rocket                |           | [Buy <i class="fa-regular fa-file-zipper"/>][Chryslus Rocket]   | :heavy_check_mark: |                                                                  |
+| Corvega Coupe                  |           | [Buy <i class="fa-regular fa-file-zipper"/>][Corvega Coupe]     | :heavy_check_mark: |                                                                  |
+| [Corvega Sedan][Corvega Sedan] |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Corvega Sedan STL] | :heavy_check_mark: |                                                                  |
+| Flatbed Truck                  |           | [Buy <i class="fa-regular fa-file-zipper"/>][Flatbed Truck]     | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-2022) |
+
+[Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
+[Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
+[Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
+[Flatbed Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck
 
 ### Nuka Bus
 
