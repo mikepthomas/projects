@@ -255,10 +255,10 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Rules
 
-| Item                                                  |     Purchased      | Digital                                                      |     Downloaded     | Notes                                                                   |
-| ----------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------- |
-| Liberty Prime Expansion                               |                    | [Free <i class="far fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |                                                                         |
-| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |                                                              |                    | Contains required cards for `Raiders: Core Box` & `Mysterious Stranger` |
+| Item                                                  |     Purchased      | Digital                                                      |     Downloaded     | Notes |
+| ----------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
+| Liberty Prime Expansion                               |                    | [Free <i class="far fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |       |
+| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |                                                              |                    |       |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
@@ -390,11 +390,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                                       |     Purchased      | Digital                                                              |     Downloaded     | Notes                                             |
-| ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ------------------------------------------------- |
-| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="far fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |                                                   |
-| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                      |                    | Contains required cards for `Institute: Core Box` |
-| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="far fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | Contains required cards for `The Mechanist`       |
+| Item                                                       |     Purchased      | Digital                                                              |     Downloaded     | Notes |
+| ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ----- |
+| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="far fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
+| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                      |                    |       |
+| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="far fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: |       |
 
 [Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
@@ -452,12 +452,12 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                                                |     Purchased      | Digital                                                    |     Downloaded     | Notes                                                                                                          |
-| ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                                                                                                |
-| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    | Contains required cards for `Enclave: Core Box` & `Lorenzo Cabot`                                              |
-| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed)                                   |
-| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    | Contains required cards for `Survivors: Core Box` & `Nuka Girl` and Updated cards for `Two Player Starter Set` |
+| Item                                                                |     Purchased      | Digital                                                    |     Downloaded     | Notes                                                                        |
+| ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                                                              |
+| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    |                                                                              |
+| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed) |
+| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    |                                                                              |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
