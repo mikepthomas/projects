@@ -323,7 +323,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-Similar items available in the [Streets of Boston](sanctuary-hills#streets-of-boston).
+Similar items available in the [Streets of Boston](red-rocket#streets-of-boston) `Print at Home` pack.
 
 | Item                                             | Purchased | Digital                                                |     Downloaded     | Notes                                                                                                  |
 | ------------------------------------------------ | :-------: | ------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------ |

@@ -25,7 +25,7 @@ keywords:
 
 # Intro
 
-Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Boston Wasteland.
+Modiphius has released multiple `Print at Home` STL packs that can be used to re-create Sanctuary Hills.
 
 Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
@@ -291,76 +291,6 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 | [Spike_Strip_01][Settlement Walls] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
 | [Spike_Strip_02][Settlement Walls] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
 | [Spike_Strip_03][Settlement Walls] | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood) |      |      |        |      |   :x:   |       |
-
-# Streets of Boston
-
-![Streets of Boston](https://modiphius.net/cdn/shop/products/FO_Week_05_StreetsOfBoston_Webstore_Image1_1280x.jpg)
-
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item              | Purchased | Digital                                                         |     Downloaded     | Notes |
-| ----------------- | :-------: | --------------------------------------------------------------- | :----------------: | ----- |
-| Streets of Boston |           | [Buy <i class="fa-regular fa-file-zipper"/>][Streets of Boston] | :heavy_check_mark: |       |
-
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
-
-## Containers
-
-![Cases and Crates](https://modiphius.net/cdn/shop/products/Cases_and_Crates_1280x.jpg)
-
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                               | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [AmmoCluster][Streets of Boston]   | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [MilitaryTrunk][Streets of Boston] | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [SteamerTrunk][Streets of Boston]  | 2        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
-| [Suitcase][Streets of Boston]      | 2        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural)       |      |      |        |      |   :x:   |       |
-| [WoodCrate][Streets of Boston]     | 2        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)              |      |      |        |      |   :x:   |       |
-
-## Misc
-
-![Boston Street Scatter](https://modiphius.net/cdn/shop/products/Street_Scatter_1280x.jpg)
-
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                              | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Dumpster][Streets of Boston]     | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [DumpsterLid][Streets of Boston]  | 2        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [EatOTronic][Streets of Boston]   | 1        | [eSun ABS+ (Light Blue)](printer-filament#esun-abs-light-blue) |      |      |        |      |   :x:   |       |
-| [Gas-Pump][Streets of Boston]     | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [IceBox][Streets of Boston]       | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Mailbox][Streets of Boston]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver)         |      |      |        |      |   :x:   |       |
-| [Refrigerator][Streets of Boston] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Trash Bin][Streets of Boston]    | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-
-## Nuka Cola Machine
-
-![Nuka-Cola Machines](https://modiphius.net/cdn/shop/products/Nuka_Cola_Machines_1280x.jpg)
-
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                                                | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Nuka-Cola_Machine_Back_Cover_A][Streets of Boston] | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Nuka-Cola_Machine_Back_Cover_B][Streets of Boston] | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Nuka-Cola_Machine_Body][Streets of Boston]         | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Nuka-Cola_Machine_Door][Streets of Boston]         | 4        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-
-## Radioactive Barrels
-
-![Radioactive Containers](https://modiphius.net/cdn/shop/products/Radioactive_containers_1280x.jpg)
-
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                                                 | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [RadioactiveWaste_Barrel][Streets of Boston]         | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
-| [RadioactiveWaste_Brahmin_Puddle][Streets of Boston] | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
-| [RadioactiveWaste_DrippyBarrel][Streets of Boston]   | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
-| [RadioactiveWaste_NukaBarrel][Streets of Boston]     | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)         |      |      |        |      |   :x:   |       |
-| [RadioactiveWaste_RadroachPuddle][Streets of Boston] | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
 
 # Vehicles
 
