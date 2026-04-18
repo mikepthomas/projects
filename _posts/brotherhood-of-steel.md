@@ -24,9 +24,9 @@ keywords:
 
 # Sourcing Parts
 
-| Item                                                                                                                                          | Price |     Purchased      | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Brotherhood of Steel Encampment](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl) | £45   | :heavy_check_mark: |       |
+| Item                                                                                                                                          | Price |     Purchased      | Notes                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ------------------------------------------------------------------- |
+| [Brotherhood of Steel Encampment](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl) | £45   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
 
 ## Vehicles
 
@@ -68,7 +68,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Barricades](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-822187_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item         | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -98,7 +98,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Firepits and Wood](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-250647_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 ### Campfire
 
@@ -133,7 +133,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Jeep Front](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-103277_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item             | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ---------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -153,13 +153,13 @@ keywords:
 
 ![Brotherhood of Steel Encampment Jeep Rear](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-815158_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 ## Military Clutter
 
 ![Brotherhood of Steel Encampment Military Clutter](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-212714_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                        | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -181,7 +181,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Platform Wall](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-289109_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 ### Curved
 
@@ -225,7 +225,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Skeletons](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-761955_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item      | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -237,7 +237,7 @@ keywords:
 
 ![Brotherhood of Steel Encampment Tents and Tarp](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-944817_1280x.jpg)
 
-> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 ### Tent 1
 

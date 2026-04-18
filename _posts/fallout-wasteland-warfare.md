@@ -1249,18 +1249,18 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 # Print at Home
 
-| Item                                                   | Price |     Purchased      | Notes |
-| ------------------------------------------------------ | ----- | :----------------: | ----- |
-| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         |       |
-| [Chems, Meds and Food][Chems Meds and Food]            | £20   | :heavy_check_mark: |       |
-| [Cult of the Mothman Altar][Cult of the Mothman Altar] | £45   |        :x:         |       |
-| [Meat and Gore][Meat and Gore]                         | £45   |        :x:         |       |
-| [Metal Dome][Metal Dome]                               | £45   |        :x:         |       |
-| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         |       |
-| [The Deep][The Deep]                                   | £20   |        :x:         |       |
-| [The Pack: Animal Decor][The Pack Animal Decor]        | £10   |        :x:         |       |
-| [Toys and Bobbleheads][Toys and Bobbleheads]           | £20   | :heavy_check_mark: |       |
-| [Wasteland Critters][Wasteland Critters]               | £20   | :heavy_check_mark: |       |
+| Item                                                   | Price |     Purchased      | Notes                                                                  |
+| ------------------------------------------------------ | ----- | :----------------: | ---------------------------------------------------------------------- |
+| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         |                                                                        |
+| [Chems, Meds and Food][Chems Meds and Food]            | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
+| [Cult of the Mothman Altar][Cult of the Mothman Altar] | £45   |        :x:         |                                                                        |
+| [Meat and Gore][Meat and Gore]                         | £45   |        :x:         |                                                                        |
+| [Metal Dome][Metal Dome]                               | £45   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th)                                                                       |
+| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         |                                                                        |
+| [The Deep][The Deep]                                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th)   |
+| [The Pack: Animal Decor][The Pack Animal Decor]        | £10   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
+| [Toys and Bobbleheads][Toys and Bobbleheads]           | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
+| [Wasteland Critters][Wasteland Critters]               | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
