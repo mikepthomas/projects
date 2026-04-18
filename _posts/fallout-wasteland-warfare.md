@@ -600,6 +600,20 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
 [Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
 
+### Scatter
+
+| Item                   | Purchased | Digital                                                   |     Downloaded     | Notes                                                                  |
+| ---------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| Chems, Meds and Food   |           | [Buy <i class="far fa-file-pdf"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
+| The Pack: Animal Decor |           | [Buy <i class="far fa-file-pdf"/>][The Pack Animal Decor] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
+| Toys and Bobbleheads   |           | [Buy <i class="far fa-file-pdf"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
+| Wasteland Critters     |           | [Buy <i class="far fa-file-pdf"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+
+[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
+[Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
+[Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
+
 ## Wave 7 - Forged in the Fire Expansion
 
 [Fallout: Wasteland Warfare - Wave 7: Forged in the Fire Video](https://www.youtube-nocookie.com/embed/Y1CGbUW-UWM)
@@ -627,6 +641,18 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
 [Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
 [The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
+
+### Scatter
+
+| Item             | Purchased | Digital                                              | Downloaded | Notes                                                                 |
+| ---------------- | :-------: | ---------------------------------------------------- | :--------: | --------------------------------------------------------------------- |
+| Art Deco Statues |           | [Buy <i class="far fa-file-pdf"/>][Art Deco Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th) |
+| Scorched Statues |           | [Buy <i class="far fa-file-pdf"/>][Scorched Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)  |
+| The Deep         |           | [Buy <i class="far fa-file-pdf"/>][The Deep]         |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th)  |
+
+[Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
+[Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
+[The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
 
 ### Scenarios
 
@@ -659,6 +685,17 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
 [T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
+
+### Scatter
+
+| Item          | Purchased | Digital                                           | Downloaded | Notes                                                            |
+| ------------- | :-------: | ------------------------------------------------- | :--------: | ---------------------------------------------------------------- |
+| Meat and Gore |           | [Buy <i class="far fa-file-pdf"/>][Meat and Gore] |    :x:     |                                                                  |
+| Metal Dome    |           | [Buy <i class="far fa-file-pdf"/>][Metal Dome]    |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
+
+[Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
+
+[Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome |
 
 ## Wave 9 - Nuka-World Expansion
 
@@ -729,6 +766,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 [Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
+
+### Scatter
+
+| Item                      | Purchased | Digital                                                       | Downloaded | Notes |
+| ------------------------- | :-------: | ------------------------------------------------------------- | :--------: | ----- |
+| Cult of the Mothman Altar |           | [Buy <i class="far fa-file-pdf"/>][Cult of the Mothman Altar] |    :x:     |       |
+
+[Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 
 ### Scenarios
 
@@ -1246,31 +1291,3 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | [Power Armour <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview)    | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
 | [Weapon <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview)          | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
 | `Total`                                                                                                                   |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
-
-# Print at Home
-
-Although the `Print at Home` terrain is designed to be printed on a Resin printer [there has been some success at printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
-
-| Item                                                   | Price |     Purchased      | Notes                                                                  |
-| ------------------------------------------------------ | ----- | :----------------: | ---------------------------------------------------------------------- |
-| [Art Deco Statues][Art Deco Statues]                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th)  |
-| [Chems, Meds and Food][Chems Meds and Food]            | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
-| [Cult of the Mothman Altar][Cult of the Mothman Altar] | £45   |        :x:         |                                                                        |
-| [Meat and Gore][Meat and Gore]                         | £45   |        :x:         |                                                                        |
-| [Metal Dome][Metal Dome]                               | £45   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th)       |
-| [Scorched Statues][Scorched Statues]                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)   |
-| [The Deep][The Deep]                                   | £20   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th)   |
-| [The Pack: Animal Decor][The Pack Animal Decor]        | £10   |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
-| [Toys and Bobbleheads][Toys and Bobbleheads]           | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
-| [Wasteland Critters][Wasteland Critters]               | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
-
-[Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
-[Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
-[Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
-[Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
-[Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
-[Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
-[The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
-[The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
-[Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
-[Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl

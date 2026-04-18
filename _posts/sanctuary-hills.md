@@ -27,7 +27,11 @@ keywords:
 
 Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Boston Wasteland.
 
+Although the `Print at Home` terrain is designed to be printed on a Resin printer [there has been some success at printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
+
 I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
+
+A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
 # Basing Greebles Bundle
 
