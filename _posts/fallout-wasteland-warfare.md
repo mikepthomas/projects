@@ -382,7 +382,7 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 #### Raid the Crash Site
 
 This scenario was designed for using the `Crashed Vertibird`.
-I plan on 3D Printing parts from the [Parked Vertibird](#vehicles) instead.
+I plan on 3D Printing parts from the [Parked Vertibird](brotherhood-of-steel#vehicles) instead.
 
 ## Wave 3 - Institute
 
@@ -933,12 +933,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                                                                                                         |     Downloaded     | Notes |
-| ------------------------------ | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |       |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: |       |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: |       |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: |       |
+| Item                           | Purchased | Digital                                                                                                                         |     Downloaded     | Notes                                                                                                           |
+| ------------------------------ | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
+| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |                                                                                                                 |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction) |
+| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)                                             |
+| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022)                                          |
 
 # Fallout: The Roleplaying Game (2d20)
 
