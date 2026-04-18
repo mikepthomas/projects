@@ -605,7 +605,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Item                   | Purchased | Digital                                                   |     Downloaded     | Notes                                                                  |
 | ---------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
 | Chems, Meds and Food   |           | [Buy <i class="far fa-file-pdf"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
-| The Pack: Animal Decor |           | [Buy <i class="far fa-file-pdf"/>][The Pack Animal Decor] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
+| The Pack: Animal Decor |           | [Buy <i class="far fa-file-pdf"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
 | Toys and Bobbleheads   |           | [Buy <i class="far fa-file-pdf"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
 | Wasteland Critters     |           | [Buy <i class="far fa-file-pdf"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
