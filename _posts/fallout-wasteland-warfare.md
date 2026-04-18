@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-17T23:10:59.538Z
+lastmod: 2026-04-18T13:27:12.470Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -925,11 +925,16 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                                                                                                                                               |     Purchased      | Digital                                                                                                             |     Downloaded     | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Extra Tabletop Dice Set](https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set)                                     | :heavy_check_mark: |                                                                                                                     |                    |       |
-| [RPG (Expansion Book)](https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book) | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf) | :heavy_check_mark: |       |
-| [RPG - GM Screen and Booklet](https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet)                              | :heavy_check_mark: |                                                                                                                     |                    |       |
+| Item                                         |     Purchased      | Digital                                               |     Downloaded     | Notes |
+| -------------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ----- |
+| [Extra Tabletop Dice Set][RPG Dice]          | :heavy_check_mark: |                                                       |                    |       |
+| [RPG (Expansion Book)][RPG Expansion]        | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][RPG Expansion PDF] | :heavy_check_mark: |       |
+| [RPG - GM Screen and Booklet][RPG GM Screen] | :heavy_check_mark: |                                                       |                    |       |
+
+[RPG Dice]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
+[RPG Expansion]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
+[RPG Expansion PDF]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf
+[RPG GM Screen]: https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet
 
 ### Scenarios
 
@@ -1015,11 +1020,21 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                                                                           |     Purchased      | Digital                                                                                               |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Core Rulebook](https://modiphius.net/products/fallout-factions-core-rulebook) | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-factions-core-rulebook-pdf) | :heavy_check_mark: |       |
-| [Crew Folio](https://modiphius.net/products/fallout-factions-crew-folio)       | :heavy_check_mark: | Included with purchase of physical item                                                               | :heavy_check_mark: |       |
-| ┕ Rogue Knight                                                                 | :heavy_check_mark: |                                                                                                       |                    | Promo |
+| Item                              |     Purchased      | Digital                                                  |     Downloaded     | Notes |
+| --------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----- |
+| [Core Rulebook][Core Rulebook]    | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: |       |
+| [Crew Folio][Crew Folio]          | :heavy_check_mark: | Included with purchase of physical item                  | :heavy_check_mark: |       |
+| ┕ Rogue Knight                    | :heavy_check_mark: |                                                          |                    | Promo |
+| Spooktober Rules                  |                    | [Free <i class="far fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: |       |
+| Spooktober 2 Rules                |                    | [Free <i class="far fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |       |
+| Tournament Booklet - C.O.M.P. Kit |                    | [Free <i class="far fa-file-pdf"/>][COMP Kit]            | :heavy_check_mark: |       |
+
+[COMP Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
+[Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
+[Core Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
+[Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
+[Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
+[Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
 
 ## Accessories
 
@@ -1067,13 +1082,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Battle for Boston
 
-| Item                                                     |     Purchased      | Digital                                                           |     Downloaded     | Notes                          |
-| -------------------------------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | ------------------------------ |
-| [Battle for Boston Starter Set][Boston Starter Set]      | :heavy_check_mark: |                                                                   |                    |                                |
-| ┝ [Brotherhood of Steel: Core Box][BoS Core Box Plastic] | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][BoS Assembly Guide] | :heavy_check_mark: | [Dice Set][BoS Dice Set]       |
-| ┝ [Institute: Core Box][Institute Core Box Plastic]      | :heavy_check_mark: |                                                                   |                    | [Dice Set][Institute Dice Set] |
-| ┕ Robert MacCready                                       | :heavy_check_mark: |                                                                   |                    | Promo                          |
+| Item                                                     |     Purchased      | Digital                                                                |     Downloaded     | Notes                          |
+| -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- | :----------------: | ------------------------------ |
+| [Battle for Boston Starter Set][Boston Starter Set]      | :heavy_check_mark: | [Quick Reference <i class="far fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: |                                |
+| ┝ [Brotherhood of Steel: Core Box][BoS Core Box Plastic] | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: | [Dice Set][BoS Dice Set]       |
+| ┝ [Institute: Core Box][Institute Core Box Plastic]      | :heavy_check_mark: |                                                                        |                    | [Dice Set][Institute Dice Set] |
+| ┕ Robert MacCready                                       | :heavy_check_mark: |                                                                        |                    | Promo                          |
 
+[Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
 [Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
 [BoS Core Box Plastic]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
