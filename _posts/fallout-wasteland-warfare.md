@@ -694,8 +694,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Metal Dome    |           | [Buy <i class="far fa-file-pdf"/>][Metal Dome]    |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
 
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
-
-[Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome |
+[Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
 
 ## Wave 9 - Nuka-World Expansion
 

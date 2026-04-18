@@ -26,7 +26,7 @@ keywords:
 
 Modiphius has released multiple `Print at Home` STL packs that can be used to create your own Vault-Tec Vault.
 
-Although the `Print at Home` terrain is designed to be printed on a Resin printer [there has been some success at printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
+Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
 There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault) that can be used for inspiration.
 
