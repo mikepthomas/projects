@@ -24,7 +24,9 @@ promoted: true
 
 # Intro
 
-Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Red Rocket Truck Stop:
+Modiphius has released multiple `Print at Home` STL packs that can be used to re-create the Red Rocket Truck Stop.
+
+Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
 | Item              | Purchased | Digital                                                         |     Downloaded     | Notes                                                                 |
 | ----------------- | :-------: | --------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
@@ -38,8 +40,6 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 [Ruined]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl
 [Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
 [Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
-
-Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
 I will use elements from all sets to create my own version of the Red Rocket outside of Sanctuary Hills from Fallout 4.
 
