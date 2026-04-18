@@ -253,9 +253,9 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item             | Purchased | Digital                                                        |     Downloaded     | Notes |
-| ---------------- | :-------: | -------------------------------------------------------------- | :----------------: | ----- |
-| Settlement Walls |           | [Buy <i class="fa-regular fa-file-zipper"/>][Settlement Walls] | :heavy_check_mark: |       |
+| Item             | Purchased | Digital                                                        |     Downloaded     | Notes                                                              |
+| ---------------- | :-------: | -------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------ |
+| Settlement Walls |           | [Buy <i class="fa-regular fa-file-zipper"/>][Settlement Walls] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-march-2022) |
 
 [Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
 

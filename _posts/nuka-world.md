@@ -18,7 +18,7 @@ keywords:
   - Nuka-World
 ---
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 # Table of contents
 
@@ -28,9 +28,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 # Minatures
 
-| Item                                                                                                            | Price |     Purchased      | Notes |
-| --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: |       |
+| Item                                                                                                            | Price |     Purchased      | Notes                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | --------------------------------------------------------------------- |
+| [Bottle and Cappy](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl) | £20   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-2021) |
 
 # Parking Lot
 
@@ -44,7 +44,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Bus Stop Large](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-822254_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -59,7 +59,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Bus Stop Small](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-442438_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -75,7 +75,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Lamp Post Double](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-985194_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item     | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -89,7 +89,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Lamp Post Single](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-481544_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item     | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | -------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -103,7 +103,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Park Bench](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-839724_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item  | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | ----- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -114,7 +114,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Park Map](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-659124_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                   | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
 | ---------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -133,7 +133,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Trash Can 1](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-300752_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item      | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -144,7 +144,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ![Nuka World Trash Can 2](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-976287_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item      | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
 | --------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -168,7 +168,7 @@ However there are a few more vehicles available to purchase separately that can 
 
 ![Nuka World Nuka Bus](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-958451_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -197,7 +197,7 @@ However there are a few more vehicles available to purchase separately that can 
 
 ![Nuka World Pickup Truck](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl-fallout-wasteland-warfare-modiphius-entertainment-616858_1280x.jpg)
 
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net/)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
