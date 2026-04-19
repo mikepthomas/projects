@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-18T13:27:12.470Z
+lastmod: 2026-04-19T00:12:18.769Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -29,6 +29,12 @@ keywords:
   - Wargaming
   - Roleplaying
 ---
+
+[Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
+[Blog Into The Wasteland]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
+[Blog Objective Pack]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
+[Blog Showdown in Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
+[Blog Unexpected Shepherd]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
 
 # Table of contents
 
@@ -174,15 +180,15 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ### Minatures
 
-| Item                                                   |     Purchased      | Digital | Downloaded | Notes                                                                                     |
-| ------------------------------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
-| [Boston Companions][Boston Companions]                 | :heavy_check_mark: |         |            |                                                                                           |
-| [Brotherhood of Steel: Core Box][BoS Core Box]         |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
-| [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
-| [Nuka Cola Girl][Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                                                     |
-| [Super Mutants: Behemoth][Super Mutants Behemoth]      |        :x:         |         |            |                                                                                           |
-| [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                                           |
-| [Survivors: Core Box][Survivors Core Box]              | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)                         |
+| Item                                                   |     Purchased      | Digital | Downloaded | Notes                                                                      |
+| ------------------------------------------------------ | :----------------: | ------- | :--------: | -------------------------------------------------------------------------- |
+| [Boston Companions][Boston Companions]                 | :heavy_check_mark: |         |            |                                                                            |
+| [Brotherhood of Steel: Core Box][BoS Core Box]         |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)          |
+| [Nuka Cola Girl][Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                                      |
+| [Super Mutants: Behemoth][Super Mutants Behemoth]      |        :x:         |         |            |                                                                            |
+| [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                            |
+| [Survivors: Core Box][Survivors Core Box]              | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)          |
 
 [Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions
 [BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
@@ -403,22 +409,22 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Accessories
 
-| Item                                 | Purchased | Digital | Downloaded | Notes                                                                            |
-| ------------------------------------ | :-------: | ------- | :--------: | -------------------------------------------------------------------------------- |
-| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
-| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog](https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p) |
+| Item                                 | Purchased | Digital | Downloaded | Notes                       |
+| ------------------------------------ | :-------: | ------- | :--------: | --------------------------- |
+| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog][Blog Objective Pack] |
+| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog][Blog Objective Pack] |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
 ### Minatures
 
-| Item                                      |     Purchased      | Digital | Downloaded | Notes                                                                                     |
-| ----------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------------------------------- |
-| [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Resin Version, Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
-| [T-51 Power Armour][T51 Power Armour]     |        :x:         |         |            |                                                                                           |
-| [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                                     |
-| [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                                         |
+| Item                                      |     Purchased      | Digital | Downloaded | Notes                                                                      |
+| ----------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------------------------------------------- |
+| [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
+| [T-51 Power Armour][T51 Power Armour]     |        :x:         |         |            |                                                                            |
+| [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                      |
+| [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                          |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
 [T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
@@ -439,10 +445,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Scenarios
 
-| Item                                            |     Purchased      | Digital                                                                                                               |     Downloaded     | Notes                                                          |
-| ----------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------- |
-| SCP-051-111: Showdown in Synthtown              |                    | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/showdown-in-synthtown) |
-| [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                       |                    | Part of the `Institute Organised Play Kit`                     |
+| Item                                            |     Purchased      | Digital                                                                                                               |     Downloaded     | Notes                                      |
+| ----------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------ |
+| SCP-051-111: Showdown in Synthtown              |                    | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog][Blog Showdown in Synthtown]         |
+| [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                       |                    | Part of the `Institute Organised Play Kit` |
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 
@@ -452,12 +458,12 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                                                |     Purchased      | Digital                                                    |     Downloaded     | Notes                                                                        |
-| ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                                                              |
-| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    |                                                                              |
-| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed) |
-| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    |                                                                              |
+| Item                                                                |     Purchased      | Digital                                                    |     Downloaded     | Notes                           |
+| ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | ------------------------------- |
+| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                 |
+| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    |                                 |
+| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
+| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    |                                 |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
@@ -467,17 +473,18 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Minatures
 
-| Item                                                   |     Purchased      | Digital                                                                                                                 |     Downloaded     | Notes |
-| ------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                                                                                         |                    |       |
-| [Enclave: Core Box][Enclave Core Box]                  | :heavy_check_mark: |                                                                                                                         |                    |       |
-| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                                                                                         |                    | Promo |
-| [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf) | :heavy_check_mark: |       |
-| [T-45 Power Armour][T45 Power Armour]                  |        :x:         |                                                                                                                         |                    |       |
+| Item                                                   |     Purchased      | Digital                                               |     Downloaded     | Notes |
+| ------------------------------------------------------ | :----------------: | ----------------------------------------------------- | :----------------: | ----- |
+| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                       |                    |       |
+| [Enclave: Core Box][Enclave Core Box]                  | :heavy_check_mark: |                                                       |                    |       |
+| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                       |                    | Promo |
+| [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |       |
+| [T-45 Power Armour][T45 Power Armour]                  |        :x:         |                                                       |                    |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
 [Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
+[Robobrain Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
 [T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
 [T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 
@@ -742,19 +749,30 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                             | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
-| ------------------------------------------------ | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Mr. Fuzzy and The Ghoulish Remnants Rules Packet |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
-| The Dawn of the Mothman Rules Packet             |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
-| The Crater and The Foundation Rules Packet       |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
-| Invasion! Rules Packet                           |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
-| Hungry Hills! Rules Packet                       |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                        |
-| Spooktober Rules Packet                          |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                        |
-| Catching Floaters Rules Packet                   |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
-| Wasteland Wildlife Rules Packet                  |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
-| In Sheeps Clothing Rules Packet                  |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
-| Stoic Defenders Rules Packet                     |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
-| Scorched Plague Rules Packet                     |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
+| Item                                                               | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
+| ------------------------------------------------------------------ | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| [Mr. Fuzzy and The Ghoulish Remnants Rules Packet][Mr Fuzzy Cards] |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
+| [The Dawn of the Mothman Rules Packet][Dawn of the Mothman Cards]  |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
+| [The Crater and The Foundation Rules Packet][The Crater Cards]     |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
+| [Invasion! Rules Packet][Invasion Cards]                           |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
+| [Hungry Hills! Rules Packet][Hungry Hills Cards]                   |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                        |
+| Spooktober Rules Packet                                            |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                        |
+| [Catching Floaters Rules Packet][Catching Floaters Cards]          |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
+| [Wasteland Wildlife Rules Packet][Wasteland Wildlife Cards]        |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
+| [In Sheeps Clothing Rules Packet][In Sheeps Clothing Cards]        |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
+| [Stoic Defenders Rules Packet][Stoic Defenders Cards]              |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
+| [Scorched Plague Rules Packet][Scorched Plague Cards]              |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
+
+[Catching Floaters Cards]: https://connect.forgefire.games/products/catching-floaters-card-pack
+[Dawn of the Mothman Cards]: https://connect.forgefire.games/products/the-dawn-of-the-mothman-rules-packet-card-pack
+[Hungry Hills Cards]: https://connect.forgefire.games/products/hungry-hills-rules-packet-card-pack
+[In Sheeps Clothing Cards]: https://connect.forgefire.games/products/in-sheeps-clothing-card-pack
+[Invasion Cards]: https://connect.forgefire.games/products/invasion-rules-packet-card-pack
+[Mr Fuzzy Cards]: https://connect.forgefire.games/products/mr-fuzzy-and-the-ghoulish-remnants-card-pack
+[Scorched Plague Cards]: https://connect.forgefire.games/products/the-scorched-plague-card-pack
+[Stoic Defenders Cards]: https://connect.forgefire.games/products/stoic-defenders-card-park
+[The Crater Cards]: https://connect.forgefire.games/products/the-crater-and-the-foundation-rules-packet-card-pack
+[Wasteland Wildlife Cards]: https://connect.forgefire.games/products/wasteland-wildlife-card-pack
 
 ### Minatures
 
@@ -798,12 +816,17 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                     | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
-| ---------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Children of Atom Rules Packet            |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
-| Arcadia and the Harbormen Rules Packet   |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                        |
-| Creatures of the Fog Rules Packet        |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                        |
-| Longfellow and the Trappers Rules Packet |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                        |
+| Item                                                            | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
+| --------------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| [Children of Atom Rules Packet][Children of Atom Cards]         |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
+| [Arcadia and the Harbormen Rules Packet][Harbormen Cards]       |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                        |
+| [Creatures of the Fog Rules Packet][Creatures of the Fog Cards] |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                        |
+| [Longfellow and the Trappers Rules Packet][Longfellow Cards]    |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                        |
+
+[Children of Atom Cards]: https://connect.forgefire.games/products/children-of-atom-card-pack
+[Creatures of the Fog Cards]: https://connect.forgefire.games/products/creatures-of-the-fog-card-pack
+[Harbormen Cards]: https://connect.forgefire.games/products/the-harbormen-and-arcadia-card-pack
+[Longfellow Cards]: https://connect.forgefire.games/products/longfellow-and-the-trappers-card-pack
 
 ### Minatures
 
@@ -831,12 +854,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                                                                                                       |     Purchased      | Digital                                                                        |     Downloaded     | Notes                                  |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------ | :----------------: | -------------------------------------- |
-| [Hollywood Heroes](https://modiphius.net/products/fallout-the-series-miniatures-set)                       | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Icons](https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in) | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: |                                        |
+| Item                                 |     Purchased      | Digital                                                                        |     Downloaded     | Notes                                  |
+| ------------------------------------ | :----------------: | ------------------------------------------------------------------------------ | :----------------: | -------------------------------------- |
+| [Hollywood Heroes][Hollywood Heroes] | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Icons][Hollywood Icons]   | :heavy_check_mark: | [Assembly Guide <i class="far fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: |                                        |
 
+[Hollywood Heroes]: https://modiphius.net/products/fallout-the-series-miniatures-set
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
+[Hollywood Icons]: https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in
 [Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
 
 ## AI Mode
@@ -908,10 +933,14 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ## Vault-Tec Simulator
 
-| Item                | Purchased | Digital                                                                                                            |     Downloaded     | Notes                                                                                                                                             |
-| ------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Vault-Tec Profile   |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf) | :heavy_check_mark: | [Form Fillable Version <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf) |
-| Vault-Tec Simulator |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/preview)  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/vault-tec-simulator)                                                                                      |
+| Item                | Purchased | Digital                                                     |     Downloaded     | Notes                                                                |
+| ------------------- | :-------: | ----------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- |
+| Vault-Tec Profile   |           | [Free <i class="far fa-file-pdf"/>][Vault Tec Profile]      | :heavy_check_mark: | [Form Fillable <i class="far fa-file-pdf"/>][Vault Tec Profile Form] |
+| Vault-Tec Simulator |           | [Free <i class="far fa-file-zipper"/>][Vault Tec Simulator] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/vault-tec-simulator)         |
+
+[Vault Tec Profile]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf
+[Vault Tec Profile Form]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf
+[Vault Tec Simulator]: https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/preview
 
 # Fallout: Wasteland Warfare Roleplaying Game
 
@@ -938,12 +967,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                                                                                                         |     Downloaded     | Notes                                                                                                           |
-| ------------------------------ | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
-| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |                                                                                                                 |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction) |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)                                             |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022)                                          |
+| Item                           | Purchased | Digital                                                                                                                         |     Downloaded     | Notes                                                                  |
+| ------------------------------ | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |                                                                        |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd]                                       |
+| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
+| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
 # Fallout: The Roleplaying Game (2d20)
 
@@ -1228,12 +1257,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                                                   |
-| ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Aviator      | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                                                         |
-| Brute        | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                                                         |
-| Mutant Hound | 2        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Blog](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
-| Super Mutant | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide (Page 7) <i class="far fa-file-pdf"/>][Rules of Play]                                   |
+| Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                                                 |
+| ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------------------------------- |
+| Aviator      | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                       |
+| Brute        | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                                                       |
+| Mutant Hound | 2        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Blog][Blog Dogs]                                                     |
+| Super Mutant | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide (Page 7) <i class="far fa-file-pdf"/>][Rules of Play] |
 
 ### Survivors
 
@@ -1243,30 +1272,30 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                   | Quantity | Material | Included In                                            | Cards                                                                    | Notes                                                                                                   |
-| ---------------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Blog](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
-| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Blog](https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare) |
-| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                         |
-| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                                         |
-| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                                         |
-| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play]                                   |
-| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                                         |
-| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide]                          |
-| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide]                          |
-| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                         |
-| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                         |
-| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                         |
-| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                                         |
-| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
-| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                                         |
-| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                                         |
-| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                                         |
+| Item                   | Quantity | Material | Included In                                            | Cards                                                                    | Notes                                                                          |
+| ---------------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Blog][Blog Dogs]                                                              |
+| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Blog][Blog Dogs]                                                              |
+| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
+| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                |
+| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                |
+| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play]          |
+| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                |
+| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
+| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
+| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
+| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
+| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                |
+| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                |
+| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
 
 [Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
 
@@ -1286,23 +1315,36 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Standard
 
-| Item                                                                                                                     | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [AI <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle) | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
-| [Reference <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview)      | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
-| [Unit <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview)           | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
-| `Total`                                                                                                                  |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
+| Item                                                      | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| --------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [AI <i class="far fa-file-pdf"/>][AI Cards]               | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
+| [Reference <i class="far fa-file-pdf"/>][Reference Cards] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
+| [Unit <i class="far fa-file-pdf"/>][Unit Cards]           | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
+| `Total`                                                   |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
+
+[AI Cards]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle
+[Reference Cards]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
+[Unit Cards]: https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview
 
 ### Mini European
 
-| Item                                                                                                                      | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [Chems <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf)       | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
-| [Equipment <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview)       | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
-| [Heroic <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf)         | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
-| [Leader <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf) | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
-| [Mods <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview)            | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
-| [Perk <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview)            | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
-| [Power Armour <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview)    | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
-| [Weapon <i class="far fa-file-pdf"/>](https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview)          | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
-| `Total`                                                                                                                   |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+| Item                                                            | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| --------------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [Chems <i class="far fa-file-pdf"/>][Chems Cards]               | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
+| [Equipment <i class="far fa-file-pdf"/>][Equipment Cards]       | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
+| [Heroic <i class="far fa-file-pdf"/>][Heroic Cards]             | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
+| [Leader <i class="far fa-file-pdf"/>][Leader Cards]             | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
+| [Mods <i class="far fa-file-pdf"/>][Mods Cards]                 | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
+| [Perk <i class="far fa-file-pdf"/>][Perk Cards]                 | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
+| [Power Armour <i class="far fa-file-pdf"/>][Power Armour Cards] | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
+| [Weapon <i class="far fa-file-pdf"/>][Weapon Cards]             | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
+| `Total`                                                         |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+
+[Chems Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf
+[Equipment Cards]: https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview
+[Heroic Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf
+[Leader Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf
+[Mods Cards]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Perk Cards]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Power Armour Cards]: https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview
+[Weapon Cards]: https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview
