@@ -723,12 +723,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                 |     Purchased      | Digital                                                      |     Downloaded     | Notes |
-| ------------------------------------ | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
-| [Nuka-World Rules][Nuka World Rules] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Nuka World Expansion PDF] | :heavy_check_mark: |       |
+| Item                                 |     Purchased      | Digital                                                  |     Downloaded     | Notes |
+| ------------------------------------ | :----------------: | -------------------------------------------------------- | :----------------: | ----- |
+| [Nuka-World Rules][Nuka World Rules] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Nuka World Rules PDF] | :heavy_check_mark: |       |
 
-[Nuka World Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Nuka-World Rules Expansion'
-[Nuka World Expansion PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
+[Nuka World Rules]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Nuka-World Rules Expansion'
+[Nuka World Rules PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
 ### Minatures
 
