@@ -1197,8 +1197,6 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 #### The Disciples
 
-- (Wave 9 - Nuka-World) The Disciples Sub Faction / General Reference
-
 | Item                 | Quantity | Material | Included In                             | Cards                                | Notes                                                                                 |
 | -------------------- | -------- | -------- | --------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
@@ -1214,8 +1212,6 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 #### The Operators
 
-- (Wave 9 - Nuka-World) The Operators Sub Faction / General Reference
-
 | Item                 | Quantity | Material | Included In                             | Cards                                | Notes                                                                                 |
 | -------------------- | -------- | -------- | --------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
@@ -1230,8 +1226,6 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
 
 #### The Pack
-
-- (Wave 9 - Nuka-World) The Pack Sub Faction / General Reference
 
 | Item                 | Quantity | Material | Included In                   | Cards                                | Notes                                                                            |
 | -------------------- | -------- | -------- | ----------------------------- | ------------------------------------ | -------------------------------------------------------------------------------- |
