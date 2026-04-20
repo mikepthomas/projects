@@ -468,31 +468,31 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | ------------------------------------------------ | :----------------: | ---------------------------------------------------------- | :----------------: | ------------------------------- |
 | [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                            |                    |                                 |
 | [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                            |                    |                                 |
-| [Frank Horrigan][Frank Horrigan]                 |        :x:         |                                                            |                    | Legendary                       |
 | [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                            |                    |                                 |
 | [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
-| [Mirelurk Queen][Mirelurk Queen]                 |        :x:         |                                                            |                    | Legendary                       |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
-[Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan 'Enclave: Frank Horrigan'
 [Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Wave 1 Fundamentals Card Deck'
 [Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
-[Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen 'Creatures: Mirelurk Queen'
 
 ### Minatures
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ----- |
-| [Enclave: Core Box][Enclave Core Box] | :heavy_check_mark: |                                                       |                    |       |
-| [Lorenzo Cabot][Lorenzo Cabot]        | :heavy_check_mark: |                                                       |                    | Promo |
-| [Power Armor 1][T60 Power Armour]     | :heavy_check_mark: |                                                       |                    |       |
-| [Robobrain][Robobrain]                | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |       |
-| [T-45 Power Armour][T45 Power Armour] |        :x:         |                                                       |                    |       |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes     |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | --------- |
+| [Enclave: Core Box][Enclave Core Box] | :heavy_check_mark: |                                                       |                    |           |
+| [Frank Horrigan][Frank Horrigan]      |        :x:         |                                                       |                    | Legendary |
+| [Lorenzo Cabot][Lorenzo Cabot]        | :heavy_check_mark: |                                                       |                    | Promo     |
+| [Mirelurk Queen][Mirelurk Queen]      |        :x:         |                                                       |                    | Legendary |
+| [Power Armor 1][T60 Power Armour]     | :heavy_check_mark: |                                                       |                    |           |
+| [Robobrain][Robobrain]                | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |           |
+| [T-45 Power Armour][T45 Power Armour] |        :x:         |                                                       |                    |           |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
+[Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan 'Enclave: Frank Horrigan'
 [Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Survivors: Lorenzo Cabot'
+[Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen 'Creatures: Mirelurk Queen'
 [Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain 'Robots: Robobrain'
 [Robobrain Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
 [T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour 'Unaligned: T-45 Power Armour'
