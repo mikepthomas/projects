@@ -186,15 +186,15 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | [Brotherhood of Steel: Core Box][BoS Core Box]         |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
 | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)          |
 | [Nuka Cola Girl][Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                                      |
-| [Super Mutants: Behemoth][Super Mutants Behemoth]      |        :x:         |         |            |                                                                            |
+| [Super Mutant Behemoth][Super Mutant Behemoth]         |        :x:         |         |            |                                                                            |
 | [Super Mutants: Core Box][Super Mutants Core Box]      |        :x:         |         |            |                                                                            |
 | [Survivors: Core Box][Survivors Core Box]              | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills)          |
 
-[Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions
+[Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions 'Survivors: Boston Companions'
 [BoS Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
-[Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills
+[Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills 'Survivors: Heroes of Sanctuary Hills'
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
-[Super Mutants Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
+[Super Mutant Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
 [Super Mutants Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
 [Survivors Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box
 
@@ -261,13 +261,13 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Rules
 
-| Item                                                  |     Purchased      | Digital                                                      |     Downloaded     | Notes |
-| ----------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
-| Liberty Prime Expansion                               |                    | [Free <i class="far fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |       |
-| [Raiders Wave Expansion Card Pack][Raiders Card Deck] | :heavy_check_mark: |                                                              |                    |       |
+| Item                                   |     Purchased      | Digital                                                      |     Downloaded     | Notes |
+| -------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
+| Liberty Prime Expansion                |                    | [Free <i class="far fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |       |
+| [Raiders Card Deck][Raiders Card Deck] | :heavy_check_mark: |                                                              |                    |       |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
-[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
+[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Raiders Wave Expansion Card Pack'
 
 ### Accessories
 
@@ -291,12 +291,12 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                           |                    |       |
 | [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                           |                    |       |
 
-[Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
+[Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons 'Robots: Assaultrons & Protectrons'
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
-[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
+[Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime 'Brotherhood of Steel: Liberty Prime'
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
-[Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger
-[Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
+[Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger 'Unaligned: Mysterious Stranger'
+[Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019 'Robots: Sentry Bot'
 [X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
@@ -396,16 +396,16 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                                       |     Purchased      | Digital                                                              |     Downloaded     | Notes |
-| ---------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ----- |
-| Caught in the Crossfire Campaign book                      |                    | [Buy <i class="far fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
-| [Institute Wave Expansion Card Pack][Institute Card Deck]  | :heavy_check_mark: |                                                                      |                    |       |
-| [The Automatron Card Expansion Pack][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="far fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: |       |
+| Item                                         |     Purchased      | Digital                                                              |     Downloaded     | Notes |
+| -------------------------------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ----- |
+| [Automatron Card Deck][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="far fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: |       |
+| Caught in the Crossfire Campaign book        |                    | [Buy <i class="far fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
+| [Institute Card Deck][Institute Card Deck]   | :heavy_check_mark: |                                                                      |                    |       |
 
-[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
+[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'The Automatron Card Expansion Pack'
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
-[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
+[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Institute Wave Expansion Card Pack'
 
 ### Accessories
 
@@ -424,12 +424,14 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
 | [T-51 Power Armour][T51 Power Armour]     |        :x:         |         |            |                                                                            |
 | [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                      |
+| [Unusual Allies][Unusual Allies]          |        :x:         |         |            |                                                                            |
 | [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                          |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
-[T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
+[T51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour 'Unaligned: T-51 Power Armour'
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
-[Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
+[Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies 'Survivors: Unusual Allies'
+[Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel 'Survivors: Vault Personnel'
 
 ### Scatter
 
@@ -458,35 +460,35 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                                                |     Purchased      | Digital                                                    |     Downloaded     | Notes                           |
-| ------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | ------------------------------- |
-| [Denizens of the Wasteland Card Expansion Pack][Denizens Card Deck] | :heavy_check_mark: |                                                            |                    |                                 |
-| [Enclave Wave Card Expansion Pack][Enclave Card Deck]               | :heavy_check_mark: |                                                            |                    |                                 |
-| [Into the Wasteland][Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
-| [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]             | :heavy_check_mark: |                                                            |                    |                                 |
+| Item                                             |     Purchased      | Digital                                                    |     Downloaded     | Notes                           |
+| ------------------------------------------------ | :----------------: | ---------------------------------------------------------- | :----------------: | ------------------------------- |
+| [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                            |                    |                                 |
+| [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                            |                    |                                 |
+| [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                            |                    |                                 |
+| [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
 
-[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
-[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
-[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
+[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
+[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
+[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Wave 1 Fundamentals Card Deck'
 [Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
 ### Minatures
 
-| Item                                                   |     Purchased      | Digital                                               |     Downloaded     | Notes |
-| ------------------------------------------------------ | :----------------: | ----------------------------------------------------- | :----------------: | ----- |
-| [Brotherhood of Steel Power Armor 1][T60 Power Armour] | :heavy_check_mark: |                                                       |                    |       |
-| [Enclave: Core Box][Enclave Core Box]                  | :heavy_check_mark: |                                                       |                    |       |
-| [Lorenzo Cabot][Lorenzo Cabot]                         | :heavy_check_mark: |                                                       |                    | Promo |
-| [Robobrain][Robobrain]                                 | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |       |
-| [T-45 Power Armour][T45 Power Armour]                  |        :x:         |                                                       |                    |       |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ----- |
+| [Enclave: Core Box][Enclave Core Box] | :heavy_check_mark: |                                                       |                    |       |
+| [Lorenzo Cabot][Lorenzo Cabot]        | :heavy_check_mark: |                                                       |                    | Promo |
+| [Power Armor 1][T60 Power Armour]     | :heavy_check_mark: |                                                       |                    |       |
+| [Robobrain][Robobrain]                | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |       |
+| [T-45 Power Armour][T45 Power Armour] |        :x:         |                                                       |                    |       |
 
 [Enclave Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
-[Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
-[Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
+[Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot 'Survivors: Lorenzo Cabot'
+[Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain 'Robots: Robobrain'
 [Robobrain Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
-[T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
-[T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
+[T45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour 'Unaligned: T-45 Power Armour'
+[T60 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor 'Brotherhood of Steel: Power Armor 1'
 
 ### Scatter
 
@@ -539,12 +541,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                   |     Purchased      | Digital                                                                    |     Downloaded     | Notes                                                                       |
-| ------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------- |
-| [New Vegas Rules Expansion][New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="far fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `The Commonwealth Rules Expansion` |
+| Item                                       |     Purchased      | Digital                                                                    |     Downloaded     | Notes                                                             |
+| ------------------------------------------ | :----------------: | -------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------- |
+| [New Vegas Expansion][New Vegas Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="far fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `Commonwealth Expansion` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
-[New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
+[New Vegas Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'New Vegas Rules Expansion'
 
 ### Minatures
 
@@ -556,11 +558,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [NCR Ranger][NCR Ranger]                             |        :x:         |         |            | Promo |
 | [Securitron Enforcers][Securitron Enforcers]         |        :x:         |         |            |       |
 
-[Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
+[Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo 'Unaligned: Burned Man'
 [Caesars Legion Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
 [NCR Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box
 [NCR Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
-[Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
+[Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers 'Robots: Securitron Enforcers'
 
 ### Scenarios
 
@@ -579,33 +581,33 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                                 |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                 |
-| -------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
-| [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1]         | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
-| Astoundingly Awesome Tales 2                                         |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
-| Into the Vault                                                       |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
-| [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] | :heavy_check_mark: |                                                                                                                                       |                    |                                                       |
+| Item                                                         |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                 |
+| ------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
+| [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
+| Astoundingly Awesome Tales 2                                 |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
+| [Commonwealth Expansion][Commonwealth Expansion]             | :heavy_check_mark: |                                                                                                                                       |                    |                                                       |
+| Into the Vault                                               |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
 
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
-[The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
+[Commonwealth Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'The Commonwealth Rules Expansion'
 
 ### Minatures
 
-| Item                                      |     Purchased      | Digital | Downloaded | Notes |
-| ----------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Grognak][Grognak]                        | :heavy_check_mark: |         |            | Promo |
-| [Gunners: Core Box][Gunners Core Box]     |        :x:         |         |            |       |
-| [Mister Handy Pack][Mister Handy Pack]    |        :x:         |         |            |       |
-| [Protectron Workers][Protectron Workers]  |        :x:         |         |            |       |
-| [Railroad: Core Box][Railroad Core Box]   |        :x:         |         |            |       |
-| [Super Mutants: Swan][Super Mutants Swan] |        :x:         |         |            |       |
+| Item                                     |     Purchased      | Digital | Downloaded | Notes     |
+| ---------------------------------------- | :----------------: | ------- | :--------: | --------- |
+| [Grognak][Grognak]                       | :heavy_check_mark: |         |            | Promo     |
+| [Gunners: Core Box][Gunners Core Box]    |        :x:         |         |            |           |
+| [Mister Handy Pack][Mister Handy Pack]   |        :x:         |         |            |           |
+| [Protectron Workers][Protectron Workers] |        :x:         |         |            |           |
+| [Railroad: Core Box][Railroad Core Box]  |        :x:         |         |            |           |
+| [Swan][Swan]                             |        :x:         |         |            | Legendary |
 
-[Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak
+[Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak 'Unaligned: Grognak'
 [Gunners Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
-[Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack
-[Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers
+[Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack 'Robots: Mister Handy Pack'
+[Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers 'Robots: Protectron Workers'
 [Railroad Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
-[Super Mutants Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
+[Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan 'Super Mutants: Swan'
 
 ### Scatter
 
@@ -629,12 +631,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                                     |     Purchased      | Digital                                                       |     Downloaded     | Notes |
-| ------------------------------------------------------------------------ | :----------------: | ------------------------------------------------------------- | :----------------: | ----- |
-| [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                               |                    |       |
-| Homestead Rules Expansion                                                |                    | [Buy <i class="far fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
+| Item                                                         |     Purchased      | Digital                                                       |     Downloaded     | Notes |
+| ------------------------------------------------------------ | :----------------: | ------------------------------------------------------------- | :----------------: | ----- |
+| [Forged in the Fire Expansion][Forged in the Fire Expansion] | :heavy_check_mark: |                                                               |                    |       |
+| Homestead Rules Expansion                                    |                    | [Buy <i class="far fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
 
-[Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
+[Forged in the Fire Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Forged in the Fire Rules Expansion'
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
 ### Minatures
@@ -645,9 +647,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Jake Finch][Jake Finch]                    | :heavy_check_mark: |         |            | Promo |
 | [The Forged][The Forged]                    |        :x:         |         |            |       |
 
-[Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
-[Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
-[The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
+[Ghoul Settlers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog 'Survivors: Ghoul Settlers (The Slog)'
+[Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo 'Survivors: Jake Finch'
+[The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged 'Raiders: The Forged'
 
 ### Scatter
 
@@ -675,11 +677,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                               |     Purchased      | Digital | Downloaded | Notes |
-| -------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Capital Rules Expansion][Capital Rules Expansion] | :heavy_check_mark: |         |            |       |
+| Item                                   |     Purchased      | Digital | Downloaded | Notes |
+| -------------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Capital Expansion][Capital Expansion] | :heavy_check_mark: |         |            |       |
 
-[Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
+[Capital Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Capital Rules Expansion'
 
 ### Minatures
 
@@ -689,9 +691,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Rosa Meitner][Rosa Meitner]        | :heavy_check_mark: |         |            | Promo                                  |
 | [T-45 Heavy Armor][T45 Heavy Armor] |        :x:         |         |            |                                        |
 
-[Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers
+[Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers 'Survivors: Reilly\'s Rangers'
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
-[T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
+[T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45 'Brotherhood of Steel: Heavy Armor (T45)'
 
 ### Scatter
 
@@ -711,11 +713,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                     |     Purchased      | Digital                                                                                                           |     Downloaded     | Notes |
-| -------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Nuka World Rules Expansion][Nuka World Rules Expansion] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf) | :heavy_check_mark: |       |
+| Item                                         |     Purchased      | Digital                                                      |     Downloaded     | Notes |
+| -------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
+| [Nuka-World Expansion][Nuka World Expansion] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Nuka World Expansion PDF] | :heavy_check_mark: |       |
 
-[Nuka World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
+[Nuka World Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Nuka-World Rules Expansion'
+[Nuka World Expansion PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
 ### Minatures
 
@@ -731,7 +734,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [The Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
 [The Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
 [The Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
-[X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
+[X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor 'Unaligned: X-01 Power Armor'
 
 ### Scenarios
 
@@ -781,7 +784,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Ghoulish Remnants][Ghoulish Remnants] |        :x:         |         |            |       |
 | [Mr Fuzzy][Mr Fuzzy]                   | :heavy_check_mark: |         |            | Promo |
 
-[Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
+[Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants 'Creatures: Ghoulish Remnants'
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
 ### Scatter
@@ -830,19 +833,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                                                        |     Purchased      | Digital | Downloaded | Notes |
-| ----------------------------------------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Big Fish][Big Fish]                                        |        :x:         |         |            |       |
-| [Children of Atom: Choir][Children of Atom Choir]           |        :x:         |         |            |       |
-| [Children of Atom: Priesthood][Children of Atom Priesthood] |        :x:         |         |            |       |
-| [Old Longfellow][Old Longfellow]                            | :heavy_check_mark: |         |            | Promo |
-| [Trappers][Trappers]                                        |        :x:         |         |            |       |
+| Item                             |     Purchased      | Digital | Downloaded | Notes |
+| -------------------------------- | :----------------: | ------- | :--------: | ----- |
+| [Big Fish][Big Fish]             |        :x:         |         |            |       |
+| [Choir][Choir]                   |        :x:         |         |            |       |
+| [Old Longfellow][Old Longfellow] | :heavy_check_mark: |         |            | Promo |
+| [Priesthood][Priesthood]         |        :x:         |         |            |       |
+| [Trappers][Trappers]             |        :x:         |         |            |       |
 
-[Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish
-[Children of Atom Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir
-[Children of Atom Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood
-[Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow
-[Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers
+[Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish 'Raiders: Big Fish'
+[Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Children of Atom: Choir'
+[Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Survivors - Old Longfellow'
+[Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Children of Atom: Priesthood'
+[Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers 'Raiders: Trappers'
 
 ## Amazon TV Sets
 
@@ -1169,11 +1172,11 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Enclave Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/976b80dd-d2b6-4d48-9761-f340ce3865e0/BMCE-Enclave-v-1-0.pdf)
 
-| Item            | Quantity | Material | Included In                           | Cards                                                 | Notes |
-| --------------- | -------- | -------- | ------------------------------------- | ----------------------------------------------------- | ----- |
-| Enclave Soldier | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
-| Tesla Soldier   | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
-| Warrant Officer | 1        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Wave Card Expansion Pack][Enclave Card Deck] |       |
+| Item            | Quantity | Material | Included In                           | Cards                                  | Notes |
+| --------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ----- |
+| Enclave Soldier | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
+| Tesla Soldier   | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
+| Warrant Officer | 1        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
 
 ### Nuka-World Gangs Raiders
 
@@ -1184,70 +1187,76 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 #### The Disciples
 
-| Item                 | Quantity | Material | Included In                             | Cards                                                    | Notes                                                                                 |
-| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster A             | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+- (Wave 9 - Nuka-World) The Disciples Sub Faction / General Reference
+
+| Item                 | Quantity | Material | Included In                             | Cards                                        | Notes                                                                                 |
+| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
+| Waster A             | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Disciples Assembly Guide] |
 
 #### The Operators
 
-| Item                 | Quantity | Material | Included In                             | Cards                                                    | Notes                                                                                 |
-| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
-| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+- (Wave 9 - Nuka-World) The Operators Sub Faction / General Reference
+
+| Item                 | Quantity | Material | Included In                             | Cards                                        | Notes                                                                                 |
+| -------------------- | -------- | -------- | --------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
+| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Operators Assembly Guide] |
 
 #### The Pack
 
-| Item                 | Quantity | Material | Included In                   | Cards                                                    | Notes                                                                            |
-| -------------------- | -------- | -------- | ----------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka World Rules Expansion][Nuka World Rules Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+- (Wave 9 - Nuka-World) The Pack Sub Faction / General Reference
+
+| Item                 | Quantity | Material | Included In                   | Cards                                        | Notes                                                                            |
+| -------------------- | -------- | -------- | ----------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------- |
+| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 13) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 14) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 15) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 16) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 17) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 18) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 19) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 20) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 21) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
+| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Expansion][Nuka World Expansion] | [Assembly Guide (Page 22) <i class="far fa-file-pdf"/>][The Pack Assembly Guide] |
 
 ### Raiders
 
 [Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf)
 
-| Item           | Quantity | Material | Included In                           | Cards                                                 | Notes |
-| -------------- | -------- | -------- | ------------------------------------- | ----------------------------------------------------- | ----- |
-| Psycho         | 2        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
-| Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
-| Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
-| Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Wave Expansion Card Pack][Raiders Card Deck] |       |
+| Item           | Quantity | Material | Included In                           | Cards                                  | Notes |
+| -------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ----- |
+| Psycho         | 2        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
+| Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
+| Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
+| Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
 
 ### Robots
 
 [Robots Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf)
 
-| Item          | Quantity | Material | Included In                                            | Cards                                                      | Notes |
-| ------------- | -------- | -------- | ------------------------------------------------------ | ---------------------------------------------------------- | ----- |
-| Codsworth     | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]    |       |
-| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                                        | [Nuka World Rules Expansion][Nuka World Rules Expansion]   |       |
-| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]                                 | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
-| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist]                         | [The Automatron Card Expansion Pack][Automatron Card Deck] |       |
+| Item          | Quantity | Material | Included In                                            | Cards                                            | Notes |
+| ------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------ | ----- |
+| Codsworth     | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck] |       |
+| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                                        | [Nuka-World Expansion][Nuka World Expansion]     |       |
+| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]                                 | [Automatron Card Deck][Automatron Card Deck]     |       |
+| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist]                         | [Automatron Card Deck][Automatron Card Deck]     |       |
 
 ### Super Mutants
 
@@ -1272,40 +1281,43 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                   | Quantity | Material | Included In                                            | Cards                                                                    | Notes                                                                          |
-| ---------------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Blog][Blog Dogs]                                                              |
-| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Blog][Blog Dogs]                                                              |
-| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
-| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules Expansion][Forged in the Fire Rules Expansion] |                                                                                |
-| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Wave Card Expansion Pack][Enclave Card Deck]                    |                                                                                |
-| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play]          |
-| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules Expansion][Capital Rules Expansion]                       |                                                                                |
-| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
-| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
-| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
-| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]                         |                                                                                |
-| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
-| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                |
-| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Wave Expansion Card Pack][Institute Card Deck]                |                                                                                |
-| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Wave 1 Fundamentals Card Deck][Fundamentals Card Deck]                  |                                                                                |
+| Item                   | Quantity | Material | Included In                                            | Cards                                                        | Notes                                                                          |
+| ---------------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]             | [Blog][Blog Dogs]                                                              |
+| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck]             | [Blog][Blog Dogs]                                                              |
+| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]             |                                                                                |
+| Hancock                | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]                   |                                                                                |
+| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Expansion][Forged in the Fire Expansion] |                                                                                |
+| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Card Deck][Enclave Card Deck]                       |                                                                                |
+| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Nick Valentine         | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]                   |                                                                                |
+| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]             | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play]          |
+| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Expansion][Capital Expansion]                       |                                                                                |
+| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]             | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]             | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
+| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]             |                                                                                |
+| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]             |                                                                                |
+| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]             |                                                                                |
+| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]             |                                                                                |
+| Strong                 | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]                   |                                                                                |
+| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
+| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]                   |                                                                                |
+| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]                   |                                                                                |
+| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]             |                                                                                |
 
 [Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
 
 ### Unaligned
 
-| Item                | Quantity | Material | Included In                                | Cards                                                                | Notes |
-| ------------------- | -------- | -------- | ------------------------------------------ | -------------------------------------------------------------------- | ----- |
-| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [The Commonwealth Rules Expansion][The Commonwealth Rules Expansion] |       |
-| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Rules Expansion][New Vegas Rules Expansion]               |       |
-| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Wave Expansion Card Pack][Raiders Card Deck]                |       |
+| Item                | Quantity | Material | Included In                                | Cards                                            | Notes |
+| ------------------- | -------- | -------- | ------------------------------------------ | ------------------------------------------------ | ----- |
+| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [Commonwealth Expansion][Commonwealth Expansion] |       |
+| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Expansion][New Vegas Expansion]       |       |
+| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Card Deck][Raiders Card Deck]           |       |
 
 ## Game Cards
 
