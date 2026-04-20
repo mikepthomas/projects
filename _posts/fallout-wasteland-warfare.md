@@ -31,6 +31,7 @@ keywords:
 ---
 
 [Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
+[Blog GenCon]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
 [Blog Into The Wasteland]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
 [Blog Objective Pack]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
 [Blog Showdown in Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
@@ -286,14 +287,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Minatures
 
-| Item                                                     |     Purchased      | Digital                                                   |     Downloaded     | Notes |
-| -------------------------------------------------------- | :----------------: | --------------------------------------------------------- | :----------------: | ----- |
-| [Assaultrons & Protectrons][Assaultrons and Protectrons] |        :x:         |                                                           |                    |       |
-| [Raiders: Core Box][Raiders Core Box]                    | :heavy_check_mark: |                                                           |                    |       |
-| [Liberty Prime][Liberty Prime]                           | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: |       |
-| [Mysterious Stranger][Mysterious Stranger]               | :heavy_check_mark: |                                                           |                    | Promo |
-| [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                           |                    |       |
-| [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                           |                    |       |
+| Item                                                     |     Purchased      | Digital                                                   |     Downloaded     | Notes                       |
+| -------------------------------------------------------- | :----------------: | --------------------------------------------------------- | :----------------: | --------------------------- |
+| [Assaultrons & Protectrons][Assaultrons and Protectrons] |        :x:         |                                                           |                    |                             |
+| Glowing Ghouls                                           |        :x:         |                                                           |                    | [GenCon Promo][Blog GenCon] |
+| [Raiders: Core Box][Raiders Core Box]                    | :heavy_check_mark: |                                                           |                    |                             |
+| [Liberty Prime][Liberty Prime]                           | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: |                             |
+| [Mysterious Stranger][Mysterious Stranger]               | :heavy_check_mark: |                                                           |                    | Promo                       |
+| [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                           |                    |                             |
+| Stealth Coursers                                         |        :x:         |                                                           |                    | [GenCon Promo][Blog GenCon] |
+| [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                           |                    |                             |
 
 [Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons 'Robots: Assaultrons & Protectrons'
 [Raiders Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
@@ -528,16 +531,18 @@ This scenario was designed for using the `Robot Work Bench`.
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
-| [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)](printer-filament#esun-abs-silver) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material                                    | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+| [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)][Robot Work Bench Main] |      |      |        |      |   :x:   |       |
+
+[Robot Work Bench Main]: printer-filament#esun-abs-silver
 
 ## Wave 5 - New Vegas Expansion
 
@@ -1285,35 +1290,35 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                   | Quantity | Material | Included In                                            | Cards                                                | Notes                                                                          |
-| ---------------------- | -------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Blog][Blog Dogs]                                                              |
-| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Blog][Blog Dogs]                                                              |
-| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                                |
-| Hancock                | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                                |
-| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules][Forged in the Fire Rules] |                                                                                |
-| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Card Deck][Enclave Card Deck]               |                                                                                |
-| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Nick Valentine         | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                                |
-| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play]          |
-| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules][Capital Rules]                       |                                                                                |
-| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide <i class="far fa-file-pdf"/>][Survivor Settler Painting Guide] |
-| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                                |
-| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     |                                                                                |
-| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                                |
-| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]     |                                                                                |
-| Strong                 | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                                |
-| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
-| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                                                                |
-| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                                                                |
-| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                                |
+| Item                   | Quantity | Material | Included In                                            | Cards                                                | Notes                                                                 |
+| ---------------------- | -------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------------------------------- |
+| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Blog][Blog Dogs]                                                     |
+| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Blog][Blog Dogs]                                                     |
+| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                       |
+| Hancock                | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                       |
+| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules][Forged in the Fire Rules] |                                                                       |
+| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Card Deck][Enclave Card Deck]               |                                                                       |
+| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Nick Valentine         | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                       |
+| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Painting Guide (Page 6) <i class="far fa-file-pdf"/>][Rules of Play] |
+| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules][Capital Rules]                       |                                                                       |
+| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide <i class="far fa-file-pdf"/>][Settler Painting Guide] |
+| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide <i class="far fa-file-pdf"/>][Settler Painting Guide] |
+| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                       |
+| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     |                                                                       |
+| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                                                       |
+| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]     |                                                                       |
+| Strong                 | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                                                       |
+| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
+| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                                                       |
+| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                                                       |
+| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                                                       |
 
-[Survivor Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
+[Settler Painting Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf
 
 ### Unaligned
 
