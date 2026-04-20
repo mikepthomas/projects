@@ -135,48 +135,52 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 These are 3D Printable inserts to fit inside the [Two Player Starter Set][Two Player Starter Set] box to help organise it's contents.
 
-| Item                                 | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ----------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Big_Cards][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Small_Cards][Box Insert]            | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Deathclaw][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token1Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token2Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3][Box Insert]                 | 2        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token3-Lid][Box Insert]             | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Token4][Box Insert]                 | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Dice][Box Insert]                   | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal][Box Insert]      | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40Horizontal][Box Insert]       | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base30_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
-| [Base40_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)](printer-filament#tinmorry-pla-black) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material                                | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | --------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Big_Cards][Box Insert]              | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Small_Cards][Box Insert]            | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Deathclaw][Box Insert]              | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token1][Box Insert]                 | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token1Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token2][Box Insert]                 | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token2Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token3][Box Insert]                 | 2        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token3-Lid][Box Insert]             | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Token4][Box Insert]                 | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Dice][Box Insert]                   | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal][Box Insert]      | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Base40Horizontal][Box Insert]       | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Base30_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
+| [Base40_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)][Box Insert Main] |      |      |        |      |   :x:   |       |
 
 [Box Insert]: https://www.thingiverse.com/thing:3197502/files
+[Box Insert Main]: printer-filament#tinmorry-pla-black
 
 #### Caps Stash Tub
 
 3D Printed box to hold all your [Nuka Cola Caps][Nuka Cola Caps Set].
 
-| Item                     | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom][Caps Stash Tub] | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
-| [lid][Caps Stash Tub]    | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Item                     | Quantity | Material                                          | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------ | -------- | ------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [bottom][Caps Stash Tub] | 1        | [PrimaValue PLA (Dark Grey)][Caps Stash Tub Main] |      |      |        |      |   :x:   |       |
+| [lid][Caps Stash Tub]    | 1        | [PrimaValue PLA (Dark Grey)][Caps Stash Tub Main] |      |      |        |      |   :x:   |       |
 
 [Caps Stash Tub]: https://www.thingiverse.com/thing:3140194/files
+[Caps Stash Tub Main]: printer-filament#tinmorry-pla-black
 
 #### Euro-Mini Card Box
 
 A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Two Player Starter Set] and expansions.
 
-| Item                                | Quantity | Material                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | --------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2][Card Box]      | 6        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [eurobox-top-v2-longer][Card Box]   | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red)     |      |      |        |      |   :x:   |       |
-| [euroboxv2_double_longer][Card Box] | 1        | [PrimaValue PLA (Black)](printer-filament#primavalue-pla-black) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material                                | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | --------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2][Card Box]      | 6        | [PrimaValue PLA (Red)][Card Box Accent] |      |      |        |      |   :x:   |       |
+| [eurobox-top-v2-longer][Card Box]   | 1        | [PrimaValue PLA (Red)][Card Box Accent] |      |      |        |      |   :x:   |       |
+| [euroboxv2_double_longer][Card Box] | 1        | [PrimaValue PLA (Black)][Card Box Main] |      |      |        |      |   :x:   |       |
 
 [Card Box]: https://www.thingiverse.com/thing:7139338/files
+[Card Box Accent]: printer-filament#primavalue-pla-red
+[Card Box Main]: printer-filament#primavalue-pla-black
 
 ### Minatures
 
