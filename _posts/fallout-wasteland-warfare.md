@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-19T00:12:18.769Z
+lastmod: 2026-04-21T21:26:28.853Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -35,7 +35,9 @@ keywords:
 [Blog Into The Wasteland]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
 [Blog Objective Pack]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
 [Blog Showdown in Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
+[Blog Undiscovered Vault]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
 [Blog Unexpected Shepherd]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
+[Blog Wave 2 Updates]: https://modiphius.net/blogs/news/wave-2-document-updates
 
 # Table of contents
 
@@ -374,15 +376,15 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 
 ### Scenarios
 
-| Item                                          |     Purchased      | Digital                                                              |     Downloaded     | Notes                                                                           |
-| --------------------------------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------- |
-| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="far fa-file-pdf"/>][The Undiscovered Vault]          | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays) |
-| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="far fa-file-pdf"/>][The Beast of the Bottling Plant] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/wave-2-document-updates)                |
-| [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                      |                    | Part of the `Raiders Organised Play Kit`                                        |
+| Item                                          |     Purchased      | Digital                                                          |     Downloaded     | Notes                                    |
+| --------------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ---------------------------------------- |
+| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="far fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][Blog Undiscovered Vault]          |
+| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="far fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [Blog][Blog Wave 2 Updates]              |
+| [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                                  |                    | Part of the `Raiders Organised Play Kit` |
 
-[The Undiscovered Vault]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf
-[The Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
+[Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
+[Undiscovered Vault]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf
 
 #### The Beast of the Bottling Plant
 
@@ -431,7 +433,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [Institute: Core Box][Institute Core Box] |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set](#battle-for-boston) |
 | [T-51 Power Armour][T51 Power Armour]     |        :x:         |         |            |                                                                            |
 | [The Mechanist][The Mechanist]            | :heavy_check_mark: |         |            | Promo                                                                      |
-| [Unusual Allies][Unusual Allies]          |        :x:         |         |            |                                                                            |
+| [Unusual Allies][Unusual Allies]          | :heavy_check_mark: |         |            |                                                                            |
 | [Vault Personnel][Vault Personnel]        | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)                          |
 
 [Institute Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
@@ -594,15 +596,18 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                         |     Purchased      | Digital                                                                                                                               |     Downloaded     | Notes                                                 |
-| ------------------------------------------------------------ | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
-| [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf) |        :x:         |                                                       |
-| Astoundingly Awesome Tales 2                                 |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf)     |        :x:         |                                                       |
-| [Commonwealth Rules][Commonwealth Rules]                     | :heavy_check_mark: |                                                                                                                                       |                    |                                                       |
-| Into the Vault                                               |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf)                       | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
+| Item                                                         |     Purchased      | Digital                                                              |     Downloaded     | Notes                                                 |
+| ------------------------------------------------------------ | :----------------: | -------------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
+| [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 1 PDF] |        :x:         |                                                       |
+| Astoundingly Awesome Tales 2                                 |                    | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 2 PDF] |        :x:         |                                                       |
+| [Commonwealth Rules][Commonwealth Rules]                     | :heavy_check_mark: |                                                                      |                    |                                                       |
+| Into the Vault                                               |                    | [Buy <i class="far fa-file-pdf"/>][Into The Vault]                   | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
 
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
+[Astoundingly Awesome Tales 1 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf
+[Astoundingly Awesome Tales 2 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
 [Commonwealth Rules]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'The Commonwealth Rules Expansion'
+[Into The Vault]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf
 
 ### Minatures
 
@@ -700,15 +705,20 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                                |     Purchased      | Digital | Downloaded | Notes                                  |
-| ----------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
-| [Reilly's Rangers][Reillys Rangers] |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Rosa Meitner][Rosa Meitner]        | :heavy_check_mark: |         |            | Promo                                  |
-| [T-45 Heavy Armor][T45 Heavy Armor] |        :x:         |         |            |                                        |
+| Item                                                 |     Purchased      | Digital | Downloaded | Notes                                  |
+| ---------------------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
+| [Capital Companions][Capital Companions]             |        :x:         |         |            |                                        |
+| [Reilly's Rangers][Reillys Rangers]                  |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Rosa Meitner][Rosa Meitner]                         | :heavy_check_mark: |         |            | Promo                                  |
+| [T-45 Heavy Armor][T45 Heavy Armor]                  |        :x:         |         |            |                                        |
+| [Washington Personalities][Washington Personalities] |        :x:         |         |            |                                        |
+
+[Capital Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-capital-companions 'Survivors: Capital Companions'
 
 [Reillys Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers 'Survivors: Reilly\'s Rangers'
 [Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
 [T45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45 'Brotherhood of Steel: Heavy Armor (T45)'
+[Washington Personalities]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-washington-personalities 'Survivors: Washington Personalities'
 
 ### Scatter
 
@@ -767,19 +777,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                        | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
-| ----------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| [Mr. Fuzzy and The Ghoulish Remnants Rules][Mr Fuzzy Cards] |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
-| [The Dawn of the Mothman Rules][Dawn of the Mothman Cards]  |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
-| [The Crater and The Foundation Rules][The Crater Cards]     |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
-| [Invasion! Rules][Invasion Cards]                           |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
-| [Hungry Hills! Rules][Hungry Hills Cards]                   |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                        |
-| Spooktober Rules                                            |           | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                        |
-| [Catching Floaters Rules][Catching Floaters Cards]          |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
-| [Wasteland Wildlife Rules][Wasteland Wildlife Cards]        |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
-| [In Sheeps Clothing Rules][In Sheeps Clothing Cards]        |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
-| [Stoic Defenders Rules][Stoic Defenders Cards]              |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
-| [Scorched Plague Rules][Scorched Plague Cards]              |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
+| Item                                                        |     Purchased      | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
+| ----------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| [Mr. Fuzzy and The Ghoulish Remnants Rules][Mr Fuzzy Cards] | :heavy_check_mark: | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-21st)      |
+| [The Dawn of the Mothman Rules][Dawn of the Mothman Cards]  |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-19th)      |
+| [The Crater and The Foundation Rules][The Crater Cards]     |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-16th)    |
+| [Invasion! Rules][Invasion Cards]                           |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-20th) |
+| [Hungry Hills! Rules][Hungry Hills Cards]                   |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |                                                                        |
+| Spooktober Rules                                            |                    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |                                                                        |
+| [Catching Floaters Rules][Catching Floaters Cards]          |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-24th)   |
+| [Wasteland Wildlife Rules][Wasteland Wildlife Cards]        |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-february-21st)  |
+| [In Sheeps Clothing Rules][In Sheeps Clothing Cards]        |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-march-21st)     |
+| [Stoic Defenders Rules][Stoic Defenders Cards]              |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-18th)     |
+| [Scorched Plague Rules][Scorched Plague Cards]              |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-23rd)       |
 
 [Catching Floaters Cards]: https://connect.forgefire.games/products/catching-floaters-card-pack
 [Dawn of the Mothman Cards]: https://connect.forgefire.games/products/the-dawn-of-the-mothman-rules-packet-card-pack
@@ -834,12 +844,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                                     | Purchased | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
-| -------------------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| [Children of Atom Rules][Children of Atom Cards]         |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
-| [Arcadia and the Harbormen Rules][Harbormen Cards]       |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                        |
-| [Creatures of the Fog Rules][Creatures of the Fog Cards] |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                        |
-| [Longfellow and the Trappers Rules][Longfellow Cards]    |    :x:    | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                        |
+| Item                                                     |     Purchased      | Digital                                                                                                          |     Downloaded     | Notes                                                                  |
+| -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| [Children of Atom Rules][Children of Atom Cards]         |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-19th) |
+| [Arcadia and the Harbormen Rules][Harbormen Cards]       |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |                                                                        |
+| [Creatures of the Fog Rules][Creatures of the Fog Cards] |        :x:         | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |                                                                        |
+| [Longfellow and the Trappers Rules][Longfellow Cards]    | :heavy_check_mark: | [Free <i class="far fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |                                                                        |
 
 [Children of Atom Cards]: https://connect.forgefire.games/products/children-of-atom-card-pack
 [Creatures of the Fog Cards]: https://connect.forgefire.games/products/creatures-of-the-fog-card-pack
@@ -851,15 +861,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Item                             |     Purchased      | Digital | Downloaded | Notes |
 | -------------------------------- | :----------------: | ------- | :--------: | ----- |
 | [Big Fish][Big Fish]             |        :x:         |         |            |       |
-| [Choir][Choir]                   |        :x:         |         |            |       |
 | [Old Longfellow][Old Longfellow] | :heavy_check_mark: |         |            | Promo |
-| [Priesthood][Priesthood]         |        :x:         |         |            |       |
 | [Trappers][Trappers]             |        :x:         |         |            |       |
 
 [Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish 'Raiders: Big Fish'
-[Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir 'Children of Atom: Choir'
 [Old Longfellow]: https://modiphius.net/products/fallout-miniatures-survivors-old-longfellow 'Survivors - Old Longfellow'
-[Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood 'Children of Atom: Priesthood'
 [Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers 'Raiders: Trappers'
 
 ## Amazon TV Sets
@@ -890,9 +896,11 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item        | Purchased | Digital                                                                                                                    |     Downloaded     | Notes |
-| ----------- | :-------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| AI Handbook |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf) | :heavy_check_mark: |       |
+| Item        | Purchased | Digital                                          |     Downloaded     | Notes |
+| ----------- | :-------: | ------------------------------------------------ | :----------------: | ----- |
+| AI Handbook |           | [Free <i class="far fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: |       |
+
+[AI Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
@@ -937,17 +945,21 @@ Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2 Wastela
 
 The Battle Mode Rulebook gives more rules and advice for playing PvP style games.
 
-| Item                 | Purchased | Digital                                                                                                                                                              |     Downloaded     | Notes                 |
-| -------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | --------------------- |
-| Battle Mode Rulebook |           | [Free <i class="far fa-file-pdf"/>](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf) | :heavy_check_mark: | Made by the Community |
+| Item                 | Purchased | Digital                                                   |     Downloaded     | Notes                 |
+| -------------------- | :-------: | --------------------------------------------------------- | :----------------: | --------------------- |
+| Battle Mode Rulebook |           | [Free <i class="far fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: | Made by the Community |
+
+[Battle Mode Rulebook]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
 
 ## Co-Op Mode
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
-| Item           | Purchased | Digital                                                                                                                       |     Downloaded     | Notes |
-| -------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Co-Op Handbook |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf) | :heavy_check_mark: |       |
+| Item           | Purchased | Digital                                             |     Downloaded     | Notes |
+| -------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
+| Co-Op Handbook |           | [Free <i class="far fa-file-pdf"/>][Co-Op Handbook] | :heavy_check_mark: |       |
+
+[Co-Op Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
 
 ## Vault-Tec Simulator
 
@@ -1070,7 +1082,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                              |     Purchased      | Digital                                                  |     Downloaded     | Notes |
 | --------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----- |
 | [Core Rulebook][Core Rulebook]    | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: |       |
-| [Crew Folio][Crew Folio]          | :heavy_check_mark: | Included with purchase of physical item                  | :heavy_check_mark: |       |
+| [Crew Folio][Crew Folio]          | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: |       |
 | ┕ Rogue Knight                    | :heavy_check_mark: |                                                          |                    | Promo |
 | Spooktober Rules                  |                    | [Free <i class="far fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: |       |
 | Spooktober 2 Rules                |                    | [Free <i class="far fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |       |
@@ -1080,6 +1092,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
+[Crew Folio PDF]: https://modiphius.net/products/fallout-factions-crew-folio-pdf
 [Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
 [Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
 
