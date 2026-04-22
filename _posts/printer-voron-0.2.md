@@ -119,18 +119,16 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 | IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                       |
 | Meanwell LRS-150-24                                      | 1        | 1        |                                                     |
 | MicroSD Card                                             | 1        | 1        |                                                     |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | [LDO-35STH48-1684AH][A/B Motor]                     |
+| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                                  |
 | NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | [LDO-42STH25-1004CL200ET(VRN) Teflon Coat][Z Motor] |
-| Neopixel Sequins                                         |          | 2        | [FYSETC Neopixel Sequins with RGB][Sequins]         |
+| Neopixel Sequins                                         |          | 2        | FYSETC Neopixel Sequins with RGB                    |
 | Omron Mouse Button - Micro Switch                        | 1        | 1        |                                                     |
 | Raspberry Pi 4                                           | 1        | 1        |                                                     |
 | V0 Display                                               | 1        | 1        |                                                     |
 | Wago connectors (221-412)                                |          | 2        |                                                     |
 
-[A/B Motor]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-35sth48-1684ah 'LDO Stepper Motor (35STH48-1684AH) from OneTwo3D'
 [Hotend Fan]: https://www.onetwo3d.co.uk/product/ldo-v0-2-upgrade-kit-3010-fan 'LDO V0.2 Upgrade Kit – 3010 Fan from OneTwo3D'
 [Part Cooling]: http://www.gdstime.com/list_45/139.html 'GDSTime 3010 Blower Fan'
-[Sequins]: https://www.aliexpress.com/item/1005006018425337.html 'FYSETC RGB Sequins for Voron Mini StealthBurner from Ali Express'
 [Skirt Fans]: http://www.gdstime.com/pro1/64.html 'GDSTime 3510 Axial Fan'
 [Z Motor]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth25-1004cl200et 'LDO Stepper Motor (42STH25-1004CL200ET) from OneTwo3D'
 
@@ -146,14 +144,13 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 | JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness                      |
 | Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness                      |
 | Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |                                                             |
-| Thermal Fuse 150C                                  | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]        |
+| Thermal Fuse 150C                                  | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                 |
 | Umbilical PCB Boards                               |          | 1        | [LDO Picobilical PCB kit][Picobilical]                      |
 | Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness                      |
 
 > [!NOTE]
 > I ordered [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) cable chains specifying a Bending Radius of `R15`.
 
-[Bed Kit]: https://www.onetwo3d.co.uk/product/ldo-voron-0-1_0-2-build-plate-parts 'LDO Voron 0.1 & 0.2 Build Plate & Parts from OneTwo3D'
 [Cable Management]: https://www.amazon.co.uk/gp/product/B09BL9N1P1 'Cable Trunking Raceway Kit from Amazon'
 [Picobilical]: https://www.onetwo3d.co.uk/product/ldo-picobilical-pcb-kit 'LDO Picobilical PCB Kit from OneTwo3D'
 
@@ -175,15 +172,15 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 | Item                                                     | Quantity | Received | Notes                                                          |
 | -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------- |
-| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
-| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
+| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
+| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
 | ~PEI + 3M 468MP (200MP)~                                 | ~1~      |          | Not required as using Powder Coated Flex Buildplate            |
-| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
+| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
 | Spring Steel Flex Buildplate 120x120mm (OPTIONAL)        | 1        | 1        | Ultistik Premium ULTEM (PEI) Powder Coated Heatbed Steel Sheet |
-| Yellow die springs 8x4x20mm                              | 3        | 3        | In [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit]           |
+| Yellow die springs 8x4x20mm                              | 3        | 3        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
 
 > [!NOTE]
-> All parts are from the [LDO Voron V0.1 Build Plate & Parts Kit][Bed Kit].
+> All parts are from the `LDO Voron V0.1 Build Plate & Parts Kit`.
 
 ## Panels
 
@@ -246,22 +243,23 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 
 ## Mini-Fridge Door
 
-| Item                                    | Quantity | Received | Notes                                      |
-| --------------------------------------- | -------- | -------- | ------------------------------------------ |
-| Ø5x40mm Shaft                           | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| 5mm ID, 7mm OD, 8mm Long Sleeve Bearing | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| 6mm x 3mm Round Neodymium Magnets       | 12       | 12       | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| Door Panel 310x210mm                    | 1        | 1        | Linneo Voron 0.2 Mini Fridge PC Door Panel |
-| M3x8 BHCS                               | 10       | 10       | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| M3x8 SHCS                               | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| M3x16 BHCS                              | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| Makerbeam XL 15x15 200mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
-| Makerbeam XL 15x15 330mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door] |
+| Item                                    | Quantity | Received | Notes                                                           |
+| --------------------------------------- | -------- | -------- | --------------------------------------------------------------- |
+| Ø5x40mm Shaft                           | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| 5mm ID, 7mm OD, 8mm Long Sleeve Bearing | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| 6mm x 3mm Round Neodymium Magnets       | 12       | 12       | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| Door Panel 310x210mm                    | 1        | 1        | [Linneo Voron 0.2 Mini Fridge PC Door Panel][Fridge Door Panel] |
+| M3x8 BHCS                               | 10       | 10       | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| M3x8 SHCS                               | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| M3x16 BHCS                              | 4        | 4        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| Makerbeam XL 15x15 200mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
+| Makerbeam XL 15x15 330mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit][Fridge Door]                      |
 
 > [!NOTE]
-> Door panel is a [Linneo Voron 0.2 Mini Fridge PC Door Panel](https://www.onetwo3d.co.uk/product/linneo-voron-0-2-mini-fridge-pc-door-panel/) and all other parts are from a [LDO Mini-Fridge Door Kit][Fridge Door].
+> Door panel is a [Linneo Voron 0.2 Mini Fridge PC Door Panel][Fridge Door Panel] and all other parts are from a [LDO Mini-Fridge Door Kit][Fridge Door].
 
 [Fridge Door]: https://www.onetwo3d.co.uk/product/ldo-mini-fridge-clicky-clack-door-kit-for-voron-v0-2 'LDO Mini-Fridge (Clicky-Clack) Door Kit for Voron V0.2 from OneTwo3D'
+[Fridge Door Panel]: https://www.onetwo3d.co.uk/product/linneo-voron-0-2-mini-fridge-pc-door-panel 'Linneo Voron 0.2 Mini Fridge PC Door Panel from OneTwo3D'
 
 # Printing Parts
 
@@ -272,12 +270,15 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ## Tools
 
-| Item                                                                                                                                | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                     |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
-| [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/Tools%20(optional%20as%20needed)/Bearing_Press_Tool_x1.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                         | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                           |
-| [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/Tools%20(optional%20as%20needed)/Pully_Tool_x1.stl>)                 | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                           |
+| Item                                                                                                                              | Quantity | Material                                             | Size  | Weight | Cost  |      Printed       | Notes                     |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
+| [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Bearing_Press_Tool_x1.stl>) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [Frame_Jig](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Frame_Jig_x1.stl>)                   | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                       | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |                           |
+| [Pin_Jig_Bottom](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Bottom.stl>)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [Pin_Jig_Top](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Top.stl>)                  | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pulley_Tool_x1.stl>)                | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |       |        |       |        :x:         | This is a TULIP V2.0 Part |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                         | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |                           |
 
 ## Frame
 
@@ -465,31 +466,31 @@ The benefit for the A/B Drives is that the A/B motors are mounted solidly to the
 
 ### :negative_squared_cross_mark: A Drive
 
-| Item                                                                                                                                 | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| ~[A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)~                      | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| ~[A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)~                      | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| ~[A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl)~                  | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [Mid_Mount_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/%5Ba%5D_Mid_Mount_A_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Mount_Plate_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Mount_Plate_A_x1.stl)     | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                     | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~                        | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [Top_Mount_A](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Top_Mount_A_x1.stl)         | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| Item                                                                                                                | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| ~[A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)~     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| ~[A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)~     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| ~[A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl)~ | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [Mid_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_A_x1.stl)  | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Mount_Plate_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_A_x1.stl)      | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [Top_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_A_x1.stl)          | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ### :negative_squared_cross_mark: B Drive
 
-| Item                                                                                                                                 | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| ~[B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)~                      | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| ~[B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)~                      | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| ~[B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl)~                  | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [Mid_Mount_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/%5Ba%5D_Mid_Mount_B_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Mount_Plate_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Mount_Plate_B_x1.stl)     | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                     | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~                        | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [Top_Mount_B](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20AB%20mounts/NEMA14%20S22/Top_Mount_B_x1.stl)         | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| Item                                                                                                                | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
+| ------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| ~[B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)~     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| ~[B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)~     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| ~[B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl)~ | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [Mid_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_B_x1.stl)  | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Mount_Plate_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_B_x1.stl)      | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [Top_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_B_x1.stl)          | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ## A/B Idlers
 
@@ -502,30 +503,30 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ### :negative_squared_cross_mark: A Idler
 
-| Item                                                                                                                                                                            | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
-| ~[A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)~                                                                             | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
-| [A_Idler_Static_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/A_Idler_Static_LazyCam_x1.stl)                           | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| ~[A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)~                                                                             | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
-| [Idler_A_Tensioner_Lower_LaztCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_A_Tensioner_Lower_LaztCam_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| [Idler_A_Tensioner_Upper_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_A_Tensioner_Upper_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                   | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                                                                     |
-| [LazyCams_C-A CamArm_v1](https://www.printables.com/model/533483)                                                                                                               | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
-| [LazyCams_C-A CamLock_v1](https://www.printables.com/model/533483)                                                                                                              | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| Item                                                                                                                                                                                    | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
+| ~[A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
+| [A_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/A_Idler_Static_LazyCam_x1.stl>)                           | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
+| [Idler_A_Tensioner_Lower_LaztCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Lower_LaztCam_x1.stl>) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| [Idler_A_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Upper_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                                                                     |
+| [LazyCams_C-A CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [LazyCams_C-A CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
 
 ### :negative_squared_cross_mark: B Idler
 
-| Item                                                                                                                                                                            | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
-| ~[B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)~                                                                             | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
-| [B_Idler_Static_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/B_Idler_Static_LazyCam_x1.stl)                           | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| ~[B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)~                                                                             | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
-| [Idler_B_Tensioner_Lower_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_B_Tensioner_Lower_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| [Idler_B_Tensioner_Upper_LazyCam](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20Idler%20tensioners/LazyCams/%5Ba%5D_Idler_B_Tensioner_Upper_LazyCam_x1.stl) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
-| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                   | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                                                                     |
-| [LazyCams_C-B CamArm_v1](https://www.printables.com/model/533483)                                                                                                               | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
-| [LazyCams_C-B CamLock_v1](https://www.printables.com/model/533483)                                                                                                              | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                             | 4        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                              |
+| Item                                                                                                                                                                                    | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
+| ~[B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
+| [B_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/B_Idler_Static_LazyCam_x1.stl>)                           | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                                                                     |
+| [Idler_B_Tensioner_Lower_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Lower_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| [Idler_B_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Upper_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part                                           |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           | ~1~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                                                                     |
+| [LazyCams_C-B CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [LazyCams_C-B CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      | 1        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a mod by [AKinferno](https://www.printables.com/@AKinferno) |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                                     | 4        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                              |
 
 ## Z Axis
 
@@ -586,25 +587,27 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: XY Joint Left
 
-| Item                                                                                                                                                                       | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                      | ~2~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [MMU_XY_Joint_Left_Tops](<https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Left_Tops.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                                                           | 2        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl)~                                                            | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| [XY_Joint_Left_Lower](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY_Joint_Left_Lower.stl)                                               | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl)~                                                            | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| Item                                                                                                                                                                  | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                 | ~2~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [MMU_XY_Joint_Left_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Left_Tops.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                          | 2        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| [XY_Joint_Left_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Lower_x1.stl)                                            | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| [XY_Joint_Left_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Upper_x1.stl)                                            | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ### :negative_squared_cross_mark: XY Joint Right
 
-| Item                                                                                                                                                                         | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                        | ~2~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
-| [MMU_XY_Joint_Right_Tops](<https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Right_Tops.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| [Sapcer_Hex](https://github.com/Amekyras/tulip/blob/main/STLs/Sapcer_Hex_x6.stl)                                                                                             | 2        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl)~                                                            | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
-| [XY_Joint_Right_Lower](https://github.com/Amekyras/tulip/blob/main/STLs/%5BREQUIRED%5D%20XY%20joints/XY_Joint_Right_Lower.stl)                                               | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
-| ~[XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl)~                                                            | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| Item                                                                                                                                                                    | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                   | ~2~      | [LDO ASA (Orange)][accent] |      |        |      |   :x:   |                           |
+| [MMU_XY_Joint_Right_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Right_Tops.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                            | 2        | [LDO ASA (Orange)][accent] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| [XY_Joint_Right_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Lower_x1.stl)                                            | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
+| ~[XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   |                           |
+| [XY_Joint_Right_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Upper_x1.stl)                                            | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part |
 
 ### :negative_squared_cross_mark: X Axis
 
@@ -812,12 +815,12 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Picobilical Motor Panel
 
-| Item                                                                                                                                           | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------- |
-| [Cable_Tie_Point](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/Cable_Tie_Point.stl>)                  | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                               |
-| [Cover_Plate_MMU](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/MMU%20(optional)/Cover_Plate_MMU.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
-| ~[frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl)~                              | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a LDO Picobilical Part                          |
-| [Strain_Relief](<https://github.com/Amekyras/tulip/blob/main/STLs/Umbilicals%20(optional)/PicoBilical/Strain_Relief.stl>)                      | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
+| Item                                                                                                                                                       | Quantity | Material                   | Size | Weight | Cost | Printed | Notes                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------- |
+| [Cable_Tie_Point](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Cable_Tie_Point.stl>)                  | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part                               |
+| [Cover_Plate_MMU](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/MMU%20(optional)/Cover_Plate_MMU.stl>) | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
+| ~[frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl)~                                          | ~1~      | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a LDO Picobilical Part                          |
+| [Strain_Relief](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Strain_Relief.stl>)                      | 1        | [LDO ABS (Black)][primary] |      |        |      |   :x:   | This is a TULIP V2.0 Part, Replaces `frame_cover_plate` |
 
 ### :negative_squared_cross_mark: Detachable Spool Holder
 
