@@ -7,6 +7,8 @@ author: Mike Thomas
 description: This is a list of 3D printer filament I have purchased over the years and how I have printed with it.
 preview: /assets/blog/printer-filament/filament-hero.jpg
 slug: /projects/printer-filament
+related:
+  - /projects/printer-spool-tower
 draft: false
 tags:
   - Anet A8
