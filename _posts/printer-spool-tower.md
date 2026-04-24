@@ -1,9 +1,9 @@
 ---
-title: Spool Tower
-heading: Ways to use empty Filament Spools
+title: Digital Taxidermy Spool Tower
+heading: 3D Printing stuff to re-use empty plastic Filament Spools
 date: 2026-04-23T15:52:15.917Z
 author: Mike Thomas
-description: 3D Printing things to re-use empty plastic Filament Spools.
+description: Using Digital Taxidermy's Spool Tower creations to re-use empty Filament Spools.
 preview: /assets/blog/printer-filament/filament-hero.jpg
 slug: /projects/printer-spool-tower
 related:
