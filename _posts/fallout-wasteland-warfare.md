@@ -11,6 +11,7 @@ description: |
 preview: /assets/blog/fallout-wasteland-warfare/fallout-wasteland-warfare-hero.jpg
 slug: /projects/fallout-wasteland-warfare
 related:
+  - /projects/printer-spool-tower
   - /projects/brotherhood-of-steel
   - /projects/nuka-world
   - /projects/red-rocket
@@ -26,8 +27,8 @@ categories:
 keywords:
   - Fallout
   - Modiphius
-  - Wargaming
   - Roleplaying
+  - Wargaming
 ---
 
 [Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
@@ -997,12 +998,17 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                                                                                                         |     Downloaded     | Notes                                                                  |
-| ------------------------------ | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency)              | :heavy_check_mark: |                                                                        |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd)        | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd]                                       |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+| Item                           | Purchased | Digital                                                   |     Downloaded     | Notes                                                                  |
+| ------------------------------ | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| Machine Frequency              |           | [Buy <i class="far fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: |                                                                        |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="far fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd]                                       |
+| The Unexpected Shepherd Part 2 |           | [Buy <i class="far fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
+| The Unexpected Shepherd Part 3 |           | [Buy <i class="far fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+
+[Machine Frequency]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency
+[Unexpected Shepherd 1]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd
+[Unexpected Shepherd 2]: https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf
+[Unexpected Shepherd 3]: https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf
 
 # Fallout: The Roleplaying Game (2d20)
 
@@ -1014,60 +1020,99 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Items
 
-| Item                                                                                                                       |     Purchased      | Digital                                                                                                                    |     Downloaded     | Notes                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------ |
-| [Core Rulebook](https://modiphius.net/products/falloutrpg_core-rulebook)                                                   | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/falloutrpg_corerulebook-pdf)                             | :heavy_check_mark: |                                                                                      |
-| [Gamemaster's Toolkit](https://web.archive.org/web/20240524154444/https://www.modiphius.net/products/falloutrpg_gmtoolkit) |        :x:         | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf)    | :heavy_check_mark: |                                                                                      |
-| [GM Screen + Booklet](https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-flysheet)              |        :x:         | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-pdf)      | :heavy_check_mark: |                                                                                      |
-| [Perk Cards](https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards)                                       | :heavy_check_mark: |                                                                                                                            |                    |                                                                                      |
-| [Perk Cards 2](https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards-2)                                   | :heavy_check_mark: |                                                                                                                            |                    | Contains all the perks contained in the `Settler's Guide` and the `Wanderer's Guide` |
-| Quickstart Guide                                                                                                           |                    | [Free <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-quickstart-guide-pdf-free) | :heavy_check_mark: |                                                                                      |
-| [Starter Set](https://modiphius.net/products/fallout-the-roleplaying-game-starter-set)                                     | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-starter-set-pdf)            | :heavy_check_mark: |                                                                                      |
+| Item                                               |     Purchased      | Digital                                               |     Downloaded     | Notes                                                                                |
+| -------------------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------ |
+| [Core Rulebook][Core Rulebook]                     | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Core Rulebook PDF] | :heavy_check_mark: |                                                                                      |
+| [Gamemaster's Toolkit][GM Toolkit]                 |        :x:         | [Buy <i class="far fa-file-pdf"/>][GM Toolkit PDF]    | :heavy_check_mark: |                                                                                      |
+| [GM Screen + Booklet][GM Screen]                   |        :x:         | [Buy <i class="far fa-file-pdf"/>][GM Screen PDF]     | :heavy_check_mark: |                                                                                      |
+| [New Vegas Setting Guide][New Vegas Setting Guide] |        :x:         |                                                       |                    |                                                                                      |
+| [Perk Cards][Perk Cards]                           | :heavy_check_mark: |                                                       |                    |                                                                                      |
+| [Perk Cards 2][Perk Cards 2]                       | :heavy_check_mark: |                                                       |                    | Contains all the perks contained in the `Settler's Guide` and the `Wanderer's Guide` |
+| Quickstart Guide                                   |                    | [Free <i class="far fa-file-pdf"/>][Quickstart Guide] | :heavy_check_mark: |                                                                                      |
+| [Starter Set][Starter Set]                         | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Starter Set PDF]   | :heavy_check_mark: |                                                                                      |
+
+[Core Rulebook]: https://modiphius.net/products/falloutrpg_core-rulebook
+[Core Rulebook PDF]: https://modiphius.net/products/falloutrpg_corerulebook-pdf
+[GM Screen]: https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-flysheet
+[GM Screen PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-pdf
+[GM Toolkit]: https://web.archive.org/web/20240524154444/https://www.modiphius.net/products/falloutrpg_gmtoolkit
+[GM Toolkit PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf
+[New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
+[Perk Cards]: https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards
+[Perk Cards 2]: https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards-2
+[Quickstart Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-quickstart-guide-pdf-free
+[Starter Set]: https://modiphius.net/products/fallout-the-roleplaying-game-starter-set
+[Starter Set PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-starter-set-pdf
 
 ### Astoundingly Awesome Tales
 
-| Item                                                                                                                                         |     Purchased      | Digital                                                                                                                      |     Downloaded     | Notes                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ |
-| [Issue No. 1 - Orange Coloured Sky](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)        | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf)       | :heavy_check_mark: |                                                              |
-| [Issue No. 2 - Fully Operational](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)          | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf)        | :heavy_check_mark: |                                                              |
-| [Issue No. 3 - Showdown in Skull Canyon](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)   | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf) | :heavy_check_mark: |                                                              |
-| [Issue No. 4 - Hunted!](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus)                    | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf)                   | :heavy_check_mark: |                                                              |
-| [Issue No. 5 - Raider Base of Your Dreams](https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus) | :heavy_check_mark: |                                                                                                                              |                    | This is only available as a bonus issue in the physical book |
-| Issue No. 6 - Into the Abyss                                                                                                                 |                    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf)           | :heavy_check_mark: |                                                              |
+| Item                                                                       |     Purchased      | Digital                                                          |     Downloaded     | Notes                                                  |
+| -------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ------------------------------------------------------ |
+| [Issue No. 1 - Orange Coloured Sky][Astoundingly Awesome Tales 1-5]        | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 1] | :heavy_check_mark: |                                                        |
+| [Issue No. 2 - Fully Operational][Astoundingly Awesome Tales 1-5]          | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 2] | :heavy_check_mark: |                                                        |
+| [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 3] | :heavy_check_mark: |                                                        |
+| [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 4] | :heavy_check_mark: |                                                        |
+| [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                                                  |                    | This is only available as a bonus in the physical book |
+| Issue No. 6 - Into the Abyss                                               |                    | [Buy <i class="far fa-file-pdf"/>][Astoundingly Awesome Tales 6] | :heavy_check_mark: |                                                        |
+
+[Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
+[Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf
+[Astoundingly Awesome Tales 2]: https://modiphius.net/products/fallout-the-roleplaying-game-fully-operational-pdf
+[Astoundingly Awesome Tales 3]: https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf
+[Astoundingly Awesome Tales 4]: https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf
+[Astoundingly Awesome Tales 6]: https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf
 
 ### Guide Book
 
-| Item                                                                                                      | Purchased | Digital                                                                                                                  |     Downloaded     | Notes |
-| --------------------------------------------------------------------------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [Settler's Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement)   |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf)  | :heavy_check_mark: |       |
-| [Wanderer's Guide Book](https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book) |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book-pdf) | :heavy_check_mark: |       |
+| Item                                     | Purchased | Digital                                                 |     Downloaded     | Notes |
+| ---------------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | ----- |
+| [Settler's Guide Book][Settlers Guide]   |    :x:    | [Buy <i class="far fa-file-pdf"/>][Settlers Guide PDF]  | :heavy_check_mark: |       |
+| [Wanderer's Guide Book][Wanderers Guide] |    :x:    | [Buy <i class="far fa-file-pdf"/>][Wanderers Guide PDF] | :heavy_check_mark: |       |
+
+[Settlers Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement
+[Settlers Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf
+[Wanderers Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book
+[Wanderers Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-wanderers-guide-book-pdf
 
 ### Map Pack
 
-| Item                                                          | Purchased | Digital                                                                                                                          |     Downloaded     | Notes |
-| ------------------------------------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| [Map Pack 1: Vault][Map Pack 1 Vault]                         |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf)             | :heavy_check_mark: |       |
-| [Map Pack 2: Wasteland Locales][Map Pack 2 Wasteland Locales] |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf) | :heavy_check_mark: |       |
+| Item                                        | Purchased | Digital                                            |     Downloaded     | Notes |
+| ------------------------------------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
+| [Map Pack 1: Vault][Map Pack 1]             |    :x:    | [Buy <i class="far fa-file-pdf"/>][Map Pack 1 PDF] | :heavy_check_mark: |       |
+| [Map Pack 2: Wasteland Locales][Map Pack 2] |    :x:    | [Buy <i class="far fa-file-pdf"/>][Map Pack 2 PDF] | :heavy_check_mark: |       |
 
-[Map Pack 1 Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
-[Map Pack 2 Wasteland Locales]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales
+[Map Pack 1]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
+[Map Pack 1 PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf
+[Map Pack 2]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales
+[Map Pack 2 PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-2-wasteland-locales-pdf
 
 ### NPC Pack
 
-| Item                                | Purchased | Digital                                                                                                                        |     Downloaded     | Notes |
-| ----------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| NPC Pack - Hollywood Heroes         |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf)                  | :heavy_check_mark: |       |
-| NPC Pack 1 - The Rust Devils        |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-npc-pack-1-the-rust-devils-pdf) | :heavy_check_mark: |       |
-| NPC Pack 2 - Enclave Remnants       |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-2d20-npc-pack-2-enclave-remnants-pdf)                | :heavy_check_mark: |       |
-| NPC Pack 3 - Reilly's Rangers       |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-2d20-npc-pack-3-reillys-rangers-pdf)                 | :heavy_check_mark: |       |
-| NPC Pack 4 - Mariposa Military Base |           | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-2d20-npc-pack-4-mariposa-military-base-pdf)          | :heavy_check_mark: |       |
+| Item                                | Purchased | Digital                                                       |     Downloaded     | Notes |
+| ----------------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----- |
+| NPC Pack - Hollywood Heroes         |           | [Buy <i class="far fa-file-pdf"/>][NPC Pack Hollywood Heroes] | :heavy_check_mark: |       |
+| NPC Pack 1 - The Rust Devils        |           | [Buy <i class="far fa-file-pdf"/>][NPC Pack 1]                | :heavy_check_mark: |       |
+| NPC Pack 2 - Enclave Remnants       |           | [Buy <i class="far fa-file-pdf"/>][NPC Pack 2]                | :heavy_check_mark: |       |
+| NPC Pack 3 - Reilly's Rangers       |           | [Buy <i class="far fa-file-pdf"/>][NPC Pack 3]                | :heavy_check_mark: |       |
+| NPC Pack 4 - Mariposa Military Base |           | [Buy <i class="far fa-file-pdf"/>][NPC Pack 4]                | :heavy_check_mark: |       |
+
+[NPC Pack Hollywood Heroes]: https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf
+[NPC Pack 1]: https://modiphius.net/products/fallout-the-roleplaying-game-npc-pack-1-the-rust-devils-pdf
+[NPC Pack 2]: https://modiphius.net/products/fallout-2d20-npc-pack-2-enclave-remnants-pdf
+[NPC Pack 3]: https://modiphius.net/products/fallout-2d20-npc-pack-3-reillys-rangers-pdf
+[NPC Pack 4]: https://modiphius.net/products/fallout-2d20-npc-pack-4-mariposa-military-base-pdf
 
 ### Quest Book
 
-| Item                                                                                              | Purchased | Digital                                                                                                            |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------ | :----------------: | ----- |
-| [Royal Flush](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush)            |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf)    |        :x:         |       |
-| [Winter of Atom](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book) |    :x:    | [Buy <i class="far fa-file-pdf"/>](https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf) | :heavy_check_mark: |       |
+| Item                             | Purchased | Digital                                                |     Downloaded     | Notes |
+| -------------------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----- |
+| [Royal Flush][Royal Flush]       |    :x:    | [Buy <i class="far fa-file-pdf"/>][Royal Flush PDF]    |        :x:         |       |
+| [Winter of Atom][Winter of Atom] |    :x:    | [Buy <i class="far fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: |       |
+
+[Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
+[Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
+[Winter of Atom]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book
+[Winter of Atom PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf
 
 # Fallout: Factions
 
