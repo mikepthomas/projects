@@ -45,60 +45,78 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) an
 
 ### Sourcing Parts
 
-| Item                                       | Quantity | Received | Notes                                                                                                                                                        |
-| ------------------------------------------ | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Befaco Bananuts (Black)                    | 25       | 25       | Available from [Befaco](https://www.befaco.org/bananuts)                                                                                                     |
-| Befaco Bananuts (Red)                      | 25       | 25       | Available from [Befaco](https://www.befaco.org/bananuts)                                                                                                     |
-| Befaco Bananuts Wrench Tool                | 1        | 1        | Available from [Befaco](https://www.befaco.org/bananuts)                                                                                                     |
-| Befaco Knurlies                            | 100      | 100      | Available from [Befaco](https://www.befaco.org/knurlies)                                                                                                     |
-| Befaco Midi Cable (Type B)                 | 1        | 1        | Available from [Befaco](https://www.befaco.org/midi-cables)                                                                                                  |
-| Befaco Squid Cable                         | 1        | 1        | Available from [Befaco](https://www.befaco.org/squid-cable-mult)                                                                                             |
-| Eurorack Blank Panels (Circuit Design)     | Set of 7 | Set of 7 | Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis) |
-| Eurorack Blank Panels (Erica Synths Blank) | 2 x 8HP  | 2 x 8HP  | Aluminium                                                                                                                                                    |
-| Eurorack Blank Panels (MH Eurorack Logo)   | 3 x 4HP  | 3 x 4HP  | PCB, Came free with [MH Eurorack Kits](#mh-eurorack)                                                                                                         |
-| Eurorack Blank Panels (Thonk Logo)         | 2 x 2HP  | 2 x 2HP  | 1 Aluminium and 1 PCB                                                                                                                                        |
+| Item                                                               | Quantity | Received | Notes                                           |
+| ------------------------------------------------------------------ | -------- | -------- | ----------------------------------------------- |
+| [Befaco Bananuts (Black)][Befaco Bananuts]                         | 25       | 25       |                                                 |
+| [Befaco Bananuts (Red)][Befaco Bananuts]                           | 25       | 25       |                                                 |
+| [Befaco Bananuts Wrench Tool][Befaco Bananuts]                     | 1        | 1        |                                                 |
+| [Befaco Knurlies][Befaco Knurlies]                                 | 100      | 100      |                                                 |
+| [Befaco Midi Cable][Befaco Midi Cable]                             | 1        | 1        | Type B                                          |
+| [Befaco Squid Cable][Befaco Squid Cable]                           | 1        | 1        |                                                 |
+| [Blind Panels (Erica Synths)][Blind Panels Erica Synths]           | 2 x 8HP  | 2 x 8HP  | Blank Aluminium                                 |
+| [Blind Panels (Modular Synth Lab)][Blind Panels Modular Synth Lab] | Set of 7 | Set of 7 | Circuit Design                                  |
+| Blind Panels (MH Eurorack)                                         | 3 x 4HP  | 3 x 4HP  | PCB, Free with [MH Eurorack Kits](#mh-eurorack) |
+| [Blind Panels (Thonk)][Blind Panels Thonk]                         | 2 x 2HP  | 2 x 2HP  | 1 Aluminium and 1 PCB                           |
 
-## Power
+[Befaco Bananuts]: https://www.befaco.org/bananuts
+[Befaco Knurlies]: https://www.befaco.org/knurlies
+[Befaco Midi Cable]: https://www.befaco.org/midi-cables
+[Befaco Squid Cable]: https://www.befaco.org/squid-cable-mult
+[Blind Panels Erica Synths]: https://www.ericasynths.lv/blind-panel
+[Blind Panels Modular Synth Lab]: https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis
+[Blind Panels Thonk]: https://www.thonk.co.uk/product-category/thonk-blank-panels
+
+## Power Supply
 
 ### Sourcing Parts
 
-| Item                            | Quantity | Received | Notes                                                                                                                                   |
-| ------------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Befaco Passive Bus              | 1        | 1        | Available from [Befaco](https://www.befaco.org/passive-bus)                                                                             |
-| Eurorack Flying Bus Board Cable | 1        | 1        | 50cm Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors) |
-| Mean Well RT65B Power Supply    | 1        | 1        | Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b)                           |
+| Item                                     | Quantity | Received | Notes       |
+| ---------------------------------------- | -------- | -------- | ----------- |
+| [Befaco Passive Bus][Befaco Passive Bus] | 1        | 1        |             |
+| [Flying Bus Cable][Flying Bus Cable]     | 1        | 1        | 50cm Length |
+| [Mean Well RT65B][Mean Well RT65B]       | 1        | 1        |             |
+
+[Befaco Passive Bus]: https://www.befaco.org/passive-bus
+[Flying Bus Cable]: https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors
+[Mean Well RT65B]: https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b
 
 ## SP1
 
-I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables](https://www.printables.com/model/203562)
+I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables][SP1 Case].
+
+[SP1 Case]: https://www.printables.com/model/203562/files
+[SP1Cap25 Resized]: https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl
 
 ### Sourcing Parts
 
-| Item                          | Quantity                   | Received | Notes                                                                                                                           |
-| ----------------------------- | -------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| M3 Nylon Screws               | 40                         | 42       | Nylon can prevent [Rack Rash](https://learningmodular.com/glossary/rack-rash)                                                   |
-| M3 Threaded Strip Insert 84HP | 4 (6 including dust cover) | 6        | Available from [Modular Synth Lab](https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP) |
+| Item              | Quantity                   | Received | Notes                                    |
+| ----------------- | -------------------------- | -------- | ---------------------------------------- |
+| M3 Nylon Screws   | 40                         | 42       | Nylon can prevent [Rack Rash][Rack Rash] |
+| M3 Threaded Strip | 4 (6 including dust cover) | 6 x 84HP |                                          |
+
+[M3 Threaded Strip]: https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP
+[Rack Rash]: https://learningmodular.com/glossary/rack-rash
 
 ### Printing Parts
 
 #### Case
 
-| Item                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [SP110HPRC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H25GM](https://www.printables.com/model/203562/files)  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP110HPLC](https://www.printables.com/model/203562/files) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H10C](https://www.printables.com/model/203562/files)   | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [SP1H10 v6](https://www.printables.com/model/203562/files) | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| Item                  | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [SP110HPRC][SP1 Case] | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H25GM][SP1 Case]  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP110HPLC][SP1 Case] | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H10C][SP1 Case]   | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [SP1H10 v6][SP1 Case] | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 
 #### Dust Cover
 
-| Item                                                                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes                                                                                 |
-| ---------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------- |
-| [SP1CapRC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1CapLC](https://www.printables.com/model/203562/files)                                                  | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1Cap10](https://www.printables.com/model/203562/files)                                                  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                       |
-| [SP1Cap25](https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl) | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself by extending SP1Cap10 |
+| Item                         | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes                                                                               |
+| ---------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------- |
+| [SP1CapRC][SP1 Case]         | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                     |
+| [SP1CapLC][SP1 Case]         | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                     |
+| [SP1Cap10][SP1 Case]         | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |                                                                                     |
+| [SP1Cap25][SP1Cap25 Resized] | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself, extending SP1Cap10 |
 
 # Parts For Testing
 
@@ -318,7 +336,9 @@ Many of the parts sourced are used in the Erica Synths EDU DIY series. `Quantity
 
 ## Oscilloscope
 
-I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack Module](https://www.thingiverse.com/thing:3631288). I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
+I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack Module][Oscilloscope Module]. I did not want to spend a lot of money on a decent oscilloscope, I just need one "good enough" to help with visualising waveforms and to get an idea of what output a module is producing.
+
+[Oscilloscope Module]: https://www.thingiverse.com/thing:3631288/files
 
 ### Sourcing Parts
 
@@ -329,13 +349,13 @@ I also plan on building a cheap DIY Oscilloscope kit into a [3D printed Eurorack
 
 ### Printing Parts
 
-| Item                                                       | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bracket](https://www.thingiverse.com/thing:3631288/files) | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [Switch](https://www.thingiverse.com/thing:3631288/files)  | 3        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [Spacers](https://www.thingiverse.com/thing:3631288/files) | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [Button](https://www.thingiverse.com/thing:3631288/files)  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
-| [Panel](https://www.thingiverse.com/thing:3631288/files)   | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| Item                           | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------ | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bracket][Oscilloscope Module] | 2        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [Switch][Oscilloscope Module]  | 3        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [Spacers][Oscilloscope Module] | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [Button][Oscilloscope Module]  | 4        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
+| [Panel][Oscilloscope Module]   | 1        | [PolyLite PLA Pro (Black)](printer-filament#polylite-pla-pro-black) |      |      |        |      |   :x:   |       |
 
 # Erica Synths
 
@@ -1298,6 +1318,8 @@ Row 1
 - 8 HP [Hi-Hat](#hi-hat)
 - 10 HP [Bucket Brigade Delay (BBD)](#bucket-brigade-delay-bbd)
 
+[New Design Panels]: https://www.ericasynths.lv/new-design-edu-diy-system-panels
+
 Row 2
 
 - 34 HP [Drum Sequencer](#drum-sequencer)
@@ -1312,11 +1334,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                    | Quantity | Received | Notes                                                                                                              |
-| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| ~EDUKICK1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
-| EDUKICK2P Front Panel   | 1        | 1        |                                                                                                                    |
-| EDUKICK2 PCB            | 1        | 1        |                                                                                                                    |
+| Item                    | Quantity | Received | Notes                                                                    |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------ |
+| ~EDUKICK1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel][New Design Panels] |
+| EDUKICK2P Front Panel   | 1        | 1        |                                                                          |
+| EDUKICK2 PCB            | 1        | 1        |                                                                          |
 
 #### Capacitors
 
@@ -1397,11 +1419,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                    | Quantity | Received | Notes                                                                                                              |
-| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| ~EDUSNAR1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
-| EDUSNAR2P Front Panel   | 1        | 1        |                                                                                                                    |
-| EDUSNAR2 PCB            | 1        | 1        |                                                                                                                    |
+| Item                    | Quantity | Received | Notes                                                                    |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------ |
+| ~EDUSNAR1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel][New Design Panels] |
+| EDUSNAR2P Front Panel   | 1        | 1        |                                                                          |
+| EDUSNAR2 PCB            | 1        | 1        |                                                                          |
 
 #### Capacitors
 
@@ -1588,11 +1610,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                    | Quantity | Received | Notes                                                                                                              |
-| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| ~EDUHHAT1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
-| EDUHHAT2P Front Panel   | 1        | 1        |                                                                                                                    |
-| EDUHHAT2 PCB            | 1        | 1        |                                                                                                                    |
+| Item                    | Quantity | Received | Notes                                                                    |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------ |
+| ~EDUHHAT1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel][New Design Panels] |
+| EDUHHAT2P Front Panel   | 1        | 1        |                                                                          |
+| EDUHHAT2 PCB            | 1        | 1        |                                                                          |
 
 #### Capacitors
 
@@ -1945,11 +1967,11 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
 
-| Item                    | Quantity | Received | Notes                                                                                                              |
-| ----------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
-| ~EDUCOMP1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel](https://www.ericasynths.lv/new-design-edu-diy-system-panels) |
-| EDUCOMP2P Front Panel   | 1        | 1        |                                                                                                                    |
-| EDUCOMP2 PCB            | 1        | 1        |                                                                                                                    |
+| Item                    | Quantity | Received | Notes                                                                    |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------ |
+| ~EDUCOMP1P Front Panel~ | ~1~      | ~1~      | Will be replaced by [New design EDU DIY System Panel][New Design Panels] |
+| EDUCOMP2P Front Panel   | 1        | 1        |                                                                          |
+| EDUCOMP2 PCB            | 1        | 1        |                                                                          |
 
 #### Capacitors
 
