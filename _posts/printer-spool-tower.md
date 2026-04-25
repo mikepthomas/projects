@@ -1338,6 +1338,10 @@ keywords:
 | roof | 1        |          |      |      |        |      |   :x:   |       |
 | wall | 2        |          |      |      |        |      |   :x:   |       |
 
+![Sci-Fi Spool Tower 2: Hab Block Assembly](https://dt-website-cdn.s3.eu-west-1.amazonaws.com/catalog/product/cache/920c65cc6b18b03656519e549e3fd37c/s/p/spool_tower_free_hab_block_stl_file_sci_fi_terrain0005.jpg)
+
+> Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
+
 # Lost Bio-Lab
 
 [Available separately from the Digital Taxidermy Website](https://www.digitaltaxidermy.co.uk/spool-tower-for-the-lost-bio-lab.html)
