@@ -22,6 +22,7 @@ keywords:
   - Filament
   - Roleplaying
   - Wargaming
+lastmod: 2026-04-27T22:39:56.559Z
 ---
 
 # Table of contents
@@ -30,7 +31,7 @@ keywords:
 
 # Spool-Ganizer
 
-[Spoolganizer - 3D Printable Paint Stand & Desk Organizer on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spoolganizer-stl)
+[Spoolganizer on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spoolganizer-stl) - 3D Printable Paint Stand & Desk Organizer
 
 [Spool-Ganiser - Modular Painting Desk Organiser Video](https://www.youtube-nocookie.com/embed/HsnQkBD89dA)
 
@@ -42,11 +43,11 @@ keywords:
 
 > Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
-| Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| air brush holder                  | 1        |          |      |      |        |      |   :x:   |       |
-| air brush holder - larger version | 1        |          |      |      |        |      |   :x:   |       |
-| brush holder                      | 1        |          |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ----------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~air brush holder~                  | ~1~      |          |      |      |        |      |   :x:   | Not required as I do not yet own an Airbrush                                    |
+| ~air brush holder - larger version~ | ~1~      |          |      |      |        |      |   :x:   | Not required as I do not yet own an Airbrush                                    |
+| ~brush holder~                      | ~1~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ## Draws
 
@@ -165,24 +166,24 @@ keywords:
 
 > Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
-| Item                                 | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                 |
-| ------------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | --------------------- |
-| ~38mm allignment tube (multi layer)~ | ~1~      |          |      |      |        |      |   :x:   |                       |
-| 48mm allignment tube (multi layer)   | 1        |          |      |      |        |      |   :x:   | eSun Spools are ~53mm |
-| ~58mm allignment tube (multi layer)~ | ~1~      |          |      |      |        |      |   :x:   |                       |
-| ~68mm allignment tube (multi layer)~ | ~1~      |          |      |      |        |      |   :x:   |                       |
-| ~locating ring (single layer)~       | ~1~      |          |      |      |        |      |   :x:   |                       |
-| base track                           | 1        |          |      |      |        |      |   :x:   |                       |
-| peg                                  | 1        |          |      |      |        |      |   :x:   |                       |
-| ring                                 | 1        |          |      |      |        |      |   :x:   |                       |
-| wheels                               | 10       |          |      |      |        |      |   :x:   |                       |
+| Item                                 | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes                 |
+| ------------------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | --------------------- |
+| ~38mm allignment tube (multi layer)~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                       |
+| 48mm allignment tube (multi layer)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | eSun Spools are ~53mm |
+| ~58mm allignment tube (multi layer)~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                       |
+| ~68mm allignment tube (multi layer)~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                       |
+| ~locating ring (single layer)~       | ~1~      |                                                                         |      |      |        |      |   :x:   |                       |
+| base track                           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |                       |
+| peg                                  | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |                       |
+| ring                                 | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |                       |
+| wheels                               | 10       | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |                       |
 
 ## Magnet Holder
 
-| Item      | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| draw 10mm | 1        |          |      |      |        |      |   :x:   |       |
-| top box   | 1        |          |      |      |        |      |   :x:   |       |
+| Item        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ----------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ~draw 10mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~top box~   | ~1~      |          |      |      |        |      |   :x:   |       |
 
 ## Miniature Holder
 
@@ -194,29 +195,29 @@ keywords:
 
 | Item                   | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ---------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Hex Base insert 32mm~ | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Hex Base insert 34mm~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| ~Hex Base insert 32mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Hex Base insert 34mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
 
 ### Round
 
-| Item                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                |
-| ------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------- |
-| ~Round Base insert 25mm~ | ~4~      |          |      |      |        |      |   :x:   |                                                                      |
-| ~Round Base insert 28mm~ | ~4~      |          |      |      |        |      |   :x:   |                                                                      |
-| Round Base insert 30mm   | 4        |          |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
-| ~Round Base insert 32mm~ | ~4~      |          |      |      |        |      |   :x:   |                                                                      |
-| ~Round Base insert 35mm~ | ~4~      |          |      |      |        |      |   :x:   |                                                                      |
-| ~Round Base insert 39mm~ | ~4~      |          |      |      |        |      |   :x:   |                                                                      |
-| Round Base insert 40mm   | 4        |          |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
+| Item                     | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes                                                                |
+| ------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------- |
+| ~Round Base insert 25mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                                      |
+| ~Round Base insert 28mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                                      |
+| Round Base insert 30mm   | 3        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
+| ~Round Base insert 32mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                                      |
+| ~Round Base insert 35mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                                      |
+| ~Round Base insert 39mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                                      |
+| Round Base insert 40mm   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
 
 ### Square
 
 | Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Square Base insert 20mm~   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Square Base insert 25mm~   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Square Base insert 39-5mm~ | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Square Base insert 40mm~   | ~4~      |          |      |      |        |      |   :x:   |       |
+| ~Square Base insert 20mm~   | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Square Base insert 25mm~   | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Square Base insert 39-5mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Square Base insert 40mm~   | ~1~      |          |      |      |        |      |   :x:   |       |
 
 ## Paint Holder
 
@@ -226,82 +227,145 @@ keywords:
 
 ### Acrylic Tubes
 
-| Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Acrylic tubes~                   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Acrylic tubes - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~Acrylic tubes~                   | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~Acrylic tubes - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### AK Interactive
 
-| Item                               | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~AK interactive~                   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~AK interactive - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                               | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ---------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~AK interactive~                   | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~AK interactive - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Army Painter
 
-| Item                                               | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Army painter airbrush primer~                     | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Army painter airbrush primer - with brush holder~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                                               | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| -------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~Army painter airbrush primer~                     | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~Army painter airbrush primer - with brush holder~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Citadel Colour
 
-| Item                                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~citadel colour~                                  | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~citadel colour - with brush clip~                | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~citadel colour - Tall version~                   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~citadel colour - Tall version - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~citadel colour~                                  | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~citadel colour - with brush clip~                | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
+| ~citadel colour - Tall version~                   | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~citadel colour - Tall version - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Craft, Americana, Apple Barrel
 
-| Item                                                 | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Craft, Americana, Apple Barrel~                     | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Craft, Americana, Apple Barrel - with brush holder~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                                                 | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ---------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~Craft, Americana, Apple Barrel~                     | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~Craft, Americana, Apple Barrel - with brush holder~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Dirty Down
 
-| Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~dirty down~                   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~dirty down - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~dirty down~                   | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~dirty down - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Dropper Bottles
 
-| Item                                       | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                           |
-| ------------------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------- |
-| Dropper bottles 24mm                       | 4        |          |      |      |        |      |   :x:   | For Army Painter Speedpaint 2.0 |
-| ~Dropper bottles 24mm - with brush holder~ | ~4~      |          |      |      |        |      |   :x:   |                                 |
+| Item                                       | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ------------------------------------------ | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| Dropper bottles 24mm                       | 8        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | For Army Painter Speedpaint 2.0, Warpaints Fanatic & Washes                     |
+| ~Dropper bottles 24mm - with brush holder~ | ~4~      |                                                                         |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
+
+Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, which is enough for 32 bottles:
+
+#### Speedpaint 2.0
+
+| Item          | Quantity |
+| ------------- | -------- |
+| Beowolf Blue  | 1        |
+| Grim Black    | 2        |
+| Holy White    | 1        |
+| Orc Skin      | 1        |
+| Pallid Bone   | 1        |
+| Peachy Flesh  | 1        |
+| Purple Swarm  | 1        |
+| Satchel Brown | 1        |
+| Slaughter Red | 1        |
+| Zealot Yellow | 1        |
+
+#### Speedpaint Metallics 2.0
+
+| Item              | Quantity |
+| ----------------- | -------- |
+| Broadsword Silver | 1        |
+
+#### Warpaints Fanatic Acrylics
+
+| Item             | Quantity |
+| ---------------- | -------- |
+| Daemonic Yellow  | 1        |
+| Greenskin        | 1        |
+| Leather Brown    | 1        |
+| Matt Black       | 1        |
+| Matt White       | 1        |
+| Pure Red         | 1        |
+| Ultramarine Blue | 1        |
+
+#### Warpaints Fanatic Effects
+
+| Item            | Quantity |
+| --------------- | -------- |
+| Brush-On Primer | 1        |
+
+#### Warpaints Fanatic Metallics
+
+| Item             | Quantity |
+| ---------------- | -------- |
+| Greedy Gold      | 1        |
+| Plate Mail Metal | 1        |
+
+#### Warpaints Fanatic Washes
+
+| Item              | Quantity |
+| ----------------- | -------- |
+| Dark Blue Tone    | 1        |
+| Dark Red Tone     | 1        |
+| Dark Tone         | 1        |
+| Light Tone        | 1        |
+| Military Shade    | 1        |
+| Purple Tone       | 1        |
+| Sepia Tone        | 1        |
+| Soft Tone         | 1        |
+| Strong Skin Shade | 1        |
+| Strong Tone       | 2        |
 
 ### Forgeworld Ink
 
-| Item                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~forgeworld ink~                    | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~forgeworld ink - With brush clips~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ----------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~forgeworld ink~                    | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~forgeworld ink - With brush clips~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Turbodork
 
-| Item                          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~turbodork~                   | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~turbodork - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ----------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~turbodork~                   | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~turbodork - with brush clip~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### Vallejo Surface Primer
 
-| Item                                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~Vallejo surface primer~                    | ~4~      |          |      |      |        |      |   :x:   |       |
-| ~Vallejo surface primer - with brush clips~ | ~4~      |          |      |      |        |      |   :x:   |       |
+| Item                                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| ------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~Vallejo surface primer~                    | ~4~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~Vallejo surface primer - with brush clips~ | ~4~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ### ZYHHLJT
 
-| Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| ~ZYHHLJT~                   | ~1~      |          |      |      |        |      |   :x:   |       |
-| ~ZYHHLJT - with brush clip~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                                           |
+| --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------- |
+| ~ZYHHLJT~                   | ~1~      |          |      |      |        |      |   :x:   |                                                                                 |
+| ~ZYHHLJT - with brush clip~ | ~1~      |          |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
 ## Phone Holder
 
@@ -321,10 +385,10 @@ keywords:
 
 ## Tool Holder
 
-| Item                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| tool holder top box | 1        |          |      |      |        |      |   :x:   |       |
-| clipper holder      | 1        |          |      |      |        |      |   :x:   |       |
+| Item                  | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ~tool holder top box~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~clipper holder~      | ~1~      |          |      |      |        |      |   :x:   |       |
 
 ### Knife Storage
 
@@ -332,11 +396,11 @@ keywords:
 
 > Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
-| Item                   | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| blade disposal box lid | 1        |          |      |      |        |      |   :x:   |       |
-| blade disposal box     | 1        |          |      |      |        |      |   :x:   |       |
-| Knife holder top box   | 1        |          |      |      |        |      |   :x:   |       |
+| Item                   | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| blade disposal box lid | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| blade disposal box     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Knife holder top box   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
 
 ## Top Layer
 
@@ -344,28 +408,28 @@ keywords:
 
 > Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
-| Item        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| centre pot  | 1        |          |      |      |        |      |   :x:   |       |
-| Top tub lid | 4        |          |      |      |        |      |   :x:   |       |
+| Item        | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes |
+| ----------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| centre pot  | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
+| Top tub lid | 3        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   |       |
 
 ### Top Tubs
 
-| Item         | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Top tub 10mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub 20mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub 30mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub 40mm | 4        |          |      |      |        |      |   :x:   |       |
+| Item           | Quantity | Material                                                                | Time | Size | Weight | Cost | Printed | Notes                                                         |
+| -------------- | -------- | ----------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------- |
+| ~Top tub 10mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                               |
+| ~Top tub 20mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                               |
+| ~Top tub 30mm~ | ~1~      |                                                                         |      |      |        |      |   :x:   |                                                               |
+| Top tub 40mm   | 3        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | To hold items from `The Army Painter Battlefields Basing Set` |
 
 ### Top Tubs with Dividers
 
-| Item                          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Top tub - with divider - 10mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub - with divider - 20mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub - with divider - 30mm | 4        |          |      |      |        |      |   :x:   |       |
-| Top tub - with divider - 40mm | 4        |          |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ~Top tub - with divider - 10mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Top tub - with divider - 20mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Top tub - with divider - 30mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
+| ~Top tub - with divider - 40mm~ | ~1~      |          |      |      |        |      |   :x:   |       |
 
 ## Wet Palette
 
@@ -373,15 +437,15 @@ keywords:
 
 > Image © 2023 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
-| Item                      | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| wet pallette bottom       | 1        |          |      |      |        |      |   :x:   |       |
-| wet pallette lid          | 1        |          |      |      |        |      |   :x:   |       |
-| wet pallette paper holder | 1        |          |      |      |        |      |   :x:   |       |
+| Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes                                                              |
+| --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------ |
+| ~wet pallette bottom~       | ~1~      |          |      |      |        |      |   :x:   | Not required as I have purchased `The Army Painter Wet Palette XL` |
+| ~wet pallette lid~          | ~1~      |          |      |      |        |      |   :x:   | Not required as I have purchased `The Army Painter Wet Palette XL` |
+| ~wet pallette paper holder~ | ~1~      |          |      |      |        |      |   :x:   | Not required as I have purchased `The Army Painter Wet Palette XL` |
 
 # Spool Tower: Total Spool
 
-[Spool tower - Multilevel Modular Scenery Construction System on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spool-tower-multilevel-modular-scenery-construction-system)
+[Spool tower on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spool-tower-multilevel-modular-scenery-construction-system) - Multilevel Modular Scenery Construction System
 
 [Spool Tower: Multi-Level Modular Terrain System Video](https://www.youtube-nocookie.com/embed/QEedh41YCsU)
 
@@ -1282,7 +1346,7 @@ keywords:
 
 # Spool Tower 2: The Re-Spoolening
 
-[Spool Tower 2 The Re-Spoolening - 3D printed tabletop gaming on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spool-tower-2-the-re-spoolening)
+[Spool Tower 2 The Re-Spoolening on Kickstarter](https://www.kickstarter.com/projects/digitaltaxidermy/spool-tower-2-the-re-spoolening) - 3D printed tabletop gaming
 
 [Spool Tower 2: The Re-spoolening Video](https://www.youtube-nocookie.com/embed/znMRgYkmQEU)
 
