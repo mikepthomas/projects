@@ -255,7 +255,7 @@ For V2.0 the recommended firmware is [Happy Hare](https://github.com/moggieuk/Ha
 | Item                                       | Quantity | Received | Notes                                           |
 | ------------------------------------------ | -------- | -------- | ----------------------------------------------- |
 | 2.7mm zip ties                             | 4        |          |                                                 |
-| 5.5 mm ball bearing                        | 8        | 53       |                                                 |
+| 5.5 mm ball bearing                        | 8        | 9        |                                                 |
 | Bowden Clip                                | 16       | 16       |                                                 |
 | Bowden Fitting                             | 16       | 16       |                                                 |
 | PTFE Tube (4mm OD 3mm ID) - 30cm           | 400mm    | 6m       |                                                 |
