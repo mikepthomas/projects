@@ -24,11 +24,11 @@ tags:
   - Toys
 categories:
   - 3D Printing
+  - Wargaming
 keywords:
   - Fallout
   - Modiphius
   - Roleplaying
-  - Wargaming
 ---
 
 [Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare

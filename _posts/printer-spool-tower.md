@@ -2,6 +2,7 @@
 title: Digital Taxidermy Spool Tower
 heading: 3D Printing stuff to re-use empty plastic Filament Spools
 date: 2026-04-23T15:52:15.917Z
+lastmod: 2026-04-27T22:39:56.559Z
 author: Mike Thomas
 description: Using Digital Taxidermy's Spool Tower creations to re-use empty Filament Spools.
 preview: /assets/blog/printer-filament/filament-hero.jpg
@@ -17,12 +18,11 @@ tags:
   - Voron
 categories:
   - 3D Printing
+  - Wargaming
 keywords:
   - Digital Taxidermy
   - Filament
   - Roleplaying
-  - Wargaming
-lastmod: 2026-04-27T22:39:56.559Z
 ---
 
 # Table of contents

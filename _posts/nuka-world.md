@@ -14,6 +14,7 @@ tags:
   - Toys
 categories:
   - 3D Printing
+  - Wargaming
 keywords:
   - Nuka-World
 ---
