@@ -151,14 +151,14 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 ## Olive Greens
 
-|                            Colour                            | Shade                 | Warpaints      | Warpaints Fanatic | Warpaints Air  |                Received                 |
-| :----------------------------------------------------------: | --------------------- | -------------- | ----------------- | -------------- | :-------------------------------------: |
-| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green |                | Grotesque Green   | Zombie Flesh   |                   :x:                   |
-| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                   :x:                   |
-| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     | Witch Brew     | Olive Drab        |                |                   :x:                   |
-| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Historical |
-| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Army Green     | Army Green        | Army Green     |  :heavy_check_mark: Warpaints Fanatic   |
-| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      | Elf Green      | Woodland Camo     | Militia Green  |  :heavy_check_mark: Warpaints Fanatic   |
+|                            Colour                            | Shade                 | Warpaints      | Warpaints Fanatic | Warpaints Air  |               Received               |
+| :----------------------------------------------------------: | --------------------- | -------------- | ----------------- | -------------- | :----------------------------------: |
+| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green |                | Grotesque Green   | Zombie Flesh   |                 :x:                  |
+| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                 :x:                  |
+| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     | Witch Brew     | Olive Drab        |                |                 :x:                  |
+| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Fanatic |
+| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Army Green     | Army Green        | Army Green     | :heavy_check_mark: Warpaints Fanatic |
+| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      | Elf Green      | Woodland Camo     | Militia Green  | :heavy_check_mark: Warpaints Fanatic |
 
 ## Browns
 
@@ -184,14 +184,14 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 ## Light Neutrals
 
-|                            Colour                            | Shade                     | Warpaints     | Warpaints Fanatic | Warpaints Air |                  Received                   |
-| :----------------------------------------------------------: | ------------------------- | ------------- | ----------------- | ------------- | :-----------------------------------------: |
-| ![#F3ECDA {20x20}](https://placehold.co/1/F3ECDA/F3ECDA.png) | Yellowish White           |               | Pale Sand         | Hobgoblin Hue |                     :x:                     |
-| ![#E6DAC4 {20x20}](https://placehold.co/1/E6DAC4/E6DAC4.png) | Very Pale Yellowish Brown |               | Bony Spikes       | Bleached Bone |                     :x:                     |
-| ![#D2C9AC {20x20}](https://placehold.co/1/D2C9AC/D2C9AC.png) | Pale Olive Brown          |               | Ancient Stone     |               |                     :x:                     |
-| ![#C0B79A {20x20}](https://placehold.co/1/C0B79A/C0B79A.png) | Light Olive Brown         | Skeleton Bone | Skeleton Bone     | Skeleton Bone |                     :x:                     |
-| ![#A79B82 {20x20}](https://placehold.co/1/A79B82/A79B82.png) | Greyish Olive Brown       | Banshee Brown | Tomb King Tan     |               | :heavy_check_mark: John Blanche Masterclass |
-| ![#918672 {20x20}](https://placehold.co/1/918672/918672.png) | Strong Olive Brown        |               | Dusty Skull       |               |                     :x:                     |
+|                            Colour                            | Shade                     | Warpaints     | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ------------------------- | ------------- | ----------------- | ------------- | :----------------------------------: |
+| ![#F3ECDA {20x20}](https://placehold.co/1/F3ECDA/F3ECDA.png) | Yellowish White           |               | Pale Sand         | Hobgoblin Hue |                 :x:                  |
+| ![#E6DAC4 {20x20}](https://placehold.co/1/E6DAC4/E6DAC4.png) | Very Pale Yellowish Brown |               | Bony Spikes       | Bleached Bone |                 :x:                  |
+| ![#D2C9AC {20x20}](https://placehold.co/1/D2C9AC/D2C9AC.png) | Pale Olive Brown          |               | Ancient Stone     |               |                 :x:                  |
+| ![#C0B79A {20x20}](https://placehold.co/1/C0B79A/C0B79A.png) | Light Olive Brown         | Skeleton Bone | Skeleton Bone     | Skeleton Bone |                 :x:                  |
+| ![#A79B82 {20x20}](https://placehold.co/1/A79B82/A79B82.png) | Greyish Olive Brown       | Banshee Brown | Tomb King Tan     |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#918672 {20x20}](https://placehold.co/1/918672/918672.png) | Strong Olive Brown        |               | Dusty Skull       |               |                 :x:                  |
 
 ## Yellows
 
@@ -327,9 +327,11 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 ## Others
 
+- ![#221A0D {20x20}](https://placehold.co/1/221A0D/221A0D.png) John Blanche Masterclass: Banshee Brown
 - ![#544D4A {20x20}](https://placehold.co/1/544D4A/544D4A.png) Warpaints: Dark Stone
 - ![#5E635F {20x20}](https://placehold.co/1/5E635F/5E635F.png) Warpaints: Field Grey
 - ![#753339 {20x20}](https://placehold.co/1/753339/753339.png) Warpaints: Vampire Red
+- ![#233235 {20x20}](https://placehold.co/1/233235/233235.png) Warpaints Historical: Commando Green
 
 # The Army Painter Effects
 

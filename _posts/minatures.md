@@ -64,7 +64,7 @@ keywords:
 | Eye Lens         | Warpaints: Electric Blue              | Warpaints Fanatic: Arctic Gem                 | :heavy_check_mark: |       |
 | Armor Details    | Warpaints Metallics: Greedy Gold      |                                               | :heavy_check_mark: |       |
 | Wires            | Warpaints: Daemonic Yellow            | Warpaints Fanatic: Daemonic Yellow            | :heavy_check_mark: |       |
-| Base             | Warpaints: Banshee Brown              | John Blanche Masterclass: Banshee Brown       | :heavy_check_mark: |       |
+| Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |       |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |       |
 
 # Survivors
@@ -81,22 +81,22 @@ keywords:
 
 ### 2. Basecoat
 
-| Item                     | Suggested Paint                | Alternative                             |        Own         | Notes |
-| ------------------------ | ------------------------------ | --------------------------------------- | :----------------: | ----- |
-| Gloves / Boots           | Warpaints: Matt Black          | Warpaints Fanatic: Matt Black           | :heavy_check_mark: |       |
-| Trousers                 | Warpaints: Wolf Grey           | Warpaints Fanatic: Matt Black           | :heavy_check_mark: |       |
-| Skin                     | Warpaints: Dirt Spatter        | Warpaints Fanatic: Tree Ancient         | :heavy_check_mark: |       |
-| Wires                    | Warpaints: Moon Dust           | Warpaints Fanatic: Space Dust           | :heavy_check_mark: |       |
-| Scarf                    | Warpaints: Electric Blue       | Warpaints Fanatic: Arctic Gem           | :heavy_check_mark: |       |
-| Shirt                    | Warpaints: Dark Sky            |                                         | :heavy_check_mark: |       |
-| Coat                     | Warpaints: Monster Brown       |                                         | :heavy_check_mark: |       |
-| Hat / Straps / Gun Stock | Warpaints: Dark Stone          |                                         | :heavy_check_mark: |       |
-| Gun / Radio              | Warpaints Metallics: Gun Metal | Warpaints Fanatic: Gun Metal            | :heavy_check_mark: |       |
-| Gun Details              | Warpaints: Army Green          | Warpaints Fanatic: Army Green           | :heavy_check_mark: |       |
-| Wrapping                 | Warpaints: Banshee Brown       | John Blanche Masterclass: Banshee Brown | :heavy_check_mark: |       |
-| Lazer Beam               | Warpaints: Dragon Red          | Warpaints Fanatic: Dragon Red           | :heavy_check_mark: |       |
-| Base                     | Warpaints: Wasteland Soil      | Warpaints Fanatic: Moldy Wine           | :heavy_check_mark: |       |
-| Base                     | Warpaints: Werewolf Fur        | Warpaints Fanatic: Bootstrap Brown      | :heavy_check_mark: |       |
+| Item                     | Suggested Paint                | Alternative                        |        Own         | Notes |
+| ------------------------ | ------------------------------ | ---------------------------------- | :----------------: | ----- |
+| Gloves / Boots           | Warpaints: Matt Black          | Warpaints Fanatic: Matt Black      | :heavy_check_mark: |       |
+| Trousers                 | Warpaints: Wolf Grey           | Warpaints Fanatic: Matt Black      | :heavy_check_mark: |       |
+| Skin                     | Warpaints: Dirt Spatter        | Warpaints Fanatic: Tree Ancient    | :heavy_check_mark: |       |
+| Wires                    | Warpaints: Moon Dust           | Warpaints Fanatic: Space Dust      | :heavy_check_mark: |       |
+| Scarf                    | Warpaints: Electric Blue       | Warpaints Fanatic: Arctic Gem      | :heavy_check_mark: |       |
+| Shirt                    | Warpaints: Dark Sky            |                                    | :heavy_check_mark: |       |
+| Coat                     | Warpaints: Monster Brown       |                                    | :heavy_check_mark: |       |
+| Hat / Straps / Gun Stock | Warpaints: Dark Stone          |                                    | :heavy_check_mark: |       |
+| Gun / Radio              | Warpaints Metallics: Gun Metal | Warpaints Fanatic: Gun Metal       | :heavy_check_mark: |       |
+| Gun Details              | Warpaints: Army Green          | Warpaints Fanatic: Army Green      | :heavy_check_mark: |       |
+| Wrapping                 | Warpaints: Banshee Brown       | Warpaints Fanatic: Tomb King Tan   | :heavy_check_mark: |       |
+| Lazer Beam               | Warpaints: Dragon Red          | Warpaints Fanatic: Dragon Red      | :heavy_check_mark: |       |
+| Base                     | Warpaints: Wasteland Soil      | Warpaints Fanatic: Moldy Wine      | :heavy_check_mark: |       |
+| Base                     | Warpaints: Werewolf Fur        | Warpaints Fanatic: Bootstrap Brown | :heavy_check_mark: |       |
 
 ### 3. Wash
 
@@ -113,7 +113,7 @@ keywords:
 | ------------------ | ------------------------------------- | --------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------- |
 | Trousers           | Warpaints: Fog Grey                   | Warpaints Fanatic: Runic Cobalt               | :heavy_check_mark: |                                                                                                   |
 | Boots / Gloves     | Warpaints: Dungeon Grey               | Warpaints Fanatic: Uniform Grey               | :heavy_check_mark: | [Suggested from Army Crafter](https://armycrafter.com/paints/army-painter/warpaints/dungeon-grey) |
-| Coat               | Warpaints: Banshee Brown              | John Blanche Masterclass: Banshee Brown       | :heavy_check_mark: |                                                                                                   |
+| Coat               | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |                                                                                                   |
 | Wood / Hat / Belts | Warpaints: Leather Brown              | Warpaints Fanatic: Leather Brown              | :heavy_check_mark: |                                                                                                   |
 | Scarf              | Warpaints: Ice Storm                  | Warpaints Fanatic: Frost Blue                 | :heavy_check_mark: |                                                                                                   |
 | Gun Details        | Warpaints: Combat Fatigues            | Warpaints Fanatic: Grey Castle                | :heavy_check_mark: |                                                                                                   |
@@ -141,7 +141,7 @@ keywords:
 | Coat                        | Warpaints: Leather Brown              | Warpaints Fanatic: Leather Brown              | :heavy_check_mark: |       |
 | Scarf                       | Warpaints: Army Green                 | Warpaints Fanatic: Army Green                 | :heavy_check_mark: |       |
 | Hair                        | Warpaints: Matt Black                 | Warpaints Fanatic: Matt Black                 | :heavy_check_mark: |       |
-| Shirt                       | Warpaints: Banshee Brown              | John Blanche Masterclass: Banshee Brown       | :heavy_check_mark: |       |
+| Shirt                       | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |       |
 | Gloves / Belt / Boots       | Warpaints: Necromancer Cloak          |                                               | :heavy_check_mark: |       |
 | Trousers                    | Warpaints: Wolf Grey                  | Warpaints Fanatic: Wolf Grey                  | :heavy_check_mark: |       |
 | Gun                         | Warpaints Metallics: Rough Iron       |                                               | :heavy_check_mark: |       |
@@ -200,7 +200,7 @@ keywords:
 | ----------- | ------------------------------------- | --------------------------------------------- | :----------------: | ----- |
 | Skin        | Warpaints: Venom Wyrm                 | Warpaints Fanatic: Tundra Taupe               | :heavy_check_mark: |       |
 | Metal / Gun | Warpaints Metallics: Plate Mail Metal | Warpaints Fanatic Metallics: Plate Mail Metal | :heavy_check_mark: |       |
-| Ropes       | Warpaints: Banshee Brown              | John Blanche Masterclass: Banshee Brown       | :heavy_check_mark: |       |
+| Ropes       | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |       |
 | Base        | Warpaints: Werewolf Fur               | Warpaints Fanatic: Bootstrap Brown            | :heavy_check_mark: |       |
 
 ### 3. Wash
@@ -216,7 +216,7 @@ keywords:
 | Base             | Warpaints: Leather Brown              | Warpaints Fanatic: Leather Brown              | :heavy_check_mark: |       |
 | Base             | Warpaints: Monster Brown              |                                               | :heavy_check_mark: |       |
 | Armor / Gun      | Warpaints Metallics: Plate Mail Metal | Warpaints Fanatic Metallics: Plate Mail Metal | :heavy_check_mark: |       |
-| Skin             | Warpaints: Commando Green             | Warpaints Historical: Commando Green          | :heavy_check_mark: |       |
+| Skin             | Warpaints: Commando Green             | Warpaints Fanatic: Camouflage Green           | :heavy_check_mark: |       |
 | Cloth            | Warpaints: Desert Yellow              | Warpaints Fanatic: Desert Yellow              | :heavy_check_mark: |       |
 | Ropes            | Warpaints: Drake Tooth                |                                               | :heavy_check_mark: |       |
 | Ropes            | Warpaints: Pure Red                   | Warpaints Fanatic: Pure Red                   | :heavy_check_mark: |       |
