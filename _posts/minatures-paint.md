@@ -305,25 +305,25 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 ## Warm Skin Tones
 
-|                            Colour                            | Shade               | Warpaints        | Warpaints Fanatic  | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ------------------- | ---------------- | ------------------ | ------------- | :----------------------------------: |
-| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  | Centaur Skin     | Leopard Stone Skin |               |                 :x:                  |
-| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |                  | Tourmaline Skin    |               |                 :x:                  |
-| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       | Dorado Skin      | Jasper Skin        |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin       | Topaz Skin         |               |                 :x:                  |
-| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |                 :x:                  |
-| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Chaotic Red      | Carnelian Skin     | Chaotic Red   |                 :x:                  |
+|                            Colour                            | Shade               | Warpaints        | Warpaints Fanatic  | Warpaints Air | Received |
+| :----------------------------------------------------------: | ------------------- | ---------------- | ------------------ | ------------- | :------: |
+| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  | Centaur Skin     | Leopard Stone Skin |               |   :x:    |
+| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |                  | Tourmaline Skin    |               |   :x:    |
+| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       | Dorado Skin      | Jasper Skin        |               |   :x:    |
+| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin       | Topaz Skin         |               |   :x:    |
+| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |   :x:    |
+| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Chaotic Red      | Carnelian Skin     | Chaotic Red   |   :x:    |
 
 ## Deep Skin Tones
 
-|                            Colour                            | Shade                      | Warpaints   | Warpaints Fanatic | Warpaints Air | Received |
-| :----------------------------------------------------------: | -------------------------- | ----------- | ----------------- | ------------- | :------: |
-| ![#EDD4B8 {20x20}](https://placehold.co/1/EDD4B8/EDD4B8.png) | Very Light Yellowish Brown |             | Quartz Skin       |               |   :x:    |
-| ![#E7CAA3 {20x20}](https://placehold.co/1/E7CAA3/E7CAA3.png) | Light Yellowish Brown      | Corpse Pale | Dorado Skin       |               |   :x:    |
-| ![#C1A484 {20x20}](https://placehold.co/1/C1A484/C1A484.png) | Yellowish Rrown            | Amber Skin  | Amber Skin        | Charred Bone  |   :x:    |
-| ![#816859 {20x20}](https://placehold.co/1/816859/816859.png) | Greyish Brown              |             | Mocca Skin        |               |   :x:    |
-| ![#695048 {20x20}](https://placehold.co/1/695048/695048.png) | Dark Greyish Brown         |             | Onyx Skin         |               |   :x:    |
-| ![#4A4344 {20x20}](https://placehold.co/1/4A4344/4A4344.png) | Brownish Black             | Onyx Skin   | Obsidian Skin     |               |   :x:    |
+|                            Colour                            | Shade                      | Warpaints   | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | -------------------------- | ----------- | ----------------- | ------------- | :----------------------------------: |
+| ![#EDD4B8 {20x20}](https://placehold.co/1/EDD4B8/EDD4B8.png) | Very Light Yellowish Brown |             | Quartz Skin       |               |                 :x:                  |
+| ![#E7CAA3 {20x20}](https://placehold.co/1/E7CAA3/E7CAA3.png) | Light Yellowish Brown      | Corpse Pale | Dorado Skin       |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#C1A484 {20x20}](https://placehold.co/1/C1A484/C1A484.png) | Yellowish Rrown            | Amber Skin  | Amber Skin        | Charred Bone  |                 :x:                  |
+| ![#816859 {20x20}](https://placehold.co/1/816859/816859.png) | Greyish Brown              |             | Mocca Skin        |               |                 :x:                  |
+| ![#695048 {20x20}](https://placehold.co/1/695048/695048.png) | Dark Greyish Brown         |             | Onyx Skin         |               |                 :x:                  |
+| ![#4A4344 {20x20}](https://placehold.co/1/4A4344/4A4344.png) | Brownish Black             | Onyx Skin   | Obsidian Skin     |               |                 :x:                  |
 
 ## Others
 
