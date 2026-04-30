@@ -276,68 +276,7 @@ keywords:
 | Dropper bottles 24mm                       | 8        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |      |      |        |      |   :x:   | For Army Painter Speedpaint 2.0, Warpaints Fanatic & Washes                     |
 | ~Dropper bottles 24mm - with brush holder~ | ~4~      |                                                                         |      |      |        |      |   :x:   | Not required as I will be using the `center pot` in the [Top Layer](#top-layer) |
 
-Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, which is enough for 32 bottles:
-
-#### Speedpaint 2.0
-
-| Item          | Quantity |
-| ------------- | -------- |
-| Beowolf Blue  | 1        |
-| Grim Black    | 2        |
-| Holy White    | 1        |
-| Orc Skin      | 1        |
-| Pallid Bone   | 1        |
-| Peachy Flesh  | 1        |
-| Purple Swarm  | 1        |
-| Satchel Brown | 1        |
-| Slaughter Red | 1        |
-| Zealot Yellow | 1        |
-
-#### Speedpaint Metallics 2.0
-
-| Item              | Quantity |
-| ----------------- | -------- |
-| Broadsword Silver | 1        |
-
-#### Warpaints Fanatic Acrylics
-
-| Item             | Quantity |
-| ---------------- | -------- |
-| Daemonic Yellow  | 1        |
-| Greenskin        | 1        |
-| Leather Brown    | 1        |
-| Matt Black       | 1        |
-| Matt White       | 1        |
-| Pure Red         | 1        |
-| Ultramarine Blue | 1        |
-
-#### Warpaints Fanatic Effects
-
-| Item            | Quantity |
-| --------------- | -------- |
-| Brush-On Primer | 1        |
-
-#### Warpaints Fanatic Metallics
-
-| Item             | Quantity |
-| ---------------- | -------- |
-| Greedy Gold      | 1        |
-| Plate Mail Metal | 1        |
-
-#### Warpaints Fanatic Washes
-
-| Item              | Quantity |
-| ----------------- | -------- |
-| Dark Blue Tone    | 1        |
-| Dark Red Tone     | 1        |
-| Dark Tone         | 1        |
-| Light Tone        | 1        |
-| Military Shade    | 1        |
-| Purple Tone       | 1        |
-| Sepia Tone        | 1        |
-| Soft Tone         | 1        |
-| Strong Skin Shade | 1        |
-| Strong Tone       | 2        |
+Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, which is enough for 32 bottles
 
 ### Forgeworld Ink
 

@@ -413,3 +413,24 @@ https://thearmypainter.com/en-gb/pages/downloads
 | ![#732E32 {20x20}](https://placehold.co/1/732E32/732E32.png) | Red Tone          | Red Tone         | Red Tone          |               |       :heavy_check_mark: Warpaints Fanatic       |
 | ![#472726 {20x20}](https://placehold.co/1/472726/472726.png) | Dark Red Tone     |                  | Dark Red Tone     |               |       :heavy_check_mark: Warpaints Fanatic       |
 | ![#FDFEFF {20x20}](https://placehold.co/1/FDFEFF/FDFEFF.png) | Wash Medium       |                  | Wash Medium       |               |                       :x:                        |
+
+# The Army Painter Speedpaint
+
+|                            Colour                            | Shade                | Speedpaint    |               Received                |
+| :----------------------------------------------------------: | -------------------- | ------------- | :-----------------------------------: |
+| ![#000000 {20x20}](https://placehold.co/1/000000/000000.png) | Black                | Grim Black    | :heavy_check_mark: Speedpaint 2.0 x 2 |
+| ![#EBECEC {20x20}](https://placehold.co/1/EBECEC/EBECEC.png) | Greyish White        | Holy White    |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#57392C {20x20}](https://placehold.co/1/57392C/57392C.png) | Dark Reddish Brown   | Satchel Brown |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#912228 {20x20}](https://placehold.co/1/912228/912228.png) | Deep Red             | Slaughter Red |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#F5CA45 {20x20}](https://placehold.co/1/F5CA45/F5CA45.png) | Orange Yellow        | Zealot Yellow |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#EBAB73 {20x20}](https://placehold.co/1/EBAB73/EBAB73.png) | Light Yellowish Pink | Peachy Flesh  |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#E3D39E {20x20}](https://placehold.co/1/E3D39E/E3D39E.png) | Pale Yellowish Brown | Pallid Bone   |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#3D7F30 {20x20}](https://placehold.co/1/3D7F30/3D7F30.png) | Strong Green         | Orc Skin      |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#173D83 {20x20}](https://placehold.co/1/173D83/173D83.png) | Dark Purplish Blue   | Beowolf Blue  |   :heavy_check_mark: Speedpaint 2.0   |
+| ![#5B3384 {20x20}](https://placehold.co/1/5B3384/5B3384.png) | Vivid Purple         | Purple Swarm  |   :heavy_check_mark: Speedpaint 2.0   |
+
+# The Army Painter Speedpaint Metallics
+
+|                            Colour                            | Shade             | Speedpaint        |             Received              |
+| :----------------------------------------------------------: | ----------------- | ----------------- | :-------------------------------: |
+| ![#6D6F6F {20x20}](https://placehold.co/1/6D6F6F/6D6F6F.png) | Broadsword Silver | Broadsword Silver | :heavy_check_mark: Speedpaint 2.0 |
