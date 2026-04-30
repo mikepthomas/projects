@@ -54,36 +54,36 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Desaturated Blue-Greys
 
-|                            Colour                            | Shade                  | GameMaster                      | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ---------------------- | ------------------------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#AAC0DA {20x20}](https://placehold.co/1/AAC0DA/AAC0DA.png) | Very Pale Blueish Grey |                                 | Ice Storm    | Frost Blue        |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#7F94AF {20x20}](https://placehold.co/1/7F94AF/7F94AF.png) | Pale Blueish Grey      |                                 | Fog Grey     | Runic Cobalt      |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#5B7AA0 {20x20}](https://placehold.co/1/5B7AA0/5B7AA0.png) | Light Blueish Grey     | Heavy Clouds / Lycanthrope Grey | Wolf Grey    | Wolf Grey         |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#3D628A {20x20}](https://placehold.co/1/3D628A/3D628A.png) | Blueish Grey           |                                 | Griffon Blue | Stratos Blue      |               |                 :x:                  |
-| ![#3B5475 {20x20}](https://placehold.co/1/3B5475/3B5475.png) | Dark Blueish Grey      |                                 |              | Thunderous Blue   |               |                 :x:                  |
-| ![#3B4757 {20x20}](https://placehold.co/1/3B4757/3B4757.png) | Black Blueish Grey     |                                 |              | Night Sky         |               |                 :x:                  |
+|                            Colour                            | Shade                  | GameMaster   | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ---------------------- | ------------ | ------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#AAC0DA {20x20}](https://placehold.co/1/AAC0DA/AAC0DA.png) | Very Pale Blueish Grey |              | Ice Storm    | Frost Blue        |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#7F94AF {20x20}](https://placehold.co/1/7F94AF/7F94AF.png) | Pale Blueish Grey      |              | Fog Grey     | Runic Cobalt      |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#5B7AA0 {20x20}](https://placehold.co/1/5B7AA0/5B7AA0.png) | Light Blueish Grey     | Heavy Clouds | Wolf Grey    | Wolf Grey         |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#3D628A {20x20}](https://placehold.co/1/3D628A/3D628A.png) | Blueish Grey           |              | Griffon Blue | Stratos Blue      |               |                 :x:                  |
+| ![#3B5475 {20x20}](https://placehold.co/1/3B5475/3B5475.png) | Dark Blueish Grey      |              |              | Thunderous Blue   |               |                 :x:                  |
+| ![#3B4757 {20x20}](https://placehold.co/1/3B4757/3B4757.png) | Black Blueish Grey     |              |              | Night Sky         |               |                 :x:                  |
 
 ## Strong Pale Blues
 
-|                            Colour                            | Shade                    | GameMaster              | Warpaints        | Warpaints Fanatic | Warpaints Air    |               Received               |
-| :----------------------------------------------------------: | ------------------------ | ----------------------- | ---------------- | ----------------- | ---------------- | :----------------------------------: |
-| ![#B5C2E8 {20x20}](https://placehold.co/1/B5C2E8/B5C2E8.png) | Very Light Purplish Blue | Banshee Hair            | Gorgon Hide      | Augur Blue        | Storm Wolf       |                 :x:                  |
-| ![#8697C9 {20x20}](https://placehold.co/1/8697C9/8697C9.png) | Light Purplish Blue      |                         |                  | Baron Blue        | Consul Blue      |                 :x:                  |
-| ![#697AB2 {20x20}](https://placehold.co/1/697AB2/697AB2.png) | Purplish Blue            |                         |                  | Alpha Blue        |                  |                 :x:                  |
-| ![#2A4382 {20x20}](https://placehold.co/1/2A4382/2A4382.png) | Strong Purplish Blue     | Aesir Gem / Kraken Blue | Ultramarine Blue | Ultramarine Blue  | Ultramarine Blue | :heavy_check_mark: Warpaints Fanatic |
-| ![#2B396D {20x20}](https://placehold.co/1/2B396D/2B396D.png) | Deep Purplish Blue       |                         |                  | Gothic Blue       |                  |                 :x:                  |
-| ![#2B396D {20x20}](https://placehold.co/1/2B396D/2B396D.png) | Black Purplish Blue      |                         | Dark Sky         | Triumphant Navy   | Dark Sky         |     :heavy_check_mark: Warpaints     |
+|                            Colour                            | Shade                    | GameMaster   | Warpaints        | Warpaints Fanatic | Warpaints Air    |               Received               |
+| :----------------------------------------------------------: | ------------------------ | ------------ | ---------------- | ----------------- | ---------------- | :----------------------------------: |
+| ![#B5C2E8 {20x20}](https://placehold.co/1/B5C2E8/B5C2E8.png) | Very Light Purplish Blue | Banshee Hair | Gorgon Hide      | Augur Blue        | Storm Wolf       |                 :x:                  |
+| ![#8697C9 {20x20}](https://placehold.co/1/8697C9/8697C9.png) | Light Purplish Blue      |              |                  | Baron Blue        | Consul Blue      |                 :x:                  |
+| ![#697AB2 {20x20}](https://placehold.co/1/697AB2/697AB2.png) | Purplish Blue            |              |                  | Alpha Blue        |                  |                 :x:                  |
+| ![#2A4382 {20x20}](https://placehold.co/1/2A4382/2A4382.png) | Strong Purplish Blue     | Kraken Blue  | Ultramarine Blue | Ultramarine Blue  | Ultramarine Blue | :heavy_check_mark: Warpaints Fanatic |
+| ![#2B396D {20x20}](https://placehold.co/1/2B396D/2B396D.png) | Deep Purplish Blue       |              |                  | Gothic Blue       |                  |                 :x:                  |
+| ![#2B396D {20x20}](https://placehold.co/1/2B396D/2B396D.png) | Black Purplish Blue      |              | Dark Sky         | Triumphant Navy   | Dark Sky         |     :heavy_check_mark: Warpaints     |
 
 ## Vivid Blues
 
-|                            Colour                            | Shade          | GameMaster              | Warpaints     | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | -------------- | ----------------------- | ------------- | ----------------- | ------------- | :----------------------------------: |
-| ![#9FCBE8 {20x20}](https://placehold.co/1/9FCBE8/9FCBE8.png) | Light Blue     |                         |               | Bright Sapphire   |               |                 :x:                  |
-| ![#3E8DC8 {20x20}](https://placehold.co/1/3E8DC8/3E8DC8.png) | Brilliant Blue | Forcefield Blue         | Electric Blue | Arctic Gem        | Ionic Blue    | :heavy_check_mark: Warpaints Fanatic |
-| ![#2E6BB9 {20x20}](https://placehold.co/1/2E6BB9/2E6BB9.png) | Vivid Blue     | Aesir Gem / Kraken Blue | Crystal Blue  | Crystal Blue      | Crystal Blue  |                 :x:                  |
-| ![#2355A4 {20x20}](https://placehold.co/1/2355A4/2355A4.png) | Strong Blue    |                         | Viking Blue   | Royal Blue        | Sapphire Gem  |                 :x:                  |
-| ![#1D4980 {20x20}](https://placehold.co/1/1D4980/1D4980.png) | Deep Blue      |                         |               | Regal Blue        |               |                 :x:                  |
-| ![#12325C {20x20}](https://placehold.co/1/12325C/12325C.png) | Very Deep Blue | Surcoat Blue            | Deep Blue     | Imperial Navy     |               |                 :x:                  |
+|                            Colour                            | Shade          | GameMaster      | Warpaints     | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | -------------- | --------------- | ------------- | ----------------- | ------------- | :----------------------------------: |
+| ![#9FCBE8 {20x20}](https://placehold.co/1/9FCBE8/9FCBE8.png) | Light Blue     |                 |               | Bright Sapphire   |               |                 :x:                  |
+| ![#3E8DC8 {20x20}](https://placehold.co/1/3E8DC8/3E8DC8.png) | Brilliant Blue | Forcefield Blue | Electric Blue | Arctic Gem        | Ionic Blue    | :heavy_check_mark: Warpaints Fanatic |
+| ![#2E6BB9 {20x20}](https://placehold.co/1/2E6BB9/2E6BB9.png) | Vivid Blue     | Aesir Gem       | Crystal Blue  | Crystal Blue      | Crystal Blue  |                 :x:                  |
+| ![#2355A4 {20x20}](https://placehold.co/1/2355A4/2355A4.png) | Strong Blue    |                 | Viking Blue   | Royal Blue        | Sapphire Gem  |                 :x:                  |
+| ![#1D4980 {20x20}](https://placehold.co/1/1D4980/1D4980.png) | Deep Blue      |                 |               | Regal Blue        |               |                 :x:                  |
+| ![#12325C {20x20}](https://placehold.co/1/12325C/12325C.png) | Very Deep Blue | Surcoat Blue    | Deep Blue     | Imperial Navy     |               |                 :x:                  |
 
 ## Deep Green-Blues
 
@@ -153,14 +153,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Olive Greens
 
-|                            Colour                            | Shade                 | GameMaster                 | Warpaints      | Warpaints Fanatic | Warpaints Air  |               Received               |
-| :----------------------------------------------------------: | --------------------- | -------------------------- | -------------- | ----------------- | -------------- | :----------------------------------: |
-| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green |                            |                | Grotesque Green   | Zombie Flesh   |                 :x:                  |
-| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Gorgon Skin / Zombie Flesh | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                 :x:                  |
-| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     |                            | Witch Brew     | Olive Drab        |                |                 :x:                  |
-| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           |                            | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Fanatic |
-| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Moss Green                 | Army Green     | Army Green        | Army Green     | :heavy_check_mark: Warpaints Fanatic |
-| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      |                            | Elf Green      | Woodland Camo     | Militia Green  | :heavy_check_mark: Warpaints Fanatic |
+|                            Colour                            | Shade                 | GameMaster   | Warpaints      | Warpaints Fanatic | Warpaints Air  |               Received               |
+| :----------------------------------------------------------: | --------------------- | ------------ | -------------- | ----------------- | -------------- | :----------------------------------: |
+| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green | Zombie Flesh |                | Grotesque Green   | Zombie Flesh   |                 :x:                  |
+| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Gorgon Skin  | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                 :x:                  |
+| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     |              | Witch Brew     | Olive Drab        |                |                 :x:                  |
+| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           |              | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Fanatic |
+| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Moss Green   | Army Green     | Army Green        | Army Green     | :heavy_check_mark: Warpaints Fanatic |
+| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      |              | Elf Green      | Woodland Camo     | Militia Green  | :heavy_check_mark: Warpaints Fanatic |
 
 ## Browns
 
@@ -241,14 +241,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Cool Reds
 
-|                            Colour                            | Shade              | GameMaster                  | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ------------------ | --------------------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#CE6560 {20x20}](https://placehold.co/1/CE6560/CE6560.png) | Light Red          |                             |              | Raging Rose       | Wyrmling Red  |                 :x:                  |
-| ![#C74A49 {20x20}](https://placehold.co/1/C74A49/C74A49.png) | Brilliant Red      |                             |              | Blood Chalice     |               |                 :x:                  |
-| ![#C73024 {20x20}](https://placehold.co/1/C73024/C73024.png) | Red                | Heraldric Red / Neutral Red | Pure Red     | Pure Red          | Pure Red      | :heavy_check_mark: Warpaints Fanatic |
-| ![#AF2F2F {20x20}](https://placehold.co/1/AF2F2F/AF2F2F.png) | Vivid Purplish Red | Fire Dragon / Neutral Red   | Dragon Red   | Dragon Red        | Dragon Red    | :heavy_check_mark: Warpaints Fanatic |
-| ![#8D353F {20x20}](https://placehold.co/1/8D353F/8D353F.png) | Deep Purplish Red  |                             | Vampire Red  | Wyvern Fury       | Rebel Red     |                 :x:                  |
-| ![#682C37 {20x20}](https://placehold.co/1/682C37/682C37.png) | Dark Purplish Red  | Sacrificial Red             | Crusted Sore | Basilisk Red      | Chimera Red   |                 :x:                  |
+|                            Colour                            | Shade              | GameMaster                | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ------------------ | ------------------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#CE6560 {20x20}](https://placehold.co/1/CE6560/CE6560.png) | Light Red          |                           |              | Raging Rose       | Wyrmling Red  |                 :x:                  |
+| ![#C74A49 {20x20}](https://placehold.co/1/C74A49/C74A49.png) | Brilliant Red      |                           |              | Blood Chalice     |               |                 :x:                  |
+| ![#C73024 {20x20}](https://placehold.co/1/C73024/C73024.png) | Red                | Heraldric Red             | Pure Red     | Pure Red          | Pure Red      | :heavy_check_mark: Warpaints Fanatic |
+| ![#AF2F2F {20x20}](https://placehold.co/1/AF2F2F/AF2F2F.png) | Vivid Purplish Red | Neutral Red / Fire Dragon | Dragon Red   | Dragon Red        | Dragon Red    | :heavy_check_mark: Warpaints Fanatic |
+| ![#8D353F {20x20}](https://placehold.co/1/8D353F/8D353F.png) | Deep Purplish Red  |                           | Vampire Red  | Wyvern Fury       | Rebel Red     |                 :x:                  |
+| ![#682C37 {20x20}](https://placehold.co/1/682C37/682C37.png) | Dark Purplish Red  | Sacrificial Red           | Crusted Sore | Basilisk Red      | Chimera Red   |                 :x:                  |
 
 ## Pinks
 
@@ -263,14 +263,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Purples
 
-|                            Colour                            | Shade         | GameMaster               | Warpaints     | Warpaints Fanatic | Warpaints Air      | Received |
-| :----------------------------------------------------------: | ------------- | ------------------------ | ------------- | ----------------- | ------------------ | :------: |
-| ![#DBCFE4 {20x20}](https://placehold.co/1/DBCFE4/DBCFE4.png) | Pale Violet   | Wyrm Blood               | Orc Blood     | Kraken Lavender   |                    |   :x:    |
-| ![#B29DD1 {20x20}](https://placehold.co/1/B29DD1/B29DD1.png) | Light Violet  | Warlock Hex              | Oozing Purple | Violet Coven      |                    |   :x:    |
-| ![#9584C2 {20x20}](https://placehold.co/1/9584C2/9584C2.png) | Violet        |                          |               | Hexed Violet      |                    |   :x:    |
-| ![#765FBE {20x20}](https://placehold.co/1/765FBE/765FBE.png) | Strong Violet |                          |               | Cultist Purple    |                    |   :x:    |
-| ![#604DA5 {20x20}](https://placehold.co/1/604DA5/604DA5.png) | Deep Violet   | Worm Purple / Wyrm Blood | Alien Purple  | Alien Purple      | Alien Purple       |   :x:    |
-| ![#353245 {20x20}](https://placehold.co/1/353245/353245.png) | Dark Violet   |                          |               | Terrestrial Titan | Broodmother Purple |   :x:    |
+|                            Colour                            | Shade         | GameMaster  | Warpaints     | Warpaints Fanatic | Warpaints Air      | Received |
+| :----------------------------------------------------------: | ------------- | ----------- | ------------- | ----------------- | ------------------ | :------: |
+| ![#DBCFE4 {20x20}](https://placehold.co/1/DBCFE4/DBCFE4.png) | Pale Violet   | Wyrm Blood  | Orc Blood     | Kraken Lavender   |                    |   :x:    |
+| ![#B29DD1 {20x20}](https://placehold.co/1/B29DD1/B29DD1.png) | Light Violet  | Warlock Hex | Oozing Purple | Violet Coven      |                    |   :x:    |
+| ![#9584C2 {20x20}](https://placehold.co/1/9584C2/9584C2.png) | Violet        |             |               | Hexed Violet      |                    |   :x:    |
+| ![#765FBE {20x20}](https://placehold.co/1/765FBE/765FBE.png) | Strong Violet |             |               | Cultist Purple    |                    |   :x:    |
+| ![#604DA5 {20x20}](https://placehold.co/1/604DA5/604DA5.png) | Deep Violet   | Worm Purple | Alien Purple  | Alien Purple      | Alien Purple       |   :x:    |
+| ![#353245 {20x20}](https://placehold.co/1/353245/353245.png) | Dark Violet   |             |               | Terrestrial Titan | Broodmother Purple |   :x:    |
 
 ## Magentas
 
@@ -307,14 +307,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Warm Skin Tones
 
-|                            Colour                            | Shade               | GameMaster                     | Warpaints        | Warpaints Fanatic  | Warpaints Air | Received |
-| :----------------------------------------------------------: | ------------------- | ------------------------------ | ---------------- | ------------------ | ------------- | :------: |
-| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  |                                | Centaur Skin     | Leopard Stone Skin |               |   :x:    |
-| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |                                |                  | Tourmaline Skin    |               |   :x:    |
-| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       |                                | Dorado Skin      | Jasper Skin        |               |   :x:    |
-| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin                     | Topaz Skin       | Topaz Skin         |               |   :x:    |
-| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   |                                | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |   :x:    |
-| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Carnelian Skin / Clotted Blood | Chaotic Red      | Carnelian Skin     | Chaotic Red   |   :x:    |
+|                            Colour                            | Shade               | GameMaster    | Warpaints        | Warpaints Fanatic  | Warpaints Air | Received |
+| :----------------------------------------------------------: | ------------------- | ------------- | ---------------- | ------------------ | ------------- | :------: |
+| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  |               | Centaur Skin     | Leopard Stone Skin |               |   :x:    |
+| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |               |                  | Tourmaline Skin    |               |   :x:    |
+| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       |               | Dorado Skin      | Jasper Skin        |               |   :x:    |
+| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin    | Topaz Skin       | Topaz Skin         |               |   :x:    |
+| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   |               | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |   :x:    |
+| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Clotted Blood | Chaotic Red      | Carnelian Skin     | Chaotic Red   |   :x:    |
 
 ## Deep Skin Tones
 
