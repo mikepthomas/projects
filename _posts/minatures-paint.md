@@ -26,6 +26,8 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 # The Army Painter Acrylics
 
+Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad](https://thearmypainter.com/en-gb/blogs/explore/the-colour-triad-system).
+
 [Conversion Chart](https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_Fanatic_Colour_Conversion_Chart_WEB.pdf)
 
 ## Black & Greys
@@ -338,6 +340,8 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 # The Army Painter Effects
 
+Effects encompass things like blood, [rust](https://thearmypainter.com/en-gb/blogs/explore/learn-how-to-use-weathering-techniques), glowing, [primer](https://thearmypainter.com/en-gb/blogs/explore/why-you-should-prime-your-miniatures), and varnishes and have `Green` lids.
+
 ## Effects
 
 |                            Colour                            | Shade                  | GameMaster    | Warpaints        | Warpaints Fanatic | Warpaints Air |               Received               |
@@ -373,6 +377,8 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 # The Army Painter Metalics
 
+Metallic paints have a `Black` lid.
+
 |                            Colour                            | Shade            | GameMaster      | Warpaints        | Warpaints Fanatic | Warpaints Air    |                     Received                     |
 | :----------------------------------------------------------: | ---------------- | --------------- | ---------------- | ----------------- | ---------------- | :----------------------------------------------: |
 | ![#9A9282 {20x20}](https://placehold.co/1/9A9282/9A9282.png) | True Brass       |                 |                  | True Brass        |                  |                       :x:                        |
@@ -396,6 +402,8 @@ https://thearmypainter.com/en-gb/pages/downloads
 
 # The Army Painter Washes
 
+[Washes](https://thearmypainter.com/en-gb/blogs/explore/how-to-use-the-warpaints-fanatic-wash) are to create shade, They have a `Red` lid.
+
 |                            Colour                            | Shade             | GameMaster  | Warpaints        | Warpaints Fanatic | Warpaints Air |                     Received                     |
 | :----------------------------------------------------------: | ----------------- | ----------- | ---------------- | ----------------- | ------------- | :----------------------------------------------: |
 | ![#AF7A28 {20x20}](https://placehold.co/1/AF7A28/AF7A28.png) | Light Tone        |             | Light Tone       | Light Tone        |               |       :heavy_check_mark: Warpaints Fanatic       |
@@ -418,6 +426,8 @@ https://thearmypainter.com/en-gb/pages/downloads
 | ![#FDFEFF {20x20}](https://placehold.co/1/FDFEFF/FDFEFF.png) | Wash Medium       |             |                  | Wash Medium       |               |                       :x:                        |
 
 # The Army Painter Speedpaint
+
+[How to use Speedpaint](https://thearmypainter.com/en-gb/blogs/explore/speedpaint-2-0-how-to-use)
 
 |                            Colour                            | Shade                | Speedpaint    |               Received                |
 | :----------------------------------------------------------: | -------------------- | ------------- | :-----------------------------------: |
