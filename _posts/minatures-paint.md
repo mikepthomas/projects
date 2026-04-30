@@ -54,14 +54,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Desaturated Blue-Greys
 
-|                            Colour                            | Shade                  | GameMaster   | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ---------------------- | ------------ | ------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#AAC0DA {20x20}](https://placehold.co/1/AAC0DA/AAC0DA.png) | Very Pale Blueish Grey |              | Ice Storm    | Frost Blue        |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#7F94AF {20x20}](https://placehold.co/1/7F94AF/7F94AF.png) | Pale Blueish Grey      |              | Fog Grey     | Runic Cobalt      |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#5B7AA0 {20x20}](https://placehold.co/1/5B7AA0/5B7AA0.png) | Light Blueish Grey     | Heavy Clouds | Wolf Grey    | Wolf Grey         |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#3D628A {20x20}](https://placehold.co/1/3D628A/3D628A.png) | Blueish Grey           |              | Griffon Blue | Stratos Blue      |               |                 :x:                  |
-| ![#3B5475 {20x20}](https://placehold.co/1/3B5475/3B5475.png) | Dark Blueish Grey      |              |              | Thunderous Blue   |               |                 :x:                  |
-| ![#3B4757 {20x20}](https://placehold.co/1/3B4757/3B4757.png) | Black Blueish Grey     |              |              | Night Sky         |               |                 :x:                  |
+|                            Colour                            | Shade                  | GameMaster                     | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ---------------------- | ------------------------------ | ------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#AAC0DA {20x20}](https://placehold.co/1/AAC0DA/AAC0DA.png) | Very Pale Blueish Grey |                                | Ice Storm    | Frost Blue        |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#7F94AF {20x20}](https://placehold.co/1/7F94AF/7F94AF.png) | Pale Blueish Grey      |                                | Fog Grey     | Runic Cobalt      |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#5B7AA0 {20x20}](https://placehold.co/1/5B7AA0/5B7AA0.png) | Light Blueish Grey     | Heavy Clouds/ Lycanthorpe Grey | Wolf Grey    | Wolf Grey         |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#3D628A {20x20}](https://placehold.co/1/3D628A/3D628A.png) | Blueish Grey           |                                | Griffon Blue | Stratos Blue      |               |                 :x:                  |
+| ![#3B5475 {20x20}](https://placehold.co/1/3B5475/3B5475.png) | Dark Blueish Grey      |                                |              | Thunderous Blue   |               |                 :x:                  |
+| ![#3B4757 {20x20}](https://placehold.co/1/3B4757/3B4757.png) | Black Blueish Grey     |                                |              | Night Sky         |               |                 :x:                  |
 
 ## Strong Pale Blues
 
@@ -307,14 +307,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Warm Skin Tones
 
-|                            Colour                            | Shade               | GameMaster    | Warpaints        | Warpaints Fanatic  | Warpaints Air | Received |
-| :----------------------------------------------------------: | ------------------- | ------------- | ---------------- | ------------------ | ------------- | :------: |
-| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  |               | Centaur Skin     | Leopard Stone Skin |               |   :x:    |
-| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |               |                  | Tourmaline Skin    |               |   :x:    |
-| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       |               | Dorado Skin      | Jasper Skin        |               |   :x:    |
-| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin    | Topaz Skin       | Topaz Skin         |               |   :x:    |
-| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   |               | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |   :x:    |
-| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Clotted Blood | Chaotic Red      | Carnelian Skin     | Chaotic Red   |   :x:    |
+|                            Colour                            | Shade               | GameMaster                     | Warpaints        | Warpaints Fanatic  | Warpaints Air | Received |
+| :----------------------------------------------------------: | ------------------- | ------------------------------ | ---------------- | ------------------ | ------------- | :------: |
+| ![#E0B8B2 {20x20}](https://placehold.co/1/E0B8B2/E0B8B2.png) | Pale Brownish Pink  |                                | Centaur Skin     | Leopard Stone Skin |               |   :x:    |
+| ![#D69D8C {20x20}](https://placehold.co/1/D69D8C/D69D8C.png) | Light Brownish Dink |                                |                  | Tourmaline Skin    |               |   :x:    |
+| ![#B37B74 {20x20}](https://placehold.co/1/B37B74/B37B74.png) | Brownish Pink       |                                | Dorado Skin      | Jasper Skin        |               |   :x:    |
+| ![#AA5A50 {20x20}](https://placehold.co/1/AA5A50/AA5A50.png) | Brownish Red        | Topaz Skin                     | Topaz Skin       | Topaz Skin         |               |   :x:    |
+| ![#8C5250 {20x20}](https://placehold.co/1/8C5250/8C5250.png) | Dark Brownish Red   |                                | Tiger’s Eye Skin | Tiger’s Eye Skin   | Husk Brown    |   :x:    |
+| ![#5D4344 {20x20}](https://placehold.co/1/5D4344/5D4344.png) | Deep Brownish Red   | Clotted Blood / Carnelian Skin | Chaotic Red      | Carnelian Skin     | Chaotic Red   |   :x:    |
 
 ## Deep Skin Tones
 
@@ -383,7 +383,7 @@ Metallic paints have a `Black` lid.
 | :----------------------------------------------------------: | ---------------- | --------------- | ---------------- | ----------------- | ---------------- | :----------------------------------------------: |
 | ![#9A9282 {20x20}](https://placehold.co/1/9A9282/9A9282.png) | True Brass       |                 |                  | True Brass        |                  |                       :x:                        |
 | ![#AF6F26 {20x20}](https://placehold.co/1/AF6F26/AF6F26.png) | Weapon Bronze    | Cast Bronze     | Weapon Bronze    | Weapon Bronze     | Weapon Bronze    |           :heavy_check_mark: Warpaints           |
-| ![#986947 {20x20}](https://placehold.co/1/986947/986947.png) | True Copper      |                 | True Copper      | True Copper       | True Copper      |           :heavy_check_mark: Warpaints           |
+| ![#986947 {20x20}](https://placehold.co/1/986947/986947.png) | True Copper      | Copper Coin     | True Copper      | True Copper       | True Copper      |           :heavy_check_mark: Warpaints           |
 | ![#896249 {20x20}](https://placehold.co/1/896249/896249.png) | Evil Chrome      | Aging Metal     | Evil Chrome      | Evil Chrome       | Evil Chrome      |                       :x:                        |
 | ![#774B48 {20x20}](https://placehold.co/1/774B48/774B48.png) | Red Copper       |                 |                  | Red Copper        |                  |                       :x:                        |
 | ![#382F22 {20x20}](https://placehold.co/1/382F22/382F22.png) | Rough Iron       | Meteorite Metal | Rough Iron       | Rough Iron        | Rough Iron       |           :heavy_check_mark: Warpaints           |
@@ -398,7 +398,7 @@ Metallic paints have a `Black` lid.
 | ![#838686 {20x20}](https://placehold.co/1/838686/838686.png) | Plate Mail Metal | Deadly Iron     | Plate Mail Metal | Plate Mail Metal  | Plate Mail Metal |       :heavy_check_mark: Warpaints Fanatic       |
 | ![#656766 {20x20}](https://placehold.co/1/656766/656766.png) | Gun Metal        | Meteorite Metal | Gun Metal        | Gun Metal         | Gun Metal        |       :heavy_check_mark: Warpaints Fanatic       |
 | ![#46814B {20x20}](https://placehold.co/1/46814B/46814B.png) | Glittering Green |                 | Glittering Green | Glittering Green  | Glittering Green |                       :x:                        |
-| ![#4C5A2C {20x20}](https://placehold.co/1/4C5A2C/4C5A2C.png) | Dark Emerald     |                 |                  | Dark Emerald      |                  |                       :x:                        |
+| ![#4C5A2C {20x20}](https://placehold.co/1/4C5A2C/4C5A2C.png) | Dark Emerald     | Cursed Weapon   |                  | Dark Emerald      |                  |                       :x:                        |
 
 # The Army Painter Washes
 
