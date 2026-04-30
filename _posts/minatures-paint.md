@@ -8,6 +8,7 @@ preview: /assets/blog/minatures-paint/paint-hero.jpg
 slug: /projects/minatures-paint
 related:
   - /projects/fallout-wasteland-warfare
+  - /projects/minatures
 draft: false
 tags:
   - Toys
@@ -20,6 +21,8 @@ keywords:
 > Image © [The Army Painter](https://thearmypainter.com)
 
 # Table of contents
+
+https://thearmypainter.com/en-gb/pages/downloads
 
 # The Army Painter Acrylics
 
