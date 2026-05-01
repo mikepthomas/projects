@@ -32,14 +32,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Black & Greys
 
-|                            Colour                            | Shade           | GameMaster    | Warpaints          | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | --------------- | ------------- | ------------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#D6D6D8 {20x20}](https://placehold.co/1/D6D6D8/D6D6D8.png) | Very Light Grey |               | Spaceship Exterior | Brigade Grey      |               |                 :x:                  |
-| ![#C1C2C5 {20x20}](https://placehold.co/1/C1C2C5/C1C2C5.png) | Light Grey      |               |                    | Company Grey      | Company Grey  |                 :x:                  |
-| ![#8E9193 {20x20}](https://placehold.co/1/8E9193/8E9193.png) | Grey            |               | Ash Grey           | Ash Grey          |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#70757A {20x20}](https://placehold.co/1/70757A/70757A.png) | Dark Grey       | Orc Grey      | Uniform Grey       | Uniform Grey      | Uniform Grey  | :heavy_check_mark: Warpaints Fanatic |
-| ![#5A5F65 {20x20}](https://placehold.co/1/5A5F65/5A5F65.png) | Very Dark Grey  | Drow Skin     | Necromancer Cloak  | Deep Grey         |               |     :heavy_check_mark: Warpaints     |
-| ![#000000 {20x20}](https://placehold.co/1/000000/000000.png) | Black           | Chaotic Black | Matt Black         | Matt Black        | Matt Black    | :heavy_check_mark: Warpaints Fanatic |
+|                            Colour                            | Shade           | GameMaster    | John Blanche  | Warpaints          | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | --------------- | ------------- | ------------- | ------------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#D6D6D8 {20x20}](https://placehold.co/1/D6D6D8/D6D6D8.png) | Very Light Grey |               |               | Spaceship Exterior | Brigade Grey      |               |                 :x:                  |
+| ![#C1C2C5 {20x20}](https://placehold.co/1/C1C2C5/C1C2C5.png) | Light Grey      |               |               |                    | Company Grey      | Company Grey  |                 :x:                  |
+| ![#8E9193 {20x20}](https://placehold.co/1/8E9193/8E9193.png) | Grey            |               |               | Ash Grey           | Ash Grey          |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#70757A {20x20}](https://placehold.co/1/70757A/70757A.png) | Dark Grey       | Orc Grey      |               | Uniform Grey       | Uniform Grey      | Uniform Grey  | :heavy_check_mark: Warpaints Fanatic |
+| ![#5A5F65 {20x20}](https://placehold.co/1/5A5F65/5A5F65.png) | Very Dark Grey  | Drow Skin     |               | Necromancer Cloak  | Deep Grey         |               |     :heavy_check_mark: Warpaints     |
+| ![#2A2C2F {20x20}](https://placehold.co/1/2A2C2F/2A2C2F.png) |                 |               | Ironclad Grey |                    |                   |               |                 :x:                  |
+| ![#000000 {20x20}](https://placehold.co/1/000000/000000.png) | Black           | Chaotic Black |               | Matt Black         | Matt Black        | Matt Black    | :heavy_check_mark: Warpaints Fanatic |
 
 ## Warm Greys & Whites
 
@@ -87,14 +88,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Deep Green-Blues
 
-|                            Colour                            | Shade                   | GameMaster   | Warpaints       | Warpaints Fanatic | Warpaints Air |           Received           |
-| :----------------------------------------------------------: | ----------------------- | ------------ | --------------- | ----------------- | ------------- | :--------------------------: |
-| ![#5EACCB {20x20}](https://placehold.co/1/5EACCB/5EACCB.png) | Light Greenish Blue     |              | Voidshield Blue | Aegis Aqua        |               | :heavy_check_mark: Warpaints |
-| ![#459BC2 {20x20}](https://placehold.co/1/459BC2/459BC2.png) | Greenish Blue           |              |                 | Shieldwall Blue   |               |             :x:              |
-| ![#3A84AA {20x20}](https://placehold.co/1/3A84AA/3A84AA.png) | Strong Greenish Blue    |              | Troglodyte Blue | Phalanx Blue      |               |             :x:              |
-| ![#2C6890 {20x20}](https://placehold.co/1/2C6890/2C6890.png) | Dark Greenish Blue      |              |                 | Tidal Blue        |               |             :x:              |
-| ![#1F4E68 {20x20}](https://placehold.co/1/1F4E68/1F4E68.png) | Deep Greenish Blue      |              |                 | Abyssal Blue      | Twilight Sky  |             :x:              |
-| ![#253241 {20x20}](https://placehold.co/1/253241/253241.png) | Very Dark Greenish Blue | Magi Missile |                 | Deep Ocean Blue   | Thunder Storm |             :x:              |
+|                            Colour                            | Shade                   | GameMaster   | John Blanche | Warpaints       | Warpaints Fanatic | Warpaints Air |           Received           |
+| :----------------------------------------------------------: | ----------------------- | ------------ | ------------ | --------------- | ----------------- | ------------- | :--------------------------: |
+| ![#5EACCB {20x20}](https://placehold.co/1/5EACCB/5EACCB.png) | Light Greenish Blue     |              |              | Voidshield Blue | Aegis Aqua        |               | :heavy_check_mark: Warpaints |
+| ![#459BC2 {20x20}](https://placehold.co/1/459BC2/459BC2.png) | Greenish Blue           |              |              |                 | Shieldwall Blue   |               |             :x:              |
+| ![#3A84AA {20x20}](https://placehold.co/1/3A84AA/3A84AA.png) | Strong Greenish Blue    |              |              | Troglodyte Blue | Phalanx Blue      |               |             :x:              |
+| ![#2C6890 {20x20}](https://placehold.co/1/2C6890/2C6890.png) | Dark Greenish Blue      |              |              |                 | Tidal Blue        |               |             :x:              |
+| ![#1F4E68 {20x20}](https://placehold.co/1/1F4E68/1F4E68.png) | Deep Greenish Blue      |              |              |                 | Abyssal Blue      | Twilight Sky  |             :x:              |
+| ![#253241 {20x20}](https://placehold.co/1/253241/253241.png) | Very Dark Greenish Blue | Magi Missile |              |                 | Deep Ocean Blue   | Thunder Storm |             :x:              |
+| ![#1B2127 {20x20}](https://placehold.co/1/1B2127/1B2127.png) |                         |              | The Darkness |                 |                   |               |             :x:              |
 
 ## Turquoises
 
@@ -120,14 +122,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Deep Greens
 
-|                            Colour                            | Shade            | GameMaster      | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ---------------- | --------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#85BF73 {20x20}](https://placehold.co/1/85BF73/85BF73.png) | Very Light Green | Toxic Toad      | Kraken Skin  | Ferocious Green   | Feral Green   |                 :x:                  |
-| ![#5DA04E {20x20}](https://placehold.co/1/5DA04E/5DA04E.png) | Light Green      |                 |              | Wild Green        |               |                 :x:                  |
-| ![#4B8A41 {20x20}](https://placehold.co/1/4B8A41/4B8A41.png) | Green            |                 | Goblin Green | Eternal Hunt      | Goblin Green  |                 :x:                  |
-| ![#2F6B34 {20x20}](https://placehold.co/1/2F6B34/2F6B34.png) | Strong Green     | Elven Green     | Greenskin    | Greenskin         | Greenskin     | :heavy_check_mark: Warpaints Fanatic |
-| ![#315D43 {20x20}](https://placehold.co/1/315D43/315D43.png) | Deep Green       |                 |              | Guardian Green    | Savage Green  |                 :x:                  |
-| ![#233C2B {20x20}](https://placehold.co/1/233C2B/233C2B.png) | Very Dark Green  | Malachite Green | Angel Green  | Angel Green       | Angel Green   |     :heavy_check_mark: Warpaints     |
+|                            Colour                            | Shade            | GameMaster      | John Blanche   | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ---------------- | --------------- | -------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#85BF73 {20x20}](https://placehold.co/1/85BF73/85BF73.png) | Very Light Green | Toxic Toad      |                | Kraken Skin  | Ferocious Green   | Feral Green   |                 :x:                  |
+| ![#5DA04E {20x20}](https://placehold.co/1/5DA04E/5DA04E.png) | Light Green      |                 |                |              | Wild Green        |               |                 :x:                  |
+| ![#4B8A41 {20x20}](https://placehold.co/1/4B8A41/4B8A41.png) | Green            |                 |                | Goblin Green | Eternal Hunt      | Goblin Green  |                 :x:                  |
+| ![#2F6B34 {20x20}](https://placehold.co/1/2F6B34/2F6B34.png) | Strong Green     | Elven Green     |                | Greenskin    | Greenskin         | Greenskin     | :heavy_check_mark: Warpaints Fanatic |
+| ![#315D43 {20x20}](https://placehold.co/1/315D43/315D43.png) | Deep Green       |                 |                |              | Guardian Green    | Savage Green  |                 :x:                  |
+| ![#233C2B {20x20}](https://placehold.co/1/233C2B/233C2B.png) | Very Dark Green  | Malachite Green |                | Angel Green  | Angel Green       | Angel Green   |     :heavy_check_mark: Warpaints     |
+| ![#152829 {20x20}](https://placehold.co/1/152829/152829.png) |                  |                 | Blighted Green |              |                   |               |                 :x:                  |
 
 ## Vibrant Greens
 
@@ -153,14 +156,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Olive Greens
 
-|                            Colour                            | Shade                 | GameMaster   | Warpaints      | Warpaints Fanatic | Warpaints Air  |               Received               |
-| :----------------------------------------------------------: | --------------------- | ------------ | -------------- | ----------------- | -------------- | :----------------------------------: |
-| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green | Zombie Flesh |                | Grotesque Green   | Zombie Flesh   |                 :x:                  |
-| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Gorgon Skin  | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                 :x:                  |
-| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     |              | Witch Brew     | Olive Drab        |                |                 :x:                  |
-| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           |              | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Fanatic |
-| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Moss Green   | Army Green     | Army Green        | Army Green     | :heavy_check_mark: Warpaints Fanatic |
-| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      |              | Elf Green      | Woodland Camo     | Militia Green  | :heavy_check_mark: Warpaints Fanatic |
+|                            Colour                            | Shade                 | GameMaster   | John Blanche   | Warpaints      | Warpaints Fanatic | Warpaints Air  |               Received               |
+| :----------------------------------------------------------: | --------------------- | ------------ | -------------- | -------------- | ----------------- | -------------- | :----------------------------------: |
+| ![#B9C2A0 {20x20}](https://placehold.co/1/B9C2A0/B9C2A0.png) | Very Pale Olive Green | Zombie Flesh |                |                | Grotesque Green   | Zombie Flesh   |                 :x:                  |
+| ![#A4AC86 {20x20}](https://placehold.co/1/A4AC86/A4AC86.png) | Pale Olive Green      | Gorgon Skin  |                | Necrotic Flesh | Necrotic Flesh    | Necrotic Flesh |                 :x:                  |
+| ![#758356 {20x20}](https://placehold.co/1/758356/758356.png) | Light Olive Green     |              |                | Witch Brew     | Olive Drab        |                |                 :x:                  |
+| ![#626F4A {20x20}](https://placehold.co/1/626F4A/626F4A.png) | Olive Green           |              |                | Commando Green | Camouflage Green  | Gremlin Green  | :heavy_check_mark: Warpaints Fanatic |
+| ![#505E3C {20x20}](https://placehold.co/1/505E3C/505E3C.png) | Strong Olive Green    | Moss Green   |                | Army Green     | Army Green        | Army Green     | :heavy_check_mark: Warpaints Fanatic |
+| ![#404A35 {20x20}](https://placehold.co/1/404A35/404A35.png) | Deep Olive Green      |              |                | Elf Green      | Woodland Camo     | Militia Green  | :heavy_check_mark: Warpaints Fanatic |
+| ![#2F3229 {20x20}](https://placehold.co/1/2F3229/2F3229.png) |                       |              | Midnight Olive |                |                   |                |                 :x:                  |
 
 ## Browns
 
@@ -175,14 +179,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Ochres & Tans
 
-|                            Colour                            | Shade                      | GameMaster     | Warpaints      | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | -------------------------- | -------------- | -------------- | ----------------- | ------------- | :----------------------------------: |
-| ![#D7BC76 {20x20}](https://placehold.co/1/D7BC76/D7BC76.png) | Very Light Yellowish Brown |                | Troll Claws    | Barren Dune       |               |                 :x:                  |
-| ![#BB9C5B {20x20}](https://placehold.co/1/BB9C5B/BB9C5B.png) | Light Yellowish Brown      |                | Hemp Rope      | Burnt Turf        |               |                 :x:                  |
-| ![#A58B56 {20x20}](https://placehold.co/1/A58B56/A58B56.png) | Yellowish Brown            |                | Basilisk Brown | Wasteland Clay    | Yellow Dune   | :heavy_check_mark: Warpaints Fanatic |
-| ![#847647 {20x20}](https://placehold.co/1/847647/847647.png) | Strong Yellowish Brown     | Harpy Feathers | Desert Yellow  | Desert Yellow     | Desert Yellow | :heavy_check_mark: Warpaints Fanatic |
-| ![#6D6845 {20x20}](https://placehold.co/1/6D6845/6D6845.png) | Dark Yellowish Brown       | Warlock Hex    | Sulfide Ochre  | Prairie Ochre     | Barren Yellow |                 :x:                  |
-| ![#52543E {20x20}](https://placehold.co/1/52543E/52543E.png) | Deep Olive Brown           |                | Venom Wyrm     | Tundra Taupe      |               | :heavy_check_mark: Warpaints Fanatic |
+|                            Colour                            | Shade                      | GameMaster     | John Blanche   | Warpaints      | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | -------------------------- | -------------- | -------------- | -------------- | ----------------- | ------------- | :----------------------------------: |
+| ![#D7BC76 {20x20}](https://placehold.co/1/D7BC76/D7BC76.png) | Very Light Yellowish Brown |                |                | Troll Claws    | Barren Dune       |               |                 :x:                  |
+| ![#BB9C5B {20x20}](https://placehold.co/1/BB9C5B/BB9C5B.png) | Light Yellowish Brown      |                |                | Hemp Rope      | Burnt Turf        |               |                 :x:                  |
+| ![#A58B56 {20x20}](https://placehold.co/1/A58B56/A58B56.png) | Yellowish Brown            |                |                | Basilisk Brown | Wasteland Clay    | Yellow Dune   | :heavy_check_mark: Warpaints Fanatic |
+| ![#847647 {20x20}](https://placehold.co/1/847647/847647.png) | Strong Yellowish Brown     | Harpy Feathers |                | Desert Yellow  | Desert Yellow     | Desert Yellow | :heavy_check_mark: Warpaints Fanatic |
+| ![#6D6845 {20x20}](https://placehold.co/1/6D6845/6D6845.png) | Dark Yellowish Brown       | Warlock Hex    |                | Sulfide Ochre  | Prairie Ochre     | Barren Yellow |                 :x:                  |
+| ![#52543E {20x20}](https://placehold.co/1/52543E/52543E.png) | Deep Olive Brown           |                |                | Venom Wyrm     | Tundra Taupe      |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#3D3D27 {20x20}](https://placehold.co/1/3D3D27/3D3D27.png) |                            |                | Tainted Garden |                |                   |               |                 :x:                  |
 
 ## Light Neutrals
 
@@ -197,14 +202,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Yellows
 
-|                            Colour                            | Shade                   | GameMaster       | Warpaints       | Warpaints Fanatic | Warpaints Air   |               Received               |
-| :----------------------------------------------------------: | ----------------------- | ---------------- | --------------- | ----------------- | --------------- | :----------------------------------: |
-| ![#F9EDB3 {20x20}](https://placehold.co/1/F9EDB3/F9EDB3.png) | Very Light Yellow       | Hobgoblin Yellow | Arid Earth      | Ice Yellow        | Cosmic Dust     |                 :x:                  |
-| ![#F4E28C {20x20}](https://placehold.co/1/F4E28C/F4E28C.png) | Light Yellow            |                  | Moon Dust       | Space Dust        | Moon Dust       | :heavy_check_mark: Warpaints Fanatic |
-| ![#F3D256 {20x20}](https://placehold.co/1/F3D256/F3D256.png) | Brilliant Orange Yellow |                  | Babe Blonde     | Warped Yellow     | Meteor Rock     |                 :x:                  |
-| ![#F7CD45 {20x20}](https://placehold.co/1/F7CD45/F7CD45.png) | Orange Yellow           | Angelic Yellow   | Daemonic Yellow | Daemonic Yellow   | Daemonic Yellow | :heavy_check_mark: Warpaints Fanatic |
-| ![#D99F39 {20x20}](https://placehold.co/1/D99F39/D99F39.png) | Strong Orange Yellow    |                  | Fire Lizard     | Fiendish Yellow   |                 |                 :x:                  |
-| ![#C47C41 {20x20}](https://placehold.co/1/C47C41/C47C41.png) | Deep Orange Yellow      |                  |                 | Demigod Flames    |                 |                 :x:                  |
+|                            Colour                            | Shade                   | GameMaster       | John Blanche   | Warpaints       | Warpaints Fanatic | Warpaints Air   |               Received               |
+| :----------------------------------------------------------: | ----------------------- | ---------------- | -------------- | --------------- | ----------------- | --------------- | :----------------------------------: |
+| ![#F9EDB3 {20x20}](https://placehold.co/1/F9EDB3/F9EDB3.png) | Very Light Yellow       | Hobgoblin Yellow |                | Arid Earth      | Ice Yellow        | Cosmic Dust     |                 :x:                  |
+| ![#F4E28C {20x20}](https://placehold.co/1/F4E28C/F4E28C.png) | Light Yellow            |                  |                | Moon Dust       | Space Dust        | Moon Dust       | :heavy_check_mark: Warpaints Fanatic |
+| ![#F3D256 {20x20}](https://placehold.co/1/F3D256/F3D256.png) | Brilliant Orange Yellow |                  |                | Babe Blonde     | Warped Yellow     | Meteor Rock     |                 :x:                  |
+| ![#F7CD45 {20x20}](https://placehold.co/1/F7CD45/F7CD45.png) | Orange Yellow           | Angelic Yellow   |                | Daemonic Yellow | Daemonic Yellow   | Daemonic Yellow | :heavy_check_mark: Warpaints Fanatic |
+| ![#D99F39 {20x20}](https://placehold.co/1/D99F39/D99F39.png) | Strong Orange Yellow    |                  |                | Fire Lizard     | Fiendish Yellow   |                 |                 :x:                  |
+| ![#C47C41 {20x20}](https://placehold.co/1/C47C41/C47C41.png) | Deep Orange Yellow      |                  |                |                 | Demigod Flames    |                 |                 :x:                  |
+| ![#78462A {20x20}](https://placehold.co/1/78462A/78462A.png) |                         |                  | Sunburst Ochre |                 |                   |                 |                 :x:                  |
 
 ## Oranges
 
@@ -230,14 +236,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Ruddy Browns
 
-|                            Colour                            | Shade                    | GameMaster    | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ------------------------ | ------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
-| ![#C18F84 {20x20}](https://placehold.co/1/C18F84/C18F84.png) | Very Light Reddish Brown |               |              | Buffed Hide       |               |                 :x:                  |
-| ![#925E50 {20x20}](https://placehold.co/1/925E50/925E50.png) | Light Reddish Brown      | Cyclops Flesh | Tanned Flesh | Ruddy Umber       | Viper Brown   |                 :x:                  |
-| ![#764A44 {20x20}](https://placehold.co/1/764A44/764A44.png) | Reddish Brown            | Worn Leather  | Fur Brown    | Fur Brown         | Fur Brown     | :heavy_check_mark: Warpaints Fanatic |
-| ![#614034 {20x20}](https://placehold.co/1/614034/614034.png) | Strong Reddish Brown     |               |              | Dryad Brown       | Cypress Brown |                 :x:                  |
-| ![#503D35 {20x20}](https://placehold.co/1/503D35/503D35.png) | Dark Reddish Brown       |               | Dirt Spatter | Tree Ancient      |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#3B2E2B {20x20}](https://placehold.co/1/3B2E2B/3B2E2B.png) | Very Dark Reddish Brown  | Bear Brown    | Oak Brown    | Oak Brown         | Oak Brown     |     :heavy_check_mark: Warpaints     |
+|                            Colour                            | Shade                    | GameMaster    | John Blanche  | Warpaints    | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ------------------------ | ------------- | ------------- | ------------ | ----------------- | ------------- | :----------------------------------: |
+| ![#C18F84 {20x20}](https://placehold.co/1/C18F84/C18F84.png) | Very Light Reddish Brown |               |               |              | Buffed Hide       |               |                 :x:                  |
+| ![#925E50 {20x20}](https://placehold.co/1/925E50/925E50.png) | Light Reddish Brown      | Cyclops Flesh |               | Tanned Flesh | Ruddy Umber       | Viper Brown   |                 :x:                  |
+| ![#764A44 {20x20}](https://placehold.co/1/764A44/764A44.png) | Reddish Brown            | Worn Leather  |               | Fur Brown    | Fur Brown         | Fur Brown     | :heavy_check_mark: Warpaints Fanatic |
+| ![#614034 {20x20}](https://placehold.co/1/614034/614034.png) | Strong Reddish Brown     |               |               |              | Dryad Brown       | Cypress Brown |                 :x:                  |
+| ![#503D35 {20x20}](https://placehold.co/1/503D35/503D35.png) | Dark Reddish Brown       |               |               | Dirt Spatter | Tree Ancient      |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#3B2E2B {20x20}](https://placehold.co/1/3B2E2B/3B2E2B.png) | Very Dark Reddish Brown  | Bear Brown    |               | Oak Brown    | Oak Brown         | Oak Brown     |     :heavy_check_mark: Warpaints     |
+| ![#322623 {20x20}](https://placehold.co/1/322623/322623.png) |                          |               | Banshee Brown |              |                   |               |   :heavy_check_mark: John Blanche    |
 
 ## Cool Reds
 
@@ -285,14 +292,15 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Desaturated Violets
 
-|                            Colour                            | Shade                  | GameMaster     | Warpaints       | Warpaints Fanatic | Warpaints Air |               Received               |
-| :----------------------------------------------------------: | ---------------------- | -------------- | --------------- | ----------------- | ------------- | :----------------------------------: |
-| ![#E7CAD9 {20x20}](https://placehold.co/1/E7CAD9/E7CAD9.png) | Very Pale Purplish Red |                | Mutant Hue      | Wilted Rose       |               |                 :x:                  |
-| ![#DCB3C5 {20x20}](https://placehold.co/1/DCB3C5/DCB3C5.png) | Pale Purplish Red      |                |                 | Figgy Pink        | Coven Purple  |                 :x:                  |
-| ![#CA90A9 {20x20}](https://placehold.co/1/CA90A9/CA90A9.png) | Light Purplish Red     |                | Toxic Boils     | Forbidden Fruit   |               |                 :x:                  |
-| ![#9E5977 {20x20}](https://placehold.co/1/9E5977/9E5977.png) | Purplish Red           |                |                 | Elder Flower      | Fairy Pink    |                 :x:                  |
-| ![#78394F {20x20}](https://placehold.co/1/78394F/78394F.png) | Deep Purplish Red      |                | Wasteland Soil  | Moldy Wine        |               | :heavy_check_mark: Warpaints Fanatic |
-| ![#603948 {20x20}](https://placehold.co/1/603948/603948.png) | Dark Purplish Red      | Dungeon Fungus | Grimoire Purple | Mulled Berry      |               |                 :x:                  |
+|                            Colour                            | Shade                  | GameMaster     | John Blanche   | Warpaints       | Warpaints Fanatic | Warpaints Air |               Received               |
+| :----------------------------------------------------------: | ---------------------- | -------------- | -------------- | --------------- | ----------------- | ------------- | :----------------------------------: |
+| ![#E7CAD9 {20x20}](https://placehold.co/1/E7CAD9/E7CAD9.png) | Very Pale Purplish Red |                |                | Mutant Hue      | Wilted Rose       |               |                 :x:                  |
+| ![#DCB3C5 {20x20}](https://placehold.co/1/DCB3C5/DCB3C5.png) | Pale Purplish Red      |                |                |                 | Figgy Pink        | Coven Purple  |                 :x:                  |
+| ![#CA90A9 {20x20}](https://placehold.co/1/CA90A9/CA90A9.png) | Light Purplish Red     |                |                | Toxic Boils     | Forbidden Fruit   |               |                 :x:                  |
+| ![#9E5977 {20x20}](https://placehold.co/1/9E5977/9E5977.png) | Purplish Red           |                |                |                 | Elder Flower      | Fairy Pink    |                 :x:                  |
+| ![#78394F {20x20}](https://placehold.co/1/78394F/78394F.png) | Deep Purplish Red      |                |                | Wasteland Soil  | Moldy Wine        |               | :heavy_check_mark: Warpaints Fanatic |
+| ![#603948 {20x20}](https://placehold.co/1/603948/603948.png) | Dark Purplish Red      | Dungeon Fungus |                | Grimoire Purple | Mulled Berry      |               |                 :x:                  |
+| ![#382029 {20x20}](https://placehold.co/1/382029/382029.png) |                        |                | Blanched Berry |                 |                   |               |                 :x:                  |
 
 ## Rose Skin Tones
 
@@ -329,14 +337,17 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Others
 
-|                            Colour                            | Shade | GameMaster    | Warpaints  | Warpaints Fanatic | Warpaints Air |           Received           |
-| :----------------------------------------------------------: | ----- | ------------- | ---------- | ----------------- | ------------- | :--------------------------: |
-| ![#5E5753 {20x20}](https://placehold.co/1/5E5753/5E5753.png) |       | Cauldron Grey | Dark Stone |                   |               | :heavy_check_mark: Warpaints |
+|                            Colour                            | Shade | GameMaster    | Warpaints   | Warpaints Fanatic | Warpaints Air |           Received           |
+| :----------------------------------------------------------: | ----- | ------------- | ----------- | ----------------- | ------------- | :--------------------------: |
+| ![#5E5753 {20x20}](https://placehold.co/1/5E5753/5E5753.png) |       | Cauldron Grey | Dark Stone  |                   |               | :heavy_check_mark: Warpaints |
+| ![#5E635F {20x20}](https://placehold.co/1/5E635F/5E635F.png) |       |               | Field Grey  |                   |               | :heavy_check_mark: Warpaints |
+| ![#753339 {20x20}](https://placehold.co/1/753339/753339.png) |       |               | Vampire Red |                   |               | :heavy_check_mark: Warpaints |
 
-- ![#221A0D {20x20}](https://placehold.co/1/221A0D/221A0D.png) John Blanche Masterclass: Banshee Brown
-- ![#5E635F {20x20}](https://placehold.co/1/5E635F/5E635F.png) Warpaints: Field Grey
-- ![#753339 {20x20}](https://placehold.co/1/753339/753339.png) Warpaints: Vampire Red
-- ![#233235 {20x20}](https://placehold.co/1/233235/233235.png) Warpaints Historical: Commando Green
+## Historical
+
+|                            Colour                            | Shade | Warpaints Historical |                Received                 |
+| :----------------------------------------------------------: | ----- | -------------------- | :-------------------------------------: |
+| ![#233235 {20x20}](https://placehold.co/1/233235/233235.png) |       | Commando Green       | :heavy_check_mark: Warpaints Historical |
 
 # The Army Painter Effects
 
