@@ -1210,9 +1210,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                                                                                         |     Purchased      | Digital                                 |     Downloaded     | Notes |
-| ------------------------------------------------------------------------------------------------------------ | :----------------: | --------------------------------------- | :----------------: | ----- |
-| [A Solo Roleplaying Game](https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game) | :heavy_check_mark: | Included with purchase of physical item | :heavy_check_mark: |       |
+| Item                                          |     Purchased      | Digital                                                    |     Downloaded     | Notes |
+| --------------------------------------------- | :----------------: | ---------------------------------------------------------- | :----------------: | ----- |
+| [A Solo Roleplaying Game][Wasteland Wanderer] | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Wasteland Wanderer PDF] | :heavy_check_mark: |       |
+
+[Wasteland Wanderer]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game
+[Wasteland Wanderer PDF]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game-pdf
 
 # Units
 
