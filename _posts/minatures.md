@@ -183,7 +183,7 @@ keywords:
 
 ## Super Mutant Behemoth
 
-[Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9)
+[Samuel Steele Painting Guide](https://ko-fi.com/s/194ea74d67)
 
 ### 1. Undercoat
 
