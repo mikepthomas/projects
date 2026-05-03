@@ -1384,11 +1384,11 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Unaligned
 
-| Item                | Quantity | Material | Included In                                | Cards                                    | Notes |
-| ------------------- | -------- | -------- | ------------------------------------------ | ---------------------------------------- | ----- |
-| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [Commonwealth Rules][Commonwealth Rules] |       |
-| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Rules][New Vegas Rules]       |       |
-| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Card Deck][Raiders Card Deck]   |       |
+| Item                | Quantity | Material | Included In                                | Cards                                    | Notes                               |
+| ------------------- | -------- | -------- | ------------------------------------------ | ---------------------------------------- | ----------------------------------- |
+| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [Commonwealth Rules][Commonwealth Rules] |                                     |
+| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Rules][New Vegas Rules]       | [Painting Guide](minatures#grognak) |
+| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Card Deck][Raiders Card Deck]   |                                     |
 
 ## Game Cards
 
