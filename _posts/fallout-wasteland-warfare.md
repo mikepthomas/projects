@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-04-21T21:26:28.853Z
+lastmod: 2026-05-03T11:52:36.576Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -582,12 +582,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                   | Purchased | Digital                                                                                                                |     Downloaded     | Notes |
-| ---------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Bear Force One         |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf)         | :heavy_check_mark: |       |
-| Black Mountain Beacons |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf) | :heavy_check_mark: |       |
-| Border Patrol          |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Border_Patrol_002w.pdf)          | :heavy_check_mark: |       |
-| No Dice                |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/No_Dice_002w.pdf)                | :heavy_check_mark: |       |
+| Item                   | Purchased | Digital                                                                                                                |     Downloaded     | Notes                     |
+| ---------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------- |
+| Bear Force One         |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf)         | :heavy_check_mark: |                           |
+| Black Mountain Beacons |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf) | :heavy_check_mark: |                           |
+| Border Patrol          |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Border_Patrol_002w.pdf)          | :heavy_check_mark: |                           |
+| No Dice                |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/No_Dice_002w.pdf)                | :heavy_check_mark: |                           |
+| Big Iron               |           | [Free <i class="far fa-file-pdf"/>](https://ko-fi.com/s/767185b2f0)                                                    | :heavy_check_mark: | Scenario by Samuel Steele |
 
 ## Wave 6 - Commonwealth Expansion
 
@@ -686,9 +687,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                                        | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes |
-| ------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: |       |
+| Item                                        | Purchased | Digital                                                                                                                                 |     Downloaded     | Notes                     |
+| ------------------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------- |
+| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="far fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: |                           |
+| Dine 'n' Death                              |           | [Free <i class="far fa-file-pdf"/>](https://ko-fi.com/s/93abbdb9d3)                                                                     | :heavy_check_mark: | Scenario by Samuel Steele |
+| The Adventures of Grognak the Barbarian     |           | [Free <i class="far fa-file-pdf"/>](https://ko-fi.com/s/6364ade206)                                                                     | :heavy_check_mark: | Scenario by Samuel Steele |
 
 ## Wave 8 - Capital Expansion
 

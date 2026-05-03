@@ -2,6 +2,7 @@
 title: Painting Fallout Minatures
 heading: Paint Colours for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
+lastmod: 2026-05-03T11:53:21.218Z
 author: Mike Thomas
 description: List of suggested paint colours I plan on using to paint Fallout Minatures from the Modiphius Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -26,7 +27,7 @@ keywords:
 
 ## Aspirant Goddard
 
-[Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
+[Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
 ### 1. Undercoat
 
@@ -67,11 +68,162 @@ keywords:
 | Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
+# Robots
+
+## Protectron
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/6b479163a7)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                                | Own |
+| ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
+| Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
+
+### 2. Basecoat
+
+| Item   | Suggested Paint          | Alternative                     |        Own         |
+| ------ | ------------------------ | ------------------------------- | :----------------: |
+| Model  | Warpaints: Electric Blue | Warpaints Fanatic: Arctic Gem   | :heavy_check_mark: |
+| Base   | Warpaints: Dungeon Grey  | Grinning Gargoyle: Dungeon Grey | :heavy_check_mark: |
+| Tubing | Warpaints: Matt Black    | Grinning Gargoyle: Matt Black   | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item  | Suggested Paint                 | Alternative           |        Own         |
+| ----- | ------------------------------- | --------------------- | :----------------: |
+| Model | AK Interactive: Rust Streaks    | Warpaints: Dry Rust   | :heavy_check_mark: |
+| Model | AK Interactive: Streaking Grime | Warpaints: Oil Stains |        :x:         |
+
+### 4. Highlight
+
+| Item                 | Suggested Paint                | Alternative                            |        Own         |
+| -------------------- | ------------------------------ | -------------------------------------- | :----------------: |
+| Base                 | Warpaints: Uniform Grey        | Warpaints Fanatic: Uniform Grey        | :heavy_check_mark: |
+| Base                 | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
+| Hands / Legs / Visor | Warpaints Metallics: Gun Metal | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
+| Bricks               | Warpaints: Fur Brown           | Warpaints Fanatic: Fur Brown           | :heavy_check_mark: |
+
+## Sentry Bot
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                                | Own |
+| ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
+| Primer | [Army Green Primer](https://thearmypainter.com/en-nl/products/colour-primers-colour-primer-army-green-cp3005s) | :x: |
+
+### 2. Basecoat
+
+| Item          | Suggested Paint         | Alternative                     |        Own         |
+| ------------- | ----------------------- | ------------------------------- | :----------------: |
+| Grill / Tyres | Warpaints: Matt Black   | Grinning Gargoyle: Matt Black   | :heavy_check_mark: |
+| Base / Metal  | Warpaints: Dungeon Grey | Grinning Gargoyle: Dungeon Grey | :heavy_check_mark: |
+| Tubing        | Warpaints: Oak Brown    |                                 | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item  | Suggested Paint                 | Alternative           |        Own         |
+| ----- | ------------------------------- | --------------------- | :----------------: |
+| Model | AK Interactive: Rust Streaks    | Warpaints: Dry Rust   | :heavy_check_mark: |
+| Model | AK Interactive: Streaking Grime | Warpaints: Oil Stains |        :x:         |
+
+### 4. Highlight
+
+| Item                 | Suggested Paint                | Alternative                      |        Own         |
+| -------------------- | ------------------------------ | -------------------------------- | :----------------: |
+| Tracks               | Warpaints Metallics: Gun Metal | Warpaints Fanatic: Gun Metal     | :heavy_check_mark: |
+| Visor / Refrigerator | Warpaints: Crusted Sore        |                                  |         ::         |
+| Wood                 | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown | :heavy_check_mark: |
+| Bricks               | Warpaints: Fur Brown           | Warpaints Fanatic: Fur Brown     | :heavy_check_mark: |
+| Manhole Cover        | Warpaints: Dark Stone          |                                  | :heavy_check_mark: |
+| Stone                | Warpaints: Uniform Grey        | Warpaints Fanatic: Uniform Grey  | :heavy_check_mark: |
+
+# Super Mutants
+
+## Super Mutant
+
+[Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                                      | Own |
+| ------ | -------------------------------------------------------------------------------------------------------------------- | :-: |
+| Primer | [Leather Brown Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-leather-brown-cp3004s) | :x: |
+
+### 2. Basecoat
+
+| Item        | Suggested Paint                       | Alternative                                   |        Own         |
+| ----------- | ------------------------------------- | --------------------------------------------- | :----------------: |
+| Skin        | Warpaints: Venom Wyrm                 | Warpaints Fanatic: Tundra Taupe               | :heavy_check_mark: |
+| Metal / Gun | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
+| Ropes       | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
+| Base        | Warpaints: Werewolf Fur               | Warpaints Fanatic: Bootstrap Brown            | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item        | Suggested Paint               | Alternative                         |        Own         |
+| ----------- | ----------------------------- | ----------------------------------- | :----------------: |
+| Whole Model | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
+
+### 4. Highlight
+
+| Item             | Suggested Paint                       | Alternative                                   |        Own         |
+| ---------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
+| Base             | Warpaints: Leather Brown              | Grinning Gargoyle: Leather Brown              | :heavy_check_mark: |
+| Base             | Warpaints: Monster Brown              |                                               | :heavy_check_mark: |
+| Armor / Gun      | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
+| Skin             | Warpaints: Commando Green             | Warpaints Fanatic: Camouflage Green           | :heavy_check_mark: |
+| Cloth            | Warpaints: Desert Yellow              | Warpaints Fanatic: Desert Yellow              | :heavy_check_mark: |
+| Ropes            | Warpaints: Drake Tooth                |                                               | :heavy_check_mark: |
+| Ropes            | Warpaints: Pure Red                   | Grinning Gargoyle: Pure Red                   | :heavy_check_mark: |
+| Gun              | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
+| Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
+
+## Super Mutant Behemoth
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                                | Own |
+| ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
+| Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
+
+### 2. Basecoat
+
+| Item            | Suggested Paint              | Alternative                     |        Own         |
+| --------------- | ---------------------------- | ------------------------------- | :----------------: |
+| Skin Undertones | Warpaints: Angel Green       |                                 | :heavy_check_mark: |
+| Skin Midtones   | Warpaints: Greenskin         | Warpaints Fanatic: Greenskin    | :heavy_check_mark: |
+| Skin Highlights | Warpaints: Army Green        | Warpaints Fanatic: Army Green   | :heavy_check_mark: |
+| Hydrant         | Warpaints: Vampire Red       |                                 | :heavy_check_mark: |
+| Hydrant Pipe    | Warpaints: Uniform Grey      | Warpaints Fanatic: Uniform Grey | :heavy_check_mark: |
+| Loincloth       | Warpaints: Necromancer Cloak |                                 | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item    | Suggested Paint         | Alternative                        |        Own         |
+| ------- | ----------------------- | ---------------------------------- | :----------------: |
+| Skin    | Citadel: Seraphim Sepia | Warpaints Fanatic Wash: Sepia Tone | :heavy_check_mark: |
+| Hydrant | Citadel: Nuln Oil       | Warpaints Fanatic Wash: Dark Tone  | :heavy_check_mark: |
+
+### 4. Highlight
+
+| Item          | Suggested Paint                | Alternative                  |        Own         |
+| ------------- | ------------------------------ | ---------------------------- | :----------------: |
+| Chains        | Citadel: Rinox Hide            |                              |        :x:         |
+| Loincloth     | Warpaints: Vampire Red         |                              | :heavy_check_mark: |
+| Shopping Cart | Warpaints Metallics: Gun Metal | Warpaints Fanatic: Gun Metal | :heavy_check_mark: |
+| Shopping Cart | AK Interactive: Rust Streaks   | Warpaints Effects: Dry Rust  | :heavy_check_mark: |
+| Skin          | Warpaints Air: Feral Green     |                              |        :x:         |
+
 # Survivors
 
 ## Preston Garvey
 
-[Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
+[Modiphius Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
 ### 1. Undercoat
 
@@ -125,13 +277,13 @@ keywords:
 
 ## Settler
 
-[Painting Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf)
+[Modiphius Painting Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf)
 
 ### 1. Undercoat
 
-| Item   | Suggested Paint                                                                                     |        Own         |
-| ------ | --------------------------------------------------------------------------------------------------- | :----------------: |
-| Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-white-cp3002s) | :heavy_check_mark: |
+| Item   | Suggested Paint                                                                                       |        Own         |
+| ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
+| Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
 ### 2. Basecoat
 
@@ -182,43 +334,78 @@ keywords:
 | Metal Details                 | Warpaints Washes: Dark Tone    | Warpaints Fanatic Wash: Dark Tone      | :heavy_check_mark: |
 | Lamp                          | Warpaints Washes: Blue Tone    | Warpaints Fanatic Wash: Blue Tone      | :heavy_check_mark: |
 
-# Super Mutants
+## X-01 Survivor
 
-## Super Mutant
-
-[Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
+[Samuel Steele Painting Guide](https://ko-fi.com/s/566cfe2c24)
 
 ### 1. Undercoat
 
-| Item   | Suggested Paint                                                                                                      | Own |
-| ------ | -------------------------------------------------------------------------------------------------------------------- | :-: |
-| Primer | [Leather Brown Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-leather-brown-cp3004s) | :x: |
+| Item   | Suggested Paint                                                                                       |        Own         |
+| ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
+| Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
 ### 2. Basecoat
 
-| Item        | Suggested Paint                       | Alternative                                   |        Own         |
-| ----------- | ------------------------------------- | --------------------------------------------- | :----------------: |
-| Skin        | Warpaints: Venom Wyrm                 | Warpaints Fanatic: Tundra Taupe               | :heavy_check_mark: |
-| Metal / Gun | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
-| Ropes       | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
-| Base        | Warpaints: Werewolf Fur               | Warpaints Fanatic: Bootstrap Brown            | :heavy_check_mark: |
+| Item             | Suggested Paint             | Alternative                      |        Own         |
+| ---------------- | --------------------------- | -------------------------------- | :----------------: |
+| Armor Weathering | Warpaints Effects: Dry Rust |                                  | :heavy_check_mark: |
+| Tubing           | Warpaints: Leather Brown    | Grinning Gargoyle: Leather Brown | :heavy_check_mark: |
+| Lazer Rifle      | Warpaints: Army Green       | Warpaints Fanatic: Army Green    | :heavy_check_mark: |
+| Base             | Warpaints: Oak Brown        |                                  | :heavy_check_mark: |
 
 ### 3. Wash
 
-| Item        | Suggested Paint               | Alternative                         |        Own         |
-| ----------- | ----------------------------- | ----------------------------------- | :----------------: |
-| Whole Model | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
+| Item        | Suggested Paint   | Alternative                       |        Own         |
+| ----------- | ----------------- | --------------------------------- | :----------------: |
+| Whole Model | Citadel: Nuln Oil | Warpaints Fanatic Wash: Dark Tone | :heavy_check_mark: |
 
 ### 4. Highlight
 
-| Item             | Suggested Paint                       | Alternative                                   |        Own         |
-| ---------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
-| Base             | Warpaints: Leather Brown              | Grinning Gargoyle: Leather Brown              | :heavy_check_mark: |
-| Base             | Warpaints: Monster Brown              |                                               | :heavy_check_mark: |
-| Armor / Gun      | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
-| Skin             | Warpaints: Commando Green             | Warpaints Fanatic: Camouflage Green           | :heavy_check_mark: |
-| Cloth            | Warpaints: Desert Yellow              | Warpaints Fanatic: Desert Yellow              | :heavy_check_mark: |
-| Ropes            | Warpaints: Drake Tooth                |                                               | :heavy_check_mark: |
-| Ropes            | Warpaints: Pure Red                   | Grinning Gargoyle: Pure Red                   | :heavy_check_mark: |
-| Gun              | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
-| Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
+| Item           | Suggested Paint                | Alternative                            |        Own         |
+| -------------- | ------------------------------ | -------------------------------------- | :----------------: |
+| Armour         | Warpaints Metallics: Gun Metal | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
+| Armour Details | Warpaints: Matt Black          | Grinning Gargoyle: Matt Black          | :heavy_check_mark: |
+| Lazer Rifle    | Citadel: Flash Glitz Yellow    |                                        |        :x:         |
+| Base Dirt      | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
+| Base Stone     | Warpaints: Ash Grey            | Warpaints Fanatic: Ash Grey            | :heavy_check_mark: |
+
+# Unaligned
+
+## Grognak
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/7d5106ce9c)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                                | Own |
+| ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
+| Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
+
+### 2. Basecoat
+
+| Item                                          | Suggested Paint                | Alternative                           |        Own         |
+| --------------------------------------------- | ------------------------------ | ------------------------------------- | :----------------: |
+| Skin                                          | Warpaints Air: Nomad Flesh     | Warpaints Fanatic: Violent Vermillion |        :x:         |
+| Skin                                          | Warpaints Air: Barbarian Flesh | Warpaints: Barbarian Flesh            | :heavy_check_mark: |
+| Skin                                          | Warpaints Air: Wildling Flesh  |                                       |        :x:         |
+| Base / Belt / Boots / Gloves / Weapon Handles | Warpaints: Oak Brown           |                                       | :heavy_check_mark: |
+| Loincloth                                     | Warpaints: Army Green          | Warpaints Fanatic: Army Green         | :heavy_check_mark: |
+| Axe Shaft                                     | Warpaints: Dark Stone          |                                       | :heavy_check_mark: |
+| Axe Blade / Belt Studs / Sword                | Warpaints: Dungeon Grey        | Grinning Gargoyle: Dungeon Grey       | :heavy_check_mark: |
+| Hair                                          | Citadel: Flayed One Flesh      | Warpaints Fanatic: Dorado Skin        | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item               | Suggested Paint              | Alternative                               |        Own         |
+| ------------------ | ---------------------------- | ----------------------------------------- | :----------------: |
+| Skin               | Citadel: Reikland Fleshshade | Warpaints Fanatic Wash: Strong Skin Shade | :heavy_check_mark: |
+| Model (Minus Skin) | Citadel: Agrax Earthshade    | Warpaints Fanatic Wash: Strong Tone       | :heavy_check_mark: |
+
+### 4. Highlight
+
+| Item             | Suggested Paint           | Alternative                      |        Own         |
+| ---------------- | ------------------------- | -------------------------------- | :----------------: |
+| Loincloth        | Warpaints: Skeleton Bone  | Grinning Gargoyle: Skeleton Bone | :heavy_check_mark: |
+| Base / Loincloth | Warpaints: Desert Yellow  | Warpaints Fanatic: Desert Yellow | :heavy_check_mark: |
+| Base / Weapons   | Warpaints: Ash Grey       | Warpaints Fanatic: Ash Grey      | :heavy_check_mark: |
+| Hair             | Citadel: Flayed One Flesh | Warpaints Fanatic: Dorado Skin   | :heavy_check_mark: |

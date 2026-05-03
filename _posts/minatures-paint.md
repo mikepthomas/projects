@@ -241,14 +241,14 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Cool Reds
 
-|                            Colour                            | Shade              | GameMaster                | Grinning Gargoyle           | Warpaints    | Warpaints Fanatic             | Warpaints Air |      Received      |
-| :----------------------------------------------------------: | ------------------ | ------------------------- | --------------------------- | ------------ | ----------------------------- | ------------- | :----------------: |
-| ![#CE6560 {20x20}](https://placehold.co/1/CE6560/CE6560.png) | Light Red          |                           |                             |              | Raging Rose                   | Wyrmling Red  |        :x:         |
-| ![#C74A49 {20x20}](https://placehold.co/1/C74A49/C74A49.png) | Brilliant Red      |                           |                             |              | Blood Chalice                 |               |        :x:         |
-| ![#C73024 {20x20}](https://placehold.co/1/C73024/C73024.png) | Red                | Heraldric Red             | :heavy_check_mark: Pure Red | Pure Red     | :heavy_check_mark: Pure Red   | Pure Red      | :heavy_check_mark: |
-| ![#AF2F2F {20x20}](https://placehold.co/1/AF2F2F/AF2F2F.png) | Vivid Purplish Red | Neutral Red / Fire Dragon | Dragon Red                  | Dragon Red   | :heavy_check_mark: Dragon Red | Dragon Red    | :heavy_check_mark: |
-| ![#8D353F {20x20}](https://placehold.co/1/8D353F/8D353F.png) | Deep Purplish Red  |                           |                             | Vampire Red  | Wyvern Fury                   | Rebel Red     |        :x:         |
-| ![#682C37 {20x20}](https://placehold.co/1/682C37/682C37.png) | Dark Purplish Red  | Sacrificial Red           |                             | Crusted Sore | Basilisk Red                  | Chimera Red   |        :x:         |
+|                            Colour                            | Shade              | GameMaster                | Grinning Gargoyle              | Warpaints                      | Warpaints Fanatic             | Warpaints Air |      Received      |
+| :----------------------------------------------------------: | ------------------ | ------------------------- | ------------------------------ | ------------------------------ | ----------------------------- | ------------- | :----------------: |
+| ![#CE6560 {20x20}](https://placehold.co/1/CE6560/CE6560.png) | Light Red          |                           |                                |                                | Raging Rose                   | Wyrmling Red  |        :x:         |
+| ![#C74A49 {20x20}](https://placehold.co/1/C74A49/C74A49.png) | Brilliant Red      |                           |                                |                                | Blood Chalice                 |               |        :x:         |
+| ![#C73024 {20x20}](https://placehold.co/1/C73024/C73024.png) | Red                | Heraldric Red             | :heavy_check_mark: Pure Red    | Pure Red                       | :heavy_check_mark: Pure Red   | Pure Red      | :heavy_check_mark: |
+| ![#AF2F2F {20x20}](https://placehold.co/1/AF2F2F/AF2F2F.png) | Vivid Purplish Red | Neutral Red / Fire Dragon | Dragon Red                     | Dragon Red                     | :heavy_check_mark: Dragon Red | Dragon Red    | :heavy_check_mark: |
+| ![#8D353F {20x20}](https://placehold.co/1/8D353F/8D353F.png) | Deep Purplish Red  |                           | :heavy_check_mark: Vampire Red | :heavy_check_mark: Vampire Red | Wyvern Fury                   | Rebel Red     | :heavy_check_mark: |
+| ![#682C37 {20x20}](https://placehold.co/1/682C37/682C37.png) | Dark Purplish Red  | Sacrificial Red           |                                | Crusted Sore                   | Basilisk Red                  | Chimera Red   |        :x:         |
 
 ## Pinks
 
@@ -329,14 +329,13 @@ Regular acrylic paints have `White` lids and belong in a [Flexible Colour Triad]
 
 ## Others
 
-|                            Colour                            | Shade | GameMaster    | Grinning Gargoyle               | Warpaints                      | Warpaints Fanatic | Warpaints Air |      Received      |
-| :----------------------------------------------------------: | ----- | ------------- | ------------------------------- | ------------------------------ | ----------------- | ------------- | :----------------: |
-| ![#5E5753 {20x20}](https://placehold.co/1/5E5753/5E5753.png) |       | Cauldron Grey |                                 | :heavy_check_mark: Dark Stone  |                   |               | :heavy_check_mark: |
-| ![#6A6B70 {20x20}](https://placehold.co/1/6A6B70/6A6B70.png) |       |               | :heavy_check_mark: Dungeon Grey | Dungeon Grey                   |                   |               | :heavy_check_mark: |
-| ![#F6CB9E {20x20}](https://placehold.co/1/F6CB9E/F6CB9E.png) |       | Elven Flesh   | Elven Flesh                     | Elven Skin                     |                   |               |        :x:         |
-| ![#5E635F {20x20}](https://placehold.co/1/5E635F/5E635F.png) |       |               |                                 | :heavy_check_mark: Field Grey  |                   |               | :heavy_check_mark: |
-| ![#844023 {20x20}](https://placehold.co/1/844023/844023.png) |       |               | Martian Brown                   |                                |                   |               |        :x:         |
-| ![#753339 {20x20}](https://placehold.co/1/753339/753339.png) |       |               | :heavy_check_mark: Vampire Red  | :heavy_check_mark: Vampire Red |                   |               | :heavy_check_mark: |
+|                            Colour                            | Shade | GameMaster    | Grinning Gargoyle               | Warpaints                     | Warpaints Fanatic | Warpaints Air |      Received      |
+| :----------------------------------------------------------: | ----- | ------------- | ------------------------------- | ----------------------------- | ----------------- | ------------- | :----------------: |
+| ![#5E5753 {20x20}](https://placehold.co/1/5E5753/5E5753.png) |       | Cauldron Grey |                                 | :heavy_check_mark: Dark Stone |                   |               | :heavy_check_mark: |
+| ![#6A6B70 {20x20}](https://placehold.co/1/6A6B70/6A6B70.png) |       |               | :heavy_check_mark: Dungeon Grey | Dungeon Grey                  |                   |               | :heavy_check_mark: |
+| ![#F6CB9E {20x20}](https://placehold.co/1/F6CB9E/F6CB9E.png) |       | Elven Flesh   | Elven Flesh                     | Elven Skin                    |                   |               |        :x:         |
+| ![#5E635F {20x20}](https://placehold.co/1/5E635F/5E635F.png) |       |               |                                 | :heavy_check_mark: Field Grey |                   |               | :heavy_check_mark: |
+| ![#844023 {20x20}](https://placehold.co/1/844023/844023.png) |       |               | Martian Brown                   |                               |                   |               |        :x:         |
 
 ## Grinning Gargoyle Unique
 
