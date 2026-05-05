@@ -68,6 +68,61 @@ keywords:
 | Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
+# Raiders
+
+## Raider
+
+[Faux Hammer Painting Guide](https://www.fauxhammer.com/tutorials/how-to-paint-fallout-raiders-from-wasteland-warfare)
+
+### 1. Undercoat
+
+| Item   | Suggested Paint                                                                                           |        Own         |
+| ------ | --------------------------------------------------------------------------------------------------------- | :----------------: |
+| Primer | [White Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-white-cp3002s) | :heavy_check_mark: |
+
+### 2. Basecoat
+
+| Item                          | Suggested Paint                  | Alternative                            |        Own         |
+| ----------------------------- | -------------------------------- | -------------------------------------- | :----------------: |
+| Skin                          | Warpaints: Barbarian Flesh       |                                        | :heavy_check_mark: |
+| Combats                       | Warpaints: Elf Green             | Warpaints Fanatic: Woodland Camo       | :heavy_check_mark: |
+| Armour Plates / Metal Details | Warpaints Metallics: Gun Metal   | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
+| Leather                       | Warpaints: Leather Brown         | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
+| Waist Band                    | Warpaints: Hardened Carapace     |                                        | :heavy_check_mark: |
+| Bullets                       | Warpaints Metallics: Greedy Gold |                                        | :heavy_check_mark: |
+| Boots                         | Warpaints: Matt Black            | Grinning Gargoyle: Matt Black          | :heavy_check_mark: |
+
+### 3. Wash
+
+| Item                               | Suggested Paint               | Alternative                         |        Own         |
+| ---------------------------------- | ----------------------------- | ----------------------------------- | :----------------: |
+| Skin                               | Warpaints Washes: Flesh Wash  | Grinning Gargoyle Wash: Flesh Wash  | :heavy_check_mark: |
+| Combats                            | Warpaints Washes: Green Tone  |                                     |        :x:         |
+| Leather / Bullets                  | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
+| Armour / Boots / Metal / Waistband | Warpaints Washes: Dark Tone   | Warpaints Fanatic Wash: Dark Tone   | :heavy_check_mark: |
+
+### 4. Highlight 1
+
+| Item    | Suggested Paint                       | Alternative                                   |        Own         |
+| ------- | ------------------------------------- | --------------------------------------------- | :----------------: |
+| Skin    | Warpaints: Corpse Pale                | Warpaints Fanatic: Dorado Skin                | :heavy_check_mark: |
+| Leather | Warpaints: Leather Brown              | Grinning Gargoyle: Leather Brown              | :heavy_check_mark: |
+| Combats | Warpaints: Elf Green                  | Warpaints Fanatic: Woodland Camo              | :heavy_check_mark: |
+| Metals  | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
+
+### 5. Highlight 2
+
+| Item           | Suggested Paint                       | Alternative                                   |        Own         |
+| -------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
+| Eyes           | Warpaints: Hardened Carapace          |                                               | :heavy_check_mark: |
+| Eyes / Hair    | Warpaints: Spaceship Exterior         |                                               |        :x:         |
+| Hair           | Warpaints: Dungeon Grey               | Grinning Gargoyle: Dungeon Grey               | :heavy_check_mark: |
+| Hair / Stubble | Warpaints: Ash Grey                   | Warpaints Fanatic: Ash Grey                   | :heavy_check_mark: |
+| Stubble        | Warpaints Air: Barbarian Flesh        | Warpaints: Barbarian Flesh                    | :heavy_check_mark: |
+| Rust           | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
+| Rust           | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
+| Rust           | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
+
 # Robots
 
 ## Protectron

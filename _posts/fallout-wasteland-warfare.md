@@ -1313,12 +1313,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf)
 
-| Item           | Quantity | Material | Included In                           | Cards                                  | Notes |
-| -------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ----- |
-| Psycho         | 2        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
-| Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
-| Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
-| Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |       |
+| Item           | Quantity | Material | Included In                           | Cards                                  | Notes                              |
+| -------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ---------------------------------- |
+| Psycho         | 2        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
+| Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] | [Painting Guide](minatures#raider) |
+| Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
+| Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
 
 ### Robots
 
