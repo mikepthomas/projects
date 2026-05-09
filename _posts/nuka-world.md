@@ -25,7 +25,9 @@ keywords:
 
 # Intro
 
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](fallout-wasteland-warfare#wave-9---nuka-world-expansion) and Fallout Factions [Battle For Nuka-World Starter Set](fallout-wasteland-warfare#battle-for-nuka-world).
+These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](fallout-wasteland-warfare#wave-9---nuka-world-expansion) and Fallout Factions [Battle For Nuka-World Starter Set][Battle For Nuka World Starter Set].
+
+[Battle For Nuka World Starter Set]: fallout-wasteland-warfare#battle-for-nuka-world
 
 # Minatures
 
@@ -268,9 +270,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                     | Purchased | Digital                                                                |     Downloaded     | Notes                                                                                                                           |
-| ------------------------ | :-------: | ---------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------- |
-| Dry Rock Gulch Buildings |           | [Buy <i class="fa-regular fa-file-zipper"/>][Dry Rock Gulch Buildings] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set](fallout-wasteland-warfare#battle-for-nuka-world) |
+| Item                     | Purchased | Digital                                                                |     Downloaded     | Notes                                                                                                             |
+| ------------------------ | :-------: | ---------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Dry Rock Gulch Buildings |           | [Buy <i class="fa-regular fa-file-zipper"/>][Dry Rock Gulch Buildings] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
 
 [Dry Rock Gulch Buildings]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings
 
@@ -536,22 +538,174 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 ## Bundle
 
+![Print at Home - Dry Rock Gulch Bundle](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle-fallout-wasteland-warfare-modiphius-entertainment-731446_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
 The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
 
-| Item                                                                                                                             | Price |     Purchased      | Notes                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ant Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests)                                    | £10   | :heavy_check_mark: |                                                                                                                                          |
-| [Barrels, Crates and Coffins](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins) | £10   | :heavy_check_mark: |                                                                                                                                          |
-| [Cacti Stands](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands)                              | £10   | :heavy_check_mark: | These replace the versions in the [Fallout Factions: Battle for Nuka-World Starter Set](fallout-wasteland-warfare#battle-for-nuka-world) |
-| [Graveyard](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard)                                    | £8    | :heavy_check_mark: | These replace the versions in the [Fallout Factions: Battle for Nuka-World Starter Set](fallout-wasteland-warfare#battle-for-nuka-world) |
-| [Stingwing Nests](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests)                        | £10   | :heavy_check_mark: |                                                                                                                                          |
-| [Wrecked Rollercoaster](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster)            | £8    | :heavy_check_mark: |                                                                                                                                          |
+| Item                        | Purchased | Digital                                                                  |     Downloaded     | Notes                                                                                                             |
+| --------------------------- | :-------: | ------------------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Ant Nests                   |           | [Buy <i class="fa-regular fa-file-zipper"/>][Ant Nests]                  | :heavy_check_mark: |                                                                                                                   |
+| Barrels, Crates and Coffins |           | [Buy <i class="fa-regular fa-file-zipper"/>][Barrels Crates and Coffins] | :heavy_check_mark: |                                                                                                                   |
+| Cacti Stands                |           | [Buy <i class="fa-regular fa-file-zipper"/>][Cacti Stands]               | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Graveyard                   |           | [Buy <i class="fa-regular fa-file-zipper"/>][Graveyard]                  | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Stingwing Nests             |           | [Buy <i class="fa-regular fa-file-zipper"/>][Stingwing Nests]            | :heavy_check_mark: |                                                                                                                   |
+| Wrecked Rollercoaster       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Wrecked Rollercoaster]      | :heavy_check_mark: |                                                                                                                   |
+
+[Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
+[Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
+[Cacti Stands]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands
+[Graveyard]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard
+[Stingwing Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests
+[Wrecked Rollercoaster]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster
 
 There is also a sampler containing some of the items from the bundle:
 
-| Item                                                                                                                | Price | Purchased | Notes                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tabletop STL Sampler](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler) | £25   |    :x:    | These replace the versions in the [Fallout Factions: Battle for Nuka-World Starter Set](fallout-wasteland-warfare#battle-for-nuka-world) |
+| Item                 | Purchased | Digital                                                            |     Downloaded     | Notes                                                                                                             |
+| -------------------- | :-------: | ------------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Tabletop STL Sampler |           | [Buy <i class="fa-regular fa-file-zipper"/>][Tabletop STL Sampler] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+
+[Tabletop STL Sampler]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler
+
+### Ant Nests
+
+![Ant Nests](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-ant-nests-fallout-wasteland-warfare-modiphius-entertainment-793275_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                    | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Ant][Ant Nests]        | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |      |        |      |   :x:   |       |
+| [AntNest_01][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [AntNest_02][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [AntNest_03][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+
+### Barrels, Crates and Coffins
+
+![Barrels, Crates and Coffins](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins-fallout-wasteland-warfare-modiphius-entertainment-988377_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                                                           | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BarrelsCratesCoffins_01][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_02][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_03_Base][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_03_Lamp][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_03_LampPole][Barrels Crates and Coffins] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_04_A][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_04_B][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_05][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [BarrelsCratesCoffins_06][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+
+### Cacti Stands
+
+![Cacti Stands](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cacti-stands-fallout-wasteland-warfare-modiphius-entertainment-290468_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+### Cacti Stand 1
+
+![Cacti Stand 1](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cacti-stands-fallout-wasteland-warfare-modiphius-entertainment-593500_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+
+### Cacti Stand 2
+
+![Cacti Stand 2](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cacti-stands-fallout-wasteland-warfare-modiphius-entertainment-348203_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+
+### Cacti Stand 3
+
+![Cacti Stand 3](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cacti-stands-fallout-wasteland-warfare-modiphius-entertainment-671385_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| [Cactii_04][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+
+### Cacti Stand 4
+
+![Cacti Stand 4](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-cacti-stands-fallout-wasteland-warfare-modiphius-entertainment-544192_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+
+### Graveyard
+
+![Graveyard](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-graveyard-fallout-wasteland-warfare-modiphius-entertainment-919413_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                            | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Gravestone_A_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Gravestone_A][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Gravestone_B_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Gravestone_B][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Gravestone_C_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Gravestone_C][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Gravestone_D_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Gravestone_D][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Gravestone_E_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Gravestone_E][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Fence_01][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Fence_02][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Fence_03][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Fence_04][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+
+### Stingwing Nests
+
+![Stingwing Nests](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-stingwing-nests-fallout-wasteland-warfare-modiphius-entertainment-527264_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                                 | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Stingwing_Nest_01][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Stingwing_Nest_02][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Stingwing_Nest_03][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+
+### Wrecked Rollercoaster
+
+![Wrecked Rollercoaster](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster-fallout-wasteland-warfare-modiphius-entertainment-795732_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+| Item                                  | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_A][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Base_B][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| [Cart_01][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Cart_02][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Cart_02_Legs][Wrecked Rollercoaster] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-Grey)   |      |      |        |      |   :x:   |       |
+| [Cart_03][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Peg][Wrecked Rollercoaster]          | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| [Rail][Wrecked Rollercoaster]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
 
 # Galactic Zone
 
