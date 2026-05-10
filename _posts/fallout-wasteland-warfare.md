@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-03T11:52:36.576Z
+lastmod: 2026-05-10T09:29:52.719Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -317,13 +317,13 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                                       | Purchased | Digital                                                |     Downloaded     | Notes                                                                                  |
-| ------------------------------------------ | :-------: | ------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------- |
-| [Corvega Sedan][Corvega Sedan]             |    :x:    | [Buy <i class="far fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
-| [Crashed Vertibird][Crashed Vertibird]     |    :x:    |                                                        |                    |                                                                                        |
-| [Junk Barricades][Junk Barricades]         |    :x:    |                                                        |                    |                                                                                        |
-| [Military Barricades][Military Barricades] |    :x:    |                                                        |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
-| [Turrets][Turrets]                         |    :x:    | [Cards <i class="far fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                        |
+| Item                                       |     Purchased      | Digital                                                |     Downloaded     | Notes                                                                                  |
+| ------------------------------------------ | :----------------: | ------------------------------------------------------ | :----------------: | -------------------------------------------------------------------------------------- |
+| [Corvega Sedan][Corvega Sedan]             |        :x:         | [Buy <i class="far fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
+| [Crashed Vertibird][Crashed Vertibird]     |        :x:         |                                                        |                    |                                                                                        |
+| [Junk Barricades][Junk Barricades]         |        :x:         |                                                        |                    |                                                                                        |
+| [Military Barricades][Military Barricades] | :heavy_check_mark: |                                                        |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets][Turrets]                         | :heavy_check_mark: | [Cards <i class="far fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                        |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
@@ -488,7 +488,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes     |
 | ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | --------- |
 | [Enclave: Core Box][Enclave Core Box] | :heavy_check_mark: |                                                       |                    |           |
-| [Frank Horrigan][Frank Horrigan]      |        :x:         |                                                       |                    | Legendary |
+| [Frank Horrigan][Frank Horrigan]      | :heavy_check_mark: |                                                       |                    | Legendary |
 | [Lorenzo Cabot][Lorenzo Cabot]        | :heavy_check_mark: |                                                       |                    | Promo     |
 | [Mirelurk Queen][Mirelurk Queen]      |        :x:         |                                                       |                    | Legendary |
 | [Power Armor 1][T60 Power Armour]     | :heavy_check_mark: |                                                       |                    |           |
