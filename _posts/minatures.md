@@ -191,7 +191,11 @@ keywords:
 
 ## Protectron
 
-[Samuel Steele Painting Guide](https://ko-fi.com/s/6b479163a7)
+[How to Paint Protectrons From Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/TUXZvzmlLHQ)
+
+> Video © 2020 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/6b479163a7) to accompany the video.
 
 ### 1. Undercoat
 
@@ -225,7 +229,11 @@ keywords:
 
 ## Sentry Bot
 
-[Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9)
+[How to Paint The Sentry Bot from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/57X1C-GTEKE)
+
+> Video © 2020 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9) to accompany the video.
 
 ### 1. Undercoat
 
@@ -301,6 +309,10 @@ keywords:
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
 ## Super Mutant Behemoth
+
+![How to Paint Super Mutant Behemoth](https://storage.ko-fi.com/cdn/useruploads/display/99d086df-8b7f-4088-a162-437cb16bf94b_behemoth.jpg)
+
+> Image © [Misfit Hobbies](https://ko-fi.com/misfithobbies)
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/194ea74d67)
 
@@ -455,7 +467,11 @@ keywords:
 
 ## X-01 Survivor
 
-[Samuel Steele Painting Guide](https://ko-fi.com/s/566cfe2c24)
+[X-01 Power Armour Painting Tutorial from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/bTRFwKGqOxw)
+
+> Video © 2020 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/566cfe2c24) to accompany the video.
 
 ### 1. Undercoat
 
@@ -492,7 +508,11 @@ keywords:
 
 ## Grognak
 
-[Samuel Steele Painting Guide](https://ko-fi.com/s/7d5106ce9c)
+[I Made An Expansion for Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/pBb-X9zWmg8)
+
+> Video © 2024 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
+[Samuel Steele Painting Guide](https://ko-fi.com/s/7d5106ce9c) to accompany the video.
 
 ### 1. Undercoat
 
