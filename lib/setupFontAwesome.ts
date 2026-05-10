@@ -33,6 +33,7 @@ import {
   faRedditAlien,
   faXTwitter,
 } from '@fortawesome/free-brands-svg-icons';
+import { faFilePdf, faFileZipper } from '@fortawesome/free-regular-svg-icons';
 import {
   faAnchor,
   faBuildingShield,
@@ -46,10 +47,10 @@ import {
   faUserGraduate,
   faWarehouse,
 } from '@fortawesome/free-solid-svg-icons';
-import { faFilePdf, faFileZipper } from '@fortawesome/free-regular-svg-icons';
+import { config, dom, library } from '@fortawesome/fontawesome-svg-core';
 
-import { config, library } from '@fortawesome/fontawesome-svg-core';
 config.autoAddCss = false;
+config.styleDefault = 'far';
 
 export default function register() {
   library.add(
@@ -75,4 +76,5 @@ export default function register() {
     faUserGraduate,
     faWarehouse,
   );
+  dom.watch();
 }
