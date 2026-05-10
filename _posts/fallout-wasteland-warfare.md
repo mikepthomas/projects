@@ -62,14 +62,14 @@ Wave 1 introduces the game with the `Two Player Starter Set` which contains ever
 
 ### Rules
 
-| Item                                             |     Purchased      | Digital                                                 |     Downloaded     | Notes                                                                              |
-| ------------------------------------------------ | :----------------: | ------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------- |
-| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                         |                    | Discontinued, but most of the cards have been re-released in subsequent card packs |
-| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                         |                    |                                                                                    |
-| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="far fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
-| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="far fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
-| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`                              |
-| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                         |                    | Promo                                                                              |
+| Item                                             |     Purchased      | Digital                                                 |     Downloaded     | Notes                                                          |
+| ------------------------------------------------ | :----------------: | ------------------------------------------------------- | :----------------: | -------------------------------------------------------------- |
+| [Settlement Deck][Settlement Deck]               | :heavy_check_mark: |                                                         |                    | Discontinued, but some cards are available in later card packs |
+| [Two Player Starter Set][Two Player Starter Set] | :heavy_check_mark: |                                                         |                    |                                                                |
+| ┝ Getting Acclimated                             | :heavy_check_mark: | [Free <i class="far fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
+| ┝ Rules of Play                                  | :heavy_check_mark: | [Free <i class="far fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
+| ┝ Campaign Book                                  | :heavy_check_mark: | [Buy <i class="far fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
+| ┕ [Zetan][Zetan]                                 | :heavy_check_mark: |                                                         |                    | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
@@ -1254,6 +1254,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item            | Quantity | Material | Included In                           | Cards                                  | Notes |
 | --------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ----- |
 | Enclave Soldier | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
+| Frank Horrigan  | 1        | Resin    | [Frank Horrigan][Frank Horrigan]      | [Enclave Card Deck][Enclave Card Deck] |       |
 | Tesla Soldier   | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
 | Warrant Officer | 1        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |       |
 
