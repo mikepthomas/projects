@@ -1190,7 +1190,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Spooktober 2 Rules                     |                    | [Free <i class="fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |       |
 | Tournament Booklet - C.O.M.P. Kit      |                    | [Free <i class="fa-file-pdf"/>][COMP Kit]            | :heavy_check_mark: |       |
 
-[COMP Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
+[COMP Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e52b1e8f-bced-4aa1-b93e-d04fa975618b/FF-COMPKit-2026-M1.pdf
 [Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
