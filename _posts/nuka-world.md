@@ -37,9 +37,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item             | Purchased | Digital                                                        |     Downloaded     | Notes                                                                 |
-| ---------------- | :-------: | -------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
-| Bottle and Cappy |           | [Buy <i class="fa-regular fa-file-zipper"/>][Bottle and Cappy] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-2021) |
+| Item             | Purchased | Digital                                             |     Downloaded     | Notes                                                                 |
+| ---------------- | :-------: | --------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
+| Bottle and Cappy |           | [Buy <i class="fa-file-zipper"/>][Bottle and Cappy] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-2021) |
 
 [Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
 
@@ -186,9 +186,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item            | Purchased | Digital                                                       |     Downloaded     | Notes |
-| --------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----- |
-| Cola-Cars Arena |           | [Buy <i class="fa-regular fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |       |
+| Item            | Purchased | Digital                                            |     Downloaded     | Notes |
+| --------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |       |
 
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 
@@ -270,9 +270,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                     | Purchased | Digital                                                                |     Downloaded     | Notes                                                                                                             |
-| ------------------------ | :-------: | ---------------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Dry Rock Gulch Buildings |           | [Buy <i class="fa-regular fa-file-zipper"/>][Dry Rock Gulch Buildings] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Item                     | Purchased | Digital                                                     |     Downloaded     | Notes                                                                                                             |
+| ------------------------ | :-------: | ----------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Dry Rock Gulch Buildings |           | [Buy <i class="fa-file-zipper"/>][Dry Rock Gulch Buildings] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
 
 [Dry Rock Gulch Buildings]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings
 
@@ -544,14 +544,14 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
 
-| Item                        | Purchased | Digital                                                                  |     Downloaded     | Notes                                                                                                             |
-| --------------------------- | :-------: | ------------------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Ant Nests                   |           | [Buy <i class="fa-regular fa-file-zipper"/>][Ant Nests]                  | :heavy_check_mark: |                                                                                                                   |
-| Barrels, Crates and Coffins |           | [Buy <i class="fa-regular fa-file-zipper"/>][Barrels Crates and Coffins] | :heavy_check_mark: |                                                                                                                   |
-| Cacti Stands                |           | [Buy <i class="fa-regular fa-file-zipper"/>][Cacti Stands]               | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-| Graveyard                   |           | [Buy <i class="fa-regular fa-file-zipper"/>][Graveyard]                  | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-| Stingwing Nests             |           | [Buy <i class="fa-regular fa-file-zipper"/>][Stingwing Nests]            | :heavy_check_mark: |                                                                                                                   |
-| Wrecked Rollercoaster       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Wrecked Rollercoaster]      | :heavy_check_mark: |                                                                                                                   |
+| Item                        | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                                             |
+| --------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Ant Nests                   |           | [Buy <i class="fa-file-zipper"/>][Ant Nests]                  | :heavy_check_mark: |                                                                                                                   |
+| Barrels, Crates and Coffins |           | [Buy <i class="fa-file-zipper"/>][Barrels Crates and Coffins] | :heavy_check_mark: |                                                                                                                   |
+| Cacti Stands                |           | [Buy <i class="fa-file-zipper"/>][Cacti Stands]               | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Graveyard                   |           | [Buy <i class="fa-file-zipper"/>][Graveyard]                  | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Stingwing Nests             |           | [Buy <i class="fa-file-zipper"/>][Stingwing Nests]            | :heavy_check_mark: |                                                                                                                   |
+| Wrecked Rollercoaster       |           | [Buy <i class="fa-file-zipper"/>][Wrecked Rollercoaster]      | :heavy_check_mark: |                                                                                                                   |
 
 [Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
 [Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
@@ -562,9 +562,9 @@ The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland
 
 There is also a sampler containing some of the items from the bundle:
 
-| Item                 | Purchased | Digital                                                            |     Downloaded     | Notes                                                                                                             |
-| -------------------- | :-------: | ------------------------------------------------------------------ | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Tabletop STL Sampler |           | [Buy <i class="fa-regular fa-file-zipper"/>][Tabletop STL Sampler] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
+| Item                 | Purchased | Digital                                                 |     Downloaded     | Notes                                                                                                             |
+| -------------------- | :-------: | ------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
+| Tabletop STL Sampler |           | [Buy <i class="fa-file-zipper"/>][Tabletop STL Sampler] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
 
 [Tabletop STL Sampler]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler
 
@@ -711,9 +711,9 @@ There is also a sampler containing some of the items from the bundle:
 
 ## Space Adventure
 
-| Item            | Purchased | Digital                                                       |     Downloaded     | Notes |
-| --------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----- |
-| Space Adventure |           | [Buy <i class="fa-regular fa-file-zipper"/>][Space Adventure] | :heavy_check_mark: |       |
+| Item            | Purchased | Digital                                            |     Downloaded     | Notes |
+| --------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
+| Space Adventure |           | [Buy <i class="fa-file-zipper"/>][Space Adventure] | :heavy_check_mark: |       |
 
 [Space Adventure]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
 
@@ -826,9 +826,9 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
-| Item           | Purchased | Digital                                                      |     Downloaded     | Notes |
-| -------------- | :-------: | ------------------------------------------------------------ | :----------------: | ----- |
-| Kiddie Kingdom |           | [Buy <i class="fa-regular fa-file-zipper"/>][Kiddie Kingdom] | :heavy_check_mark: |       |
+| Item           | Purchased | Digital                                           |     Downloaded     | Notes |
+| -------------- | :-------: | ------------------------------------------------- | :----------------: | ----- |
+| Kiddie Kingdom |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom] | :heavy_check_mark: |       |
 
 [Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
 
@@ -1075,9 +1075,9 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   | Purchased | Digital                                                                                                                                         |     Downloaded     | Notes                                                                                    |
-| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
-| Nuka World Parking Lot |           | [Buy <i class="fa-regular fa-file-zipper"/>](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/welcome-wastelanders-to-october-s-falloutfriday) |
+| Item                   | Purchased | Digital                                                                                                                              |     Downloaded     | Notes                                                                                    |
+| ---------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------------------------------- |
+| Nuka World Parking Lot |           | [Buy <i class="fa-file-zipper"/>](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/welcome-wastelanders-to-october-s-falloutfriday) |
 
 ## Bus Stop
 
@@ -1198,21 +1198,6 @@ The `Nuka world Parking Lot` comes with:
 
 - `Nuka Bus` appears to be the same as the [Boston Bus](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl)
 - `Pickup Truck` appears to be the same as the [Pick-R-Up Truck](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl)
-
-However there are a few more vehicles available to purchase separately that can be used within the Parking Lot:
-
-| Item                           | Purchased | Digital                                                         |     Downloaded     | Notes                                                            |
-| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------- |
-| Chryslus Rocket                |           | [Buy <i class="fa-regular fa-file-zipper"/>][Chryslus Rocket]   | :heavy_check_mark: |                                                                  |
-| Corvega Coupe                  |           | [Buy <i class="fa-regular fa-file-zipper"/>][Corvega Coupe]     | :heavy_check_mark: |                                                                  |
-| [Corvega Sedan][Corvega Sedan] |    :x:    | [Buy <i class="fa-regular fa-file-zipper"/>][Corvega Sedan STL] | :heavy_check_mark: |                                                                  |
-| Flatbed Truck                  |           | [Buy <i class="fa-regular fa-file-zipper"/>][Flatbed Truck]     | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-2022) |
-
-[Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
-[Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
-[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
-[Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
-[Flatbed Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck
 
 ## Nuka Bus
 

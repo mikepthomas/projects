@@ -316,13 +316,13 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                                       |     Purchased      | Digital                                            |     Downloaded     | Notes                                                                                  |
-| ------------------------------------------ | :----------------: | -------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- |
-| [Corvega Sedan][Corvega Sedan]             |        :x:         | [Buy <i class="fa-file-pdf"/>][Corvega Sedan STL]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
-| [Crashed Vertibird][Crashed Vertibird]     |        :x:         |                                                    |                    |                                                                                        |
-| [Junk Barricades][Junk Barricades]         |        :x:         |                                                    |                    |                                                                                        |
-| [Military Barricades][Military Barricades] | :heavy_check_mark: |                                                    |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
-| [Turrets][Turrets]                         | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |                                                                                        |
+| Item                                       |     Purchased      | Digital                                              |     Downloaded     | Notes                                                                                  |
+| ------------------------------------------ | :----------------: | ---------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- |
+| [Corvega Sedan][Corvega Sedan]             |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
+| [Crashed Vertibird][Crashed Vertibird]     |        :x:         |                                                      |                    |                                                                                        |
+| [Junk Barricades][Junk Barricades]         |        :x:         |                                                      |                    |                                                                                        |
+| [Military Barricades][Military Barricades] | :heavy_check_mark: |                                                      |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets][Turrets]                         | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]   | :heavy_check_mark: |                                                                                        |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
@@ -444,17 +444,21 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Scatter
 
-| Item                                               | Purchased | Digital                                         |     Downloaded     | Notes |
-| -------------------------------------------------- | :-------: | ----------------------------------------------- | :----------------: | ----- |
-| Chryslus Rocket                                    |           | [Buy <i class="fa-file-pdf"/>][Chryslus Rocket] | :heavy_check_mark: |       |
-| Corvega Coupe                                      |           | [Buy <i class="fa-file-pdf"/>][Corvega Coupe]   | :heavy_check_mark: |       |
-| Pre-war APC                                        |           | [Buy <i class="fa-file-pdf"/>][Pre War APC]     | :heavy_check_mark: |       |
-| [Settlement Work Benches][Settlement Work Benches] |    :x:    |                                                 |                    |       |
+| Item                                               | Purchased | Digital                                             |     Downloaded     | Notes |
+| -------------------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
+| Chryslus Rocket                                    |           | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket]  | :heavy_check_mark: |       |
+| Corvega Coupe                                      |           | [Buy <i class="fa-file-zipper"/>][Corvega Coupe]    | :heavy_check_mark: |       |
+| Parked Vertibird                                   |           | [Buy <i class="fa-file-zipper"/>][Parked Vertibird] | :heavy_check_mark: |       |
+| Pre-war APC                                        |           | [Buy <i class="fa-file-zipper"/>][Pre War APC]      | :heavy_check_mark: |       |
+| [Settlement Work Benches][Settlement Work Benches] |    :x:    |                                                     |                    |       |
+| Tank                                               |           | [Buy <i class="fa-file-zipper"/>][Tank]             |        :x:         |       |
 
 [Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre War APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
 [Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches
+[Tank]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl
 
 ### Scenarios
 
@@ -632,14 +636,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                            | Purchased | Digital                                               |     Downloaded     | Notes                                                                  |
-| ------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-pdf"/>][BoS Encampment]        | :heavy_check_mark: |                                                                        |
-| Chems, Meds and Food            |           | [Buy <i class="fa-file-pdf"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
-| Flatbed Truck                   |           | [Buy <i class="fa-file-pdf"/>][Flatbed Truck]         | :heavy_check_mark: |                                                                        |
-| The Pack: Animal Decor          |           | [Buy <i class="fa-file-pdf"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
-| Toys and Bobbleheads            |           | [Buy <i class="fa-file-pdf"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
-| Wasteland Critters              |           | [Buy <i class="fa-file-pdf"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+| Item                            | Purchased | Digital                                                  |     Downloaded     | Notes                                                                  |
+| ------------------------------- | :-------: | -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment]        | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
+| Chems, Meds and Food            |           | [Buy <i class="fa-file-zipper"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
+| Flatbed Truck                   |           | [Buy <i class="fa-file-zipper"/>][Flatbed Truck]         | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-2022)       |
+| The Pack: Animal Decor          |           | [Buy <i class="fa-file-zipper"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
+| Toys and Bobbleheads            |           | [Buy <i class="fa-file-zipper"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
+| Wasteland Critters              |           | [Buy <i class="fa-file-zipper"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
@@ -678,10 +682,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                  | Purchased | Digital                                               |     Downloaded     | Notes                                                                |
-| --------------------- | :-------: | ----------------------------------------------------- | :----------------: | -------------------------------------------------------------------- |
-| Red Rocket Drive Thru |           | [Buy <i class="fa-file-pdf"/>][Red Rocket Drive Thru] | :heavy_check_mark: |                                                                      |
-| The Deep              |           | [Buy <i class="fa-file-pdf"/>][The Deep]              |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th) |
+| Item                  | Purchased | Digital                                                  |     Downloaded     | Notes                                                                |
+| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- |
+| Red Rocket Drive Thru |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Drive Thru] | :heavy_check_mark: |                                                                      |
+| The Deep              |           | [Buy <i class="fa-file-zipper"/>][The Deep]              |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th) |
 
 [Red Rocket Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
 [The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
@@ -690,14 +694,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
-| Item                 | Purchased | Digital                                                             |     Downloaded     | Notes |
-| -------------------- | :-------: | ------------------------------------------------------------------- | :----------------: | ----- |
-| Downtown Debris      |           | [Buy <i class="fa-regular fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: |       |
-| Logs, Stumps & Roots |           | [Buy <i class="fa-regular fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: |       |
-| Mushrooms & Fungi    |           | [Buy <i class="fa-regular fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: |       |
-| Plants & Crops       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: |       |
-| Skulls & Bones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: |       |
-| Slabs & Stones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: |       |
+| Item                 | Purchased | Digital                                                  |     Downloaded     | Notes |
+| -------------------- | :-------: | -------------------------------------------------------- | :----------------: | ----- |
+| Downtown Debris      |           | [Buy <i class="fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: |       |
+| Logs, Stumps & Roots |           | [Buy <i class="fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: |       |
+| Mushrooms & Fungi    |           | [Buy <i class="fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: |       |
+| Plants & Crops       |           | [Buy <i class="fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: |       |
+| Skulls & Bones       |           | [Buy <i class="fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: |       |
+| Slabs & Stones       |           | [Buy <i class="fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: |       |
 
 [Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
 [Logs Stumps and Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
@@ -708,10 +712,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 #### Statues
 
-| Item             | Purchased | Digital                                          | Downloaded | Notes                                                                 |
-| ---------------- | :-------: | ------------------------------------------------ | :--------: | --------------------------------------------------------------------- |
-| Art Deco Statues |           | [Buy <i class="fa-file-pdf"/>][Art Deco Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th) |
-| Scorched Statues |           | [Buy <i class="fa-file-pdf"/>][Scorched Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)  |
+| Item             | Purchased | Digital                                             | Downloaded | Notes                                                                 |
+| ---------------- | :-------: | --------------------------------------------------- | :--------: | --------------------------------------------------------------------- |
+| Art Deco Statues |           | [Buy <i class="fa-file-zipper"/>][Art Deco Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th) |
+| Scorched Statues |           | [Buy <i class="fa-file-zipper"/>][Scorched Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)  |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
@@ -757,11 +761,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                      | Purchased | Digital                                                   | Downloaded | Notes                                                            |
-| ------------------------- | :-------: | --------------------------------------------------------- | :--------: | ---------------------------------------------------------------- |
-| Cult of the Mothman Altar |           | [Buy <i class="fa-file-pdf"/>][Cult of the Mothman Altar] |    :x:     |                                                                  |
-| Meat and Gore             |           | [Buy <i class="fa-file-pdf"/>][Meat and Gore]             |    :x:     |                                                                  |
-| Metal Dome                |           | [Buy <i class="fa-file-pdf"/>][Metal Dome]                |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
+| Item                      | Purchased | Digital                                                      | Downloaded | Notes                                                            |
+| ------------------------- | :-------: | ------------------------------------------------------------ | :--------: | ---------------------------------------------------------------- |
+| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |                                                                  |
+| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |                                                                  |
+| Metal Dome                |           | [Buy <i class="fa-file-zipper"/>][Metal Dome]                |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
@@ -802,11 +806,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item            | Purchased | Digital                                         |     Downloaded     | Notes |
-| --------------- | :-------: | ----------------------------------------------- | :----------------: | ----- |
-| Cola-Cars Arena |           | [Buy <i class="fa-file-pdf"/>][Cola Cars Arena] | :heavy_check_mark: |       |
-| Galactic Zone   |           | [Buy <i class="fa-file-pdf"/>][Galactic Zone]   | :heavy_check_mark: |       |
-| Kiddie Kingdom  |           | [Buy <i class="fa-file-pdf"/>][Kiddie Kingdom]  | :heavy_check_mark: |       |
+| Item            | Purchased | Digital                                            |     Downloaded     | Notes |
+| --------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |       |
+| Galactic Zone   |           | [Buy <i class="fa-file-zipper"/>][Galactic Zone]   | :heavy_check_mark: |       |
+| Kiddie Kingdom  |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom]  | :heavy_check_mark: |       |
 
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
@@ -865,10 +869,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                | Purchased | Digital                                             |     Downloaded     | Notes |
-| ------------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
-| Commercial Vehicles |           | [Buy <i class="fa-file-pdf"/>][Commercial Vehicles] | :heavy_check_mark: |       |
-| Industrial Vehicles |           | [Buy <i class="fa-file-pdf"/>][Industrial Vehicles] | :heavy_check_mark: |       |
+| Item                | Purchased | Digital                                                |     Downloaded     | Notes                                                    |
+| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | -------------------------------------------------------- |
+| Commercial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Commercial Vehicles] | :heavy_check_mark: | [Vehicles for Sanctuary Hills](sanctuary-hills#vehicles) |
+| Industrial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Industrial Vehicles] | :heavy_check_mark: | [Vehicles for Vault-Tec Vault](vault#vehicles)           |
 
 [Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl

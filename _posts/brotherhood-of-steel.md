@@ -23,21 +23,19 @@ keywords:
 
 # Table of contents
 
-# Sourcing Parts
+# Intro
 
-| Item                                                                                                                                          | Price |     Purchased      | Notes                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ------------------------------------------------------------------- |
-| [Brotherhood of Steel Encampment](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl) | £45   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
+Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
-## Vehicles
+A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
-| Item                                                                                                                | Price |     Purchased      | Notes |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | :----------------: | ----- |
-| [Parked Vertibird](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl) | £20   | :heavy_check_mark: |       |
-| [Pre-war APC](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc)               | £5    | :heavy_check_mark: |       |
-| [Tank](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl)                         | £25   |        :x:         |       |
+# Brotherhood of Steel Encampment
 
-# Printing Parts
+| Item                            | Purchased | Digital                                           |     Downloaded     | Notes                                                               |
+| ------------------------------- | :-------: | ------------------------------------------------- | :----------------: | ------------------------------------------------------------------- |
+| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
+
+[BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 
 ## AA Turret
 
