@@ -448,10 +448,12 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | -------------------------------------------------- | :-------: | ----------------------------------------------- | :----------------: | ----- |
 | Chryslus Rocket                                    |           | [Buy <i class="fa-file-pdf"/>][Chryslus Rocket] | :heavy_check_mark: |       |
 | Corvega Coupe                                      |           | [Buy <i class="fa-file-pdf"/>][Corvega Coupe]   | :heavy_check_mark: |       |
+| Pre-war APC                                        |           | [Buy <i class="fa-file-pdf"/>][Pre War APC]     | :heavy_check_mark: |       |
 | [Settlement Work Benches][Settlement Work Benches] |    :x:    |                                                 |                    |       |
 
 [Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Pre War APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
 [Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches
 
 ### Scenarios
@@ -630,14 +632,18 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                   | Purchased | Digital                                               |     Downloaded     | Notes                                                                  |
-| ---------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Chems, Meds and Food   |           | [Buy <i class="fa-file-pdf"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
-| The Pack: Animal Decor |           | [Buy <i class="fa-file-pdf"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
-| Toys and Bobbleheads   |           | [Buy <i class="fa-file-pdf"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
-| Wasteland Critters     |           | [Buy <i class="fa-file-pdf"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+| Item                            | Purchased | Digital                                               |     Downloaded     | Notes                                                                  |
+| ------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
+| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-pdf"/>][BoS Encampment]        | :heavy_check_mark: |                                                                        |
+| Chems, Meds and Food            |           | [Buy <i class="fa-file-pdf"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
+| Flatbed Truck                   |           | [Buy <i class="fa-file-pdf"/>][Flatbed Truck]         | :heavy_check_mark: |                                                                        |
+| The Pack: Animal Decor          |           | [Buy <i class="fa-file-pdf"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
+| Toys and Bobbleheads            |           | [Buy <i class="fa-file-pdf"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
+| Wasteland Critters              |           | [Buy <i class="fa-file-pdf"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
+[BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
+[Flatbed Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck
 [The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
 [Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
 [Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
@@ -672,15 +678,43 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
+| Item                  | Purchased | Digital                                               |     Downloaded     | Notes                                                                |
+| --------------------- | :-------: | ----------------------------------------------------- | :----------------: | -------------------------------------------------------------------- |
+| Red Rocket Drive Thru |           | [Buy <i class="fa-file-pdf"/>][Red Rocket Drive Thru] | :heavy_check_mark: |                                                                      |
+| The Deep              |           | [Buy <i class="fa-file-pdf"/>][The Deep]              |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th) |
+
+[Red Rocket Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
+[The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
+
+#### Basing Greebles Bundle
+
+The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
+
+| Item                 | Purchased | Digital                                                             |     Downloaded     | Notes |
+| -------------------- | :-------: | ------------------------------------------------------------------- | :----------------: | ----- |
+| Downtown Debris      |           | [Buy <i class="fa-regular fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: |       |
+| Logs, Stumps & Roots |           | [Buy <i class="fa-regular fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: |       |
+| Mushrooms & Fungi    |           | [Buy <i class="fa-regular fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: |       |
+| Plants & Crops       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: |       |
+| Skulls & Bones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: |       |
+| Slabs & Stones       |           | [Buy <i class="fa-regular fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: |       |
+
+[Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
+[Logs Stumps and Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
+[Mushrooms and Fungi]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-mushrooms-fungi
+[Plants and Crops]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-plants-crops
+[Skulls and Bones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-skulls-bones
+[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
+
+#### Statues
+
 | Item             | Purchased | Digital                                          | Downloaded | Notes                                                                 |
 | ---------------- | :-------: | ------------------------------------------------ | :--------: | --------------------------------------------------------------------- |
 | Art Deco Statues |           | [Buy <i class="fa-file-pdf"/>][Art Deco Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th) |
 | Scorched Statues |           | [Buy <i class="fa-file-pdf"/>][Scorched Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)  |
-| The Deep         |           | [Buy <i class="fa-file-pdf"/>][The Deep]         |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th)  |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
-[The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
 
 ### Scenarios
 
