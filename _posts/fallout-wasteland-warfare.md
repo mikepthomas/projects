@@ -31,7 +31,6 @@ keywords:
   - Roleplaying
 ---
 
-[Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
 [Blog GenCon]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
 [Blog Into The Wasteland]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
 [Blog Objective Pack]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
@@ -275,7 +274,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Raiders Card Deck][Raiders Card Deck] | :heavy_check_mark: |                                                          |                    |       |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
-[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
+[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Raiders Wave Expansion Card Pack'
 
 ### Accessories
 
@@ -412,10 +411,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | Caught in the Crossfire Campaign book        |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
 | [Institute Card Deck][Institute Card Deck]   | :heavy_check_mark: |                                                                  |                    |       |
 
-[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
+[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'The Automatron Card Expansion Pack'
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
-[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
+[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Institute Wave Expansion Card Pack'
 
 ### Accessories
 
@@ -477,9 +476,9 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                                 |
 | [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
 
-[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
-[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
-[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
+[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
+[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
+[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Wave 1 Fundamentals Card Deck'
 [Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
@@ -562,7 +561,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [New Vegas Rules][New Vegas Rules] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
-[New Vegas Rules]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
+[New Vegas Rules]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'New Vegas Rules Expansion'
 
 ### Minatures
 
@@ -606,7 +605,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
 [Astoundingly Awesome Tales 1 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf
-[Commonwealth Rules]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
+[Commonwealth Rules]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'The Commonwealth Rules Expansion'
 [Into The Vault]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf
 
 ### Minatures
@@ -656,7 +655,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Forged in the Fire Rules][Forged in the Fire Rules] | :heavy_check_mark: |                                                           |                    |       |
 | Homestead Rules Expansion                            |                    | [Buy <i class="fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
 
-[Forged in the Fire Rules]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
+[Forged in the Fire Rules]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Forged in the Fire Rules Expansion'
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
 ### Minatures
@@ -703,7 +702,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | ------------------------------ | :----------------: | ------- | :--------: | ----- |
 | [Capital Rules][Capital Rules] | :heavy_check_mark: |         |            |       |
 
-[Capital Rules]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
+[Capital Rules]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Capital Rules Expansion'
 
 ### Minatures
 
@@ -748,7 +747,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Nuka-World Rules][Nuka World Rules] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka World Rules PDF]         | :heavy_check_mark: |       |
 
 [Astoundingly Awesome Tales 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
-[Nuka World Rules]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
+[Nuka World Rules]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Nuka-World Rules Expansion'
 [Nuka World Rules PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
 ### Minatures
