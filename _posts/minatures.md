@@ -1,10 +1,10 @@
 ---
-title: Painting Fallout Minatures
-heading: Paint Colours for Fallout Minatures
+title: Fallout Minatures
+heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
 lastmod: 2026-05-10T15:59:17.355Z
 author: Mike Thomas
-description: List of suggested paint colours I plan on using to paint Fallout Minatures from the Modiphius Painting Guides.
+description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
 slug: /projects/minatures-paint
 related:
@@ -23,7 +23,22 @@ keywords:
 
 # Table of contents
 
+# Intro
+
+[Item & Unit Costs](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf)
+
 # Brotherhood of Steel
+
+[Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
+
+[Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                                  | Quantity | Material | Included In                            | Cards                                  | Notes |
+| ------------------------------------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
+| [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Power Armor 1][Wave 4 Minis]          | [Two Player Starter Set][Wave 1 Rules] |       |
 
 ## Aspirant Goddard
 
@@ -68,7 +83,25 @@ keywords:
 | Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
+# Creatures
+
+[Creatures Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca6f53fa-a769-41d2-b9f4-2f9a3dede8de/BMCE-Creatures-v-1-0.pdf)
+
+| Item      | Quantity | Material | Included In                            | Cards                                  | Notes |
+| --------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----- |
+| Alien     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
+| Deathclaw | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
+
 # Enclave
+
+[Enclave Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/976b80dd-d2b6-4d48-9761-f340ce3865e0/BMCE-Enclave-v-1-0.pdf)
+
+| Item                              | Quantity | Material | Included In                       | Cards                             | Notes |
+| --------------------------------- | -------- | -------- | --------------------------------- | --------------------------------- | ----- |
+| Enclave Soldier                   | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis] | [Enclave Card Deck][Wave 4 Rules] |       |
+| [Frank Horrigan](#frank-horrigan) | 1        | Resin    | [Frank Horrigan][Wave 4 Minis]    | [Enclave Card Deck][Wave 4 Rules] |       |
+| Tesla Soldier                     | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis] | [Enclave Card Deck][Wave 4 Rules] |       |
+| Warrant Officer                   | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis] | [Enclave Card Deck][Wave 4 Rules] |       |
 
 ## Frank Horrigan
 
@@ -132,7 +165,74 @@ keywords:
 | Nuclear Symbol  | Warpaints Fanatic: Matt Black    |                                      | :heavy_check_mark: |
 | Armor           | AK Interactive: Rust Streaks     | Warpaints: Dry Rust                  | :heavy_check_mark: |
 
+# Nuka-World Gangs Raiders
+
+[Nuka-World Gangs Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf)
+
+> [!IMPORTANT]
+> The Nuka-World Gangs Raiders can be built in multiple ways. Please read the `Fallout: Factions` or `Wasteland Warfare` rules before building.
+
+## The Disciples
+
+[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf)
+
+| Item                 | Quantity | Material | Included In                            | Cards                            | Notes                    |
+| -------------------- | -------- | -------- | -------------------------------------- | -------------------------------- | ------------------------ |
+| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 13) |
+| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 14) |
+| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 15) |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 16) |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 17) |
+| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 18) |
+| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 19) |
+| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 20) |
+| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 21) |
+| Waster A             | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 22) |
+
+## The Operators
+
+[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf)
+
+| Item                 | Quantity | Material | Included In                            | Cards                            | Notes                    |
+| -------------------- | -------- | -------- | -------------------------------------- | -------------------------------- | ------------------------ |
+| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 13) |
+| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 14) |
+| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 15) |
+| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 16) |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 17) |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 18) |
+| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 19) |
+| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 20) |
+| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 21) |
+| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 22) |
+
+## The Pack
+
+[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf)
+
+| Item                 | Quantity | Material | Included In                       | Cards                            | Notes                    |
+| -------------------- | -------- | -------- | --------------------------------- | -------------------------------- | ------------------------ |
+| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 13) |
+| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 14) |
+| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 15) |
+| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 16) |
+| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 17) |
+| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 18) |
+| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 19) |
+| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 20) |
+| Waster 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 21) |
+| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules][Wave 9 Rules] | Assembly Guide (Page 22) |
+
 # Raiders
+
+[Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf)
+
+| Item              | Quantity | Material | Included In                       | Cards                             | Notes |
+| ----------------- | -------- | -------- | --------------------------------- | --------------------------------- | ----- |
+| Psycho            | 2        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
+| [Raider](#raider) | 3        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
+| Scavver           | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
+| Veteran Raider    | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
 
 ## Raider
 
@@ -188,6 +288,17 @@ keywords:
 | Rust           | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
 
 # Robots
+
+[Robots Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf)
+
+| Item                      | Quantity | Material | Included In                               | Cards                                  | Notes |
+| ------------------------- | -------- | -------- | ----------------------------------------- | -------------------------------------- | ----- |
+| Codsworth                 | 1        | Resin    | [Heroes of Sanctuary Hills][Wave 1 Minis] | [Fundamentals Card Deck][Wave 4 Rules] |       |
+| N.I.R.A                   | 1        | Resin    | [N.I.R.A][Wave 9 Minis]                   | [Nuka-World Rules][Wave 9 Rules]       |       |
+| [Protectron](#protectron) | :x:      | Resin    | [Assaultrons & Protectrons][Wave 2 Minis] | [Automatron Card Deck][Wave 3 Rules]   |       |
+| Robobrain                 | 2        | Resin    | [Robobrain][Wave 4 Minis]                 | [Automatron Card Deck][Wave 3 Rules]   |       |
+| [Sentry Bot](#sentry-bot) | :x:      | Resin    | [Sentry Bot][Wave 2 Minis]                | [Automatron Card Deck][Wave 3 Rules]   |       |
+| The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]             | [Automatron Card Deck][Wave 3 Rules]   |       |
 
 ## Protectron
 
@@ -268,6 +379,20 @@ keywords:
 | Stone                | Warpaints: Uniform Grey        | Warpaints Fanatic: Uniform Grey        | :heavy_check_mark: |
 
 # Super Mutants
+
+[Super Mutants Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/abbb01b5-cf62-43a1-9033-66df0068d8b0/BMCE-Supermutants-v-1-0.pdf)
+
+[Fallout Wasteland Warfare Super Mutants Miniatures Video](https://www.youtube-nocookie.com/embed/lq46sRF-DyU)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                                            | Quantity | Material | Included In                            | Cards                                  | Notes             |
+| ----------------------------------------------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----------------- |
+| Aviator                                         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |                   |
+| Brute                                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |                   |
+| Mutant Hound                                    | 2        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Super Mutant](#super-mutant)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |                   |
+| [Super Mutant Behemoth](#super-mutant-behemoth) | :x:      | Resin    | [Super Mutant Behemoth][Wave 1 Minis]  | [Enclave Card Deck][Wave 4 Rules]      |                   |
 
 ## Super Mutant
 
@@ -351,6 +476,41 @@ keywords:
 | Skin          | Warpaints Air: Feral Green     |                                        |        :x:         |
 
 # Survivors
+
+[Survivors Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c09206da-4f18-45df-a628-7e0b984b7bc9/BMCE-Survivors-v-1-1.pdf)
+
+[Fallout Wasteland Warfare Survivors Miniatures Video](https://www.youtube-nocookie.com/embed/eNUOSiWVgZc)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                                 | Quantity | Material | Included In                               | Cards                                    | Notes             |
+| ------------------------------------ | -------- | -------- | ----------------------------------------- | ---------------------------------------- | ----------------- |
+| Cait                                 | 1        | Resin    | [Boston Companions][Wave 1 Minis]         | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Dogmeat                              | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]    | [Two Player Starter Set][Wave 1 Rules]   | [Blog][Blog Dogs] |
+| Dogmeat Scout                        | 1        | Resin    | [Heroes of Sanctuary Hills][Wave 1 Minis] | [Fundamentals Card Deck][Wave 4 Rules]   | [Blog][Blog Dogs] |
+| Enslaved Tech                        | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]    | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Hancock                              | 1        | Resin    | [Unusual Allies][Wave 3 Minis]            | [Institute Card Deck][Wave 3 Rules]      |                   |
+| Jake Finch                           | 1        | Resin    | [Jake Finch][Wave 7 Minis]                | [Forged in the Fire Rules][Wave 7 Rules] |                   |
+| Lorenzo Cabot                        | 1        | Resin    | [Lorenzo Cabot][Wave 4 Minis]             | [Enclave Card Deck][Wave 4 Rules]        |                   |
+| Mama Murphy                          | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Nick Valentine                       | 1        | Resin    | [Unusual Allies][Wave 3 Minis]            | [Institute Card Deck][Wave 3 Rules]      |                   |
+| Nuka Girl                            | 1        | Resin    | [Nuka Cola Girl][Wave 1 Minis]            | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Piper                                | 1        | Resin    | [Boston Companions][Wave 1 Minis]         | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| [Preston Garvey](#preston-garvey)    | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Ronnie Shaw                          | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Rosa Meitner                         | 1        | Resin    | [Rosa Meitner][Wave 8 Minis]              | [Capital Rules][Wave 8 Rules]            |                   |
+| [Settler (Female)](#settler)         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]    | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| [Settler (Female)](#settler)         | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Settler (Male)                       | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]    | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Settler (Male)                       | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Sole Survivor (Female)               | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]    | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Sole Survivor (Male)                 | 1        | Resin    | [Heroes of Sanctuary Hills][Wave 1 Minis] | [Two Player Starter Set][Wave 1 Rules]   |                   |
+| Strong                               | 1        | Resin    | [Unusual Allies][Wave 3 Minis]            | [Institute Card Deck][Wave 3 Rules]      |                   |
+| Sturges                              | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]       | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
+| Vault Dweller                        | 2        | Resin    | [Vault Personnel][Wave 3 Minis]           | [Institute Card Deck][Wave 3 Rules]      |                   |
+| Vault Security Officer               | 2        | Resin    | [Vault Personnel][Wave 3 Minis]           | [Institute Card Deck][Wave 3 Rules]      |                   |
+| [Sole Survivor Tech](#x-01-survivor) | :x:      | Resin    | [X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Card Deck][Wave 2 Rules]        |                   |
+| X6-88 Courser                        | 1        | Resin    | [Boston Companions][Wave 1 Minis]         | [Fundamentals Card Deck][Wave 4 Rules]   |                   |
 
 ## Preston Garvey
 
@@ -506,6 +666,12 @@ keywords:
 
 # Unaligned
 
+| Item                | Quantity | Material | Included In                         | Cards                              | Notes |
+| ------------------- | -------- | -------- | ----------------------------------- | ---------------------------------- | ----- |
+| The Burned Man      | 1        | Resin    | [Burned Man][Wave 5 Minis]          | [New Vegas Rules][Wave 5 Rules]    |       |
+| [Grognak](#grognak) | 1        | Resin    | [Grognak][Wave 6 Minis]             | [Commonwealth Rules][Wave 6 Rules] |       |
+| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules]  |       |
+
 ## Grognak
 
 [I Made An Expansion for Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/pBb-X9zWmg8)
@@ -548,3 +714,24 @@ keywords:
 | Base / Loincloth | Warpaints: Desert Yellow  | Warpaints Fanatic: Desert Yellow | :heavy_check_mark: |
 | Base / Weapons   | Warpaints: Ash Grey       | Warpaints Fanatic: Ash Grey      | :heavy_check_mark: |
 | Hair             | Citadel: Flayed One Flesh | Warpaints Fanatic: Dorado Skin   | :heavy_check_mark: |
+
+[Related Links]: #
+[Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
+[Wave 1 Rules]: fallout-wasteland-warfare#rules
+[Wave 1 Minis]: fallout-wasteland-warfare#minatures
+[Wave 2 Rules]: fallout-wasteland-warfare#rules-1
+[Wave 2 Minis]: fallout-wasteland-warfare#minatures-1
+[Wave 3 Rules]: fallout-wasteland-warfare#rules-2
+[Wave 3 Minis]: fallout-wasteland-warfare#minatures-2
+[Wave 4 Rules]: fallout-wasteland-warfare#rules-3
+[Wave 4 Minis]: fallout-wasteland-warfare#minatures-3
+[Wave 5 Rules]: fallout-wasteland-warfare#rules-4
+[Wave 5 Minis]: fallout-wasteland-warfare#minatures-4
+[Wave 6 Rules]: fallout-wasteland-warfare#rules-5
+[Wave 6 Minis]: fallout-wasteland-warfare#minatures-5
+[Wave 7 Rules]: fallout-wasteland-warfare#rules-6
+[Wave 7 Minis]: fallout-wasteland-warfare#minatures-6
+[Wave 8 Rules]: fallout-wasteland-warfare#rules-7
+[Wave 8 Minis]: fallout-wasteland-warfare#minatures-7
+[Wave 9 Rules]: fallout-wasteland-warfare#rules-8
+[Wave 9 Minis]: fallout-wasteland-warfare#minatures-8

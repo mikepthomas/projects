@@ -1236,184 +1236,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Wasteland Wanderer]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game
 [Wasteland Wanderer PDF]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game-pdf
 
-# Units
-
-## Minatures
-
-[Item & Unit Costs](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf)
-
-### Brotherhood of Steel
-
-[Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
-
-[Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
-
-> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
-
-| Item             | Quantity | Material | Included In                                      | Cards                                            | Notes                                        |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
-| Aspirant Goddard | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide](minatures#aspirant-goddard) |
-
-### Creatures
-
-[Creatures Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca6f53fa-a769-41d2-b9f4-2f9a3dede8de/BMCE-Creatures-v-1-0.pdf)
-
-| Item      | Quantity | Material | Included In                                      | Cards                                            | Notes |
-| --------- | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ----- |
-| Alien     | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
-| Deathclaw | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |       |
-
-### Enclave
-
-[Enclave Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/976b80dd-d2b6-4d48-9761-f340ce3865e0/BMCE-Enclave-v-1-0.pdf)
-
-| Item            | Quantity | Material | Included In                           | Cards                                  | Notes                                      |
-| --------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ------------------------------------------ |
-| Enclave Soldier | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |                                            |
-| Frank Horrigan  | 1        | Resin    | [Frank Horrigan][Frank Horrigan]      | [Enclave Card Deck][Enclave Card Deck] | [Painting Guide](minatures#frank-horrigan) |
-| Tesla Soldier   | 2        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |                                            |
-| Warrant Officer | 1        | Resin    | [Enclave: Core Box][Enclave Core Box] | [Enclave Card Deck][Enclave Card Deck] |                                            |
-
-### Nuka-World Gangs Raiders
-
-[Nuka-World Gangs Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf)
-
-> [!IMPORTANT]
-> The Nuka-World Gangs Raiders can be built in multiple ways. Please read the `Fallout: Factions` or `Wasteland Warfare` rules before building.
-
-#### The Disciples
-
-| Item                 | Quantity | Material | Included In                             | Cards                                | Notes                                                                             |
-| -------------------- | -------- | -------- | --------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
-| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 13) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 14) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 15) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 16) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 17) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 18) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 19) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 20) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 21) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-| Waster A             | 1        | HIPS     | [Raiders: The Disciples][The Disciples] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 22) <i class="fa-file-pdf"/>][The Disciples Assembly Guide] |
-
-#### The Operators
-
-| Item                 | Quantity | Material | Included In                             | Cards                                | Notes                                                                             |
-| -------------------- | -------- | -------- | --------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
-| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 13) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 14) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 15) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 16) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 17) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 18) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 19) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 20) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 21) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][The Operators] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 22) <i class="fa-file-pdf"/>][The Operators Assembly Guide] |
-
-#### The Pack
-
-| Item                 | Quantity | Material | Included In                   | Cards                                | Notes                                                                        |
-| -------------------- | -------- | -------- | ----------------------------- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 13) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 14) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 15) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 16) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 17) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 18) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 19) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 20) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 1             | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 21) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][The Pack] | [Nuka-World Rules][Nuka World Rules] | [Assembly Guide (Page 22) <i class="fa-file-pdf"/>][The Pack Assembly Guide] |
-
-### Raiders
-
-[Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf)
-
-| Item           | Quantity | Material | Included In                           | Cards                                  | Notes                              |
-| -------------- | -------- | -------- | ------------------------------------- | -------------------------------------- | ---------------------------------- |
-| Psycho         | 2        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
-| Raider         | 3        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] | [Painting Guide](minatures#raider) |
-| Scavver        | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
-| Veteran Raider | 1        | Resin    | [Raiders: Core Box][Raiders Core Box] | [Raiders Card Deck][Raiders Card Deck] |                                    |
-
-### Robots
-
-[Robots Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf)
-
-| Item          | Quantity | Material | Included In                                            | Cards                                            | Notes |
-| ------------- | -------- | -------- | ------------------------------------------------------ | ------------------------------------------------ | ----- |
-| Codsworth     | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck] |       |
-| N.I.R.A       | 1        | Resin    | [N.I.R.A][NIRA]                                        | [Nuka-World Rules][Nuka World Rules]             |       |
-| Robobrain     | 2        | Resin    | [Robobrain][Robobrain]                                 | [Automatron Card Deck][Automatron Card Deck]     |       |
-| The Mechanist | 1        | Resin    | [The Mechanist][The Mechanist]                         | [Automatron Card Deck][Automatron Card Deck]     |       |
-
-### Super Mutants
-
-[Super Mutants Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/abbb01b5-cf62-43a1-9033-66df0068d8b0/BMCE-Supermutants-v-1-0.pdf)
-
-[Fallout Wasteland Warfare Super Mutants Miniatures Video](https://www.youtube-nocookie.com/embed/lq46sRF-DyU)
-
-> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
-
-| Item         | Quantity | Material | Included In                                      | Cards                                            | Notes                                    |
-| ------------ | -------- | -------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------- |
-| Aviator      | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                          |
-| Brute        | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] |                                          |
-| Mutant Hound | 2        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Blog][Blog Dogs]                        |
-| Super Mutant | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set] | [Two Player Starter Set][Two Player Starter Set] | [Painting Guide](minatures#super-mutant) |
-
-### Survivors
-
-[Survivors Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c09206da-4f18-45df-a628-7e0b984b7bc9/BMCE-Survivors-v-1-1.pdf)
-
-[Fallout Wasteland Warfare Survivors Miniatures Video](https://www.youtube-nocookie.com/embed/eNUOSiWVgZc)
-
-> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
-
-| Item                   | Quantity | Material | Included In                                            | Cards                                                | Notes                                      |
-| ---------------------- | -------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------ |
-| Cait                   | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Dogmeat                | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Blog][Blog Dogs]                          |
-| Dogmeat Scout          | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Blog][Blog Dogs]                          |
-| Enslaved Tech          | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                            |
-| Hancock                | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                            |
-| Jake Finch             | 1        | Resin    | [Jake Finch][Jake Finch]                               | [Forged in the Fire Rules][Forged in the Fire Rules] |                                            |
-| Lorenzo Cabot          | 1        | Resin    | [Lorenzo Cabot][Lorenzo Cabot]                         | [Enclave Card Deck][Enclave Card Deck]               |                                            |
-| Mama Murphy            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Nick Valentine         | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                            |
-| Nuka Girl              | 1        | Resin    | [Nuka Cola Girl][Nuka Cola Girl]                       | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Piper                  | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Preston Garvey         | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     | [Painting Guide](minatures#preston-garvey) |
-| Ronnie Shaw            | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Rosa Meitner           | 1        | Resin    | [Rosa Meitner][Rosa Meitner]                           | [Capital Rules][Capital Rules]                       |                                            |
-| Settler (Female)       | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide](minatures#settler)        |
-| Settler (Female)       | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     | [Painting Guide](minatures#settler)        |
-| Settler (Male)         | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                            |
-| Settler (Male)         | 2        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Two Player Starter Set][Two Player Starter Set]     |                                            |
-| Sole Survivor (Female) | 1        | PVC      | [Two Player Starter Set][Two Player Starter Set]       | [Two Player Starter Set][Two Player Starter Set]     |                                            |
-| Sole Survivor (Male)   | 1        | Resin    | [Heroes of Sanctuary Hills][Heroes of Sanctuary Hills] | [Two Player Starter Set][Two Player Starter Set]     |                                            |
-| Strong                 | 1        | Resin    | [Unusual Allies][Unusual Allies]                       | [Institute Card Deck][Institute Card Deck]           |                                            |
-| Sturges                | 1        | Resin    | [Survivors: Core Box][Survivors Core Box]              | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-| Vault Dweller          | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                            |
-| Vault Security Officer | 2        | Resin    | [Vault Personnel][Vault Personnel]                     | [Institute Card Deck][Institute Card Deck]           |                                            |
-| X6-88 Courser          | 1        | Resin    | [Boston Companions][Boston Companions]                 | [Fundamentals Card Deck][Fundamentals Card Deck]     |                                            |
-
-### Unaligned
-
-| Item                | Quantity | Material | Included In                                | Cards                                    | Notes                               |
-| ------------------- | -------- | -------- | ------------------------------------------ | ---------------------------------------- | ----------------------------------- |
-| Burned Man          | 1        | Resin    | [Burned Man][Burned Man]                   | [Commonwealth Rules][Commonwealth Rules] |                                     |
-| Grognak             | 1        | Resin    | [Grognak][Grognak]                         | [New Vegas Rules][New Vegas Rules]       | [Painting Guide](minatures#grognak) |
-| Mysterious Stranger | 1        | Resin    | [Mysterious Stranger][Mysterious Stranger] | [Raiders Card Deck][Raiders Card Deck]   |                                     |
-
-## Game Cards
+# Game Cards
 
 This section was started as an excersise to understand how many Card Sleeves I will need to purchase, however, as I do not own many of the products in some of the waves and some of the cards in the products are not in the downloadable PDFs, I will need to roughly estimate instead.
 
 [Product Card Lists](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_Full_Card_List_002LW.pdf)
 
-### Standard
+## Standard
 
 | Item                                                  | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
 | ----------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
@@ -1426,7 +1255,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 [Reference Cards]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
 [Unit Cards]: https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview
 
-### Mini European
+## Mini European
 
 | Item                                                        | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
 | ----------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
