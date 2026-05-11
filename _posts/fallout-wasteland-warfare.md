@@ -275,7 +275,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Raiders Card Deck][Raiders Card Deck] | :heavy_check_mark: |                                                          |                    |       |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
-[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Raiders Wave Expansion Card Pack'
+[Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
 
 ### Accessories
 
@@ -412,10 +412,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | Caught in the Crossfire Campaign book        |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
 | [Institute Card Deck][Institute Card Deck]   | :heavy_check_mark: |                                                                  |                    |       |
 
-[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'The Automatron Card Expansion Pack'
+[Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
-[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack 'Institute Wave Expansion Card Pack'
+[Institute Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
 ### Accessories
 
@@ -477,9 +477,9 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                                 |
 | [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
 
-[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
-[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
-[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck 'Wave 1 Fundamentals Card Deck'
+[Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
+[Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
+[Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
 [Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
@@ -562,7 +562,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [New Vegas Rules][New Vegas Rules] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
-[New Vegas Rules]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion 'New Vegas Rules Expansion'
+[New Vegas Rules]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
 
 ### Minatures
 
@@ -601,14 +601,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Item                                                         |     Purchased      | Digital                                                          |     Downloaded     | Notes                                                 |
 | ------------------------------------------------------------ | :----------------: | ---------------------------------------------------------------- | :----------------: | ----------------------------------------------------- |
 | [Astoundingly Awesome Tales 1][Astoundingly Awesome Tales 1] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 1 PDF] |        :x:         |                                                       |
-| Astoundingly Awesome Tales 2                                 |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 2 PDF] |        :x:         |                                                       |
 | [Commonwealth Rules][Commonwealth Rules]                     | :heavy_check_mark: |                                                                  |                    |                                                       |
 | Into the Vault                                               |                    | [Buy <i class="fa-file-pdf"/>][Into The Vault]                   | :heavy_check_mark: | Contains rules to create the [Vault-Tec Vault](vault) |
 
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
 [Astoundingly Awesome Tales 1 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf
-[Astoundingly Awesome Tales 2 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
-[Commonwealth Rules]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion 'The Commonwealth Rules Expansion'
+[Commonwealth Rules]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
 [Into The Vault]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf
 
 ### Minatures
@@ -658,7 +656,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Forged in the Fire Rules][Forged in the Fire Rules] | :heavy_check_mark: |                                                           |                    |       |
 | Homestead Rules Expansion                            |                    | [Buy <i class="fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: |       |
 
-[Forged in the Fire Rules]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion 'Forged in the Fire Rules Expansion'
+[Forged in the Fire Rules]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
 ### Minatures
@@ -705,7 +703,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | ------------------------------ | :----------------: | ------- | :--------: | ----- |
 | [Capital Rules][Capital Rules] | :heavy_check_mark: |         |            |       |
 
-[Capital Rules]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion 'Capital Rules Expansion'
+[Capital Rules]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
 
 ### Minatures
 
@@ -726,11 +724,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item          | Purchased | Digital                                       | Downloaded | Notes                                                            |
-| ------------- | :-------: | --------------------------------------------- | :--------: | ---------------------------------------------------------------- |
-| Meat and Gore |           | [Buy <i class="fa-file-pdf"/>][Meat and Gore] |    :x:     |                                                                  |
-| Metal Dome    |           | [Buy <i class="fa-file-pdf"/>][Metal Dome]    |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
+| Item                      | Purchased | Digital                                                   | Downloaded | Notes                                                            |
+| ------------------------- | :-------: | --------------------------------------------------------- | :--------: | ---------------------------------------------------------------- |
+| Cult of the Mothman Altar |           | [Buy <i class="fa-file-pdf"/>][Cult of the Mothman Altar] |    :x:     |                                                                  |
+| Meat and Gore             |           | [Buy <i class="fa-file-pdf"/>][Meat and Gore]             |    :x:     |                                                                  |
+| Metal Dome                |           | [Buy <i class="fa-file-pdf"/>][Metal Dome]                |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-9th) |
 
+[Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
 [Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
 
@@ -742,11 +742,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                 |     Purchased      | Digital                                              |     Downloaded     | Notes |
-| ------------------------------------ | :----------------: | ---------------------------------------------------- | :----------------: | ----- |
-| [Nuka-World Rules][Nuka World Rules] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka World Rules PDF] | :heavy_check_mark: |       |
+| Item                                 |     Purchased      | Digital                                                      |     Downloaded     | Notes |
+| ------------------------------------ | :----------------: | ------------------------------------------------------------ | :----------------: | ----- |
+| Astoundingly Awesome Tales 2         |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 2] |        :x:         |       |
+| [Nuka-World Rules][Nuka World Rules] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka World Rules PDF]         | :heavy_check_mark: |       |
 
-[Nuka World Rules]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion 'Nuka-World Rules Expansion'
+[Astoundingly Awesome Tales 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
+[Nuka World Rules]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
 [Nuka World Rules PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
 ### Minatures
@@ -764,6 +766,18 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [The Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
 [The Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
 [X01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor 'Unaligned: X-01 Power Armor'
+
+### Scatter
+
+| Item            | Purchased | Digital                                         |     Downloaded     | Notes |
+| --------------- | :-------: | ----------------------------------------------- | :----------------: | ----- |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-pdf"/>][Cola Cars Arena] | :heavy_check_mark: |       |
+| Galactic Zone   |           | [Buy <i class="fa-file-pdf"/>][Galactic Zone]   | :heavy_check_mark: |       |
+| Kiddie Kingdom  |           | [Buy <i class="fa-file-pdf"/>][Kiddie Kingdom]  | :heavy_check_mark: |       |
+
+[Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
+[Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
+[Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
 
 ### Scenarios
 
@@ -818,11 +832,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                      | Purchased | Digital                                                   | Downloaded | Notes |
-| ------------------------- | :-------: | --------------------------------------------------------- | :--------: | ----- |
-| Cult of the Mothman Altar |           | [Buy <i class="fa-file-pdf"/>][Cult of the Mothman Altar] |    :x:     |       |
+| Item                | Purchased | Digital                                             |     Downloaded     | Notes |
+| ------------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
+| Commercial Vehicles |           | [Buy <i class="fa-file-pdf"/>][Commercial Vehicles] | :heavy_check_mark: |       |
+| Industrial Vehicles |           | [Buy <i class="fa-file-pdf"/>][Industrial Vehicles] | :heavy_check_mark: |       |
 
-[Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
+[Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
+[Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
 
 ### Scenarios
 
