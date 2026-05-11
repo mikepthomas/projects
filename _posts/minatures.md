@@ -261,7 +261,7 @@ keywords:
 | Item                 | Suggested Paint                | Alternative                            |        Own         |
 | -------------------- | ------------------------------ | -------------------------------------- | :----------------: |
 | Tracks               | Warpaints Metallics: Gun Metal | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
-| Visor / Refrigerator | Warpaints: Crusted Sore        |                                        |         ::         |
+| Visor / Refrigerator | Warpaints: Crusted Sore        |                                        |        :x:         |
 | Wood                 | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
 | Bricks               | Warpaints: Fur Brown           | Warpaints Fanatic: Fur Brown           | :heavy_check_mark: |
 | Manhole Cover        | Warpaints: Dark Stone          |                                        | :heavy_check_mark: |
