@@ -1180,20 +1180,22 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                              |     Purchased      | Digital                                              |     Downloaded     | Notes |
-| --------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | ----- |
-| [Core Rulebook][Core Rulebook]    | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: |       |
-| [Crew Folio][Crew Folio]          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: |       |
-| ┕ Rogue Knight                    | :heavy_check_mark: |                                                      |                    | Promo |
-| Spooktober Rules                  |                    | [Free <i class="fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: |       |
-| Spooktober 2 Rules                |                    | [Free <i class="fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |       |
-| Tournament Booklet - C.O.M.P. Kit |                    | [Free <i class="fa-file-pdf"/>][COMP Kit]            | :heavy_check_mark: |       |
+| Item                                   |     Purchased      | Digital                                              |     Downloaded     | Notes |
+| -------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | ----- |
+| [Core Rulebook][Core Rulebook]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: |       |
+| ┕ [King of the Park][King of the Park] | :heavy_check_mark: |                                                      |                    | Promo |
+| [Crew Folio][Crew Folio]               | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: |       |
+| ┕ Rogue Knight                         | :heavy_check_mark: |                                                      |                    | Promo |
+| Spooktober Rules                       |                    | [Free <i class="fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: |       |
+| Spooktober 2 Rules                     |                    | [Free <i class="fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |       |
+| Tournament Booklet - C.O.M.P. Kit      |                    | [Free <i class="fa-file-pdf"/>][COMP Kit]            | :heavy_check_mark: |       |
 
 [COMP Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
 [Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
 [Crew Folio PDF]: https://modiphius.net/products/fallout-factions-crew-folio-pdf
+[King of the Park]: https://modiphius.net/products/fallout-miniatures-king-of-the-park-limited-run
 [Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
 [Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
 
