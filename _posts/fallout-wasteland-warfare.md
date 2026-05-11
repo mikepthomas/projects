@@ -316,17 +316,18 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                                       |     Purchased      | Digital                                              |     Downloaded     | Notes                                                                                  |
-| ------------------------------------------ | :----------------: | ---------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- |
-| [Corvega Sedan][Corvega Sedan]             |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
-| [Crashed Vertibird][Crashed Vertibird]     |        :x:         |                                                      |                    |                                                                                        |
-| [Junk Barricades][Junk Barricades]         |        :x:         |                                                      |                    |                                                                                        |
-| [Military Barricades][Military Barricades] | :heavy_check_mark: |                                                      |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
-| [Turrets][Turrets]                         | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]   | :heavy_check_mark: |                                                                                        |
+| Item                                       |     Purchased      | Digital                                                  |     Downloaded     | Notes                                                                                  |
+| ------------------------------------------ | :----------------: | -------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- |
+| [Corvega Sedan][Corvega Sedan]             |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/corvega-atomic-v-8-terrain-tutorial)           |
+| [Crashed Vertibird][Crashed Vertibird]     |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         |                                                                                        |
+| [Junk Barricades][Junk Barricades]         |        :x:         |                                                          |                    |                                                                                        |
+| [Military Barricades][Military Barricades] | :heavy_check_mark: |                                                          |                    | Similar items available in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets][Turrets]                         | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]       | :heavy_check_mark: |                                                                                        |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
 [Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird
+[Crashed Vertibird STL]: https://www.myminifactory.com/object/3d-print-crashed-vertibird-terrain-expansion-fallout-wasteland-warfare-141472
 [Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades
 [Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades
 [Scenic Set Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
