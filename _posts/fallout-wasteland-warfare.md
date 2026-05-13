@@ -31,14 +31,6 @@ keywords:
   - Roleplaying
 ---
 
-[Blog GenCon]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
-[Blog Into The Wasteland]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
-[Blog Objective Pack]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
-[Blog Showdown in Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
-[Blog Undiscovered Vault]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
-[Blog Unexpected Shepherd]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
-[Blog Wave 2 Updates]: https://modiphius.net/blogs/news/wave-2-document-updates
-
 # Table of contents
 
 # Intro
@@ -47,7 +39,102 @@ There are many items available for the [Modiphius Fallout Games](https://modiphi
 
 Due to the abscence of a Buyer's Guide, I have created this page to try to understand the links between items so that I know what to purchase and as a place to track the items I am either interested in or own.
 
-A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
+# Development
+
+The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
+
+The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---starter-set) and [Wave 2](#wave-2---raiders).
+
+| Date       | Blog                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------- |
+| 01/01/2019 | [DEVELOPMENT BLOG #1: Movement & Range][Dev Blog 1]                                                         |
+| 08/01/2019 | [DEVELOPMENT BLOG #2: You Are S.P.E.C.I.A.L!][Dev Blog 2]                                                   |
+| 15/01/2019 | [DEVELOPMENT BLOG #3: The Effect Dice][Dev Blog 3]                                                          |
+| 22/01/2019 | [DEVELOPMENT BLOG #4: Heroes of the Wasteland][Dev Blog 4]                                                  |
+| 29/01/2019 | [DEVELOPMENT BLOG #5: Armour and Leaders][Dev Blog 5]                                                       |
+| 05/02/2019 | [DEVELOPMENT BLOG #6: Pre-Order Update][Dev Blog 6]                                                         |
+| 12/02/2019 | [DEVELOPMENT BLOG #7: Things to come][Dev Blog 7]                                                           |
+| 19/02/2019 | [DEVELOPMENT BLOG #8: Narrative Systems Part 1][Dev Blog 8]                                                 |
+| 19/02/2019 | [DEVELOPMENT BLOG #9: Wave 2 Sneak Peak][Dev Blog 9]                                                        |
+| 26/02/2019 | [DEVELOPMENT BLOG #10: AI Game Play!][Dev Blog 10]                                                          |
+| 05/03/2019 | [DEVELOPMENT BLOG #11: Frank Horrigan - The Enclave's special weapon!][Dev Blog 11]                         |
+| 12/03/2019 | [DEVELOPMENT BLOG #12: Plastics Samples & AI Gameplay][Dev Blog 12]                                         |
+| 19/03/2019 | [DEVELOPMENT BLOG #13: Wave 2 Scenics & Shipping Update][Dev Blog 13]                                       |
+| 26/03/2019 | [DEVELOPMENT BLOG #14: Here come the Raiders! ][Dev Blog 14]                                                |
+| 02/04/2019 | [DEVELOPMENT BLOG #15: Meet our Merry Band!][Dev Blog 15]                                                   |
+| 09/04/2019 | [DEVELOPMENT BLOG #16: LAUNCH PARTY REVEALS][Dev Blog 16]                                                   |
+| 16/04/2019 | [DEVELOPMENT BLOG #17: WAVE 2 & BEYOND...][Dev Blog 17]                                                     |
+| 23/04/2019 | [DEVELOPMENT BLOG #18: THE BEST LAID PLANS...][Dev Blog 18]                                                 |
+| 30/04/2019 | [DEVELOPMENT BLOG #19: What is the Fallout: Wasteland Warfare RPG?][Dev Blog 19]                            |
+| 07/05/2019 | [DEVELOPMENT BLOG #20: Fallout: Wasteland Warfare RPG Skills System][Dev Blog 20]                           |
+| 14/05/2019 | [DEVELOPMENT BLOG #21: Fallout: Wasteland Warfare RPG Character Creation][Dev Blog 21]                      |
+| 21/05/2019 | [DEVELOPMENT BLOG #22: Fallout: Wasteland Warfare RPG - Spotlight on what's new][Dev Blog 22]               |
+| 28/05/2019 | [DEVELOPMENT BLOG #23: Fallout: Wasteland Warfare - Synergy between the RPG & miniatures game][Dev Blog 23] |
+| 04/06/2019 | [DEVELOPMENT BLOG #24: Fallout: Wasteland Warfare - Scenario Competition!][Dev Blog 24]                     |
+| 11/06/2019 | [DEVELOPMENT BLOG #25: The Raiders are here!][Dev Blog 25]                                                  |
+| 18/06/2019 | [DEVELOPMENT BLOG #26: LIMITED GENCON (& WEB) SPECIALS!][Dev Blog 26]                                       |
+| 25/06/2019 | [DEVELOPMENT BLOG #27: WAVE 2 DOCUMENT UPDATES][Dev Blog 27]                                                |
+| 02/07/2019 | [DEVELOPMENT BLOG #28: HE'S MORE MACHINE NOW THAN MAN][Dev Blog 28]                                         |
+
+[Development Blogs]: #
+[Dev Blog 1]: https://modiphius.net/blogs/news/movement-and-range
+[Dev Blog 2]: https://modiphius.net/blogs/news/you-are-special
+[Dev Blog 3]: https://modiphius.net/blogs/news/the-effect-dice
+[Dev Blog 4]: https://modiphius.net/blogs/news/heroes-of-the-wasteland
+[Dev Blog 5]: https://modiphius.net/blogs/news/armour-and-leaders
+[Dev Blog 6]: https://modiphius.net/blogs/news/pre-order-update
+[Dev Blog 7]: https://modiphius.net/blogs/news/things-to-come
+[Dev Blog 8]: https://modiphius.net/blogs/news/narrative-systems-part-1
+[Dev Blog 9]: https://modiphius.net/blogs/news/wave-2-sneak-peak
+[Dev Blog 10]: https://modiphius.net/blogs/news/ai-game-play
+[Dev Blog 11]: https://modiphius.net/blogs/news/frank-horrigan-the-enclaves-special-weapon
+[Dev Blog 12]: https://modiphius.net/blogs/news/plastics-samples-ai-game-play
+[Dev Blog 13]: https://modiphius.net/blogs/news/wave-2-scenics-shipping-update
+[Dev Blog 14]: https://modiphius.net/blogs/news/here-come-the-raiders
+[Dev Blog 15]: https://modiphius.net/blogs/news/meet-our-merry-band
+[Dev Blog 16]: https://modiphius.net/blogs/news/launch-party-reveals
+[Dev Blog 17]: https://modiphius.net/blogs/news/wave-2-and-beyond
+[Dev Blog 18]: https://modiphius.net/blogs/news/the-best-laid-plans
+[Dev Blog 19]: https://modiphius.net/blogs/news/what-is-the-fallout-wasteland-warfare-rpg
+[Dev Blog 20]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-skills-system
+[Dev Blog 21]: https://modiphius.net/blogs/news/fallout-waste-land-warfare-rpg-character-creation
+[Dev Blog 22]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new-2
+[Dev Blog 23]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game-2
+[Dev Blog 24]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-scenario-competition
+[Dev Blog 25]: https://modiphius.net/blogs/news/the-raiders-are-here-2
+[Dev Blog 26]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
+[Dev Blog 27]: https://modiphius.net/blogs/news/wave-2-document-updates
+[Dev Blog 28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
+[RPG]: #
+[Blog RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new
+[Blog FWW Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game
+[Blog Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
+[Wave 2]: #
+[Blog Raiders Are Here]: https://modiphius.net/blogs/news/the-raiders-are-here
+[Wave 3]: #
+[Blog How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
+[Blog How To Paint Institute]: https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog
+[Blog Competition]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-fall-competition-play-games-to-win-institute-sets-for-yourself-and-dtr-vouchers-for-your-flgs
+[Blog Whats In Boxes Institute]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-institute-whats-in-the-boxes
+[Blog Downloads Update]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-downloads-page-update
+[Blog Institute Vs Survivors]: https://modiphius.net/blogs/news/institute-battle-report
+[Blog How To Use Objective Markers]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
+[Blog Showdown In Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
+[Blog Guide To Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
+[Blog Super Mutant Suicider 1]: https://modiphius.net/blogs/news/but-can-it-beat-a-suicider-part-1
+[Blog How To Automatron]: https://modiphius.net/blogs/news/how-to-automatron
+[Blog Caught In The Crossfire]: https://modiphius.net/blogs/news/caught-in-the-crossfire
+[Blog Make Your Own Robot 1]: https://modiphius.net/blogs/news/so-who-would-win-in-a-fight-between-part-1-promo-figures
+[Blog App Launch]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-app-launches
+[Blog App Phone]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-now-on-your-phone
+[Wave 4]: #
+[Blog Into The Wasteland 1]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
+[Blog Into The Wasteland 2]: https://modiphius.net/blogs/news/into-the-wasteland-part-two
+[Wave 5]: #
+[Blog Mojave Expansion]: https://modiphius.net/blogs/news/ncr-casers-legion-lead-2020-expansions-for-fallout-wasteland-warfare
+[Fallout Friday]: #
+[FF Into The Wasteland]: https://modiphius.net/blogs/news/fallout-friday-and-into-the-wasteland
+[FF Undiscovered Vault]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
 
 # Fallout: Wasteland Warfare
 
@@ -58,6 +145,8 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 ## Wave 1 - Starter Set
 
 Wave 1 introduces the game with the `Two Player Starter Set` which contains everything you need to learn how to play the game.
+
+A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
 ### Rules
 
@@ -187,6 +276,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ### Minatures
 
+![Super Mutant Behemoth](https://i.shgcdn.com/c91c7904-b7ac-4ae0-a233-37e7df387782/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
 | Item                                                   |     Purchased      | Digital | Downloaded | Notes                                                                      |
 | ------------------------------------------------------ | :----------------: | ------- | :--------: | -------------------------------------------------------------------------- |
 | [Boston Companions][Boston Companions]                 | :heavy_check_mark: |         |            |                                                                            |
@@ -278,6 +371,10 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Accessories
 
+![Weapons Upgrade Pack](https://i.shgcdn.com/81edb1be-3f5c-41d5-a029-1f3858031e15/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
 | Item                                         |     Purchased      | Digital                                                       |     Downloaded     | Notes |
 | -------------------------------------------- | :----------------: | ------------------------------------------------------------- | :----------------: | ----- |
 | [Vault-Tec Notebook][Vault Tec Notebook]     | :heavy_check_mark: | [Settlement Sheet <i class="fa-file-pdf"/>][Settlement Sheet] | :heavy_check_mark: |       |
@@ -289,15 +386,19 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Minatures
 
+[Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
+
+> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 | Item                                                     |     Purchased      | Digital                                               |     Downloaded     | Notes                       |
 | -------------------------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | --------------------------- |
 | [Assaultrons & Protectrons][Assaultrons and Protectrons] |        :x:         |                                                       |                    |                             |
-| Glowing Ghouls                                           |        :x:         |                                                       |                    | [GenCon Promo][Blog GenCon] |
+| Glowing Ghouls                                           |        :x:         |                                                       |                    | [GenCon Promo][Dev Blog 26] |
 | [Raiders: Core Box][Raiders Core Box]                    | :heavy_check_mark: |                                                       |                    |                             |
 | [Liberty Prime][Liberty Prime]                           | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: |                             |
 | [Mysterious Stranger][Mysterious Stranger]               | :heavy_check_mark: |                                                       |                    | Promo                       |
 | [Sentry Bot][Sentry Bot]                                 |        :x:         |                                                       |                    |                             |
-| Stealth Coursers                                         |        :x:         |                                                       |                    | [GenCon Promo][Blog GenCon] |
+| Stealth Coursers                                         |        :x:         |                                                       |                    | [GenCon Promo][Dev Blog 26] |
 | [X-01 Survivor & Dogmeat][X01 and Dogmeat]               |        :x:         |                                                       |                    |                             |
 
 [Assaultrons and Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons 'Robots: Assaultrons & Protectrons'
@@ -308,11 +409,11 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 [Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019 'Robots: Sentry Bot'
 [X01 and Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
 
-[Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
-
-> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
-
 ### Scatter
+
+![Scenic Bundle Items](https://i.shgcdn.com/f0fe0a74-0aee-4f8c-bbe1-b9ed7e91cc3b/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
@@ -379,8 +480,8 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 
 | Item                                          |     Purchased      | Digital                                                      |     Downloaded     | Notes                                    |
 | --------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------------------- |
-| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][Blog Undiscovered Vault]          |
-| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [Blog][Blog Wave 2 Updates]              |
+| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][FF Undiscovered Vault]            |
+| SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [Blog][Dev Blog 27]                      |
 | [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                              |                    | Part of the `Raiders Organised Play Kit` |
 
 [Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
@@ -398,6 +499,11 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 #### Raid the Crash Site
 
 This scenario was designed for using the `Crashed Vertibird`.
+
+![Crashed Vertibird](https://i.shgcdn.com/8700bca4-6717-4f2c-b286-77c32d6d5582/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
 I plan on 3D Printing parts from the [Parked Vertibird](brotherhood-of-steel#vehicles) instead.
 
 ## Wave 3 - Institute
@@ -406,11 +512,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                         |     Purchased      | Digital                                                          |     Downloaded     | Notes |
-| -------------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ----- |
-| [Automatron Card Deck][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: |       |
-| Caught in the Crossfire Campaign book        |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: |       |
-| [Institute Card Deck][Institute Card Deck]   | :heavy_check_mark: |                                                                  |                    |       |
+| Item                                         |     Purchased      | Digital                                                          |     Downloaded     | Notes                                |
+| -------------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ------------------------------------ |
+| [Automatron Card Deck][Automatron Card Deck] | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | [Blog][Blog How To Automatron]       |
+| Caught in the Crossfire Campaign book        |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: | [Blog][Blog Caught In The Crossfire] |
+| [Institute Card Deck][Institute Card Deck]   | :heavy_check_mark: |                                                                  |                    |                                      |
 
 [Automatron Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack 'The Automatron Card Expansion Pack'
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
@@ -419,10 +525,14 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Accessories
 
-| Item                                 | Purchased | Digital | Downloaded | Notes                       |
-| ------------------------------------ | :-------: | ------- | :--------: | --------------------------- |
-| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog][Blog Objective Pack] |
-| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog][Blog Objective Pack] |
+![Objective Pack](https://i.shgcdn.com/59fd4a6c-f911-4ddc-a6b0-f191bab13440/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                                 | Purchased | Digital | Downloaded | Notes                                     |
+| ------------------------------------ | :-------: | ------- | :--------: | ----------------------------------------- |
+| [Objective Pack 1][Objective Pack 1] |    :x:    |         |            | [Blog][Blog How To Use Objective Markers] |
+| [Objective Pack 2][Objective Pack 2] |    :x:    |         |            | [Blog][Blog How To Use Objective Markers] |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
@@ -445,6 +555,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Scatter
 
+![Weapons Workbench](https://i.shgcdn.com/349d39aa-a2cb-497d-b0a3-89dd3b117883/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
 | Item                                               | Purchased | Digital                                             |     Downloaded     | Notes |
 | -------------------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
 | Chryslus Rocket                                    |           | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket]  | :heavy_check_mark: |       |
@@ -465,7 +579,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 | Item                                            |     Purchased      | Digital                                                                                                           |     Downloaded     | Notes                                      |
 | ----------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------ |
-| SCP-051-111: Showdown in Synthtown              |                    | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog][Blog Showdown in Synthtown]         |
+| SCP-051-111: Showdown in Synthtown              |                    | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf) | :heavy_check_mark: | [Blog][Blog Showdown In Synthtown]         |
 | [Teleporting Trouble][Institute Organised Play] | :heavy_check_mark: |                                                                                                                   |                    | Part of the `Institute Organised Play Kit` |
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
@@ -476,12 +590,12 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                             |     Purchased      | Digital                                                |     Downloaded     | Notes                           |
-| ------------------------------------------------ | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------------- |
-| [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                        |                    |                                 |
-| [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                        |                    |                                 |
-| [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                                 |
-| [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][Blog Into the Wasteland] |
+| Item                                             |     Purchased      | Digital                                                |     Downloaded     | Notes                         |
+| ------------------------------------------------ | :----------------: | ------------------------------------------------------ | :----------------: | ----------------------------- |
+| [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                        |                    |                               |
+| [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                        |                    |                               |
+| [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                               |
+| [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][FF Into The Wasteland] |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
@@ -490,6 +604,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 
 ### Minatures
+
+![Frank Horrigan](https://i.shgcdn.com/efc84897-0eed-4214-a7e6-d5315349cb84/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  |     Purchased      | Digital                                           |     Downloaded     | Notes     |
 | ------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------- |
@@ -512,10 +630,14 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Scatter
 
-| Item                                 | Purchased | Digital                                                 |     Downloaded     | Notes |
-| ------------------------------------ | :-------: | ------------------------------------------------------- | :----------------: | ----- |
-| [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         |       |
-| [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |       |
+![Crashed UFO](https://i.shgcdn.com/e72a29a1-0f14-42fb-a75d-1c99ea82555a/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                                 | Purchased | Digital                                                 |     Downloaded     | Notes                                                                 |
+| ------------------------------------ | :-------: | ------------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
+| [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-14th-may-2021) |
+| [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |                                                                       |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
@@ -954,9 +1076,9 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item        | Purchased | Digital                                      |     Downloaded     | Notes |
-| ----------- | :-------: | -------------------------------------------- | :----------------: | ----- |
-| AI Handbook |           | [Free <i class="fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: |       |
+| Item        | Purchased | Digital                                      |     Downloaded     | Notes               |
+| ----------- | :-------: | -------------------------------------------- | :----------------: | ------------------- |
+| AI Handbook |           | [Free <i class="fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: | [Blog][Dev Blog 12] |
 
 [AI Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
@@ -970,7 +1092,7 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 ##### Drumlin Diner
 
-Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2 Wasteland Locales].
+Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2].
 
 | Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -1042,11 +1164,11 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                                         |     Purchased      | Digital                                           |     Downloaded     | Notes |
-| -------------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | ----- |
-| [Extra Tabletop Dice Set][RPG Dice]          | :heavy_check_mark: |                                                   |                    |       |
-| [RPG (Expansion Book)][RPG Expansion]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG Expansion PDF] | :heavy_check_mark: |       |
-| [RPG - GM Screen and Booklet][RPG GM Screen] | :heavy_check_mark: |                                                   |                    |       |
+| Item                                         |     Purchased      | Digital                                           |     Downloaded     | Notes                      |
+| -------------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | -------------------------- |
+| [Extra Tabletop Dice Set][RPG Dice]          | :heavy_check_mark: |                                                   |                    |                            |
+| [RPG (Expansion Book)][RPG Expansion]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG Expansion PDF] | :heavy_check_mark: | [Blog][Blog RPG Spotlight] |
+| [RPG - GM Screen and Booklet][RPG GM Screen] | :heavy_check_mark: |                                                   |                    |                            |
 
 [RPG Dice]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG Expansion]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
@@ -1058,7 +1180,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                           | Purchased | Digital                                               |     Downloaded     | Notes                                                                  |
 | ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
 | Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: |                                                                        |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd]                                       |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd 1]                                     |
 | The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
 | The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
 
