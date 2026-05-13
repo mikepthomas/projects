@@ -41,9 +41,9 @@ Due to the abscence of a Buyer's Guide, I have created this page to try to under
 
 # Development
 
-The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
+The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news?page=30) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
 
-The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---starter-set) and [Wave 2](#wave-2---raiders).
+The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---starter-set), [Wave 2](#wave-2---raiders) and [Roleplaying Game](#fallout-wasteland-warfare-roleplaying-game).
 
 | Date       | Blog                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,6 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 | 25/06/2019 | [DEVELOPMENT BLOG #27: WAVE 2 DOCUMENT UPDATES][Dev Blog 27]                                                |
 | 02/07/2019 | [DEVELOPMENT BLOG #28: HE'S MORE MACHINE NOW THAN MAN][Dev Blog 28]                                         |
 
-[Development Blogs]: #
 [Dev Blog 1]: https://modiphius.net/blogs/news/movement-and-range
 [Dev Blog 2]: https://modiphius.net/blogs/news/you-are-special
 [Dev Blog 3]: https://modiphius.net/blogs/news/the-effect-dice
@@ -105,10 +104,18 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [Dev Blog 26]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
 [Dev Blog 27]: https://modiphius.net/blogs/news/wave-2-document-updates
 [Dev Blog 28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
-[RPG]: #
+[FWW RPG]: #
 [Blog RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new
 [Blog FWW Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game
 [Blog Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
+[2d20 RPG]: #
+[Blog Now With Icosahedrons]: https://modiphius.net/blogs/news/fallout-now-with-isocahedrons
+[Blog It Builds Character]: https://modiphius.net/blogs/news/fallout-2-it-builds-character
+[Blog Fighting Fit]: https://modiphius.net/blogs/news/fallout-3-helps-you-stay-fighting-fit
+[Blog Full of Action]: https://modiphius.net/blogs/news/fallout-4-full-of-action-points
+[Blog Out of the Vault]: https://modiphius.net/blogs/news/stepping-out-of-the-vault
+[Blog Nuclear Winter]: https://modiphius.net/blogs/news/did-you-wish-for-a-nuclear-winter
+[Blog RPG Factions]: https://modiphius.net/blogs/news/new-fallout-rpg-factions-beatniks-big-tops-traveling-casinos-and-sisters-of-mechanical-worship
 [Wave 2]: #
 [Blog Raiders Are Here]: https://modiphius.net/blogs/news/the-raiders-are-here
 [Wave 3]: #
@@ -130,11 +137,48 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [Wave 4]: #
 [Blog Into The Wasteland 1]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
 [Blog Into The Wasteland 2]: https://modiphius.net/blogs/news/into-the-wasteland-part-two
+[Blog Eyes On The Wasteland]: https://modiphius.net/blogs/news/eyes-on-the-wasteland
+[Blog What Makes The App Tick]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-the-companion-app
 [Wave 5]: #
 [Blog Mojave Expansion]: https://modiphius.net/blogs/news/ncr-casers-legion-lead-2020-expansions-for-fallout-wasteland-warfare
+[Blog New California Republic]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-mojave-wave-new-california-republic
+[Blog Caesars Legion]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-mojave-wave-caesars-legion
+[Wave 6]: #
+[Blog Community Interview 1]: https://modiphius.net/blogs/news/community-interview
+[Blog Community Interview 2]: https://modiphius.net/blogs/news/community-interview-1
+[Blog Terrain Competition]: https://modiphius.net/blogs/news/fallout-february-terrain-competition
+[Wave 7]: #
 [Fallout Friday]: #
-[FF Into The Wasteland]: https://modiphius.net/blogs/news/fallout-friday-and-into-the-wasteland
-[FF Undiscovered Vault]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
+[FF 16/10/20]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
+[FF 13/11/20]: https://modiphius.net/blogs/news/fallout-friday-and-into-the-wasteland
+[FF 20/11/20]: https://modiphius.net/blogs/news/falloutfriday-feedback
+[FF 15/12/20]: https://modiphius.net/blogs/news/fallout-friday-feedback
+[FF 14/01/21]: https://modiphius.net/blogs/news/fallout-friday-feedback-1
+[FF 12/03/21]: https://modiphius.net/blogs/news/fallout-friday
+[FF 16/04/21]: https://modiphius.net/blogs/news/fallout-friday-1
+[FF 14/05/21]: https://modiphius.net/blogs/news/fallout-friday-14th-may-2021
+[FF 11/06/21]: https://modiphius.net/blogs/news/fallout-friday-june-21
+[FF 16/07/21]: https://modiphius.net/blogs/news/fallout-friday-july-2021
+[FF 13/08/21]: https://modiphius.net/blogs/news/fallout-friday-august-21
+[FF 17/09/21]: https://modiphius.net/blogs/news/welcome-wastelanders-to-september-s-falloutfriday
+[FF 15/10/21]: https://modiphius.net/blogs/news/welcome-wastelanders-to-october-s-falloutfriday
+[FF 12/11/21]: https://modiphius.net/blogs/news/fallout-friday-nov-21
+[FF 10/12/21]: https://modiphius.net/blogs/news/fallout-friday-december-2021
+[FF 21/01/22]: https://modiphius.net/blogs/news/fallout-friday-january-2022
+[FF 11/02/22]: https://modiphius.net/blogs/news/fallout-friday-feb-2022
+[FF 11/03/22]: https://modiphius.net/blogs/news/fallout-friday-march-2022
+[FF 08/04/22]: https://modiphius.net/blogs/news/fallout-friday-april-2022
+[FF 13/05/22]: https://modiphius.net/blogs/news/fallout-friday-may-2022
+[FF 10/06/22]: https://modiphius.net/blogs/news/fallout-friday-june-22
+[FF 08/07/22]: https://modiphius.net/blogs/news/fallout-friday-july-2022
+[FF 12/08/22]: https://modiphius.net/blogs/news/fallout-friday-august-2022
+[FF 09/09/22]: https://modiphius.net/blogs/news/fallout-friday-september-2022
+[FF 14/10/22]: https://modiphius.net/blogs/news/fallout-friday-october-2022
+[FF 11/11/22]: https://modiphius.net/blogs/news/fallout-friday-november-11th
+[FF 16/12/22]: https://modiphius.net/blogs/news/fallout-friday-december-16th
+[FF 13/01/23]: https://modiphius.net/blogs/news/fallout-friday-january-13th
+[FF 10/02/23]: https://modiphius.net/blogs/news/fallout-friday-february-10th
+[FF 17/03/23]: https://modiphius.net/blogs/news/fallout-friday-march-17th
 
 # Fallout: Wasteland Warfare
 
@@ -209,8 +253,6 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                                 | Quantity | Material                                             | Time | Size  | Weight | Cost  | Printed | Notes |
 | ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Slabs & Stones 4][Slabs and Stones] | 5        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) | 5m   | 0.16m | 0.40g  | £0.01 |   :x:   |       |
-
-[Slabs and Stones]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-slabs-stones
 
 ### Accessories
 
@@ -361,10 +403,10 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Rules
 
-| Item                                   |     Purchased      | Digital                                                  |     Downloaded     | Notes |
-| -------------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----- |
-| Liberty Prime Expansion                |                    | [Free <i class="fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: |       |
-| [Raiders Card Deck][Raiders Card Deck] | :heavy_check_mark: |                                                          |                    |       |
+| Item                                   |     Purchased      | Digital                                                  |     Downloaded     | Notes               |
+| -------------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ------------------- |
+| Liberty Prime Expansion                |                    | [Free <i class="fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: | [Blog][FF 11/02/22] |
+| [Raiders Card Deck][Raiders Card Deck] | :heavy_check_mark: |                                                          |                    |                     |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Card Deck]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack 'Raiders Wave Expansion Card Pack'
@@ -480,7 +522,7 @@ Similar items available in the [Vault Tec Office Bundle](vault#vault-tech-office
 
 | Item                                          |     Purchased      | Digital                                                      |     Downloaded     | Notes                                    |
 | --------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------------------- |
-| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][FF Undiscovered Vault]            |
+| SCP-034-111: The Undiscovered Vault           |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][FF 16/10/20]                      |
 | SCP-050-111: The Beast of the Bottling Plant  |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [Blog][Dev Blog 27]                      |
 | [Raid the Crash Site][Raiders Organised Play] | :heavy_check_mark: |                                                              |                    | Part of the `Raiders Organised Play Kit` |
 
@@ -590,12 +632,12 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                             |     Purchased      | Digital                                                |     Downloaded     | Notes                         |
-| ------------------------------------------------ | :----------------: | ------------------------------------------------------ | :----------------: | ----------------------------- |
-| [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                        |                    |                               |
-| [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                        |                    |                               |
-| [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                               |
-| [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][FF Into The Wasteland] |
+| Item                                             |     Purchased      | Digital                                                |     Downloaded     | Notes               |
+| ------------------------------------------------ | :----------------: | ------------------------------------------------------ | :----------------: | ------------------- |
+| [Denizens Card Deck][Denizens Card Deck]         | :heavy_check_mark: |                                                        |                    |                     |
+| [Enclave Card Deck][Enclave Card Deck]           | :heavy_check_mark: |                                                        |                    |                     |
+| [Fundamentals Card Deck][Fundamentals Card Deck] | :heavy_check_mark: |                                                        |                    |                     |
+| [Into the Wasteland][Into the Wasteland]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][FF 13/11/20] |
 
 [Denizens Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack 'Denizens of the Wasteland Card Expansion Pack'
 [Enclave Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack 'Enclave Wave Card Expansion Pack'
@@ -634,10 +676,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                 | Purchased | Digital                                                 |     Downloaded     | Notes                                                                 |
-| ------------------------------------ | :-------: | ------------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
-| [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-14th-may-2021) |
-| [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |                                                                       |
+| Item                                 | Purchased | Digital                                                 |     Downloaded     | Notes               |
+| ------------------------------------ | :-------: | ------------------------------------------------------- | :----------------: | ------------------- |
+| [Crashed UFO][Crashed UFO]           |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [Blog][FF 14/05/21] |
+| [Robot Work Bench][Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |                     |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
@@ -650,9 +692,9 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | -------------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
 | AA02-2021: Automaton Assembly                |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Automatron_Assembly_v3_03120.pdf)           | :heavy_check_mark: |                                        |
 | SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf)             | :heavy_check_mark: | Scenario for `Zetan` and `Crashed UFO` |
-| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf) | :heavy_check_mark: |                                        |
-| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf) | :heavy_check_mark: |                                        |
-| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf) | :heavy_check_mark: |                                        |
+| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf) | :heavy_check_mark: | [Blog][FF 20/11/20]                    |
+| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf) | :heavy_check_mark: | [Blog][FF 15/12/20]                    |
+| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf) | :heavy_check_mark: | [Blog][FF 14/01/21]                    |
 
 #### Automaton Assembly
 
@@ -759,14 +801,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                            | Purchased | Digital                                                  |     Downloaded     | Notes                                                                  |
-| ------------------------------- | :-------: | -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment]        | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
-| Chems, Meds and Food            |           | [Buy <i class="fa-file-zipper"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-june-22)        |
-| Flatbed Truck                   |           | [Buy <i class="fa-file-zipper"/>][Flatbed Truck]         | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-may-2022)       |
-| The Pack: Animal Decor          |           | [Buy <i class="fa-file-zipper"/>][The Pack Animal Decor] |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-april-2022)     |
-| Toys and Bobbleheads            |           | [Buy <i class="fa-file-zipper"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-july-2022)      |
-| Wasteland Critters              |           | [Buy <i class="fa-file-zipper"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+| Item                            | Purchased | Digital                                                  |     Downloaded     | Notes               |
+| ------------------------------- | :-------: | -------------------------------------------------------- | :----------------: | ------------------- |
+| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment]        | :heavy_check_mark: | [Blog][FF 12/08/22] |
+| Chems, Meds and Food            |           | [Buy <i class="fa-file-zipper"/>][Chems Meds and Food]   | :heavy_check_mark: | [Blog][FF 10/06/22] |
+| Flatbed Truck                   |           | [Buy <i class="fa-file-zipper"/>][Flatbed Truck]         | :heavy_check_mark: | [Blog][FF 13/05/22] |
+| The Pack: Animal Decor          |           | [Buy <i class="fa-file-zipper"/>][The Pack Animal Decor] |        :x:         | [Blog][FF 08/04/22] |
+| Toys and Bobbleheads            |           | [Buy <i class="fa-file-zipper"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [Blog][FF 08/07/22] |
+| Wasteland Critters              |           | [Buy <i class="fa-file-zipper"/>][Wasteland Critters]    | :heavy_check_mark: | [Blog][FF 09/09/22] |
 
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
@@ -774,6 +816,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
 [Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
 [Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
+
+### Scenarios
+
+| Item                                        | Purchased | Digital                                                                                                                             |     Downloaded     | Notes               |
+| ------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------- |
+| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: | [Blog][FF 21/01/22] |
 
 ## Wave 7 - Forged in the Fire Expansion
 
@@ -805,10 +853,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                  | Purchased | Digital                                                  |     Downloaded     | Notes                                                                |
-| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | -------------------------------------------------------------------- |
-| Red Rocket Drive Thru |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Drive Thru] | :heavy_check_mark: |                                                                      |
-| The Deep              |           | [Buy <i class="fa-file-zipper"/>][The Deep]              |        :x:         | [Blog](https://modiphius.net/blogs/news/fallout-friday-january-13th) |
+| Item                  | Purchased | Digital                                                  |     Downloaded     | Notes               |
+| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | ------------------- |
+| Red Rocket Drive Thru |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Drive Thru] | :heavy_check_mark: | [Blog][FF 11/11/22] |
+| The Deep              |           | [Buy <i class="fa-file-zipper"/>][The Deep]              |        :x:         | [Blog][FF 13/01/23] |
 
 [Red Rocket Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
 [The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
@@ -817,14 +865,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
-| Item                 | Purchased | Digital                                                  |     Downloaded     | Notes |
-| -------------------- | :-------: | -------------------------------------------------------- | :----------------: | ----- |
-| Downtown Debris      |           | [Buy <i class="fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: |       |
-| Logs, Stumps & Roots |           | [Buy <i class="fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: |       |
-| Mushrooms & Fungi    |           | [Buy <i class="fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: |       |
-| Plants & Crops       |           | [Buy <i class="fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: |       |
-| Skulls & Bones       |           | [Buy <i class="fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: |       |
-| Slabs & Stones       |           | [Buy <i class="fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: |       |
+| Item                 | Purchased | Digital                                                  |     Downloaded     | Notes               |
+| -------------------- | :-------: | -------------------------------------------------------- | :----------------: | ------------------- |
+| Downtown Debris      |           | [Buy <i class="fa-file-zipper"/>][Downtown Debris]       | :heavy_check_mark: | [Blog][FF 10/02/23] |
+| Logs, Stumps & Roots |           | [Buy <i class="fa-file-zipper"/>][Logs Stumps and Roots] | :heavy_check_mark: | [Blog][FF 10/02/23] |
+| Mushrooms & Fungi    |           | [Buy <i class="fa-file-zipper"/>][Mushrooms and Fungi]   | :heavy_check_mark: | [Blog][FF 10/02/23] |
+| Plants & Crops       |           | [Buy <i class="fa-file-zipper"/>][Plants and Crops]      | :heavy_check_mark: | [Blog][FF 10/02/23] |
+| Skulls & Bones       |           | [Buy <i class="fa-file-zipper"/>][Skulls and Bones]      | :heavy_check_mark: | [Blog][FF 10/02/23] |
+| Slabs & Stones       |           | [Buy <i class="fa-file-zipper"/>][Slabs and Stones]      | :heavy_check_mark: | [Blog][FF 10/02/23] |
 
 [Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
 [Logs Stumps and Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
@@ -835,21 +883,20 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 #### Statues
 
-| Item             | Purchased | Digital                                             | Downloaded | Notes                                                                 |
-| ---------------- | :-------: | --------------------------------------------------- | :--------: | --------------------------------------------------------------------- |
-| Art Deco Statues |           | [Buy <i class="fa-file-zipper"/>][Art Deco Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-16th) |
-| Scorched Statues |           | [Buy <i class="fa-file-zipper"/>][Scorched Statues] |    :x:     | [Blog](https://modiphius.net/blogs/news/fallout-friday-october-2022)  |
+| Item             | Purchased | Digital                                             | Downloaded | Notes               |
+| ---------------- | :-------: | --------------------------------------------------- | :--------: | ------------------- |
+| Art Deco Statues |           | [Buy <i class="fa-file-zipper"/>][Art Deco Statues] |    :x:     | [Blog][FF 16/12/22] |
+| Scorched Statues |           | [Buy <i class="fa-file-zipper"/>][Scorched Statues] |    :x:     | [Blog][FF 14/10/22] |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
 
 ### Scenarios
 
-| Item                                        | Purchased | Digital                                                                                                                             |     Downloaded     | Notes                     |
-| ------------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ------------------------- |
-| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf) | :heavy_check_mark: |                           |
-| Dine 'n' Death                              |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/93abbdb9d3)                                                                     | :heavy_check_mark: | Scenario by Samuel Steele |
-| The Adventures of Grognak the Barbarian     |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/6364ade206)                                                                     | :heavy_check_mark: | Scenario by Samuel Steele |
+| Item                                    | Purchased | Digital                                                         |     Downloaded     | Notes                     |
+| --------------------------------------- | :-------: | --------------------------------------------------------------- | :----------------: | ------------------------- |
+| Dine 'n' Death                          |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/93abbdb9d3) | :heavy_check_mark: | Scenario by Samuel Steele |
+| The Adventures of Grognak the Barbarian |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/6364ade206) | :heavy_check_mark: | Scenario by Samuel Steele |
 
 ## Wave 8 - Capital Expansion
 
@@ -1177,12 +1224,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                               |     Downloaded     | Notes                                                                  |
-| ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------------------------------------------- |
-| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: |                                                                        |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd 1]                                     |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022)    |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-september-2022) |
+| Item                           | Purchased | Digital                                               |     Downloaded     | Notes                              |
+| ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------------- |
+| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: |                                    |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][Blog Unexpected Shepherd 1] |
+| The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [Blog][FF 12/08/22]                |
+| The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [Blog][FF 09/09/22]                |
 
 [Machine Frequency]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency
 [Unexpected Shepherd 1]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd
@@ -1283,10 +1330,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Quest Book
 
-| Item                             | Purchased | Digital                                            |     Downloaded     | Notes |
-| -------------------------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
-| [Royal Flush][Royal Flush]       |    :x:    | [Buy <i class="fa-file-pdf"/>][Royal Flush PDF]    |        :x:         |       |
-| [Winter of Atom][Winter of Atom] |    :x:    | [Buy <i class="fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: |       |
+| Item                             | Purchased | Digital                                            |     Downloaded     | Notes                       |
+| -------------------------------- | :-------: | -------------------------------------------------- | :----------------: | --------------------------- |
+| [Royal Flush][Royal Flush]       |    :x:    | [Buy <i class="fa-file-pdf"/>][Royal Flush PDF]    |        :x:         |                             |
+| [Winter of Atom][Winter of Atom] |    :x:    | [Buy <i class="fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: | [Blog][Blog Nuclear Winter] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
 [Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
