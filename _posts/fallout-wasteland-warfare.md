@@ -104,10 +104,6 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [Dev Blog 26]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
 [Dev Blog 27]: https://modiphius.net/blogs/news/wave-2-document-updates
 [Dev Blog 28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
-[FWW RPG]: #
-[FWW RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new
-[FWW RPG Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game
-[FWW RPG Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
 [Wave 2]: #
 [Blog Raiders Are Here]: https://modiphius.net/blogs/news/the-raiders-are-here
 [Wave 3]: #
@@ -1300,15 +1296,26 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+## Blogs
+
+| Date       | Blog                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| 01/05/2019 | [Fallout: Wasteland Warfare RPG - Spotlight on what's new][FWW RPG Spotlight]             |
+| 15/08/2019 | [Fallout: Wasteland Warfare - Synergy between the RPG & miniatures game][FWW RPG Synergy] |
+
+[FWW RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new
+[FWW RPG Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game
+[FWW RPG Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
+
 ## Items
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                                         |     Purchased      | Digital                                           |     Downloaded     | Notes                     |
-| -------------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | ------------------------- |
-| [Extra Tabletop Dice Set][RPG Dice]          | :heavy_check_mark: |                                                   |                    |                           |
-| [RPG (Expansion Book)][RPG Expansion]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG Expansion PDF] | :heavy_check_mark: | [Blog][FWW RPG Spotlight] |
-| [RPG - GM Screen and Booklet][RPG GM Screen] | :heavy_check_mark: |                                                   |                    |                           |
+| Item                                         |     Purchased      | Digital                                           |     Downloaded     | Notes |
+| -------------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | ----- |
+| [Extra Tabletop Dice Set][RPG Dice]          | :heavy_check_mark: |                                                   |                    |       |
+| [RPG (Expansion Book)][RPG Expansion]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG Expansion PDF] | :heavy_check_mark: |       |
+| [RPG - GM Screen and Booklet][RPG GM Screen] | :heavy_check_mark: |                                                   |                    |       |
 
 [RPG Dice]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG Expansion]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
