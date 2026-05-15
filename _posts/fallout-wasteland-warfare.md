@@ -800,13 +800,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                   | Purchased | Digital                                                 |     Downloaded     | Released | Notes                     |
-| ---------------------- | :-------: | ------------------------------------------------------- | :----------------: | -------- | ------------------------- |
-| Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: |
-| Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: |
-| Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: |
-| No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: |
-| Big Iron               |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |          | Scenario by Samuel Steele |
+| Item                               | Purchased | Digital                                                 |     Downloaded     | Released | Notes                     |
+| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | -------- | ------------------------- |
+| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: |
+| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: |
+| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: |
+| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: |
+| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |          | Scenario by Samuel Steele |
 
 [Bear Force One]: https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf
 [Black Mountain Beacons]: https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf
@@ -1202,7 +1202,7 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 ##### Drumlin Diner
 
-Also one of the locations in the [Wasteland Locales Map Pack][Map Pack 2].
+Also one of the locations in [Map Pack 2: Wasteland Locales].
 
 | Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
