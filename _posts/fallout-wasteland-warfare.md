@@ -477,16 +477,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                 |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------- |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [Press Release][PR 06/08/19]          |
-| Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]  |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [Press Release: Raiders][PR 12/08/19] |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                       |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------------- |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [Press Release: Liberty Prime][PR 06/08/19] |
+| Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]        |
+| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [Press Release: Raiders][PR 12/08/19]       |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    |
 | [Robots: Sentry Bot]                  |        :x:         |                                                       |                    |
-| Stealth Coursers                      |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]  |
+| Stealth Coursers                      |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]        |
 | [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | Promo                                 |
+| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | Promo                                       |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
