@@ -130,9 +130,9 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [Blog: How To Automatron]: https://modiphius.net/blogs/news/how-to-automatron
 [Blog: Caught In The Crossfire]: https://modiphius.net/blogs/news/caught-in-the-crossfire
 [Blog Make Your Own Robot 1]: https://modiphius.net/blogs/news/so-who-would-win-in-a-fight-between-part-1-promo-figures
+[Wave 4]: #
 [Blog App Launch]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-app-launches
 [Blog App Phone]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-now-on-your-phone
-[Wave 4]: #
 [Blog Into The Wasteland 1]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
 [Blog Into The Wasteland 2]: https://modiphius.net/blogs/news/into-the-wasteland-part-two
 [Blog Eyes On The Wasteland]: https://modiphius.net/blogs/news/eyes-on-the-wasteland
