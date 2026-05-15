@@ -165,6 +165,12 @@ keywords:
 | Nuclear Symbol  | Warpaints Fanatic: Matt Black    |                                      | :heavy_check_mark: |
 | Armor           | AK Interactive: Rust Streaks     | Warpaints: Dry Rust                  | :heavy_check_mark: |
 
+# Institute
+
+[Institute Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ab6c2fee-5b89-4d9a-a2a2-9075864fd1ec/BMCE-Institute-v-1-1.pdf)
+
+There are examples of How to paint Institute Synths and Konrad Kellogg in the [Blog on the Modiphius website](https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog).
+
 # Nuka-World Gangs Raiders
 
 [Nuka-World Gangs Raiders Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf)
@@ -233,6 +239,8 @@ keywords:
 | [Raider](#raider) | 3        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
 | Scavver           | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
 | Veteran Raider    | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Card Deck][Wave 2 Rules] |       |
+
+There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
 ## Raider
 
