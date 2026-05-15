@@ -216,6 +216,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [FF 27/03/26]: https://modiphius.net/blogs/news/fallout-friday-march-27
 [FF 24/04/26]: https://modiphius.net/blogs/news/fallout-friday-april-24
 [Press Releases (Archived)]: #
+[PR 01/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-fallout-wasteland-warfare-rpg-launches-in-print
 [PR 06/08/19]: https://modiphius.net/blogs/press-releases-archived/liberty-prime-stomps-in-for-a-special-order
 [PR 12/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-modiphius-launches-fallout-raiders-packs-plus-nuka-cola-girl-zetan-unleashed
 [Press Releases]: #
@@ -1329,11 +1330,11 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released | Notes |
-| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | -------- | ----- |
-| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | Wave 1   |
-| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | Wave 2   |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2   |
+| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released                   | Notes |
+| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | -------------------------- | ----- |
+| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | Wave 1                     |
+| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19] |
+| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2                     |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
