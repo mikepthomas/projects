@@ -1136,11 +1136,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
-| Item                        |     Purchased      | Digital | Downloaded | Notes |
-| --------------------------- | :----------------: | ------- | :--------: | ----- |
-| [Raiders: Big Fish]         |        :x:         |         |            |
-| [Raiders: Trappers]         |        :x:         |         |            |
-| [Survivors: Old Longfellow] | :heavy_check_mark: |         |            | Promo |
+| Item                        |     Purchased      | Digital | Downloaded | Notes                |
+| --------------------------- | :----------------: | ------- | :--------: | -------------------- |
+| [Raiders: Big Fish]         |        :x:         |         |            | [Blog][FF 20/02/26]  |
+| [Raiders: Trappers]         |        :x:         |         |            | [Blog][FF 20/02/26]  |
+| [Survivors: Old Longfellow] | :heavy_check_mark: |         |            | [Promo][FF 20/02/26] |
 
 [Raiders: Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish
 [Raiders: Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers
@@ -1552,7 +1552,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | ----------------------------------- | :----------------: | ---------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
 | [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    |                              | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
 | ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
-| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: |                              | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
+| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025][FF 21/03/25]    | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
 | ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Operators Dice Set]                                               |
 | ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: |                              | [Dice Set][The Pack Dice Set]                                                    |
 | [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Disciples Dice Set]                                               |
@@ -1594,14 +1594,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Items
 
-| Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Released                     | Notes                           |
+| Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Pre-Release                  | Notes                           |
 | -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ---------------------------- | ------------------------------- |
 | [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference <i class="fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: | [February 2026][FF 20/02/26] |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    |                              | Promo                           |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | Promo                           |
 | ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][BoS Dice Set]        |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    |                              | [Dice Set][Institute: Dice Set] |
-| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    |                              | [Dice Set][Minutemen: Dice Set] |
-| [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    |                              | [Dice Set][Railroad: Dice Set]  |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Institute: Dice Set] |
+| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Minutemen: Dice Set] |
+| [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Railroad: Dice Set]  |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
@@ -1666,10 +1666,10 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Items
 
-| Item                                | Purchased | Digital | Downloaded | Notes               |
-| ----------------------------------- | :-------: | ------- | :--------: | ------------------- |
-| Into the Wasteland Solo Starter Set |    :x:    |         |            | [Blog][FF 27/03/26] |
-| Warband Starter Set                 |    :x:    |         |            | [Blog][FF 27/03/26] |
+| Item                                | Purchased | Digital | Downloaded | Pre-Release               | Notes |
+| ----------------------------------- | :-------: | ------- | :--------: | ------------------------- | ----- |
+| Into the Wasteland Solo Starter Set |    :x:    |         |            | [March 2026][FF 27/03/26] |
+| Warband Starter Set                 |    :x:    |         |            | [March 2026][FF 27/03/26] |
 
 [Filament]: #
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
