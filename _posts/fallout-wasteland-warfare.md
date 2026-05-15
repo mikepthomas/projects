@@ -216,6 +216,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [FF 27/03/26]: https://modiphius.net/blogs/news/fallout-friday-march-27
 [FF 24/04/26]: https://modiphius.net/blogs/news/fallout-friday-april-24
 [Press Releases (Archived)]: #
+[PR 06/08/19]: https://modiphius.net/blogs/press-releases-archived/liberty-prime-stomps-in-for-a-special-order
 [PR 12/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-modiphius-launches-fallout-raiders-packs-plus-nuka-cola-girl-zetan-unleashed
 [Press Releases]: #
 [PR 20/03/24]: https://modiphius.net/blogs/press-releases/modiphius-new-fallout-miniatures-game-available-to-pre-order
@@ -477,7 +478,7 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 | Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                 |
 | ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------- |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [Press Release][PR 06/08/19]          |
 | Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]  |
 | [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [Press Release: Raiders][PR 12/08/19] |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    |
@@ -1184,16 +1185,16 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item        | Purchased | Digital                                      |     Downloaded     | Notes                        |
-| ----------- | :-------: | -------------------------------------------- | :----------------: | ---------------------------- |
-| AI Handbook |           | [Free <i class="fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: | [Blog][DEVELOPMENT BLOG #10] |
+| Item        | Purchased | Digital                                      |     Downloaded     | Released                           | Notes |
+| ----------- | :-------: | -------------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| AI Handbook |           | [Free <i class="fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: | [March 2018][DEVELOPMENT BLOG #10] |
 
 [AI Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
-| Item                            | Purchased | Digital                                                      |     Downloaded     | Notes |
-| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ----- |
+| Item                            | Purchased | Digital                                                      |     Downloaded     | Released | Notes |
+| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | -------- | ----- |
 | The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
@@ -1235,9 +1236,9 @@ Also one of the locations in [Map Pack 2: Wasteland Locales].
 
 The Battle Mode Rulebook gives more rules and advice for playing PvP style games.
 
-| Item                 | Purchased | Digital                                               |     Downloaded     | Notes                 |
-| -------------------- | :-------: | ----------------------------------------------------- | :----------------: | --------------------- |
-| Battle Mode Rulebook |           | [Free <i class="fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: | Made by the Community |
+| Item                 | Purchased | Digital                                               |     Downloaded     | Released | Notes                 |
+| -------------------- | :-------: | ----------------------------------------------------- | :----------------: | -------- | --------------------- |
+| Battle Mode Rulebook |           | [Free <i class="fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: |          | Made by the Community |
 
 [Battle Mode Rulebook]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
 
@@ -1245,8 +1246,8 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
-| Item           | Purchased | Digital                                         |     Downloaded     | Notes |
-| -------------- | :-------: | ----------------------------------------------- | :----------------: | ----- |
+| Item           | Purchased | Digital                                         |     Downloaded     | Released | Notes |
+| -------------- | :-------: | ----------------------------------------------- | :----------------: | -------- | ----- |
 | Co-Op Handbook |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook] | :heavy_check_mark: |
 
 [Co-Op Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
