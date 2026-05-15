@@ -43,6 +43,8 @@ Due to the abscence of a Buyer's Guide, I have created this page to try to under
 
 The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news?page=30) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
 
+Alternatively check out the [old version on the Internet Archive](https://web.archive.org/web/20210916215739/https://www.modiphius.com/development-blog.html).
+
 The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---starter-set), [Wave 2](#wave-2---raiders) and [Roleplaying Game](#fallout-wasteland-warfare-roleplaying-game).
 
 | Date       | Blog                                                                                           |
@@ -105,7 +107,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [DEVELOPMENT BLOG #27]: https://modiphius.net/blogs/news/wave-2-document-updates
 [DEVELOPMENT BLOG #28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
 [Wave 2]: #
-[Blog: The Raiders are here!]: https://modiphius.net/blogs/news/the-raiders-are-here
+[Blog: The Raiders are here!]: https://modiphius.net/blogs/news/the-raiders-are-here 'Same content as DEVELOPMENT BLOG #25'
 [Wave 3]: #
 [Blog How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
 [Blog How To Paint Institute]: https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog
@@ -205,6 +207,17 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [FF 20/02/26]: https://modiphius.net/blogs/news/fallout-friday-february-20th
 [FF 27/03/26]: https://modiphius.net/blogs/news/fallout-friday-march-27
 [FF 24/04/26]: https://modiphius.net/blogs/news/fallout-friday-april-24
+[Press Releases (Archived)]: #
+[PR 12/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-modiphius-launches-fallout-raiders-packs-plus-nuka-cola-girl-zetan-unleashed
+[Press Releases]: #
+[PR 20/03/24]: https://modiphius.net/blogs/press-releases/modiphius-new-fallout-miniatures-game-available-to-pre-order
+[PR 12/02/25]: https://modiphius.net/blogs/press-releases/more-titles-coming-to-the-fallout-tabletop-rpg
+[PR 28/02/25]: https://modiphius.net/blogs/press-releases/new-core-rulebook-for-fallout-factions-now-available-for-pre-order
+[PR 02/06/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-a-second-edition-of-fallout-wasteland-warfare
+[PR 01/10/25]: https://modiphius.net/blogs/press-releases/fallout-the-roleplaying-game-royal-flush-available-for-pre-order
+[PR 02/10/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-second-fallout-factions-starter-set
+[PR 09/02/26]: https://modiphius.net/blogs/press-releases/solo-fallout-rpg-wasteland-wanderer-now-available-for-pre-order
+[PR 04/03/26]: https://modiphius.net/blogs/press-releases/modiphius-reveals-products-for-second-edition-of-fallout-wasteland-warfare
 
 # Fallout: Wasteland Warfare
 
@@ -227,7 +240,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | ┝ Getting Acclimated     | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
 | ┝ Rules of Play          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
 | ┝ Campaign Book          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
-| ┕ [Zetan]                | :heavy_check_mark: |                                                     |                    | Promo                                                          |
+| ┕ [Zetan]                | :heavy_check_mark: |                                                     |                    | [Promo][PR 12/08/19]                                           |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
@@ -347,7 +360,7 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | Item                                   |     Purchased      | Digital | Downloaded | Notes                                                             |
 | -------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------- |
 | [Brotherhood of Steel: Core Box]       |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set]            |
-| [Nuka Cola Girl]                       | :heavy_check_mark: |         |            | Promo                                                             |
+| [Nuka Cola Girl]                       | :heavy_check_mark: |         |            | [Promo][PR 12/08/19]                                              |
 | [Super Mutants: Behemoth]              |        :x:         |         |            |
 | [Super Mutants: Core Box]              |        :x:         |         |            |
 | [Survivors: Boston Companions]         | :heavy_check_mark: |         |            |
@@ -454,16 +467,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------ |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                 |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------- |
 | [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: |
-| Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26] |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    |
+| Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]  |
+| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [Press Release: Raiders][PR 12/08/19] |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    |
 | [Robots: Sentry Bot]                  |        :x:         |                                                       |                    |
-| Stealth Coursers                      |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26] |
+| Stealth Coursers                      |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]  |
 | [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | Promo                                |
+| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | Promo                                 |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
@@ -781,10 +794,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 | Item                   | Purchased | Digital                                                 |     Downloaded     | Released | Notes                     |
 | ---------------------- | :-------: | ------------------------------------------------------- | :----------------: | -------- | ------------------------- |
-| Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: |          |
-| Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: |          |
-| Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: |          |
-| No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: |          |
+| Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: |
+| Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: |
+| Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: |
+| No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: |
 | Big Iron               |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |          | Scenario by Samuel Steele |
 
 [Bear Force One]: https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf
@@ -967,8 +980,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 | Item                      | Purchased | Digital                                                      | Downloaded | Released                 | Notes |
 | ------------------------- | :-------: | ------------------------------------------------------------ | :--------: | ------------------------ | ----- |
-| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |                          |
-| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |                          |
+| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |
+| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |
 | Metal Dome                |           | [Buy <i class="fa-file-zipper"/>][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
@@ -983,10 +996,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                              |     Purchased      | Digital                                                           |     Downloaded     | Notes               |
-| --------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | ------------------- |
+| Item                              |     Purchased      | Digital                                                           |     Downloaded     | Released                    | Notes |
+| --------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | --------------------------- | ----- |
 | Astoundingly Awesome Tales Vol. 2 |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales Vol. 2] |        :x:         |
-| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [Blog][FF 20/10/23] |
+| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023][FF 20/10/23] |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
 [Nuka-World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
@@ -994,12 +1007,12 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
-| Item                          |     Purchased      | Digital | Downloaded | Notes               |
-| ----------------------------- | :----------------: | ------- | :--------: | ------------------- |
-| [Raiders: Disciples Leaders]  |        :x:         |         |            | [Blog][FF 20/10/23] |
-| [Raiders: Operators Bosses]   |        :x:         |         |            | [Blog][FF 20/10/23] |
-| [Raiders: The Pack Top Dogs]  |        :x:         |         |            | [Blog][FF 20/10/23] |
-| [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            | Promo               |
+| Item                          |     Purchased      | Digital | Downloaded | Released                    | Notes |
+| ----------------------------- | :----------------: | ------- | :--------: | --------------------------- | ----- |
+| [Raiders: Disciples Leaders]  |        :x:         |         |            | [October 2023][FF 20/10/23] |
+| [Raiders: Operators Bosses]   |        :x:         |         |            | [October 2023][FF 20/10/23] |
+| [Raiders: The Pack Top Dogs]  |        :x:         |         |            | [October 2023][FF 20/10/23] |
+| [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            |                             | Promo |
 | [Unaligned: X-01 Power Armor] |        :x:         |         |            |
 
 [Raiders: Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
@@ -1010,11 +1023,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item            | Purchased | Digital                                            |     Downloaded     | Notes                                              |
-| --------------- | :-------: | -------------------------------------------------- | :----------------: | -------------------------------------------------- |
-| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
-| Galactic Zone   |           | [Buy <i class="fa-file-zipper"/>][Galactic Zone]   | :heavy_check_mark: | [Rides for Nuka-World](nuka-world#galactic-zone)   |
-| Kiddie Kingdom  |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom]  | :heavy_check_mark: | [Rides for Nuka-World](nuka-world#kiddie-kingdom)  |
+| Item            | Purchased | Digital                                            |     Downloaded     | Released | Notes                                              |
+| --------------- | :-------: | -------------------------------------------------- | :----------------: | -------- | -------------------------------------------------- |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |          | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
+| Galactic Zone   |           | [Buy <i class="fa-file-zipper"/>][Galactic Zone]   | :heavy_check_mark: |          | [Rides for Nuka-World](nuka-world#galactic-zone)   |
+| Kiddie Kingdom  |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom]  | :heavy_check_mark: |          | [Rides for Nuka-World](nuka-world#kiddie-kingdom)  |
 
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
@@ -1022,11 +1035,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scenarios
 
-| Item                       | Purchased | Digital                                                   |     Downloaded     | Notes               |
-| -------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ------------------- |
+| Item                       | Purchased | Digital                                                   |     Downloaded     | Released                     | Notes |
+| -------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
 | Error! System Malfunction  |           | [Free <i class="fa-file-pdf"/>][Error System Malfunction] | :heavy_check_mark: |
 | Oh, a Hunting We Shall Go! |           | [Free <i class="fa-file-pdf"/>][Hunting We Shall Go]      | :heavy_check_mark: |
-| Cappy in a Haystack        |           | [Free <i class="fa-file-pdf"/>][Cappy in a Haystack]      | :heavy_check_mark: | [Blog][FF 17/11/23] |
+| Cappy in a Haystack        |           | [Free <i class="fa-file-pdf"/>][Cappy in a Haystack]      | :heavy_check_mark: | [November 2023][FF 17/11/23] |
 
 [Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
 [Hunting We Shall Go]: https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf
@@ -1137,18 +1150,18 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                           | Purchased | Digital                                             |     Downloaded     | Notes |
-| ------------------------------ | :-------: | --------------------------------------------------- | :----------------: | ----- |
-| Hollywood Heroes & Icons Rules |           | [Free <i class="fa-file-zipper"/>][Amazon TV Rules] | :heavy_check_mark: |
+| Item                           | Purchased | Digital                                             |     Downloaded     | Released                  | Notes |
+| ------------------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------- | ----- |
+| Hollywood Heroes & Icons Rules |           | [Free <i class="fa-file-zipper"/>][Amazon TV Rules] | :heavy_check_mark: | [March 2024][FF 22/03/24] |
 
 [Amazon TV Rules]: https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2
 
 ### Minatures
 
-| Item               |     Purchased      | Digital                                                                    |     Downloaded     | Notes                                  |
-| ------------------ | :----------------: | -------------------------------------------------------------------------- | :----------------: | -------------------------------------- |
-| [Hollywood Heroes] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Icons]  | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [Blog][FF 21/11/25]                    |
+| Item               |     Purchased      | Digital                                                                    |     Downloaded     | Released                     | Notes                                  |
+| ------------------ | :----------------: | -------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
+| [Hollywood Heroes] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024][FF 22/03/24]    | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Icons]  | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025][FF 21/11/25] |
 
 [Hollywood Heroes]: https://modiphius.net/products/fallout-the-series-miniatures-set
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
@@ -1232,10 +1245,10 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ## Vault-Tec Simulator
 
-| Item                | Purchased | Digital                                                 |     Downloaded     | Notes                                                            |
-| ------------------- | :-------: | ------------------------------------------------------- | :----------------: | ---------------------------------------------------------------- |
-| Vault-Tec Profile   |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Profile]      | :heavy_check_mark: | [Form Fillable <i class="fa-file-pdf"/>][Vault-Tec Profile Form] |
-| Vault-Tec Simulator |           | [Free <i class="fa-file-zipper"/>][Vault-Tec Simulator] | :heavy_check_mark: | [Blog: Vault-Tec Simulator]                                      |
+| Item                | Purchased | Digital                                                 |     Downloaded     | Released                | Notes                                                            |
+| ------------------- | :-------: | ------------------------------------------------------- | :----------------: | ----------------------- | ---------------------------------------------------------------- |
+| Vault-Tec Profile   |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Profile]      | :heavy_check_mark: | [May 2024][FF 24/05/24] | [Form Fillable <i class="fa-file-pdf"/>][Vault-Tec Profile Form] |
+| Vault-Tec Simulator |           | [Free <i class="fa-file-zipper"/>][Vault-Tec Simulator] | :heavy_check_mark: | [May 2024][FF 24/05/24] | [Blog: Vault-Tec Simulator]                                      |
 
 [Blog: Vault-Tec Simulator]: https://modiphius.net/blogs/news/vault-tec-simulator
 [Vault-Tec Profile]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf
@@ -1299,19 +1312,19 @@ This section was started as an excersise to understand how many Card Sleeves I w
 | 01/05/2019 | [Fallout: Wasteland Warfare RPG - Spotlight on what's new][FWW RPG Spotlight]             |
 | 15/08/2019 | [Fallout: Wasteland Warfare - Synergy between the RPG & miniatures game][FWW RPG Synergy] |
 
-[FWW RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new
-[FWW RPG Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game
+[FWW RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new 'Same content as DEVELOPMENT BLOG #22'
+[FWW RPG Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game 'Same content as DEVELOPMENT BLOG #23'
 [FWW RPG Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
 
 ## Items
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Notes |
-| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----- |
-| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    |
-| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    |
+| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released | Notes |
+| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | -------- | ----- |
+| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | Wave 1   |
+| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | Wave 2   |
+| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2   |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
@@ -1320,12 +1333,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                               |     Downloaded     | Notes                                 |
-| ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ------------------------------------- |
-| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [Blog][FWW RPG Unexpected Shepherd 1] |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [Blog][FF 12/08/22]                   |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [Blog][FF 09/09/22]                   |
+| Item                           | Purchased | Digital                                               |     Downloaded     | Released                                        | Notes |
+| ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ----------------------------------------------- | ----- |
+| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: | Wave 4                                          |
+| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
+| The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
+| The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
 
 [Machine Frequency]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency
 [Unexpected Shepherd 1]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd
@@ -1361,16 +1374,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Items
 
-| Item                      |     Purchased      | Digital                                                  |     Downloaded     | Notes                                                              |
-| ------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ------------------------------------------------------------------ |
+| Item                      |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                              |
+| ------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
 | [Core Rulebook]           | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]        | :heavy_check_mark: |
 | [Gamemaster's Toolkit]    |        :x:         | [Buy <i class="fa-file-pdf"/>][Gamemaster's Toolkit PDF] | :heavy_check_mark: |
 | [GM Screen + Booklet]     |        :x:         | [Buy <i class="fa-file-pdf"/>][GM Screen PDF]            | :heavy_check_mark: |
-| [New Vegas Setting Guide] |        :x:         |                                                          |                    | [Blog][FF 24/04/26]                                                |
-| [Perk Cards 1]            | :heavy_check_mark: |                                                          |                    |
-| [Perk Cards 2]            | :heavy_check_mark: |                                                          |                    | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
+| [New Vegas Setting Guide] |        :x:         |                                                          |                    | [April 2026][FF 24/04/26]          |
+| [Perk Cards 1]            | :heavy_check_mark: |                                                          |                    | [May 2022][FF 13/05/22]            |
+| [Perk Cards 2]            | :heavy_check_mark: |                                                          |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
 | Quickstart Guide          |                    | [Free <i class="fa-file-pdf"/>][Quickstart Guide]        | :heavy_check_mark: |
-| [Starter Set]             | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Starter Set PDF]          | :heavy_check_mark: | [Blog][2d20 Out of the Vault]                                      |
+| [Starter Set]             | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Starter Set PDF]          | :heavy_check_mark: | [June 2022][2d20 Out of the Vault] |
 
 [Core Rulebook]: https://modiphius.net/products/falloutrpg_core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/falloutrpg_corerulebook-pdf
@@ -1387,13 +1400,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Astoundingly Awesome Tales
 
-| Item                                                                       |     Purchased      | Digital                                                      |     Downloaded     | Notes                                    |
-| -------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------------------- |
+| Item                                                                       |     Purchased      | Digital                                                      |     Downloaded     | Released                     | Notes                                    |
+| -------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------- | ---------------------------------------- |
 | [Issue No. 1 - Orange Coloured Sky][Astoundingly Awesome Tales 1-5]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 1] | :heavy_check_mark: |
 | [Issue No. 2 - Fully Operational][Astoundingly Awesome Tales 1-5]          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 2] | :heavy_check_mark: |
-| [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 3] | :heavy_check_mark: | [Blog][FF 17/11/23]                      |
+| [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 3] | :heavy_check_mark: | [November 2023][FF 17/11/23] |
 | [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 4] | :heavy_check_mark: |
-| [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                                              |                    | Only available as bonus in physical book |
+| [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                                              |                    |                              | Only available as bonus in physical book |
 | Issue No. 6 - Into the Abyss                                               |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 6] | :heavy_check_mark: |
 
 [Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
@@ -1405,10 +1418,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Guide Book
 
-| Item               | Purchased | Digital                                              |     Downloaded     | Notes               |
-| ------------------ | :-------: | ---------------------------------------------------- | :----------------: | ------------------- |
-| [Settler's Guide]  |    :x:    | [Buy <i class="fa-file-pdf"/>][Settler's Guide PDF]  | :heavy_check_mark: | [Blog][FF 20/10/23] |
-| [Wanderer's Guide] |    :x:    | [Buy <i class="fa-file-pdf"/>][Wanderer's Guide PDF] | :heavy_check_mark: | [Blog][FF 16/02/24] |
+| Item               | Purchased | Digital                                              |     Downloaded     | Released                     | Notes |
+| ------------------ | :-------: | ---------------------------------------------------- | :----------------: | ---------------------------- | ----- |
+| [Settler's Guide]  |    :x:    | [Buy <i class="fa-file-pdf"/>][Settler's Guide PDF]  | :heavy_check_mark: | [October 2023][FF 20/10/23]  |
+| [Wanderer's Guide] |    :x:    | [Buy <i class="fa-file-pdf"/>][Wanderer's Guide PDF] | :heavy_check_mark: | [February 2024][FF 16/02/24] |
 
 [Settler's Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement
 [Settler's Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf
@@ -1417,10 +1430,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Map Pack
 
-| Item                            | Purchased | Digital                                        |     Downloaded     | Notes               |
-| ------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ------------------- |
+| Item                            | Purchased | Digital                                        |     Downloaded     | Released                | Notes |
+| ------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ----------------------- | ----- |
 | [Map Pack 1: Vault]             |    :x:    | [Buy <i class="fa-file-pdf"/>][Map Pack 1 PDF] | :heavy_check_mark: |
-| [Map Pack 2: Wasteland Locales] |    :x:    | [Buy <i class="fa-file-pdf"/>][Map Pack 2 PDF] | :heavy_check_mark: | [Blog][FF 24/05/24] |
+| [Map Pack 2: Wasteland Locales] |    :x:    | [Buy <i class="fa-file-pdf"/>][Map Pack 2 PDF] | :heavy_check_mark: | [May 2024][FF 24/05/24] |
 
 [Map Pack 1: Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
 [Map Pack 1 PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf
@@ -1429,13 +1442,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### NPC Pack
 
-| Item                                | Purchased | Digital                                                   |     Downloaded     | Notes               |
-| ----------------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ------------------- |
-| NPC Pack - Hollywood Heroes         |           | [Buy <i class="fa-file-pdf"/>][NPC Pack Hollywood Heroes] | :heavy_check_mark: | [Blog][FF 16/08/24] |
+| Item                                | Purchased | Digital                                                   |     Downloaded     | Released                     | Notes |
+| ----------------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
+| NPC Pack - Hollywood Heroes         |           | [Buy <i class="fa-file-pdf"/>][NPC Pack Hollywood Heroes] | :heavy_check_mark: | [August 2024][FF 16/08/24]   |
 | NPC Pack 1 - The Rust Devils        |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 1]                | :heavy_check_mark: |
-| NPC Pack 2 - Enclave Remnants       |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 2]                | :heavy_check_mark: | [Blog][FF 16/02/24] |
+| NPC Pack 2 - Enclave Remnants       |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 2]                | :heavy_check_mark: | [February 2024][FF 16/02/24] |
 | NPC Pack 3 - Reilly's Rangers       |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 3]                | :heavy_check_mark: |
-| NPC Pack 4 - Mariposa Military Base |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 4]                | :heavy_check_mark: | [Blog][FF 21/03/25] |
+| NPC Pack 4 - Mariposa Military Base |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 4]                | :heavy_check_mark: | [March 2025][FF 21/03/25]    |
 
 [NPC Pack Hollywood Heroes]: https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf
 [NPC Pack 1]: https://modiphius.net/products/fallout-the-roleplaying-game-npc-pack-1-the-rust-devils-pdf
@@ -1445,10 +1458,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Quest Book
 
-| Item             | Purchased | Digital                                            |     Downloaded     | Notes                       |
-| ---------------- | :-------: | -------------------------------------------------- | :----------------: | --------------------------- |
-| [Royal Flush]    |    :x:    | [Buy <i class="fa-file-pdf"/>][Royal Flush PDF]    |        :x:         | [Blog][FF 23/01/26]         |
-| [Winter of Atom] |    :x:    | [Buy <i class="fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: | [Blog][2d20 Nuclear Winter] |
+| Item             | Purchased | Digital                                            |     Downloaded     | Released                            | Notes |
+| ---------------- | :-------: | -------------------------------------------------- | :----------------: | ----------------------------------- | ----- |
+| [Royal Flush]    |    :x:    | [Buy <i class="fa-file-pdf"/>][Royal Flush PDF]    |        :x:         | [January 2026][FF 23/01/26]         |
+| [Winter of Atom] |    :x:    | [Buy <i class="fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: | [January 2023][2d20 Nuclear Winter] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
 [Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
@@ -1491,15 +1504,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                 |     Purchased      | Digital                                              |     Downloaded     | Notes                 |
-| -------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------------- |
-| [Core Rulebook]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: | [Blog][FF 21/03/25]   |
-| ┕ [King of the Park] | :heavy_check_mark: |                                                      |                    | Promo                 |
-| [Crew Folio]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: | [Blog][FF 23/01/26]   |
-| ┕ [Rogue Knight]     | :heavy_check_mark: |                                                      |                    | Promo                 |
+| Item                 |     Purchased      | Digital                                              |     Downloaded     | Released                    | Notes |
+| -------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------------------- | ----- |
+| [Core Rulebook]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
+| ┕ [King of the Park] | :heavy_check_mark: |                                                      |                    |                             | Promo |
+| [Crew Folio]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: | [January 2026][FF 23/01/26] |
+| ┕ [Rogue Knight]     | :heavy_check_mark: |                                                      |                    | May 2026                    | Promo |
 | Spooktober Rules     |                    | [Free <i class="fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: |
 | Spooktober 2 Rules   |                    | [Free <i class="fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: |
-| C.O.M.P. Kit         |                    | [Free <i class="fa-file-pdf"/>][C.O.M.P. Kit]        | :heavy_check_mark: | [Blog][Factions COMP] |
+| C.O.M.P. Kit         |                    | [Free <i class="fa-file-pdf"/>][C.O.M.P. Kit]        | :heavy_check_mark: | [May 2026][Factions COMP]   |
 
 [C.O.M.P. Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e52b1e8f-bced-4aa1-b93e-d04fa975618b/FF-COMPKit-2026-M1.pdf
 [Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
@@ -1535,16 +1548,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Items
 
-| Item                                |     Purchased      | Digital                                                                      |     Downloaded     | Notes                                                                            |
-| ----------------------------------- | :----------------: | ---------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------- |
-| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    | [Blog][Factions Getting Started]                                                 |
-| ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [Promo][FF 21/06/24]                                                             |
-| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
-| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: | [Dice Set][The Operators Dice Set]                                               |
-| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: | [Dice Set][The Pack Dice Set]                                                    |
-| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: | [Dice Set][The Disciples Dice Set]                                               |
-| [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                                              |                    | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
-| Welcome to Nuka-World Quickstart    |                    | [Free <i class="fa-file-pdf"/>][Nuka-World Quickstart]                       | :heavy_check_mark: |
+| Item                                |     Purchased      | Digital                                                                      |     Downloaded     | Released                     | Notes                                                                            |
+| ----------------------------------- | :----------------: | ---------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
+| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    |                              | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
+| ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
+| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: |                              | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
+| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Operators Dice Set]                                               |
+| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: |                              | [Dice Set][The Pack Dice Set]                                                    |
+| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Disciples Dice Set]                                               |
+| [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                                              |                    |                              | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
+| Welcome to Nuka-World Quickstart    |                    | [Free <i class="fa-file-pdf"/>][Nuka-World Quickstart]                       | :heavy_check_mark: | [February 2024][PR 20/03/24] |
 
 [Battle for Nuka-World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set
 [Battle Map: Nuka-World]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world
@@ -1581,14 +1594,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Items
 
-| Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Notes                           |
-| -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference <i class="fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: | [Blog][FF 20/02/26]             |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    | Promo                           |
-| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: | [Dice Set][BoS Dice Set]        |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    | [Dice Set][Institute: Dice Set] |
-| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    | [Dice Set][Minutemen: Dice Set] |
-| [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    | [Dice Set][Railroad: Dice Set]  |
+| Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Released                     | Notes                           |
+| -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ---------------------------- | ------------------------------- |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference <i class="fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: | [February 2026][FF 20/02/26] |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    |                              | Promo                           |
+| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][BoS Dice Set]        |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    |                              | [Dice Set][Institute: Dice Set] |
+| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    |                              | [Dice Set][Minutemen: Dice Set] |
+| [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    |                              | [Dice Set][Railroad: Dice Set]  |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
@@ -1604,10 +1617,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
-| Item                            | Purchased | Digital                                                                        |     Downloaded     | Notes                                     |
-| ------------------------------- | :-------: | ------------------------------------------------------------------------------ | :----------------: | ----------------------------------------- |
-| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                            | Purchased | Digital                                                                        |     Downloaded     | Released | Notes                                     |
+| ------------------------------- | :-------: | ------------------------------------------------------------------------------ | :----------------: | -------- | ----------------------------------------- |
+| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: |          | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: |          | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
 [Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
@@ -1624,9 +1637,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                 |     Purchased      | Digital                                                |     Downloaded     | Notes               |
-| -------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------- |
-| [Wasteland Wanderer] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Wasteland Wanderer PDF] | :heavy_check_mark: | [Blog][FF 24/04/26] |
+| Item                 |     Purchased      | Digital                                                |     Downloaded     | Released                  | Notes |
+| -------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------- | ----- |
+| [Wasteland Wanderer] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Wasteland Wanderer PDF] | :heavy_check_mark: | [April 2026][FF 24/04/26] |
 
 [Wasteland Wanderer]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game
 [Wasteland Wanderer PDF]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game-pdf

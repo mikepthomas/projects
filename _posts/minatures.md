@@ -27,6 +27,8 @@ keywords:
 
 [Item & Unit Costs](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf)
 
+[Modiphius Blog: Getting Back Into Painting - Can You Get Good In A Year?](https://modiphius.net/blogs/news/getting-back-into-painting-can-you-get-good-in-a-year)
+
 # Brotherhood of Steel
 
 [Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
