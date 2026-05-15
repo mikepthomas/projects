@@ -941,21 +941,21 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                      |     Purchased      | Digital | Downloaded | Notes               |
-| ------------------------- | :----------------: | ------- | :--------: | ------------------- |
-| [Capital Rules Expansion] | :heavy_check_mark: |         |            | [Blog][FF 14/04/23] |
+| Item                      |     Purchased      | Digital | Downloaded | Released                  | Notes |
+| ------------------------- | :----------------: | ------- | :--------: | ------------------------- | ----- |
+| [Capital Rules Expansion] | :heavy_check_mark: |         |            | [April 2023][FF 14/04/23] |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
 
 ### Minatures
 
-| Item                                      |     Purchased      | Digital | Downloaded | Notes                                  |
-| ----------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- |
-| [Brotherhood of Steel: Heavy Armor (T45)] |        :x:         |         |            |
-| [Survivors: Capital Companions]           |        :x:         |         |            | [Blog][FF 14/07/23]                    |
-| [Survivors: Reilly's Rangers]             |        :x:         |         |            | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Survivors: Rosa Meitner]                 | :heavy_check_mark: |         |            | Promo                                  |
-| [Survivors: Washington Personalities]     |        :x:         |         |            | [Blog][FF 14/07/23]                    |
+| Item                                      |     Purchased      | Digital | Downloaded | Released                  | Notes                                  |
+| ----------------------------------------- | :----------------: | ------- | :--------: | ------------------------- | -------------------------------------- |
+| [Brotherhood of Steel: Heavy Armor (T45)] |        :x:         |         |            | [April 2023][FF 14/04/23] |
+| [Survivors: Capital Companions]           |        :x:         |         |            | [July 2023][FF 14/07/23]  |
+| [Survivors: Reilly's Rangers]             |        :x:         |         |            | [June 2023][FF 09/06/23]  | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Survivors: Rosa Meitner]                 | :heavy_check_mark: |         |            | [April 2023][FF 14/04/23] | Promo                                  |
+| [Survivors: Washington Personalities]     |        :x:         |         |            | [July 2023][FF 14/07/23]  |
 
 [Brotherhood of Steel: Heavy Armor (T45)]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
 [Survivors: Capital Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-capital-companions
@@ -965,11 +965,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                      | Purchased | Digital                                                      | Downloaded | Notes               |
-| ------------------------- | :-------: | ------------------------------------------------------------ | :--------: | ------------------- |
-| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |
-| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |
-| Metal Dome                |           | [Buy <i class="fa-file-zipper"/>][Metal Dome]                |    :x:     | [Blog][FF 09/06/23] |
+| Item                      | Purchased | Digital                                                      | Downloaded | Released                 | Notes |
+| ------------------------- | :-------: | ------------------------------------------------------------ | :--------: | ------------------------ | ----- |
+| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |                          |
+| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |                          |
+| Metal Dome                |           | [Buy <i class="fa-file-zipper"/>][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
