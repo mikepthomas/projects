@@ -47,24 +47,31 @@ Alternatively check out the [old version on the Internet Archive](https://web.ar
 
 The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---starter-set), [Wave 2](#wave-2---raiders) and [Roleplaying Game](#fallout-wasteland-warfare-roleplaying-game).
 
+## Wave 1
+
+| Date       | Blog                                                                   |
+| ---------- | ---------------------------------------------------------------------- |
+| 01/01/2019 | [DEVELOPMENT BLOG #1]: Movement & Range                                |
+| 08/01/2019 | [DEVELOPMENT BLOG #2]: You Are S.P.E.C.I.A.L!                          |
+| 15/01/2019 | [DEVELOPMENT BLOG #3]: The Effect Dice                                 |
+| 22/01/2019 | [DEVELOPMENT BLOG #4]: Heroes of the Wasteland                         |
+| 29/01/2019 | [DEVELOPMENT BLOG #5]: Armour and Leaders                              |
+| 05/02/2019 | [DEVELOPMENT BLOG #6]: Pre-Order Update                                |
+| 12/02/2019 | [DEVELOPMENT BLOG #7]: Things to come                                  |
+| 19/02/2019 | [DEVELOPMENT BLOG #8]: Narrative Systems Part 1                        |
+| 19/02/2019 | [DEVELOPMENT BLOG #9]: Wave 2 Sneak Peak                               |
+| 26/02/2019 | [DEVELOPMENT BLOG #10]: AI Game Play!                                  |
+| 05/03/2019 | [DEVELOPMENT BLOG #11]: Frank Horrigan - The Enclave's special weapon! |
+| 12/03/2019 | [DEVELOPMENT BLOG #12]: Plastics Samples & AI Gameplay                 |
+| 19/03/2019 | [DEVELOPMENT BLOG #13]: Wave 2 Scenics & Shipping Update               |
+| 26/03/2019 | [DEVELOPMENT BLOG #14]: Here come the Raiders!                         |
+| 02/04/2019 | [DEVELOPMENT BLOG #15]: Meet our Merry Band!                           |
+| 09/04/2019 | [DEVELOPMENT BLOG #16]: LAUNCH PARTY REVEALS                           |
+
+## Wave 2
+
 | Date       | Blog                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------- |
-| 01/01/2019 | [DEVELOPMENT BLOG #1]: Movement & Range                                                        |
-| 08/01/2019 | [DEVELOPMENT BLOG #2]: You Are S.P.E.C.I.A.L!                                                  |
-| 15/01/2019 | [DEVELOPMENT BLOG #3]: The Effect Dice                                                         |
-| 22/01/2019 | [DEVELOPMENT BLOG #4]: Heroes of the Wasteland                                                 |
-| 29/01/2019 | [DEVELOPMENT BLOG #5]: Armour and Leaders                                                      |
-| 05/02/2019 | [DEVELOPMENT BLOG #6]: Pre-Order Update                                                        |
-| 12/02/2019 | [DEVELOPMENT BLOG #7]: Things to come                                                          |
-| 19/02/2019 | [DEVELOPMENT BLOG #8]: Narrative Systems Part 1                                                |
-| 19/02/2019 | [DEVELOPMENT BLOG #9]: Wave 2 Sneak Peak                                                       |
-| 26/02/2019 | [DEVELOPMENT BLOG #10]: AI Game Play!                                                          |
-| 05/03/2019 | [DEVELOPMENT BLOG #11]: Frank Horrigan - The Enclave's special weapon!                         |
-| 12/03/2019 | [DEVELOPMENT BLOG #12]: Plastics Samples & AI Gameplay                                         |
-| 19/03/2019 | [DEVELOPMENT BLOG #13]: Wave 2 Scenics & Shipping Update                                       |
-| 26/03/2019 | [DEVELOPMENT BLOG #14]: Here come the Raiders!                                                 |
-| 02/04/2019 | [DEVELOPMENT BLOG #15]: Meet our Merry Band!                                                   |
-| 09/04/2019 | [DEVELOPMENT BLOG #16]: LAUNCH PARTY REVEALS                                                   |
 | 16/04/2019 | [DEVELOPMENT BLOG #17]: WAVE 2 & BEYOND...                                                     |
 | 23/04/2019 | [DEVELOPMENT BLOG #18]: THE BEST LAID PLANS...                                                 |
 | 30/04/2019 | [DEVELOPMENT BLOG #19]: What is the Fallout: Wasteland Warfare RPG?                            |
@@ -78,6 +85,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 | 25/06/2019 | [DEVELOPMENT BLOG #27]: WAVE 2 DOCUMENT UPDATES                                                |
 | 02/07/2019 | [DEVELOPMENT BLOG #28]: HE'S MORE MACHINE NOW THAN MAN                                         |
 
+[Wave 1]: #
 [DEVELOPMENT BLOG #1]: https://modiphius.net/blogs/news/movement-and-range
 [DEVELOPMENT BLOG #2]: https://modiphius.net/blogs/news/you-are-special
 [DEVELOPMENT BLOG #3]: https://modiphius.net/blogs/news/the-effect-dice
@@ -94,6 +102,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [DEVELOPMENT BLOG #14]: https://modiphius.net/blogs/news/here-come-the-raiders
 [DEVELOPMENT BLOG #15]: https://modiphius.net/blogs/news/meet-our-merry-band
 [DEVELOPMENT BLOG #16]: https://modiphius.net/blogs/news/launch-party-reveals
+[Wave 2]: #
 [DEVELOPMENT BLOG #17]: https://modiphius.net/blogs/news/wave-2-and-beyond
 [DEVELOPMENT BLOG #18]: https://modiphius.net/blogs/news/the-best-laid-plans
 [DEVELOPMENT BLOG #19]: https://modiphius.net/blogs/news/what-is-the-fallout-wasteland-warfare-rpg
@@ -106,7 +115,6 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [DEVELOPMENT BLOG #26]: https://modiphius.net/blogs/news/limited-gen-con-web-specials
 [DEVELOPMENT BLOG #27]: https://modiphius.net/blogs/news/wave-2-document-updates
 [DEVELOPMENT BLOG #28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
-[Wave 2]: #
 [Blog: The Raiders are here!]: https://modiphius.net/blogs/news/the-raiders-are-here 'Same content as DEVELOPMENT BLOG #25'
 [Wave 3]: #
 [Blog How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
