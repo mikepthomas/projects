@@ -1061,19 +1061,19 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                                        |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes               |
-| ------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ------------------- |
-| [Mr. Fuzzy and The Ghoulish Remnants Rules] | :heavy_check_mark: | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [Blog][FF 21/06/24] |
-| [The Dawn of the Mothman Rules]             |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [Blog][FF 19/07/24] |
-| [The Crater and The Foundation Rules]       |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [Blog][FF 16/08/24] |
-| [Invasion! Rules]                           |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [Blog][FF 20/09/24] |
+| Item                                        |     Purchased      | Digital                                                                                                      |     Downloaded     | Released                      | Notes |
+| ------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----- |
+| [Mr. Fuzzy and The Ghoulish Remnants Rules] | :heavy_check_mark: | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
+| [The Dawn of the Mothman Rules]             |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
+| [The Crater and The Foundation Rules]       |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
+| [Invasion! Rules]                           |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
 | [Hungry Hills! Rules]                       |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: |
 | Spooktober Rules                            |                    | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: |
-| [Catching Floaters Rules]                   |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [Blog][FF 24/01/25] |
-| [Wasteland Wildlife Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [Blog][FF 21/02/25] |
-| [In Sheeps Clothing Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [Blog][FF 21/03/25] |
-| [Stoic Defenders Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [Blog][FF 18/04/25] |
-| [Scorched Plague Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [Blog][FF 23/05/25] |
+| [Catching Floaters Rules]                   |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
+| [Wasteland Wildlife Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
+| [In Sheeps Clothing Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
+| [Stoic Defenders Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
+| [Scorched Plague Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
 
 [Catching Floaters Rules]: https://connect.forgefire.games/products/catching-floaters-card-pack
 [Hungry Hills! Rules]: https://connect.forgefire.games/products/hungry-hills-rules-packet-card-pack
@@ -1088,39 +1088,39 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
-| Item                           |     Purchased      | Digital | Downloaded | Notes                |
-| ------------------------------ | :----------------: | ------- | :--------: | -------------------- |
-| [Creatures: Ghoulish Remnants] |        :x:         |         |            | [Blog][FF 21/06/24]  |
-| [Mr Fuzzy]                     | :heavy_check_mark: |         |            | [Promo][FF 21/06/24] |
+| Item                           |     Purchased      | Digital | Downloaded | Released                 | Notes |
+| ------------------------------ | :----------------: | ------- | :--------: | ------------------------ | ----- |
+| [Creatures: Ghoulish Remnants] |        :x:         |         |            | [June 2024][FF 21/06/24] |
+| [Mr Fuzzy]                     | :heavy_check_mark: |         |            | [June 2024][FF 21/06/24] | Promo |
 
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
 ### Scatter
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Notes                                                    |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | -------------------------------------------------------- |
-| Commercial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Commercial Vehicles] | :heavy_check_mark: | [Vehicles for Sanctuary Hills](sanctuary-hills#vehicles) |
-| Industrial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Industrial Vehicles] | :heavy_check_mark: | [Vehicles for Vault-Tec Vault](vault#vehicles)           |
+| Item                | Purchased | Digital                                                |     Downloaded     | Released | Notes                                                    |
+| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | -------- | -------------------------------------------------------- |
+| Commercial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Commercial Vehicles] | :heavy_check_mark: |          | [Vehicles for Sanctuary Hills](sanctuary-hills#vehicles) |
+| Industrial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Industrial Vehicles] | :heavy_check_mark: |          | [Vehicles for Vault-Tec Vault](vault#vehicles)           |
 
 [Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
 
 ### Scenarios
 
-| Item                       | Purchased | Digital                                                                                                    |     Downloaded     | Notes |
-| -------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
-| Fuzzy Fun Times            |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1bzT3jF6eoIXJoV2RHXuk7_ucxnt44Llt/preview) | :heavy_check_mark: |
-| Equinox Interruptus        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1YoRidBh4e1JAIu-5wMCOt-SHmuDbvgzk/preview) | :heavy_check_mark: |
-| A Bloody Misunderstanding! |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1T01_Mx8FBAgFXQjLNab3pR9w3GvDiAKT/preview) | :heavy_check_mark: |
-| Invasion!                  |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EORiSZ6MFg6KCnp7QLdx30dDM4SZr_s6/preview) | :heavy_check_mark: |
+| Item                       | Purchased | Digital                                                                                                    |     Downloaded     | Released                      | Notes |
+| -------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
+| Fuzzy Fun Times            |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1bzT3jF6eoIXJoV2RHXuk7_ucxnt44Llt/preview) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
+| Equinox Interruptus        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1YoRidBh4e1JAIu-5wMCOt-SHmuDbvgzk/preview) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
+| A Bloody Misunderstanding! |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1T01_Mx8FBAgFXQjLNab3pR9w3GvDiAKT/preview) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
+| Invasion!                  |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EORiSZ6MFg6KCnp7QLdx30dDM4SZr_s6/preview) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
 | They Call Him Earle        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1Iyqoy8zF04xZNH8RnDRbm3d-6f5DAPwI/preview) | :heavy_check_mark: |
 | Let Them Fight!            |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1eZGmBldvWBor6S5WucubT_P4AQnmyiiq/preview) | :heavy_check_mark: |
-| Pop Goes the Floater!      |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1ZmkFvhQ3Qy_Tu_rPFM7pfmzXF9Js83CN/preview) | :heavy_check_mark: |
-| Creature Feature!          |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1r30YTw9elM0AY6q4wrENjOUm9QPuxIK0/preview) | :heavy_check_mark: |
-| Hey, That's My Cow!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1s87pG9zcu4KQBqZ4f-gYUXIGHMgB9TJ1/preview) | :heavy_check_mark: |
-| Grafton Day Parade!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EJaT-36dG1ZsTTF-XTTQTyHc9gQc9sUv/preview) | :heavy_check_mark: |
-| Hole Lotta Trouble!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/12jmWwkkY3h7P2xhER_EWhe32Wh2TfN1j/preview) | :heavy_check_mark: |
+| Pop Goes the Floater!      |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1ZmkFvhQ3Qy_Tu_rPFM7pfmzXF9Js83CN/preview) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
+| Creature Feature!          |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1r30YTw9elM0AY6q4wrENjOUm9QPuxIK0/preview) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
+| Hey, That's My Cow!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1s87pG9zcu4KQBqZ4f-gYUXIGHMgB9TJ1/preview) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
+| Grafton Day Parade!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EJaT-36dG1ZsTTF-XTTQTyHc9gQc9sUv/preview) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
+| Hole Lotta Trouble!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/12jmWwkkY3h7P2xhER_EWhe32Wh2TfN1j/preview) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
 
 ## Wave 11 - Far Harbor Expansion
 
@@ -1130,9 +1130,9 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                                |     Purchased      | Digital                                                                                                      |     Downloaded     | Notes               |
-| ----------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ------------------- |
-| [Children of Atom Rules]            |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [Blog][FF 19/09/25] |
+| Item                                |     Purchased      | Digital                                                                                                      |     Downloaded     | Released                      | Notes |
+| ----------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----- |
+| [Children of Atom Rules]            |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [September 2025][FF 19/09/25] |
 | [Arcadia and the Harbormen Rules]   |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: |
 | [Creatures of the Fog Rules]        |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: |
 | [Longfellow and the Trappers Rules] | :heavy_check_mark: | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: |
@@ -1144,11 +1144,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
-| Item                        |     Purchased      | Digital | Downloaded | Notes                |
-| --------------------------- | :----------------: | ------- | :--------: | -------------------- |
-| [Raiders: Big Fish]         |        :x:         |         |            | [Blog][FF 20/02/26]  |
-| [Raiders: Trappers]         |        :x:         |         |            | [Blog][FF 20/02/26]  |
-| [Survivors: Old Longfellow] | :heavy_check_mark: |         |            | [Promo][FF 20/02/26] |
+| Item                        |     Purchased      | Digital | Downloaded | Released                     | Notes |
+| --------------------------- | :----------------: | ------- | :--------: | ---------------------------- | ----- |
+| [Raiders: Big Fish]         |        :x:         |         |            | [February 2026][FF 20/02/26] |
+| [Raiders: Trappers]         |        :x:         |         |            | [February 2026][FF 20/02/26] |
+| [Survivors: Old Longfellow] | :heavy_check_mark: |         |            | [February 2026][FF 20/02/26] | Promo |
 
 [Raiders: Big Fish]: https://modiphius.net/products/fallout-miniatures-raiders-big-fish
 [Raiders: Trappers]: https://modiphius.net/products/fallout-miniatures-raiders-trappers
@@ -1253,10 +1253,10 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ## Vault-Tec Simulator
 
-| Item                | Purchased | Digital                                                 |     Downloaded     | Released                | Notes                                                            |
-| ------------------- | :-------: | ------------------------------------------------------- | :----------------: | ----------------------- | ---------------------------------------------------------------- |
-| Vault-Tec Profile   |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Profile]      | :heavy_check_mark: | [May 2024][FF 24/05/24] | [Form Fillable <i class="fa-file-pdf"/>][Vault-Tec Profile Form] |
-| Vault-Tec Simulator |           | [Free <i class="fa-file-zipper"/>][Vault-Tec Simulator] | :heavy_check_mark: | [May 2024][FF 24/05/24] | [Blog: Vault-Tec Simulator]                                      |
+| Item                | Purchased | Digital                                                 |     Downloaded     | Released                 | Notes                                                            |
+| ------------------- | :-------: | ------------------------------------------------------- | :----------------: | ------------------------ | ---------------------------------------------------------------- |
+| Vault-Tec Profile   |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Profile]      | :heavy_check_mark: | [July 2024][FF 19/07/24] | [Form Fillable <i class="fa-file-pdf"/>][Vault-Tec Profile Form] |
+| Vault-Tec Simulator |           | [Free <i class="fa-file-zipper"/>][Vault-Tec Simulator] | :heavy_check_mark: | [May 2024][FF 24/05/24]  | [Blog: Vault-Tec Simulator]                                      |
 
 [Blog: Vault-Tec Simulator]: https://modiphius.net/blogs/news/vault-tec-simulator
 [Vault-Tec Profile]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf
@@ -1558,7 +1558,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                                |     Purchased      | Digital                                                                      |     Downloaded     | Released                     | Notes                                                                            |
 | ----------------------------------- | :----------------: | ---------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
-| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    |                              | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
+| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    | [July 2024][FF 19/07/24]     | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
 | ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
 | ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025][FF 21/03/25]    | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
 | ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Operators Dice Set]                                               |
@@ -1606,7 +1606,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ---------------------------- | ------------------------------- |
 | [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference <i class="fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: | [February 2026][FF 20/02/26] |
 | ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | Promo                           |
-| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][BoS Dice Set]        |
+| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: | [August 2025][FF 22/08/25]   | [Dice Set][BoS Dice Set]        |
 | ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Institute: Dice Set] |
 | [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Minutemen: Dice Set] |
 | [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Railroad: Dice Set]  |
@@ -1625,10 +1625,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
-| Item                            | Purchased | Digital                                                                        |     Downloaded     | Released | Notes                                     |
-| ------------------------------- | :-------: | ------------------------------------------------------------------------------ | :----------------: | -------- | ----------------------------------------- |
-| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: |          | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: |          | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                            | Purchased | Digital                                                                        |     Downloaded     | Released                      | Notes                                     |
+| ------------------------------- | :-------: | ------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----------------------------------------- |
+| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025][FF 21/03/25]     | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025][FF 19/09/25] | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
 [Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
