@@ -480,16 +480,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Released                            | Notes        |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ----------------------------------- | ------------ |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]          |
-| Glowing Ghouls                        |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]          |
-| [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                        |
-| [Robots: Sentry Bot]                  |        :x:         |                                                       |                    | April 2019                          |
-| Stealth Coursers                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
-| [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7] |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | September 2020                      | Promo        |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Released                               | Notes        |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | -------------------------------------- | ------------ |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
+| Glowing Ghouls                        |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]             |
+| [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                           |
+| [Robots: Sentry Bot]                  |        :x:         |                                                       |                    | April 2019                             |
+| Stealth Coursers                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7]    |
+| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
@@ -509,7 +509,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 | Item                  |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                                        |
 | --------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
-| [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | [April 2019][FF 11/08/23]          |
+| [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial][FF 11/08/23]                           |
 | [Crashed Vertibird]   |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #9] |
 | [Junk Barricades]     |        :x:         |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] |
 | [Military Barricades] | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
