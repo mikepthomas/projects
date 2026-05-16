@@ -802,13 +802,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                               | Purchased | Digital                                                 |     Downloaded     | Released | Notes                     |
-| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | -------- | ------------------------- |
-| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: |
-| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: |
-| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: |
-| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: |
-| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |          | Scenario by Samuel Steele |
+| Item                               | Purchased | Digital                                                 |     Downloaded     | Released                    | Notes                     |
+| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | --------------------------- | ------------------------- |
+| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: | [January 2022][FF 21/01/22] |
+| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: | [January 2022][FF 21/01/22] |
+| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: | [January 2022][FF 21/01/22] |
+| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: | [January 2022][FF 21/01/22] |
+| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |                             | Scenario by Samuel Steele |
 
 [Bear Force One]: https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf
 [Black Mountain Beacons]: https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf
