@@ -343,6 +343,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Brotherhood of Steel
 
+[Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle)
+
 | Item                                                        | Purchased | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :-------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
 | [Brotherhood of Steel: Core Box]                            |    :x:    |         |            | April 2019 | Updated version in the [Battle for Boston Starter Set] |
@@ -354,6 +356,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse]: https://modiphius.net/products/fallout-brotherhood-of-steel-knight-captain-cade-and-paladin-danse
 
 #### Super Mutants
+
+[Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle)
 
 | Item                       | Purchased | Digital | Downloaded | Released                                 | Notes |
 | -------------------------- | :-------: | ------- | :--------: | ---------------------------------------- | ----- |
@@ -368,6 +372,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 [Super Mutants: Suiciders]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-suiciders
 
 #### Survivors
+
+[Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle)
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                          | Notes                                                             |
 | -------------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----------------------------------------------------------------- |
