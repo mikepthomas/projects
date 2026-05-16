@@ -243,14 +243,14 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 ### Rules
 
-| Item                     |     Purchased      | Digital                                             |     Downloaded     | Notes                                                          |
-| ------------------------ | :----------------: | --------------------------------------------------- | :----------------: | -------------------------------------------------------------- |
-| [Settlement Deck]        | :heavy_check_mark: |                                                     |                    | Discontinued, but some cards are available in later card packs |
-| [Two Player Starter Set] | :heavy_check_mark: |                                                     |                    |
-| ┝ Getting Acclimated     | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
-| ┝ Rules of Play          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
-| ┝ Campaign Book          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | Physical version included in `Two Player Starter Set`          |
-| ┕ [Zetan]                | :heavy_check_mark: |                                                     |                    | [Promo][PR 12/08/19]                                           |
+| Item                     |     Purchased      | Digital                                             |     Downloaded     | Released                          | Notes                                                          |
+| ------------------------ | :----------------: | --------------------------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
+| [Settlement Deck]        | :heavy_check_mark: |                                                     |                    | April 2019                        | Discontinued, but some cards are available in later card packs |
+| [Two Player Starter Set] | :heavy_check_mark: |                                                     |                    | [April 2019][DEVELOPMENT BLOG #1] |
+| ┝ Getting Acclimated     | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Rules of Play          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Campaign Book          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┕ [Zetan]                | :heavy_check_mark: |                                                     |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
@@ -305,10 +305,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Accessories
 
-| Item                    |     Purchased      | Digital                                                              |     Downloaded     | Notes                                                                                                                                            |
-| ----------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                                      |                    | Also contains stickers so that they can be used as in game tokens                                                                                |
-| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
+| Item                    |     Purchased      | Digital                                                              |     Downloaded     | Released                           | Notes                                                                                                                                            |
+| ----------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                                      |                    | April 2019                         | Also contains stickers so that they can be used as in game tokens                                                                                |
+| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
 
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
@@ -367,15 +367,16 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                   |     Purchased      | Digital | Downloaded | Notes                                                             |
-| -------------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------------------------------- |
-| [Brotherhood of Steel: Core Box]       |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set]            |
-| [Nuka Cola Girl]                       | :heavy_check_mark: |         |            | [Promo][PR 12/08/19]                                              |
-| [Super Mutants: Behemoth]              |        :x:         |         |            |
-| [Super Mutants: Core Box]              |        :x:         |         |            |
-| [Survivors: Boston Companions]         | :heavy_check_mark: |         |            |
-| [Survivors: Core Box]                  | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
-| [Survivors: Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
+| Item                                      |     Purchased      | Digital | Downloaded | Released                           | Notes                                                             |
+| ----------------------------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----------------------------------------------------------------- |
+| [Brotherhood of Steel: Core Box]          |        :x:         |         |            | April 2019                         | Updated version in the [Battle for Boston Starter Set]            |
+| [Nuka Cola Girl]                          | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]         | Promo                                                             |
+| [Super Mutants: Behemoth]                 |        :x:         |         |            | April 2019                         |
+| [Super Mutants: Core Box]                 |        :x:         |         |            | April 2019                         |
+| [Survivors: Boston Companions]            | :heavy_check_mark: |         |            | April 2019                         |
+| [Survivors: Core Box]                     | :heavy_check_mark: |         |            | April 2019                         | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
+| [Survivors: Heroes of Sanctuary Hills]    | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #6]  | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
+| [Two Player Starter Set Resin Miniatures] |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #12] |
 
 [Brotherhood of Steel: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
@@ -384,13 +385,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 [Survivors: Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions
 [Survivors: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box
 [Survivors: Heroes of Sanctuary Hills]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-heroes-of-sanctuary-hills
+[Two Player Starter Set Resin Miniatures]: https://modiphius.net/products/copy-of-fallout-wasteland-warfare-two-player-starter-models-collectors-resin-set
 
 ### Scenarios
 
 #### Fallout Wasteland Warfare Box
 
-| Item                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Notes |
-| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Item                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Released | Notes |
+| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
 | SCP-001-111: Ad Victorium                |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: |
 | SCP-002-111: Big John’s Salvage Showdown |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: |
 | SCP-003-111: Quest for Knowledge         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: |
@@ -405,16 +407,16 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ##### Big John’s Salvage Showdown
 
-| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Released | Notes |
+| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
 | [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |
 
 [Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 
 #### Robots
 
-| Item                            | Purchased | Digital                                                                                                                          |     Downloaded     | Notes |
-| ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Item                            | Purchased | Digital                                                                                                                          |     Downloaded     | Released | Notes |
+| ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
 | SCP-012-111: Steel-Clad Manhunt |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: |
 | SCP-013-111: Protectron Parade! |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: |
 | SCP-014-111: Deadly Run         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: |
@@ -422,8 +424,8 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Creatures
 
-| Item                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Notes |
-| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----- |
+| Item                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Released | Notes |
+| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
 | SCP-016-111: Hunters of the Wasteland |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: |
 | SCP-017-111: Old Gullet's Deathtrap   |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: |
 | SCP-018-111: DC Metro Raid            |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: |
@@ -432,14 +434,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Promo
 
-| Item                   | Purchased | Digital                                                                                                                                   |     Downloaded     | Notes                         |
-| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- |
-| SCP-021-111: The Shoot |           | [Read on Reddit <i class="fab fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | Scenario for [Nuka Cola Girl] |
+| Item                   | Purchased | Digital                                                                                                                                   |     Downloaded     | Released                   | Notes                         |
+| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------- | ----------------------------- |
+| SCP-021-111: The Shoot |           | [Read on Reddit <i class="fab fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | [August 2019][PR 12/08/19] | Scenario for [Nuka Cola Girl] |
 
 ##### The Shoot
 
-| Item                                               | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Item                                               | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Released | Notes |
+| -------------------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
 | [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)] |      |      |        |      |   :x:   |
 
 ## Wave 2 - Raiders
@@ -448,10 +450,10 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 ### Rules
 
-| Item                               |     Purchased      | Digital                                                  |     Downloaded     | Notes                         |
-| ---------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----------------------------- |
-| Liberty Prime Expansion            |                    | [Free <i class="fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: | [Blog][FF 11/02/22]           |
-| [Raiders Wave Expansion Card Pack] | :heavy_check_mark: |                                                          |                    | [Blog: The Raiders are here!] |
+| Item                               |     Purchased      | Digital                                                  |     Downloaded     | Released                                   | Notes |
+| ---------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ------------------------------------------ | ----- |
+| Liberty Prime Expansion            |                    | [Free <i class="fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: | [February 2022][FF 11/02/22]               |
+| [Raiders Wave Expansion Card Pack] | :heavy_check_mark: |                                                          |                    | [August 2019][Blog: The Raiders are here!] |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Wave Expansion Card Pack]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
@@ -462,10 +464,10 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   |     Purchased      | Digital                                                       |     Downloaded     | Notes |
-| ---------------------- | :----------------: | ------------------------------------------------------------- | :----------------: | ----- |
-| [Vault-Tec Notebook]   | :heavy_check_mark: | [Settlement Sheet <i class="fa-file-pdf"/>][Settlement Sheet] | :heavy_check_mark: |
-| [Weapons Upgrade Pack] | :heavy_check_mark: |                                                               |                    |
+| Item                   |     Purchased      | Digital                                                       |     Downloaded     | Released                           | Notes |
+| ---------------------- | :----------------: | ------------------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| [Vault-Tec Notebook]   | :heavy_check_mark: | [Settlement Sheet <i class="fa-file-pdf"/>][Settlement Sheet] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #17] |
+| [Weapons Upgrade Pack] | :heavy_check_mark: |                                                               |                    | [April 2019][DEVELOPMENT BLOG #17] |
 
 [Settlement Sheet]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
 [Vault-Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
@@ -477,16 +479,16 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Notes                                       |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | ------------------------------------------- |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [Press Release: Liberty Prime][PR 06/08/19] |
-| Glowing Ghouls                        |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]        |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [Press Release: Raiders][PR 12/08/19]       |
+| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Released                          | Notes        |
+| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | --------------------------------- | ------------ |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]        |
+| Glowing Ghouls                        |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26] | GenCon Promo |
+| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]        |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    |
-| [Robots: Sentry Bot]                  |        :x:         |                                                       |                    |
-| Stealth Coursers                      |        :x:         |                                                       |                    | [GenCon Promo][DEVELOPMENT BLOG #26]        |
+| [Robots: Sentry Bot]                  |        :x:         |                                                       |                    | April 2019                        |
+| Stealth Coursers                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26] | GenCon Promo |
 | [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | Promo                                       |
+| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    |                                   | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
@@ -504,13 +506,13 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                  |     Purchased      | Digital                                                  |     Downloaded     | Notes                                                                        |
-| --------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------- |
-| [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | [Blog][FF 11/08/23]                                                          |
-| [Crashed Vertibird]   |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         | [Blog][DEVELOPMENT BLOG #13]                                                 |
-| [Junk Barricades]     |        :x:         |                                                          |                    | [Blog][DEVELOPMENT BLOG #13]                                                 |
-| [Military Barricades] | :heavy_check_mark: |                                                          |                    | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
-| [Turrets]             | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]       | :heavy_check_mark: | [Blog][DEVELOPMENT BLOG #13]                                                 |
+| Item                  |     Purchased      | Digital                                                  |     Downloaded     | Released                            | Notes                                                                        |
+| --------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ----------------------------------- | ---------------------------------------------------------------------------- |
+| [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | [April 2019][FF 11/08/23]           |
+| [Crashed Vertibird]   |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #13] |
+| [Junk Barricades]     |        :x:         |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13]  |
+| [Military Barricades] | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13]  | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets]             | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]       | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #13]  |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
@@ -529,13 +531,13 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 Similar items available in the [Streets of Boston](red-rocket#streets-of-boston) `Print at Home` pack.
 
-| Item                     | Purchased | Digital                                            |     Downloaded     | Notes                                                                                        |
-| ------------------------ | :-------: | -------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------- |
-| [Boston Searchables]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
-| [Boston Street Scatter]  |    :x:    |                                                    |                    |
-| [Cases and Crates]       |    :x:    |                                                    |                    |
-| [Nuka Cola Machines]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |
-| [Radioactive Containers] |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |
+| Item                     | Purchased | Digital                                            |     Downloaded     | Released    | Notes                                                                                        |
+| ------------------------ | :-------: | -------------------------------------------------- | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
+| [Boston Searchables]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
+| [Boston Street Scatter]  |    :x:    |                                                    |                    | August 2019 |
+| [Cases and Crates]       |    :x:    |                                                    |                    | August 2019 |
+| [Nuka Cola Machines]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
+| [Radioactive Containers] |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
@@ -551,12 +553,12 @@ Similar items available in the [Streets of Boston](red-rocket#streets-of-boston)
 
 Similar items available in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle)
 
-| Item                 | Purchased | Digital                                            |     Downloaded     | Notes |
-| -------------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
-| [Heavy Consoles]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |
-| [Terminals]          |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: |
-| [Vault-Tec Lockers]  |    :x:    |                                                    |                    |
-| [Vault-Tec Supplies] |    :x:    |                                                    |                    |
+| Item                 | Purchased | Digital                                            |     Downloaded     | Released    | Notes |
+| -------------------- | :-------: | -------------------------------------------------- | :----------------: | ----------- | ----- |
+| [Heavy Consoles]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
+| [Terminals]          |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 |
+| [Vault-Tec Lockers]  |    :x:    |                                                    |                    | August 2019 |
+| [Vault-Tec Supplies] |    :x:    |                                                    |                    | April 2019  |
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals
@@ -565,11 +567,11 @@ Similar items available in the [Vault-Tec Office Bundle](vault#vault-tech-office
 
 ### Scenarios
 
-| Item                                         |     Purchased      | Digital                                                      |     Downloaded     | Notes                                    |
-| -------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------------------- |
-| SCP-034-111: The Undiscovered Vault          |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [Blog][FF 16/10/20]                      |
-| SCP-050-111: The Beast of the Bottling Plant |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [Blog][DEVELOPMENT BLOG #27]             |
-| Raid the Crash Site                          | :heavy_check_mark: |                                                              |                    | Part of the [Raiders Organised Play] Kit |
+| Item                                         |     Purchased      | Digital                                                      |     Downloaded     | Released                          | Notes                                    |
+| -------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | --------------------------------- | ---------------------------------------- |
+| SCP-034-111: The Undiscovered Vault          |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [October 2020][FF 16/10/20]       |
+| SCP-050-111: The Beast of the Bottling Plant |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
+| Raid the Crash Site                          | :heavy_check_mark: |                                                              |                    |                                   | Part of the [Raiders Organised Play] Kit |
 
 [Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
@@ -1330,11 +1332,11 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released                   | Notes |
-| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | -------------------------- | ----- |
-| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | Wave 1                     |
-| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19] |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2                     |
+| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes |
+| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #16] |
+| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
+| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2                             |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
