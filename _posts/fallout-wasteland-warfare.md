@@ -138,7 +138,7 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [Blog Eyes On The Wasteland]: https://modiphius.net/blogs/news/eyes-on-the-wasteland
 [Blog What Makes The App Tick]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-the-companion-app
 [Wave 5]: #
-[Blog Mojave Expansion]: https://modiphius.net/blogs/news/ncr-casers-legion-lead-2020-expansions-for-fallout-wasteland-warfare
+[Blog: Mojave Expansion]: https://modiphius.net/blogs/news/ncr-casers-legion-lead-2020-expansions-for-fallout-wasteland-warfare
 [Blog: New California Republic]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-mojave-wave-new-california-republic
 [Blog: Caesar's Legion]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-mojave-wave-caesars-legion
 [Wave 6]: #
@@ -355,6 +355,28 @@ This tutorial brings together all that we have learned so far by using a Hunting
 [Brotherhood of Steel: Frontline Knights]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-frontline-knights
 [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse]: https://modiphius.net/products/fallout-brotherhood-of-steel-knight-captain-cade-and-paladin-danse
 
+#### Creatures
+
+| Item                      | Purchased | Digital | Downloaded | Released   | Notes                                                     |
+| ------------------------- | :-------: | ------- | :--------: | ---------- | --------------------------------------------------------- |
+| [Creatures: Deathclaw]    |    :x:    |         |            | April 2019 |                                                           |
+| Creatures: Feral Ghouls   |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
+| Creatures: Radroaches     |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
+| [Creatures: Radscorpions] |    :x:    |         |            | April 2019 |                                                           |
+
+[Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
+[Creatures: Radscorpions]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-radscorpions
+
+#### Robots
+
+| Item                            | Purchased | Digital | Downloaded | Released   | Notes                                                           |
+| ------------------------------- | :-------: | ------- | :--------: | ---------- | --------------------------------------------------------------- |
+| [Robots: Assaultrons]           |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Robots: Assaultrons & Protectrons] |
+| [Robots: Protectron and Eyebot] |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Robots: Assaultrons & Protectrons] |
+
+[Robots: Assaultrons]: https://web.archive.org/web/20190721192339/https://www.modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons
+[Robots: Protectron and Eyebot]: https://web.archive.org/web/20190718030506/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-robots-protectron-and-eyebot
+
 #### Super Mutants
 
 [Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle)
@@ -482,6 +504,8 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | Item                                  |     Purchased      | Digital                                               |     Downloaded     | Released                               | Notes        |
 | ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | -------------------------------------- | ------------ |
 | [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
+| [Creatures: Ghouls]                   |        :x:         |                                                       |                    | November 2019                          |
+| [Creatures: Wasteland Vermin]         |        :x:         |                                                       |                    | November 2019                          |
 | Glowing Ghouls                        |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
 | [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]             |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                           |
@@ -491,6 +515,8 @@ Wave 2 expands on the base game, introducing the `Raiders` faction, with new Min
 | [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
+[Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
+[Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
 [Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
 [Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
@@ -601,11 +627,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                  |     Purchased      | Digital                                                          |     Downloaded     | Notes                           |
-| ------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ------------------------------- |
-| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | [Blog: How To Automatron]       |
-| Caught in the Crossfire Campaign book |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: | [Blog: Caught In The Crossfire] |
-| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                                                  |                    |
+| Item                                  |     Purchased      | Digital                                                          |     Downloaded     | Released                                       | Notes                       |
+| ------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ---------------------------------------------- | --------------------------- |
+| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | February 2020                                  | [Blog: How To Automatron]   |
+| Caught in the Crossfire Campaign book |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
+| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                                                  |                    |                                                | [Blog How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
@@ -618,22 +644,22 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               | Purchased | Digital | Downloaded | Notes                                |
-| ------------------ | :-------: | ------- | :--------: | ------------------------------------ |
-| [Objective Pack 1] |    :x:    |         |            | [Blog: How To Use Objective Markers] |
-| [Objective Pack 2] |    :x:    |         |            | [Blog: How To Use Objective Markers] |
+| Item               | Purchased | Digital | Downloaded | Released     | Notes                                |
+| ------------------ | :-------: | ------- | :--------: | ------------ | ------------------------------------ |
+| [Objective Pack 1] |    :x:    |         |            | January 2020 | [Blog: How To Use Objective Markers] |
+| [Objective Pack 2] |    :x:    |         |            | January 2020 | [Blog: How To Use Objective Markers] |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
 ### Minatures
 
-| Item                           |     Purchased      | Digital | Downloaded | Notes                                                  |
-| ------------------------------ | :----------------: | ------- | :--------: | ------------------------------------------------------ |
-| [Institute: Core Box]          |        :x:         |         |            | Updated version in the [Battle for Boston Starter Set] |
-| [The Mechanist]                | :heavy_check_mark: |         |            | Promo                                                  |
+| Item                           |     Purchased      | Digital | Downloaded | Released | Notes                                                  |
+| ------------------------------ | :----------------: | ------- | :--------: | -------- | ------------------------------------------------------ |
+| [Institute: Core Box]          |        :x:         |         |            |          | Updated version in the [Battle for Boston Starter Set] |
+| [The Mechanist]                | :heavy_check_mark: |         |            |          | Promo                                                  |
 | [Survivors: Unusual Allies]    | :heavy_check_mark: |         |            |
-| [Survivors: Vault Personnel]   | :heavy_check_mark: |         |            | Contains Miniatures related to the [Vault](vault)      |
+| [Survivors: Vault Personnel]   | :heavy_check_mark: |         |            |          | Contains Miniatures related to the [Vault](vault)      |
 | [Unaligned: T-51 Power Armour] |        :x:         |         |            |
 
 [Institute: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
@@ -648,8 +674,8 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Purchased | Digital                                             |     Downloaded     | Notes |
-| ------------------------- | :-------: | --------------------------------------------------- | :----------------: | ----- |
+| Item                      | Purchased | Digital                                             |     Downloaded     | Released | Notes |
+| ------------------------- | :-------: | --------------------------------------------------- | :----------------: | -------- | ----- |
 | Chryslus Rocket           |           | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket]  | :heavy_check_mark: |
 | Corvega Coupe             |           | [Buy <i class="fa-file-zipper"/>][Corvega Coupe]    | :heavy_check_mark: |
 | Parked Vertibird          |           | [Buy <i class="fa-file-zipper"/>][Parked Vertibird] | :heavy_check_mark: |
@@ -666,10 +692,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Scenarios
 
-| Item                               |     Purchased      | Digital                                                |     Downloaded     | Notes                                      |
-| ---------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------------------------ |
-| SCP-051-111: Showdown in Synthtown |                    | [Free <i class="fa-file-pdf"/>][Showdown in Synthtown] | :heavy_check_mark: | [Blog: Showdown In Synthtown]              |
-| Teleporting Trouble                | :heavy_check_mark: |                                                        |                    | Part of the [Institute Organised Play] Kit |
+| Item                               |     Purchased      | Digital                                                |     Downloaded     | Released                                    | Notes                                      |
+| ---------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------------------------- | ------------------------------------------ |
+| SCP-051-111: Showdown in Synthtown |                    | [Free <i class="fa-file-pdf"/>][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] |
+| Teleporting Trouble                | :heavy_check_mark: |                                                        |                    |                                             | Part of the [Institute Organised Play] Kit |
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Showdown in Synthtown]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf
@@ -680,11 +706,11 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                            |     Purchased      | Digital                                                |     Downloaded     | Notes               |
-| ----------------------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------- |
+| Item                                            |     Purchased      | Digital                                                |     Downloaded     | Released                     | Notes |
+| ----------------------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ---------------------------- | ----- |
 | [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                                        |                    |
 | [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                                        |                    |
-| [Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [Blog][FF 13/11/20] |
+| [Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020][FF 13/11/20] |
 | [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                                        |                    |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
@@ -695,9 +721,9 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Accessories
 
-| Item                 | Purchased | Digital | Downloaded | Notes |
-| -------------------- | :-------: | ------- | :--------: | ----- |
-| [Folded Box Inserts] |    :x:    |         |            |       |
+| Item                 | Purchased | Digital | Downloaded | Released | Notes |
+| -------------------- | :-------: | ------- | :--------: | -------- | ----- |
+| [Folded Box Inserts] |    :x:    |         |            |          |
 
 [Folded Box Inserts]: https://web.archive.org/web/20240525230511/https://modiphius.net/products/fallout-wasteland-warfare-box-insert
 
@@ -731,14 +757,14 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  |     Purchased      | Digital                                           |     Downloaded     | Notes                             |
-| ------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------------------------------- |
+| Item                                  |     Purchased      | Digital                                           |     Downloaded     | Released | Notes                             |
+| ------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | -------- | --------------------------------- |
 | [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                                                   |                    |
-| [Creatures: Mirelurk Queen]           |        :x:         |                                                   |                    | [Legendary][DEVELOPMENT BLOG #7]  |
+| [Creatures: Mirelurk Queen]           |        :x:         |                                                   |                    |          | [Legendary][DEVELOPMENT BLOG #7]  |
 | [Enclave: Core Box]                   | :heavy_check_mark: |                                                   |                    |
-| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                                                   |                    | [Legendary][DEVELOPMENT BLOG #11] |
+| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                                                   |                    |          | [Legendary][DEVELOPMENT BLOG #11] |
 | [Robots: Robobrain]                   | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |
-| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                                                   |                    | Promo                             |
+| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                                                   |                    |          | Promo                             |
 | [Unaligned: T-45 Power Armour]        |        :x:         |                                                   |                    |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
@@ -756,9 +782,9 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               | Purchased | Digital                                                 |     Downloaded     | Notes               |
-| ------------------ | :-------: | ------------------------------------------------------- | :----------------: | ------------------- |
-| [Crashed UFO]      |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [Blog][FF 14/05/21] |
+| Item               | Purchased | Digital                                                 |     Downloaded     | Released                | Notes |
+| ------------------ | :-------: | ------------------------------------------------------- | :----------------: | ----------------------- | ----- |
+| [Crashed UFO]      |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [May 2021][FF 14/05/21] |
 | [Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
@@ -768,13 +794,13 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 ### Scenarios
 
-| Item                                         | Purchased | Digital                                               |     Downloaded     | Notes                                  |
-| -------------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | -------------------------------------- |
+| Item                                         | Purchased | Digital                                               |     Downloaded     | Released                     | Notes                                  |
+| -------------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
 | AA02-2021: Automaton Assembly                |           | [Free <i class="fa-file-pdf"/>][Automaton Assembly]   | :heavy_check_mark: |
-| SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>][Zetan Incident]       | :heavy_check_mark: | Scenario for [Zetan] and [Crashed UFO] |
-| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 1] | :heavy_check_mark: | [Blog][FF 20/11/20]                    |
-| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 2] | :heavy_check_mark: | [Blog][FF 15/12/20]                    |
-| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 3] | :heavy_check_mark: | [Blog][FF 14/01/21]                    |
+| SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>][Zetan Incident]       | :heavy_check_mark: |                              | Scenario for [Zetan] and [Crashed UFO] |
+| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
+| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
+| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 3] | :heavy_check_mark: | [January 2021][FF 14/01/21]  |
 
 [Automaton Assembly]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Automatron_Assembly_v3_03120.pdf
 [Zetan Incident]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf
@@ -811,9 +837,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                        |     Purchased      | Digital                                                                |     Downloaded     | Released                          | Notes                                                         |
-| --------------------------- | :----------------: | ---------------------------------------------------------------------- | :----------------: | --------------------------------- | ------------------------------------------------------------- |
-| [New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | [May 2021][Blog Mojave Expansion] | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
+| Item                        |     Purchased      | Digital                                                                |     Downloaded     | Released                           | Notes                                                         |
+| --------------------------- | :----------------: | ---------------------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------- |
+| [New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | [May 2021][Blog: Mojave Expansion] | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
@@ -1228,9 +1254,9 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 ### Scenarios
 
-| Item                            | Purchased | Digital                                                      |     Downloaded     | Released | Notes |
-| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | -------- | ----- |
-| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: |
+| Item                            | Purchased | Digital                                                      |     Downloaded     | Released   | Notes |
+| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ---------- | ----- |
+| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2019 |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
 
@@ -1271,9 +1297,9 @@ Also one of the locations in [Map Pack 2: Wasteland Locales].
 
 The Battle Mode Rulebook gives more rules and advice for playing PvP style games.
 
-| Item                 | Purchased | Digital                                               |     Downloaded     | Released | Notes                 |
-| -------------------- | :-------: | ----------------------------------------------------- | :----------------: | -------- | --------------------- |
-| Battle Mode Rulebook |           | [Free <i class="fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: |          | Made by the Community |
+| Item                 | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
+| -------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Battle Mode Rulebook |           | [Free <i class="fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: | April 2019 | Made by the Community |
 
 [Battle Mode Rulebook]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
 
