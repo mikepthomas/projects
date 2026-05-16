@@ -117,19 +117,19 @@ The `Development Blogs` cover Fallout Wasteland Warfare [Wave 1](#wave-1---start
 [DEVELOPMENT BLOG #28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
 [Blog: The Raiders are here!]: https://modiphius.net/blogs/news/the-raiders-are-here 'Same content as DEVELOPMENT BLOG #25'
 [Wave 3]: #
-[Blog How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
+[Blog: How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
 [Blog How To Paint Institute]: https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog
 [Blog Competition]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-fall-competition-play-games-to-win-institute-sets-for-yourself-and-dtr-vouchers-for-your-flgs
 [Blog Whats In Boxes Institute]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-institute-whats-in-the-boxes
-[Blog Downloads Update]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-downloads-page-update
+[Blog: Downloads Update]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-downloads-page-update
 [Blog Institute Vs Survivors]: https://modiphius.net/blogs/news/institute-battle-report
 [Blog: How To Use Objective Markers]: https://modiphius.net/blogs/news/h1-f-ww-scenic-objective-markers-h1-p-p
 [Blog: Showdown In Synthtown]: https://modiphius.net/blogs/news/showdown-in-synthtown
 [Blog Guide To Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
-[Blog Super Mutant Suicider]: https://modiphius.net/blogs/news/but-can-it-beat-a-suicider-part-1
+[Blog: Super Mutant Suicider]: https://modiphius.net/blogs/news/but-can-it-beat-a-suicider-part-1
 [Blog: How To Automatron]: https://modiphius.net/blogs/news/how-to-automatron
 [Blog: Caught In The Crossfire]: https://modiphius.net/blogs/news/caught-in-the-crossfire
-[Blog Make Your Own Robot 1]: https://modiphius.net/blogs/news/so-who-would-win-in-a-fight-between-part-1-promo-figures
+[Blog Make Your Own Robot]: https://modiphius.net/blogs/news/so-who-would-win-in-a-fight-between-part-1-promo-figures
 [Wave 4]: #
 [Blog App Launch]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-app-launches
 [Blog App Phone]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-now-on-your-phone
@@ -381,12 +381,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 [Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle)
 
-| Item                       | Purchased | Digital | Downloaded | Released                                 | Notes |
-| -------------------------- | :-------: | ------- | :--------: | ---------------------------------------- | ----- |
-| [Super Mutants: Behemoth]  |    :x:    |         |            | [April 2019][DEVELOPMENT BLOG #8]        |
-| [Super Mutants: Core Box]  |    :x:    |         |            | April 2019                               |
-| [Super Mutants: Hammer]    |    :x:    |         |            | April 2019                               |
-| [Super Mutants: Suiciders] |    :x:    |         |            | [April 2019][Blog Super Mutant Suicider] |
+| Item                       | Purchased | Digital | Downloaded | Released                                  | Notes |
+| -------------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [Super Mutants: Behemoth]  |    :x:    |         |            | [April 2019][DEVELOPMENT BLOG #8]         |
+| [Super Mutants: Core Box]  |    :x:    |         |            | April 2019                                |
+| [Super Mutants: Hammer]    |    :x:    |         |            | April 2019                                |
+| [Super Mutants: Suiciders] |    :x:    |         |            | [April 2019][Blog: Super Mutant Suicider] |
 
 [Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
 [Super Mutants: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
@@ -627,11 +627,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                  |     Purchased      | Digital                                                          |     Downloaded     | Released                                       | Notes                       |
-| ------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ---------------------------------------------- | --------------------------- |
-| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | February 2020                                  | [Blog: How To Automatron]   |
+| Item                                  |     Purchased      | Digital                                                          |     Downloaded     | Released                                       | Notes                        |
+| ------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ---------------------------------------------- | ---------------------------- |
+| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | February 2020                                  | [Blog: How To Automatron]    |
 | Caught in the Crossfire Campaign book |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
-| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                                                  |                    |                                                | [Blog How To Use Institute] |
+| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                                                  |                    | [December 2020][Blog: Downloads Update]        | [Blog: How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
