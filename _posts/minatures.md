@@ -169,7 +169,23 @@ keywords:
 | Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
+## Children of Atom
+
+### Battle Mode Force List
+
+| Item                                    | Purchased | Digital                                                                  |     Downloaded     | Released   | Notes                 |
+| --------------------------------------- | :-------: | ------------------------------------------------------------------------ | :----------------: | ---------- | --------------------- |
+| Children of Atom Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Children of Atom Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Children of Atom Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Children of Atom Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[Children of Atom Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Children_of_Atom.pdf
+[Children of Atom Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca149759-e144-4d8e-8d6a-406c45d4bc82/BMCE-Children-of-Atom-v-1-0.pdf
+
 ## Creatures
+
+[Fallout Wasteland Warfare Deathclaw Video](https://www.youtube-nocookie.com/embed/bIy-BXHHa18)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 ### Battle Mode Force List
 
@@ -279,6 +295,18 @@ keywords:
 | Nuclear Symbol  | Warpaints Fanatic: Matt Black    |                                      | :heavy_check_mark: |
 | Armor           | AK Interactive: Rust Streaks     | Warpaints: Dry Rust                  | :heavy_check_mark: |
 
+## Gunners
+
+### Battle Mode Force List
+
+| Item                           | Purchased | Digital                                                         |     Downloaded     | Released   | Notes                 |
+| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Gunners Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Gunners Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Gunners Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Gunners Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[Gunners Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Gunners.pdf
+[Gunners Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/886cce9f-767a-431d-89be-21eef04d86ac/BMCE-Gunners-v-1-0.pdf
+
 ## Institute
 
 ### Battle Mode Force List
@@ -298,6 +326,34 @@ keywords:
 [Institute Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ab6c2fee-5b89-4d9a-a2a2-9075864fd1ec/BMCE-Institute-v-1-1.pdf
 
 There are examples of How to paint Institute Synths and Konrad Kellogg in the [Blog on the Modiphius website](https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog).
+
+## Leigon
+
+### Battle Mode Force List
+
+| Item                          | Purchased | Digital                                                        |     Downloaded     | Released   | Notes                 |
+| ----------------------------- | :-------: | -------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Legion Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Legion Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Legion Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Legion Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Legion Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Legion Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[Legion Force List (v5.0)]: https://web.archive.org/web/20211017042846/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_caesars_legion_17may.pdf
+[Legion Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Caesars_Legion.pdf
+[Legion Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7e720df6-a43b-4457-ac02-fe17c0f6e9de/BMCE-Legion-v-1-0.pdf
+
+## NCR
+
+### Battle Mode Force List
+
+| Item                       | Purchased | Digital                                                     |     Downloaded     | Released   | Notes                 |
+| -------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| NCR Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][NCR Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| NCR Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][NCR Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| NCR Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][NCR Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[NCR Force List (v5.0)]: https://web.archive.org/web/20211017022315/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_ncr_17may.pdf
+[NCR Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_NCR.pdf
+[NCR Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7fb1334a-d5dc-417c-9998-a58ce00b72e5/BMCE-NCR-v-1-0.pdf
 
 ## Nuka-World Gangs Raiders
 
@@ -449,6 +505,18 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Rust           | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 | Rust           | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
 | Rust           | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
+
+## Railroad
+
+### Battle Mode Force List
+
+| Item                            | Purchased | Digital                                                          |     Downloaded     | Released   | Notes                 |
+| ------------------------------- | :-------: | ---------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Railroad Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Railroad Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Railroad Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Railroad Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[Railroad Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Railroad.pdf
+[Railroad Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/69343f4a-3915-4c6d-bef4-6dcdc14d0021/BMCE-Railroad-v-1-1.pdf
 
 ## Robots
 
@@ -878,6 +946,16 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Lazer Rifle   | Citadel: Flash Glitz Yellow    |                                        |        :x:         |
 | Base Dirt     | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
 | Base Stone    | Warpaints: Ash Grey            | Warpaints Fanatic: Ash Grey            | :heavy_check_mark: |
+
+## The Slog
+
+### Battle Mode Force List
+
+| Item                       | Purchased | Digital                                                     |     Downloaded     | Released   | Notes |
+| -------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ---------- | ----- |
+| The Slog Force List (v7.0) |           | [Free <i class="fa-file-pdf"/>][The Slog Force List (v7.0)] | :heavy_check_mark: | March 2023 |
+
+[The Slog Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Battle_Mode_The_Slog_001w.pdf
 
 ## Unaligned
 
