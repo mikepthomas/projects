@@ -725,8 +725,8 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 | Item                                         | Purchased | Digital                                               |     Downloaded     | Released                     | Notes                                  |
 | -------------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
-| AA02-2021: Automaton Assembly                |           | [Free <i class="fa-file-pdf"/>][Automaton Assembly]   | :heavy_check_mark: |
-| SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>][Zetan Incident]       | :heavy_check_mark: |                              | Scenario for [Zetan] and [Crashed UFO] |
+| AA02-2021: Automaton Assembly                |           | [Free <i class="fa-file-pdf"/>][Automaton Assembly]   | :heavy_check_mark: | March 2021                   |
+| SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>][Zetan Incident]       | :heavy_check_mark: | July 2020                    | Scenario for [Zetan] and [Crashed UFO] |
 | SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
 | SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
 | SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 3] | :heavy_check_mark: | [January 2021][FF 14/01/21]  |
@@ -809,13 +809,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                               | Purchased | Digital                                                 |     Downloaded     | Released                    | Notes                     |
-| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | --------------------------- | ------------------------- |
-| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: | [January 2022][FF 21/01/22] |
-| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: | [January 2022][FF 21/01/22] |
-| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: | [January 2022][FF 21/01/22] |
-| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: | [January 2022][FF 21/01/22] |
-| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |                             | Scenario by Samuel Steele |
+| Item                               | Purchased | Digital                                                 |     Downloaded     | Released                  | Notes                     |
+| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | ------------------------- | ------------------------- |
+| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |                           | Scenario by Samuel Steele |
 
 [Bear Force One]: https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf
 [Black Mountain Beacons]: https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf
@@ -1083,8 +1083,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 | Item                       | Purchased | Digital                                                   |     Downloaded     | Released                     | Notes |
 | -------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| Error! System Malfunction  |           | [Free <i class="fa-file-pdf"/>][Error System Malfunction] | :heavy_check_mark: |
-| Oh, a Hunting We Shall Go! |           | [Free <i class="fa-file-pdf"/>][Hunting We Shall Go]      | :heavy_check_mark: |
+| Error! System Malfunction  |           | [Free <i class="fa-file-pdf"/>][Error System Malfunction] | :heavy_check_mark: | September 2023               |
+| Oh, a Hunting We Shall Go! |           | [Free <i class="fa-file-pdf"/>][Hunting We Shall Go]      | :heavy_check_mark: | October 2023                 |
 | Cappy in a Haystack        |           | [Free <i class="fa-file-pdf"/>][Cappy in a Haystack]      | :heavy_check_mark: | [November 2023][FF 17/11/23] |
 
 [Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
@@ -1458,7 +1458,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                           | Purchased | Digital                                               |     Downloaded     | Released                                        | Notes |
 | ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ----------------------------------------------- | ----- |
-| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: | Wave 4                                          |
+| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: | October 2020                                    |
 | The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
 | The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
 | The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
