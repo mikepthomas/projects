@@ -126,7 +126,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 [Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
 [Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature
 
-### Getting Acclimated
+#### Getting Acclimated
 
 A good place to start is the video series that Modiphus has put together which goes over the basics at a very high level:
 
@@ -136,7 +136,7 @@ A good place to start is the video series that Modiphus has put together which g
 
 The Getting Acclimated book explains further detail and has a few Tutorials so that you can try out the game mechanics.
 
-#### Tutorial 1: Navigating the Wastes
+##### Tutorial 1: Navigating the Wastes
 
 This tutorial gets you used to the moving mechanics of the game by retrieving a 10mm Pistol from a crate.
 
@@ -146,7 +146,7 @@ This tutorial gets you used to the moving mechanics of the game by retrieving a 
 
 [Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 
-#### Tutorial 2: Shooting Range
+##### Tutorial 2: Shooting Range
 
 This tutorial gets you used to the shooting mechanics of the game by shooting cans with your new 10mm Pistol.
 
@@ -154,7 +154,7 @@ This tutorial gets you used to the shooting mechanics of the game by shooting ca
 | ------------------------------------- | -------- | -------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)] | 2m   | 0.04m | 0.10g  | £0.01 |   :x:   |
 
-#### Tutorial 3: Weird Harvest
+##### Tutorial 3: Weird Harvest
 
 This tutorial gets introduces melee mechanics of the game by destroying Mutfruit with a Baseball Bat.
 
@@ -162,7 +162,7 @@ This tutorial gets introduces melee mechanics of the game by destroying Mutfruit
 | ------------------------------------ | -------- | -------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)] | 15m  | 0.40m | 1.02g  | £0.02 |   :x:   |
 
-#### Tutorial 4: Solving the Rat Problem
+##### Tutorial 4: Solving the Rat Problem
 
 This tutorial brings together all that we have learned so far by using a Hunting Rifle to seal up some dangerous looking Mole Rat mounds.
 
@@ -175,7 +175,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                    |     Purchased      | Digital                                                              |     Downloaded     | Released                           | Notes                                                                                                                                            |
 | ----------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Acrylic Rulers          |        :x:         |                                                                      |                    | April 2019                         | Discontinued                                                                                                                                     |
-| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                                      |                    | April 2019                         | Also contains stickers so that they can be used as in game tokens                                                                                |
+| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                                      |                    | April 2019                         | Contains stickers so that they can be used as in game tokens                                                                                     |
 | [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
 
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
