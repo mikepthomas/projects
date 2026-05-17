@@ -405,21 +405,23 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 | [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
 | [Creatures: Ghouls]                   |        :x:         |                                                       |                    | November 2019                          |
 | [Creatures: Wasteland Vermin]         |        :x:         |                                                       |                    | November 2019                          |
-| Glowing Ghouls                        |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Glowing Ghouls]                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
 | [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]             |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                           |
 | [Robots: Sentry Bot]                  |        :x:         |                                                       |                    | April 2019                             |
-| Stealth Coursers                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Stealth Boy Coursers]                |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
 | [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7]    |
 | [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
 [Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
+[Glowing Ghouls]: https://web.archive.org/web/20220124171706/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-glowing-ghouls
 [Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
 [Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
 [Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
 [Robots: Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
+[Stealth Boy Coursers]: https://web.archive.org/web/20220118105112/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-stealth-boy-coursers
 [Survivors: X-01 Survivor & Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
 [Unaligned: Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger
 
