@@ -114,6 +114,8 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | ------------------------ | :----------------: | --------------------------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
 | [Settlement Deck]        | :heavy_check_mark: |                                                     |                    | April 2019                        | Discontinued, but some cards are available in later card packs |
 | [Two Player Starter Set] | :heavy_check_mark: |                                                     |                    | [April 2019][DEVELOPMENT BLOG #1] |
+| ┝ Cards                  | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Dice & Rulers          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
 | ┝ Getting Acclimated     | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Rules of Play          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Campaign Book          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
@@ -121,6 +123,8 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
+[Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FalloutWastelandWarfareCard_Selection.pdf
+[Dice & Rulers]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Wasteland_Warfare_Dice_Reference_Sheet_1_page_d091f74d-cefc-498b-9d32-4163749e2eda.pdf
 [Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
 [Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview
 [Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
