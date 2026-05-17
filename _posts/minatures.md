@@ -62,7 +62,7 @@ keywords:
 | [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]              | [Two Player Starter Set][Wave 1 Rules] |       |
 | [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis] | [Two Player Starter Set][Wave 1 Rules] |       |
 
-## Aspirant Goddard
+### Aspirant Goddard
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
@@ -153,7 +153,7 @@ keywords:
 | Tesla Soldier                     | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 | Warrant Officer                   | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 
-## Frank Horrigan
+### Frank Horrigan
 
 [How to paint Frank Horrigan - Fallout: Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/OpSbE7bVI7s)
 
@@ -250,7 +250,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ## Units
 
-## The Disciples
+### The Disciples
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf)
 
@@ -267,7 +267,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
 | Waster A             | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
 
-## The Operators
+### The Operators
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf)
 
@@ -284,7 +284,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
 | Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
 
-## The Pack
+### The Pack
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf)
 
@@ -333,7 +333,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
-## Raider
+### Raider
 
 [Faux Hammer Painting Guide](https://www.fauxhammer.com/tutorials/how-to-paint-fallout-raiders-from-wasteland-warfare)
 
@@ -413,7 +413,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sentry Bot](#sentry-bot) | :x:      | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 | The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 
-## Protectron
+### Protectron
 
 [How to Paint Protectrons From Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/TUXZvzmlLHQ)
 
@@ -451,7 +451,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Hands / Legs / Visor | Warpaints Metallics: Gun Metal | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
 | Bricks               | Warpaints: Fur Brown           | Warpaints Fanatic: Fur Brown           | :heavy_check_mark: |
 
-## Sentry Bot
+### Sentry Bot
 
 [How to Paint The Sentry Bot from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/57X1C-GTEKE)
 
@@ -527,7 +527,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Super Mutant](#super-mutant)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
 | [Super Mutant Behemoth](#super-mutant-behemoth) | :x:      | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
 
-## Super Mutant
+### Super Mutant
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
@@ -566,7 +566,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Gun              | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
-## Super Mutant Behemoth
+### Super Mutant Behemoth
 
 ![How to Paint Super Mutant Behemoth](https://storage.ko-fi.com/cdn/useruploads/display/99d086df-8b7f-4088-a162-437cb16bf94b_behemoth.jpg)
 
@@ -663,7 +663,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sole Survivor Tech](#x-01-survivor) | :x:      | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
 | X6-88 Courser                        | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 
-## Preston Garvey
+### Preston Garvey
 
 [Modiphius Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
@@ -717,7 +717,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Laser              | Warpaints: Mars Red                   |                                               | :heavy_check_mark: |
 | Buttons            | Warpaints Metallics: Bright Gold      | Grinning Gargoyle Metallics: Bright Gold      | :heavy_check_mark: |
 
-## Settler
+### Settler
 
 [Modiphius Painting Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf)
 
@@ -776,7 +776,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Metal Details                 | Warpaints Washes: Dark Tone    | Warpaints Fanatic Wash: Dark Tone      | :heavy_check_mark: |
 | Lamp                          | Warpaints Washes: Blue Tone    | Warpaints Fanatic Wash: Blue Tone      | :heavy_check_mark: |
 
-## X-01 Survivor
+### X-01 Survivor
 
 [X-01 Power Armour Painting Tutorial from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/bTRFwKGqOxw)
 
