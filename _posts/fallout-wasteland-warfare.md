@@ -1243,20 +1243,20 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item               | Purchased | Digital                                           |     Downloaded     | Released                           | Notes |
-| ------------------ | :-------: | ------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
-| AI Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0] | :heavy_check_mark: | [March 2018][DEVELOPMENT BLOG #10] |
+| Item               | Purchased | Digital                                           |     Downloaded     | Released                            | Notes |
+| ------------------ | :-------: | ------------------------------------------------- | :----------------: | ----------------------------------- | ----- |
+| AI Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0] | :heavy_check_mark: | [August 2018][DEVELOPMENT BLOG #10] |
 
 [AI Handbook v1.0]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
-| Item                            | Purchased | Digital                                                      |     Downloaded     | Released   | Notes |
-| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ---------- | ----- |
-| The Missile                     |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
-| The Break-In                    |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
-| The Escaped Tech                |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
-| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | July 2018  |
+| Item                            | Purchased | Digital                                                      |     Downloaded     | Released    | Notes |
+| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ----------- | ----- |
+| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2018  |
+| The Missile                     |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| The Break-In                    |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| The Escaped Tech                |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
 
@@ -1299,10 +1299,10 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 
 ### Rules
 
-| Item               | Purchased | Digital                                             |     Downloaded     | Released                             | Notes                 |
-| ------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------ | --------------------- |
-| Battle Mode (v1.0) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |                       |
-| Battle Mode (v1.6) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      | Made by the Community |
+| Item               | Purchased | Digital                                             |     Downloaded     | Released                              | Notes                 |
+| ------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------- | --------------------- |
+| Battle Mode (v1.0) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |                       |
+| Battle Mode (v1.6) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             | Made by the Community |
 
 [Battle Mode (v1.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_battle_mode_v.1.0_download.pdf
 [Battle Mode (v1.6)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
@@ -1311,38 +1311,38 @@ Force Lists can be found on my [Minatures Page](minatures).
 
 ### Scenarios
 
-| Item                                    | Purchased | Digital                                             |     Downloaded     | Released                             | Notes |
-| --------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------ | ----- |
-| Hold the Line                           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
-| Defend Your Stash                       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
-| Extract the Information                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
-| Raiders                                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
-| Scrapyard                               |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
-| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
-| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Item                                    | Purchased | Digital                                             |     Downloaded     | Released                              | Notes |
+| --------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------- | ----- |
+| Hold the Line                           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Defend Your Stash                       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Extract the Information                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Raiders                                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Scrapyard                               |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
 
 ## Co-Op Mode
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
-| Item                  | Purchased | Digital                                                |     Downloaded     | Released   | Notes |
-| --------------------- | :-------: | ------------------------------------------------------ | :----------------: | ---------- | ----- |
-| Co-Op Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
+| Item                  | Purchased | Digital                                                |     Downloaded     | Released    | Notes |
+| --------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----------- | ----- |
+| Co-Op Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
 
 [Co-Op Handbook (v1.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Released   | Notes |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ---------- | ----- |
-| Into the Sewer      |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
-| Blood Cage          |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
-| Dangerous Munitions |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
+| Item                | Purchased | Digital                                                |     Downloaded     | Released    | Notes |
+| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----------- | ----- |
+| Into the Sewer      |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Blood Cage          |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Dangerous Munitions |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
 
 ## Vault-Tec Simulator
 
