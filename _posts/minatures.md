@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-05-10T15:59:17.355Z
+lastmod: 2026-05-17T07:58:01.740Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -31,11 +31,31 @@ keywords:
 
 # Brotherhood of Steel
 
-[Brotherhood of Steel Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf)
-
 [Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+## Force List
+
+| Item                                        | Purchased | Digital                                                     |     Downloaded     | Released      | Notes                 |
+| ------------------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ------------- | --------------------- |
+| Brotherhood of Steel Force List (v1.0)      |           |                                                             | :heavy_check_mark: | August 2018   |
+| Brotherhood of Steel Force List (v2.0)      |           |                                                             | :heavy_check_mark: | March 2019    |
+| Brotherhood of Steel Force List (v2.2)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
+| Brotherhood of Steel Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
+| Brotherhood of Steel Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Brotherhood of Steel Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v5.0)]      | :heavy_check_mark: | April 2021    |
+| Brotherhood of Steel Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Brotherhood of Steel Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][BoS Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
+
+[BoS Force List (v2.2)]: https://web.archive.org/web/20190918062633/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_bos_v.2.2.pdf
+[BoS Force List (v3.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_bos_v.3.0.pdf
+[BoS Force List (v4.0)]: https://web.archive.org/web/20210506071049/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_bos_jan21.pdf
+[BoS Force List (v5.0)]: https://web.archive.org/web/20211017024434/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_bos_17may.pdf
+[BoS Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_BoS.pdf
+[BoS Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf
+
+## Units
 
 | Item                                  | Quantity | Material | Included In                                         | Cards                                  | Notes |
 | ------------------------------------- | -------- | -------- | --------------------------------------------------- | -------------------------------------- | ----- |

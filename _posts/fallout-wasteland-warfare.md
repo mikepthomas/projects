@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-10T09:29:52.719Z
+lastmod: 2026-05-17T07:57:41.265Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -279,19 +279,19 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Fallout Wasteland Warfare Box
 
-| Item                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Released | Notes |
-| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
-| SCP-001-111: Ad Victorium                |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: |
-| SCP-002-111: Big John’s Salvage Showdown |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: |
-| SCP-003-111: Quest for Knowledge         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: |
-| SCP-004-111: Radio Tower Takeover        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: |
-| SCP-005-111: Flip's Revenge              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: |
-| SCP-006-111: Sanctuary Hills Sweep       |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: |
-| SCP-007-111: Psychotrip                  |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: |
-| SCP-008-111: The Jury Street Colossus    |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: |
-| SCP-009-111: Midwest Encounter           |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: |
-| SCP-010-111: Benny's Request             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: |
-| SCP-011-111: Atomic Sprint!              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: |
+| Item                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Released   | Notes |
+| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| SCP-001-111: Ad Victorium                |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 |
+| SCP-002-111: Big John’s Salvage Showdown |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 |
+| SCP-003-111: Quest for Knowledge         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 |
+| SCP-004-111: Radio Tower Takeover        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 |
+| SCP-005-111: Flip's Revenge              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 |
+| SCP-006-111: Sanctuary Hills Sweep       |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 |
+| SCP-007-111: Psychotrip                  |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 |
+| SCP-008-111: The Jury Street Colossus    |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 |
+| SCP-009-111: Midwest Encounter           |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 |
+| SCP-010-111: Benny's Request             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 |
+| SCP-011-111: Atomic Sprint!              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 |
 
 ##### Big John’s Salvage Showdown
 
@@ -303,22 +303,22 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Robots
 
-| Item                            | Purchased | Digital                                                                                                                          |     Downloaded     | Released | Notes |
-| ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
-| SCP-012-111: Steel-Clad Manhunt |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: |
-| SCP-013-111: Protectron Parade! |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: |
-| SCP-014-111: Deadly Run         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: |
-| SCP-015-111: Target Locked      |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: |
+| Item                            | Purchased | Digital                                                                                                                          |     Downloaded     | Released   | Notes |
+| ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| SCP-012-111: Steel-Clad Manhunt |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-013-111: Protectron Parade! |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
+| SCP-014-111: Deadly Run         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
+| SCP-015-111: Target Locked      |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
 
 #### Creatures
 
-| Item                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Released | Notes |
-| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------- | ----- |
-| SCP-016-111: Hunters of the Wasteland |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: |
-| SCP-017-111: Old Gullet's Deathtrap   |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: |
-| SCP-018-111: DC Metro Raid            |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: |
-| SCP-019-111: Chemtest Pit             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: |
-| SCP-020-111: Den of Pestilence        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: |
+| Item                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Released   | Notes |
+| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| SCP-016-111: Hunters of the Wasteland |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-017-111: Old Gullet's Deathtrap   |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
+| SCP-018-111: DC Metro Raid            |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
+| SCP-019-111: Chemtest Pit             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
+| SCP-020-111: Den of Pestilence        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 |
 
 #### Promo
 
@@ -1243,17 +1243,20 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item        | Purchased | Digital                                      |     Downloaded     | Released                           | Notes |
-| ----------- | :-------: | -------------------------------------------- | :----------------: | ---------------------------------- | ----- |
-| AI Handbook |           | [Free <i class="fa-file-pdf"/>][AI Handbook] | :heavy_check_mark: | [March 2018][DEVELOPMENT BLOG #10] |
+| Item               | Purchased | Digital                                           |     Downloaded     | Released                           | Notes |
+| ------------------ | :-------: | ------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| AI Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0] | :heavy_check_mark: | [March 2018][DEVELOPMENT BLOG #10] |
 
-[AI Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
+[AI Handbook v1.0]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
 | Item                            | Purchased | Digital                                                      |     Downloaded     | Released   | Notes |
 | ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ---------- | ----- |
-| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2019 |
+| The Missile                     |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
+| The Break-In                    |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
+| The Escaped Tech                |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | March 2018 |
+| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | July 2018  |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
 
@@ -1294,21 +1297,52 @@ Also one of the locations in [Map Pack 2: Wasteland Locales].
 
 The Battle Mode Rulebook gives more rules and advice for playing PvP style games.
 
-| Item                 | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
-| -------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Battle Mode Rulebook |           | [Free <i class="fa-file-pdf"/>][Battle Mode Rulebook] | :heavy_check_mark: | April 2019 | Made by the Community |
+### Rules
 
-[Battle Mode Rulebook]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
+| Item               | Purchased | Digital                                             |     Downloaded     | Released                             | Notes                 |
+| ------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------ | --------------------- |
+| Battle Mode (v1.0) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |                       |
+| Battle Mode (v1.6) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      | Made by the Community |
+
+[Battle Mode (v1.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_battle_mode_v.1.0_download.pdf
+[Battle Mode (v1.6)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
+
+Force Lists can be found on my [Minatures Page](minatures).
+
+### Scenarios
+
+| Item                                    | Purchased | Digital                                             |     Downloaded     | Released                             | Notes |
+| --------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------ | ----- |
+| Hold the Line                           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
+| Defend Your Stash                       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
+| Extract the Information                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
+| Raiders                                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
+| Scrapyard                               |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [April 2019][Blog: Downloads Update] |
+| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
+| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |                                      |
 
 ## Co-Op Mode
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
-| Item           | Purchased | Digital                                         |     Downloaded     | Released | Notes |
-| -------------- | :-------: | ----------------------------------------------- | :----------------: | -------- | ----- |
-| Co-Op Handbook |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook] | :heavy_check_mark: |
+| Item                  | Purchased | Digital                                                |     Downloaded     | Released   | Notes |
+| --------------------- | :-------: | ------------------------------------------------------ | :----------------: | ---------- | ----- |
+| Co-Op Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
 
-[Co-Op Handbook]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
+[Co-Op Handbook (v1.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
+
+### Scenarios
+
+| Item                | Purchased | Digital                                                |     Downloaded     | Released   | Notes |
+| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ---------- | ----- |
+| Into the Sewer      |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
+| Blood Cage          |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
+| Dangerous Munitions |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | April 2019 |
 
 ## Vault-Tec Simulator
 
@@ -1321,6 +1355,16 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 [Vault-Tec Profile]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf
 [Vault-Tec Profile Form]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small_form_fillable.pdf
 [Vault-Tec Simulator]: https://drive.google.com/file/d/1MKduslKB_9ulpF9Esj8gMbDzW2npUzui/preview
+
+### Scenarios
+
+| Item                     | Purchased | Digital                                              |     Downloaded     | Released | Notes |
+| ------------------------ | :-------: | ---------------------------------------------------- | :----------------: | -------- | ----- |
+| Lay Your Head to Rest    |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Hunger Strikes           |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Who's Got the Power?     |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Jackpot!                 |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Salvaging This Situation |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
 
 ## Game Cards
 
