@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-05-17T07:58:01.740Z
+lastmod: 2026-05-17T12:11:04.008Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -107,7 +107,21 @@ keywords:
 
 # Creatures
 
-[Creatures Force List](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca6f53fa-a769-41d2-b9f4-2f9a3dede8de/BMCE-Creatures-v-1-0.pdf)
+## Force List
+
+| Item                             | Purchased | Digital                                                           |     Downloaded     | Released   | Notes                 |
+| -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Creatures Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
+| Creatures Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Creatures Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Creatures Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+
+[Creatures Force List (v4.0)]: https://web.archive.org/web/20210506054844/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_creatures_jan21.pdf
+[Creatures Force List (v5.0)]: https://web.archive.org/web/20211017025447/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_creatures_17may.pdf
+[Creatures Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Creatures.pdf
+[Creatures Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca6f53fa-a769-41d2-b9f4-2f9a3dede8de/BMCE-Creatures-v-1-0.pdf
+
+## Units
 
 | Item      | Quantity | Material | Included In                            | Cards                                  | Notes |
 | --------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----- |
