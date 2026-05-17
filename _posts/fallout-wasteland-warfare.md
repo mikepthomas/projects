@@ -1318,13 +1318,13 @@ Force Lists can be found on my [Minatures Page](minatures).
 | Extract the Information                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
 | Raiders                                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
 | Scrapyard                               |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
-| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: |
+| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
 
 ## Co-Op Mode
 
