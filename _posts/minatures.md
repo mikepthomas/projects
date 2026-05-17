@@ -25,17 +25,81 @@ keywords:
 
 # Intro
 
-[Item & Unit Costs](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf)
-
 [Modiphius Blog: Getting Back Into Painting - Can You Get Good In A Year?](https://modiphius.net/blogs/news/getting-back-into-painting-can-you-get-good-in-a-year)
 
-# Brotherhood of Steel
+# Item & Unit Costs
+
+## General Mode
+
+| Item                      | Purchased | Digital                                                    |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | ---------------------------------------------------------- | :----------------: | ------------- | ----- |
+| Item & Unit Costs (v1.0)  |           |                                                            | :heavy_check_mark: | July 2018     |
+| Item & Unit Costs (v2.0)  |           |                                                            | :heavy_check_mark: | March 2019    |
+| Item & Unit Costs (v2.1)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
+| Item & Unit Costs (v3.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
+| Item & Unit Costs (v3.2)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
+| Item & Unit Costs (v6.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v6.0)]  | :heavy_check_mark: | November 2022 |
+| Item & Unit Costs (v7.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v7.0)]  | :heavy_check_mark: | April 2023    |
+| Item & Unit Costs (v9.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
+| Item & Unit Costs (v10.0) |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
+
+[Item & Unit Costs (v2.1)]: https://web.archive.org/web/20191123170110/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_item_and_unit_costs_v2.1.pdf
+[Item & Unit Costs (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.0.pdf
+[Item & Unit Costs (v3.2)]: https://web.archive.org/web/20201204130419/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.2.pdf
+[Item & Unit Costs (v6.0)]: https://web.archive.org/web/20230207221806/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_General_Mode_Unit_and_Item_Costs_002w.pdf?v=1668459562
+[Item & Unit Costs (v7.0)]: https://web.archive.org/web/20230602025924/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_General_Mode_Unit_and_Item_Costs.pdf?v=1682523440
+[Item & Unit Costs (v9.0)]: https://web.archive.org/web/20240301033311/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs_001LW.pdf?v=1701287020
+[Item & Unit Costs (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf
+
+## Roleplaying Game
+
+| Item                         | Purchased | Digital                                                       |     Downloaded     | Released      | Notes |
+| ---------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ------------- | ----- |
+| RPG Item Costs (v1.0)        |           | [Free <i class="fa-file-pdf"/>][RPG Item Costs (v1.0)]        | :heavy_check_mark: | December 2019 |
+| RPG Item & Unit Costs (v4.0) |           | [Free <i class="fa-file-pdf"/>][RPG Item & Unit Costs (v4.0)] | :heavy_check_mark: | November 2020 |
+
+[RPG Item Costs (v1.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_item_costs_v.1.0.pdf
+[RPG Item & Unit Costs (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/fww_wave_4_rpg_unit_and_item_costs_nov2020.pdf
+
+## Battle Mode
+
+### Items
+
+| Item                                  | Purchased | Digital                                                                |     Downloaded     | Released     | Notes |
+| ------------------------------------- | :-------: | ---------------------------------------------------------------------- | :----------------: | ------------ | ----- |
+| Items (v1.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v1.0)]                          | :heavy_check_mark: | January 2021 |
+| Items (v5.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v5.0)]                          | :heavy_check_mark: | May 2021     |
+| Items (v8.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v8.0)]                          | :heavy_check_mark: | April 2023   |
+| Alcohol, Chem, and Food (BMCE v1.0)   |           | [Free <i class="fa-file-pdf"/>][Alcohol, Chem, and Food (BMCE v1.0) ]  | :heavy_check_mark: | June 2024    |
+| Armor, Clothes, and Power (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
+| Weapons (BMCE v1.0)                   |           | [Free <i class="fa-file-pdf"/>][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
+
+[Items (v1.0)]: https://web.archive.org/web/20210506073957/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
+[Items (v5.0)]: https://web.archive.org/web/20211017025537/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_items_17may.pdf
+[Items (v8.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Items.pdf
+[Alcohol, Chem, and Food (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/672d3170-7434-48bd-8dd2-1ac3e278dfdb/BMCE-Alcohol-Chem-and-Food-items-list-v-1-0.pdf
+[Armor, Clothes, and Power (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c56367dc-1793-4d5a-93f9-3d468004ff72/BMCE-Armor-Clothes-and-Power-Armor-items-list-v-1-1.pdf
+[Weapons (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/4effbba1-d622-47a7-ad74-36cbfa518494/BMCE-Weapons-items-list-v-1-0.pdf
+
+### Perks and Upgrades
+
+| Item                         | Purchased | Digital                                                       |     Downloaded     | Released  | Notes |
+| ---------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | --------- | ----- |
+| Gears and Mods (BMCE v1.1)   |           | [Free <i class="fa-file-pdf"/>][Gears and Mods (BMCE v1.1)]   | :heavy_check_mark: | June 2024 |
+| Leader and Perks (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Leader and Perks (BMCE v1.1)] | :heavy_check_mark: | June 2024 |
+
+[Gears and Mods (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/6504537a-54b3-477b-af18-46ed49711d89/BMCE-Gears-and-Mods-items-list-v-1-1.pdf
+[Leader and Perks (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/00face65-d3a1-435c-860c-739031fd0f03/BMCE-Leader-and-Perks-items-list-v-1-1.pdf
+
+# Force Lists
+
+## Brotherhood of Steel
 
 [Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-## Force List
+### Battle Mode Force List
 
 | Item                                        | Purchased | Digital                                                     |     Downloaded     | Released      | Notes                 |
 | ------------------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -55,24 +119,24 @@ keywords:
 [BoS Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_BoS.pdf
 [BoS Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/74b23222-4aef-409a-9043-0b48e9eb3b83/BMCE-Brotherhood-of-Steel-v-1-1.pdf
 
-## Units
+### Units
 
 | Item                                  | Quantity | Material | Included In                                         | Cards                                  | Notes |
 | ------------------------------------- | -------- | -------- | --------------------------------------------------- | -------------------------------------- | ----- |
 | [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]              | [Two Player Starter Set][Wave 1 Rules] |       |
 | [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis] | [Two Player Starter Set][Wave 1 Rules] |       |
 
-### Aspirant Goddard
+#### Aspirant Goddard
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                              | Own |
 | ------ | ------------------------------------------------------------------------------------------------------------ | :-: |
 | Primer | [Gun Metal Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-gun-metal-cp3025s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item           | Suggested Paint                       | Alternative                                   |        Own         |
 | -------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -85,14 +149,14 @@ keywords:
 | Base           | Warpaints: Monster Brown              |                                               | :heavy_check_mark: |
 | Wood           | Warpaints: Werewolf Fur               | Warpaints Fanatic: Bootstrap Brown            | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item  | Suggested Paint               | Alternative                         |        Own         |
 | ----- | ----------------------------- | ----------------------------------- | :----------------: |
 | Model | Warpaints Washes: Dark Tone   | Warpaints Fanatic Wash: Dark Tone   | :heavy_check_mark: |
 | Base  | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item             | Suggested Paint                       | Alternative                                   |        Own         |
 | ---------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -105,9 +169,9 @@ keywords:
 | Base             | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
-# Creatures
+## Creatures
 
-## Force List
+### Battle Mode Force List
 
 | Item                             | Purchased | Digital                                                           |     Downloaded     | Released   | Notes                 |
 | -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -121,16 +185,16 @@ keywords:
 [Creatures Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Creatures.pdf
 [Creatures Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca6f53fa-a769-41d2-b9f4-2f9a3dede8de/BMCE-Creatures-v-1-0.pdf
 
-## Units
+### Units
 
 | Item      | Quantity | Material | Included In                            | Cards                                  | Notes |
 | --------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----- |
 | Alien     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
 | Deathclaw | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
 
-# Enclave
+## Enclave
 
-## Force List
+### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                                         |     Downloaded     | Released   | Notes                 |
 | ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -144,7 +208,7 @@ keywords:
 [Enclave Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Enclave.pdf
 [Enclave Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/976b80dd-d2b6-4d48-9761-f340ce3865e0/BMCE-Enclave-v-1-0.pdf
 
-## Units
+### Units
 
 | Item                              | Quantity | Material | Included In                             | Cards                                            | Notes |
 | --------------------------------- | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----- |
@@ -153,19 +217,19 @@ keywords:
 | Tesla Soldier                     | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 | Warrant Officer                   | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 
-### Frank Horrigan
+#### Frank Horrigan
 
 [How to paint Frank Horrigan - Fallout: Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/OpSbE7bVI7s)
 
 > Video © 2021 [Duncan Rhodes Painting Academy](https://www.youtube.com/@DuncanRhodesDRPA)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item                                        | Suggested Paint           | Alternative                                   |        Own         |
 | ------------------------------------------- | ------------------------- | --------------------------------------------- | :----------------: |
@@ -178,7 +242,7 @@ keywords:
 | Deathclaw Body                              | Citadel: Gorthor Brown    | Warpaints Fanatic: Onyx Skin                  |        :x:         |
 | Deathclaw Mouth                             | Citadel: Screamer Pink    | Warpaints Fanatic: Moldy Wine                 | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item         | Suggested Paint             | Alternative                              |        Own         |
 | ------------ | --------------------------- | ---------------------------------------- | :----------------: |
@@ -187,7 +251,7 @@ keywords:
 | Skin         | Citadel: Biel-Tan Green     | Warpaints Fanatic Washes: Green Tone     |        :x:         |
 | Base         | Citadel: Athonian Camoshade | Warpaints Fanatic Washes: Military Shade | :heavy_check_mark: |
 
-### 4. Highlight 1
+#### 4. Highlight 1
 
 | Item                                  | Suggested Paint             | Alternative                                   |        Own         |
 | ------------------------------------- | --------------------------- | --------------------------------------------- | :----------------: |
@@ -203,7 +267,7 @@ keywords:
 | Deathclaw                             | Citadel: Baneblade Brown    | Grinning Gargoyle: Monster Brown              | :heavy_check_mark: |
 | Deathclaw Teeth / Dirt                | Warpaints: Skeleton Bone    | Grinning Gargoyle: Skeleton Bone              | :heavy_check_mark: |
 
-### 5. Highlight 2
+#### 5. Highlight 2
 
 | Item            | Suggested Paint                  | Alternative                          |        Own         |
 | --------------- | -------------------------------- | ------------------------------------ | :----------------: |
@@ -215,9 +279,9 @@ keywords:
 | Nuclear Symbol  | Warpaints Fanatic: Matt Black    |                                      | :heavy_check_mark: |
 | Armor           | AK Interactive: Rust Streaks     | Warpaints: Dry Rust                  | :heavy_check_mark: |
 
-# Institute
+## Institute
 
-## Force List
+### Battle Mode Force List
 
 | Item                             | Purchased | Digital                                                           |     Downloaded     | Released      | Notes                 |
 | -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -235,12 +299,12 @@ keywords:
 
 There are examples of How to paint Institute Synths and Konrad Kellogg in the [Blog on the Modiphius website](https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog).
 
-# Nuka-World Gangs Raiders
+## Nuka-World Gangs Raiders
 
 > [!IMPORTANT]
 > The Nuka-World Gangs Raiders can be built in multiple ways. Please read the `Fallout: Factions` or `Wasteland Warfare` rules before building.
 
-## Force List
+### Battle Mode Force List
 
 | Item                                            | Purchased | Digital                                                                          |     Downloaded     | Released  | Notes                 |
 | ----------------------------------------------- | :-------: | -------------------------------------------------------------------------------- | :----------------: | --------- | --------------------- |
@@ -248,9 +312,9 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [Nuka-World Gangs Raiders Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf
 
-## Units
+### Units
 
-### The Disciples
+#### The Disciples
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf)
 
@@ -267,7 +331,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
 | Waster A             | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
 
-### The Operators
+#### The Operators
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf)
 
@@ -284,7 +348,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
 | Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
 
-### The Pack
+#### The Pack
 
 [Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf)
 
@@ -301,9 +365,9 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Waster 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
 | Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
 
-# Raiders
+## Raiders
 
-## Force List
+### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                                         |     Downloaded     | Released      | Notes                 |
 | ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -322,7 +386,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [Raiders Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Raiders.pdf
 [Raiders Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf
 
-## Units
+### Units
 
 | Item              | Quantity | Material | Included In                       | Cards                                            | Notes |
 | ----------------- | -------- | -------- | --------------------------------- | ------------------------------------------------ | ----- |
@@ -333,17 +397,17 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
-### Raider
+#### Raider
 
 [Faux Hammer Painting Guide](https://www.fauxhammer.com/tutorials/how-to-paint-fallout-raiders-from-wasteland-warfare)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                           |        Own         |
 | ------ | --------------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [White Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-white-cp3002s) | :heavy_check_mark: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item                         | Suggested Paint                  | Alternative                            |        Own         |
 | ---------------------------- | -------------------------------- | -------------------------------------- | :----------------: |
@@ -355,7 +419,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Bullets                      | Warpaints Metallics: Greedy Gold |                                        | :heavy_check_mark: |
 | Boots                        | Warpaints: Matt Black            | Grinning Gargoyle: Matt Black          | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item                              | Suggested Paint               | Alternative                         |        Own         |
 | --------------------------------- | ----------------------------- | ----------------------------------- | :----------------: |
@@ -364,7 +428,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Leather / Bullets                 | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
 | Armor / Boots / Metal / Waistband | Warpaints Washes: Dark Tone   | Warpaints Fanatic Wash: Dark Tone   | :heavy_check_mark: |
 
-### 4. Highlight 1
+#### 4. Highlight 1
 
 | Item    | Suggested Paint                       | Alternative                                   |        Own         |
 | ------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -373,7 +437,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Combats | Warpaints: Elf Green                  | Warpaints Fanatic: Woodland Camo              | :heavy_check_mark: |
 | Metals  | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
 
-### 5. Highlight 2
+#### 5. Highlight 2
 
 | Item           | Suggested Paint                       | Alternative                                   |        Own         |
 | -------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -386,9 +450,9 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Rust           | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
 | Rust           | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
 
-# Robots
+## Robots
 
-## Force List
+### Battle Mode Force List
 
 | Item                          | Purchased | Digital                                                        |     Downloaded     | Released   | Notes                 |
 | ----------------------------- | :-------: | -------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -402,7 +466,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 [Robots Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Robots.pdf
 [Robots Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf
 
-## Units
+### Units
 
 | Item                      | Quantity | Material | Included In                                          | Cards                                          | Notes |
 | ------------------------- | -------- | -------- | ---------------------------------------------------- | ---------------------------------------------- | ----- |
@@ -413,7 +477,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sentry Bot](#sentry-bot) | :x:      | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 | The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 
-### Protectron
+#### Protectron
 
 [How to Paint Protectrons From Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/TUXZvzmlLHQ)
 
@@ -421,13 +485,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/6b479163a7) to accompany the video.
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item   | Suggested Paint          | Alternative                     |        Own         |
 | ------ | ------------------------ | ------------------------------- | :----------------: |
@@ -435,14 +499,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base   | Warpaints: Dungeon Grey  | Grinning Gargoyle: Dungeon Grey | :heavy_check_mark: |
 | Tubing | Warpaints: Matt Black    | Grinning Gargoyle: Matt Black   | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item  | Suggested Paint                 | Alternative           |        Own         |
 | ----- | ------------------------------- | --------------------- | :----------------: |
 | Model | AK Interactive: Rust Streaks    | Warpaints: Dry Rust   | :heavy_check_mark: |
 | Model | AK Interactive: Streaking Grime | Warpaints: Oil Stains |        :x:         |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item                 | Suggested Paint                | Alternative                            |        Own         |
 | -------------------- | ------------------------------ | -------------------------------------- | :----------------: |
@@ -451,7 +515,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Hands / Legs / Visor | Warpaints Metallics: Gun Metal | Warpaints Fanatic Metallics: Gun Metal | :heavy_check_mark: |
 | Bricks               | Warpaints: Fur Brown           | Warpaints Fanatic: Fur Brown           | :heavy_check_mark: |
 
-### Sentry Bot
+#### Sentry Bot
 
 [How to Paint The Sentry Bot from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/57X1C-GTEKE)
 
@@ -459,13 +523,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9) to accompany the video.
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Army Green Primer](https://thearmypainter.com/en-nl/products/colour-primers-colour-primer-army-green-cp3005s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item          | Suggested Paint         | Alternative                     |        Own         |
 | ------------- | ----------------------- | ------------------------------- | :----------------: |
@@ -473,14 +537,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base / Metal  | Warpaints: Dungeon Grey | Grinning Gargoyle: Dungeon Grey | :heavy_check_mark: |
 | Tubing        | Warpaints: Oak Brown    |                                 | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item  | Suggested Paint                 | Alternative           |        Own         |
 | ----- | ------------------------------- | --------------------- | :----------------: |
 | Model | AK Interactive: Rust Streaks    | Warpaints: Dry Rust   | :heavy_check_mark: |
 | Model | AK Interactive: Streaking Grime | Warpaints: Oil Stains |        :x:         |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item                 | Suggested Paint                | Alternative                            |        Own         |
 | -------------------- | ------------------------------ | -------------------------------------- | :----------------: |
@@ -491,13 +555,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Manhole Cover        | Warpaints: Dark Stone          |                                        | :heavy_check_mark: |
 | Stone                | Warpaints: Uniform Grey        | Warpaints Fanatic: Uniform Grey        | :heavy_check_mark: |
 
-# Super Mutants
+## Super Mutants
 
 [Fallout Wasteland Warfare Super Mutants Miniatures Video](https://www.youtube-nocookie.com/embed/lq46sRF-DyU)
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-## Force List
+### Battle Mode Force List
 
 | Item                                 | Purchased | Digital                                                               |     Downloaded     | Released      | Notes                 |
 | ------------------------------------ | :-------: | --------------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -517,7 +581,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 [Super Mutants Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Super_Mutants.pdf
 [Super Mutants Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/abbb01b5-cf62-43a1-9033-66df0068d8b0/BMCE-Supermutants-v-1-0.pdf
 
-## Units
+### Units
 
 | Item                                            | Quantity | Material | Included In                             | Cards                                            | Notes             |
 | ----------------------------------------------- | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----------------- |
@@ -527,17 +591,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Super Mutant](#super-mutant)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
 | [Super Mutant Behemoth](#super-mutant-behemoth) | :x:      | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
 
-### Super Mutant
+#### Super Mutant
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                      | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Leather Brown Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-leather-brown-cp3004s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item        | Suggested Paint                       | Alternative                                   |        Own         |
 | ----------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -546,13 +610,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Ropes       | Warpaints: Banshee Brown              | Warpaints Fanatic: Tomb King Tan              | :heavy_check_mark: |
 | Base        | Warpaints: Werewolf Fur               | Warpaints Fanatic: Bootstrap Brown            | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item        | Suggested Paint               | Alternative                         |        Own         |
 | ----------- | ----------------------------- | ----------------------------------- | :----------------: |
 | Whole Model | Warpaints Washes: Strong Tone | Grinning Gargoyle Wash: Strong Tone | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item             | Suggested Paint                       | Alternative                                   |        Own         |
 | ---------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -566,7 +630,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Gun              | Warpaints Washes: Dark Tone           | Warpaints Fanatic Wash: Dark Tone             | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: Dry Rust           |                                               | :heavy_check_mark: |
 
-### Super Mutant Behemoth
+#### Super Mutant Behemoth
 
 ![How to Paint Super Mutant Behemoth](https://storage.ko-fi.com/cdn/useruploads/display/99d086df-8b7f-4088-a162-437cb16bf94b_behemoth.jpg)
 
@@ -574,13 +638,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/194ea74d67)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item            | Suggested Paint              | Alternative                     |        Own         |
 | --------------- | ---------------------------- | ------------------------------- | :----------------: |
@@ -591,14 +655,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Hydrant Pipe    | Warpaints: Uniform Grey      | Warpaints Fanatic: Uniform Grey | :heavy_check_mark: |
 | Loincloth       | Warpaints: Necromancer Cloak |                                 | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item    | Suggested Paint         | Alternative                        |        Own         |
 | ------- | ----------------------- | ---------------------------------- | :----------------: |
 | Skin    | Citadel: Seraphim Sepia | Warpaints Fanatic Wash: Sepia Tone | :heavy_check_mark: |
 | Hydrant | Citadel: Nuln Oil       | Warpaints Fanatic Wash: Dark Tone  | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item          | Suggested Paint                | Alternative                            |        Own         |
 | ------------- | ------------------------------ | -------------------------------------- | :----------------: |
@@ -608,13 +672,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Shopping Cart | AK Interactive: Rust Streaks   | Warpaints Effects: Dry Rust            | :heavy_check_mark: |
 | Skin          | Warpaints Air: Feral Green     |                                        |        :x:         |
 
-# Survivors
+## Survivors
 
 [Fallout Wasteland Warfare Survivors Miniatures Video](https://www.youtube-nocookie.com/embed/eNUOSiWVgZc)
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-## Force List
+### Battle Mode Force List
 
 | Item                             | Purchased | Digital                                                           |     Downloaded     | Released      | Notes                 |
 | -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -632,7 +696,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 [Survivors Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Survivors.pdf
 [Survivors Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c09206da-4f18-45df-a628-7e0b984b7bc9/BMCE-Survivors-v-1-1.pdf
 
-## Units
+### Units
 
 | Item                                 | Quantity | Material | Included In                                          | Cards                                              | Notes             |
 | ------------------------------------ | -------- | -------- | ---------------------------------------------------- | -------------------------------------------------- | ----------------- |
@@ -663,17 +727,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sole Survivor Tech](#x-01-survivor) | :x:      | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
 | X6-88 Courser                        | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 
-### Preston Garvey
+#### Preston Garvey
 
 [Modiphius Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item                     | Suggested Paint                | Alternative                            |        Own         |
 | ------------------------ | ------------------------------ | -------------------------------------- | :----------------: |
@@ -692,7 +756,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base                     | Warpaints: Wasteland Soil      | Warpaints Fanatic: Moldy Wine          | :heavy_check_mark: |
 | Base                     | Warpaints: Werewolf Fur        | Warpaints Fanatic: Bootstrap Brown     | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item                      | Suggested Paint               | Alternative                         |        Own         |
 | ------------------------- | ----------------------------- | ----------------------------------- | :----------------: |
@@ -701,7 +765,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Coat / Bandages           | Warpaints Washes: Mid Brown   | Warpaints Fanatic Wash: Sepia Tone  | :heavy_check_mark: |
 | Gun                       | Warpaints Washes: Dark Tone   | Warpaints Fanatic Wash: Dark Tone   | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item               | Suggested Paint                       | Alternative                                   |        Own         |
 | ------------------ | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -717,17 +781,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Laser              | Warpaints: Mars Red                   |                                               | :heavy_check_mark: |
 | Buttons            | Warpaints Metallics: Bright Gold      | Grinning Gargoyle Metallics: Bright Gold      | :heavy_check_mark: |
 
-### Settler
+#### Settler
 
 [Modiphius Painting Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf)
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item                        | Suggested Paint                       | Alternative                                   |        Own         |
 | --------------------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
@@ -744,7 +808,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Rocks                       | Warpaints: Uniform Grey               | Warpaints Fanatic: Uniform Grey               | :heavy_check_mark: |
 | Lamp                        | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item                                     | Suggested Paint                  | Alternative                            |        Own         |
 | ---------------------------------------- | -------------------------------- | -------------------------------------- | :----------------: |
@@ -754,14 +818,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Shirt / Rocks                            | Warpaints Washes: Soft Tone      |                                        | :heavy_check_mark: |
 | Gloves / Belt / Boots / Trousers / Lamp  | Warpaints Washes: Dark Tone      | Warpaints Fanatic Wash: Dark Tone      | :heavy_check_mark: |
 
-### 4. Highlight 1
+#### 4. Highlight 1
 
 | Item                        | Suggested Paint                       | Alternative                                   |        Own         |
 | --------------------------- | ------------------------------------- | --------------------------------------------- | :----------------: |
 | Hair                        | Warpaints: Dungeon Grey               | Grinning Gargoyle: Dungeon Grey               | :heavy_check_mark: |
 | Gun Wrap / Belt / Duct Tape | Warpaints Metallics: Plate Mail Metal | Grinning Gargoyle Metallics: Plate Mail Metal | :heavy_check_mark: |
 
-### 4. Highlight 2
+#### 4. Highlight 2
 
 | Item                          | Suggested Paint                | Alternative                            |        Own         |
 | ----------------------------- | ------------------------------ | -------------------------------------- | :----------------: |
@@ -776,7 +840,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Metal Details                 | Warpaints Washes: Dark Tone    | Warpaints Fanatic Wash: Dark Tone      | :heavy_check_mark: |
 | Lamp                          | Warpaints Washes: Blue Tone    | Warpaints Fanatic Wash: Blue Tone      | :heavy_check_mark: |
 
-### X-01 Survivor
+#### X-01 Survivor
 
 [X-01 Power Armour Painting Tutorial from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/bTRFwKGqOxw)
 
@@ -784,13 +848,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/566cfe2c24) to accompany the video.
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item             | Suggested Paint             | Alternative                      |        Own         |
 | ---------------- | --------------------------- | -------------------------------- | :----------------: |
@@ -799,13 +863,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Lazer Rifle      | Warpaints: Army Green       | Warpaints Fanatic: Army Green    | :heavy_check_mark: |
 | Base             | Warpaints: Oak Brown        |                                  | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item        | Suggested Paint   | Alternative                       |        Own         |
 | ----------- | ----------------- | --------------------------------- | :----------------: |
 | Whole Model | Citadel: Nuln Oil | Warpaints Fanatic Wash: Dark Tone | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item          | Suggested Paint                | Alternative                            |        Own         |
 | ------------- | ------------------------------ | -------------------------------------- | :----------------: |
@@ -815,7 +879,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base Dirt     | Warpaints: Leather Brown       | Grinning Gargoyle: Leather Brown       | :heavy_check_mark: |
 | Base Stone    | Warpaints: Ash Grey            | Warpaints Fanatic: Ash Grey            | :heavy_check_mark: |
 
-# Unaligned
+## Unaligned
 
 | Item                | Quantity | Material | Included In                                    | Cards                                            | Notes |
 | ------------------- | -------- | -------- | ---------------------------------------------- | ------------------------------------------------ | ----- |
@@ -823,7 +887,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Grognak](#grognak) | 1        | Resin    | [Unaligned: Grognak][Wave 6 Minis]             | [Commonwealth Rules][Wave 6 Rules]               |       |
 | Mysterious Stranger | 1        | Resin    | [Unaligned: Mysterious Stranger][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
 
-## Grognak
+### Grognak
 
 [I Made An Expansion for Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/pBb-X9zWmg8)
 
@@ -831,13 +895,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/7d5106ce9c) to accompany the video.
 
-### 1. Undercoat
+#### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-### 2. Basecoat
+#### 2. Basecoat
 
 | Item                                          | Suggested Paint                | Alternative                           |        Own         |
 | --------------------------------------------- | ------------------------------ | ------------------------------------- | :----------------: |
@@ -850,14 +914,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Axe Blade / Belt Studs / Sword                | Warpaints: Dungeon Grey        | Grinning Gargoyle: Dungeon Grey       | :heavy_check_mark: |
 | Hair                                          | Citadel: Flayed One Flesh      | Warpaints Fanatic: Dorado Skin        | :heavy_check_mark: |
 
-### 3. Wash
+#### 3. Wash
 
 | Item               | Suggested Paint              | Alternative                               |        Own         |
 | ------------------ | ---------------------------- | ----------------------------------------- | :----------------: |
 | Skin               | Citadel: Reikland Fleshshade | Warpaints Fanatic Wash: Strong Skin Shade | :heavy_check_mark: |
 | Model (Minus Skin) | Citadel: Agrax Earthshade    | Warpaints Fanatic Wash: Strong Tone       | :heavy_check_mark: |
 
-### 4. Highlight
+#### 4. Highlight
 
 | Item             | Suggested Paint           | Alternative                      |        Own         |
 | ---------------- | ------------------------- | -------------------------------- | :----------------: |
