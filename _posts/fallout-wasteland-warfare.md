@@ -218,8 +218,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                                                        | Purchased | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :-------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
 | [Brotherhood of Steel: Core Box]                            |    :x:    |         |            | April 2019 | Updated version in the [Battle for Boston Starter Set] |
-| [Brotherhood of Steel: Frontline Knights]                   |    :x:    |         |            | April 2019 |                                                        |
-| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |    :x:    |         |            | April 2019 |                                                        |
+| [Brotherhood of Steel: Frontline Knights]                   |    :x:    |         |            | April 2019 |
+| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |    :x:    |         |            | April 2019 |
 
 [Brotherhood of Steel: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
 [Brotherhood of Steel: Frontline Knights]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-frontline-knights
@@ -229,10 +229,10 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                      |     Purchased      | Digital | Downloaded | Released   | Notes                                                     |
 | ------------------------- | :----------------: | ------- | :--------: | ---------- | --------------------------------------------------------- |
-| [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |                                                           |
+| [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |
 | Creatures: Feral Ghouls   |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
 | Creatures: Radroaches     |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
-| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 |                                                           |
+| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 |
 
 [Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
 [Creatures: Radscorpions]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-radscorpions
@@ -1507,19 +1507,23 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Items
 
-| Item                      |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                              |
-| ------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
-| [Core Rulebook]           | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]        | :heavy_check_mark: | April 2021                         |
-| [Gamemaster's Toolkit]    |        :x:         | [Buy <i class="fa-file-pdf"/>][Gamemaster's Toolkit PDF] | :heavy_check_mark: | June 2023                          |
-| [GM Screen + Booklet]     |        :x:         | [Buy <i class="fa-file-pdf"/>][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
-| [New Vegas Setting Guide] |        :x:         |                                                          |                    | [April 2026][FF 24/04/26]          |
-| [Perk Cards 1]            | :heavy_check_mark: |                                                          |                    | [May 2022][FF 13/05/22]            |
-| [Perk Cards 2]            | :heavy_check_mark: |                                                          |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
-| Quickstart Guide          |                    | [Free <i class="fa-file-pdf"/>][Quickstart Guide]        | :heavy_check_mark: | June 2022                          |
-| [Starter Set]             | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Starter Set PDF]          | :heavy_check_mark: | [June 2022][2d20 Out of the Vault] |
+| Item                           |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                              |
+| ------------------------------ | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
+| [Core Rulebook]                | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]        | :heavy_check_mark: | April 2021                         |
+| [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                                          |                    | April 2021                         |
+| ┝ [Dice Set]                   | :heavy_check_mark: |                                                          |                    | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
+| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Gamemaster's Toolkit PDF] | :heavy_check_mark: | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
+| [GM Screen + Booklet]          |        :x:         | [Buy <i class="fa-file-pdf"/>][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
+| [New Vegas Setting Guide]      |        :x:         |                                                          |                    | [April 2026][FF 24/04/26]          |
+| [Perk Cards 1]                 | :heavy_check_mark: |                                                          |                    | [May 2022][FF 13/05/22]            |
+| [Perk Cards 2]                 | :heavy_check_mark: |                                                          |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
+| Quickstart Guide               |                    | [Free <i class="fa-file-pdf"/>][Quickstart Guide]        | :heavy_check_mark: | June 2022                          |
+| [Starter Set]                  | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Starter Set PDF]          | :heavy_check_mark: | [June 2022][2d20 Out of the Vault] |
 
 [Core Rulebook]: https://modiphius.net/products/falloutrpg_core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/falloutrpg_corerulebook-pdf
+[Dice Set]: https://modiphius.net/products/falloutrpg_dice-set
+[G.E.C.K. Special Edition Box]: https://web.archive.org/web/20220725164831/https://www.modiphius.net/products/falloutrpg_specialedition
 [Gamemaster's Toolkit]: https://web.archive.org/web/20240524154444/https://www.modiphius.net/products/falloutrpg_gmtoolkit
 [Gamemaster's Toolkit PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf
 [GM Screen + Booklet]: https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-flysheet
