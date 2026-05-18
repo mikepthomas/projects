@@ -45,36 +45,36 @@ I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) an
 
 ### Sourcing Parts
 
-| Item                                                               | Quantity | Received | Notes                                           |
-| ------------------------------------------------------------------ | -------- | -------- | ----------------------------------------------- |
-| [Befaco Bananuts (Black)][Befaco Bananuts]                         | 25       | 25       |                                                 |
-| [Befaco Bananuts (Red)][Befaco Bananuts]                           | 25       | 25       |                                                 |
-| [Befaco Bananuts Wrench Tool][Befaco Bananuts]                     | 1        | 1        |                                                 |
-| [Befaco Knurlies][Befaco Knurlies]                                 | 100      | 100      |                                                 |
-| [Befaco Midi Cable][Befaco Midi Cable]                             | 1        | 1        | Type B                                          |
-| [Befaco Squid Cable][Befaco Squid Cable]                           | 1        | 1        |                                                 |
-| [Blind Panels (Erica Synths)][Blind Panels Erica Synths]           | 2 x 8HP  | 2 x 8HP  | Blank Aluminium                                 |
-| [Blind Panels (Modular Synth Lab)][Blind Panels Modular Synth Lab] | Set of 7 | Set of 7 | Circuit Design                                  |
-| Blind Panels (MH Eurorack)                                         | 3 x 4HP  | 3 x 4HP  | PCB, Free with [MH Eurorack Kits](#mh-eurorack) |
-| [Blind Panels (Thonk)][Blind Panels Thonk]                         | 2 x 2HP  | 2 x 2HP  | 1 Aluminium and 1 PCB                           |
+| Item                               | Quantity | Received | Notes                                           |
+| ---------------------------------- | -------- | -------- | ----------------------------------------------- |
+| [Befaco Bananuts] (Black)          | 25       | 25       |                                                 |
+| [Befaco Bananuts] (Red)            | 25       | 25       |                                                 |
+| [Befaco Bananuts] (Wrench Tool)    | 1        | 1        |                                                 |
+| [Befaco Knurlies]                  | 100      | 100      |                                                 |
+| [Befaco Midi Cable]                | 1        | 1        | Type B                                          |
+| [Befaco Squid Cable]               | 1        | 1        |                                                 |
+| [Blind Panels (Erica Synths)]      | 2 x 8HP  | 2 x 8HP  | Blank Aluminium                                 |
+| [Blind Panels (Modular Synth Lab)] | Set of 7 | Set of 7 | Circuit Design                                  |
+| Blind Panels (MH Eurorack)         | 3 x 4HP  | 3 x 4HP  | PCB, Free with [MH Eurorack Kits](#mh-eurorack) |
+| [Blind Panels (Thonk)]             | 2 x 2HP  | 2 x 2HP  | 1 Aluminium and 1 PCB                           |
 
 [Befaco Bananuts]: https://www.befaco.org/bananuts
 [Befaco Knurlies]: https://www.befaco.org/knurlies
 [Befaco Midi Cable]: https://www.befaco.org/midi-cables
 [Befaco Squid Cable]: https://www.befaco.org/squid-cable-mult
-[Blind Panels Erica Synths]: https://www.ericasynths.lv/blind-panel
-[Blind Panels Modular Synth Lab]: https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis
-[Blind Panels Thonk]: https://www.thonk.co.uk/product-category/thonk-blank-panels
+[Blind Panels (Erica Synths)]: https://www.ericasynths.lv/blind-panel
+[Blind Panels (Modular Synth Lab)]: https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis
+[Blind Panels (Thonk)]: https://www.thonk.co.uk/product-category/thonk-blank-panels
 
 ## Power Supply
 
 ### Sourcing Parts
 
-| Item                                     | Quantity | Received | Notes       |
-| ---------------------------------------- | -------- | -------- | ----------- |
-| [Befaco Passive Bus][Befaco Passive Bus] | 1        | 1        |             |
-| [Flying Bus Cable][Flying Bus Cable]     | 1        | 1        | 50cm Length |
-| [Mean Well RT65B][Mean Well RT65B]       | 1        | 1        |             |
+| Item                 | Quantity | Received | Notes       |
+| -------------------- | -------- | -------- | ----------- |
+| [Befaco Passive Bus] | 1        | 1        |             |
+| [Flying Bus Cable]   | 1        | 1        | 50cm Length |
+| [Mean Well RT65B]    | 1        | 1        |             |
 
 [Befaco Passive Bus]: https://www.befaco.org/passive-bus
 [Flying Bus Cable]: https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors
@@ -89,10 +89,10 @@ I have seen a 3D Printed Eurorack case that I would like to make called [The SP1
 
 ### Sourcing Parts
 
-| Item              | Quantity                   | Received | Notes                                    |
-| ----------------- | -------------------------- | -------- | ---------------------------------------- |
-| M3 Nylon Screws   | 40                         | 42       | Nylon can prevent [Rack Rash][Rack Rash] |
-| M3 Threaded Strip | 4 (6 including dust cover) | 6 x 84HP |                                          |
+| Item                | Quantity                   | Received | Notes                         |
+| ------------------- | -------------------------- | -------- | ----------------------------- |
+| M3 Nylon Screws     | 40                         | 42       | Nylon can prevent [Rack Rash] |
+| [M3 Threaded Strip] | 4 (6 including dust cover) | 6 x 84HP |                               |
 
 [M3 Threaded Strip]: https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP
 [Rack Rash]: https://learningmodular.com/glossary/rack-rash
@@ -145,11 +145,13 @@ However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#ed
 
 #### PCB
 
-| Item                          | Quantity | Received | Notes                                                                                                                           |
-| ----------------------------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| BreadboardEurorack Breadboard | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
-| 6HP Eurorack Control Deck     | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
-| 6HP Eurorack Panel            | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
+| Item                          | Quantity | Received | Notes                                        |
+| ----------------------------- | -------- | -------- | -------------------------------------------- |
+| BreadboardEurorack Breadboard | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit] |
+| 6HP Eurorack Control Deck     | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit] |
+| 6HP Eurorack Panel            | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit] |
+
+[N8Synth 6HP Eurorack Prototype Kit]: https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit
 
 #### Capacitors
 
@@ -159,28 +161,39 @@ However, I have recently purchased the [Erica Synths EDU DIY Labor Full Kit](#ed
 
 #### Misc
 
-| Item                           | Quantity | Received | Notes                                                                                                                           |
-| ------------------------------ | -------- | -------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 16 Pin Power Header            | 5        | 5        |                                                                                                                                 |
-| 16-16 pin Power Cable          | 5        | 5        | 30cm length                                                                                                                     |
-| 3mm LED Panel Mount            | 15       | 15       | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/3mm-led-panel-mount)                                       |
-| 3mm LED (Green)                | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-green)                                             |
-| 3mm LED (Red)                  | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-red)                                               |
-| 3mm LED (Yellow)               | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-yellow)                                            |
-| 5mm LED Panel Mount            | 15       | 15       | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/5mm-led-panel-mount)                                       |
-| 5mm LED (Green)                | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-green)                                             |
-| 5mm LED (Red)                  | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-red)                                               |
-| 5mm LED (Yellow)               | 5        | 5        | Available on [N8Synth](https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-yellow)                                            |
-| 40 Pin Right Angle Male Header | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
-| 40 Pin Female Header           | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit](https://www.n8synth.co.uk/shop/eurorack-prototype-kits/6hp-eurorack-prototype-kit) |
+| Item                           | Quantity | Received | Notes                                        |
+| ------------------------------ | -------- | -------- | -------------------------------------------- |
+| 16 Pin Power Header            | 5        | 5        |                                              |
+| 16-16 pin Power Cable          | 5        | 5        | 30cm length                                  |
+| [3mm LED Panel Mount]          | 15       | 15       |                                              |
+| [3mm LED (Green)]              | 5        | 5        |                                              |
+| [3mm LED (Red)]                | 5        | 5        |                                              |
+| [3mm LED (Yellow)]             | 5        | 5        |                                              |
+| [5mm LED Panel Mount]          | 15       | 15       |                                              |
+| [5mm LED (Green)]              | 5        | 5        |                                              |
+| [5mm LED (Red)]                | 5        | 5        |                                              |
+| [5mm LED (Yellow)]             | 5        | 5        |                                              |
+| 40 Pin Right Angle Male Header | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit] |
+| 40 Pin Female Header           | 5        | 5        | Part of [N8Synth 6HP Eurorack Prototype Kit] |
+
+[3mm LED Panel Mount]: https://www.n8synth.co.uk/shop/synth-diy/leds/3mm-led-panel-mount
+[3mm LED (Green)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-green
+[3mm LED (Red)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-red
+[3mm LED (Yellow)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-3mm-yellow
+[5mm LED Panel Mount]: https://www.n8synth.co.uk/shop/synth-diy/leds/5mm-led-panel-mount
+[5mm LED (Green)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-green
+[5mm LED (Red)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-red
+[5mm LED (Yellow)]: https://www.n8synth.co.uk/shop/synth-diy/leds/led-5mm-yellow
 
 ### Siam Modular
 
 #### PCB
 
-| Item                          | Quantity | Received | Notes                                                                                                     |
-| ----------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------------------- |
-| 14hp Eurorack Prototype board | 3        | 3        | Available on [Siam Modular](https://siammodular.com/products/3x-eurorack-prototyping-board-for-synth-diy) |
+| Item                            | Quantity | Received | Notes |
+| ------------------------------- | -------- | -------- | ----- |
+| [14hp Eurorack Prototype board] | 3        | 3        |       |
+
+[14hp Eurorack Prototype board]: https://siammodular.com/products/3x-eurorack-prototyping-board-for-synth-diy
 
 #### Capacitors
 
