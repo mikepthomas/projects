@@ -33,8 +33,8 @@ keywords:
 
 | Item                      | Purchased | Digital                                                    |     Downloaded     | Released      | Notes |
 | ------------------------- | :-------: | ---------------------------------------------------------- | :----------------: | ------------- | ----- |
-| Item & Unit Costs (v1.0)  |           |                                                            | :heavy_check_mark: | July 2018     |
-| Item & Unit Costs (v2.0)  |           |                                                            | :heavy_check_mark: | March 2019    |
+| Item & Unit Costs (v1.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]         | :heavy_check_mark: | July 2018     |
+| Item & Unit Costs (v2.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]         | :heavy_check_mark: | March 2019    |
 | Item & Unit Costs (v2.1)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
 | Item & Unit Costs (v3.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
 | Item & Unit Costs (v3.2)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
@@ -43,6 +43,7 @@ keywords:
 | Item & Unit Costs (v9.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
 | Item & Unit Costs (v10.0) |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
 
+[Item & Unit Costs]: https://web.archive.org/web/20190825194518/https://www.modiphius.net/products/fallout-wasteland-warfare-battle-mode-force-lists-free
 [Item & Unit Costs (v2.1)]: https://web.archive.org/web/20191123170110/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_item_and_unit_costs_v2.1.pdf
 [Item & Unit Costs (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.0.pdf
 [Item & Unit Costs (v3.2)]: https://web.archive.org/web/20201204130419/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.2.pdf
@@ -103,8 +104,8 @@ keywords:
 
 | Item                                        | Purchased | Digital                                                     |     Downloaded     | Released      | Notes                 |
 | ------------------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Brotherhood of Steel Force List (v1.0)      |           |                                                             | :heavy_check_mark: | August 2018   |
-| Brotherhood of Steel Force List (v2.0)      |           |                                                             | :heavy_check_mark: | March 2019    |
+| Brotherhood of Steel Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]          | :heavy_check_mark: | August 2018   |
+| Brotherhood of Steel Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]          | :heavy_check_mark: | March 2019    |
 | Brotherhood of Steel Force List (v2.2)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
 | Brotherhood of Steel Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
 | Brotherhood of Steel Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
@@ -428,7 +429,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 | Item                           | Purchased | Digital                                                         |     Downloaded     | Released      | Notes                 |
 | ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Raiders Force List (v1.0)      |           |                                                                 | :heavy_check_mark: | March 2019    |
+| Raiders Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]              | :heavy_check_mark: | March 2019    |
 | Raiders Force List (v1.2)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v1.2)]      | :heavy_check_mark: | July 2019     |
 | Raiders Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v2.0)]      | :heavy_check_mark: | December 2019 |
 | Raiders Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
@@ -634,8 +635,8 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                                 | Purchased | Digital                                                               |     Downloaded     | Released      | Notes                 |
 | ------------------------------------ | :-------: | --------------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Super Mutants Force List (v1.0)      |           |                                                                       | :heavy_check_mark: | August 2018   |
-| Super Mutants Force List (v2.0)      |           |                                                                       | :heavy_check_mark: | March 2019    |
+| Super Mutants Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                    | :heavy_check_mark: | August 2018   |
+| Super Mutants Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                    | :heavy_check_mark: | March 2019    |
 | Super Mutants Force List (v2.2)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
 | Super Mutants Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
 | Super Mutants Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
@@ -752,8 +753,8 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                             | Purchased | Digital                                                           |     Downloaded     | Released      | Notes                 |
 | -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Survivors Force List (v1.0)      |           |                                                                   | :heavy_check_mark: | August 2018   |
-| Survivors Force List (v2.0)      |           |                                                                   | :heavy_check_mark: | March 2019    |
+| Survivors Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                | :heavy_check_mark: | August 2018   |
+| Survivors Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                | :heavy_check_mark: | March 2019    |
 | Survivors Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
 | Survivors Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
 | Survivors Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v5.0)]      | :heavy_check_mark: | May 2021      |

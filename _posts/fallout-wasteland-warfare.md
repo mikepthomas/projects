@@ -1457,7 +1457,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
 | [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #16] |
 | [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | Wave 2                             |
+| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | July 2020                          |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
