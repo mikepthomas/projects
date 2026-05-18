@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-05-17T12:11:04.008Z
+lastmod: 2026-05-18T10:28:08.208Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -207,6 +207,7 @@ keywords:
 | --------- | -------- | -------- | -------------------------------------- | -------------------------------------- | ----- |
 | Alien     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
 | Deathclaw | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Two Player Starter Set][Wave 1 Rules] |       |
+| Deathclaw | 1        | Resin    | [Creatures: Deathclaw][Wave 1 Minis]   | [Two Player Starter Set][Wave 1 Rules] |       |
 
 ## Enclave
 
@@ -542,7 +543,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | N.I.R.A                   | 1        | Resin    | [Robots: N.I.R.A.][Wave 9 Minis]                     | [Nuka-World Rules Expansion][Wave 9 Rules]     |       |
 | [Protectron](#protectron) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis]    | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 | Robobrain                 | 2        | Resin    | [Robots: Robobrain][Wave 4 Minis]                    | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
-| [Sentry Bot](#sentry-bot) | :x:      | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
+| [Sentry Bot](#sentry-bot) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 | The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 
 #### Protectron
@@ -657,7 +658,8 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Brute                                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
 | Mutant Hound                                    | 2        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           | [Blog][Blog Dogs] |
 | [Super Mutant](#super-mutant)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
-| [Super Mutant Behemoth](#super-mutant-behemoth) | :x:      | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
+| [Super Mutant Behemoth](#super-mutant-behemoth) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
+| Swan                                            | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |                   |
 
 #### Super Mutant
 
@@ -770,6 +772,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | ------------------------------------ | -------- | -------- | ---------------------------------------------------- | -------------------------------------------------- | ----------------- |
 | Cait                                 | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 | Dogmeat                              | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             | [Blog][Blog Dogs] |
+| Dogmeat Guard Dog                    | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   | [Blog][Blog Dogs] |
 | Dogmeat Scout                        | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      | [Blog][Blog Dogs] |
 | Enslaved Tech                        | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |                   |
 | Hancock                              | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
@@ -792,7 +795,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Sturges                              | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 | Vault Dweller                        | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
 | Vault Security Officer               | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| [Sole Survivor Tech](#x-01-survivor) | :x:      | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
+| [Sole Survivor Tech](#x-01-survivor) | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
 | X6-88 Courser                        | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 
 #### Preston Garvey

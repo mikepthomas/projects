@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-17T07:57:41.265Z
+lastmod: 2026-05-18T10:28:01.365Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -227,12 +227,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Creatures
 
-| Item                      | Purchased | Digital | Downloaded | Released   | Notes                                                     |
-| ------------------------- | :-------: | ------- | :--------: | ---------- | --------------------------------------------------------- |
-| [Creatures: Deathclaw]    |    :x:    |         |            | April 2019 |                                                           |
-| Creatures: Feral Ghouls   |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
-| Creatures: Radroaches     |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
-| [Creatures: Radscorpions] |    :x:    |         |            | April 2019 |                                                           |
+| Item                      |     Purchased      | Digital | Downloaded | Released   | Notes                                                     |
+| ------------------------- | :----------------: | ------- | :--------: | ---------- | --------------------------------------------------------- |
+| [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |                                                           |
+| Creatures: Feral Ghouls   |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
+| Creatures: Radroaches     |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
+| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 |                                                           |
 
 [Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
 [Creatures: Radscorpions]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-radscorpions
@@ -251,12 +251,12 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 [Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle)
 
-| Item                       | Purchased | Digital | Downloaded | Released                                  | Notes |
-| -------------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [Super Mutants: Behemoth]  |    :x:    |         |            | [April 2019][DEVELOPMENT BLOG #8]         |
-| [Super Mutants: Core Box]  |    :x:    |         |            | April 2019                                |
-| [Super Mutants: Hammer]    |    :x:    |         |            | April 2019                                |
-| [Super Mutants: Suiciders] |    :x:    |         |            | [April 2019][Blog: Super Mutant Suicider] |
+| Item                       |     Purchased      | Digital | Downloaded | Released                                  | Notes |
+| -------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [Super Mutants: Behemoth]  | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]         |
+| [Super Mutants: Core Box]  |        :x:         |         |            | April 2019                                |
+| [Super Mutants: Hammer]    |        :x:         |         |            | April 2019                                |
+| [Super Mutants: Suiciders] |        :x:         |         |            | [April 2019][Blog: Super Mutant Suicider] |
 
 [Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
 [Super Mutants: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
@@ -412,9 +412,9 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 | [Glowing Ghouls]                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
 | [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]             |
 | [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                           |
-| [Robots: Sentry Bot]                  |        :x:         |                                                       |                    | April 2019                             |
+| [Robots: Sentry Bot]                  | :heavy_check_mark: |                                                       |                    | April 2019                             |
 | [Stealth Boy Coursers]                |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
-| [Survivors: X-01 Survivor & Dogmeat]  |        :x:         |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7]    |
+| [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7]    |
 | [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
@@ -441,7 +441,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | --------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
 | [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial][FF 11/08/23]                           |
 | [Crashed Vertibird]   |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #9] |
-| [Junk Barricades]     |        :x:         |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] |
+| [Junk Barricades]     | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] |
 | [Military Barricades] | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
 | [Turrets]             | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]       | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #13] |
 
@@ -462,13 +462,13 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 Similar items available in the [Streets of Boston](red-rocket#streets-of-boston) `Print at Home` pack.
 
-| Item                     | Purchased | Digital                                            |     Downloaded     | Released    | Notes                                                                                        |
-| ------------------------ | :-------: | -------------------------------------------------- | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
-| [Boston Searchables]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
-| [Boston Street Scatter]  |    :x:    |                                                    |                    | August 2019 |
-| [Cases and Crates]       |    :x:    |                                                    |                    | August 2019 |
-| [Nuka Cola Machines]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
-| [Radioactive Containers] |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
+| Item                     |     Purchased      | Digital                                            |     Downloaded     | Released    | Notes                                                                                        |
+| ------------------------ | :----------------: | -------------------------------------------------- | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
+| [Boston Searchables]     |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
+| [Boston Street Scatter]  |        :x:         |                                                    |                    | August 2019 |
+| [Cases and Crates]       | :heavy_check_mark: |                                                    |                    | August 2019 |
+| [Nuka Cola Machines]     |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
+| [Radioactive Containers] |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
@@ -563,10 +563,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               | Purchased | Digital | Downloaded | Released     | Notes                                |
-| ------------------ | :-------: | ------- | :--------: | ------------ | ------------------------------------ |
-| [Objective Pack 1] |    :x:    |         |            | January 2020 | [Blog: How To Use Objective Markers] |
-| [Objective Pack 2] |    :x:    |         |            | January 2020 | [Blog: How To Use Objective Markers] |
+| Item               |     Purchased      | Digital | Downloaded | Released     | Notes                                |
+| ------------------ | :----------------: | ------- | :--------: | ------------ | ------------------------------------ |
+| [Objective Pack 1] | :heavy_check_mark: |         |            | January 2020 | [Blog: How To Use Objective Markers] |
+| [Objective Pack 2] | :heavy_check_mark: |         |            | January 2020 | [Blog: How To Use Objective Markers] |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
@@ -868,7 +868,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | [Railroad: Core Box]             |        :x:         |         |            | [May 2022][FF 13/05/22]    |
 | [Robots: Mister Handy Pack]      |        :x:         |         |            | [July 2022][FF 08/07/22]   |
 | [Robots: Protectron Workers]     |        :x:         |         |            | [June 2022][FF 10/06/22]   |
-| [Super Mutants: Swan]            |        :x:         |         |            | [July 2022][FF 08/07/22]   | Legendary |
+| [Super Mutants: Swan]            | :heavy_check_mark: |         |            | [July 2022][FF 08/07/22]   | Legendary |
 | [Unaligned: Grognak]             | :heavy_check_mark: |         |            | [April 2022][FF 08/04/22]  | Promo     |
 
 [Creatures: Deathclaw Matriarch]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-deathclaw-matriarch
