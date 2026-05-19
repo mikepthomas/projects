@@ -28,17 +28,16 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
-| Item              | Purchased | Digital                                              |     Downloaded     | Notes                                                                 |
-| ----------------- | :-------: | ---------------------------------------------------- | :----------------: | --------------------------------------------------------------------- |
-| Preserved         |           | [Buy <i class="fa-file-zipper"/>][Preserved]         | :heavy_check_mark: |                                                                       |
-| Ruined            |           | [Buy <i class="fa-file-zipper"/>][Ruined]            | :heavy_check_mark: |                                                                       |
-| Drive Thru        |           | [Buy <i class="fa-file-zipper"/>][Drive Thru]        | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-november-11th) |
-| Streets of Boston |           | [Buy <i class="fa-file-zipper"/>][Streets of Boston] | :heavy_check_mark: |                                                                       |
+| Item              | Purchased | Digital                                              |     Downloaded     | Released                                                                       | Notes |
+| ----------------- | :-------: | ---------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------ | ----- |
+| Preserved         |           | [Buy <i class="fa-file-zipper"/>][Preserved]         | :heavy_check_mark: | February 2021                                                                  |
+| Ruined            |           | [Buy <i class="fa-file-zipper"/>][Ruined]            | :heavy_check_mark: | February 2021                                                                  |
+| Drive Thru        |           | [Buy <i class="fa-file-zipper"/>][Drive Thru]        | :heavy_check_mark: | [November 2022](https://modiphius.net/blogs/news/fallout-friday-november-11th) |
+| Streets of Boston |           | [Buy <i class="fa-file-zipper"/>][Streets of Boston] | :heavy_check_mark: |                                                                                |
 
 [Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
 [Preserved]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl
 [Ruined]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl
-[Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
 [Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 
 I will use elements from all sets to create my own version of the Red Rocket outside of Sanctuary Hills from Fallout 4.

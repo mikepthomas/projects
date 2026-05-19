@@ -711,15 +711,21 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               | Purchased | Digital                                                 |     Downloaded     | Released                | Notes |
-| ------------------ | :-------: | ------------------------------------------------------- | :----------------: | ----------------------- | ----- |
-| [Crashed UFO]      |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]      |        :x:         | [May 2021][FF 14/05/21] |
-| [Robot Work Bench] |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL] | :heavy_check_mark: | May 2021                |
+| Item                  | Purchased | Digital                                                  |     Downloaded     | Released                | Notes |
+| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | ----------------------- | ----- |
+| [Crashed UFO]         |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]       |        :x:         | [May 2021][FF 14/05/21] |
+| Red Rocket Preserved  |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Preserved]  | :heavy_check_mark: | February 2021           |
+| Red Rocket Ruined     |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Ruined]     | :heavy_check_mark: | February 2021           |
+| [Robot Work Bench]    |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL]  | :heavy_check_mark: | May 2021                |
+| Sanctuary Hills House |           | [Buy <i class="fa-file-zipper"/>][Sanctuary Hills House] | :heavy_check_mark: | February 2021           |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
+[Red Rocket Preserved]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl
+[Red Rocket Ruined]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl
 [Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
 [Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
+[Sanctuary Hills House]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl
 
 ### Scenarios
 
@@ -809,13 +815,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item            | Purchased | Digital                                            |     Downloaded     | Released      | Notes |
-| --------------- | :-------: | -------------------------------------------------- | :----------------: | ------------- | ----- |
-| Chryslus Rocket |           | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket] | :heavy_check_mark: | November 2021 |
-| Corvega Coupe   |           | [Buy <i class="fa-file-zipper"/>][Corvega Coupe]   | :heavy_check_mark: | November 2021 |
+| Item                    |     Purchased      | Digital                                                      |     Downloaded     | Released                  | Notes                                 |
+| ----------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ------------------------- | ------------------------------------- |
+| Chryslus Rocket         |                    | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket]           | :heavy_check_mark: | November 2021             |
+| Corvega Coupe           |                    | [Buy <i class="fa-file-zipper"/>][Corvega Coupe]             | :heavy_check_mark: | November 2021             |
+| Settlement Walls        |                    | [Buy <i class="fa-file-zipper"/>][Settlement Walls]          | :heavy_check_mark: | [March 2022][FF 11/03/22] |
+| [Vault-Tec Poster Girl] | :heavy_check_mark: | [Buy <i class="fa-file-zipper"/>][Vault Tec Poster Girl STL] | :heavy_check_mark: |                           | [Vault-Tec Poster Girl (Pre-Colored)] |
 
 [Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
+[Vault-Tec Poster Girl]: https://only-games.co/products/vault-tec-poster-girl
+[Vault-Tec Poster Girl (Pre-Colored)]: https://only-games.co/products/vault-tec-poster-girl-pre-colored
+[Vault Tec Poster Girl STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl
 
 ### Scenarios
 
@@ -1054,7 +1066,7 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 | Item                              |     Purchased      | Digital                                                           |     Downloaded     | Released                    | Notes |
 | --------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | --------------------------- | ----- |
-| Astoundingly Awesome Tales Vol. 2 |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales Vol. 2] |        :x:         |
+| Astoundingly Awesome Tales Vol. 2 |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales Vol. 2] |        :x:         | June 2024                   |
 | [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023][FF 20/10/23] |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
@@ -1068,8 +1080,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 | [Raiders: Disciples Leaders]  |        :x:         |         |            | [October 2023][FF 20/10/23] |
 | [Raiders: Operators Bosses]   |        :x:         |         |            | [October 2023][FF 20/10/23] |
 | [Raiders: The Pack Top Dogs]  |        :x:         |         |            | [October 2023][FF 20/10/23] |
-| [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            |                             | Promo |
-| [Unaligned: X-01 Power Armor] |        :x:         |         |            |
+| [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            | October 2023                | Promo |
+| [Unaligned: X-01 Power Armor] |        :x:         |         |            | May 2024                    |
 
 [Raiders: Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
 [Raiders: Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
@@ -1081,11 +1093,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 | Item            | Purchased | Digital                                            |     Downloaded     | Released   | Notes                                              |
 | --------------- | :-------: | -------------------------------------------------- | :----------------: | ---------- | -------------------------------------------------- |
-| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: | June 2024  | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola-Cars Arena] | :heavy_check_mark: | June 2024  | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
 | Galactic Zone   |           | [Buy <i class="fa-file-zipper"/>][Galactic Zone]   | :heavy_check_mark: | May 2024   | [Rides for Nuka-World](nuka-world#galactic-zone)   |
 | Kiddie Kingdom  |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom]  | :heavy_check_mark: | March 2024 | [Rides for Nuka-World](nuka-world#kiddie-kingdom)  |
 
-[Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
+[Cola-Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
 [Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
 
@@ -1235,12 +1247,14 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
-| Item               |     Purchased      | Digital                                                                    |     Downloaded     | Released                     | Notes                                  |
-| ------------------ | :----------------: | -------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
-| [Hollywood Heroes] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024][FF 22/03/24]    | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Icons]  | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025][FF 21/11/25] |
+| Item                         |     Purchased      | Digital                                                                    |     Downloaded     | Released                     | Notes                                  |
+| ---------------------------- | :----------------: | -------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
+| [Hollywood Heroes]           | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024][FF 22/03/24]    | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Heroes (PVC Set)] |        :x:         |                                                                            |                    | November 2025                | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Icons]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025][FF 21/11/25] |
 
 [Hollywood Heroes]: https://modiphius.net/products/fallout-the-series-miniatures-set
+[Hollywood Heroes (PVC Set)]: https://modiphius.net/products/fallout-miniatures-hollywood-heroes-amazon-tv-show-tie-in-pvc-set
 [Hollywood Heroes Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5e0fc23b-3c3a-4f6c-a6ce-a6203be16138/Fallout_-Miniatures_Hollywood_Heroes_Instruction_Guide_V2-0.pdf
 [Hollywood Icons]: https://modiphius.net/products/fallout-miniatures-hollywood-icons-amazon-tv-show-tie-in
 [Hollywood Icons Assembly Guide]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7c04e0f5-822a-476d-8f4a-2382dac2f4ac/Fallout_Hollywood-Icons_AssemblyGuide_V2.pdf
@@ -1542,7 +1556,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Issue No. 1 - Orange Coloured Sky][Astoundingly Awesome Tales 1-5]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 1] | :heavy_check_mark: | February 2023                |
 | [Issue No. 2 - Fully Operational][Astoundingly Awesome Tales 1-5]          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 2] | :heavy_check_mark: | March 2023                   |
 | [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 3] | :heavy_check_mark: | [November 2023][FF 17/11/23] |
-| [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 4] | :heavy_check_mark: |
+| [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 4] | :heavy_check_mark: | March 2024                   |
 | [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                                              |                    |                              | Only available as bonus in physical book |
 | Issue No. 6 - Into the Abyss                                               |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                  |
 
@@ -1643,7 +1657,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                 |     Purchased      | Digital                                              |     Downloaded     | Released                    | Notes |
 | -------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------------------- | ----- |
-| [Core Rulebook]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]    | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
+| [Rulebook]           | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Rulebook PDF]         | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
 | ┕ [King of the Park] | :heavy_check_mark: |                                                      |                    |                             | Promo |
 | [Crew Folio]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: | [January 2026][FF 23/01/26] |
 | ┕ [Rogue Knight]     | :heavy_check_mark: |                                                      |                    | May 2026                    | Promo |
@@ -1652,8 +1666,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | C.O.M.P. Kit         |                    | [Free <i class="fa-file-pdf"/>][C.O.M.P. Kit]        | :heavy_check_mark: | [May 2026][Factions COMP]   |
 
 [C.O.M.P. Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e52b1e8f-bced-4aa1-b93e-d04fa975618b/FF-COMPKit-2026-M1.pdf
-[Core Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
-[Core Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
+[Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
+[Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
 [Crew Folio PDF]: https://modiphius.net/products/fallout-factions-crew-folio-pdf
 [King of the Park]: https://modiphius.net/products/fallout-miniatures-king-of-the-park-limited-run
@@ -1690,9 +1704,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    | [July 2024][FF 19/07/24]     | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
 | ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
 | ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025][FF 21/03/25]    | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
-| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Operators Dice Set]                                               |
-| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: |                              | [Dice Set][The Pack Dice Set]                                                    |
-| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: |                              | [Dice Set][The Disciples Dice Set]                                               |
+| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Operators Dice Set]                                               |
+| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: | July 2024                    | [Dice Set][The Pack Dice Set]                                                    |
+| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Disciples Dice Set]                                               |
 | [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                                              |                    |                              | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
 | Welcome to Nuka-World Quickstart    |                    | [Free <i class="fa-file-pdf"/>][Nuka-World Quickstart]                       | :heavy_check_mark: | [February 2024][PR 20/03/24] |
 
@@ -1730,6 +1744,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Battle for Boston Dev Blog #4]: https://modiphius.net/blogs/news/battle-for-boston-dev-blog-4-minutemen
 
 ### Items
+
+[Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle)
 
 | Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Pre-Release                  | Notes                           |
 | -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ---------------------------- | ------------------------------- |
