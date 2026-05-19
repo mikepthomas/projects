@@ -49,17 +49,17 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                              | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottle_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Bottle_Foot_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Foot_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Arm_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Arm_R][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Body][Bottle and Cappy]    | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Cappy_Leg_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                              | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bottle_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Bottle_Foot_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Foot_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_R][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Body][Bottle and Cappy]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Cappy_Leg_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle and Cappy Laid Back
 
@@ -67,18 +67,18 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                             | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottle_Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Bottle_Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Bottle_Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Cappy_Leg_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Cappy_Leg_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                             | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bottle_Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Bottle_Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Cappy_Leg_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Leg_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Pointing Left
 
@@ -86,13 +86,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Pointing Right
 
@@ -100,13 +100,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Waving
 
@@ -114,13 +114,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Pointing Left
 
@@ -128,13 +128,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Pointing Right
 
@@ -142,13 +142,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Sitting Waving
 
@@ -156,13 +156,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Waving
 
@@ -170,13 +170,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 # Nuka Town, USA
 
@@ -188,7 +188,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 | Item            | Purchased | Digital                                            |     Downloaded     | Notes |
 | --------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
-| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |       |
+| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola Cars Arena] | :heavy_check_mark: |
 
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 
@@ -198,11 +198,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                         | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Bottle Stand 2
 
@@ -210,12 +210,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                         | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_03][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_03][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Bottle Stand 3
 
@@ -223,11 +223,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                         | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Cola Cars
 
@@ -235,12 +235,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                              | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Cola_Car_01][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Cola_Car_02][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Cola_Car_03][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Steering_Wheel][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Cola_Car_01][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cola_Car_02][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cola_Car_03][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Cola Car Display Stand
 
@@ -248,19 +248,19 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_01][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Base_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Car_01][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Car_02][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Letters][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Post_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Post_03][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Railing][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Sign][Cola Cars Arena]             | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [SteeringWheel_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [SteeringWheel_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_01][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Car_01][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Car_02][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Letters][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Post_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Post_03][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Railing][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Sign][Cola Cars Arena]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [SteeringWheel_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [SteeringWheel_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Dry Rock Gulch
 
@@ -280,31 +280,31 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 #### Facade
 
-| Item                                           | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Porch][Dry Rock Gulch Buildings]              | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchColumn_Broken][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchColumns][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchRoof][Dry Rock Gulch Buildings]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]              | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumn_Broken][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                   | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_08A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| ~[Sign_08B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                   | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_08A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ~[Sign_08B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 2 (Sherrif)
 
@@ -314,36 +314,36 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Balcony][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Railing_01][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Railing_02][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Railing_03][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Railing_04][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Balcony][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_01][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_02][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_03][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_04][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 3 (General Store)
 
@@ -353,83 +353,83 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                   | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_07A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| ~[Sign_07B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                   | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_07A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ~[Sign_07B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 4 (Barber & Dentist)
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 5 (Undertaker)
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_06][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_06][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 6 (Blacksmith)
 
@@ -439,82 +439,82 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 7 (Boarding - Shoeing)
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_04][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_04][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 8 (Gunsmith)
 
 #### Facade
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
-| Item                                | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Sign_05][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_05][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
-| Item                                     | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Windmill
 
@@ -522,19 +522,19 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                       | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Dry Rock Gulch Buildings]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Blades][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Brace_Lower_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Brace_Lower_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Brace_Upper_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Brace_Upper_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [CenterPole][Dry Rock Gulch Buildings]     | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Platform_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Side_01][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Side_02][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Upper_Platform][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------ | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Dry Rock Gulch Buildings]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Blades][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Lower_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Lower_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Upper_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Upper_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [CenterPole][Dry Rock Gulch Buildings]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Platform_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Side_01][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Side_02][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Upper_Platform][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ## Bundle
 
@@ -546,12 +546,12 @@ The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland
 
 | Item                        | Purchased | Digital                                                       |     Downloaded     | Notes                                                                                                             |
 | --------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Ant Nests                   |           | [Buy <i class="fa-file-zipper"/>][Ant Nests]                  | :heavy_check_mark: |                                                                                                                   |
-| Barrels, Crates and Coffins |           | [Buy <i class="fa-file-zipper"/>][Barrels Crates and Coffins] | :heavy_check_mark: |                                                                                                                   |
+| Ant Nests                   |           | [Buy <i class="fa-file-zipper"/>][Ant Nests]                  | :heavy_check_mark: |
+| Barrels, Crates and Coffins |           | [Buy <i class="fa-file-zipper"/>][Barrels Crates and Coffins] | :heavy_check_mark: |
 | Cacti Stands                |           | [Buy <i class="fa-file-zipper"/>][Cacti Stands]               | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
 | Graveyard                   |           | [Buy <i class="fa-file-zipper"/>][Graveyard]                  | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-| Stingwing Nests             |           | [Buy <i class="fa-file-zipper"/>][Stingwing Nests]            | :heavy_check_mark: |                                                                                                                   |
-| Wrecked Rollercoaster       |           | [Buy <i class="fa-file-zipper"/>][Wrecked Rollercoaster]      | :heavy_check_mark: |                                                                                                                   |
+| Stingwing Nests             |           | [Buy <i class="fa-file-zipper"/>][Stingwing Nests]            | :heavy_check_mark: |
+| Wrecked Rollercoaster       |           | [Buy <i class="fa-file-zipper"/>][Wrecked Rollercoaster]      | :heavy_check_mark: |
 
 [Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
 [Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
@@ -574,12 +574,12 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                    | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Ant][Ant Nests]        | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |      |        |      |   :x:   |       |
-| [AntNest_01][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [AntNest_02][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [AntNest_03][Ant Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                    | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Ant][Ant Nests]        | ?        | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [AntNest_01][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [AntNest_02][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [AntNest_03][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Barrels, Crates and Coffins
 
@@ -587,17 +587,17 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                                           | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BarrelsCratesCoffins_01][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_02][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_03_Base][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_03_Lamp][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_03_LampPole][Barrels Crates and Coffins] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_04_A][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_04_B][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_05][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [BarrelsCratesCoffins_06][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BarrelsCratesCoffins_01][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_02][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_Base][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_Lamp][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_LampPole][Barrels Crates and Coffins] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_04_A][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_04_B][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_05][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_06][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Cacti Stands
 
@@ -611,11 +611,11 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 2
 
@@ -623,12 +623,12 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 3
 
@@ -636,13 +636,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
-| [Cactii_04][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_04][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 4
 
@@ -650,10 +650,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)           |      |      |        |      |   :x:   |       |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)](printer-filament#esun-abs-pine-green) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Graveyard
 
@@ -661,22 +661,22 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                            | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Gravestone_A_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Gravestone_A][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Gravestone_B_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Gravestone_B][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Gravestone_C_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Gravestone_C][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Gravestone_D_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Gravestone_D][Graveyard]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Gravestone_E_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Gravestone_E][Graveyard]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Fence_01][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Fence_02][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Fence_03][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Fence_04][Graveyard]           | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Gravestone_A_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_A][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_B_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_B][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_C_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_C][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_D_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_D][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_E_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_E][Graveyard]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_01][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_02][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_03][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_04][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Stingwing Nests
 
@@ -684,11 +684,11 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                 | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Stingwing_Nest_01][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Stingwing_Nest_02][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Stingwing_Nest_03][Stingwing Nests] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                                 | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Stingwing_Nest_01][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Stingwing_Nest_02][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Stingwing_Nest_03][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Wrecked Rollercoaster
 
@@ -696,16 +696,16 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                  | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_A][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Base_B][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Cart_01][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Cart_02][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Cart_02_Legs][Wrecked Rollercoaster] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Cart_03][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Peg][Wrecked Rollercoaster]          | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
-| [Rail][Wrecked Rollercoaster]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)   |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_A][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Base_B][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Cart_01][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_02][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_02_Legs][Wrecked Rollercoaster] | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_03][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Peg][Wrecked Rollercoaster]          | 2        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Rail][Wrecked Rollercoaster]         | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
 
 # Galactic Zone
 
@@ -713,7 +713,7 @@ There is also a sampler containing some of the items from the bundle:
 
 | Item            | Purchased | Digital                                            |     Downloaded     | Notes |
 | --------------- | :-------: | -------------------------------------------------- | :----------------: | ----- |
-| Space Adventure |           | [Buy <i class="fa-file-zipper"/>][Space Adventure] | :heavy_check_mark: |       |
+| Space Adventure |           | [Buy <i class="fa-file-zipper"/>][Space Adventure] | :heavy_check_mark: |
 
 [Space Adventure]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
 
@@ -723,13 +723,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                           | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------ | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Asteroid_01][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Asteroid_02][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Asteroid_03][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Asteroid_04][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Asteroid_05][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                           | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Asteroid_01][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_02][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_03][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_04][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_05][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Dead Alien Animatronics
 
@@ -737,15 +737,15 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Alien_01_Base_Detailed][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| ~[Alien_01_Base_Plain][Space Adventure]~  | ~1~      | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Alien_01][Space Adventure]               | 1        | [eSun ABS+ (Peak Green)](printer-filament#esun-abs-peak-green) |      |      |        |      |   :x:   |       |
-| [Alien_02_Base][Space Adventure]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Alien_02_Telescope][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Tech_Pod][Space Adventure]               | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Telescope][Space Adventure]              | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
+| Item                                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Alien_01_Base_Detailed][Space Adventure] | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| ~[Alien_01_Base_Plain][Space Adventure]~  | ~1~      | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_01][Space Adventure]               | 1        | [eSun ABS+ (Peak Green)] |      |      |        |      |   :x:   |
+| [Alien_02_Base][Space Adventure]          | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_02_Telescope][Space Adventure]     | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Tech_Pod][Space Adventure]               | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Telescope][Space Adventure]              | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
 
 ### Nuka-Girl Rocket
 
@@ -755,34 +755,34 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Nuka-Girl Rocket
 
-| Item                         | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Nuka_Girl][Space Adventure] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Planet][Space Adventure]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)             |      |      |        |      |   :x:   |       |
-| [Rocket][Space Adventure]    | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)               |      |      |        |      |   :x:   |       |
+| Item                         | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Nuka_Girl][Space Adventure] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Planet][Space Adventure]    | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Rocket][Space Adventure]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket
 
-| Item                                     | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Nuka_Cola_Rocket][Space Adventure]      | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Nuka_Rocket_Trash_Can][Space Adventure] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                                     | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Nuka_Cola_Rocket][Space Adventure]      | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Nuka_Rocket_Trash_Can][Space Adventure] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket Kiddie Ride
 
-| Item                                | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Kiddie_Ride][Space Adventure]      | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)   |      |      |        |      |   :x:   |       |
-| [Kiddie_Ride_Base][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Kiddie_Ride][Space Adventure]      | 1        | [eSun ABS+ (Red)]  |      |      |        |      |   :x:   |
+| [Kiddie_Ride_Base][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Wrecked Nuka-Rocket Car
 
-| Item                         | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Handlebar][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rail][Space Adventure]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Handlebar][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rail][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Nuka-Globes
 
@@ -792,33 +792,33 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Globe 1
 
-| Item                            | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_01][Space Adventure]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Base_02][Space Adventure]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Column][Space Adventure]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Fountain][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Globe_Stand][Space Adventure]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_01][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base_02][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Column][Space Adventure]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Fountain][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Stand][Space Adventure]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Globe 2
 
-| Item                            | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Space Adventure]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Kiddie Kingdom
 
@@ -828,7 +828,7 @@ There is also a sampler containing some of the items from the bundle:
 
 | Item           | Purchased | Digital                                           |     Downloaded     | Notes |
 | -------------- | :-------: | ------------------------------------------------- | :----------------: | ----- |
-| Kiddie Kingdom |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom] | :heavy_check_mark: |       |
+| Kiddie Kingdom |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom] | :heavy_check_mark: |
 
 [Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
 
@@ -842,136 +842,136 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Inner
 
-| Item                       | Quantity | Material                                             | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ---------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Inner_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
-| [Inner_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown) |      |      |        |      |   :x:   |       |
+| Item                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Inner_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Outer
 
-| Item                       | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Outer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Outer_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Outer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Rings
 
 #### Upper Ring
 
-| Item                            | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Upper_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Upper_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Upper_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Middle Ring
 
-| Item                             | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Middle_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Middle_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Middle_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Middle_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                             | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Middle_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Lower Ring
 
-| Item                            | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Lower_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Lower_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Lower_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Signs
 
-| Item                      | Quantity | Material                                                       | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Sign_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
-| [Sign_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)](printer-filament#esun-abs-cold-white) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Sign_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Rockets
 
 #### Rocket Arms
 
-| Item                            | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Rocket_Arm_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rocket_Arm_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Rocket_Arm_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Rockets
 
-| Item                        | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Rocket_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Rocket_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                        | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Rocket_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ### Tower
 
 #### Braces
 
-| Item                       | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Brace_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Brace_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Brace_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Tower
 
-| Item                              | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Tower_01][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_02][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_03][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_04][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_05][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_06][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_07][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_08_Bottom][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
-| [Tower_08_Top][Kiddie Kingdom]    | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                              | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Tower_01][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_02][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_03][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_04][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_05][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_06][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_07][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_08_Bottom][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_08_Top][Kiddie Kingdom]    | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ## Medallion Vendor
 
@@ -979,9 +979,9 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                               | Quantity | Material                                         | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | ------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Medallion_Vendor][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |      |        |      |   :x:   |       |
+| Item                               | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Medallion_Vendor][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ## Sign Posts
 
@@ -991,34 +991,34 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Poles
 
-| Item                     | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------ | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [2Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [4Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [6Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Base][Kiddie Kingdom]   | 3        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Top][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                     | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [2Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [4Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [6Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base][Kiddie Kingdom]   | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Signs
 
-| Item                                | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BATTLEZONE][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [EXIT][Kiddie Kingdom]              | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [FIRST_AID][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [FUNHOUSE][Kiddie Kingdom]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [GAMES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [GIFT_SHOP][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [INFORMATION][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [KING_KOLAS_CASTLE][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [NUKA_RACERS][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [NUKA-GALAXY][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [REFRESHMENTS][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [RESTROOMS][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [RIDES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [STAR_CONTROL][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [THEATER][Kiddie Kingdom]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [VAULT-TEC][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BATTLEZONE][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [EXIT][Kiddie Kingdom]              | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [FIRST_AID][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [FUNHOUSE][Kiddie Kingdom]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [GAMES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [GIFT_SHOP][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [INFORMATION][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [KING_KOLAS_CASTLE][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [NUKA_RACERS][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [NUKA-GALAXY][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [REFRESHMENTS][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [RESTROOMS][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [RIDES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [STAR_CONTROL][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [THEATER][Kiddie Kingdom]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [VAULT-TEC][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Tea-Cups
 
@@ -1026,15 +1026,15 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                        | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Column][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Saucer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Saucer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Saucer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [TeaCup_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [TeaCup_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [TeaCup_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                        | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Column][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Vendor Cart
 
@@ -1042,18 +1042,18 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                            | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes              |
-| ------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------ |
-| ~[Cart_01][Kiddie Kingdom]~     | ~1~      | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   | Plain              |
-| [Cart_02][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   | Nuka-World Branded |
-| [Dispenser][Kiddie Kingdom]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Ground][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Shelves][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Small_Wheels][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Umbrella_Pole][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Umbrella][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Wheel_01][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
-| [Wheel_02][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |                    |
+| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes              |
+| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ------------------ |
+| ~[Cart_01][Kiddie Kingdom]~     | ~1~      | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Plain              |
+| [Cart_02][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Nuka-World Branded |
+| [Dispenser][Kiddie Kingdom]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Ground][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Shelves][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Small_Wheels][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Umbrella_Pole][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Umbrella][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_01][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_02][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Wrecked Ferris Wheel Car
 
@@ -1061,13 +1061,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                      | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Ground][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Railing][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Roof][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Sign][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                      | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Ground][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Railing][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Roof][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Sign][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Parking Lot
 
@@ -1087,14 +1087,14 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item          | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| CenterColumn  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Columns       | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Railing_Lower | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Railing_Upper | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)        |      |      |        |      |   :x:   |       |
-| Roof          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)        |      |      |        |      |   :x:   |       |
+| Item          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Base          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| CenterColumn  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Columns       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Railing_Lower | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Railing_Upper | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| Roof          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ### Small
 
@@ -1102,13 +1102,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item          | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base_Full     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Columns       | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Railing_Lower | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Railing_Upper | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)        |      |      |        |      |   :x:   |       |
-| Roof          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)        |      |      |        |      |   :x:   |       |
+| Item          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Base_Full     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| Columns       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Railing_Lower | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Railing_Upper | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| Roof          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ## Lamp Post
 
@@ -1118,13 +1118,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item     | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| -------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Banner   | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Base     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| LampBase | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Pole     | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Top      | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
+| Item     | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| -------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Banner   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Base     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| LampBase | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Pole     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Top      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ### Single
 
@@ -1132,13 +1132,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item     | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| -------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Banner   | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Base     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| LampBase | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Pole     | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| Top      | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
+| Item     | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| -------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Banner   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Base     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| LampBase | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Pole     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Top      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Bench
 
@@ -1146,10 +1146,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item  | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ----- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| Bench | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
+| Item  | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ----- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Base  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| Bench | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Map
 
@@ -1157,16 +1157,16 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Bottom                 | 7        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_DryRockGulch       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_GalacticZone       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_KiddieKingdom      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_NukaTownUSA        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_ParkMap            | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_SafariAdventure    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| Top_WorldOfRefreshment | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| Bottom                 | 7        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_DryRockGulch       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_GalacticZone       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_KiddieKingdom      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_NukaTownUSA        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_ParkMap            | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_SafariAdventure    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Top_WorldOfRefreshment | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Trash Can
 
@@ -1176,10 +1176,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item      | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| --------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| TrashBin  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)          |      |      |        |      |   :x:   |       |
-| TrashPile | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item      | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| TrashBin  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| TrashPile | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Trash Can 2
 
@@ -1187,10 +1187,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item      | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| --------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| TrashBin  | 1        | [eSun ABS+ (Brown)](printer-filament#esun-abs-brown)      |      |      |        |      |   :x:   |       |
-| TrashPile | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item      | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| TrashBin  | 1        | [eSun ABS+ (Brown)]   |      |      |        |      |   :x:   |
+| TrashPile | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 # Vehicles
 
@@ -1207,26 +1207,26 @@ The `Nuka world Parking Lot` comes with:
 
 | Item              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Back              | 1        |          |      |      |        |      |   :x:   |       |
-| Bench             | 4        |          |      |      |        |      |   :x:   |       |
-| Body_Peg          | 4        |          |      |      |        |      |   :x:   |       |
-| Damaged_Roof_Back | 1        |          |      |      |        |      |   :x:   |       |
-| Damaged_Struts_02 | 1        |          |      |      |        |      |   :x:   |       |
-| Damaged_Struts    | 1        |          |      |      |        |      |   :x:   |       |
-| Damaged           | 1        |          |      |      |        |      |   :x:   |       |
-| Door_Top          | 1        |          |      |      |        |      |   :x:   |       |
-| Door              | 1        |          |      |      |        |      |   :x:   |       |
-| Drivers_Chair     | 1        |          |      |      |        |      |   :x:   |       |
-| Front_Bumper      | 1        |          |      |      |        |      |   :x:   |       |
-| Front             | 1        |          |      |      |        |      |   :x:   |       |
-| Mirror_L          | 1        |          |      |      |        |      |   :x:   |       |
-| Mirror_R          | 1        |          |      |      |        |      |   :x:   |       |
-| Roof_Back         | 1        |          |      |      |        |      |   :x:   |       |
-| Roof_Front        | 1        |          |      |      |        |      |   :x:   |       |
-| Roof_Light_L      | 1        |          |      |      |        |      |   :x:   |       |
-| Roof_Light_R      | 1        |          |      |      |        |      |   :x:   |       |
-| Steering_Wheel    | 1        |          |      |      |        |      |   :x:   |       |
-| Window            | 1        |          |      |      |        |      |   :x:   |       |
+| Back              | 1        |          |      |      |        |      |   :x:   |
+| Bench             | 4        |          |      |      |        |      |   :x:   |
+| Body_Peg          | 4        |          |      |      |        |      |   :x:   |
+| Damaged_Roof_Back | 1        |          |      |      |        |      |   :x:   |
+| Damaged_Struts_02 | 1        |          |      |      |        |      |   :x:   |
+| Damaged_Struts    | 1        |          |      |      |        |      |   :x:   |
+| Damaged           | 1        |          |      |      |        |      |   :x:   |
+| Door_Top          | 1        |          |      |      |        |      |   :x:   |
+| Door              | 1        |          |      |      |        |      |   :x:   |
+| Drivers_Chair     | 1        |          |      |      |        |      |   :x:   |
+| Front_Bumper      | 1        |          |      |      |        |      |   :x:   |
+| Front             | 1        |          |      |      |        |      |   :x:   |
+| Mirror_L          | 1        |          |      |      |        |      |   :x:   |
+| Mirror_R          | 1        |          |      |      |        |      |   :x:   |
+| Roof_Back         | 1        |          |      |      |        |      |   :x:   |
+| Roof_Front        | 1        |          |      |      |        |      |   :x:   |
+| Roof_Light_L      | 1        |          |      |      |        |      |   :x:   |
+| Roof_Light_R      | 1        |          |      |      |        |      |   :x:   |
+| Steering_Wheel    | 1        |          |      |      |        |      |   :x:   |
+| Window            | 1        |          |      |      |        |      |   :x:   |
 
 ## Pickup Truck
 
@@ -1236,13 +1236,23 @@ The `Nuka world Parking Lot` comes with:
 
 | Item          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
 | ------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Bed           | 1        |          |      |      |        |      |   :x:   |       |
-| Chassis       | 1        |          |      |      |        |      |   :x:   |       |
-| Door_L        | 1        |          |      |      |        |      |   :x:   |       |
-| Door_R        | 1        |          |      |      |        |      |   :x:   |       |
-| Mirror_L      | 1        |          |      |      |        |      |   :x:   |       |
-| Mirror_R      | 1        |          |      |      |        |      |   :x:   |       |
-| Roof          | 1        |          |      |      |        |      |   :x:   |       |
-| Seat          | 1        |          |      |      |        |      |   :x:   |       |
-| SteeringWheel | 1        |          |      |      |        |      |   :x:   |       |
-| TailGate      | 1        |          |      |      |        |      |   :x:   |       |
+| Bed           | 1        |          |      |      |        |      |   :x:   |
+| Chassis       | 1        |          |      |      |        |      |   :x:   |
+| Door_L        | 1        |          |      |      |        |      |   :x:   |
+| Door_R        | 1        |          |      |      |        |      |   :x:   |
+| Mirror_L      | 1        |          |      |      |        |      |   :x:   |
+| Mirror_R      | 1        |          |      |      |        |      |   :x:   |
+| Roof          | 1        |          |      |      |        |      |   :x:   |
+| Seat          | 1        |          |      |      |        |      |   :x:   |
+| SteeringWheel | 1        |          |      |      |        |      |   :x:   |
+| TailGate      | 1        |          |      |      |        |      |   :x:   |
+
+[Filament]: #
+[eSun ABS+ (Black)]: printer-filament#esun-abs-black
+[eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
+[eSun ABS+ (Cold White)]: printer-filament#esun-abs-cold-white
+[eSun ABS+ (Grey)]: printer-filament#esun-abs-grey
+[eSun ABS+ (Peak Green)]: printer-filament#esun-abs-peak-green
+[eSun ABS+ (Pine Green)]: printer-filament#esun-abs-pine-green
+[eSun ABS+ (Red)]: printer-filament#esun-abs-red
+[Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
