@@ -26,6 +26,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import cn from 'classnames';
 import React from 'react';
+import reactStringReplace from 'react-string-replace';
 import { Table } from 'reactstrap';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
@@ -56,6 +57,30 @@ export function getComponents() {
           </motion.span>
         );
       } else if (href?.match(/^(https?:)?\/\//)) {
+        const insertFontawesomeIcons = (children) => {
+          return React.Children.map(children, (childNode) => {
+            if (typeof childNode === 'string')
+              return reactStringReplace(
+                childNode,
+                /:(pdf|reddit|zip):/g,
+                (match) => {
+                  switch (match) {
+                    case 'pdf':
+                      return <FontAwesomeIcon icon="file-pdf" />;
+                    case 'reddit':
+                      return <FontAwesomeIcon icon={['fab', 'reddit-alien']} />;
+                    case 'zip':
+                      return <FontAwesomeIcon icon="file-zipper" />;
+                  }
+                },
+              );
+            return React.cloneElement(
+              childNode,
+              [],
+              insertFontawesomeIcons(childNode.props.children),
+            );
+          });
+        };
         return (
           <a
             className="text-nowrap"
@@ -64,7 +89,7 @@ export function getComponents() {
             target="_blank"
             title={title}
           >
-            {children}
+            {insertFontawesomeIcons(children)}
           </a>
         );
       } else {

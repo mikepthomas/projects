@@ -110,16 +110,16 @@ Alternatively check out the [old version on the Internet Archive](https://web.ar
 
 A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
-| Item                     |     Purchased      | Digital                                             |     Downloaded     | Released                          | Notes                                                          |
-| ------------------------ | :----------------: | --------------------------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
-| [Settlement Deck]        | :heavy_check_mark: |                                                     |                    | April 2019                        | Discontinued, but some cards are available in later card packs |
-| [Two Player Starter Set] | :heavy_check_mark: |                                                     |                    | [April 2019][DEVELOPMENT BLOG #1] |
-| ┝ Cards                  | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Dice & Rulers          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
-| ┝ Getting Acclimated     | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Rules of Play          | :heavy_check_mark: | [Free <i class="fa-file-pdf"/>][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Campaign Book          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┕ [Zetan]                | :heavy_check_mark: |                                                     |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
+| Item                     |     Purchased      | Digital                          |     Downloaded     | Released                          | Notes                                                          |
+| ------------------------ | :----------------: | -------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
+| [Settlement Deck]        | :heavy_check_mark: |                                  |                    | April 2019                        | Discontinued, but some cards are available in later card packs |
+| [Two Player Starter Set] | :heavy_check_mark: |                                  |                    | [April 2019][DEVELOPMENT BLOG #1] |
+| ┝ Cards                  | :heavy_check_mark: | [Free :pdf:][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Dice & Rulers          | :heavy_check_mark: | [Free :pdf:][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
+| ┝ Getting Acclimated     | :heavy_check_mark: | [Free :pdf:][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Rules of Play          | :heavy_check_mark: | [Free :pdf:][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Campaign Book          | :heavy_check_mark: | [Buy :pdf:][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┕ [Zetan]                | :heavy_check_mark: |                                  |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
 [Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
@@ -176,11 +176,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Accessories
 
-| Item                    |     Purchased      | Digital                                                              |     Downloaded     | Released                           | Notes                                                                                                                                            |
-| ----------------------- | :----------------: | -------------------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Acrylic Rulers          |        :x:         |                                                                      |                    | April 2019                         | Discontinued                                                                                                                                     |
-| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                                      |                    | April 2019                         | Contains stickers so that they can be used as in game tokens                                                                                     |
-| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
+| Item                    |     Purchased      | Digital                                           |     Downloaded     | Released                           | Notes                                                                                                                                            |
+| ----------------------- | :----------------: | ------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Acrylic Rulers          |        :x:         |                                                   |                    | April 2019                         | Discontinued                                                                                                                                     |
+| [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                   |                    | April 2019                         | Contains stickers so that they can be used as in game tokens                                                                                     |
+| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide :pdf:][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
 
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
@@ -283,19 +283,19 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Fallout Wasteland Warfare Box
 
-| Item                                     | Purchased | Digital                                                                                                                         |     Downloaded     | Released   | Notes |
-| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
-| SCP-001-111: Ad Victorium                |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 |
-| SCP-002-111: Big John’s Salvage Showdown |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 |
-| SCP-003-111: Quest for Knowledge         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 |
-| SCP-004-111: Radio Tower Takeover        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 |
-| SCP-005-111: Flip's Revenge              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 |
-| SCP-006-111: Sanctuary Hills Sweep       |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 |
-| SCP-007-111: Psychotrip                  |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 |
-| SCP-008-111: The Jury Street Colossus    |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 |
-| SCP-009-111: Midwest Encounter           |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 |
-| SCP-010-111: Benny's Request             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 |
-| SCP-011-111: Atomic Sprint!              |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 |
+| Item                                     | Purchased | Digital                                                                                                      |     Downloaded     | Released   | Notes |
+| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------- | ----- |
+| SCP-001-111: Ad Victorium                |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 |
+| SCP-002-111: Big John’s Salvage Showdown |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 |
+| SCP-003-111: Quest for Knowledge         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 |
+| SCP-004-111: Radio Tower Takeover        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 |
+| SCP-005-111: Flip's Revenge              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 |
+| SCP-006-111: Sanctuary Hills Sweep       |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 |
+| SCP-007-111: Psychotrip                  |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 |
+| SCP-008-111: The Jury Street Colossus    |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 |
+| SCP-009-111: Midwest Encounter           |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 |
+| SCP-010-111: Benny's Request             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 |
+| SCP-011-111: Atomic Sprint!              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 |
 
 ##### Big John’s Salvage Showdown
 
@@ -307,28 +307,28 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Robots
 
-| Item                            | Purchased | Digital                                                                                                                          |     Downloaded     | Released   | Notes |
-| ------------------------------- | :-------: | -------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
-| SCP-012-111: Steel-Clad Manhunt |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 |
-| SCP-013-111: Protectron Parade! |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
-| SCP-014-111: Deadly Run         |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
-| SCP-015-111: Target Locked      |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
+| Item                            | Purchased | Digital                                                                                                       |     Downloaded     | Released   | Notes |
+| ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| SCP-012-111: Steel-Clad Manhunt |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-013-111: Protectron Parade! |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
+| SCP-014-111: Deadly Run         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
+| SCP-015-111: Target Locked      |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
 
 #### Creatures
 
-| Item                                  | Purchased | Digital                                                                                                                             |     Downloaded     | Released   | Notes |
-| ------------------------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
-| SCP-016-111: Hunters of the Wasteland |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 |
-| SCP-017-111: Old Gullet's Deathtrap   |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
-| SCP-018-111: DC Metro Raid            |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
-| SCP-019-111: Chemtest Pit             |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
-| SCP-020-111: Den of Pestilence        |           | [Free <i class="fa-file-pdf"/>](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 |
+| Item                                  | Purchased | Digital                                                                                                          |     Downloaded     | Released   | Notes |
+| ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| SCP-016-111: Hunters of the Wasteland |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-017-111: Old Gullet's Deathtrap   |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
+| SCP-018-111: DC Metro Raid            |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
+| SCP-019-111: Chemtest Pit             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
+| SCP-020-111: Den of Pestilence        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 |
 
 #### Promo
 
-| Item                   | Purchased | Digital                                                                                                                                   |     Downloaded     | Released                   | Notes                         |
-| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------- | ----------------------------- |
-| SCP-021-111: The Shoot |           | [Read on Reddit <i class="fab fa-reddit-alien"/>](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | [August 2019][PR 12/08/19] | Scenario for [Nuka Cola Girl] |
+| Item                   | Purchased | Digital                                                                                                           |     Downloaded     | Released                   | Notes                         |
+| ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------- | ----------------------------- |
+| SCP-021-111: The Shoot |           | [Read on Reddit :reddit:](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | [August 2019][PR 12/08/19] | Scenario for [Nuka Cola Girl] |
 
 ##### The Shoot
 
@@ -375,10 +375,10 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 ### Rules
 
-| Item                               |     Purchased      | Digital                                                  |     Downloaded     | Released                                   | Notes |
-| ---------------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ------------------------------------------ | ----- |
-| Liberty Prime Expansion            |                    | [Free <i class="fa-file-pdf"/>][Liberty Prime Expansion] | :heavy_check_mark: | [February 2022][FF 11/02/22]               |
-| [Raiders Wave Expansion Card Pack] | :heavy_check_mark: |                                                          |                    | [August 2019][Blog: The Raiders are here!] |
+| Item                               |     Purchased      | Digital                               |     Downloaded     | Released                                   | Notes |
+| ---------------------------------- | :----------------: | ------------------------------------- | :----------------: | ------------------------------------------ | ----- |
+| Liberty Prime Expansion            |                    | [Free :pdf:][Liberty Prime Expansion] | :heavy_check_mark: | [February 2022][FF 11/02/22]               |
+| [Raiders Wave Expansion Card Pack] | :heavy_check_mark: |                                       |                    | [August 2019][Blog: The Raiders are here!] |
 
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Wave Expansion Card Pack]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
@@ -389,10 +389,10 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   |     Purchased      | Digital                                                       |     Downloaded     | Released                           | Notes |
-| ---------------------- | :----------------: | ------------------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
-| [Vault-Tec Notebook]   | :heavy_check_mark: | [Settlement Sheet <i class="fa-file-pdf"/>][Settlement Sheet] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #17] |
-| [Weapons Upgrade Pack] | :heavy_check_mark: |                                                               |                    | [April 2019][DEVELOPMENT BLOG #17] |
+| Item                   |     Purchased      | Digital                                    |     Downloaded     | Released                           | Notes |
+| ---------------------- | :----------------: | ------------------------------------------ | :----------------: | ---------------------------------- | ----- |
+| [Vault-Tec Notebook]   | :heavy_check_mark: | [Settlement Sheet :pdf:][Settlement Sheet] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #17] |
+| [Weapons Upgrade Pack] | :heavy_check_mark: |                                            |                    | [April 2019][DEVELOPMENT BLOG #17] |
 
 [Settlement Sheet]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
 [Vault-Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
@@ -404,24 +404,24 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                                               |     Downloaded     | Released                               | Notes        |
-| ------------------------------------- | :----------------: | ----------------------------------------------------- | :----------------: | -------------------------------------- | ------------ |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Liberty Prime Cards] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
-| [Creatures: Ghouls]                   |        :x:         |                                                       |                    | November 2019                          |
-| [Creatures: Wasteland Vermin]         |        :x:         |                                                       |                    | November 2019                          |
-| [Glowing Ghouls]                      |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                                                       |                    | [August 2019][PR 12/08/19]             |
-| [Robots: Assaultrons & Protectrons]   |        :x:         |                                                       |                    | October 2019                           |
-| [Robots: Sentry Bot]                  | :heavy_check_mark: |                                                       |                    | April 2019                             |
-| [Stealth Boy Coursers]                |        :x:         |                                                       |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
-| [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                                                       |                    | [October 2019][DEVELOPMENT BLOG #7]    |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                                                       |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
+| Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                               | Notes        |
+| ------------------------------------- | :----------------: | --------------------------- | :----------------: | -------------------------------------- | ------------ |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
+| [Creatures: Ghouls]                   |        :x:         |                             |                    | November 2019                          |
+| [Creatures: Wasteland Vermin]         |        :x:         |                             |                    | November 2019                          |
+| [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Raiders: Core Box]                   | :heavy_check_mark: |                             |                    | [August 2019][PR 12/08/19]             |
+| [Robots: Assaultrons & Protectrons]   |        :x:         |                             |                    | October 2019                           |
+| [Robots: Sentry Bot]                  | :heavy_check_mark: |                             |                    | April 2019                             |
+| [Stealth Boy Coursers]                |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
+| [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                             |                    | [October 2019][DEVELOPMENT BLOG #7]    |
+| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                             |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
 [Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
 [Glowing Ghouls]: https://web.archive.org/web/20220124171706/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-glowing-ghouls
-[Liberty Prime Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
+[Liberty Prime Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
 [Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
 [Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
 [Robots: Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
@@ -437,13 +437,13 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-scenic-bundle) contains a nice collection of scatter that can be used for the table.
 
-| Item                  |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                                        |
-| --------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
-| [Corvega Sedan]       |        :x:         | [Buy <i class="fa-file-zipper"/>][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial][FF 11/08/23]                           |
-| [Crashed Vertibird]   |        :x:         | [Buy <i class="fa-file-zipper"/>][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #9] |
-| [Junk Barricades]     | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] |
-| [Military Barricades] | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
-| [Turrets]             | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards]       | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #13] |
+| Item                  |     Purchased      | Digital                            |     Downloaded     | Released                           | Notes                                                                        |
+| --------------------- | :----------------: | ---------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
+| [Corvega Sedan]       |        :x:         | [Buy :zip:][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial][FF 11/08/23]                           |
+| [Crashed Vertibird]   |        :x:         | [Buy :zip:][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #9] |
+| [Junk Barricades]     | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] |
+| [Military Barricades] | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
+| [Turrets]             | :heavy_check_mark: | [Scenic Set Cards :pdf:]           | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #13] |
 
 [Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-chryslus-corvega
 [Corvega Sedan STL]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
@@ -451,7 +451,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 [Crashed Vertibird STL]: https://www.myminifactory.com/object/3d-print-crashed-vertibird-terrain-expansion-fallout-wasteland-warfare-141472
 [Junk Barricades]: https://modiphius.net/products/fallout-wasteland-warfare-junk-barricades
 [Military Barricades]: https://modiphius.net/products/wasteland-warfare-military-barricades
-[Scenic Set Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
+[Scenic Set Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/scenicset_wave1.pdf
 [Turrets]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-turrets
 
 #### Streets of Boston
@@ -462,13 +462,13 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 Similar items available in the [Streets of Boston](red-rocket#streets-of-boston) `Print at Home` pack.
 
-| Item                     |     Purchased      | Digital                                            |     Downloaded     | Released    | Notes                                                                                        |
-| ------------------------ | :----------------: | -------------------------------------------------- | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
-| [Boston Searchables]     |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
-| [Boston Street Scatter]  |        :x:         |                                                    |                    | August 2019 |
-| [Cases and Crates]       | :heavy_check_mark: |                                                    |                    | August 2019 |
-| [Nuka Cola Machines]     |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
-| [Radioactive Containers] |        :x:         | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
+| Item                     |     Purchased      | Digital                  |     Downloaded     | Released    | Notes                                                                                        |
+| ------------------------ | :----------------: | ------------------------ | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
+| [Boston Searchables]     |        :x:         | [Scenic Set Cards :pdf:] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
+| [Boston Street Scatter]  |        :x:         |                          |                    | August 2019 |
+| [Cases and Crates]       | :heavy_check_mark: |                          |                    | August 2019 |
+| [Nuka Cola Machines]     |        :x:         | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
+| [Radioactive Containers] |        :x:         | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
@@ -484,12 +484,12 @@ Similar items available in the [Streets of Boston](red-rocket#streets-of-boston)
 
 Similar items available in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle)
 
-| Item                 | Purchased | Digital                                            |     Downloaded     | Released    | Notes |
-| -------------------- | :-------: | -------------------------------------------------- | :----------------: | ----------- | ----- |
-| [Heavy Consoles]     |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | April 2019  |
-| [Terminals]          |    :x:    | [Cards <i class="fa-file-pdf"/>][Scenic Set Cards] | :heavy_check_mark: | August 2019 |
-| [Vault-Tec Lockers]  |    :x:    |                                                    |                    | August 2019 |
-| [Vault-Tec Supplies] |    :x:    |                                                    |                    | April 2019  |
+| Item                 | Purchased | Digital                  |     Downloaded     | Released    | Notes |
+| -------------------- | :-------: | ------------------------ | :----------------: | ----------- | ----- |
+| [Heavy Consoles]     |    :x:    | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
+| [Terminals]          |    :x:    | [Scenic Set Cards :pdf:] | :heavy_check_mark: | August 2019 |
+| [Vault-Tec Lockers]  |    :x:    |                          |                    | August 2019 |
+| [Vault-Tec Supplies] |    :x:    |                          |                    | April 2019  |
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals
@@ -498,11 +498,11 @@ Similar items available in the [Vault-Tec Office Bundle](vault#vault-tech-office
 
 ### Scenarios
 
-| Item                                         |     Purchased      | Digital                                                      |     Downloaded     | Released                          | Notes                                    |
-| -------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | --------------------------------- | ---------------------------------------- |
-| SCP-034-111: The Undiscovered Vault          |                    | [Free <i class="fa-file-pdf"/>][Undiscovered Vault]          | :heavy_check_mark: | [October 2020][FF 16/10/20]       |
-| SCP-050-111: The Beast of the Bottling Plant |                    | [Free <i class="fa-file-pdf"/>][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
-| Raid the Crash Site                          | :heavy_check_mark: |                                                              |                    |                                   | Part of the [Raiders Organised Play] Kit |
+| Item                                         |     Purchased      | Digital                                   |     Downloaded     | Released                          | Notes                                    |
+| -------------------------------------------- | :----------------: | ----------------------------------------- | :----------------: | --------------------------------- | ---------------------------------------- |
+| SCP-034-111: The Undiscovered Vault          |                    | [Free :pdf:][Undiscovered Vault]          | :heavy_check_mark: | [October 2020][FF 16/10/20]       |
+| SCP-050-111: The Beast of the Bottling Plant |                    | [Free :pdf:][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
+| Raid the Crash Site                          | :heavy_check_mark: |                                           |                    |                                   | Part of the [Raiders Organised Play] Kit |
 
 [Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
@@ -546,11 +546,11 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Rules
 
-| Item                                  |     Purchased      | Digital                                                          |     Downloaded     | Released                                       | Notes                        |
-| ------------------------------------- | :----------------: | ---------------------------------------------------------------- | :----------------: | ---------------------------------------------- | ---------------------------- |
-| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules <i class="fa-file-pdf"/>][Automatron Player Rules] | :heavy_check_mark: | [February 2020][Blog: Make Your Own Robot]     | [Blog: How To Automatron]    |
-| Caught in the Crossfire Campaign book |                    | [Buy <i class="fa-file-pdf"/>][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
-| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                                                  |                    | [December 2019][Blog: Downloads Update]        | [Blog: How To Use Institute] |
+| Item                                  |     Purchased      | Digital                                       |     Downloaded     | Released                                       | Notes                        |
+| ------------------------------------- | :----------------: | --------------------------------------------- | :----------------: | ---------------------------------------------- | ---------------------------- |
+| [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules :pdf:][Automatron Player Rules] | :heavy_check_mark: | [February 2020][Blog: Make Your Own Robot]     | [Blog: How To Automatron]    |
+| Caught in the Crossfire Campaign book |                    | [Buy :pdf:][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
+| [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                               |                    | [December 2019][Blog: Downloads Update]        | [Blog: How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
@@ -593,12 +593,12 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Purchased | Digital                                             |     Downloaded     | Released      | Notes |
-| ------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------- | ----- |
-| Parked Vertibird          |           | [Buy <i class="fa-file-zipper"/>][Parked Vertibird] | :heavy_check_mark: | April 2020    |
-| Pre-war APC               |           | [Buy <i class="fa-file-zipper"/>][Pre-war APC]      | :heavy_check_mark: | November 2020 |
-| [Settlement Work Benches] |    :x:    |                                                     |                    |
-| Tank                      |           | [Buy <i class="fa-file-zipper"/>][Tank]             |        :x:         |
+| Item                      | Purchased | Digital                       |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | ----------------------------- | :----------------: | ------------- | ----- |
+| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird] | :heavy_check_mark: | April 2020    |
+| Pre-war APC               |           | [Buy :zip:][Pre-war APC]      | :heavy_check_mark: | November 2020 |
+| [Settlement Work Benches] |    :x:    |                               |                    |
+| Tank                      |           | [Buy :zip:][Tank]             |        :x:         |
 
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
@@ -607,10 +607,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Scenarios
 
-| Item                               |     Purchased      | Digital                                                |     Downloaded     | Released                                    | Notes                                      |
-| ---------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------------------------- | ------------------------------------------ |
-| SCP-051-111: Showdown in Synthtown |                    | [Free <i class="fa-file-pdf"/>][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] | [Blog: Institute Vs Survivors]             |
-| Teleporting Trouble                | :heavy_check_mark: |                                                        |                    |                                             | Part of the [Institute Organised Play] Kit |
+| Item                               |     Purchased      | Digital                             |     Downloaded     | Released                                    | Notes                                      |
+| ---------------------------------- | :----------------: | ----------------------------------- | :----------------: | ------------------------------------------- | ------------------------------------------ |
+| SCP-051-111: Showdown in Synthtown |                    | [Free :pdf:][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] | [Blog: Institute Vs Survivors]             |
+| Teleporting Trouble                | :heavy_check_mark: |                                     |                    |                                             | Part of the [Institute Organised Play] Kit |
 
 [Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Showdown in Synthtown]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf
@@ -635,12 +635,12 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                            |     Purchased      | Digital                                                |     Downloaded     | Released                     | Notes |
-| ----------------------------------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ---------------------------- | ----- |
-| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                                        |                    |
-| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                                        |                    |
-| [Into the Wasteland]                            | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020][FF 13/11/20] |
-| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                                        |                    |
+| Item                                            |     Purchased      | Digital                             |     Downloaded     | Released                     | Notes |
+| ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | ---------------------------- | ----- |
+| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    |
+| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    |
+| [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020][FF 13/11/20] |
+| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
@@ -686,21 +686,21 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  |     Purchased      | Digital                                           |     Downloaded     | Released                     | Notes                             |
-| ------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | ---------------------------- | --------------------------------- |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                                                   |                    |
-| [Creatures: Mirelurk Queen]           |        :x:         |                                                   |                    |                              | [Legendary][DEVELOPMENT BLOG #7]  |
-| [Enclave: Core Box]                   | :heavy_check_mark: |                                                   |                    |
-| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                                                   |                    |                              | [Legendary][DEVELOPMENT BLOG #11] |
-| [Robots: Robobrain]                   | :heavy_check_mark: | [Cards <i class="fa-file-pdf"/>][Robobrain Cards] | :heavy_check_mark: |
-| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                                                   |                    | [November 2020][FF 20/11/20] | Promo                             |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                                                   |                    |
+| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                     | Notes                             |
+| ------------------------------------- | :----------------: | ----------------------- | :----------------: | ---------------------------- | --------------------------------- |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |
+| [Creatures: Mirelurk Queen]           |        :x:         |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #7]  |
+| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |
+| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #11] |
+| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: |
+| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20] | Promo                             |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 [Creatures: Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen
 [Enclave: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
 [Enclave: Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan
-[Robobrain Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
+[Robobrain Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
 [Robots: Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
 [Survivors: Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
 [Unaligned: T-45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
@@ -711,13 +711,13 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                  | Purchased | Digital                                                  |     Downloaded     | Released                | Notes |
-| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | ----------------------- | ----- |
-| [Crashed UFO]         |    :x:    | [Buy <i class="fa-file-zipper"/>][Crashed UFO STL]       |        :x:         | [May 2021][FF 14/05/21] |
-| Red Rocket Preserved  |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Preserved]  | :heavy_check_mark: | February 2021           |
-| Red Rocket Ruined     |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Ruined]     | :heavy_check_mark: | February 2021           |
-| [Robot Work Bench]    |    :x:    | [Buy <i class="fa-file-zipper"/>][Robot Work Bench STL]  | :heavy_check_mark: | May 2021                |
-| Sanctuary Hills House |           | [Buy <i class="fa-file-zipper"/>][Sanctuary Hills House] | :heavy_check_mark: | February 2021           |
+| Item                  | Purchased | Digital                            |     Downloaded     | Released                | Notes |
+| --------------------- | :-------: | ---------------------------------- | :----------------: | ----------------------- | ----- |
+| [Crashed UFO]         |    :x:    | [Buy :zip:][Crashed UFO STL]       |        :x:         | [May 2021][FF 14/05/21] |
+| Red Rocket Preserved  |           | [Buy :zip:][Red Rocket Preserved]  | :heavy_check_mark: | February 2021           |
+| Red Rocket Ruined     |           | [Buy :zip:][Red Rocket Ruined]     | :heavy_check_mark: | February 2021           |
+| [Robot Work Bench]    |    :x:    | [Buy :zip:][Robot Work Bench STL]  | :heavy_check_mark: | May 2021                |
+| Sanctuary Hills House |           | [Buy :zip:][Sanctuary Hills House] | :heavy_check_mark: | February 2021           |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
@@ -729,13 +729,13 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 ### Scenarios
 
-| Item                                         | Purchased | Digital                                               |     Downloaded     | Released                     | Notes                                  |
-| -------------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
-| AA02-2021: Automaton Assembly                |           | [Free <i class="fa-file-pdf"/>][Automaton Assembly]   | :heavy_check_mark: | March 2021                   |
-| SCP-059-111: The Zetan Incident              |           | [Free <i class="fa-file-pdf"/>][Zetan Incident]       | :heavy_check_mark: | July 2020                    | Scenario for [Zetan] and [Crashed UFO] |
-| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
-| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
-| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free <i class="fa-file-pdf"/>][Vestiges Resurgent 3] | :heavy_check_mark: | [January 2021][FF 14/01/21]  |
+| Item                                         | Purchased | Digital                            |     Downloaded     | Released                     | Notes                                  |
+| -------------------------------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
+| AA02-2021: Automaton Assembly                |           | [Free :pdf:][Automaton Assembly]   | :heavy_check_mark: | March 2021                   |
+| SCP-059-111: The Zetan Incident              |           | [Free :pdf:][Zetan Incident]       | :heavy_check_mark: | July 2020                    | Scenario for [Zetan] and [Crashed UFO] |
+| SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free :pdf:][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
+| SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free :pdf:][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
+| SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free :pdf:][Vestiges Resurgent 3] | :heavy_check_mark: | [January 2021][FF 14/01/21]  |
 
 [Automaton Assembly]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Automatron_Assembly_v3_03120.pdf
 [Zetan Incident]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_The_Zetan_Incident_Final_PF.pdf
@@ -790,9 +790,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                        |     Purchased      | Digital                                                                |     Downloaded     | Released                           | Notes                                                         |
-| --------------------------- | :----------------: | ---------------------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------- |
-| [New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card <i class="fa-file-pdf"/>][Doctors Bag Card] | :heavy_check_mark: | [May 2021][Blog: Mojave Expansion] | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
+| Item                        |     Purchased      | Digital                                             |     Downloaded     | Released                           | Notes                                                         |
+| --------------------------- | :----------------: | --------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------- |
+| [New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card :pdf:][Doctors Bag Card] | :heavy_check_mark: | [May 2021][Blog: Mojave Expansion] | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
@@ -815,12 +815,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                    |     Purchased      | Digital                                                      |     Downloaded     | Released                  | Notes                                 |
-| ----------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ------------------------- | ------------------------------------- |
-| Chryslus Rocket         |                    | [Buy <i class="fa-file-zipper"/>][Chryslus Rocket]           | :heavy_check_mark: | November 2021             |
-| Corvega Coupe           |                    | [Buy <i class="fa-file-zipper"/>][Corvega Coupe]             | :heavy_check_mark: | November 2021             |
-| Settlement Walls        |                    | [Buy <i class="fa-file-zipper"/>][Settlement Walls]          | :heavy_check_mark: | [March 2022][FF 11/03/22] |
-| [Vault-Tec Poster Girl] | :heavy_check_mark: | [Buy <i class="fa-file-zipper"/>][Vault Tec Poster Girl STL] | :heavy_check_mark: |                           | [Vault-Tec Poster Girl (Pre-Colored)] |
+| Item                    |     Purchased      | Digital                                |     Downloaded     | Released                  | Notes                                 |
+| ----------------------- | :----------------: | -------------------------------------- | :----------------: | ------------------------- | ------------------------------------- |
+| Chryslus Rocket         |                    | [Buy :zip:][Chryslus Rocket]           | :heavy_check_mark: | November 2021             |
+| Corvega Coupe           |                    | [Buy :zip:][Corvega Coupe]             | :heavy_check_mark: | November 2021             |
+| Settlement Walls        |                    | [Buy :zip:][Settlement Walls]          | :heavy_check_mark: | [March 2022][FF 11/03/22] |
+| [Vault-Tec Poster Girl] | :heavy_check_mark: | [Buy :zip:][Vault Tec Poster Girl STL] | :heavy_check_mark: |                           | [Vault-Tec Poster Girl (Pre-Colored)] |
 
 [Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
@@ -831,13 +831,13 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                               | Purchased | Digital                                                 |     Downloaded     | Released                  | Notes                     |
-| ---------------------------------- | :-------: | ------------------------------------------------------- | :----------------: | ------------------------- | ------------------------- |
-| NVE-001-34: Bear Force One         |           | [Free <i class="fa-file-pdf"/>][Bear Force One]         | :heavy_check_mark: | [April 2022][FF 21/01/22] |
-| NVE-002-34: Black Mountain Beacons |           | [Free <i class="fa-file-pdf"/>][Black Mountain Beacons] | :heavy_check_mark: | [April 2022][FF 21/01/22] |
-| NVE-003-34: Border Patrol          |           | [Free <i class="fa-file-pdf"/>][Border Patrol]          | :heavy_check_mark: | [April 2022][FF 21/01/22] |
-| NVE-004-34: No Dice                |           | [Free <i class="fa-file-pdf"/>][No Dice]                | :heavy_check_mark: | [April 2022][FF 21/01/22] |
-| Big Iron                           |           | [Free <i class="fa-file-pdf"/>][Big Iron]               | :heavy_check_mark: |                           | Scenario by Samuel Steele |
+| Item                               | Purchased | Digital                              |     Downloaded     | Released                  | Notes                     |
+| ---------------------------------- | :-------: | ------------------------------------ | :----------------: | ------------------------- | ------------------------- |
+| NVE-001-34: Bear Force One         |           | [Free :pdf:][Bear Force One]         | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-002-34: Black Mountain Beacons |           | [Free :pdf:][Black Mountain Beacons] | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-003-34: Border Patrol          |           | [Free :pdf:][Border Patrol]          | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| NVE-004-34: No Dice                |           | [Free :pdf:][No Dice]                | :heavy_check_mark: | [April 2022][FF 21/01/22] |
+| Big Iron                           |           | [Free :pdf:][Big Iron]               | :heavy_check_mark: |                           | Scenario by Samuel Steele |
 
 [Bear Force One]: https://cdn.shopify.com/s/files/1/0225/4035/files/Bear_Force_One_002w.pdf
 [Black Mountain Beacons]: https://cdn.shopify.com/s/files/1/0225/4035/files/Black_Mountain_Beacons_002w.pdf
@@ -860,11 +860,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                |     Purchased      | Digital                                                               |     Downloaded     | Released                  | Notes                                        |
-| ----------------------------------- | :----------------: | --------------------------------------------------------------------- | :----------------: | ------------------------- | -------------------------------------------- |
-| [Astoundingly Awesome Tales Vol. 1] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales Vol. 1 PDF] |        :x:         | [May 2022][FF 13/05/22]   |
-| Into the Vault                      |                    | [Buy <i class="fa-file-pdf"/>][Into The Vault]                        | :heavy_check_mark: | [July 2022][FF 08/07/22]  | Rules to create the [Vault-Tec Vault](vault) |
-| [The Commonwealth Rules Expansion]  | :heavy_check_mark: |                                                                       |                    | [April 2022][FF 08/04/22] |
+| Item                                |     Purchased      | Digital                                            |     Downloaded     | Released                  | Notes                                        |
+| ----------------------------------- | :----------------: | -------------------------------------------------- | :----------------: | ------------------------- | -------------------------------------------- |
+| [Astoundingly Awesome Tales Vol. 1] | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales Vol. 1 PDF] |        :x:         | [May 2022][FF 13/05/22]   |
+| Into the Vault                      |                    | [Buy :pdf:][Into The Vault]                        | :heavy_check_mark: | [July 2022][FF 08/07/22]  | Rules to create the [Vault-Tec Vault](vault) |
+| [The Commonwealth Rules Expansion]  | :heavy_check_mark: |                                                    |                    | [April 2022][FF 08/04/22] |
 
 [Astoundingly Awesome Tales Vol. 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
 [Astoundingly Awesome Tales Vol. 1 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf
@@ -893,14 +893,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                            | Purchased | Digital                                                  |     Downloaded     | Released                      | Notes |
-| ------------------------------- | :-------: | -------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
-| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment]        | :heavy_check_mark: | [August 2022][FF 12/08/22]    |
-| Chems, Meds and Food            |           | [Buy <i class="fa-file-zipper"/>][Chems Meds and Food]   | :heavy_check_mark: | [June 2022][FF 10/06/22]      |
-| Flatbed Truck                   |           | [Buy <i class="fa-file-zipper"/>][Flatbed Truck]         | :heavy_check_mark: | [May 2022][FF 13/05/22]       |
-| The Pack: Animal Decor          |           | [Buy <i class="fa-file-zipper"/>][The Pack Animal Decor] |        :x:         | [April 2022][FF 08/04/22]     |
-| Toys and Bobbleheads            |           | [Buy <i class="fa-file-zipper"/>][Toys and Bobbleheads]  | :heavy_check_mark: | [July 2022][FF 08/07/22]      |
-| Wasteland Critters              |           | [Buy <i class="fa-file-zipper"/>][Wasteland Critters]    | :heavy_check_mark: | [September 2022][FF 09/09/22] |
+| Item                            | Purchased | Digital                            |     Downloaded     | Released                      | Notes |
+| ------------------------------- | :-------: | ---------------------------------- | :----------------: | ----------------------------- | ----- |
+| Brotherhood of Steel Encampment |           | [Buy :zip:][BoS Encampment]        | :heavy_check_mark: | [August 2022][FF 12/08/22]    |
+| Chems, Meds and Food            |           | [Buy :zip:][Chems Meds and Food]   | :heavy_check_mark: | [June 2022][FF 10/06/22]      |
+| Flatbed Truck                   |           | [Buy :zip:][Flatbed Truck]         | :heavy_check_mark: | [May 2022][FF 13/05/22]       |
+| The Pack: Animal Decor          |           | [Buy :zip:][The Pack Animal Decor] |        :x:         | [April 2022][FF 08/04/22]     |
+| Toys and Bobbleheads            |           | [Buy :zip:][Toys and Bobbleheads]  | :heavy_check_mark: | [July 2022][FF 08/07/22]      |
+| Wasteland Critters              |           | [Buy :zip:][Wasteland Critters]    | :heavy_check_mark: | [September 2022][FF 09/09/22] |
 
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
@@ -911,9 +911,9 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scenarios
 
-| Item                                        | Purchased | Digital                                           |     Downloaded     | Released                    | Notes |
-| ------------------------------------------- | :-------: | ------------------------------------------------- | :----------------: | --------------------------- | ----- |
-| OPP-001-11: The Battle For Saugus Ironworks |           | [Free <i class="fa-file-pdf"/>][Saugus Ironworks] | :heavy_check_mark: | [January 2022][FF 21/01/22] |
+| Item                                        | Purchased | Digital                        |     Downloaded     | Released                    | Notes |
+| ------------------------------------------- | :-------: | ------------------------------ | :----------------: | --------------------------- | ----- |
+| OPP-001-11: The Battle For Saugus Ironworks |           | [Free :pdf:][Saugus Ironworks] | :heavy_check_mark: | [January 2022][FF 21/01/22] |
 
 [Saugus Ironworks]: https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf
 
@@ -932,10 +932,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Rules
 
-| Item                                 |     Purchased      | Digital                                                   |     Downloaded     | Released                     | Notes |
-| ------------------------------------ | :----------------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| [Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                                           |                    | [November 2022][FF 11/11/22] |
-| Homestead Rules Expansion            |                    | [Buy <i class="fa-file-pdf"/>][Homestead Rules Expansion] | :heavy_check_mark: | [October 2022][FF 14/10/22]  |
+| Item                                 |     Purchased      | Digital                                |     Downloaded     | Released                     | Notes |
+| ------------------------------------ | :----------------: | -------------------------------------- | :----------------: | ---------------------------- | ----- |
+| [Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                        |                    | [November 2022][FF 11/11/22] |
+| Homestead Rules Expansion            |                    | [Buy :pdf:][Homestead Rules Expansion] | :heavy_check_mark: | [October 2022][FF 14/10/22]  |
 
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
@@ -954,10 +954,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item                  | Purchased | Digital                                                  |     Downloaded     | Released                     | Notes |
-| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| Red Rocket Drive Thru |           | [Buy <i class="fa-file-zipper"/>][Red Rocket Drive Thru] | :heavy_check_mark: | [November 2022][FF 11/11/22] |
-| The Deep              |           | [Buy <i class="fa-file-zipper"/>][The Deep]              |        :x:         | [January 2023][FF 13/01/23]  |
+| Item                  | Purchased | Digital                            |     Downloaded     | Released                     | Notes |
+| --------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | ----- |
+| Red Rocket Drive Thru |           | [Buy :zip:][Red Rocket Drive Thru] | :heavy_check_mark: | [November 2022][FF 11/11/22] |
+| The Deep              |           | [Buy :zip:][The Deep]              |        :x:         | [January 2023][FF 13/01/23]  |
 
 [Red Rocket Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
 [The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
@@ -966,14 +966,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-bundle) contains 6 sets of STLs:
 
-| Item                 | Purchased | Digital                                                 |     Downloaded     | Released                     | Notes |
-| -------------------- | :-------: | ------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| Downtown Debris      |           | [Buy <i class="fa-file-zipper"/>][Downtown Debris]      | :heavy_check_mark: | [February 2023][FF 10/02/23] |
-| Logs, Stumps & Roots |           | [Buy <i class="fa-file-zipper"/>][Logs, Stumps & Roots] | :heavy_check_mark: | [February 2023][FF 10/02/23] |
-| Mushrooms & Fungi    |           | [Buy <i class="fa-file-zipper"/>][Mushrooms & Fungi]    | :heavy_check_mark: | [February 2023][FF 10/02/23] |
-| Plants & Crops       |           | [Buy <i class="fa-file-zipper"/>][Plants & Crops]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
-| Skulls & Bones       |           | [Buy <i class="fa-file-zipper"/>][Skulls & Bones]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
-| Slabs & Stones       |           | [Buy <i class="fa-file-zipper"/>][Slabs & Stones]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Item                 | Purchased | Digital                           |     Downloaded     | Released                     | Notes |
+| -------------------- | :-------: | --------------------------------- | :----------------: | ---------------------------- | ----- |
+| Downtown Debris      |           | [Buy :zip:][Downtown Debris]      | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Logs, Stumps & Roots |           | [Buy :zip:][Logs, Stumps & Roots] | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Mushrooms & Fungi    |           | [Buy :zip:][Mushrooms & Fungi]    | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Plants & Crops       |           | [Buy :zip:][Plants & Crops]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Skulls & Bones       |           | [Buy :zip:][Skulls & Bones]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
+| Slabs & Stones       |           | [Buy :zip:][Slabs & Stones]       | :heavy_check_mark: | [February 2023][FF 10/02/23] |
 
 [Downtown Debris]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-downtown-debris
 [Logs, Stumps & Roots]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-basing-greebles-logs-stumps-roots
@@ -984,20 +984,20 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 #### Statues
 
-| Item             | Purchased | Digital                                             | Downloaded | Released                     | Notes |
-| ---------------- | :-------: | --------------------------------------------------- | :--------: | ---------------------------- | ----- |
-| Art Deco Statues |           | [Buy <i class="fa-file-zipper"/>][Art Deco Statues] |    :x:     | [December 2022][FF 16/12/22] |
-| Scorched Statues |           | [Buy <i class="fa-file-zipper"/>][Scorched Statues] |    :x:     | [October 2022][FF 14/10/22]  |
+| Item             | Purchased | Digital                       | Downloaded | Released                     | Notes |
+| ---------------- | :-------: | ----------------------------- | :--------: | ---------------------------- | ----- |
+| Art Deco Statues |           | [Buy :zip:][Art Deco Statues] |    :x:     | [December 2022][FF 16/12/22] |
+| Scorched Statues |           | [Buy :zip:][Scorched Statues] |    :x:     | [October 2022][FF 14/10/22]  |
 
 [Art Deco Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-art-deco-statues
 [Scorched Statues]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-scorched-statues-stl
 
 ### Scenarios
 
-| Item                                    | Purchased | Digital                                                         |     Downloaded     | Released | Notes                     |
-| --------------------------------------- | :-------: | --------------------------------------------------------------- | :----------------: | -------- | ------------------------- |
-| Dine 'n' Death                          |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/93abbdb9d3) | :heavy_check_mark: |          | Scenario by Samuel Steele |
-| The Adventures of Grognak the Barbarian |           | [Free <i class="fa-file-pdf"/>](https://ko-fi.com/s/6364ade206) | :heavy_check_mark: |          | Scenario by Samuel Steele |
+| Item                                    | Purchased | Digital                                      |     Downloaded     | Released | Notes                     |
+| --------------------------------------- | :-------: | -------------------------------------------- | :----------------: | -------- | ------------------------- |
+| Dine 'n' Death                          |           | [Free :pdf:](https://ko-fi.com/s/93abbdb9d3) | :heavy_check_mark: |          | Scenario by Samuel Steele |
+| The Adventures of Grognak the Barbarian |           | [Free :pdf:](https://ko-fi.com/s/6364ade206) | :heavy_check_mark: |          | Scenario by Samuel Steele |
 
 ## Wave 8 - Capital Expansion
 
@@ -1038,11 +1038,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                      | Purchased | Digital                                                      | Downloaded | Released                 | Notes |
-| ------------------------- | :-------: | ------------------------------------------------------------ | :--------: | ------------------------ | ----- |
-| Cult of the Mothman Altar |           | [Buy <i class="fa-file-zipper"/>][Cult of the Mothman Altar] |    :x:     |
-| Meat and Gore             |           | [Buy <i class="fa-file-zipper"/>][Meat and Gore]             |    :x:     |
-| Metal Dome                |           | [Buy <i class="fa-file-zipper"/>][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
+| Item                      | Purchased | Digital                                | Downloaded | Released                 | Notes |
+| ------------------------- | :-------: | -------------------------------------- | :--------: | ------------------------ | ----- |
+| Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     |
+| Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     |
+| Metal Dome                |           | [Buy :zip:][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
@@ -1064,10 +1064,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                              |     Purchased      | Digital                                                           |     Downloaded     | Released                    | Notes |
-| --------------------------------- | :----------------: | ----------------------------------------------------------------- | :----------------: | --------------------------- | ----- |
-| Astoundingly Awesome Tales Vol. 2 |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales Vol. 2] |        :x:         | June 2024                   |
-| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023][FF 20/10/23] |
+| Item                              |     Purchased      | Digital                                        |     Downloaded     | Released                    | Notes |
+| --------------------------------- | :----------------: | ---------------------------------------------- | :----------------: | --------------------------- | ----- |
+| Astoundingly Awesome Tales Vol. 2 |                    | [Buy :pdf:][Astoundingly Awesome Tales Vol. 2] |        :x:         | June 2024                   |
+| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023][FF 20/10/23] |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
 [Nuka-World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
@@ -1091,11 +1091,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item            | Purchased | Digital                                            |     Downloaded     | Released   | Notes                                              |
-| --------------- | :-------: | -------------------------------------------------- | :----------------: | ---------- | -------------------------------------------------- |
-| Cola-Cars Arena |           | [Buy <i class="fa-file-zipper"/>][Cola-Cars Arena] | :heavy_check_mark: | June 2024  | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
-| Galactic Zone   |           | [Buy <i class="fa-file-zipper"/>][Galactic Zone]   | :heavy_check_mark: | May 2024   | [Rides for Nuka-World](nuka-world#galactic-zone)   |
-| Kiddie Kingdom  |           | [Buy <i class="fa-file-zipper"/>][Kiddie Kingdom]  | :heavy_check_mark: | March 2024 | [Rides for Nuka-World](nuka-world#kiddie-kingdom)  |
+| Item            | Purchased | Digital                      |     Downloaded     | Released   | Notes                                              |
+| --------------- | :-------: | ---------------------------- | :----------------: | ---------- | -------------------------------------------------- |
+| Cola-Cars Arena |           | [Buy :zip:][Cola-Cars Arena] | :heavy_check_mark: | June 2024  | [Rides for Nuka-World](nuka-world#cola-cars-arena) |
+| Galactic Zone   |           | [Buy :zip:][Galactic Zone]   | :heavy_check_mark: | May 2024   | [Rides for Nuka-World](nuka-world#galactic-zone)   |
+| Kiddie Kingdom  |           | [Buy :zip:][Kiddie Kingdom]  | :heavy_check_mark: | March 2024 | [Rides for Nuka-World](nuka-world#kiddie-kingdom)  |
 
 [Cola-Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
@@ -1103,11 +1103,11 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scenarios
 
-| Item                       | Purchased | Digital                                                   |     Downloaded     | Released                     | Notes |
-| -------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| Error! System Malfunction  |           | [Free <i class="fa-file-pdf"/>][Error System Malfunction] | :heavy_check_mark: | September 2023               |
-| Oh, a Hunting We Shall Go! |           | [Free <i class="fa-file-pdf"/>][Hunting We Shall Go]      | :heavy_check_mark: | October 2023                 |
-| Cappy in a Haystack        |           | [Free <i class="fa-file-pdf"/>][Cappy in a Haystack]      | :heavy_check_mark: | [November 2023][FF 17/11/23] |
+| Item                       | Purchased | Digital                                |     Downloaded     | Released                     | Notes |
+| -------------------------- | :-------: | -------------------------------------- | :----------------: | ---------------------------- | ----- |
+| Error! System Malfunction  |           | [Free :pdf:][Error System Malfunction] | :heavy_check_mark: | September 2023               |
+| Oh, a Hunting We Shall Go! |           | [Free :pdf:][Hunting We Shall Go]      | :heavy_check_mark: | October 2023                 |
+| Cappy in a Haystack        |           | [Free :pdf:][Cappy in a Haystack]      | :heavy_check_mark: | [November 2023][FF 17/11/23] |
 
 [Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
 [Hunting We Shall Go]: https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf
@@ -1134,19 +1134,19 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                                        |     Purchased      | Digital                                                                                                      |     Downloaded     | Released                      | Notes |
-| ------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----- |
-| [Mr. Fuzzy and The Ghoulish Remnants Rules] | :heavy_check_mark: | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
-| [The Dawn of the Mothman Rules]             |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
-| [The Crater and The Foundation Rules]       |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
-| [Invasion! Rules]                           |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
-| [Hungry Hills! Rules]                       |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: | October 2024                  |
-| Spooktober Rules                            |                    | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: | October 2024                  |
-| [Catching Floaters Rules]                   |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
-| [Wasteland Wildlife Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
-| [In Sheeps Clothing Rules]                  |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
-| [Stoic Defenders Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
-| [Scorched Plague Rules]                     |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
+| Item                                        |     Purchased      | Digital                                                                                |     Downloaded     | Released                      | Notes |
+| ------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
+| [Mr. Fuzzy and The Ghoulish Remnants Rules] | :heavy_check_mark: | [Free :zip:](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
+| [The Dawn of the Mothman Rules]             |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
+| [The Crater and The Foundation Rules]       |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
+| [Invasion! Rules]                           |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1BzEtOIlW3znLNXxKc0t21KbJ9qQCWzha) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
+| [Hungry Hills! Rules]                       |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1SEWtRlpaea7GIOvRWuu0rw-WzyxDdzs3) | :heavy_check_mark: | October 2024                  |
+| Spooktober Rules                            |                    | [Free :zip:](https://drive.google.com/drive/folders/1aORQRk2lHga5_kdFIphZ7ebAUt_fY-nU) | :heavy_check_mark: | October 2024                  |
+| [Catching Floaters Rules]                   |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/192ebaQfAz77L2RqWd6B9WzmQXLPjp9KY) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
+| [Wasteland Wildlife Rules]                  |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/11DYPuKUOABRFSJ8uSXUgwrfzLHMXypxF) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
+| [In Sheeps Clothing Rules]                  |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/109_QWG0-4pb5wIi7AzSslGwch_uW6IPa) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
+| [Stoic Defenders Rules]                     |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
+| [Scorched Plague Rules]                     |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
 
 [Catching Floaters Rules]: https://connect.forgefire.games/products/catching-floaters-card-pack
 [Hungry Hills! Rules]: https://connect.forgefire.games/products/hungry-hills-rules-packet-card-pack
@@ -1171,19 +1171,19 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scenarios
 
-| Item                       | Purchased | Digital                                                                                                    |     Downloaded     | Released                      | Notes |
-| -------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
-| Fuzzy Fun Times            |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1bzT3jF6eoIXJoV2RHXuk7_ucxnt44Llt/preview) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
-| Equinox Interruptus        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1YoRidBh4e1JAIu-5wMCOt-SHmuDbvgzk/preview) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
-| A Bloody Misunderstanding! |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1T01_Mx8FBAgFXQjLNab3pR9w3GvDiAKT/preview) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
-| Invasion!                  |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EORiSZ6MFg6KCnp7QLdx30dDM4SZr_s6/preview) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
-| They Call Him Earle        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1Iyqoy8zF04xZNH8RnDRbm3d-6f5DAPwI/preview) | :heavy_check_mark: | October 2024                  |
-| Let Them Fight!            |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1eZGmBldvWBor6S5WucubT_P4AQnmyiiq/preview) | :heavy_check_mark: | October 2024                  |
-| Pop Goes the Floater!      |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1ZmkFvhQ3Qy_Tu_rPFM7pfmzXF9Js83CN/preview) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
-| Creature Feature!          |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1r30YTw9elM0AY6q4wrENjOUm9QPuxIK0/preview) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
-| Hey, That's My Cow!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1s87pG9zcu4KQBqZ4f-gYUXIGHMgB9TJ1/preview) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
-| Grafton Day Parade!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/1EJaT-36dG1ZsTTF-XTTQTyHc9gQc9sUv/preview) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
-| Hole Lotta Trouble!        |           | [Free <i class="fa-file-pdf"/>](https://drive.google.com/file/d/12jmWwkkY3h7P2xhER_EWhe32Wh2TfN1j/preview) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
+| Item                       | Purchased | Digital                                                                                 |     Downloaded     | Released                      | Notes |
+| -------------------------- | :-------: | --------------------------------------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
+| Fuzzy Fun Times            |           | [Free :pdf:](https://drive.google.com/file/d/1bzT3jF6eoIXJoV2RHXuk7_ucxnt44Llt/preview) | :heavy_check_mark: | [June 2024][FF 21/06/24]      |
+| Equinox Interruptus        |           | [Free :pdf:](https://drive.google.com/file/d/1YoRidBh4e1JAIu-5wMCOt-SHmuDbvgzk/preview) | :heavy_check_mark: | [July 2024][FF 19/07/24]      |
+| A Bloody Misunderstanding! |           | [Free :pdf:](https://drive.google.com/file/d/1T01_Mx8FBAgFXQjLNab3pR9w3GvDiAKT/preview) | :heavy_check_mark: | [August 2024][FF 16/08/24]    |
+| Invasion!                  |           | [Free :pdf:](https://drive.google.com/file/d/1EORiSZ6MFg6KCnp7QLdx30dDM4SZr_s6/preview) | :heavy_check_mark: | [September 2024][FF 20/09/24] |
+| They Call Him Earle        |           | [Free :pdf:](https://drive.google.com/file/d/1Iyqoy8zF04xZNH8RnDRbm3d-6f5DAPwI/preview) | :heavy_check_mark: | October 2024                  |
+| Let Them Fight!            |           | [Free :pdf:](https://drive.google.com/file/d/1eZGmBldvWBor6S5WucubT_P4AQnmyiiq/preview) | :heavy_check_mark: | October 2024                  |
+| Pop Goes the Floater!      |           | [Free :pdf:](https://drive.google.com/file/d/1ZmkFvhQ3Qy_Tu_rPFM7pfmzXF9Js83CN/preview) | :heavy_check_mark: | [January 2025][FF 24/01/25]   |
+| Creature Feature!          |           | [Free :pdf:](https://drive.google.com/file/d/1r30YTw9elM0AY6q4wrENjOUm9QPuxIK0/preview) | :heavy_check_mark: | [February 2025][FF 21/02/25]  |
+| Hey, That's My Cow!        |           | [Free :pdf:](https://drive.google.com/file/d/1s87pG9zcu4KQBqZ4f-gYUXIGHMgB9TJ1/preview) | :heavy_check_mark: | [March 2025][FF 21/03/25]     |
+| Grafton Day Parade!        |           | [Free :pdf:](https://drive.google.com/file/d/1EJaT-36dG1ZsTTF-XTTQTyHc9gQc9sUv/preview) | :heavy_check_mark: | [April 2025][FF 18/04/25]     |
+| Hole Lotta Trouble!        |           | [Free :pdf:](https://drive.google.com/file/d/12jmWwkkY3h7P2xhER_EWhe32Wh2TfN1j/preview) | :heavy_check_mark: | [May 2025][FF 23/05/25]       |
 
 ## Wave 11 - Far Harbor Expansion
 
@@ -1201,12 +1201,12 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                                |     Purchased      | Digital                                                                                                      |     Downloaded     | Released                      | Notes |
-| ----------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----- |
-| [Children of Atom Rules]            |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [September 2025][FF 19/09/25] |
-| [Arcadia and the Harbormen Rules]   |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: | October 2025                  |
-| [Creatures of the Fog Rules]        |        :x:         | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: | November 2025                 |
-| [Longfellow and the Trappers Rules] | :heavy_check_mark: | [Free <i class="fa-file-zipper"/>](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: | January 2026                  |
+| Item                                |     Purchased      | Digital                                                                                |     Downloaded     | Released                      | Notes |
+| ----------------------------------- | :----------------: | -------------------------------------------------------------------------------------- | :----------------: | ----------------------------- | ----- |
+| [Children of Atom Rules]            |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [September 2025][FF 19/09/25] |
+| [Arcadia and the Harbormen Rules]   |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: | October 2025                  |
+| [Creatures of the Fog Rules]        |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: | November 2025                 |
+| [Longfellow and the Trappers Rules] | :heavy_check_mark: | [Free :zip:](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: | January 2026                  |
 
 [Arcadia and the Harbormen Rules]: https://connect.forgefire.games/products/the-harbormen-and-arcadia-card-pack
 [Children of Atom Rules]: https://connect.forgefire.games/products/children-of-atom-card-pack
@@ -1227,10 +1227,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Released     | Notes                                                    |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ------------ | -------------------------------------------------------- |
-| Commercial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Commercial Vehicles] | :heavy_check_mark: | January 2026 | [Vehicles for Sanctuary Hills](sanctuary-hills#vehicles) |
-| Industrial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Industrial Vehicles] | :heavy_check_mark: | January 2026 | [Vehicles for Vault-Tec Vault](vault#vehicles)           |
+| Item                | Purchased | Digital                          |     Downloaded     | Released     | Notes                                                    |
+| ------------------- | :-------: | -------------------------------- | :----------------: | ------------ | -------------------------------------------------------- |
+| Commercial Vehicles |           | [Buy :zip:][Commercial Vehicles] | :heavy_check_mark: | January 2026 | [Vehicles for Sanctuary Hills](sanctuary-hills#vehicles) |
+| Industrial Vehicles |           | [Buy :zip:][Industrial Vehicles] | :heavy_check_mark: | January 2026 | [Vehicles for Vault-Tec Vault](vault#vehicles)           |
 
 [Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
@@ -1239,19 +1239,19 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Rules
 
-| Item                           | Purchased | Digital                                             |     Downloaded     | Released                  | Notes |
-| ------------------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------- | ----- |
-| Hollywood Heroes & Icons Rules |           | [Free <i class="fa-file-zipper"/>][Amazon TV Rules] | :heavy_check_mark: | [March 2024][FF 22/03/24] |
+| Item                           | Purchased | Digital                       |     Downloaded     | Released                  | Notes |
+| ------------------------------ | :-------: | ----------------------------- | :----------------: | ------------------------- | ----- |
+| Hollywood Heroes & Icons Rules |           | [Free :zip:][Amazon TV Rules] | :heavy_check_mark: | [March 2024][FF 22/03/24] |
 
 [Amazon TV Rules]: https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2
 
 ### Minatures
 
-| Item                         |     Purchased      | Digital                                                                    |     Downloaded     | Released                     | Notes                                  |
-| ---------------------------- | :----------------: | -------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
-| [Hollywood Heroes]           | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024][FF 22/03/24]    | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Heroes (PVC Set)] |        :x:         |                                                                            |                    | November 2025                | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Icons]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025][FF 21/11/25] |
+| Item                         |     Purchased      | Digital                                                 |     Downloaded     | Released                     | Notes                                  |
+| ---------------------------- | :----------------: | ------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
+| [Hollywood Heroes]           | :heavy_check_mark: | [Assembly Guide :pdf:][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024][FF 22/03/24]    | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Heroes (PVC Set)] |        :x:         |                                                         |                    | November 2025                | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Icons]            | :heavy_check_mark: | [Assembly Guide :pdf:][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025][FF 21/11/25] |
 
 [Hollywood Heroes]: https://modiphius.net/products/fallout-the-series-miniatures-set
 [Hollywood Heroes (PVC Set)]: https://modiphius.net/products/fallout-miniatures-hollywood-heroes-amazon-tv-show-tie-in-pvc-set
@@ -1267,20 +1267,20 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item               | Purchased | Digital                                           |     Downloaded     | Released                            | Notes |
-| ------------------ | :-------: | ------------------------------------------------- | :----------------: | ----------------------------------- | ----- |
-| AI Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0] | :heavy_check_mark: | [August 2018][DEVELOPMENT BLOG #10] |
+| Item               | Purchased | Digital                        |     Downloaded     | Released                            | Notes |
+| ------------------ | :-------: | ------------------------------ | :----------------: | ----------------------------------- | ----- |
+| AI Handbook (v1.0) |           | [Free :pdf:][AI Handbook v1.0] | :heavy_check_mark: | [August 2018][DEVELOPMENT BLOG #10] |
 
 [AI Handbook v1.0]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
-| Item                            | Purchased | Digital                                                      |     Downloaded     | Released    | Notes |
-| ------------------------------- | :-------: | ------------------------------------------------------------ | :----------------: | ----------- | ----- |
-| The Red Rocket Misunderstanding |           | [Free <i class="fa-file-pdf"/>][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2018  |
-| The Missile                     |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
-| The Break-In                    |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
-| The Escaped Tech                |           | [Free <i class="fa-file-pdf"/>][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| Item                            | Purchased | Digital                                   |     Downloaded     | Released    | Notes |
+| ------------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------- | ----- |
+| The Red Rocket Misunderstanding |           | [Free :pdf:][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2018  |
+| The Missile                     |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| The Break-In                    |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| The Escaped Tech                |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
 
@@ -1323,10 +1323,10 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 
 ### Rules
 
-| Item               | Purchased | Digital                                             |     Downloaded     | Released                              | Notes                 |
-| ------------------ | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------- | --------------------- |
-| Battle Mode (v1.0) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |                       |
-| Battle Mode (v1.6) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             | Made by the Community |
+| Item               | Purchased | Digital                          |     Downloaded     | Released                              | Notes                 |
+| ------------------ | :-------: | -------------------------------- | :----------------: | ------------------------------------- | --------------------- |
+| Battle Mode (v1.0) |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |                       |
+| Battle Mode (v1.6) |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             | Made by the Community |
 
 [Battle Mode (v1.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_battle_mode_v.1.0_download.pdf
 [Battle Mode (v1.6)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
@@ -1335,45 +1335,45 @@ Force Lists can be found on my [Minatures Page](minatures).
 
 ### Scenarios
 
-| Item                                    | Purchased | Digital                                             |     Downloaded     | Released                              | Notes |
-| --------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------- | ----- |
-| Hold the Line                           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Defend Your Stash                       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Extract the Information                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Raiders                                 |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Scrapyard                               |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
-| Maximum Overdrive (Baltic Wasteland)    |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| Chasing Ponies (Baltic Wasteland)       |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| The Last Sip (Baltic Wasteland)         |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| Clouds on the Border (Baltic Wasteland) |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| Gecko Hunting (Baltic Wasteland)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| Take the Ground (Daniel Haumann)        |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
-| Secret Service (Oliver Riedl)           |           | [Free <i class="fa-file-pdf"/>][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Item                                    | Purchased | Digital                          |     Downloaded     | Released                              | Notes |
+| --------------------------------------- | :-------: | -------------------------------- | :----------------: | ------------------------------------- | ----- |
+| Hold the Line                           |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Defend Your Stash                       |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Extract the Information                 |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Raiders                                 |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Scrapyard                               |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
+| Maximum Overdrive (Baltic Wasteland)    |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Chasing Ponies (Baltic Wasteland)       |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| The Last Sip (Baltic Wasteland)         |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Clouds on the Border (Baltic Wasteland) |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Gecko Hunting (Baltic Wasteland)        |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Take the Ground (Daniel Haumann)        |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
+| Secret Service (Oliver Riedl)           |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             |
 
 ## Co-Op Mode
 
 The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
-| Item                  | Purchased | Digital                                                |     Downloaded     | Released    | Notes |
-| --------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----------- | ----- |
-| Co-Op Handbook (v1.0) |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Item                  | Purchased | Digital                             |     Downloaded     | Released    | Notes |
+| --------------------- | :-------: | ----------------------------------- | :----------------: | ----------- | ----- |
+| Co-Op Handbook (v1.0) |           | [Free :pdf:][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
 
 [Co-Op Handbook (v1.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_co-op_handbook_v.1.0_download.pdf
 
 ### Scenarios
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Released    | Notes |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----------- | ----- |
-| Into the Sewer      |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
-| Blood Cage          |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
-| Dangerous Munitions |           | [Free <i class="fa-file-pdf"/>][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Item                | Purchased | Digital                             |     Downloaded     | Released    | Notes |
+| ------------------- | :-------: | ----------------------------------- | :----------------: | ----------- | ----- |
+| Into the Sewer      |           | [Free :pdf:][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Blood Cage          |           | [Free :pdf:][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
+| Dangerous Munitions |           | [Free :pdf:][Co-Op Handbook (v1.0)] | :heavy_check_mark: | August 2018 |
 
 ## Vault-Tec Simulator
 
-| Item                | Purchased | Digital                                                 |     Downloaded     | Released                 | Notes                                                            |
-| ------------------- | :-------: | ------------------------------------------------------- | :----------------: | ------------------------ | ---------------------------------------------------------------- |
-| Vault-Tec Profile   |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Profile]      | :heavy_check_mark: | [July 2024][FF 19/07/24] | [Form Fillable <i class="fa-file-pdf"/>][Vault-Tec Profile Form] |
-| Vault-Tec Simulator |           | [Free <i class="fa-file-zipper"/>][Vault-Tec Simulator] | :heavy_check_mark: | [May 2024][FF 24/05/24]  | [Blog: Vault-Tec Simulator]                                      |
+| Item                | Purchased | Digital                           |     Downloaded     | Released                 | Notes                                         |
+| ------------------- | :-------: | --------------------------------- | :----------------: | ------------------------ | --------------------------------------------- |
+| Vault-Tec Profile   |           | [Free :pdf:][Vault-Tec Profile]   | :heavy_check_mark: | [July 2024][FF 19/07/24] | [Form Fillable :pdf:][Vault-Tec Profile Form] |
+| Vault-Tec Simulator |           | [Free :zip:][Vault-Tec Simulator] | :heavy_check_mark: | [May 2024][FF 24/05/24]  | [Blog: Vault-Tec Simulator]                   |
 
 [Blog: Vault-Tec Simulator]: https://modiphius.net/blogs/news/vault-tec-simulator
 [Vault-Tec Profile]: https://cdn.shopify.com/s/files/1/0225/4035/files/Vault-Tec_Profile_small.pdf
@@ -1382,13 +1382,13 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 
 ### Scenarios
 
-| Item                     | Purchased | Digital                                              |     Downloaded     | Released | Notes |
-| ------------------------ | :-------: | ---------------------------------------------------- | :----------------: | -------- | ----- |
-| Lay Your Head to Rest    |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
-| Hunger Strikes           |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
-| Who's Got the Power?     |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
-| Jackpot!                 |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
-| Salvaging This Situation |           | [Free <i class="fa-file-pdf"/>][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Item                     | Purchased | Digital                           |     Downloaded     | Released | Notes |
+| ------------------------ | :-------: | --------------------------------- | :----------------: | -------- | ----- |
+| Lay Your Head to Rest    |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Hunger Strikes           |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Who's Got the Power?     |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Jackpot!                 |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
+| Salvaging This Situation |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
 
 ## Game Cards
 
@@ -1398,39 +1398,39 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Standard
 
-| Item                                                  | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
-| ----------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [AI <i class="fa-file-pdf"/>][AI Cards]               | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
-| [Reference <i class="fa-file-pdf"/>][Reference Cards] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
-| [Unit <i class="fa-file-pdf"/>][Unit Cards]           | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
-| `Total`                                               |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
+| Item              | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| ----------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [AI :pdf:]        | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
+| [Reference :pdf:] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
+| [Unit :pdf:]      | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
+| `Total`           |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
 
-[AI Cards]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle
-[Reference Cards]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
-[Unit Cards]: https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview
+[AI :pdf:]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle
+[Reference :pdf:]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
+[Unit :pdf:]: https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview
 
 ### Mini European
 
-| Item                                                        | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
-| ----------------------------------------------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [Chems <i class="fa-file-pdf"/>][Chems Cards]               | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
-| [Equipment <i class="fa-file-pdf"/>][Equipment Cards]       | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
-| [Heroic <i class="fa-file-pdf"/>][Heroic Cards]             | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
-| [Leader <i class="fa-file-pdf"/>][Leader Cards]             | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
-| [Mods <i class="fa-file-pdf"/>][Mods Cards]                 | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
-| [Perk <i class="fa-file-pdf"/>][Perk Cards]                 | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
-| [Power Armour <i class="fa-file-pdf"/>][Power Armour Cards] | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
-| [Weapon <i class="fa-file-pdf"/>][Weapon Cards]             | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
-| `Total`                                                     |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+| Item                 | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| -------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [Chems :pdf:]        | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
+| [Equipment :pdf:]    | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
+| [Heroic :pdf:]       | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
+| [Leader :pdf:]       | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
+| [Mods :pdf:]         | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
+| [Perk :pdf:]         | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
+| [Power Armour :pdf:] | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
+| [Weapon :pdf:]       | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
+| `Total`              |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
 
-[Chems Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf
-[Equipment Cards]: https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview
-[Heroic Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf
-[Leader Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf
-[Mods Cards]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
-[Perk Cards]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
-[Power Armour Cards]: https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview
-[Weapon Cards]: https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview
+[Chems :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf
+[Equipment :pdf:]: https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview
+[Heroic :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf
+[Leader :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf
+[Mods :pdf:]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Perk :pdf:]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Power Armour :pdf:]: https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview
+[Weapon :pdf:]: https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview
 
 #### Euro-Mini Card Box
 
@@ -1467,11 +1467,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                          |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes |
-| ----------------------------- | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ----- |
-| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                                          |                    | [April 2019][DEVELOPMENT BLOG #16] |
-| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                                          |                    | July 2020                          |
+| Item                          |     Purchased      | Digital                               |     Downloaded     | Released                           | Notes |
+| ----------------------------- | :----------------: | ------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                       |                    | [April 2019][DEVELOPMENT BLOG #16] |
+| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy :pdf:][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
+| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                       |                    | July 2020                          |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
@@ -1480,12 +1480,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                                               |     Downloaded     | Released                                        | Notes |
-| ------------------------------ | :-------: | ----------------------------------------------------- | :----------------: | ----------------------------------------------- | ----- |
-| Machine Frequency              |           | [Buy <i class="fa-file-pdf"/>][Machine Frequency]     | :heavy_check_mark: | October 2020                                    |
-| The Unexpected Shepherd Part 1 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
-| The Unexpected Shepherd Part 2 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
-| The Unexpected Shepherd Part 3 |           | [Buy <i class="fa-file-pdf"/>][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
+| Item                           | Purchased | Digital                            |     Downloaded     | Released                                        | Notes |
+| ------------------------------ | :-------: | ---------------------------------- | :----------------: | ----------------------------------------------- | ----- |
+| Machine Frequency              |           | [Buy :pdf:][Machine Frequency]     | :heavy_check_mark: | October 2020                                    |
+| The Unexpected Shepherd Part 1 |           | [Buy :pdf:][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
+| The Unexpected Shepherd Part 2 |           | [Buy :pdf:][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
+| The Unexpected Shepherd Part 3 |           | [Buy :pdf:][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
 
 [Machine Frequency]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency
 [Unexpected Shepherd 1]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd
@@ -1521,18 +1521,18 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Items
 
-| Item                           |     Purchased      | Digital                                                  |     Downloaded     | Released                           | Notes                                                              |
-| ------------------------------ | :----------------: | -------------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
-| [Core Rulebook]                | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Core Rulebook PDF]        | :heavy_check_mark: | April 2021                         |
-| [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                                          |                    | April 2021                         |
-| ┝ [Dice Set]                   | :heavy_check_mark: |                                                          |                    | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
-| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Gamemaster's Toolkit PDF] | :heavy_check_mark: | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
-| [GM Screen + Booklet]          |        :x:         | [Buy <i class="fa-file-pdf"/>][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
-| [New Vegas Setting Guide]      |        :x:         |                                                          |                    | [April 2026][FF 24/04/26]          |
-| [Perk Cards 1]                 | :heavy_check_mark: |                                                          |                    | [May 2022][FF 13/05/22]            |
-| [Perk Cards 2]                 | :heavy_check_mark: |                                                          |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
-| Quickstart Guide               |                    | [Free <i class="fa-file-pdf"/>][Quickstart Guide]        | :heavy_check_mark: | June 2022                          |
-| [Starter Set]                  | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Starter Set PDF]          | :heavy_check_mark: | [June 2022][2d20 Out of the Vault] |
+| Item                           |     Purchased      | Digital                               |     Downloaded     | Released                           | Notes                                                              |
+| ------------------------------ | :----------------: | ------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
+| [Core Rulebook]                | :heavy_check_mark: | [Buy :pdf:][Core Rulebook PDF]        | :heavy_check_mark: | April 2021                         |
+| [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                       |                    | April 2021                         |
+| ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
+| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
+| [GM Screen + Booklet]          |        :x:         | [Buy :pdf:][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
+| [New Vegas Setting Guide]      |        :x:         |                                       |                    | [April 2026][FF 24/04/26]          |
+| [Perk Cards 1]                 | :heavy_check_mark: |                                       |                    | [May 2022][FF 13/05/22]            |
+| [Perk Cards 2]                 | :heavy_check_mark: |                                       |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
+| Quickstart Guide               |                    | [Free :pdf:][Quickstart Guide]        | :heavy_check_mark: | June 2022                          |
+| [Starter Set]                  | :heavy_check_mark: | [Buy :pdf:][Starter Set PDF]          | :heavy_check_mark: | [June 2022][2d20 Out of the Vault] |
 
 [Core Rulebook]: https://modiphius.net/products/falloutrpg_core-rulebook
 [Core Rulebook PDF]: https://modiphius.net/products/falloutrpg_corerulebook-pdf
@@ -1551,14 +1551,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Astoundingly Awesome Tales
 
-| Item                                                                       |     Purchased      | Digital                                                      |     Downloaded     | Released                     | Notes                                    |
-| -------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------ | :----------------: | ---------------------------- | ---------------------------------------- |
-| [Issue No. 1 - Orange Coloured Sky][Astoundingly Awesome Tales 1-5]        | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 1] | :heavy_check_mark: | February 2023                |
-| [Issue No. 2 - Fully Operational][Astoundingly Awesome Tales 1-5]          | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 2] | :heavy_check_mark: | March 2023                   |
-| [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 3] | :heavy_check_mark: | [November 2023][FF 17/11/23] |
-| [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 4] | :heavy_check_mark: | March 2024                   |
-| [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                                              |                    |                              | Only available as bonus in physical book |
-| Issue No. 6 - Into the Abyss                                               |                    | [Buy <i class="fa-file-pdf"/>][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                  |
+| Item                                                                       |     Purchased      | Digital                                   |     Downloaded     | Released                     | Notes                                    |
+| -------------------------------------------------------------------------- | :----------------: | ----------------------------------------- | :----------------: | ---------------------------- | ---------------------------------------- |
+| [Issue No. 1 - Orange Coloured Sky][Astoundingly Awesome Tales 1-5]        | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 1] | :heavy_check_mark: | February 2023                |
+| [Issue No. 2 - Fully Operational][Astoundingly Awesome Tales 1-5]          | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 2] | :heavy_check_mark: | March 2023                   |
+| [Issue No. 3 - Showdown in Skull Canyon][Astoundingly Awesome Tales 1-5]   | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 3] | :heavy_check_mark: | [November 2023][FF 17/11/23] |
+| [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 4] | :heavy_check_mark: | March 2024                   |
+| [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                           |                    |                              | Only available as bonus in physical book |
+| Issue No. 6 - Into the Abyss                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                  |
 
 [Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf
@@ -1569,10 +1569,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Guide Book
 
-| Item               | Purchased | Digital                                              |     Downloaded     | Released                     | Notes |
-| ------------------ | :-------: | ---------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| [Settler's Guide]  |    :x:    | [Buy <i class="fa-file-pdf"/>][Settler's Guide PDF]  | :heavy_check_mark: | [October 2023][FF 20/10/23]  |
-| [Wanderer's Guide] |    :x:    | [Buy <i class="fa-file-pdf"/>][Wanderer's Guide PDF] | :heavy_check_mark: | [February 2024][FF 16/02/24] |
+| Item               | Purchased | Digital                           |     Downloaded     | Released                     | Notes |
+| ------------------ | :-------: | --------------------------------- | :----------------: | ---------------------------- | ----- |
+| [Settler's Guide]  |    :x:    | [Buy :pdf:][Settler's Guide PDF]  | :heavy_check_mark: | [October 2023][FF 20/10/23]  |
+| [Wanderer's Guide] |    :x:    | [Buy :pdf:][Wanderer's Guide PDF] | :heavy_check_mark: | [February 2024][FF 16/02/24] |
 
 [Settler's Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement
 [Settler's Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf
@@ -1581,10 +1581,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Map Pack
 
-| Item                            | Purchased | Digital                                        |     Downloaded     | Released                | Notes |
-| ------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ----------------------- | ----- |
-| [Map Pack 1: Vault]             |    :x:    | [Buy <i class="fa-file-pdf"/>][Map Pack 1 PDF] | :heavy_check_mark: | September 2023          |
-| [Map Pack 2: Wasteland Locales] |    :x:    | [Buy <i class="fa-file-pdf"/>][Map Pack 2 PDF] | :heavy_check_mark: | [May 2024][FF 24/05/24] |
+| Item                            | Purchased | Digital                     |     Downloaded     | Released                | Notes |
+| ------------------------------- | :-------: | --------------------------- | :----------------: | ----------------------- | ----- |
+| [Map Pack 1: Vault]             |    :x:    | [Buy :pdf:][Map Pack 1 PDF] | :heavy_check_mark: | September 2023          |
+| [Map Pack 2: Wasteland Locales] |    :x:    | [Buy :pdf:][Map Pack 2 PDF] | :heavy_check_mark: | [May 2024][FF 24/05/24] |
 
 [Map Pack 1: Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
 [Map Pack 1 PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf
@@ -1593,13 +1593,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### NPC Pack
 
-| Item                                | Purchased | Digital                                                   |     Downloaded     | Released                     | Notes |
-| ----------------------------------- | :-------: | --------------------------------------------------------- | :----------------: | ---------------------------- | ----- |
-| NPC Pack - Hollywood Heroes         |           | [Buy <i class="fa-file-pdf"/>][NPC Pack Hollywood Heroes] | :heavy_check_mark: | [August 2024][FF 16/08/24]   |
-| NPC Pack 1 - The Rust Devils        |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 1]                | :heavy_check_mark: | June 2023                    |
-| NPC Pack 2 - Enclave Remnants       |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 2]                | :heavy_check_mark: | [February 2024][FF 16/02/24] |
-| NPC Pack 3 - Reilly's Rangers       |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 3]                | :heavy_check_mark: | February 2024                |
-| NPC Pack 4 - Mariposa Military Base |           | [Buy <i class="fa-file-pdf"/>][NPC Pack 4]                | :heavy_check_mark: | [March 2025][FF 21/03/25]    |
+| Item                                | Purchased | Digital                                |     Downloaded     | Released                     | Notes |
+| ----------------------------------- | :-------: | -------------------------------------- | :----------------: | ---------------------------- | ----- |
+| NPC Pack - Hollywood Heroes         |           | [Buy :pdf:][NPC Pack Hollywood Heroes] | :heavy_check_mark: | [August 2024][FF 16/08/24]   |
+| NPC Pack 1 - The Rust Devils        |           | [Buy :pdf:][NPC Pack 1]                | :heavy_check_mark: | June 2023                    |
+| NPC Pack 2 - Enclave Remnants       |           | [Buy :pdf:][NPC Pack 2]                | :heavy_check_mark: | [February 2024][FF 16/02/24] |
+| NPC Pack 3 - Reilly's Rangers       |           | [Buy :pdf:][NPC Pack 3]                | :heavy_check_mark: | February 2024                |
+| NPC Pack 4 - Mariposa Military Base |           | [Buy :pdf:][NPC Pack 4]                | :heavy_check_mark: | [March 2025][FF 21/03/25]    |
 
 [NPC Pack Hollywood Heroes]: https://modiphius.net/products/fallout-2d20-npc-pack-hollywood-heroes-pdf
 [NPC Pack 1]: https://modiphius.net/products/fallout-the-roleplaying-game-npc-pack-1-the-rust-devils-pdf
@@ -1609,10 +1609,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Quest Book
 
-| Item             | Purchased | Digital                                            |     Downloaded     | Released                            | Notes |
-| ---------------- | :-------: | -------------------------------------------------- | :----------------: | ----------------------------------- | ----- |
-| [Royal Flush]    |    :x:    | [Buy <i class="fa-file-pdf"/>][Royal Flush PDF]    |        :x:         | [January 2026][FF 23/01/26]         |
-| [Winter of Atom] |    :x:    | [Buy <i class="fa-file-pdf"/>][Winter of Atom PDF] | :heavy_check_mark: | [January 2023][2d20 Nuclear Winter] |
+| Item             | Purchased | Digital                         |     Downloaded     | Released                            | Notes |
+| ---------------- | :-------: | ------------------------------- | :----------------: | ----------------------------------- | ----- |
+| [Royal Flush]    |    :x:    | [Buy :pdf:][Royal Flush PDF]    |        :x:         | [January 2026][FF 23/01/26]         |
+| [Winter of Atom] |    :x:    | [Buy :pdf:][Winter of Atom PDF] | :heavy_check_mark: | [January 2023][2d20 Nuclear Winter] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
 [Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
@@ -1655,15 +1655,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                 |     Purchased      | Digital                                              |     Downloaded     | Released                    | Notes |
-| -------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------------------- | ----- |
-| [Rulebook]           | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Rulebook PDF]         | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
-| ┕ [King of the Park] | :heavy_check_mark: |                                                      |                    |                             | Promo |
-| [Crew Folio]         | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Crew Folio PDF]       | :heavy_check_mark: | [January 2026][FF 23/01/26] |
-| ┕ [Rogue Knight]     | :heavy_check_mark: |                                                      |                    | May 2026                    | Promo |
-| Spooktober Rules     |                    | [Free <i class="fa-file-zipper"/>][Spooktober Rules] | :heavy_check_mark: | October 2024                |
-| Spooktober 2 Rules   |                    | [Free <i class="fa-file-pdf"/>][Spooktober 2 Rules]  | :heavy_check_mark: | October 2025                |
-| C.O.M.P. Kit         |                    | [Free <i class="fa-file-pdf"/>][C.O.M.P. Kit]        | :heavy_check_mark: | [May 2026][Factions COMP]   |
+| Item                 |     Purchased      | Digital                          |     Downloaded     | Released                    | Notes |
+| -------------------- | :----------------: | -------------------------------- | :----------------: | --------------------------- | ----- |
+| [Rulebook]           | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]        | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
+| ┕ [King of the Park] | :heavy_check_mark: |                                  |                    |                             | Promo |
+| [Crew Folio]         | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]      | :heavy_check_mark: | [January 2026][FF 23/01/26] |
+| ┕ [Rogue Knight]     | :heavy_check_mark: |                                  |                    | May 2026                    | Promo |
+| Spooktober Rules     |                    | [Free :zip:][Spooktober Rules]   | :heavy_check_mark: | October 2024                |
+| Spooktober 2 Rules   |                    | [Free :pdf:][Spooktober 2 Rules] | :heavy_check_mark: | October 2025                |
+| C.O.M.P. Kit         |                    | [Free :pdf:][C.O.M.P. Kit]       | :heavy_check_mark: | [May 2026][Factions COMP]   |
 
 [C.O.M.P. Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e52b1e8f-bced-4aa1-b93e-d04fa975618b/FF-COMPKit-2026-M1.pdf
 [Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
@@ -1699,16 +1699,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Items
 
-| Item                                |     Purchased      | Digital                                                                      |     Downloaded     | Released                     | Notes                                                                            |
-| ----------------------------------- | :----------------: | ---------------------------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
-| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                                              |                    | [July 2024][FF 19/07/24]     | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
-| ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
-| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025][FF 21/03/25]    | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
-| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Operators Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Operators Dice Set]                                               |
-| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Pack Assembly Guide]           | :heavy_check_mark: | July 2024                    | [Dice Set][The Pack Dice Set]                                                    |
-| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][The Disciples Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Disciples Dice Set]                                               |
-| [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                                              |                    |                              | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
-| Welcome to Nuka-World Quickstart    |                    | [Free <i class="fa-file-pdf"/>][Nuka-World Quickstart]                       | :heavy_check_mark: | [February 2024][PR 20/03/24] |
+| Item                                |     Purchased      | Digital                                                   |     Downloaded     | Released                     | Notes                                                                            |
+| ----------------------------------- | :----------------: | --------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
+| [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                           |                    | [July 2024][FF 19/07/24]     | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
+| ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide :pdf:][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024][FF 21/06/24]     | Promo                                                                            |
+| ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide :pdf:][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025][FF 21/03/25]    | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
+| ┝ [Raiders: The Operators]          | :heavy_check_mark: | [Assembly Guide :pdf:][The Operators Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Operators Dice Set]                                               |
+| ┕ [Raiders: The Pack]               | :heavy_check_mark: | [Assembly Guide :pdf:][The Pack Assembly Guide]           | :heavy_check_mark: | July 2024                    | [Dice Set][The Pack Dice Set]                                                    |
+| [Raiders: The Disciples]            | :heavy_check_mark: | [Assembly Guide :pdf:][The Disciples Assembly Guide]      | :heavy_check_mark: | July 2024                    | [Dice Set][The Disciples Dice Set]                                               |
+| [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                           |                    |                              | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
+| Welcome to Nuka-World Quickstart    |                    | [Free :pdf:][Nuka-World Quickstart]                       | :heavy_check_mark: | [February 2024][PR 20/03/24] |
 
 [Battle for Nuka-World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set
 [Battle Map: Nuka-World]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world
@@ -1747,14 +1747,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle)
 
-| Item                                         |     Purchased      | Digital                                                            |     Downloaded     | Pre-Release                  | Notes                           |
-| -------------------------------------------- | :----------------: | ------------------------------------------------------------------ | :----------------: | ---------------------------- | ------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference <i class="fa-file-pdf"/>][Boston Quick Reference] | :heavy_check_mark: | [February 2026][FF 20/02/26] |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | Promo                           |
-| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide <i class="fa-file-pdf"/>][BoS Assembly Guide]      | :heavy_check_mark: | [August 2025][FF 22/08/25]   | [Dice Set][BoS Dice Set]        |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Institute: Dice Set] |
-| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Minutemen: Dice Set] |
-| [Railroad: Core Box (Plastic)]               |        :x:         |                                                                    |                    | [February 2026][FF 20/02/26] | [Dice Set][Railroad: Dice Set]  |
+| Item                                         |     Purchased      | Digital                                         |     Downloaded     | Pre-Release                  | Notes                           |
+| -------------------------------------------- | :----------------: | ----------------------------------------------- | :----------------: | ---------------------------- | ------------------------------- |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference] | :heavy_check_mark: | [February 2026][FF 20/02/26] |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                 |                    | [February 2026][FF 20/02/26] | Promo                           |
+| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]      | :heavy_check_mark: | [August 2025][FF 22/08/25]   | [Dice Set][BoS Dice Set]        |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                 |                    | [February 2026][FF 20/02/26] | [Dice Set][Institute: Dice Set] |
+| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                 |                    | [February 2026][FF 20/02/26] | [Dice Set][Minutemen: Dice Set] |
+| [Railroad: Core Box (Plastic)]               |        :x:         |                                                 |                    | [February 2026][FF 20/02/26] | [Dice Set][Railroad: Dice Set]  |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
@@ -1770,10 +1770,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
-| Item                            | Purchased | Digital                                                                        |     Downloaded     | Released                      | Notes                                     |
-| ------------------------------- | :-------: | ------------------------------------------------------------------------------ | :----------------: | ----------------------------- | ----------------------------------------- |
-| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025][FF 21/03/25]     | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide <i class="fa-file-pdf"/>][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025][FF 19/09/25] | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                            | Purchased | Digital                                                     |     Downloaded     | Released                      | Notes                                     |
+| ------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ----------------------------- | ----------------------------------------- |
+| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025][FF 21/03/25]     | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025][FF 19/09/25] | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
 [Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
@@ -1790,9 +1790,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 > Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                 |     Purchased      | Digital                                                |     Downloaded     | Released                  | Notes |
-| -------------------- | :----------------: | ------------------------------------------------------ | :----------------: | ------------------------- | ----- |
-| [Wasteland Wanderer] | :heavy_check_mark: | [Buy <i class="fa-file-pdf"/>][Wasteland Wanderer PDF] | :heavy_check_mark: | [April 2026][FF 24/04/26] |
+| Item                 |     Purchased      | Digital                             |     Downloaded     | Released                  | Notes |
+| -------------------- | :----------------: | ----------------------------------- | :----------------: | ------------------------- | ----- |
+| [Wasteland Wanderer] | :heavy_check_mark: | [Buy :pdf:][Wasteland Wanderer PDF] | :heavy_check_mark: | [April 2026][FF 24/04/26] |
 
 [Wasteland Wanderer]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game
 [Wasteland Wanderer PDF]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game-pdf
