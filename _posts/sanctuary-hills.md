@@ -35,9 +35,9 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 # Sanctuary Hills House
 
-| Item                  | Purchased | Digital                                                  |     Downloaded     | Released      | Notes |
-| --------------------- | :-------: | -------------------------------------------------------- | :----------------: | ------------- | ----- |
-| Sanctuary Hills House |           | [Buy <i class="fa-file-zipper"/>][Sanctuary Hills House] | :heavy_check_mark: | February 2021 |
+| Item                  | Purchased | Digital                            |     Downloaded     | Released      | Notes |
+| --------------------- | :-------: | ---------------------------------- | :----------------: | ------------- | ----- |
+| Sanctuary Hills House |           | [Buy :zip:][Sanctuary Hills House] | :heavy_check_mark: | February 2021 |
 
 [Sanctuary Hills House]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl
 
@@ -237,9 +237,9 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item             | Purchased | Digital                                             |     Downloaded     | Released                                                                 | Notes |
-| ---------------- | :-------: | --------------------------------------------------- | :----------------: | ------------------------------------------------------------------------ | ----- |
-| Settlement Walls |           | [Buy <i class="fa-file-zipper"/>][Settlement Walls] | :heavy_check_mark: | [March 2022](https://modiphius.net/blogs/news/fallout-friday-march-2022) |
+| Item             | Purchased | Digital                       |     Downloaded     | Released                                                                 | Notes |
+| ---------------- | :-------: | ----------------------------- | :----------------: | ------------------------------------------------------------------------ | ----- |
+| Settlement Walls |           | [Buy :zip:][Settlement Walls] | :heavy_check_mark: | [March 2022](https://modiphius.net/blogs/news/fallout-friday-march-2022) |
 
 [Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
 
@@ -274,9 +274,9 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 # Vehicles
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Released     | Notes |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ------------ | ----- |
-| Commercial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Commercial Vehicles] | :heavy_check_mark: | January 2026 |
+| Item                | Purchased | Digital                          |     Downloaded     | Released     | Notes |
+| ------------------- | :-------: | -------------------------------- | :----------------: | ------------ | ----- |
+| Commercial Vehicles |           | [Buy :zip:][Commercial Vehicles] | :heavy_check_mark: | January 2026 |
 
 [Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 

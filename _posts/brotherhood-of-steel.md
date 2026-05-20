@@ -31,9 +31,9 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 # Brotherhood of Steel Encampment
 
-| Item                            | Purchased | Digital                                           |     Downloaded     | Notes                                                               |
-| ------------------------------- | :-------: | ------------------------------------------------- | :----------------: | ------------------------------------------------------------------- |
-| Brotherhood of Steel Encampment |           | [Buy <i class="fa-file-zipper"/>][BoS Encampment] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
+| Item                            | Purchased | Digital                     |     Downloaded     | Notes                                                               |
+| ------------------------------- | :-------: | --------------------------- | :----------------: | ------------------------------------------------------------------- |
+| Brotherhood of Steel Encampment |           | [Buy :zip:][BoS Encampment] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
 
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 

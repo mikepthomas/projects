@@ -41,9 +41,9 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                                          |     Purchased      | Digital                                           |     Downloaded     | Notes                                                                                   |
-| ----------------------------------------------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------- |
-| [Vault-Tec Poster Girl](https://only-games.co/products/vault-tec-poster-girl) | :heavy_check_mark: | [Buy <i class="fa-file-zipper"/>][Vault Tec Girl] | :heavy_check_mark: | [Pre-Colored Version](https://only-games.co/products/vault-tec-poster-girl-pre-colored) |
+| Item                                                                          |     Purchased      | Digital                     |     Downloaded     | Notes                                                                                   |
+| ----------------------------------------------------------------------------- | :----------------: | --------------------------- | :----------------: | --------------------------------------------------------------------------------------- |
+| [Vault-Tec Poster Girl](https://only-games.co/products/vault-tec-poster-girl) | :heavy_check_mark: | [Buy :zip:][Vault Tec Girl] | :heavy_check_mark: | [Pre-Colored Version](https://only-games.co/products/vault-tec-poster-girl-pre-colored) |
 
 [Vault Tec Girl]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl
 
@@ -58,14 +58,14 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
 
-| Item                          | Purchased | Digital                                                          |     Downloaded     | Notes |
-| ----------------------------- | :-------: | ---------------------------------------------------------------- | :----------------: | ----- |
-| Vault Design Starter Pack     |           | [Buy <i class="fa-file-zipper"/>][Vault Design Starter Pack]     | :heavy_check_mark: |       |
-| Vault Walls Upgrade Pack      |           | [Buy <i class="fa-file-zipper"/>][Vault Walls Upgrade Pack]      | :heavy_check_mark: |       |
-| Vault Flooring Pack           |           | [Buy <i class="fa-file-zipper"/>][Vault Flooring Pack]           | :heavy_check_mark: |       |
-| Vault Atrium Pack             |           | [Buy <i class="fa-file-zipper"/>][Vault Atrium Pack]             | :heavy_check_mark: |       |
-| Vault Interior Themed Scatter |           | [Buy <i class="fa-file-zipper"/>][Vault Interior Themed Scatter] | :heavy_check_mark: |       |
-| Vault Tec Office Bundle       |           | [Buy <i class="fa-file-zipper"/>][Vault Tec Office Bundle]       | :heavy_check_mark: |       |
+| Item                          | Purchased | Digital                                    |     Downloaded     | Notes |
+| ----------------------------- | :-------: | ------------------------------------------ | :----------------: | ----- |
+| Vault Design Starter Pack     |           | [Buy :zip:][Vault Design Starter Pack]     | :heavy_check_mark: |       |
+| Vault Walls Upgrade Pack      |           | [Buy :zip:][Vault Walls Upgrade Pack]      | :heavy_check_mark: |       |
+| Vault Flooring Pack           |           | [Buy :zip:][Vault Flooring Pack]           | :heavy_check_mark: |       |
+| Vault Atrium Pack             |           | [Buy :zip:][Vault Atrium Pack]             | :heavy_check_mark: |       |
+| Vault Interior Themed Scatter |           | [Buy :zip:][Vault Interior Themed Scatter] | :heavy_check_mark: |       |
+| Vault Tec Office Bundle       |           | [Buy :zip:][Vault Tec Office Bundle]       | :heavy_check_mark: |       |
 
 [Vault Design Starter Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl
 [Vault Walls Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl
@@ -683,9 +683,9 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 # Vehicles
 
-| Item                | Purchased | Digital                                                |     Downloaded     | Notes |
-| ------------------- | :-------: | ------------------------------------------------------ | :----------------: | ----- |
-| Industrial Vehicles |           | [Buy <i class="fa-file-zipper"/>][Industrial Vehicles] | :heavy_check_mark: |       |
+| Item                | Purchased | Digital                          |     Downloaded     | Notes |
+| ------------------- | :-------: | -------------------------------- | :----------------: | ----- |
+| Industrial Vehicles |           | [Buy :zip:][Industrial Vehicles] | :heavy_check_mark: |       |
 
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
 

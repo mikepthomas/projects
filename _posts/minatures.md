@@ -31,17 +31,17 @@ keywords:
 
 ## General Mode
 
-| Item                      | Purchased | Digital                                                    |     Downloaded     | Released      | Notes |
-| ------------------------- | :-------: | ---------------------------------------------------------- | :----------------: | ------------- | ----- |
-| Item & Unit Costs (v1.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]         | :heavy_check_mark: | July 2018     |
-| Item & Unit Costs (v2.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]         | :heavy_check_mark: | March 2019    |
-| Item & Unit Costs (v2.1)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
-| Item & Unit Costs (v3.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
-| Item & Unit Costs (v3.2)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
-| Item & Unit Costs (v6.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v6.0)]  | :heavy_check_mark: | November 2022 |
-| Item & Unit Costs (v7.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v7.0)]  | :heavy_check_mark: | April 2023    |
-| Item & Unit Costs (v9.0)  |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
-| Item & Unit Costs (v10.0) |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
+| Item                      | Purchased | Digital                                 |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | --------------------------------------- | :----------------: | ------------- | ----- |
+| Item & Unit Costs (v1.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | July 2018     |
+| Item & Unit Costs (v2.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | March 2019    |
+| Item & Unit Costs (v2.1)  |           | [Free :pdf:][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
+| Item & Unit Costs (v3.0)  |           | [Free :pdf:][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
+| Item & Unit Costs (v3.2)  |           | [Free :pdf:][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
+| Item & Unit Costs (v6.0)  |           | [Free :pdf:][Item & Unit Costs (v6.0)]  | :heavy_check_mark: | November 2022 |
+| Item & Unit Costs (v7.0)  |           | [Free :pdf:][Item & Unit Costs (v7.0)]  | :heavy_check_mark: | April 2023    |
+| Item & Unit Costs (v9.0)  |           | [Free :pdf:][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
+| Item & Unit Costs (v10.0) |           | [Free :pdf:][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
 
 [Item & Unit Costs]: https://web.archive.org/web/20190825194518/https://www.modiphius.net/products/fallout-wasteland-warfare-battle-mode-force-lists-free
 [Item & Unit Costs (v2.1)]: https://web.archive.org/web/20191123170110/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_item_and_unit_costs_v2.1.pdf
@@ -54,10 +54,10 @@ keywords:
 
 ## Roleplaying Game
 
-| Item                         | Purchased | Digital                                                       |     Downloaded     | Released      | Notes |
-| ---------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | ------------- | ----- |
-| RPG Item Costs (v1.0)        |           | [Free <i class="fa-file-pdf"/>][RPG Item Costs (v1.0)]        | :heavy_check_mark: | December 2019 |
-| RPG Item & Unit Costs (v4.0) |           | [Free <i class="fa-file-pdf"/>][RPG Item & Unit Costs (v4.0)] | :heavy_check_mark: | November 2020 |
+| Item                         | Purchased | Digital                                    |     Downloaded     | Released      | Notes |
+| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | ------------- | ----- |
+| RPG Item Costs (v1.0)        |           | [Free :pdf:][RPG Item Costs (v1.0)]        | :heavy_check_mark: | December 2019 |
+| RPG Item & Unit Costs (v4.0) |           | [Free :pdf:][RPG Item & Unit Costs (v4.0)] | :heavy_check_mark: | November 2020 |
 
 [RPG Item Costs (v1.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_item_costs_v.1.0.pdf
 [RPG Item & Unit Costs (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/fww_wave_4_rpg_unit_and_item_costs_nov2020.pdf
@@ -66,14 +66,14 @@ keywords:
 
 ### Items
 
-| Item                                  | Purchased | Digital                                                                |     Downloaded     | Released     | Notes |
-| ------------------------------------- | :-------: | ---------------------------------------------------------------------- | :----------------: | ------------ | ----- |
-| Items (v1.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v1.0)]                          | :heavy_check_mark: | January 2021 |
-| Items (v5.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v5.0)]                          | :heavy_check_mark: | May 2021     |
-| Items (v8.0)                          |           | [Free <i class="fa-file-pdf"/>][Items (v8.0)]                          | :heavy_check_mark: | April 2023   |
-| Alcohol, Chem, and Food (BMCE v1.0)   |           | [Free <i class="fa-file-pdf"/>][Alcohol, Chem, and Food (BMCE v1.0) ]  | :heavy_check_mark: | June 2024    |
-| Armor, Clothes, and Power (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
-| Weapons (BMCE v1.0)                   |           | [Free <i class="fa-file-pdf"/>][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
+| Item                                  | Purchased | Digital                                             |     Downloaded     | Released     | Notes |
+| ------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------ | ----- |
+| Items (v1.0)                          |           | [Free :pdf:][Items (v1.0)]                          | :heavy_check_mark: | January 2021 |
+| Items (v5.0)                          |           | [Free :pdf:][Items (v5.0)]                          | :heavy_check_mark: | May 2021     |
+| Items (v8.0)                          |           | [Free :pdf:][Items (v8.0)]                          | :heavy_check_mark: | April 2023   |
+| Alcohol, Chem, and Food (BMCE v1.0)   |           | [Free :pdf:][Alcohol, Chem, and Food (BMCE v1.0) ]  | :heavy_check_mark: | June 2024    |
+| Armor, Clothes, and Power (BMCE v1.0) |           | [Free :pdf:][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
+| Weapons (BMCE v1.0)                   |           | [Free :pdf:][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
 
 [Items (v1.0)]: https://web.archive.org/web/20210506073957/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
 [Items (v5.0)]: https://web.archive.org/web/20211017025537/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_items_17may.pdf
@@ -84,10 +84,10 @@ keywords:
 
 ### Perks and Upgrades
 
-| Item                         | Purchased | Digital                                                       |     Downloaded     | Released  | Notes |
-| ---------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | --------- | ----- |
-| Gears and Mods (BMCE v1.1)   |           | [Free <i class="fa-file-pdf"/>][Gears and Mods (BMCE v1.1)]   | :heavy_check_mark: | June 2024 |
-| Leader and Perks (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Leader and Perks (BMCE v1.1)] | :heavy_check_mark: | June 2024 |
+| Item                         | Purchased | Digital                                    |     Downloaded     | Released  | Notes |
+| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | --------- | ----- |
+| Gears and Mods (BMCE v1.1)   |           | [Free :pdf:][Gears and Mods (BMCE v1.1)]   | :heavy_check_mark: | June 2024 |
+| Leader and Perks (BMCE v1.1) |           | [Free :pdf:][Leader and Perks (BMCE v1.1)] | :heavy_check_mark: | June 2024 |
 
 [Gears and Mods (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/6504537a-54b3-477b-af18-46ed49711d89/BMCE-Gears-and-Mods-items-list-v-1-1.pdf
 [Leader and Perks (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/00face65-d3a1-435c-860c-739031fd0f03/BMCE-Leader-and-Perks-items-list-v-1-1.pdf
@@ -102,16 +102,16 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                                        | Purchased | Digital                                                     |     Downloaded     | Released      | Notes                 |
-| ------------------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Brotherhood of Steel Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]          | :heavy_check_mark: | August 2018   |
-| Brotherhood of Steel Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]          | :heavy_check_mark: | March 2019    |
-| Brotherhood of Steel Force List (v2.2)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
-| Brotherhood of Steel Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
-| Brotherhood of Steel Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
-| Brotherhood of Steel Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
-| Brotherhood of Steel Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][BoS Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
-| Brotherhood of Steel Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][BoS Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
+| Item                                        | Purchased | Digital                                  |     Downloaded     | Released      | Notes                 |
+| ------------------------------------------- | :-------: | ---------------------------------------- | :----------------: | ------------- | --------------------- |
+| Brotherhood of Steel Force List (v1.0)      |           | [Free :pdf:][Item & Unit Costs]          | :heavy_check_mark: | August 2018   |
+| Brotherhood of Steel Force List (v2.0)      |           | [Free :pdf:][Item & Unit Costs]          | :heavy_check_mark: | March 2019    |
+| Brotherhood of Steel Force List (v2.2)      |           | [Free :pdf:][BoS Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
+| Brotherhood of Steel Force List (v3.0)      |           | [Free :pdf:][BoS Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
+| Brotherhood of Steel Force List (v4.0)      |           | [Free :pdf:][BoS Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Brotherhood of Steel Force List (v5.0)      |           | [Free :pdf:][BoS Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
+| Brotherhood of Steel Force List (v7.0)      |           | [Free :pdf:][BoS Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Brotherhood of Steel Force List (BMCE v1.1) |           | [Free :pdf:][BoS Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
 
 [BoS Force List (v2.2)]: https://web.archive.org/web/20190918062633/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_bos_v.2.2.pdf
 [BoS Force List (v3.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_bos_v.3.0.pdf
@@ -174,10 +174,10 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                                    | Purchased | Digital                                                                  |     Downloaded     | Released   | Notes                 |
-| --------------------------------------- | :-------: | ------------------------------------------------------------------------ | :----------------: | ---------- | --------------------- |
-| Children of Atom Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Children of Atom Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Children of Atom Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Children of Atom Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                                    | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
+| --------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Children of Atom Force List (v7.0)      |           | [Free :pdf:][Children of Atom Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Children of Atom Force List (BMCE v1.0) |           | [Free :pdf:][Children of Atom Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Children of Atom Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Children_of_Atom.pdf
 [Children of Atom Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca149759-e144-4d8e-8d6a-406c45d4bc82/BMCE-Children-of-Atom-v-1-0.pdf
@@ -190,12 +190,12 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                             | Purchased | Digital                                                           |     Downloaded     | Released   | Notes                 |
-| -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Creatures Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
-| Creatures Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
-| Creatures Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Creatures Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Creatures Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                             | Purchased | Digital                                        |     Downloaded     | Released   | Notes                 |
+| -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Creatures Force List (v4.0)      |           | [Free :pdf:][Creatures Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
+| Creatures Force List (v5.0)      |           | [Free :pdf:][Creatures Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Creatures Force List (v7.0)      |           | [Free :pdf:][Creatures Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Creatures Force List (BMCE v1.0) |           | [Free :pdf:][Creatures Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Creatures Force List (v4.0)]: https://web.archive.org/web/20210506054844/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_creatures_jan21.pdf
 [Creatures Force List (v5.0)]: https://web.archive.org/web/20211017025447/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_creatures_17may.pdf
@@ -214,12 +214,12 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                           | Purchased | Digital                                                         |     Downloaded     | Released   | Notes                 |
-| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Enclave Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Enclave Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
-| Enclave Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Enclave Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
-| Enclave Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Enclave Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Enclave Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Enclave Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
+| ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Enclave Force List (v4.0)      |           | [Free :pdf:][Enclave Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
+| Enclave Force List (v5.0)      |           | [Free :pdf:][Enclave Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Enclave Force List (v7.0)      |           | [Free :pdf:][Enclave Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Enclave Force List (BMCE v1.0) |           | [Free :pdf:][Enclave Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Enclave Force List (v4.0)]: https://web.archive.org/web/20210506065020/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_enclave_jan21.pdf
 [Enclave Force List (v5.0)]: https://web.archive.org/web/20211017034322/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_enclave_17may.pdf
@@ -301,10 +301,10 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                           | Purchased | Digital                                                         |     Downloaded     | Released   | Notes                 |
-| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Gunners Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Gunners Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Gunners Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Gunners Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
+| ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Gunners Force List (v7.0)      |           | [Free :pdf:][Gunners Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Gunners Force List (BMCE v1.0) |           | [Free :pdf:][Gunners Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Gunners Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Gunners.pdf
 [Gunners Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/886cce9f-767a-431d-89be-21eef04d86ac/BMCE-Gunners-v-1-0.pdf
@@ -313,13 +313,13 @@ keywords:
 
 ### Battle Mode Force List
 
-| Item                             | Purchased | Digital                                                           |     Downloaded     | Released      | Notes                 |
-| -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Institute Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Institute Force List (v1.0)]      | :heavy_check_mark: | December 2019 |
-| Institute Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Institute Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
-| Institute Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Institute Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
-| Institute Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Institute Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
-| Institute Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Institute Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
+| Item                             | Purchased | Digital                                        |     Downloaded     | Released      | Notes                 |
+| -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ------------- | --------------------- |
+| Institute Force List (v1.0)      |           | [Free :pdf:][Institute Force List (v1.0)]      | :heavy_check_mark: | December 2019 |
+| Institute Force List (v4.0)      |           | [Free :pdf:][Institute Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Institute Force List (v5.0)      |           | [Free :pdf:][Institute Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
+| Institute Force List (v7.0)      |           | [Free :pdf:][Institute Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Institute Force List (BMCE v1.1) |           | [Free :pdf:][Institute Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
 
 [Institute Force List (v1.0)]: https://web.archive.org/web/20191231140748/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_inst_v.1.0.pdf
 [Institute Force List (v4.0)]: https://web.archive.org/web/20210506062457/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_institute_jan21.pdf
@@ -333,11 +333,11 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Battle Mode Force List
 
-| Item                          | Purchased | Digital                                                        |     Downloaded     | Released   | Notes                 |
-| ----------------------------- | :-------: | -------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Legion Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Legion Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
-| Legion Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Legion Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Legion Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Legion Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                          | Purchased | Digital                                     |     Downloaded     | Released   | Notes                 |
+| ----------------------------- | :-------: | ------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Legion Force List (v5.0)      |           | [Free :pdf:][Legion Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Legion Force List (v7.0)      |           | [Free :pdf:][Legion Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Legion Force List (BMCE v1.0) |           | [Free :pdf:][Legion Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Legion Force List (v5.0)]: https://web.archive.org/web/20211017042846/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_caesars_legion_17may.pdf
 [Legion Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Caesars_Legion.pdf
@@ -347,11 +347,11 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Battle Mode Force List
 
-| Item                       | Purchased | Digital                                                     |     Downloaded     | Released   | Notes                 |
-| -------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| NCR Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][NCR Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
-| NCR Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][NCR Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| NCR Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][NCR Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes                 |
+| -------------------------- | :-------: | ---------------------------------------- | :----------------: | ---------- | --------------------- |
+| NCR Force List (v5.0)      |           | [Free :pdf:][NCR Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| NCR Force List (v7.0)      |           | [Free :pdf:][NCR Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| NCR Force List (BMCE v1.0) |           | [Free :pdf:][NCR Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [NCR Force List (v5.0)]: https://web.archive.org/web/20211017022315/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_ncr_17may.pdf
 [NCR Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_NCR.pdf
@@ -364,9 +364,9 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Battle Mode Force List
 
-| Item                                            | Purchased | Digital                                                                          |     Downloaded     | Released  | Notes                 |
-| ----------------------------------------------- | :-------: | -------------------------------------------------------------------------------- | :----------------: | --------- | --------------------- |
-| Nuka-World Gangs Raiders Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Nuka-World Gangs Raiders Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024 | Made by the Community |
+| Item                                            | Purchased | Digital                                                       |     Downloaded     | Released  | Notes                 |
+| ----------------------------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | --------- | --------------------- |
+| Nuka-World Gangs Raiders Force List (BMCE v1.1) |           | [Free :pdf:][Nuka-World Gangs Raiders Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024 | Made by the Community |
 
 [Nuka-World Gangs Raiders Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf
 
@@ -427,15 +427,15 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Battle Mode Force List
 
-| Item                           | Purchased | Digital                                                         |     Downloaded     | Released      | Notes                 |
-| ------------------------------ | :-------: | --------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Raiders Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]              | :heavy_check_mark: | March 2019    |
-| Raiders Force List (v1.2)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v1.2)]      | :heavy_check_mark: | July 2019     |
-| Raiders Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v2.0)]      | :heavy_check_mark: | December 2019 |
-| Raiders Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
-| Raiders Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
-| Raiders Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
-| Raiders Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Raiders Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024     | Made by the Community |
+| Item                           | Purchased | Digital                                      |     Downloaded     | Released      | Notes                 |
+| ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ------------- | --------------------- |
+| Raiders Force List (v1.0)      |           | [Free :pdf:][Item & Unit Costs]              | :heavy_check_mark: | March 2019    |
+| Raiders Force List (v1.2)      |           | [Free :pdf:][Raiders Force List (v1.2)]      | :heavy_check_mark: | July 2019     |
+| Raiders Force List (v2.0)      |           | [Free :pdf:][Raiders Force List (v2.0)]      | :heavy_check_mark: | December 2019 |
+| Raiders Force List (v4.0)      |           | [Free :pdf:][Raiders Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Raiders Force List (v5.0)      |           | [Free :pdf:][Raiders Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
+| Raiders Force List (v7.0)      |           | [Free :pdf:][Raiders Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Raiders Force List (BMCE v1.0) |           | [Free :pdf:][Raiders Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024     | Made by the Community |
 
 [Raiders Force List (v1.2)]: https://web.archive.org/web/20190918062152/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_raid_v.1.2.pdf
 [Raiders Force List (v2.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_raid_v.2.0.pdf
@@ -512,10 +512,10 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Battle Mode Force List
 
-| Item                            | Purchased | Digital                                                          |     Downloaded     | Released   | Notes                 |
-| ------------------------------- | :-------: | ---------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Railroad Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Railroad Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Railroad Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Railroad Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                            | Purchased | Digital                                       |     Downloaded     | Released   | Notes                 |
+| ------------------------------- | :-------: | --------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Railroad Force List (v7.0)      |           | [Free :pdf:][Railroad Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Railroad Force List (BMCE v1.1) |           | [Free :pdf:][Railroad Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Railroad Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Railroad.pdf
 [Railroad Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/69343f4a-3915-4c6d-bef4-6dcdc14d0021/BMCE-Railroad-v-1-1.pdf
@@ -524,12 +524,12 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Battle Mode Force List
 
-| Item                          | Purchased | Digital                                                        |     Downloaded     | Released   | Notes                 |
-| ----------------------------- | :-------: | -------------------------------------------------------------- | :----------------: | ---------- | --------------------- |
-| Robots Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Robots Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
-| Robots Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Robots Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
-| Robots Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Robots Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
-| Robots Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Robots Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
+| Item                          | Purchased | Digital                                     |     Downloaded     | Released   | Notes                 |
+| ----------------------------- | :-------: | ------------------------------------------- | :----------------: | ---------- | --------------------- |
+| Robots Force List (v4.0)      |           | [Free :pdf:][Robots Force List (v4.0)]      | :heavy_check_mark: | Jan 2021   |
+| Robots Force List (v5.0)      |           | [Free :pdf:][Robots Force List (v5.0)]      | :heavy_check_mark: | May 2021   |
+| Robots Force List (v7.0)      |           | [Free :pdf:][Robots Force List (v7.0)]      | :heavy_check_mark: | March 2023 |
+| Robots Force List (BMCE v1.0) |           | [Free :pdf:][Robots Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024  | Made by the Community |
 
 [Robots Force List (v4.0)]: https://web.archive.org/web/20210506073532/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_robots_jan21.pdf
 [Robots Force List (v5.0)]: https://web.archive.org/web/20211017021650/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_robots_17may.pdf
@@ -633,16 +633,16 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Battle Mode Force List
 
-| Item                                 | Purchased | Digital                                                               |     Downloaded     | Released      | Notes                 |
-| ------------------------------------ | :-------: | --------------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Super Mutants Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                    | :heavy_check_mark: | August 2018   |
-| Super Mutants Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                    | :heavy_check_mark: | March 2019    |
-| Super Mutants Force List (v2.2)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
-| Super Mutants Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
-| Super Mutants Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
-| Super Mutants Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
-| Super Mutants Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
-| Super Mutants Force List (BMCE v1.0) |           | [Free <i class="fa-file-pdf"/>][Super Mutants Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024     | Made by the Community |
+| Item                                 | Purchased | Digital                                            |     Downloaded     | Released      | Notes                 |
+| ------------------------------------ | :-------: | -------------------------------------------------- | :----------------: | ------------- | --------------------- |
+| Super Mutants Force List (v1.0)      |           | [Free :pdf:][Item & Unit Costs]                    | :heavy_check_mark: | August 2018   |
+| Super Mutants Force List (v2.0)      |           | [Free :pdf:][Item & Unit Costs]                    | :heavy_check_mark: | March 2019    |
+| Super Mutants Force List (v2.2)      |           | [Free :pdf:][Super Mutants Force List (v2.2)]      | :heavy_check_mark: | July 2019     |
+| Super Mutants Force List (v3.0)      |           | [Free :pdf:][Super Mutants Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
+| Super Mutants Force List (v4.0)      |           | [Free :pdf:][Super Mutants Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Super Mutants Force List (v5.0)      |           | [Free :pdf:][Super Mutants Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
+| Super Mutants Force List (v7.0)      |           | [Free :pdf:][Super Mutants Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Super Mutants Force List (BMCE v1.0) |           | [Free :pdf:][Super Mutants Force List (BMCE v1.0)] | :heavy_check_mark: | June 2024     | Made by the Community |
 
 [Super Mutants Force List (v2.2)]: https://web.archive.org/web/20190918061957/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_sm_v.2.2.pdf
 [Super Mutants Force List (v3.0)]: https://web.archive.org/web/20191231140748/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_sm_v.3.0.pdf
@@ -751,15 +751,15 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Battle Mode Force List
 
-| Item                             | Purchased | Digital                                                           |     Downloaded     | Released      | Notes                 |
-| -------------------------------- | :-------: | ----------------------------------------------------------------- | :----------------: | ------------- | --------------------- |
-| Survivors Force List (v1.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                | :heavy_check_mark: | August 2018   |
-| Survivors Force List (v2.0)      |           | [Free <i class="fa-file-pdf"/>][Item & Unit Costs]                | :heavy_check_mark: | March 2019    |
-| Survivors Force List (v3.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
-| Survivors Force List (v4.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
-| Survivors Force List (v5.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
-| Survivors Force List (v7.0)      |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
-| Survivors Force List (BMCE v1.1) |           | [Free <i class="fa-file-pdf"/>][Survivors Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
+| Item                             | Purchased | Digital                                        |     Downloaded     | Released      | Notes                 |
+| -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ------------- | --------------------- |
+| Survivors Force List (v1.0)      |           | [Free :pdf:][Item & Unit Costs]                | :heavy_check_mark: | August 2018   |
+| Survivors Force List (v2.0)      |           | [Free :pdf:][Item & Unit Costs]                | :heavy_check_mark: | March 2019    |
+| Survivors Force List (v3.0)      |           | [Free :pdf:][Survivors Force List (v3.0)]      | :heavy_check_mark: | December 2019 |
+| Survivors Force List (v4.0)      |           | [Free :pdf:][Survivors Force List (v4.0)]      | :heavy_check_mark: | Jan 2021      |
+| Survivors Force List (v5.0)      |           | [Free :pdf:][Survivors Force List (v5.0)]      | :heavy_check_mark: | May 2021      |
+| Survivors Force List (v7.0)      |           | [Free :pdf:][Survivors Force List (v7.0)]      | :heavy_check_mark: | March 2023    |
+| Survivors Force List (BMCE v1.1) |           | [Free :pdf:][Survivors Force List (BMCE v1.1)] | :heavy_check_mark: | June 2024     | Made by the Community |
 
 [Survivors Force List (v3.0)]: https://web.archive.org/web/20191231140711/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_force_lists_surv_v.3.0.pdf
 [Survivors Force List (v4.0)]: https://web.archive.org/web/20210506071746/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_survivors_jan21.pdf
@@ -955,9 +955,9 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Battle Mode Force List
 
-| Item                       | Purchased | Digital                                                     |     Downloaded     | Released   | Notes |
-| -------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ---------- | ----- |
-| The Slog Force List (v7.0) |           | [Free <i class="fa-file-pdf"/>][The Slog Force List (v7.0)] | :heavy_check_mark: | March 2023 |
+| Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes |
+| -------------------------- | :-------: | ---------------------------------------- | :----------------: | ---------- | ----- |
+| The Slog Force List (v7.0) |           | [Free :pdf:][The Slog Force List (v7.0)] | :heavy_check_mark: | March 2023 |
 
 [The Slog Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Battle_Mode_The_Slog_001w.pdf
 
