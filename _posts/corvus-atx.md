@@ -434,10 +434,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Front Panel
 
-| Item                                                | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]  | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting] | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
+
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~4~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 12       | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~4~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 [Corvus ATX Panel Mounting]: https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting
 
@@ -448,16 +453,21 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                               | Quantity | Notes           |
 | -------------------------------------------------- | -------- | --------------- |
 | Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) | 1        |
-| M3x8 SHCS                                          | 12       | For Panel Clips |
-| M3 Hammer Head T-nuts                              | 12       | For Panel Clips |
+| ~M3x8 SHCS~                                        | ~12~     | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                            | ~12~     | For Panel Clips |
 | Single Sided Foam Tape 1mm Thick                   | ?        |
 
 ### :negative_squared_cross_mark: Rear Panel
 
-| Item                                                | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]  | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting] | 3        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
+
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~2~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 7        | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 3        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~3~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 #### Assembly
 
@@ -466,16 +476,21 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                              | Quantity | Notes           |
 | ------------------------------------------------- | -------- | --------------- |
 | Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) | 1        |
-| M3x8 SHCS                                         | 7        | For Panel Clips |
-| M3 Hammer Head T-nuts                             | 7        | For Panel Clips |
+| ~M3x8 SHCS~                                       | ~7~      | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                           | ~7~      | For Panel Clips |
 | Single Sided Foam Tape 1mm Thick                  | ?        |
 
 ### :negative_squared_cross_mark: Side Panel
 
-| Item                                                | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]  | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting] | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
+
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~4~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 12       | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~4~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 #### Assembly
 
@@ -484,8 +499,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                 | Quantity | Notes           |
 | ---------------------------------------------------- | -------- | --------------- |
 | Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 1        |
-| M3x8 SHCS                                            | 12       | For Panel Clips |
-| M3 Hammer Head T-nuts                                | 12       | For Panel Clips |
+| ~M3x8 SHCS~                                          | ~12~     | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                              | ~12~     | For Panel Clips |
 | Single Sided Foam Tape 1mm Thick                     | ?        |
 
 ### :negative_squared_cross_mark: Top Panel
