@@ -33,6 +33,8 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 ## Fasteners
 
+Fasteners are the parts needed to hold the 3D printed parts together and to the frame.
+
 ![Description of the types of fasteners](/assets/blog/printer-voron-2.4/voron-design/fasteners.jpg 'Fasteners')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
@@ -68,33 +70,35 @@ The following list of parts are from the Bill of Materials (BOM) for a 300mm spe
 
 ![A big ol' bag of nuts n' bolts](/assets/blog/printer-voron-2.4/ldo-hardware-kit.jpg 'LDO Hardware Kit')
 
-I got the majority of the fasteners in a kit at a good discount (the original price was £83, and I got it for £50) as the kit is for the pre V2.4R2 revision.
+I got the majority of the fasteners needed to assemble the printer as a kit at a good discount (the original price was £83, and I got it for £50) this was due to it being the pre V2.4R2 revision.
 I have sourced the missing quantities of parts from elsewhere and I should also have many spares left over for mods and future projects.
 
 ## Motion
+
+The Motion Components are Bearings, Gears, and Pulleys that the moving parts of the printer ride upon, including Linear Rails and Belts.
 
 ![Description of the types of motion components](/assets/blog/printer-voron-2.4/voron-design/motion.jpg 'Motion')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                       | Quantity | Received | Notes                               |
-| ------------------------------------------ | -------- | -------- | ----------------------------------- |
-| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In [Powge 2.4r2 Motion Kit]         |
-| Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload     |
-| Linear Rail MGN12H 350mm                   | 1        | 1        | All Stainless Steel, Medium Preload |
-| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In [LDO CNC AWD Kit]                |
-| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 6    | 6        | In [LDO CNC AWD Kit]                |
-| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]         |
-| F695 Bearing                               | ~20~ 26  | 26       | In [LDO CNC AWD Kit]                |
-| BMG Extruder Components Kit                | 1        |          | See [StealthBurner] BOM             |
-| 625 Bearing                                | 12       | 12       | In [Powge 2.4r2 Motion Kit]         |
+| Item                                       | Quantity | Received | Notes                           |
+| ------------------------------------------ | -------- | -------- | ------------------------------- |
+| Ø5x60mm Shaft, D Cut                       | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| Ø5x35mm Shaft (trim to size)               | 1        | 1        | In [Powge 2.4r2 Motion Kit]     |
+| Linear Rail MGN9H 350mm                    | 6        | 6        | Stainless Steel, Medium Preload |
+| Linear Rail MGN12H 350mm                   | 1        | 1        | Stainless Steel, Medium Preload |
+| GT2 Open Belt LL-2GT-9 (9mm wide) - 1100mm | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm | 2        | 2        | In [LDO CNC AWD Kit]            |
+| GT2 Belt Loop (6mm W) - 188mm              | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 80T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 20T Toothed Idler (5mm ID 9mm W)       | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 20T Toothed Idler (5mm ID 6mm W)       | 2        | 2        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 20T Pulley (5mm ID 9mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| GT2 20T Pulley (5mm ID 6mm W)              | ~3~ 6    | 6        | In [LDO CNC AWD Kit]            |
+| GT2 16T Pulley (5mm ID 6mm W)              | 4        | 4        | In [Powge 2.4r2 Motion Kit]     |
+| F695 Bearing                               | ~20~ 26  | 26       | In [LDO CNC AWD Kit]            |
+| BMG Extruder Components Kit                | 1        |          | See [StealthBurner] BOM         |
+| 625 Bearing                                | 12       | 12       | In [Powge 2.4r2 Motion Kit]     |
 
 > [!NOTE]
 > The Linear Rails are [RDBB All Stainless Steel Versions](https://www.aliexpress.com/item/1005003476565429.html).
@@ -107,33 +111,35 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 ## Electronics
 
+These are all the Electrical components that make the Printer work such as Circuit Boards, Motors, and Switches.
+
 ![3D render of the Voron 2.4 Electronics](/assets/blog/printer-voron-2.4/voron-design/electronics.jpg 'Electronics')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
 | Item                                                  | Quantity | Received | Notes                                                                                |
 | ----------------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------ |
-| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                           |
+| ZF Rocker Switch DPST 16A ON-OFF                      | 1        |          | Using [Inlet Power Socket IEC320 C14] instead                                        |
 | USB Cable for selected controller                     | 1        | 1        |
-| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14][Power Inlet] instead                           |
+| TycoElectronics 10EGG1-1 Filtered Power Inlet (NA/UK) | 1        |          | Using [Inlet Power Socket IEC320 C14] instead                                        |
 | Thermal Fuse (150C)                                   | 1        | 1        | 120C Thermal Fuse left over from [Voron 1.8] build                                   |
 | TMC2209 Stepper Motor Driver                          | 7        | 12       | Mellow Fly TMC2130                                                                   |
 | RaspberryPi 3B+ or better                             | 1        | 1        |
-| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU][SSR]                                                           |
+| Omron G3A-210B-DC5 SSR                                | 1        | 1        | [Omron G3NA-210B-UTU]                                                                |
 | Omron D2F-01L Micro Switch                            | 3        | 30       |
 | NEMA17 Motor 17HS19-2004S                             | 6        | 6        | 4 [LDO Speedy Power HT Motors] for A/B & 4 [LDO SwitchWire Motors] for Z             |
 | NEMA14 Motor 36STH20-1004AHG                          | 1        |          | See [StealthBurner] BOM                                                              |
 | ~Mini 12864 Display~                                  | ~1~      |          | I will be using a [BigTreeTech PITFT50] V2.0 Display instead                         |
-| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14][Power Inlet]                              |
+| Medium Blow Fuse 5x20mm 4A (220V mains)               | 2        |          | Comes with [Inlet Power Socket IEC320 C14]                                           |
 | Mean Well RS-25-5 PSU                                 | 1        | 1        |
 | Mean Well LRS-200-24 PSU                              | 1        | 1        |
 | ~Keystone CAT6 Insert (Optional)~                     | ~1~      |          | I plan on printing the [PiPlate Skirt](#-raspberry-pi) instead                       |
 | ~Inductive Probe (See sourcing guide)~                | ~1~      | ~1~      | I will be installing [ChaoticLab CNC Tap] instead                                    |
 | Hotend Kit (24V)                                      | 1        |          | V6 Heatsink and Bi-Metal Heatbreak                                                   |
 | DIN Rail Mount Bracket for G3A SSR                    | 1        | 1        |
-| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0][Controller]                                                 |
+| Controller with 7+ Stepper outputs                    | 1        | 1        | [Mellow Fly Super8 V1.0]                                                             |
 | C13 Power Cord                                        | 1        | 1        |
-| ~BAT85 Diode~                                         | ~1~      | 7        | Comes installed on [LDO Toolhead PCB][Toolhead PCB]                                  |
+| ~BAT85 Diode~                                         | ~1~      | 7        | Comes installed on [LDO Toolhead PCB]                                                |
 | 60x60x20 Fan (24V)                                    | 3        | 2        | AFB0624HD Delta Fans, 1 Not required as I am building [Nevermore StealthMax] instead |
 | ~40x40x20 Centrifugal Fan (24V)~                      | ~1~      |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
 | ~40x40x10 Axial Fan (24V)~                            | ~1~      |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
@@ -142,20 +148,24 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 [BigTreeTech PITFT50]: https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board 'BigTreeTech PITFT50 V2.0 Touch Screen for Raspberry Pi'
 [BigTreeTech Smart Filament Sensor V2.0]: https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor 'BigTreeTech Smart Filament Sensor V2.0'
 [ChaoticLab CNC Tap]: https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298 'Chaoticlab CNC Voron Tap V2.0'
-[Controller]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
+[Inlet Power Socket IEC320 C14]: https://www.amazon.co.uk/dp/B0BVRF249S 'POFET Power Supply Socket with Fuse for 3D Printer from Amazon'
 [LDO Speedy Power HT Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
 [LDO SwitchWire Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
-[Power Inlet]: https://www.amazon.co.uk/dp/B0BVRF249S 'POFET Power Supply Socket with Fuse for 3D Printer from Amazon'
-[SSR]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr 'Omron Solid State relay (SSR) from OneTwo3D'
-[Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
+[LDO Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
+[Mellow Fly Super8 V1.0]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
+[Omron G3NA-210B-UTU]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr 'Omron Solid State relay (SSR) from OneTwo3D'
 
 ## Vibration Management
+
+Rubber feet to help isolate the printer's vibrations from the table it stands upon.
 
 | Item                            | Quantity | Received | Notes |
 | ------------------------------- | -------- | -------- | ----- |
 | Rubber Foot (1.5x.75", 38x19mm) | 4        | 4        |
 
 ## Frame
+
+The metal skeleton all the rest of the parts are attached to.
 
 ![3D render of the Voron 2.4 Frame](/assets/blog/printer-voron-2.4/voron-design/frame.jpg 'Frame')
 
@@ -176,6 +186,8 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 ## Misc
 
+Miscellaneous parts needed to assemble the printer such as Adhesives, Tape, and Lubricants.
+
 | Item                                  | Quantity | Received | Notes |
 | ------------------------------------- | -------- | -------- | ----- |
 | Ø6x3mm Neodimium Magnet               | 8        | 8        |
@@ -191,12 +203,14 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 ## Cables
 
+The Wiring and Connectors required to connect them all of the Electronics together.
+
 ![Image of the Voron 2.4 Wiring](/assets/blog/printer-voron-2.4/voron-design/wiring.jpg 'Wiring')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                           | Quantity | Received | Notes                                              |
-| -------------------------------------------------------------- | -------- | -------- | -------------------------------------------------- |
+| Item                                                           | Quantity | Received | Notes                                                |
+| -------------------------------------------------------------- | -------- | -------- | ---------------------------------------------------- |
 | WAGO 221-415 Lever-Nuts                                        | 3        | 10       |
 | Ring Crimp Terminal (16-22AWG, #6)                             | 1        | 1        |
 | Nylon Cable Ties, Small (.07-.10", 1.8-2.7mm wide)             | 42       | 100      |
@@ -208,25 +222,29 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 | MicroFit3 Connector Plug 4 Position                            | 4        | 10       |
 | MicroFit3 Connector Plug 3 Position                            | 1        | 10       |
 | MicroFit3 Connector Plug 2 Position                            | 2        | 10       |
-| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Using Wagos instead                                |
-| MLX Power Plug 3 Position                                      | 1        |          | Using Wagos instead                                |
-| MLX Male Pin                                                   | 6        |          | Using Wagos instead                                |
-| MLX Female Pin                                                 | 6        |          | Using Wagos instead                                |
+| MLX Power Receptacle 3 Position (bed wiring)                   | 1        |          | Using Wagos instead                                  |
+| MLX Power Plug 3 Position                                      | 1        |          | Using Wagos instead                                  |
+| MLX Male Pin                                                   | 6        |          | Using Wagos instead                                  |
+| MLX Female Pin                                                 | 6        |          | Using Wagos instead                                  |
 | JST XH Connector, 3 Position Male/Female Pair plus Pins        | 1        | 1        |
 | Fork Spade Crimp Terminal (18-22AWG, #10)                      | 5        | 5        |
 | Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          | 7        | 7        |
 | Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              | 1        | 1        |
 | Connector kit matching your controller choice (usually JST-XH) | 1        | 1        |
-| ~22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)~     | ~1~      |          | Using LDO Toolhead Cable instead                   |
-| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | In various colours                                 |
-| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from a MacBook Power Supply Mains Cable   |
-| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | Veekaft Brand, 10x15 open, to insert cables easier |
-| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | Veekaft Brand, 10x11 open, to insert cables easier |
+| ~22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)~     | ~1~      |          | Using LDO Toolhead Cable instead                     |
+| 20AWG High-flex Wire (10ft/3m total)                           | 1        | 1        | In various colours                                   |
+| 18AWG Wire (10ft/3m total)                                     | 1        | 1        | Salvaged from a MacBook Power Supply Mains Cable     |
+| 10x15 Generic Cable Chain (495mm)                              | 1        | 1        | [Veekaft Brand], 10x15 open, to insert cables easier |
+| 10x10 Generic Cable Chain (355mm)                              | 2        | 2        | [Veekaft Brand], 10x11 open, to insert cables easier |
 
 > [!NOTE]
-> I ordered [Veekaft Brand](https://www.aliexpress.com/item/1005001795469984.html) cable chains specifying a Bending Radius of `R18`.
+> I ordered [Veekaft Brand] cable chains specifying a Bending Radius of `R18`.
+
+[Veekaft Brand]: https://www.aliexpress.com/item/1005001795469984.html
 
 ## Panels
+
+The Acrylic Sheets to fully enclose the printer, ensuring the correct chamber temperatures, and to reduce draughts to be able to print ABS.
 
 | Item                                 | Quantity | Received | Notes |
 | ------------------------------------ | -------- | -------- | ----- |
@@ -244,20 +262,21 @@ I have sourced the missing quantities of parts from elsewhere and I should also 
 
 ## Buildplate
 
+The Mains powered Heated Print Bed components.
+
 ![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg 'Print Bed')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com/)
 
-| Item                                                        | Quantity | Received | Notes                                                        |
-| ----------------------------------------------------------- | -------- | -------- | ------------------------------------------------------------ |
-| Spring Steel Flexible Print Surface - 12"x12"               | 1        | 1        | [Energetic Dual Sided Textured PEI & Smooth PEY][Flex Plate] |
-| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | [Mandela Rose Works Non-Magnetic Plate][Build Plate]         |
-| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | [Keenovo 150 220V 400W][Heater]                              |
-| Adhesive Magnetic Sheet - 12"x12"                           | 1        | 1        | Came with [Energetic Spring Steel Sheet][Flex Plate]         |
+| Item                                                        | Quantity | Received | Notes                                          |
+| ----------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
+| Spring Steel Flexible Print Surface - 12"x12"               | 1        | 1        | Energetic Dual Sided Textured PEI & Smooth PEY |
+| MIC6 5/16" Plate - 12"x12"                                  | 1        | 1        | [Mandela Rose Works Non-Magnetic Plate]        |
+| Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) | 1        | 1        | [Keenovo 150 220V 400W]                        |
+| Adhesive Magnetic Sheet - 12"x12"                           | 1        | 1        | Came with `Energetic Spring Steel Sheet`       |
 
-[Build Plate]: https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic 'Mandala Rose Works ultra-flat Voron 2.4 Bed (non-magnetic) from OneTwo3D'
-[Flex Plate]: https://www.aliexpress.com/item/1005006340164332.html 'Energetic Spring Steel Magnetic Print Bed from Ali Express'
-[Heater]: https://www.onetwo3d.co.uk/product/keenovo-heater-pads 'Keenovo Heater Pad for Voron Printers from OneTwo3D'
+[Keenovo 150 220V 400W]: https://www.onetwo3d.co.uk/product/keenovo-heater-pads 'Keenovo Heater Pad for Voron Printers from OneTwo3D'
+[Mandela Rose Works Non-Magnetic Plate]: https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic 'Mandala Rose Works ultra-flat Voron 2.4 Bed (non-magnetic) from OneTwo3D'
 
 # Printing Parts
 
@@ -340,9 +359,9 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 ![Bearings assembled and ready for installation](/assets/blog/printer-voron-2.4/bearings-assembled.jpg 'Bearings Assembled')
 
-| Item                                                                                           | Quantity | Material             | Size  | Weight | Cost  |      Printed       | Notes                  |
-| ---------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | ---------------------- |
-| [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)] | 0.51m | 1.31g  | £0.03 | :heavy_check_mark: | This is a LDO 2.4 Part |
+| Item                                                                                           | Quantity | Material             | Size  | Weight | Cost  |      Printed       | Notes                    |
+| ---------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | ------------------------ |
+| [z_rail_stop](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl) | 4        | [eSun ABS+ (Purple)] | 0.51m | 1.31g  | £0.03 | :heavy_check_mark: | This is a `LDO 2.4` Part |
 
 #### Assembly
 
@@ -489,7 +508,7 @@ I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All
 
 | Item                                                                                                                                 | Quantity | Material             | Size  | Weight | Cost  |      Printed       | Notes                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------- | ----- | ------ | ----- | :----------------: | --------------------------------------------------------------------- |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                         | 1        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a LDO_AWD Part                                                |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                         | 1        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a `LDO_AWD` Part                                              |
 | ~[tensioner_left](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)~         | ~1~      | [eSun ABS+ (Purple)] | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: | This is not required when using the [LDO CNC AWD Kit]                 |
 | ~[front_idler_left_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 2.57m | 6.56g  | £0.11 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Front Lower` |
 | ~[front_idler_left_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_left_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 4.93m | 12.57g | £0.21 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Front Upper` |
@@ -543,7 +562,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 | Item                                                                                                                                   | Quantity | Material             | Size  | Weight | Cost  |      Printed       | Notes                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | --------------------------------------------------------------------- |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                           | 1        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a LDO_AWD Part                                                |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                           | 1        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a `LDO_AWD` Part                                              |
 | ~[tensioner_right](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)~         | ~1~      | [eSun ABS+ (Purple)] | 2.55m | 6.51g  | £0.13 | :heavy_check_mark: | This is not required when using the [LDO CNC AWD Kit]                 |
 | ~[front_idler_right_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 4.80m | 12.25g | £0.20 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Front Upper` |
 | ~[front_idler_right_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Front_Idlers/front_idler_right_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 2.69m | 6.86g  | £0.11 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Front Upper` |
@@ -599,7 +618,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------------------------------------- |
 | ~[a_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 7.66m | 19.53g | £0.32 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Rear Lower` |
 | ~[a_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 7.55m | 19.25g | £0.31 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Rear Upper` |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a LDO_AWD Part                                               |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)] | 0.09m | 0.22g  | £0.01 | :heavy_check_mark: | This is a `LDO_AWD` Part                                             |
 
 #### Assembly
 
@@ -662,7 +681,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------------------------------------- |
 | ~[b_drive_frame_lower](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 7.10m | 18.11g | £0.30 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Rear Lower` |
 | ~[b_drive_frame_upper](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]  | 7.32m | 18.66g | £0.30 | :heavy_check_mark: | This is replaced by the [LDO CNC AWD Kit] `A Drive Frame Rear Upper` |
-| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)] |       |        |       | :heavy_check_mark: | This is a LDO_AWD Part                                               |
+| [cable_anchor](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_anchor_x6.stl)                     | 2        | [eSun ABS+ (Purple)] |       |        |       | :heavy_check_mark: | This is a `LDO_AWD` Part                                             |
 
 #### Assembly
 
@@ -1214,11 +1233,11 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 | Item                                                                                                                                                | Quantity | Material             | Size  | Weight | Cost  |      Printed       | Notes                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :----------------: | --------------------------------------------- |
 | ~[cable_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_cable_cover.stl)~                            | ~1~      | [eSun ABS+ (Purple)] | 2.86m | 7.29g  | £0.15 | :heavy_check_mark: | This is replaced by the LDO_AWD `cable_cover` |
-| [cable_cover](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_cover.stl)                                             | 1        | [eSun ABS+ (Purple)] | 2.03m | 5.18g  | £0.10 | :heavy_check_mark: | This is a LDO_AWD Part                        |
+| [cable_cover](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/%5Ba%5D_cable_cover.stl)                                             | 1        | [eSun ABS+ (Purple)] | 2.03m | 5.18g  | £0.10 | :heavy_check_mark: | This is a `LDO_AWD` Part                      |
 | [z_chain_retainer_bracket](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/AB_Drive_Units/%5Ba%5D_z_chain_retainer_bracket_x2.stl) | 2        | [eSun ABS+ (Purple)] | 0.22m | 0.56g  | £0.01 | :heavy_check_mark: |
 | [z_chain_bottom_anchor](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_bottom_anchor.stl)                                 | 1        | [eSun ABS+ (Black)]  | 3.15m | 8.03g  | £0.13 | :heavy_check_mark: |
 | [z_chain_guide](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/z_chain_guide.stl)                                                 | 1        | [eSun ABS+ (Black)]  | 2.04m | 5.21g  | £0.09 | :heavy_check_mark: |
-| [z_chain_upper_mount](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/z_chain_upper_mount.stl)                                     | 1        | [eSun ABS+ (Black)]  | 2.76m | 7.04g  | £0.11 | :heavy_check_mark: | This is a LDO_AWD Part                        |
+| [z_chain_upper_mount](https://github.com/VCProjects/LDO_AWD/blob/main/Voron-V2.4r2/STL/z_chain_upper_mount.stl)                                     | 1        | [eSun ABS+ (Black)]  | 2.76m | 7.04g  | £0.11 | :heavy_check_mark: | This is a `LDO_AWD` Part                      |
 
 #### Assembly
 
@@ -1416,7 +1435,7 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 | Item                                                                                                             | Quantity | Material             | Size  | Weight | Cost  | Printed | Notes                                                           |
 | ---------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----- | ------ | ----- | :-----: | --------------------------------------------------------------- |
 | [z_belt_cover_a](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_a_x2.stl) | ~2~ 1    | [eSun ABS+ (Purple)] | 2.30m | 5.87g  | £0.12 |   :x:   | Only 1 required as I will also be printing `z_belt_cover_a_led` |
-| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)] | 2.27m | 5.78g  | £0.12 |   :x:   | This is a LDO 2.4 Part                                          |
+| [z_belt_cover_a_led](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_belt_cover_a_led.stl)        | 1        | [eSun ABS+ (Purple)] | 2.27m | 5.78g  | £0.12 |   :x:   | This is a `LDO 2.4` Part                                        |
 | [z_belt_cover_b](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Panel_Mounting/z_belt_cover_b_x2.stl) | 2        | [eSun ABS+ (Purple)] | 2.30m | 5.87g  | £0.12 |   :x:   |
 
 #### Assembly
@@ -1510,9 +1529,9 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
-| Item                                                                                                     | Quantity | Material            | Size  | Weight | Cost  |      Printed       | Notes                  |
-| -------------------------------------------------------------------------------------------------------- | -------- | ------------------- | ----- | ------ | ----- | :----------------: | ---------------------- |
-| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)] | 0.69m | 1.76g  | £0.03 | :heavy_check_mark: | This is a LDO 2.4 Part |
+| Item                                                                                                     | Quantity | Material            | Size  | Weight | Cost  |      Printed       | Notes                    |
+| -------------------------------------------------------------------------------------------------------- | -------- | ------------------- | ----- | ------ | ----- | :----------------: | ------------------------ |
+| [handlebar_spacer](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl) | 4        | [eSun ABS+ (Black)] | 0.69m | 1.76g  | £0.03 | :heavy_check_mark: | This is a `LDO 2.4` Part |
 
 ### :negative_squared_cross_mark: Doors
 
@@ -1535,14 +1554,14 @@ The Stock door hinges are attached using VHB, the Clamping Hinges grab onto the 
 
 I have opted to upgrade the stock Exhaust with the [Nevermore StealthMax].
 
-| Item                                                                                                                                   | Quantity | Material             | Size | Weight | Cost | Printed | Notes                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------- |
-| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Purple)] |      |        |      |   :x:   | This is a LDO 2.4 Part, and is just a placeholder |
-| ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead |
-| ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)]  |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead |
-| ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)]  |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead |
-| ~[exhaust_filter_mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_filter_mount_x2.stl)~ | ~2~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead |
-| ~[filter_access_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_filter_access_cover.stl)~      | ~1~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead |
+| Item                                                                                                                                   | Quantity | Material             | Size | Weight | Cost | Printed | Notes                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------- |
+| [exhaust_cover](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/exhaust_cover.stl)                                        | 1        | [eSun ABS+ (Purple)] |      |        |      |   :x:   | This is a `LDO 2.4` Part, and is just a placeholder |
+| ~[exhaust_fan_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_fan_grill.stl)~          | ~1~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead   |
+| ~[exhaust_filter_grill](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_grill.stl)~            | ~1~      | [eSun ABS+ (Black)]  |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead   |
+| ~[exhaust_filter_housing](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/exhaust_filter_housing.stl)~        | ~1~      | [eSun ABS+ (Black)]  |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead   |
+| ~[exhaust_filter_mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_exhaust_filter_mount_x2.stl)~ | ~2~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead   |
+| ~[filter_access_cover](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Exhaust_Filter/%5Ba%5D_filter_access_cover.stl)~      | ~1~      | [eSun ABS+ (Purple)] |      |        |      |   :x:   | I will be building [Nevermore StealthMax] instead   |
 
 ### :negative_squared_cross_mark: Spool Holder
 
