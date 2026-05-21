@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-18T10:28:01.365Z
+lastmod: 2026-05-21T18:25:29.561Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1826,12 +1826,14 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 09/04/2026 | [Dev Blog #3]: How Does Combat Work?           |
 | 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland? |
 | 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)      |
+| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)      |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
 [Dev Blog #3]: https://modiphius.net/blogs/news/dev-blog-3-how-does-combat-work
 [Dev Blog #4]: https://modiphius.net/blogs/news/dev-blog-4-how-do-i-explore-the-wasteland
 [Dev Blog #5]: https://modiphius.net/blogs/news/dev-blog-5-the-new-ai-system-part-1
+[Dev Blog #6]: https://modiphius.net/blogs/news/dev-blog-6-the-new-ai-system-part-2
 
 ## Items
 
