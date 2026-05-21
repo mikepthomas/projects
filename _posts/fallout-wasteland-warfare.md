@@ -389,14 +389,30 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   |     Purchased      | Digital                                    |     Downloaded     | Released                           | Notes |
-| ---------------------- | :----------------: | ------------------------------------------ | :----------------: | ---------------------------------- | ----- |
-| [Vault-Tec Notebook]   | :heavy_check_mark: | [Settlement Sheet :pdf:][Settlement Sheet] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #17] |
-| [Weapons Upgrade Pack] | :heavy_check_mark: |                                            |                    | [April 2019][DEVELOPMENT BLOG #17] |
+| Item                   |     Purchased      | Digital | Downloaded | Released                           | Notes |
+| ---------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
+| [Nuka Cola Notebook]   |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #17] |
+| [Vault-Tec Notebook]   | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #17] |
+| [Weapons Upgrade Pack] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #17] |
 
-[Settlement Sheet]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
+[Nuka Cola Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-nuka-notebook
 [Vault-Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
 [Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack
+
+#### Settlement Sheet
+
+The Notebooks have printed versions of the version 1.0 Settlement Sheet. Downloadable PDFs of later versions can be found below.
+
+| Item                    | Purchased | Digital                               |     Downloaded     | Released      | Notes |
+| ----------------------- | :-------: | ------------------------------------- | :----------------: | ------------- | ----- |
+| Settlement Sheet (v1.0) |           | [Free :pdf:][Settlement Sheet (v1.0)] | :heavy_check_mark: | July 2019     |
+| Settlement Sheet (v2.0) |           |                                       |        :x:         | August 2019   |
+| Settlement Sheet (v3.0) |           | [Free :pdf:][Settlement Sheet (v3.0)] | :heavy_check_mark: | December 2019 |
+| Settlement Sheet (v4.0) |           | [Free :pdf:][Settlement Sheet (v4.0)] | :heavy_check_mark: | October 2020  |
+
+[Settlement Sheet (v1.0)]: https://web.archive.org/web/20191123170314/https://www.modiphius.com/uploads/1/4/0/6/14062642/settlement_sheet_print.pdf
+[Settlement Sheet (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_settlement_sheet_v3.0.pdf
+[Settlement Sheet (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
 
 ### Minatures
 
