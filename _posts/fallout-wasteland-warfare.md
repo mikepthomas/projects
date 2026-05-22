@@ -502,7 +502,7 @@ Similar items available in the [Streets of Boston](red-rocket#streets-of-boston)
 | [Boston Street Scatter]  |        :x:         |                          |                    | August 2019 |
 | [Cases and Crates]       | :heavy_check_mark: |                          |                    | August 2019 |
 | [Nuka Cola Machines]     |        :x:         | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
-| [Radioactive Containers] |        :x:         | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
+| [Radioactive Containers] | :heavy_check_mark: | [Scenic Set Cards :pdf:] | :heavy_check_mark: | April 2019  |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
@@ -684,10 +684,11 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Accessories
 
-| Item                 | Purchased | Digital | Downloaded | Released | Notes |
-| -------------------- | :-------: | ------- | :--------: | -------- | ----- |
-| [Folded Box Inserts] |    :x:    |         |            |          |
+| Item                 | Purchased | Digital | Downloaded | Released | Notes                                  |
+| -------------------- | :-------: | ------- | :--------: | -------- | -------------------------------------- |
+| [Folded Box Inserts] |    :x:    |         |            |          | Purchased [Feldherr Foam Tray] instead |
 
+[Feldherr Foam Tray]: https://www.amazon.co.uk/dp/B085ZRDD5H
 [Folded Box Inserts]: https://web.archive.org/web/20240525230511/https://modiphius.net/products/fallout-wasteland-warfare-box-insert
 
 #### Box Insert
@@ -1580,8 +1581,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                       |                    | April 2021                         |
 | ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
 | ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
-| [GM Screen + Booklet]          |        :x:         | [Buy :pdf:][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
-| [New Vegas Setting Guide]      |        :x:         |                                       |                    | [April 2026][FF 24/04/26]          |
+| [GM Screen + Booklet]          | :heavy_check_mark: | [Buy :pdf:][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
 | [Perk Cards 1]                 | :heavy_check_mark: |                                       |                    | [May 2022][FF 13/05/22]            |
 | [Perk Cards 2]                 | :heavy_check_mark: |                                       |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
 | Quickstart Guide               |                    | [Free :pdf:][Quickstart Guide]        | :heavy_check_mark: | June 2022                          |
@@ -1595,7 +1595,6 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Gamemaster's Toolkit PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-gamemasters-toolkit-pdf
 [GM Screen + Booklet]: https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-flysheet
 [GM Screen PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-gm-screen-booklet-pdf
-[New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
 [Perk Cards 1]: https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards
 [Perk Cards 2]: https://modiphius.net/products/fallout-the-roleplaying-game-perk-cards-2
 [Quickstart Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-quickstart-guide-pdf-free
@@ -1708,6 +1707,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
 [Winter of Atom]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book
 [Winter of Atom PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf
+
+### Setting Guide
+
+| Item                      | Purchased | Digital | Downloaded | Pre-Release               | Notes |
+| ------------------------- | :-------: | ------- | :--------: | ------------------------- | ----- |
+| [New Vegas Setting Guide] |    :x:    |         |            | [April 2026][FF 24/04/26] |
+
+[New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
 
 # Fallout: Factions
 
