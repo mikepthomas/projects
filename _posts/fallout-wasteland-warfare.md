@@ -174,6 +174,24 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ---------------------------------- | -------- | ------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
 | [Slabs & Stones 4][Slabs & Stones] | 5        | [eSun ABS+ (Brown)] | 5m   | 0.16m | 0.40g  | £0.01 |   :x:   |
 
+### Errata
+
+| Item           | Purchased | Digital                      |     Downloaded     | Released      | Notes |
+| -------------- | :-------: | ---------------------------- | :----------------: | ------------- | ----- |
+| Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018  |
+| Errata (v3.0)  |           |                              |        :x:         | July 2019     |
+| Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | December 2019 |
+| Errata (v5.0)  |           |                              |        :x:         | November 2020 |
+| Errata (v6.0)  |           | [Free :pdf:][Errata (v6.0)]  | :heavy_check_mark: | June 2022     |
+| Errata (v8.0)  |           | [Free :pdf:][Errata (v8.0)]  | :heavy_check_mark: | April 2023    |
+| Errata (v10.0) |           | [Free :pdf:][Errata (v10.0)] | :heavy_check_mark: | March 2024    |
+
+[Errata (v2.0)]: https://web.archive.org/web/20191123170504/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_errata_faq_v.2.0_download.pdf
+[Errata (v4.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_rules_of_play_errata_faq_v4.0.pdf
+[Errata (v6.0)]: https://web.archive.org/web/20230207222448/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_ERR-003_FAQ-003_CDV-001_Rules_of_Play_Errata_FAQ_Card_Versions_v6.0_002w.pdf?v=1667396837
+[Errata (v8.0)]: https://web.archive.org/web/20230602025850/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v8.pdf?v=1682523440
+[Errata (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v10.0.pdf
+
 ### Accessories
 
 | Item                    |     Purchased      | Digital                                           |     Downloaded     | Released                           | Notes                                                                                                                                            |
@@ -1494,6 +1512,25 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [RPG (Expansion Book) PDF]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf
 [RPG - GM Screen and Booklet]: https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet
 
+### Errata
+
+| Item          | Purchased | Digital                         |     Downloaded     | Released      | Notes |
+| ------------- | :-------: | ------------------------------- | :----------------: | ------------- | ----- |
+| Errata (v1.0) |           |                                 |        :x:         | July 2019     |
+| Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)] | :heavy_check_mark: | December 2019 |
+| Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)] | :heavy_check_mark: | November 2020 |
+
+[RPG Errata (v2.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_errata_faq_v.2.0.pdf
+[RPG Errata (v3.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_rpg_errata_faq_advice_may17.pdf
+
+### Character Sheets
+
+| Item            | Purchased | Digital                           |     Downloaded     | Released | Notes |
+| --------------- | :-------: | --------------------------------- | :----------------: | -------- | ----- |
+| Character Sheet |           | [Free :zip:][RPG Character Sheet] | :heavy_check_mark: |          |
+
+[RPG Character Sheet]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_-_RPG_Character_Sheet.zip
+
 ### Scenarios
 
 | Item                           | Purchased | Digital                            |     Downloaded     | Released                                        | Notes |
@@ -1564,6 +1601,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Quickstart Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-quickstart-guide-pdf-free
 [Starter Set]: https://modiphius.net/products/fallout-the-roleplaying-game-starter-set
 [Starter Set PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-starter-set-pdf
+
+### Errata
+
+| Item          | Purchased | Digital                          |     Downloaded     | Released | Notes |
+| ------------- | :-------: | -------------------------------- | :----------------: | -------- | ----- |
+| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: |          |
+
+[2d20 Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/bffb29d8-8456-4833-bb03-9973e880b4ce/Errata-log-V5-2026.pdf
 
 ### Astoundingly Awesome Tales
 
@@ -1700,17 +1745,19 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                 |     Purchased      | Digital                          |     Downloaded     | Released                    | Notes |
-| -------------------- | :----------------: | -------------------------------- | :----------------: | --------------------------- | ----- |
-| [Rulebook]           | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]        | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
-| ┕ [King of the Park] | :heavy_check_mark: |                                  |                    |                             | Promo |
-| [Crew Folio]         | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]      | :heavy_check_mark: | [January 2026][FF 23/01/26] |
-| ┕ [Rogue Knight]     | :heavy_check_mark: |                                  |                    | May 2026                    | Promo |
-| Spooktober Rules     |                    | [Free :zip:][Spooktober Rules]   | :heavy_check_mark: | October 2024                |
-| Spooktober 2 Rules   |                    | [Free :pdf:][Spooktober 2 Rules] | :heavy_check_mark: | October 2025                |
-| C.O.M.P. Kit         |                    | [Free :pdf:][C.O.M.P. Kit]       | :heavy_check_mark: | [May 2026][Factions COMP]   |
+| Item                 |     Purchased      | Digital                           |     Downloaded     | Released                    | Notes |
+| -------------------- | :----------------: | --------------------------------- | :----------------: | --------------------------- | ----- |
+| [Rulebook]           | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]         | :heavy_check_mark: | [March 2025][FF 21/03/25]   |
+| ┕ [King of the Park] | :heavy_check_mark: |                                   |                    |                             | Promo |
+| [Crew Folio]         | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]       | :heavy_check_mark: | [January 2026][FF 23/01/26] |
+| ┕ [Rogue Knight]     | :heavy_check_mark: |                                   |                    | May 2026                    | Promo |
+| Spooktober Rules     |                    | [Free :zip:][Spooktober Rules]    | :heavy_check_mark: | October 2024                |
+| Spooktober 2 Rules   |                    | [Free :pdf:][Spooktober 2 Rules]  | :heavy_check_mark: | October 2025                |
+| C.O.M.P. Kit (v1.0)  |                    | [Free :pdf:][C.O.M.P. Kit (v1.0)] | :heavy_check_mark: | November 2024               |
+| C.O.M.P. Kit (v2.0)  |                    | [Free :pdf:][C.O.M.P. Kit (v2.0)] | :heavy_check_mark: | [May 2026][Factions COMP]   |
 
-[C.O.M.P. Kit]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e52b1e8f-bced-4aa1-b93e-d04fa975618b/FF-COMPKit-2026-M1.pdf
+[C.O.M.P. Kit (V1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
+[C.O.M.P. Kit (v2.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a121fd18-f7ff-4040-9367-75d3e5538552/FF-COMPKit-2026-M2.pdf
 [Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
@@ -1719,6 +1766,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Rogue Knight]: https://modiphius.net/products/fallout-miniatures-the-rogue-knight
 [Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
 [Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
+
+### Errata
+
+| Item          | Purchased | Digital                              |     Downloaded     | Released | Notes |
+| ------------- | :-------: | ------------------------------------ | :----------------: | -------- | ----- |
+| Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)] | :heavy_check_mark: |          |
+
+[Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
 
 ## Battle for Nuka-World
 
