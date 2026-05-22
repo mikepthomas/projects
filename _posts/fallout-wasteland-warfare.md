@@ -541,6 +541,12 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Cargo Ship Carnage
+
+[Fallout: Wasteland Warfare - Season 2 - Battle #0 - "Cargo Ship Carnage" Video](https://www.youtube-nocookie.com/embed/BHIkjYxj7sU)
+
+> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 #### Paladin Danse's Vertibird Stand-Off
 
 [Fallout: Wasteland Warfare - Paladin Danse's Vertibird Stand-Off Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd0sUHVqxk_PwnrzBAmApkkT)
@@ -753,7 +759,7 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 | [Creatures: Mirelurk Queen]           |        :x:         |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #7]  |
 | [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |                              |
 | [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #11] |
-| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: |                              |
+| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021]                 |
 | [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20] | Promo                             |
 | [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                              |
 
@@ -772,13 +778,13 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                  | Purchased | Digital                            |     Downloaded     | Released                | Notes |
-| --------------------- | :-------: | ---------------------------------- | :----------------: | ----------------------- | ----- |
-| [Crashed UFO]         |    :x:    | [Buy :zip:][Crashed UFO STL]       |        :x:         | [May 2021][FF 14/05/21] |
-| Red Rocket Preserved  |           | [Buy :zip:][Red Rocket Preserved]  | :heavy_check_mark: | February 2021           |
-| Red Rocket Ruined     |           | [Buy :zip:][Red Rocket Ruined]     | :heavy_check_mark: | February 2021           |
-| [Robot Work Bench]    |    :x:    | [Buy :zip:][Robot Work Bench STL]  | :heavy_check_mark: | May 2021                |
-| Sanctuary Hills House |           | [Buy :zip:][Sanctuary Hills House] | :heavy_check_mark: | February 2021           |
+| Item                  | Purchased | Digital                            |     Downloaded     | Released        | Notes |
+| --------------------- | :-------: | ---------------------------------- | :----------------: | --------------- | ----- |
+| [Crashed UFO]         |    :x:    | [Buy :zip:][Crashed UFO STL]       |        :x:         | [March 2021]    |
+| Red Rocket Preserved  |           | [Buy :zip:][Red Rocket Preserved]  | :heavy_check_mark: | February 2021   |
+| Red Rocket Ruined     |           | [Buy :zip:][Red Rocket Ruined]     | :heavy_check_mark: | February 2021   |
+| [Robot Work Bench]    |    :x:    | [Buy :zip:][Robot Work Bench STL]  | :heavy_check_mark: | [February 2021] |
+| Sanctuary Hills House |           | [Buy :zip:][Sanctuary Hills House] | :heavy_check_mark: | February 2021   |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl
@@ -793,7 +799,7 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 | Item                                         | Purchased | Digital                            |     Downloaded     | Released                     | Notes                                  |
 | -------------------------------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
 | AA02-2021: Automaton Assembly                |           | [Free :pdf:][Automaton Assembly]   | :heavy_check_mark: | March 2021                   |
-| SCP-059-111: The Zetan Incident              |           | [Free :pdf:][Zetan Incident]       | :heavy_check_mark: | July 2020                    | Scenario for [Zetan] and [Crashed UFO] |
+| SCP-059-111: The Zetan Incident              |           | [Free :pdf:][Zetan Incident]       | :heavy_check_mark: | [May 2021][FF 14/05/21]      | Scenario for [Zetan] and [Crashed UFO] |
 | SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free :pdf:][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
 | SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free :pdf:][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
 | SCP-060-111: The Vestiges Resurgent (Part 3) |           | [Free :pdf:][Vestiges Resurgent 3] | :heavy_check_mark: | [January 2021][FF 14/01/21]  |
@@ -1572,6 +1578,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Unexpected Shepherd 2]: https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-2-pdf
 [Unexpected Shepherd 3]: https://modiphius.net/products/fallout-wasteland-warfare-the-unexpected-shepherd-part-3-pdf
 
+#### Toast of the Town
+
+[Fallout Wasteland Warfare RPG with KayPOWXD and Final Render - "Toast of the Town" Video](https://www.youtube-nocookie.com/embed/BIzfsJFVX3U)
+
+> Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 # Fallout: The Roleplaying Game (2d20)
 
 `Fallout: The Roleplaying Game` is a tabletop role-playing game which uses a version of Modiphius' 2d20 tabletop system.
@@ -1603,10 +1615,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                           |     Purchased      | Digital                               |     Downloaded     | Released                           | Notes                                                              |
 | ------------------------------ | :----------------: | ------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------ |
-| [Core Rulebook]                | :heavy_check_mark: | [Buy :pdf:][Core Rulebook PDF]        | :heavy_check_mark: | April 2021                         |
-| [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                       |                    | April 2021                         |
-| ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
-| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | April 2021                         | Included in `G.E.C.K. Special Edition Box`                         |
+| [Core Rulebook]                | :heavy_check_mark: | [Buy :pdf:][Core Rulebook PDF]        | :heavy_check_mark: | [September 2021]                   |
+| [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                       |                    | September 2021                     |
+| ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | [September 2021]                   | Included in `G.E.C.K. Special Edition Box`                         |
+| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | [September 2021]                   | Included in `G.E.C.K. Special Edition Box`                         |
 | [GM Screen + Booklet]          | :heavy_check_mark: | [Buy :pdf:][GM Screen PDF]            | :heavy_check_mark: | August 2023                        |
 | [Perk Cards 1]                 | :heavy_check_mark: |                                       |                    | [May 2022][FF 13/05/22]            |
 | [Perk Cards 2]                 | :heavy_check_mark: |                                       |                    | [April 2026][FF 24/04/26]          | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
@@ -1977,3 +1989,12 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [PrimaValue PLA (Dark Grey)]: printer-filament#tinmorry-pla-dark-grey
 [PrimaValue PLA (Red)]: printer-filament#primavalue-pla-red
 [Tinmorry PLA (Black)]: printer-filament#tinmorry-pla-black
+[Youtube Release Videos]: #
+[February 2021]: https://www.youtube.com/watch?v=EOiRKdGJX2g&t=40s
+[March 2021]: https://www.youtube.com/watch?v=u5iMliE3kuM
+[April 2021]: https://www.youtube.com/watch?v=B1lsQ_mRpos&t=48s
+[May 2021]: https://www.youtube.com/watch?v=xhCQaQq27OM
+[June 2021]: https://www.youtube.com/watch?v=Dcj04hV-t64
+[July 2021]: https://www.youtube.com/watch?v=VLBsJiZQ2w0
+[August 2021]: https://www.youtube.com/watch?v=MQp4P-0LBuk
+[September 2021]: https://www.youtube.com/watch?v=6t40Bbc99bA&t=283s

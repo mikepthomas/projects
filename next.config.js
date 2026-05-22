@@ -35,7 +35,7 @@ const nextConfig = {
      *
      * @see https://nextjs.org/docs/messages/large-page-data
      */
-    largePageDataBytes: 175 * 1000,
+    largePageDataBytes: 175 * 1024,
   },
 };
 
