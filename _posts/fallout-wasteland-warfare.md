@@ -66,6 +66,12 @@ Wave 1 introduces the game with the `Two Player Starter Set` which contains ever
 
 ### Development
 
+A first look, pre-release playthrough with the publisher gives a good overview of what's to come.
+
+[Fallout: Wasteland Warfare - Pre-release playthrough with Modiphius Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2UTYYAYSU7pz67oOfgKoWt)
+
+> Videos © 2017 [Modiphius](https://www.youtube.com/@Modiphius)
+
 The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news?page=30) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
 
 Alternatively check out the [old version on the Internet Archive](https://web.archive.org/web/20210916215739/https://www.modiphius.com/development-blog.html).
@@ -107,6 +113,10 @@ Alternatively check out the [old version on the Internet Archive](https://web.ar
 [DEVELOPMENT BLOG #16]: https://modiphius.net/blogs/news/launch-party-reveals
 
 ### Rules
+
+[Fallout: Wasteland Warfare - Unboxing the Two-Player Starter Set Video](https://www.youtube-nocookie.com/embed/3Y9BrtcMdOE)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
 
@@ -319,7 +329,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Released | Notes |
 | --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
-| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |
+| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |          |
 
 [Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 
@@ -352,7 +362,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                                               | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Released | Notes |
 | -------------------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
-| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)] |      |      |        |      |   :x:   |
+| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)] |      |      |        |      |   :x:   |          |
 
 ## Wave 2 - Raiders
 
@@ -409,28 +419,9 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 | Item                   |     Purchased      | Digital | Downloaded | Released                           | Notes |
 | ---------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
-| [Nuka Cola Notebook]   |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #17] |
-| [Vault-Tec Notebook]   | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #17] |
 | [Weapons Upgrade Pack] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #17] |
 
-[Nuka Cola Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-nuka-notebook
-[Vault-Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
 [Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack
-
-#### Settlement Sheet
-
-The Notebooks have printed versions of the version 1.0 Settlement Sheet. Downloadable PDFs of later versions can be found below.
-
-| Item                    | Purchased | Digital                               |     Downloaded     | Released      | Notes |
-| ----------------------- | :-------: | ------------------------------------- | :----------------: | ------------- | ----- |
-| Settlement Sheet (v1.0) |           | [Free :pdf:][Settlement Sheet (v1.0)] | :heavy_check_mark: | July 2019     |
-| Settlement Sheet (v2.0) |           |                                       |        :x:         | August 2019   |
-| Settlement Sheet (v3.0) |           | [Free :pdf:][Settlement Sheet (v3.0)] | :heavy_check_mark: | December 2019 |
-| Settlement Sheet (v4.0) |           | [Free :pdf:][Settlement Sheet (v4.0)] | :heavy_check_mark: | October 2020  |
-
-[Settlement Sheet (v1.0)]: https://web.archive.org/web/20191123170314/https://www.modiphius.com/uploads/1/4/0/6/14062642/settlement_sheet_print.pdf
-[Settlement Sheet (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_settlement_sheet_v3.0.pdf
-[Settlement Sheet (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
 
 ### Minatures
 
@@ -550,6 +541,12 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+#### Paladin Danse's Vertibird Stand-Off
+
+[Fallout: Wasteland Warfare - Paladin Danse's Vertibird Stand-Off Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd0sUHVqxk_PwnrzBAmApkkT)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 #### Raid the Crash Site
 
 This scenario was designed for using the `Crashed Vertibird`.
@@ -559,6 +556,35 @@ This scenario was designed for using the `Crashed Vertibird`.
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
 I plan on 3D Printing parts from the [Parked Vertibird](brotherhood-of-steel#vehicles) instead.
+
+### Settlement Mode
+
+[Fallout: Wasteland Warfare - Settlement Mode Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2D4Xy2ec74QOijAoBNm8nj)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                 |     Purchased      | Digital | Downloaded | Released                           | Notes |
+| -------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
+| [Nuka Cola Notebook] |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #17] |
+| [Vault-Tec Notebook] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #17] |
+
+[Nuka Cola Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-nuka-notebook
+[Vault-Tec Notebook]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-vault-tec-notebook
+
+#### Settlement Sheet
+
+The Notebooks have printed versions of the version 1.0 Settlement Sheet. Downloadable PDFs of later versions can be found below.
+
+| Item                    | Purchased | Digital                               |     Downloaded     | Released      | Notes |
+| ----------------------- | :-------: | ------------------------------------- | :----------------: | ------------- | ----- |
+| Settlement Sheet (v1.0) |           | [Free :pdf:][Settlement Sheet (v1.0)] | :heavy_check_mark: | July 2019     |
+| Settlement Sheet (v2.0) |           |                                       |        :x:         | August 2019   |
+| Settlement Sheet (v3.0) |           | [Free :pdf:][Settlement Sheet (v3.0)] | :heavy_check_mark: | December 2019 |
+| Settlement Sheet (v4.0) |           | [Free :pdf:][Settlement Sheet (v4.0)] | :heavy_check_mark: | October 2020  |
+
+[Settlement Sheet (v1.0)]: https://web.archive.org/web/20191123170314/https://www.modiphius.com/uploads/1/4/0/6/14062642/settlement_sheet_print.pdf
+[Settlement Sheet (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_settlement_sheet_v3.0.pdf
+[Settlement Sheet (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/settlement_sheet_v4.0_001w.pdf
 
 ## Wave 3 - Institute
 
@@ -611,7 +637,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | ------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
 | [Institute: Core Box]          |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
 | [The Mechanist]                | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update]         | Promo                                                  |
-| [Survivors: Unusual Allies]    | :heavy_check_mark: |         |            |
+| [Survivors: Unusual Allies]    | :heavy_check_mark: |         |            |                                                 |
 | [Survivors: Vault Personnel]   | :heavy_check_mark: |         |            |                                                 | Contains Miniatures related to the [Vault](vault)      |
 | [Unaligned: T-51 Power Armour] |        :x:         |         |            |
 
@@ -631,8 +657,8 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | ------------------------- | :-------: | ----------------------------- | :----------------: | ------------- | ----- |
 | Parked Vertibird          |           | [Buy :zip:][Parked Vertibird] | :heavy_check_mark: | April 2020    |
 | Pre-war APC               |           | [Buy :zip:][Pre-war APC]      | :heavy_check_mark: | November 2020 |
-| [Settlement Work Benches] |    :x:    |                               |                    |
-| Tank                      |           | [Buy :zip:][Tank]             |        :x:         |
+| [Settlement Work Benches] |    :x:    |                               |                    |               |
+| Tank                      |           | [Buy :zip:][Tank]             |        :x:         |               |
 
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
@@ -671,10 +697,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 | Item                                            |     Purchased      | Digital                             |     Downloaded     | Released                     | Notes |
 | ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | ---------------------------- | ----- |
-| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    |
-| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    |
+| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    |                              |
+| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    |                              |
 | [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020][FF 13/11/20] |
-| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    |
+| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    |                              |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
@@ -723,13 +749,13 @@ These are 3D Printable inserts to fit inside the [Two Player Starter Set] box to
 
 | Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                     | Notes                             |
 | ------------------------------------- | :----------------: | ----------------------- | :----------------: | ---------------------------- | --------------------------------- |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                              |
 | [Creatures: Mirelurk Queen]           |        :x:         |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #7]  |
-| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |
+| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |                              |
 | [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #11] |
-| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: |
+| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: |                              |
 | [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20] | Promo                             |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                              |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 [Creatures: Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen
@@ -1075,8 +1101,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 | Item                      | Purchased | Digital                                | Downloaded | Released                 | Notes |
 | ------------------------- | :-------: | -------------------------------------- | :--------: | ------------------------ | ----- |
-| Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     |
-| Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     |
+| Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     |                          |
+| Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     |                          |
 | Metal Dome                |           | [Buy :zip:][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
@@ -1360,7 +1386,7 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 
 | Item               | Purchased | Digital                          |     Downloaded     | Released                              | Notes                 |
 | ------------------ | :-------: | -------------------------------- | :----------------: | ------------------------------------- | --------------------- |
-| Battle Mode (v1.0) |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |                       |
+| Battle Mode (v1.0) |           | [Free :pdf:][Battle Mode (v1.0)] | :heavy_check_mark: | [August 2018][Blog: Downloads Update] |
 | Battle Mode (v1.6) |           | [Free :pdf:][Battle Mode (v1.6)] | :heavy_check_mark: | June 2024                             | Made by the Community |
 
 [Battle Mode (v1.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_battle_mode_v.1.0_download.pdf

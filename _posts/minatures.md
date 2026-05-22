@@ -27,6 +27,10 @@ keywords:
 
 [Modiphius Blog: Getting Back Into Painting - Can You Get Good In A Year?](https://modiphius.net/blogs/news/getting-back-into-painting-can-you-get-good-in-a-year)
 
+[Painting and Customising Fallout: Wasteland Warfare Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2C9oRFCsJnlYFEOVmd6FCF)
+
+> Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
+
 # Item & Unit Costs
 
 ## General Mode
