@@ -1603,9 +1603,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                          |     Downloaded     | Released | Notes |
-| ------------- | :-------: | -------------------------------- | :----------------: | -------- | ----- |
-| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: |          |
+| Item          | Purchased | Digital                          |     Downloaded     | Released   | Notes |
+| ------------- | :-------: | -------------------------------- | :----------------: | ---------- | ----- |
+| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: | April 2026 |
 
 [2d20 Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/bffb29d8-8456-4833-bb03-9973e880b4ce/Errata-log-V5-2026.pdf
 
