@@ -49,10 +49,10 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 ### Assembly
 
-| Item                   | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Body][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Body][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Vault STL Bundle
 
@@ -60,12 +60,12 @@ The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-
 
 | Item                          | Purchased | Digital                                    |     Downloaded     | Notes |
 | ----------------------------- | :-------: | ------------------------------------------ | :----------------: | ----- |
-| Vault Design Starter Pack     |           | [Buy :zip:][Vault Design Starter Pack]     | :heavy_check_mark: |       |
-| Vault Walls Upgrade Pack      |           | [Buy :zip:][Vault Walls Upgrade Pack]      | :heavy_check_mark: |       |
-| Vault Flooring Pack           |           | [Buy :zip:][Vault Flooring Pack]           | :heavy_check_mark: |       |
-| Vault Atrium Pack             |           | [Buy :zip:][Vault Atrium Pack]             | :heavy_check_mark: |       |
-| Vault Interior Themed Scatter |           | [Buy :zip:][Vault Interior Themed Scatter] | :heavy_check_mark: |       |
-| Vault Tec Office Bundle       |           | [Buy :zip:][Vault Tec Office Bundle]       | :heavy_check_mark: |       |
+| Vault Design Starter Pack     |           | [Buy :zip:][Vault Design Starter Pack]     | :heavy_check_mark: |
+| Vault Walls Upgrade Pack      |           | [Buy :zip:][Vault Walls Upgrade Pack]      | :heavy_check_mark: |
+| Vault Flooring Pack           |           | [Buy :zip:][Vault Flooring Pack]           | :heavy_check_mark: |
+| Vault Atrium Pack             |           | [Buy :zip:][Vault Atrium Pack]             | :heavy_check_mark: |
+| Vault Interior Themed Scatter |           | [Buy :zip:][Vault Interior Themed Scatter] | :heavy_check_mark: |
+| Vault Tec Office Bundle       |           | [Buy :zip:][Vault Tec Office Bundle]       | :heavy_check_mark: |
 
 [Vault Design Starter Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl
 [Vault Walls Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl
@@ -84,38 +84,38 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 ### Vault Gear Door
 
-| Item                                          | Quantity | Material                                                            | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------- | -------- | ------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [CONSOLE_PLATFORM][Vault Design Starter Pack] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)                  |      |      |        |      |   :x:   |       |
-| [DOOR_CONSOLE][Vault Design Starter Pack]     | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)              |      |      |        |      |   :x:   |       |
-| [DOOR_GENERATOR][Vault Design Starter Pack]   | 1        | [Amazon Basics PLA (Blue)](printer-filament#amazon-basics-pla-blue) |      |      |        |      |   :x:   |       |
-| [DOOR_PARK][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)           |      |      |        |      |   :x:   |       |
-| [GEAR_DOOR][Vault Design Starter Pack]        | 1        | [eSun ABS+ (Yellow)](printer-filament#esun-abs-yellow)              |      |      |        |      |   :x:   |       |
-| [LEFT_WALL][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)           |      |      |        |      |   :x:   |       |
-| [RIGHT_WALL][Vault Design Starter Pack]       | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)           |      |      |        |      |   :x:   |       |
-| [WALL_CENTRE][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey)           |      |      |        |      |   :x:   |       |
+| Item                                          | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------- | -------- | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [CONSOLE_PLATFORM][Vault Design Starter Pack] | 1        | [eSun ABS+ (Grey)]         |      |      |        |      |   :x:   |
+| [DOOR_CONSOLE][Vault Design Starter Pack]     | 1        | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
+| [DOOR_GENERATOR][Vault Design Starter Pack]   | 1        | [Amazon Basics PLA (Blue)] |      |      |        |      |   :x:   |
+| [DOOR_PARK][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [GEAR_DOOR][Vault Design Starter Pack]        | 1        | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
+| [LEFT_WALL][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [RIGHT_WALL][Vault Design Starter Pack]       | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [WALL_CENTRE][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
 
 ### Vertical Supports
 
-| Item                                             | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BASIC_ELBOW][Vault Design Starter Pack]         | 5        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [BASIC_SUPPORT][Vault Design Starter Pack]       | 6        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [BASIC_T_JUNCTION][Vault Design Starter Pack]    | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [INTERIOR_ELBOW][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [INTERIOR_SUPPORT][Vault Design Starter Pack]    |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [INTERIOR_T_JUNCTION][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [INTERIOR_X_JUNCTION][Vault Design Starter Pack] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                             | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BASIC_ELBOW][Vault Design Starter Pack]         | 5        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_SUPPORT][Vault Design Starter Pack]       | 6        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_T_JUNCTION][Vault Design Starter Pack]    | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_ELBOW][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_SUPPORT][Vault Design Starter Pack]    |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_T_JUNCTION][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_X_JUNCTION][Vault Design Starter Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Walls
 
-| Item                                       | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BASIC_DOOR][Vault Design Starter Pack]    | 3        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [BASIC_DOORWAY][Vault Design Starter Pack] | 3        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [BASIC_WALL][Vault Design Starter Pack]    | 7        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [BASIC_WINDOW][Vault Design Starter Pack]  | 3        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [INTERIOR_WALL][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                       | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BASIC_DOOR][Vault Design Starter Pack]    | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_DOORWAY][Vault Design Starter Pack] | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_WALL][Vault Design Starter Pack]    | 7        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_WINDOW][Vault Design Starter Pack]  | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_WALL][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Walls Upgrade Pack
 
@@ -125,24 +125,24 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                       | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BREACHED_WALL][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [COLLAPSED_WALL][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT1][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT2][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT3][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT4][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT5][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT6][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT7][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT8][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT9][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT10][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT11][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT12][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT13][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [WALL_VARIANT14][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                       | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BREACHED_WALL][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [COLLAPSED_WALL][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT1][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT2][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT3][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT4][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT5][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT6][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT7][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT8][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT9][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT10][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT11][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT12][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT13][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT14][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Utility Walls
 
@@ -150,14 +150,14 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                            | Quantity | Material                                                                        | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | ------------------------------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [UTILITY_DOORWAY][Vault Walls Upgrade Pack]     | 2        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
-| [UTILITY_LEFT_ELBOW][Vault Walls Upgrade Pack]  | 2        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
-| [UTILITY_RIGHT_ELBOW][Vault Walls Upgrade Pack] | 2        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
-| [UTILITY_SUPPORT][Vault Walls Upgrade Pack]     | 4        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
-| [UTILITY_T_JUNCTION][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
-| [UTILITY_WALL][Vault Walls Upgrade Pack]        | 6        | [Tinmorry PLA (Matte Brick Red)](printer-filament#tinmorry-pla-matte-brick-red) |      |      |        |      |   :x:   |       |
+| Item                                            | Quantity | Material                         | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------- | -------- | -------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [UTILITY_DOORWAY][Vault Walls Upgrade Pack]     | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_LEFT_ELBOW][Vault Walls Upgrade Pack]  | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_RIGHT_ELBOW][Vault Walls Upgrade Pack] | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_SUPPORT][Vault Walls Upgrade Pack]     | 4        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_T_JUNCTION][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_WALL][Vault Walls Upgrade Pack]        | 6        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
 
 ## Vault Flooring Pack
 
@@ -167,25 +167,25 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                           | Quantity | Material                                               | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | ------------------------------------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Basic_Large_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Basic_Medium_Tile][Vault Flooring Pack]       | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Basic_Small_Tile_Double][Vault Flooring Pack] | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Basic_Small_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Floor_Hatch_Large_Tile][Vault Flooring Pack]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Floor_Hatch_Medium_Tile][Vault Flooring Pack] |          | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Floor_Mat_Large_Tile][Vault Flooring Pack]    | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Floor_Mat_Medium_Tile][Vault Flooring Pack]   |          | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Maintenance_Tile_A][Vault Flooring Pack]      |          | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Maintenance_Tile_B][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Micro_Tile_Double][Vault Flooring Pack]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Micro_Tile][Vault Flooring Pack]              |          | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Rubble_Medium_Tile][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Sheet_Scrap][Vault Flooring Pack]             | 2        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)      |      |      |        |      |   :x:   |       |
-| [Sign][Vault Flooring Pack]                    | 1        | [eSun PLA (Wood)](printer-filament#esun-pla-wood)      |      |      |        |      |   :x:   |       |
-| [Striped_Medium_Tile][Vault Flooring Pack]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey)     |      |      |        |      |   :x:   |       |
-| [Traffic_Cone][Vault Flooring Pack]            | 2        | [eSun ABS+ (Orange)](printer-filament#esun-abs-orange) |      |      |        |      |   :x:   |       |
+| Item                                           | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Basic_Large_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Medium_Tile][Vault Flooring Pack]       | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Small_Tile_Double][Vault Flooring Pack] | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Small_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Hatch_Large_Tile][Vault Flooring Pack]  | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Hatch_Medium_Tile][Vault Flooring Pack] |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Mat_Large_Tile][Vault Flooring Pack]    | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Mat_Medium_Tile][Vault Flooring Pack]   |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Maintenance_Tile_A][Vault Flooring Pack]      |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Maintenance_Tile_B][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Micro_Tile_Double][Vault Flooring Pack]       | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Micro_Tile][Vault Flooring Pack]              |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Rubble_Medium_Tile][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Sheet_Scrap][Vault Flooring Pack]             | 2        | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
+| [Sign][Vault Flooring Pack]                    | 1        | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
+| [Striped_Medium_Tile][Vault Flooring Pack]     | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Traffic_Cone][Vault Flooring Pack]            | 2        | [eSun ABS+ (Orange)] |      |      |        |      |   :x:   |
 
 ### Utility Floor
 
@@ -193,12 +193,12 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                  | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Floor_Hatch_Utility_Corridor_A][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Floor_Hatch_Utility_Corridor_B][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Utility_Corridor_Large][Vault Flooring Pack]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Utility_Corridor_Small][Vault Flooring Pack]         | 2        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Floor_Hatch_Utility_Corridor_A][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Floor_Hatch_Utility_Corridor_B][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Utility_Corridor_Large][Vault Flooring Pack]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Utility_Corridor_Small][Vault Flooring Pack]         | 2        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Atrium Floor Support
 
@@ -206,9 +206,9 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                              | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [SHORT_ATRIUM_FLOOR_SUPPORT][Vault Flooring Pack] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                              | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [SHORT_ATRIUM_FLOOR_SUPPORT][Vault Flooring Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Atrium Pack
 
@@ -216,27 +216,27 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                            | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [ADAPTER_C1][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [ADAPTER_C2][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [DOUBLE_ELBOW_BALUSTRADE][Vault Atrium Pack]    | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [FLOOR_SUPPORT][Vault Atrium Pack]              | 7        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [LARGE_BALUSTRADE][Vault Atrium Pack]           | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [LEFT_ELBOW_BALUSTRADE][Vault Atrium Pack]      | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [MEDIUM_BALUSTRADE][Vault Atrium Pack]          | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [MINI_BALUSTRADE][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [MITRE_ADAPTER_A][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [MITRE_ADAPTER_B][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [MITRE_FLOOR][Vault Atrium Pack]                | 4        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [RIGHT_ELBOW_BALUSTRADE][Vault Atrium Pack]     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STAIR_HEIGHT_ADAPTER][Vault Atrium Pack]       | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STAIRCASE_LEFT_BALUSTRADE][Vault Atrium Pack]  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STAIRCASE_RIGHT_BALUSTRADE][Vault Atrium Pack] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STAIRCASE][Vault Atrium Pack]                  | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STRAIGHT_ADAPTER_A][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STRAIGHT_ADAPTER_B][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [STRAIGHT_FLOOR][Vault Atrium Pack]             | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [ADAPTER_C1][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [ADAPTER_C2][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [DOUBLE_ELBOW_BALUSTRADE][Vault Atrium Pack]    | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [FLOOR_SUPPORT][Vault Atrium Pack]              | 7        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LARGE_BALUSTRADE][Vault Atrium Pack]           | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LEFT_ELBOW_BALUSTRADE][Vault Atrium Pack]      | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MEDIUM_BALUSTRADE][Vault Atrium Pack]          | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MINI_BALUSTRADE][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_ADAPTER_A][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_ADAPTER_B][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_FLOOR][Vault Atrium Pack]                | 4        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [RIGHT_ELBOW_BALUSTRADE][Vault Atrium Pack]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIR_HEIGHT_ADAPTER][Vault Atrium Pack]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE_LEFT_BALUSTRADE][Vault Atrium Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE_RIGHT_BALUSTRADE][Vault Atrium Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE][Vault Atrium Pack]                  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_ADAPTER_A][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_ADAPTER_B][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_FLOOR][Vault Atrium Pack]             | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Interior Scatter
 
@@ -246,21 +246,21 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                   | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bed][Vault Interior Themed Scatter]                   | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Dresser][Vault Interior Themed Scatter]               | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Kitchen_Counter_Large][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Office_Chair][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shower_1][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shower_2][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shower_3][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shower_4][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Sofa][Vault Interior Themed Scatter]                  | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Toilet_Seat_Down][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Toilet_Seat_Up][Vault Interior Themed Scatter]        | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [VaultTec_Air_Vent2][Vault Interior Themed Scatter]    | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bed][Vault Interior Themed Scatter]                   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Dresser][Vault Interior Themed Scatter]               | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Kitchen_Counter_Large][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Office_Chair][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_1][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_2][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_3][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_4][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Sofa][Vault Interior Themed Scatter]                  | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Toilet_Seat_Down][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Toilet_Seat_Up][Vault Interior Themed Scatter]        | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [VaultTec_Air_Vent2][Vault Interior Themed Scatter]    | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Utility Dressing
 
@@ -268,14 +268,14 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                   | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Dryer][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Kitchen_Counter_Large][Vault Interior Themed Scatter] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Mannequin][Vault Interior Themed Scatter]             |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Washer][Vault Interior Themed Scatter]                |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Dryer][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Kitchen_Counter_Large][Vault Interior Themed Scatter] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Mannequin][Vault Interior Themed Scatter]             |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Washer][Vault Interior Themed Scatter]                |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Diner Dressing
 
@@ -283,17 +283,17 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                   | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Expresso_Machine][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [High-Tec_Couch][Vault Interior Themed Scatter]        |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Kitchen_Counter_Large][Vault Interior Themed Scatter] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Kitchen_Stove][Vault Interior Themed Scatter]         |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Picnic_Table][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [VaultTec_Air_Vent1][Vault Interior Themed Scatter]    |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Water_Fountain][Vault Interior Themed Scatter]        |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Expresso_Machine][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [High-Tec_Couch][Vault Interior Themed Scatter]        |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Kitchen_Counter_Large][Vault Interior Themed Scatter] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Kitchen_Stove][Vault Interior Themed Scatter]         |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Picnic_Table][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [VaultTec_Air_Vent1][Vault Interior Themed Scatter]    |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Water_Fountain][Vault Interior Themed Scatter]        |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Reactor Dressing
 
@@ -301,23 +301,23 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Air_Con][Vault Interior Themed Scatter]            | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Chair][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_1][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_2][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_3][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_4][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_5][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_6][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Console_7][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Fire_Control][Vault Interior Themed Scatter]       | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Generator1][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Generator2][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Generator3][Vault Interior Themed Scatter]         | 4        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Office_Chair][Vault Interior Themed Scatter]       | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shipping_Container][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Air_Con][Vault Interior Themed Scatter]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chair][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_1][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_2][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_3][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_4][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_5][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_6][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_7][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Fire_Control][Vault Interior Themed Scatter]       | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator1][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator2][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator3][Vault Interior Themed Scatter]         | 4        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Office_Chair][Vault Interior Themed Scatter]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shipping_Container][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Tech Office Bundle
 
@@ -331,11 +331,11 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                           | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [HeavyDutyConsoles_A][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [HeavyDutyConsoles_B][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [HeavyDutyConsoles_C][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                           | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [HeavyDutyConsoles_A][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [HeavyDutyConsoles_B][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [HeavyDutyConsoles_C][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Misc
 
@@ -343,16 +343,16 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                            | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [HiTecDrawer][Vault Tec Office Bundle]          | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Safe][Vault Tec Office Bundle]                 |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [TankerDesk_DrawerA][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [TankerDesk_DrawerB][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [TankerDesk_Top][Vault Tec Office Bundle]       | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Terminal_Desktop][Vault Tec Office Bundle]     | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Terminal_WallMounted][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [VaultLocker][Vault Tec Office Bundle]          | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [HiTecDrawer][Vault Tec Office Bundle]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Safe][Vault Tec Office Bundle]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_DrawerA][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_DrawerB][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_Top][Vault Tec Office Bundle]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Terminal_Desktop][Vault Tec Office Bundle]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Terminal_WallMounted][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [VaultLocker][Vault Tec Office Bundle]          | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ![Vault Tec Lockers](https://modiphius.net/cdn/shop/products/1-Painted-Shot-Fallout-Wasteland-Warfare-MUH051819_1280x.jpg)
 
@@ -360,17 +360,17 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 ### Modular Shelving
 
-| Item                                          | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BlankShelf][Vault Tec Office Bundle]         |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf A][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf B][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf C][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf D][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf E][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Shelf F][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [ShortRackingSingle][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [TallRackingSingle][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BlankShelf][Vault Tec Office Bundle]         |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf A][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf B][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf C][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf D][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf E][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf F][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [ShortRackingSingle][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TallRackingSingle][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Tec Crates
 
@@ -378,12 +378,12 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                         | Quantity | Material                                                  | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------- | -------- | --------------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Crate_01\_(Small)][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Crate_02\_(Tall)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Crate_03\_(Wide)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
-| [Crate_04\_(Big)][Vault Tec Office Bundle]   | 2        | [Tinmorry PLA (Grey)](printer-filament#tinmorry-pla-grey) |      |      |        |      |   :x:   |       |
+| Item                                         | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Crate_01\_(Small)][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Crate_02\_(Tall)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Crate_03\_(Wide)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Crate_04\_(Big)][Vault Tec Office Bundle]   | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 # Example Layouts
 
@@ -685,7 +685,7 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 | Item                | Purchased | Digital                          |     Downloaded     | Notes |
 | ------------------- | :-------: | -------------------------------- | :----------------: | ----- |
-| Industrial Vehicles |           | [Buy :zip:][Industrial Vehicles] | :heavy_check_mark: |       |
+| Industrial Vehicles |           | [Buy :zip:][Industrial Vehicles] | :heavy_check_mark: |
 
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
 
@@ -695,24 +695,24 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Body_Front][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Body_Rear][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Cage][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Center_Axel][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Fork][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Hydraulic_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Hydraulic_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Lift_Elevator][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rear_Axel_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rear_Axel_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rear_Wheel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Side_Mirror_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Side_Mirror_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Body_Front][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Body_Rear][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cage][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Center_Axel][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Fork][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lift_Elevator][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Axel_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Axel_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Side_Mirror_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Side_Mirror_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Forklift Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-293156_1280x.jpg)
 
@@ -724,22 +724,22 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                               | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Arm_R][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Bucket][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Chassis][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Forks][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Hydraulic_L][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Hydraulic_R][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Lights_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Lights_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Mirror_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Mirror_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Track_L][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Track_R][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Turret][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                               | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Arm_L][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Arm_R][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bucket][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Chassis][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Forks][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_L][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_R][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lights_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lights_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Mirror_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Mirror_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Track_L][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Track_R][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Turret][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Megaloader Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-691151_1280x.jpg)
 
@@ -751,16 +751,16 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Center][Industrial Vehicles]         | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Chassis][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Controls][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Center][Industrial Vehicles]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Chassis][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Controls][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Street Cleaner Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-965219_1280x.jpg)
 
@@ -772,19 +772,28 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material                                           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | -------------------------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Back][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Front_Axel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Front_Wheel_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Front_Wheel_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Gear_Shifter][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rear_Wheel_L][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Rear_Wheel_R][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)](printer-filament#esun-abs-grey) |      |      |        |      |   :x:   |       |
+| Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Back][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Axel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Wheel_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Wheel_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Gear_Shifter][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel_L][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel_R][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Tractor Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-447551_1280x.jpg)
 
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
+
+[Filament]: #
+[Amazon Basics PLA (Blue)]: printer-filament#amazon-basics-pla-blue
+[eSun ABS+ (Grey)]: printer-filament#esun-abs-grey
+[eSun ABS+ (Orange)]: printer-filament#esun-abs-orange
+[eSun ABS+ (Yellow)]: printer-filament#esun-abs-yellow
+[eSun PLA (Wood)]: printer-filament#esun-pla-wood
+[Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
+[Tinmorry PLA (Matte Brick Red)]: printer-filament#tinmorry-pla-matte-brick-red
