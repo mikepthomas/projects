@@ -1583,6 +1583,35 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Astoundingly Awesome Tales 4]: https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf
 [Astoundingly Awesome Tales 6]: https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf
 
+### Character Sheets
+
+| Item                    | Purchased | Digital                               |     Downloaded     | Released | Notes                                       |
+| ----------------------- | :-------: | ------------------------------------- | :----------------: | -------- | ------------------------------------------- |
+| Character Sheet         |           | [Free :pdf:][Character Sheet: 2d20]   | :heavy_check_mark: |          |
+| Character Sheet (Human) |           | [Free :pdf:][Character Sheet: Human]  | :heavy_check_mark: |          | [Character Sheet: Human (Printer Friendly)] |
+| Character Sheet (Robot) |           | [Free :pdf:][Character Sheet: Robot]  | :heavy_check_mark: |          | [Character Sheet: Robot (Printer Friendly)] |
+| Pregenerated Characters |           | [Free :pdf:][Pregenerated Characters] | :heavy_check_mark: |          |
+
+[Character Sheet: 2d20]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a6aad804-0059-49d1-9f53-19345f586242.pdf
+[Character Sheet: Human]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a7af8261-6a1a-444a-9fff-c11b0e8c3ba8/FO2d20-Human-Character-Sheet_v002m.pdf
+[Character Sheet: Human (Printer Friendly)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c7576a0f-ee71-41f4-ae52-cad0a056dd7d/FO2d20-Human-Character-Sheet_v002m-NO-BACKGROUND.pdf
+[Character Sheet: Robot]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/bbaec309-430b-42a7-923e-0814c5b752f7/FO2d20-Robot-Character-Sheet_v002m.pdf
+[Character Sheet: Robot (Printer Friendly)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/75de2876-0ba3-464a-a5ea-c6ce3090037f/FO2d20-Robot-Character-Sheet_v002m-NO-BACKGROUND.pdf
+[Pregenerated Characters]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/3a93f5b5-7253-4584-9180-b06217dc2a61/Fallout-RPG---Pregenerated-Characters.pdf
+
+#### Respect the Crit - Evergreen Campaign
+
+[Respect The Crit - Fallout: Evergreen Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLUi2zOvzfRwzAeB6dUcphLbHUxbMK5Vpw)
+
+> Videos © 2021 [Respect the Crit](https://www.youtube.com/@respectthecrit)
+
+| Item                 | Purchased | Digital                            |     Downloaded     | Released    | Notes                                     |
+| -------------------- | :-------: | ---------------------------------- | :----------------: | ----------- | ----------------------------------------- |
+| NPC Character Sheets |           | [Free :pdf:][NPC Character Sheets] | :heavy_check_mark: | August 2021 | [NPC Character Sheets (Printer Friendly)] |
+
+[NPC Character Sheets]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/31da9fb7-5c78-42b4-9728-e0dc47a91917.pdf
+[NPC Character Sheets (Printer Friendly)]: https://files.elfsight.com/storage/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fe6f396a-a1fb-4655-9f0f-9abdf6b68886.pdf
+
 ### Guide Book
 
 | Item               | Purchased | Digital                           |     Downloaded     | Released                     | Notes |
@@ -1812,6 +1841,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Wasteland Wanderer]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game
 [Wasteland Wanderer PDF]: https://modiphius.net/products/fallout-wasteland-wanderer-a-solo-roleplaying-game-pdf
+
+## Character Sheets
+
+| Item            | Purchased | Digital                       |     Downloaded     | Released | Notes |
+| --------------- | :-------: | ----------------------------- | :----------------: | -------- | ----- |
+| Character Sheet |           | [Free :pdf:][Character Sheet] | :heavy_check_mark: |          |
+
+[Character Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c288b605-212d-4d61-a814-c739e634ff2e/Fallout-2d20_Solo-RPG-Wasteland-Wanderer-Appendix-4-fillable-forms.pdf
 
 # Fallout: Wasteland Warfare (New Edition)
 
