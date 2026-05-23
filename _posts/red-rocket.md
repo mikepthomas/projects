@@ -28,22 +28,6 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
-| Item              | Purchased | Digital                        |     Downloaded     | Released                                                                       | Notes |
-| ----------------- | :-------: | ------------------------------ | :----------------: | ------------------------------------------------------------------------------ | ----- |
-| Preserved         |           | [Buy :zip:][Preserved]         | :heavy_check_mark: | February 2021                                                                  |
-| Ruined            |           | [Buy :zip:][Ruined]            | :heavy_check_mark: | February 2021                                                                  |
-| Drive Thru        |           | [Buy :zip:][Drive Thru]        | :heavy_check_mark: | [November 2022](https://modiphius.net/blogs/news/fallout-friday-november-11th) |
-| Streets of Boston |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: |                                                                                |
-
-[Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
-[Preserved]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl
-[Ruined]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
-
-I will use elements from all sets to create my own version of the Red Rocket outside of Sanctuary Hills from Fallout 4.
-
-A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
-
 # Preserved
 
 ## Walls
@@ -168,7 +152,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 | Item                       | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes                                                               |
 | -------------------------- | -------- | ---------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
-| [Rocket][Preserved]        | 1        | [PrimaValue PLA (Red)] |      |      |        |      |   :x:   | I will use the Resin version in the [Red Rocket Scenic Set] instead |
+| [Rocket][Preserved]        | 1        | [PrimaValue PLA (Red)] |      |      |        |      |   :x:   | I will use the Resin version in the Red Rocket [Scenic Set] instead |
 | [RocketGirderA][Preserved] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
 | [RocketGirderB][Preserved] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
 
@@ -393,7 +377,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 | Item                         | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes                                                               |
 | ---------------------------- | -------- | ---------------------- | ---- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------- |
-| [Rocket][Drive Thru]         | 1        | [PrimaValue PLA (Red)] |      |      |        |      |   :x:   | I will use the Resin version in the [Red Rocket Scenic Set] instead |
+| [Rocket][Drive Thru]         | 1        | [PrimaValue PLA (Red)] |      |      |        |      |   :x:   | I will use the Resin version in the Red Rocket [Scenic Set] instead |
 | [RocketBrace_01][Drive Thru] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
 | [RocketBrace_02][Drive Thru] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
 | [RocketBrace_03][Drive Thru] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
@@ -571,4 +555,8 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 [Tinmorry PLA (Matte Brick Red)]: printer-filament#tinmorry-pla-matte-brick-red
 [Ziro PLA (Yellow)]: printer-filament#ziro-pla-yellow
 [Related Links]: #
-[Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
+[Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
+[Preserved]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-preserved-red-rocket-stl
+[Ruined]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-ruined-red-rocket-stl
+[Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston

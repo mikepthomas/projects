@@ -27,15 +27,7 @@ keywords:
 
 Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
-A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
-
 # Brotherhood of Steel Encampment
-
-| Item                            | Purchased | Digital                     |     Downloaded     | Notes                                                               |
-| ------------------------------- | :-------: | --------------------------- | :----------------: | ------------------------------------------------------------------- |
-| Brotherhood of Steel Encampment |           | [Buy :zip:][BoS Encampment] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-august-2022) |
-
-[BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 
 ## AA Turret
 
@@ -298,3 +290,5 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 [Filament]: #
 [Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
+[Related Links]: #
+[BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl

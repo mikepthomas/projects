@@ -25,9 +25,9 @@ keywords:
 
 # Intro
 
-These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](fallout-wasteland-warfare#wave-9---nuka-world-expansion) and Fallout Factions [Battle For Nuka-World Starter Set][Battle For Nuka World Starter Set].
+These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](fallout-wasteland-warfare#wave-9---nuka-world-expansion) and Fallout Factions [Battle for Nuka-World Starter Set].
 
-[Battle For Nuka World Starter Set]: fallout-wasteland-warfare#battle-for-nuka-world
+[Battle for Nuka-World Starter Set]: fallout-wasteland-warfare#battle-for-nuka-world
 
 # Minatures
 
@@ -36,12 +36,6 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 ![Bottle and Cappy](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl-fallout-wasteland-warfare-modiphius-entertainment-319330_1280x.jpg)
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item             | Purchased | Digital                       |     Downloaded     | Notes                                                                 |
-| ---------------- | :-------: | ----------------------------- | :----------------: | --------------------------------------------------------------------- |
-| Bottle and Cappy |           | [Buy :zip:][Bottle and Cappy] | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/fallout-friday-december-2021) |
-
-[Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
 
 ### Bottle and Cappy Finger Dip
 
@@ -186,12 +180,6 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item            | Purchased | Digital                      |     Downloaded     | Notes |
-| --------------- | :-------: | ---------------------------- | :----------------: | ----- |
-| Cola-Cars Arena |           | [Buy :zip:][Cola Cars Arena] | :heavy_check_mark: |
-
-[Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
-
 ### Bottle Stand 1
 
 ![Bottle Stand 1](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-cola-cars-arena-fallout-wasteland-warfare-modiphius-entertainment-631333_1280x.jpg)
@@ -269,12 +257,6 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 ![Print at Home - Dry Rock Gulch Buildings](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings-fallout-wasteland-warfare-modiphius-entertainment-341918_1280x.jpg)
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
-
-| Item                     | Purchased | Digital                               |     Downloaded     | Notes                                                                                                             |
-| ------------------------ | :-------: | ------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Dry Rock Gulch Buildings |           | [Buy :zip:][Dry Rock Gulch Buildings] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-
-[Dry Rock Gulch Buildings]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings
 
 ### Building 1 (General + Practice)
 
@@ -542,32 +524,6 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-bundle) contains 6 sets of STLs:
-
-| Item                        | Purchased | Digital                                 |     Downloaded     | Notes                                                                                                             |
-| --------------------------- | :-------: | --------------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Ant Nests                   |           | [Buy :zip:][Ant Nests]                  | :heavy_check_mark: |
-| Barrels, Crates and Coffins |           | [Buy :zip:][Barrels Crates and Coffins] | :heavy_check_mark: |
-| Cacti Stands                |           | [Buy :zip:][Cacti Stands]               | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-| Graveyard                   |           | [Buy :zip:][Graveyard]                  | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-| Stingwing Nests             |           | [Buy :zip:][Stingwing Nests]            | :heavy_check_mark: |
-| Wrecked Rollercoaster       |           | [Buy :zip:][Wrecked Rollercoaster]      | :heavy_check_mark: |
-
-[Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
-[Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
-[Cacti Stands]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands
-[Graveyard]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard
-[Stingwing Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests
-[Wrecked Rollercoaster]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster
-
-There is also a sampler containing some of the items from the bundle:
-
-| Item                 | Purchased | Digital                           |     Downloaded     | Notes                                                                                                             |
-| -------------------- | :-------: | --------------------------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------- |
-| Tabletop STL Sampler |           | [Buy :zip:][Tabletop STL Sampler] | :heavy_check_mark: | Replaces versions in the [Fallout Factions: Battle for Nuka-World Starter Set][Battle For Nuka World Starter Set] |
-
-[Tabletop STL Sampler]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler
-
 ### Ant Nests
 
 ![Ant Nests](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-ant-nests-fallout-wasteland-warfare-modiphius-entertainment-793275_1280x.jpg)
@@ -711,25 +667,19 @@ There is also a sampler containing some of the items from the bundle:
 
 ## Space Adventure
 
-| Item            | Purchased | Digital                      |     Downloaded     | Notes |
-| --------------- | :-------: | ---------------------------- | :----------------: | ----- |
-| Space Adventure |           | [Buy :zip:][Space Adventure] | :heavy_check_mark: |
-
-[Space Adventure]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
-
 ### Asteroids
 
 ![Asteroids](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-galactic-zone-space-adventure-fallout-wasteland-warfare-modiphius-entertainment-651904_1280x.jpg)
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                           | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Asteroid_01][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_02][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_03][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_04][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_05][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Asteroid_01][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_02][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_03][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_04][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_05][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Dead Alien Animatronics
 
@@ -737,15 +687,15 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
-| Item                                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Alien_01_Base_Detailed][Space Adventure] | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| ~[Alien_01_Base_Plain][Space Adventure]~  | ~1~      | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Alien_01][Space Adventure]               | 1        | [eSun ABS+ (Peak Green)] |      |      |        |      |   :x:   |
-| [Alien_02_Base][Space Adventure]          | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Alien_02_Telescope][Space Adventure]     | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Tech_Pod][Space Adventure]               | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Telescope][Space Adventure]              | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Alien_01_Base_Detailed][Galactic Zone] | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| ~[Alien_01_Base_Plain][Galactic Zone]~  | ~1~      | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_01][Galactic Zone]               | 1        | [eSun ABS+ (Peak Green)] |      |      |        |      |   :x:   |
+| [Alien_02_Base][Galactic Zone]          | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_02_Telescope][Galactic Zone]     | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Tech_Pod][Galactic Zone]               | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Telescope][Galactic Zone]              | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
 
 ### Nuka-Girl Rocket
 
@@ -755,34 +705,34 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Nuka-Girl Rocket
 
-| Item                         | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Nuka_Girl][Space Adventure] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Planet][Space Adventure]    | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Rocket][Space Adventure]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| Item                       | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Galactic Zone]      | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Nuka_Girl][Galactic Zone] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Planet][Galactic Zone]    | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Rocket][Galactic Zone]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket
 
-| Item                                     | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Nuka_Cola_Rocket][Space Adventure]      | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Nuka_Rocket_Trash_Can][Space Adventure] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| Item                                   | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Nuka_Cola_Rocket][Galactic Zone]      | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Nuka_Rocket_Trash_Can][Galactic Zone] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket Kiddie Ride
 
-| Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Kiddie_Ride][Space Adventure]      | 1        | [eSun ABS+ (Red)]  |      |      |        |      |   :x:   |
-| [Kiddie_Ride_Base][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Kiddie_Ride][Galactic Zone]      | 1        | [eSun ABS+ (Red)]  |      |      |        |      |   :x:   |
+| [Kiddie_Ride_Base][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Wrecked Nuka-Rocket Car
 
-| Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Handlebar][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rail][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Handlebar][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rail][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Nuka-Globes
 
@@ -792,45 +742,39 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Globe 1
 
-| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_01][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Base_02][Space Adventure]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Column][Space Adventure]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Fountain][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Stand][Space Adventure]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_01][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base_02][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Column][Galactic Zone]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Fountain][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Stand][Galactic Zone]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Galactic Zone]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Galactic Zone]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Globe 2
 
-| Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Space Adventure]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_01][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_02][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_03][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_04][Space Adventure]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Bottom][Space Adventure] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Top][Space Adventure]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rings][Space Adventure]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Galactic Zone]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Galactic Zone]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Galactic Zone]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Kiddie Kingdom
 
 ![Print at Home - Kiddie Kingdom](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-print-at-home-kiddie-kingdom-fallout-wasteland-warfare-modiphius-entertainment-655651_1280x.jpg)
 
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
-
-| Item           | Purchased | Digital                     |     Downloaded     | Notes |
-| -------------- | :-------: | --------------------------- | :----------------: | ----- |
-| Kiddie Kingdom |           | [Buy :zip:][Kiddie Kingdom] | :heavy_check_mark: |
-
-[Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
 
 ## Blast Off!
 
@@ -1075,10 +1019,6 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   | Purchased | Digital                                                                                                        |     Downloaded     | Notes                                                                                    |
-| ---------------------- | :-------: | -------------------------------------------------------------------------------------------------------------- | :----------------: | ---------------------------------------------------------------------------------------- |
-| Nuka World Parking Lot |           | [Buy :zip:](https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl) | :heavy_check_mark: | [Blog](https://modiphius.net/blogs/news/welcome-wastelanders-to-october-s-falloutfriday) |
-
 ## Bus Stop
 
 ### Large
@@ -1087,14 +1027,14 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| CenterColumn  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Columns       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Railing_Lower | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Railing_Upper | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
-| Roof          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Nuka-World Parking Lot]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [CenterColumn][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Columns][Nuka-World Parking Lot]       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Lower][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Upper][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ### Small
 
@@ -1102,13 +1042,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base_Full     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| Columns       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Railing_Lower | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Railing_Upper | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
-| Roof          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base_Full][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Columns][Nuka-World Parking Lot]       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Lower][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Upper][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ## Lamp Post
 
@@ -1118,13 +1058,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item     | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| -------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Banner   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Base     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| LampBase | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Pole     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Top      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Item                               | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Banner][Nuka-World Parking Lot]   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Base][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LampBase][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Pole][Nuka-World Parking Lot]     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Top][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ### Single
 
@@ -1132,13 +1072,13 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item     | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| -------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Banner   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Base     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| LampBase | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Pole     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| Top      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Item                               | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Banner][Nuka-World Parking Lot]   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Base][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LampBase][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Pole][Nuka-World Parking Lot]     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Top][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Bench
 
@@ -1146,10 +1086,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item  | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ----- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Base  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| Bench | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| Item                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Base][Nuka-World Parking Lot]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Bench][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Map
 
@@ -1157,16 +1097,16 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Bottom                 | 7        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_DryRockGulch       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_GalacticZone       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_KiddieKingdom      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_NukaTownUSA        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_ParkMap            | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_SafariAdventure    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| Top_WorldOfRefreshment | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| Item                                             | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bottom][Nuka-World Parking Lot]                 | 7        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_DryRockGulch][Nuka-World Parking Lot]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_GalacticZone][Nuka-World Parking Lot]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_KiddieKingdom][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_NukaTownUSA][Nuka-World Parking Lot]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_ParkMap][Nuka-World Parking Lot]            | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_SafariAdventure][Nuka-World Parking Lot]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_WorldOfRefreshment][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Trash Can
 
@@ -1176,10 +1116,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item      | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| TrashBin  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| TrashPile | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| Item                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [TrashBin][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [TrashPile][Nuka-World Parking Lot] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Trash Can 2
 
@@ -1187,10 +1127,10 @@ There is also a sampler containing some of the items from the bundle:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item      | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| TrashBin  | 1        | [eSun ABS+ (Brown)]   |      |      |        |      |   :x:   |
-| TrashPile | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| Item                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [TrashBin][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Brown)]   |      |      |        |      |   :x:   |
+| [TrashPile][Nuka-World Parking Lot] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 # Vehicles
 
@@ -1205,28 +1145,28 @@ The `Nuka world Parking Lot` comes with:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Back              | 1        |          |      |      |        |      |   :x:   |
-| Bench             | 4        |          |      |      |        |      |   :x:   |
-| Body_Peg          | 4        |          |      |      |        |      |   :x:   |
-| Damaged_Roof_Back | 1        |          |      |      |        |      |   :x:   |
-| Damaged_Struts_02 | 1        |          |      |      |        |      |   :x:   |
-| Damaged_Struts    | 1        |          |      |      |        |      |   :x:   |
-| Damaged           | 1        |          |      |      |        |      |   :x:   |
-| Door_Top          | 1        |          |      |      |        |      |   :x:   |
-| Door              | 1        |          |      |      |        |      |   :x:   |
-| Drivers_Chair     | 1        |          |      |      |        |      |   :x:   |
-| Front_Bumper      | 1        |          |      |      |        |      |   :x:   |
-| Front             | 1        |          |      |      |        |      |   :x:   |
-| Mirror_L          | 1        |          |      |      |        |      |   :x:   |
-| Mirror_R          | 1        |          |      |      |        |      |   :x:   |
-| Roof_Back         | 1        |          |      |      |        |      |   :x:   |
-| Roof_Front        | 1        |          |      |      |        |      |   :x:   |
-| Roof_Light_L      | 1        |          |      |      |        |      |   :x:   |
-| Roof_Light_R      | 1        |          |      |      |        |      |   :x:   |
-| Steering_Wheel    | 1        |          |      |      |        |      |   :x:   |
-| Window            | 1        |          |      |      |        |      |   :x:   |
+| Item                                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Back][Nuka-World Parking Lot]              | 1        |          |      |      |        |      |   :x:   |
+| [Bench][Nuka-World Parking Lot]             | 4        |          |      |      |        |      |   :x:   |
+| [Body_Peg][Nuka-World Parking Lot]          | 4        |          |      |      |        |      |   :x:   |
+| [Damaged_Roof_Back][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
+| [Damaged_Struts_02][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
+| [Damaged_Struts][Nuka-World Parking Lot]    | 1        |          |      |      |        |      |   :x:   |
+| [Damaged][Nuka-World Parking Lot]           | 1        |          |      |      |        |      |   :x:   |
+| [Door_Top][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
+| [Door][Nuka-World Parking Lot]              | 1        |          |      |      |        |      |   :x:   |
+| [Drivers_Chair][Nuka-World Parking Lot]     | 1        |          |      |      |        |      |   :x:   |
+| [Front_Bumper][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| [Front][Nuka-World Parking Lot]             | 1        |          |      |      |        |      |   :x:   |
+| [Mirror_L][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
+| [Mirror_R][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Back][Nuka-World Parking Lot]         | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Front][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Light_L][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Light_R][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| [Steering_Wheel][Nuka-World Parking Lot]    | 1        |          |      |      |        |      |   :x:   |
+| [Window][Nuka-World Parking Lot]            | 1        |          |      |      |        |      |   :x:   |
 
 ## Pickup Truck
 
@@ -1234,18 +1174,18 @@ The `Nuka world Parking Lot` comes with:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| Bed           | 1        |          |      |      |        |      |   :x:   |
-| Chassis       | 1        |          |      |      |        |      |   :x:   |
-| Door_L        | 1        |          |      |      |        |      |   :x:   |
-| Door_R        | 1        |          |      |      |        |      |   :x:   |
-| Mirror_L      | 1        |          |      |      |        |      |   :x:   |
-| Mirror_R      | 1        |          |      |      |        |      |   :x:   |
-| Roof          | 1        |          |      |      |        |      |   :x:   |
-| Seat          | 1        |          |      |      |        |      |   :x:   |
-| SteeringWheel | 1        |          |      |      |        |      |   :x:   |
-| TailGate      | 1        |          |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bed][Nuka-World Parking Lot]           | 1        |          |      |      |        |      |   :x:   |
+| [Chassis][Nuka-World Parking Lot]       | 1        |          |      |      |        |      |   :x:   |
+| [Door_L][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
+| [Door_R][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
+| [Mirror_L][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| [Mirror_R][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
+| [Seat][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
+| [SteeringWheel][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
+| [TailGate][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
 
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
@@ -1256,3 +1196,16 @@ The `Nuka world Parking Lot` comes with:
 [eSun ABS+ (Pine Green)]: printer-filament#esun-abs-pine-green
 [eSun ABS+ (Red)]: printer-filament#esun-abs-red
 [Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
+[Related Links]: #
+[Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
+[Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
+[Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
+[Cacti Stands]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands
+[Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
+[Dry Rock Gulch Buildings]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings
+[Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
+[Graveyard]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard
+[Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
+[Nuka-World Parking Lot]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl
+[Stingwing Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-stingwing-nests
+[Wrecked Rollercoaster]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wrecked-rollercoaster

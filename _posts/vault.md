@@ -31,8 +31,6 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault) that can be used for inspiration.
 
-A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
-
 # Minatures
 
 ## Vault-Tec Poster Girl
@@ -40,12 +38,6 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 ![Vault-Tec Poster Girl](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl-fallout-wasteland-warfare-modiphius-entertainment-315228_1280x.jpg)
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                                                                          |     Purchased      | Digital                     |     Downloaded     | Notes                                                                                   |
-| ----------------------------------------------------------------------------- | :----------------: | --------------------------- | :----------------: | --------------------------------------------------------------------------------------- |
-| [Vault-Tec Poster Girl](https://only-games.co/products/vault-tec-poster-girl) | :heavy_check_mark: | [Buy :zip:][Vault Tec Girl] | :heavy_check_mark: | [Pre-Colored Version](https://only-games.co/products/vault-tec-poster-girl-pre-colored) |
-
-[Vault Tec Girl]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl
 
 ### Assembly
 
@@ -683,12 +675,6 @@ I will use elements from all of these to create my own version of Vault 88 from 
 
 # Vehicles
 
-| Item                | Purchased | Digital                          |     Downloaded     | Notes |
-| ------------------- | :-------: | -------------------------------- | :----------------: | ----- |
-| Industrial Vehicles |           | [Buy :zip:][Industrial Vehicles] | :heavy_check_mark: |
-
-[Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
-
 ## Forklift
 
 ![Forklift Front](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-450744_1280x.jpg)
@@ -797,3 +783,6 @@ I will use elements from all of these to create my own version of Vault 88 from 
 [eSun PLA (Wood)]: printer-filament#esun-pla-wood
 [Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
 [Tinmorry PLA (Matte Brick Red)]: printer-filament#tinmorry-pla-matte-brick-red
+[Related Links]: #
+[Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
+[Vault Tec Girl]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl

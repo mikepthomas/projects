@@ -29,17 +29,7 @@ Modiphius has released multiple `Print at Home` STL packs that can be used to re
 
 Although the `Print at Home` terrain is designed to be printed on a Resin printer there has been some success at [printing them on a regular 3D printer](https://modiphius.net/blogs/news/community-interview).
 
-I will use elements from all sets to create my own version of Sanctuary Hills from Fallout 4.
-
-A tick in the `Purchased` column means that I have the Physical item and the `Downloaded` column means that I have saved the Digital item.
-
 # Sanctuary Hills House
-
-| Item                  | Purchased | Digital                            |     Downloaded     | Released      | Notes |
-| --------------------- | :-------: | ---------------------------------- | :----------------: | ------------- | ----- |
-| Sanctuary Hills House |           | [Buy :zip:][Sanctuary Hills House] | :heavy_check_mark: | February 2021 |
-
-[Sanctuary Hills House]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl
 
 ## Walls
 
@@ -237,12 +227,6 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item             | Purchased | Digital                       |     Downloaded     | Released                                                                 | Notes |
-| ---------------- | :-------: | ----------------------------- | :----------------: | ------------------------------------------------------------------------ | ----- |
-| Settlement Walls |           | [Buy :zip:][Settlement Walls] | :heavy_check_mark: | [March 2022](https://modiphius.net/blogs/news/fallout-friday-march-2022) |
-
-[Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
-
 ## Gate
 
 | Item                                  | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
@@ -273,12 +257,6 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | [Spike_Strip_03][Settlement Walls] | 1        | [eSun PLA (Wood)] |      |      |        |      |   :x:   |
 
 # Vehicles
-
-| Item                | Purchased | Digital                          |     Downloaded     | Released     | Notes |
-| ------------------- | :-------: | -------------------------------- | :----------------: | ------------ | ----- |
-| Commercial Vehicles |           | [Buy :zip:][Commercial Vehicles] | :heavy_check_mark: | January 2026 |
-
-[Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 
 ## Fusion Flea
 
@@ -386,3 +364,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 [eSun ABS+ (Natural)]: printer-filament#esun-abs-natural
 [eSun PLA (Wood)]: printer-filament#esun-pla-wood
 [Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
+[Related Links]: #
+[Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
+[Sanctuary Hills House]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-sanctuary-house-stl
+[Settlement Walls]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-settlement-walls
