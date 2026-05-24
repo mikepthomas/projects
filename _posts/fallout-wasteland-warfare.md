@@ -39,20 +39,6 @@ There are many items available for the [Modiphius Fallout Games](https://modiphi
 
 Due to the abscence of a Buyer's Guide, I have created this page to try to understand the links between items so that I know what to purchase and as a place to track the items I am either interested in or own.
 
-[Press Releases (Archived)]: #
-[PR 01/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-fallout-wasteland-warfare-rpg-launches-in-print
-[PR 06/08/19]: https://modiphius.net/blogs/press-releases-archived/liberty-prime-stomps-in-for-a-special-order
-[PR 12/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-modiphius-launches-fallout-raiders-packs-plus-nuka-cola-girl-zetan-unleashed
-[Press Releases]: #
-[PR 20/03/24]: https://modiphius.net/blogs/press-releases/modiphius-new-fallout-miniatures-game-available-to-pre-order
-[PR 12/02/25]: https://modiphius.net/blogs/press-releases/more-titles-coming-to-the-fallout-tabletop-rpg
-[PR 28/02/25]: https://modiphius.net/blogs/press-releases/new-core-rulebook-for-fallout-factions-now-available-for-pre-order
-[PR 02/06/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-a-second-edition-of-fallout-wasteland-warfare
-[PR 01/10/25]: https://modiphius.net/blogs/press-releases/fallout-the-roleplaying-game-royal-flush-available-for-pre-order
-[PR 02/10/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-second-fallout-factions-starter-set
-[PR 09/02/26]: https://modiphius.net/blogs/press-releases/solo-fallout-rpg-wasteland-wanderer-now-available-for-pre-order
-[PR 04/03/26]: https://modiphius.net/blogs/press-releases/modiphius-reveals-products-for-second-edition-of-fallout-wasteland-warfare
-
 # Fallout: Wasteland Warfare
 
 `Fallout: Wasteland Warfare` is a tabletop miniatures wargame for the Fallout Series.
@@ -398,6 +384,9 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 [DEVELOPMENT BLOG #27]: https://modiphius.net/blogs/news/wave-2-document-updates
 [DEVELOPMENT BLOG #28]: https://modiphius.net/blogs/news/he-is-more-machine-now-than-man
 [Blog: The Raiders are here!]: https://modiphius.net/blogs/news/the-raiders-are-here 'Same content as DEVELOPMENT BLOG #25'
+[Press Releases]: #
+[PR 06/08/19]: https://modiphius.net/blogs/press-releases-archived/liberty-prime-stomps-in-for-a-special-order
+[PR 12/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-modiphius-launches-fallout-raiders-packs-plus-nuka-cola-girl-zetan-unleashed
 
 ### Rules
 
@@ -706,8 +695,8 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 [Blog App Launch]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-app-launches
 [Blog App Phone]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-now-on-your-phone
 [FF 16/10/20]: https://modiphius.net/blogs/news/the-undiscovered-vault-fallout-fridays
-[Blog Into The Wasteland 1]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
-[Blog Into The Wasteland 2]: https://modiphius.net/blogs/news/into-the-wasteland-part-two
+[Blog Into the Wasteland 1]: https://modiphius.net/blogs/news/fallout-into-the-wasteland-revealed
+[Blog Into the Wasteland 2]: https://modiphius.net/blogs/news/into-the-wasteland-part-two
 [FF 13/11/20]: https://modiphius.net/blogs/news/fallout-friday-and-into-the-wasteland
 [Blog Eyes On The Wasteland]: https://modiphius.net/blogs/news/eyes-on-the-wasteland
 [FF 20/11/20]: https://modiphius.net/blogs/news/falloutfriday-feedback
@@ -1554,7 +1543,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Standard
 
-| Item              | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| Item              | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
 | ----------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
 | [AI :pdf:]        | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
 | [Reference :pdf:] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
@@ -1567,7 +1556,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Mini European
 
-| Item                 | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into The Wasteland | Quantity |
+| Item                 | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
 | -------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
 | [Chems :pdf:]        | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
 | [Equipment :pdf:]    | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
@@ -1613,11 +1602,15 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | Date       | Blog                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | 01/05/2019 | [Fallout: Wasteland Warfare RPG - Spotlight on what's new][FWW RPG Spotlight]             |
+| 01/08/2019 | [Press Release: Fallout Wasteland Warfare RPG launches in print][PR 01/08/19]             |
 | 15/08/2019 | [Fallout: Wasteland Warfare - Synergy between the RPG & miniatures game][FWW RPG Synergy] |
 
+[Blogs]: #
 [FWW RPG Spotlight]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-rpg-spotlight-on-whats-new 'Same content as DEVELOPMENT BLOG #22'
 [FWW RPG Synergy]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-synergy-between-the-rpg-miniatures-game 'Same content as DEVELOPMENT BLOG #23'
 [FWW RPG Unexpected Shepherd 1]: https://modiphius.net/blogs/news/the-unexpected-shepherd-solo-roleplaying-in-the-wasteland-introduction
+[Press Releases]: #
+[PR 01/08/19]: https://modiphius.net/blogs/press-releases-archived/press-release-fallout-wasteland-warfare-rpg-launches-in-print
 
 ## Items
 
@@ -1676,6 +1669,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 # Fallout: The Roleplaying Game (2d20)
 
 `Fallout: The Roleplaying Game` is a tabletop role-playing game which uses a version of Modiphius' 2d20 tabletop system.
+
+[Press Releases]: #
+[PR 12/02/25]: https://modiphius.net/blogs/press-releases/more-titles-coming-to-the-fallout-tabletop-rpg
+[PR 01/10/25]: https://modiphius.net/blogs/press-releases/fallout-the-roleplaying-game-royal-flush-available-for-pre-order
 
 [Fallout 2D20 - Behind the Scenes Developer Chat Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd1M_1hkL_iLk5QT1y59EtpS)
 
@@ -1876,6 +1873,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Factions Get You By 2]: https://modiphius.net/blogs/news/fallout-factions-get-you-by-lists
 [Factions Errata]: https://modiphius.net/blogs/news/errata-v4
 [Factions COMP]: https://modiphius.net/blogs/news/c-o-m-p-v2-update
+[Press Releases]: #
+[PR 20/03/24]: https://modiphius.net/blogs/press-releases/modiphius-new-fallout-miniatures-game-available-to-pre-order
+[PR 28/02/25]: https://modiphius.net/blogs/press-releases/new-core-rulebook-for-fallout-factions-now-available-for-pre-order
+[PR 02/10/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-second-fallout-factions-starter-set
 
 ## Rules
 
@@ -2020,6 +2021,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 `Fallout: Wasteland Wanderer` is a solo roleplaying game adapted from `Fallout: The Roleplaying Game` to play original Fallout stories with characters of your own creation.
 
+[Press Releases]: #
+[PR 09/02/26]: https://modiphius.net/blogs/press-releases/solo-fallout-rpg-wasteland-wanderer-now-available-for-pre-order
+
 [Fallout Solo RPG - How to Create a Character for Wasteland Wanderer! Video](https://www.youtube-nocookie.com/embed/oS7opd-cKGg)
 
 > Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
@@ -2042,6 +2046,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 # Fallout: Wasteland Warfare (New Edition)
 
 The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
+
+[Press Releases]: #
+[PR 02/06/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-a-second-edition-of-fallout-wasteland-warfare
+[PR 04/03/26]: https://modiphius.net/blogs/press-releases/modiphius-reveals-products-for-second-edition-of-fallout-wasteland-warfare
 
 ## Development
 
