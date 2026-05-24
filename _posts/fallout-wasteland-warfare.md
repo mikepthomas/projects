@@ -1648,12 +1648,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Scenarios
 
-| Item                           | Purchased | Digital                            |     Downloaded     | Released                                        | Notes |
-| ------------------------------ | :-------: | ---------------------------------- | :----------------: | ----------------------------------------------- | ----- |
-| Machine Frequency              |           | [Buy :pdf:][Machine Frequency]     | :heavy_check_mark: | October 2020                                    |
-| The Unexpected Shepherd Part 1 |           | [Buy :pdf:][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
-| The Unexpected Shepherd Part 2 |           | [Buy :pdf:][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
-| The Unexpected Shepherd Part 3 |           | [Buy :pdf:][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
+| Item                                             | Purchased | Digital                            |     Downloaded     | Released                                        | Notes |
+| ------------------------------------------------ | :-------: | ---------------------------------- | :----------------: | ----------------------------------------------- | ----- |
+| Machine Frequency                                |           | [Buy :pdf:][Machine Frequency]     | :heavy_check_mark: | October 2020                                    |
+| The Unexpected Shepherd Part 1: Protection Order |           | [Buy :pdf:][Unexpected Shepherd 1] | :heavy_check_mark: | [September 2020][FWW RPG Unexpected Shepherd 1] |
+| The Unexpected Shepherd Part 2: Dangerous Trails |           | [Buy :pdf:][Unexpected Shepherd 2] | :heavy_check_mark: | [August 2022][FF 12/08/22]                      |
+| The Unexpected Shepherd Part 3: Battle Station   |           | [Buy :pdf:][Unexpected Shepherd 3] | :heavy_check_mark: | [September 2022][FF 09/09/22]                   |
 
 [Machine Frequency]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-machine-frequency
 [Unexpected Shepherd 1]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-the-unexpected-shepherd
