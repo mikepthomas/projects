@@ -48,26 +48,6 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 
 # Vault STL Bundle
 
-The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
-
-| Item                          | Purchased | Digital                                    |     Downloaded     | Notes |
-| ----------------------------- | :-------: | ------------------------------------------ | :----------------: | ----- |
-| Vault Design Starter Pack     |           | [Buy :zip:][Vault Design Starter Pack]     | :heavy_check_mark: |
-| Vault Walls Upgrade Pack      |           | [Buy :zip:][Vault Walls Upgrade Pack]      | :heavy_check_mark: |
-| Vault Flooring Pack           |           | [Buy :zip:][Vault Flooring Pack]           | :heavy_check_mark: |
-| Vault Atrium Pack             |           | [Buy :zip:][Vault Atrium Pack]             | :heavy_check_mark: |
-| Vault Interior Themed Scatter |           | [Buy :zip:][Vault Interior Themed Scatter] | :heavy_check_mark: |
-| Vault Tec Office Bundle       |           | [Buy :zip:][Vault Tec Office Bundle]       | :heavy_check_mark: |
-
-[Vault Design Starter Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl
-[Vault Walls Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl
-[Vault Flooring Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl
-[Vault Atrium Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl
-[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
-[Vault Tec Office Bundle]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl
-
-I will use elements from all of these to create my own version of Vault 88 from Fallout 4.
-
 ## Vault Design Starter Pack
 
 ![Vault Design Starter Pack](https://modiphius.net/cdn/shop/products/FO_PAHScenery_Vault_Wave01_Image1_1280x.jpg)
@@ -785,4 +765,10 @@ I will use elements from all of these to create my own version of Vault 88 from 
 [Tinmorry PLA (Matte Brick Red)]: printer-filament#tinmorry-pla-matte-brick-red
 [Related Links]: #
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
+[Vault Design Starter Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl
+[Vault Walls Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl
+[Vault Flooring Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl
+[Vault Atrium Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl
+[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 [Vault Tec Girl]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-girl-stl
+[Vault Tec Office Bundle]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl

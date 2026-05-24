@@ -483,20 +483,19 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                     |     Purchased      | Digital                        |     Downloaded     | Released    | Notes                                                                                        |
-| ------------------------ | :----------------: | ------------------------------ | :----------------: | ----------- | -------------------------------------------------------------------------------------------- |
-| [Boston Searchables]     |        :x:         | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle) |
+| Item                     |     Purchased      | Digital                        |     Downloaded     | Released    | Notes                                                        |
+| ------------------------ | :----------------: | ------------------------------ | :----------------: | ----------- | ------------------------------------------------------------ |
+| [Boston Searchables]     |        :x:         | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2019 | `Safe` & `Deskside Cabinet` in the [Vault-Tec Office Bundle] |
 | [Boston Street Scatter]  |        :x:         | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2019 |
 | [Cases and Crates]       | :heavy_check_mark: | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2019 |
-| [Nuka Cola Machines]     |        :x:         | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]                                                                     |
-| [Radioactive Containers] | :heavy_check_mark: | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]                                                                     |
+| [Nuka Cola Machines]     |        :x:         | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]                                     |
+| [Radioactive Containers] | :heavy_check_mark: | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]                                     |
 
 [Boston Searchables]: https://modiphius.net/products/fallout-wasteland-warfare-boston-searchables
 [Boston Street Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-boston-street-scatter
 [Cases and Crates]: https://modiphius.net/products/fallout-wasteland-warfare-cases-and-crates
 [Nuka Cola Machines]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-nuka-cola-machines
 [Radioactive Containers]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-radioactive-containers
-[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 
 #### Vault-Tec Office
 
@@ -504,14 +503,12 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-Similar items available in the [Vault-Tec Office Bundle](vault#vault-tech-office-bundle)
-
-| Item                 | Purchased | Digital | Downloaded | Released    | Notes                    |
-| -------------------- | :-------: | ------- | :--------: | ----------- | ------------------------ |
-| [Heavy Consoles]     |    :x:    |         |            | April 2019  | [Scenic Set Cards :pdf:] |
-| [Terminals]          |    :x:    |         |            | August 2019 | [Scenic Set Cards :pdf:] |
-| [Vault-Tec Lockers]  |    :x:    |         |            | August 2019 |
-| [Vault-Tec Supplies] |    :x:    |         |            | April 2019  |
+| Item                 | Purchased | Digital                              |     Downloaded     | Released    | Notes                    |
+| -------------------- | :-------: | ------------------------------------ | :----------------: | ----------- | ------------------------ |
+| [Heavy Consoles]     |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:] |
+| [Terminals]          |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 | [Scenic Set Cards :pdf:] |
+| [Vault-Tec Lockers]  |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 |
+| [Vault-Tec Supplies] |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  |
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals
@@ -656,17 +653,41 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Purchased | Digital                       |     Downloaded     | Released      | Notes |
-| ------------------------- | :-------: | ----------------------------- | :----------------: | ------------- | ----- |
-| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird] | :heavy_check_mark: | April 2020    |
-| Pre-war APC               |           | [Buy :zip:][Pre-war APC]      | :heavy_check_mark: | November 2020 |
-| [Settlement Work Benches] |    :x:    |                               |                    |               |
-| Tank                      |           | [Buy :zip:][Tank]             |        :x:         |               |
+| Item                      | Purchased | Digital                        |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | ------------------------------ | :----------------: | ------------- | ----- |
+| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird]  | :heavy_check_mark: | April 2020    |
+| Pre-war APC               |           | [Buy :zip:][Pre-war APC]       | :heavy_check_mark: | November 2020 |
+| [Settlement Work Benches] |    :x:    |                                |                    |               |
+| Streets of Boston         |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2020   |
+| Tank                      |           | [Buy :zip:][Tank]              |        :x:         |               |
 
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
 [Settlement Work Benches]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-settlement-work-benches
+[Streets of Boston]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-streets-of-boston
 [Tank]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl
+
+#### Vault-Tec Vault
+
+The [Vault STL Bundle](https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-3d-vault-stl-bundle) contains 6 sets of STLs:
+
+| Item                          | Purchased | Digital                                    |     Downloaded     | Released    | Notes |
+| ----------------------------- | :-------: | ------------------------------------------ | :----------------: | ----------- | ----- |
+| Vault Design Starter Pack     |           | [Buy :zip:][Vault Design Starter Pack]     | :heavy_check_mark: | August 2020 |
+| Vault Walls Upgrade Pack      |           | [Buy :zip:][Vault Walls Upgrade Pack]      | :heavy_check_mark: | August 2020 |
+| Vault Flooring Pack           |           | [Buy :zip:][Vault Flooring Pack]           | :heavy_check_mark: | August 2020 |
+| Vault Atrium Pack             |           | [Buy :zip:][Vault Atrium Pack]             | :heavy_check_mark: | August 2020 |
+| Vault Interior Themed Scatter |           | [Buy :zip:][Vault Interior Themed Scatter] | :heavy_check_mark: | August 2020 |
+| Vault Tec Office Bundle       |           | [Buy :zip:][Vault-Tec Office Bundle]       | :heavy_check_mark: | August 2020 |
+
+[Vault Design Starter Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-design-starter-pack-stl
+[Vault Walls Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-vault-walls-upgrade-pack-stl
+[Vault Flooring Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-flooring-pack-stl
+[Vault Atrium Pack]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-atrium-pack-stl
+[Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
+[Vault-Tec Office Bundle]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-vault-tec-office-bundle-stl
+
+I will use elements from all of these to create my own version of [Vault 88](vault) from Fallout 4.
 
 ### Scenarios
 
