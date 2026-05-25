@@ -1261,6 +1261,96 @@ The `Nuka world Parking Lot` comes with:
 | [Top-Piece][Corvega Sedan]        | 1        |          |      |      |        |      |   :x:   |
 | [Wheel][Corvega Sedan]            | 1        |          |      |      |        |      |   :x:   |
 
+## Flatbed Truck
+
+### Truck Cab
+
+![Truck Trailer (Box)](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-flatbed-truck-fallout-wasteland-warfare-modiphius-entertainment-894696_1280x.jpg)
+
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [BackEnd][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Body][Flatbed Truck]             | 1        |          |      |      |        |      |   :x:   |
+| [Bumper][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
+| [Dashboard][Flatbed Truck]        | 1        |          |      |      |        |      |   :x:   |
+| [Door_L][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
+| [Door_R][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
+| [Fender_L][Flatbed Truck]         | 1        |          |      |      |        |      |   :x:   |
+| [Fender_R][Flatbed Truck]         | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_Rear_01][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_Rear_02][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [Front_Suspension][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [Fuel_Tank_L][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
+| [Fuel_Tank_R][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
+| [Roof][Flatbed Truck]             | 1        |          |      |      |        |      |   :x:   |
+| [Seat_01][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Seat_02][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Side_Mirror_L][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Side_Mirror_R][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Steering_Wheel][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
+| [Step_L][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
+| [Step_R][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
+| [Tire_01][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Tire_02][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Tire_03][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Tire_04][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Tire_05][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| [Tire_06][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+
+### Truck Trailer
+
+#### Box
+
+![Truck Trailer (Box)](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-flatbed-truck-fallout-wasteland-warfare-modiphius-entertainment-262796_1280x.jpg)
+
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Axle_01][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
+| [Axle_02][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
+| [Body_BackEnd][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [Body_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
+| [Body_Middle][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_01][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_02][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
+| [Ladder_01][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Ladder_02][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [RollUpDoor][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
+| [Roof_BackEnd][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
+| [Roof_Middle][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
+| [Stand][Flatbed Truck]        | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_01][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_02][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_03][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_04][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+
+#### Flatbed
+
+![Truck Trailer (Flatbed)](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-flatbed-truck-fallout-wasteland-warfare-modiphius-entertainment-724682_1280x.jpg)
+
+> Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                         | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Axle_01][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [Axle_02][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [BackEnd][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_01][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [FlatTire_02][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
+| [Front][Flatbed Truck]       | 1        |          |      |      |        |      |   :x:   |
+| [Ladders][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| [Middle][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
+| [Stand][Flatbed Truck]       | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_01][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_02][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_03][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| [Wheel_04][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
@@ -1273,13 +1363,14 @@ The `Nuka world Parking Lot` comes with:
 [Related Links]: #
 [Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
 [Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
-[Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
-[Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
-[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
 [Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
 [Cacti Stands]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands
+[Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
+[Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
 [Dry Rock Gulch Buildings]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-dry-rock-gulch-buildings
+[Flatbed Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
 [Graveyard]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-graveyard
 [Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
