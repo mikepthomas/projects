@@ -1187,6 +1187,80 @@ The `Nuka world Parking Lot` comes with:
 | [SteeringWheel][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
 | [TailGate][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
 
+## Chryslus Rocket
+
+![Chryslus Rocket](http://dl2.myminifactory.com/object-assets/5fad4a32c00de/images/720X720-FWW_PAH_ChryslusRocket_Front.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+### Single Piece
+
+| Item                                                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Chryslus_Rocket_CONSOLIDATED_STLFile][Chryslus Rocket] | 1        |          |      |      |        |      |   :x:   |
+
+## Corvega Coupe
+
+![Corvega Coupe](https://modiphius.net/cdn/shop/products/FO__Promo_Coupe_Front_Low-Res_1280x.jpg)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
+
+### Single Piece
+
+| Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [SOLIDCoupe][Corvega Coupe] | 1        |          |      |      |        |      |   :x:   |
+
+### Two Piece
+
+| Item                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bottom][Corvega Coupe] | 1        |          |      |      |        |      |   :x:   |
+| [Top][Corvega Coupe]    | 1        |          |      |      |        |      |   :x:   |
+
+## Corvega Sedan
+
+![Corvega Sedan](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan-fallout-wasteland-warfare-modiphius-entertainment-501929_1280x.jpg)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
+### Single Piece
+
+| Item                      | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [INTACT][Corvega Sedan]   | 1        |          |      |      |        |      |   :x:   |
+| [NO_TIRES][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
+
+### Two Piece
+
+| Item                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Bottom][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
+| [Top][Corvega Sedan]    | 1        |          |      |      |        |      |   :x:   |
+
+### Interior Detail
+
+![Corvega Sedan Exploded](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan-fallout-wasteland-warfare-modiphius-entertainment-522917_1280x.jpg)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [4xRims][Corvega Sedan]           | 1        |          |      |      |        |      |   :x:   |
+| [4xTires][Corvega Sedan]          | 1        |          |      |      |        |      |   :x:   |
+| [Bottom-Piece][Corvega Sedan]     | 1        |          |      |      |        |      |   :x:   |
+| [Door-Back-Left][Corvega Sedan]   | 1        |          |      |      |        |      |   :x:   |
+| [Door-Back-Right][Corvega Sedan]  | 1        |          |      |      |        |      |   :x:   |
+| [Door-Front-Left][Corvega Sedan]  | 1        |          |      |      |        |      |   :x:   |
+| [Door-Front-Right][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
+| [Interior][Corvega Sedan]         | 1        |          |      |      |        |      |   :x:   |
+| [Mirror-Left][Corvega Sedan]      | 1        |          |      |      |        |      |   :x:   |
+| [Mirror-Right][Corvega Sedan]     | 1        |          |      |      |        |      |   :x:   |
+| [Rim][Corvega Sedan]              | 4        |          |      |      |        |      |   :x:   |
+| [Tire][Corvega Sedan]             | 4        |          |      |      |        |      |   :x:   |
+| [Top-Piece][Corvega Sedan]        | 1        |          |      |      |        |      |   :x:   |
+| [Wheel][Corvega Sedan]            | 1        |          |      |      |        |      |   :x:   |
+
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
@@ -1199,6 +1273,9 @@ The `Nuka world Parking Lot` comes with:
 [Related Links]: #
 [Ant Nests]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-ant-nests
 [Barrels Crates and Coffins]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-barrels-crates-and-coffins
+[Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
+[Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
+[Corvega Sedan]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-corvega-atomic-v8-sedan
 [Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
 [Cacti Stands]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cacti-stands
 [Cola Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
