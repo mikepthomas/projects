@@ -1263,6 +1263,8 @@ The `Nuka world Parking Lot` comes with:
 
 ## Flatbed Truck
 
+[Sean Bullough Assembly Guide](https://seanharrison.artstation.com/projects/Le9dLk)
+
 ### Truck Cab
 
 ![Truck Trailer (Box)](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-flatbed-truck-fallout-wasteland-warfare-modiphius-entertainment-894696_1280x.jpg)

@@ -256,6 +256,8 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 # Drive Thru
 
+[Sean Bullough Assembly Guide](https://seanharrison.artstation.com/projects/BXznzz)
+
 ![Red Rocket Drive Thru](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru-fallout-wasteland-warfare-modiphius-entertainment-101856_1280x.jpg)
 
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)

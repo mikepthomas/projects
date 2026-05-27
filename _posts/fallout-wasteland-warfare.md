@@ -973,11 +973,15 @@ There is also a sampler containing some of the items from the bundle:
 
 #### Nuka-World Parking Lot
 
-| Item                   | Purchased | Digital                             |     Downloaded     | Released                    | Notes |
-| ---------------------- | :-------: | ----------------------------------- | :----------------: | --------------------------- | ----- |
+| Item                   | Purchased | Digital                             |     Downloaded     | Released                    | Notes                                  |
+| ---------------------- | :-------: | ----------------------------------- | :----------------: | --------------------------- | -------------------------------------- |
 | Nuka-World Parking Lot |           | [Buy :zip:][Nuka-World Parking Lot] | :heavy_check_mark: | [October 2021][FF 15/10/21] |
+| ┝ Boston Bus           |           | [Buy :zip:][Boston Bus]             | :heavy_check_mark: | [October 2021][FF 15/10/21] | Included with `Nuka-World Parking Lot` |
+| ┕ Pick-R-Up Truck      |           | [Buy :zip:][Pick-R-Up Truck]        | :heavy_check_mark: | [October 2021][FF 15/10/21] | Included with `Nuka-World Parking Lot` |
 
+[Boston Bus]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-boston-bus-stl
 [Nuka-World Parking Lot]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-nuka-world-parking-lot-stl
+[Pick-R-Up Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-pick-r-up-truck-stl
 
 ### Scenarios
 
@@ -1045,11 +1049,11 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Scatter
 
-| Item                            | Purchased | Digital                            |     Downloaded     | Released                      | Notes |
-| ------------------------------- | :-------: | ---------------------------------- | :----------------: | ----------------------------- | ----- |
-| Brotherhood of Steel Encampment |           | [Buy :zip:][BoS Encampment]        | :heavy_check_mark: | [August 2022][FF 12/08/22]    |
+| Item                            | Purchased | Digital                            |     Downloaded     | Released                      | Notes                          |
+| ------------------------------- | :-------: | ---------------------------------- | :----------------: | ----------------------------- | ------------------------------ |
+| Brotherhood of Steel Encampment |           | [Buy :zip:][BoS Encampment]        | :heavy_check_mark: | [August 2022][FF 12/08/22]    | [Jeep Assembly Guide]          |
 | Chems, Meds and Food            |           | [Buy :zip:][Chems Meds and Food]   | :heavy_check_mark: | [June 2022][FF 10/06/22]      |
-| Flatbed Truck                   |           | [Buy :zip:][Flatbed Truck]         | :heavy_check_mark: | [May 2022][FF 13/05/22]       |
+| Flatbed Truck                   |           | [Buy :zip:][Flatbed Truck]         | :heavy_check_mark: | [May 2022][FF 13/05/22]       | [Flatbed Truck Assembly Guide] |
 | The Pack: Animal Decor          |           | [Buy :zip:][The Pack Animal Decor] |        :x:         | [April 2022][FF 08/04/22]     |
 | Toys and Bobbleheads            |           | [Buy :zip:][Toys and Bobbleheads]  | :heavy_check_mark: | [July 2022][FF 08/07/22]      |
 | Wasteland Critters              |           | [Buy :zip:][Wasteland Critters]    | :heavy_check_mark: | [September 2022][FF 09/09/22] |
@@ -1057,6 +1061,8 @@ There is also a sampler containing some of the items from the bundle:
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Chems Meds and Food]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-chems-meds-and-food-stl
 [Flatbed Truck]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-flatbed-truck
+[Flatbed Truck Assembly Guide]: https://seanharrison.artstation.com/projects/Le9dLk
+[Jeep Assembly Guide]: https://seanharrison.artstation.com/projects/8wd9Vq
 [The Pack Animal Decor]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-pack-animal-decor
 [Toys and Bobbleheads]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-toys-and-bobbleheads-stl
 [Wasteland Critters]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-wasteland-critters-stl
@@ -1098,12 +1104,13 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Scatter
 
-| Item                  | Purchased | Digital                            |     Downloaded     | Released                     | Notes |
-| --------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | ----- |
-| Red Rocket Drive Thru |           | [Buy :zip:][Red Rocket Drive Thru] | :heavy_check_mark: | [November 2022][FF 11/11/22] |
+| Item                  | Purchased | Digital                            |     Downloaded     | Released                     | Notes                                  |
+| --------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
+| Red Rocket Drive Thru |           | [Buy :zip:][Red Rocket Drive Thru] | :heavy_check_mark: | [November 2022][FF 11/11/22] | [Red Rocket Drive Thru Assembly Guide] |
 | The Deep              |           | [Buy :zip:][The Deep]              |        :x:         | [January 2023][FF 13/01/23]  |
 
 [Red Rocket Drive Thru]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-red-rocket-drive-thru
+[Red Rocket Drive Thru Assembly Guide]: https://seanharrison.artstation.com/projects/BXznzz
 [The Deep]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-the-deep
 
 #### Basing Greebles Bundle
@@ -1182,13 +1189,14 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Scatter
 
-| Item                      | Purchased | Digital                                | Downloaded | Released                 | Notes |
-| ------------------------- | :-------: | -------------------------------------- | :--------: | ------------------------ | ----- |
-| Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     | [May 2023]               |
+| Item                      | Purchased | Digital                                | Downloaded | Released                 | Notes                                      |
+| ------------------------- | :-------: | -------------------------------------- | :--------: | ------------------------ | ------------------------------------------ |
+| Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     | [May 2023]               | [Cult of the Mothman Altar Assembly Guide] |
 | Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     |                          |
 | Metal Dome                |           | [Buy :zip:][Metal Dome]                |    :x:     | [June 2023][FF 09/06/23] |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
+[Cult of the Mothman Altar Assembly Guide]: https://seanharrison.artstation.com/projects/8bzZzx
 [Meat and Gore]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-meat-and-gore
 [Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
 
