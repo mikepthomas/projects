@@ -131,17 +131,17 @@ keywords:
 | [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]              | [Two Player Starter Set][Wave 1 Rules] |       |
 | [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis] | [Two Player Starter Set][Wave 1 Rules] |       |
 
-#### Aspirant Goddard
+#### Aspirant Goddard Painting Guide
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                              | Own |
 | ------ | ------------------------------------------------------------------------------------------------------------ | :-: |
 | Primer | [Gun Metal Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-gun-metal-cp3025s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item           | Suggested Paint                         | Alternative                                     |        Own         |
 | -------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -154,14 +154,14 @@ keywords:
 | Base           | Warpaints: [Monster Brown]              |                                                 | :heavy_check_mark: |
 | Wood           | Warpaints: [Werewolf Fur]               | Warpaints Fanatic: [Bootstrap Brown]            | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item  | Suggested Paint                 | Alternative                           |        Own         |
 | ----- | ------------------------------- | ------------------------------------- | :----------------: |
 | Model | Warpaints Washes: [Dark Tone]   | Warpaints Fanatic Wash: [Dark Tone]   | :heavy_check_mark: |
 | Base  | Warpaints Washes: [Strong Tone] | Grinning Gargoyle Wash: [Strong Tone] | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item             | Suggested Paint                         | Alternative                                     |        Own         |
 | ---------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -239,19 +239,19 @@ keywords:
 | Tesla Soldier                     | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 | Warrant Officer                   | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
 
-#### Frank Horrigan
+#### Frank Horrigan Painting Guide
 
 [How to paint Frank Horrigan - Fallout: Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/OpSbE7bVI7s)
 
 > Video © 2021 [Duncan Rhodes Painting Academy](https://www.youtube.com/@DuncanRhodesDRPA)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item                                        | Suggested Paint           | Alternative                                     |        Own         |
 | ------------------------------------------- | ------------------------- | ----------------------------------------------- | :----------------: |
@@ -264,7 +264,7 @@ keywords:
 | Deathclaw Body                              | Citadel: Gorthor Brown    | Warpaints Fanatic: [Onyx Skin]                  |        :x:         |
 | Deathclaw Mouth                             | Citadel: Screamer Pink    | Warpaints Fanatic: [Moldy Wine]                 | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item         | Suggested Paint             | Alternative                                |        Own         |
 | ------------ | --------------------------- | ------------------------------------------ | :----------------: |
@@ -273,7 +273,7 @@ keywords:
 | Skin         | Citadel: Biel-Tan Green     | Warpaints Fanatic Washes: [Green Tone]     |        :x:         |
 | Base         | Citadel: Athonian Camoshade | Warpaints Fanatic Washes: [Military Shade] | :heavy_check_mark: |
 
-#### 4. Highlight 1
+##### 4. Highlight 1
 
 | Item                                  | Suggested Paint             | Alternative                                     |        Own         |
 | ------------------------------------- | --------------------------- | ----------------------------------------------- | :----------------: |
@@ -289,7 +289,7 @@ keywords:
 | Deathclaw                             | Citadel: Baneblade Brown    | Grinning Gargoyle: [Monster Brown]              | :heavy_check_mark: |
 | Deathclaw Teeth / Dirt                | Warpaints: [Skeleton Bone]  | Grinning Gargoyle: [Skeleton Bone]              | :heavy_check_mark: |
 
-#### 5. Highlight 2
+##### 5. Highlight 2
 
 | Item            | Suggested Paint                  | Alternative                            |        Own         |
 | --------------- | -------------------------------- | -------------------------------------- | :----------------: |
@@ -459,17 +459,17 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
-#### Raider
+#### Raider Painting Guide
 
 [Faux Hammer Painting Guide](https://www.fauxhammer.com/tutorials/how-to-paint-fallout-raiders-from-wasteland-warfare)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                           |        Own         |
 | ------ | --------------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [White Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-white-cp3002s) | :heavy_check_mark: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item                         | Suggested Paint                    | Alternative                              |        Own         |
 | ---------------------------- | ---------------------------------- | ---------------------------------------- | :----------------: |
@@ -481,7 +481,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Bullets                      | Warpaints Metallics: [Greedy Gold] |                                          | :heavy_check_mark: |
 | Boots                        | Warpaints: [Matt Black]            | Grinning Gargoyle: [Matt Black]          | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item                              | Suggested Paint                 | Alternative                           |        Own         |
 | --------------------------------- | ------------------------------- | ------------------------------------- | :----------------: |
@@ -490,7 +490,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Leather / Bullets                 | Warpaints Washes: [Strong Tone] | Grinning Gargoyle Wash: [Strong Tone] | :heavy_check_mark: |
 | Armor / Boots / Metal / Waistband | Warpaints Washes: [Dark Tone]   | Warpaints Fanatic Wash: [Dark Tone]   | :heavy_check_mark: |
 
-#### 4. Highlight 1
+##### 4. Highlight 1
 
 | Item    | Suggested Paint                         | Alternative                                     |        Own         |
 | ------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -499,7 +499,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Combats | Warpaints: [Elf Green]                  | Warpaints Fanatic: [Woodland Camo]              | :heavy_check_mark: |
 | Metals  | Warpaints Metallics: [Plate Mail Metal] | Grinning Gargoyle Metallics: [Plate Mail Metal] | :heavy_check_mark: |
 
-#### 5. Highlight 2
+##### 5. Highlight 2
 
 | Item           | Suggested Paint                         | Alternative                                     |        Own         |
 | -------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -551,7 +551,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sentry Bot](#sentry-bot) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 | The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
 
-#### Protectron
+#### Protectron Painting Guide
 
 [How to Paint Protectrons From Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/TUXZvzmlLHQ)
 
@@ -559,13 +559,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/6b479163a7) to accompany the video.
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item   | Suggested Paint            | Alternative                       |        Own         |
 | ------ | -------------------------- | --------------------------------- | :----------------: |
@@ -573,14 +573,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base   | Warpaints: [Dungeon Grey]  | Grinning Gargoyle: [Dungeon Grey] | :heavy_check_mark: |
 | Tubing | Warpaints: [Matt Black]    | Grinning Gargoyle: [Matt Black]   | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item  | Suggested Paint                 | Alternative             |        Own         |
 | ----- | ------------------------------- | ----------------------- | :----------------: |
 | Model | AK Interactive: Rust Streaks    | Warpaints: [Dry Rust]   | :heavy_check_mark: |
 | Model | AK Interactive: Streaking Grime | Warpaints: [Oil Stains] |        :x:         |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item                 | Suggested Paint                  | Alternative                              |        Own         |
 | -------------------- | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -589,7 +589,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Hands / Legs / Visor | Warpaints Metallics: [Gun Metal] | Warpaints Fanatic Metallics: [Gun Metal] | :heavy_check_mark: |
 | Bricks               | Warpaints: [Fur Brown]           | Warpaints Fanatic: [Fur Brown]           | :heavy_check_mark: |
 
-#### Sentry Bot
+#### Sentry Bot Painting Guide
 
 [How to Paint The Sentry Bot from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/57X1C-GTEKE)
 
@@ -597,13 +597,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/40c9a4a9a9) to accompany the video.
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Army Green Primer](https://thearmypainter.com/en-nl/products/colour-primers-colour-primer-army-green-cp3005s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item          | Suggested Paint           | Alternative                       |        Own         |
 | ------------- | ------------------------- | --------------------------------- | :----------------: |
@@ -611,14 +611,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base / Metal  | Warpaints: [Dungeon Grey] | Grinning Gargoyle: [Dungeon Grey] | :heavy_check_mark: |
 | Tubing        | Warpaints: [Oak Brown]    |                                   | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item  | Suggested Paint                 | Alternative             |        Own         |
 | ----- | ------------------------------- | ----------------------- | :----------------: |
 | Model | AK Interactive: Rust Streaks    | Warpaints: [Dry Rust]   | :heavy_check_mark: |
 | Model | AK Interactive: Streaking Grime | Warpaints: [Oil Stains] |        :x:         |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item                 | Suggested Paint                  | Alternative                              |        Own         |
 | -------------------- | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -666,17 +666,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Super Mutant Behemoth](#super-mutant-behemoth) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
 | Swan                                            | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |                   |
 
-#### Super Mutant
+#### Super Mutant Painting Guide
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                      | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Leather Brown Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-leather-brown-cp3004s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item        | Suggested Paint                         | Alternative                                     |        Own         |
 | ----------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -685,13 +685,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Ropes       | Warpaints: [Banshee Brown]              | Warpaints Fanatic: [Tomb King Tan]              | :heavy_check_mark: |
 | Base        | Warpaints: [Werewolf Fur]               | Warpaints Fanatic: [Bootstrap Brown]            | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item        | Suggested Paint                 | Alternative                           |        Own         |
 | ----------- | ------------------------------- | ------------------------------------- | :----------------: |
 | Whole Model | Warpaints Washes: [Strong Tone] | Grinning Gargoyle Wash: [Strong Tone] | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item             | Suggested Paint                         | Alternative                                     |        Own         |
 | ---------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -705,7 +705,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Gun              | Warpaints Washes: [Dark Tone]           | Warpaints Fanatic Wash: [Dark Tone]             | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: [Dry Rust]           |                                                 | :heavy_check_mark: |
 
-#### Super Mutant Behemoth
+#### Super Mutant Behemoth Painting Guide
 
 ![How to Paint Super Mutant Behemoth](https://storage.ko-fi.com/cdn/useruploads/display/99d086df-8b7f-4088-a162-437cb16bf94b_behemoth.jpg)
 
@@ -713,13 +713,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/194ea74d67)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item            | Suggested Paint                | Alternative                       |        Own         |
 | --------------- | ------------------------------ | --------------------------------- | :----------------: |
@@ -730,14 +730,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Hydrant Pipe    | Warpaints: [Uniform Grey]      | Warpaints Fanatic: [Uniform Grey] | :heavy_check_mark: |
 | Loincloth       | Warpaints: [Necromancer Cloak] |                                   | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item    | Suggested Paint         | Alternative                          |        Own         |
 | ------- | ----------------------- | ------------------------------------ | :----------------: |
 | Skin    | Citadel: Seraphim Sepia | Warpaints Fanatic Wash: [Sepia Tone] | :heavy_check_mark: |
 | Hydrant | Citadel: Nuln Oil       | Warpaints Fanatic Wash: [Dark Tone]  | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item          | Suggested Paint                  | Alternative                              |        Own         |
 | ------------- | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -803,17 +803,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Sole Survivor Tech](#x-01-survivor) | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
 | X6-88 Courser                        | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
 
-#### Preston Garvey
+#### Preston Garvey Painting Guide
 
 [Modiphius Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item                     | Suggested Paint                  | Alternative                              |        Own         |
 | ------------------------ | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -832,7 +832,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base                     | Warpaints: [Wasteland Soil]      | Warpaints Fanatic: [Moldy Wine]          | :heavy_check_mark: |
 | Base                     | Warpaints: [Werewolf Fur]        | Warpaints Fanatic: [Bootstrap Brown]     | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item                      | Suggested Paint                 | Alternative                           |        Own         |
 | ------------------------- | ------------------------------- | ------------------------------------- | :----------------: |
@@ -841,7 +841,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Coat / Bandages           | Warpaints Washes: [Mid Brown]   | Warpaints Fanatic Wash: [Sepia Tone]  | :heavy_check_mark: |
 | Gun                       | Warpaints Washes: [Dark Tone]   | Warpaints Fanatic Wash: [Dark Tone]   | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item               | Suggested Paint                         | Alternative                                     |        Own         |
 | ------------------ | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -857,17 +857,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Laser              | Warpaints: [Mars Red]                   |                                                 | :heavy_check_mark: |
 | Buttons            | Warpaints Metallics: [Bright Gold]      | Grinning Gargoyle Metallics: [Bright Gold]      | :heavy_check_mark: |
 
-#### Settler
+#### Settler Painting Guide
 
 [Modiphius Painting Guide](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_painting_guide_survivor_settler_proof_3.pdf)
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item                        | Suggested Paint                         | Alternative                                     |        Own         |
 | --------------------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
@@ -884,7 +884,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Rocks                       | Warpaints: [Uniform Grey]               | Warpaints Fanatic: [Uniform Grey]               | :heavy_check_mark: |
 | Lamp                        | Warpaints Metallics: [Plate Mail Metal] | Grinning Gargoyle Metallics: [Plate Mail Metal] | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item                                     | Suggested Paint                    | Alternative                              |        Own         |
 | ---------------------------------------- | ---------------------------------- | ---------------------------------------- | :----------------: |
@@ -894,14 +894,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Shirt / Rocks                            | Warpaints Washes: [Soft Tone]      |                                          | :heavy_check_mark: |
 | Gloves / Belt / Boots / Trousers / Lamp  | Warpaints Washes: [Dark Tone]      | Warpaints Fanatic Wash: [Dark Tone]      | :heavy_check_mark: |
 
-#### 4. Highlight 1
+##### 4. Highlight 1
 
 | Item                        | Suggested Paint                         | Alternative                                     |        Own         |
 | --------------------------- | --------------------------------------- | ----------------------------------------------- | :----------------: |
 | Hair                        | Warpaints: [Dungeon Grey]               | Grinning Gargoyle: [Dungeon Grey]               | :heavy_check_mark: |
 | Gun Wrap / Belt / Duct Tape | Warpaints Metallics: [Plate Mail Metal] | Grinning Gargoyle Metallics: [Plate Mail Metal] | :heavy_check_mark: |
 
-#### 4. Highlight 2
+##### 4. Highlight 2
 
 | Item                          | Suggested Paint                  | Alternative                              |        Own         |
 | ----------------------------- | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -916,7 +916,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Metal Details                 | Warpaints Washes: [Dark Tone]    | Warpaints Fanatic Wash: [Dark Tone]      | :heavy_check_mark: |
 | Lamp                          | Warpaints Washes: [Blue Tone]    | Warpaints Fanatic Wash: [Blue Tone]      | :heavy_check_mark: |
 
-#### X-01 Survivor
+#### X-01 Survivor Assembly & Painting Guide
+
+![X-01 Survivor](https://i.shgcdn.com/48f2ee5f-73a5-4839-a958-b06d95f08c1c/)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
+The X-01 Survivor comes with 3 heads that you can choose from to use:
+
+- X-01 Power Armour Helmet
+- Sole Survivor (Male)
+- Sole Survivor (Female)
 
 [X-01 Power Armour Painting Tutorial from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/bTRFwKGqOxw)
 
@@ -924,13 +934,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/566cfe2c24) to accompany the video.
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                       |        Own         |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------: |
 | Primer | [Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s) | :heavy_check_mark: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item             | Suggested Paint               | Alternative                        |        Own         |
 | ---------------- | ----------------------------- | ---------------------------------- | :----------------: |
@@ -939,13 +949,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Lazer Rifle      | Warpaints: [Army Green]       | Warpaints Fanatic: [Army Green]    | :heavy_check_mark: |
 | Base             | Warpaints: [Oak Brown]        |                                    | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item        | Suggested Paint   | Alternative                         |        Own         |
 | ----------- | ----------------- | ----------------------------------- | :----------------: |
 | Whole Model | Citadel: Nuln Oil | Warpaints Fanatic Wash: [Dark Tone] | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item          | Suggested Paint                  | Alternative                              |        Own         |
 | ------------- | -------------------------------- | ---------------------------------------- | :----------------: |
@@ -973,7 +983,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | [Grognak](#grognak) | 1        | Resin    | [Unaligned: Grognak][Wave 6 Minis]             | [Commonwealth Rules][Wave 6 Rules]               |       |
 | Mysterious Stranger | 1        | Resin    | [Unaligned: Mysterious Stranger][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
 
-### Grognak
+### Grognak Painting Guide
 
 [I Made An Expansion for Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/pBb-X9zWmg8)
 
@@ -981,13 +991,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [Samuel Steele Painting Guide](https://ko-fi.com/s/7d5106ce9c) to accompany the video.
 
-#### 1. Undercoat
+##### 1. Undercoat
 
 | Item   | Suggested Paint                                                                                                | Own |
 | ------ | -------------------------------------------------------------------------------------------------------------- | :-: |
 | Primer | [Matt Black Primer](https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s) | :x: |
 
-#### 2. Basecoat
+##### 2. Basecoat
 
 | Item                                          | Suggested Paint                  | Alternative                             |        Own         |
 | --------------------------------------------- | -------------------------------- | --------------------------------------- | :----------------: |
@@ -1000,14 +1010,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Axe Blade / Belt Studs / Sword                | Warpaints: [Dungeon Grey]        | Grinning Gargoyle: [Dungeon Grey]       | :heavy_check_mark: |
 | Hair                                          | Citadel: Flayed One Flesh        | Warpaints Fanatic: [Dorado Skin]        | :heavy_check_mark: |
 
-#### 3. Wash
+##### 3. Wash
 
 | Item               | Suggested Paint              | Alternative                                 |        Own         |
 | ------------------ | ---------------------------- | ------------------------------------------- | :----------------: |
 | Skin               | Citadel: Reikland Fleshshade | Warpaints Fanatic Wash: [Strong Skin Shade] | :heavy_check_mark: |
 | Model (Minus Skin) | Citadel: Agrax Earthshade    | Warpaints Fanatic Wash: [Strong Tone]       | :heavy_check_mark: |
 
-#### 4. Highlight
+##### 4. Highlight
 
 | Item             | Suggested Paint            | Alternative                        |        Own         |
 | ---------------- | -------------------------- | ---------------------------------- | :----------------: |
