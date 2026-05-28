@@ -250,7 +250,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |
 | Creatures: Feral Ghouls   |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
 | Creatures: Radroaches     |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
-| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 |
+| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 | [Legendary (Deathskull Radscorpion)][Into the Wasteland]  |
 
 [Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
 [Creatures: Radscorpions]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-radscorpions
@@ -766,17 +766,19 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                     | Notes                             |
-| ------------------------------------- | :----------------: | ----------------------- | :----------------: | ---------------------------- | --------------------------------- |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                              |
-| [Creatures: Mirelurk Queen]           |        :x:         |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #7]  |
-| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |                              |
-| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    |                              | [Legendary][DEVELOPMENT BLOG #11] |
-| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021]                 |
-| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20] | Promo                             |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                              |
+| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                              | Notes                                            |
+| ------------------------------------- | :----------------: | ----------------------- | :----------------: | ------------------------------------- | ------------------------------------------------ |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                                       |
+| [Creatures: Fog Crawler]              |        :x:         |                         |                    | July 2020                             | [Legendary (Shipbreaker)][Into the Wasteland]    |
+| [Creatures: Mirelurk Queen]           |        :x:         |                         |                    | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
+| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |                                       |
+| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    | [November 2020][DEVELOPMENT BLOG #11] | Legendary                                        |
+| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021]                          |
+| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20]          | Promo                                            |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                                       |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
+[Creatures: Fog Crawler]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-fog-crawler
 [Creatures: Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen
 [Enclave: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
 [Enclave: Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan
@@ -1035,17 +1037,19 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Minatures
 
-| Item                             |     Purchased      | Digital | Downloaded | Released                   | Notes     |
-| -------------------------------- | :----------------: | ------- | :--------: | -------------------------- | --------- |
-| [Creatures: Deathclaw Matriarch] |        :x:         |         |            | [August 2022][FF 12/08/22] | Legendary |
-| [Gunners: Core Box]              |        :x:         |         |            | [April 2022][FF 08/04/22]  |
-| [Railroad: Core Box]             |        :x:         |         |            | [May 2022][FF 13/05/22]    |
-| [Robots: Mister Handy Pack]      |        :x:         |         |            | [July 2022][FF 08/07/22]   |
-| [Robots: Protectron Workers]     |        :x:         |         |            | [June 2022][FF 10/06/22]   |
-| [Super Mutants: Swan]            | :heavy_check_mark: |         |            | [July 2022][FF 08/07/22]   | Legendary |
-| [Unaligned: Grognak]             | :heavy_check_mark: |         |            | [April 2022][FF 08/04/22]  | Promo     |
+| Item                                 |     Purchased      | Digital | Downloaded | Released                      | Notes                                                   |
+| ------------------------------------ | :----------------: | ------- | :--------: | ----------------------------- | ------------------------------------------------------- |
+| [Creatures: Deathclaw Matriarch]     |        :x:         |         |            | [August 2022][FF 12/08/22]    | Legendary                                               |
+| [Creatures: Mongrel Scavenging Pack] |        :x:         |         |            | [September 2022][FF 09/09/22] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
+| [Gunners: Core Box]                  |        :x:         |         |            | [April 2022][FF 08/04/22]     |
+| [Railroad: Core Box]                 |        :x:         |         |            | [May 2022][FF 13/05/22]       |
+| [Robots: Mister Handy Pack]          |        :x:         |         |            | [July 2022][FF 08/07/22]      |
+| [Robots: Protectron Workers]         |        :x:         |         |            | [June 2022][FF 10/06/22]      |
+| [Super Mutants: Swan]                | :heavy_check_mark: |         |            | [July 2022][FF 08/07/22]      | Legendary                                               |
+| [Unaligned: Grognak]                 | :heavy_check_mark: |         |            | [April 2022][FF 08/04/22]     | Promo                                                   |
 
 [Creatures: Deathclaw Matriarch]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-deathclaw-matriarch
+[Creatures: Mongrel Scavenging Pack]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mongrel-scavenging-pack
 [Gunners: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
 [Railroad: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
 [Robots: Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack
