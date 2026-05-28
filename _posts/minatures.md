@@ -649,14 +649,17 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ### Units
 
-| Item                                     | Quantity | Material | Included In                                          | Cards                                          | Notes |
-| ---------------------------------------- | -------- | -------- | ---------------------------------------------------- | ---------------------------------------------- | ----- |
-| Codsworth                                | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]  |       |
-| N.I.R.A                                  | 1        | Resin    | [Robots: N.I.R.A.][Wave 9 Minis]                     | [Nuka-World Rules Expansion][Wave 9 Rules]     |       |
-| [Protectron](#protectron-painting-guide) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis]    | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
-| Robobrain                                | 2        | Resin    | [Robots: Robobrain][Wave 4 Minis]                    | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
-| [Sentry Bot](#sentry-bot-painting-guide) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
-| The Mechanist                            | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules] |       |
+| Item                                     | Quantity | Material | Included In                                          | Cards                                            | Notes |
+| ---------------------------------------- | -------- | -------- | ---------------------------------------------------- | ------------------------------------------------ | ----- |
+| Codsworth                                | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]    |       |
+| Curie                                    | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
+| Miss Nanny                               | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
+| Mr Gutsy                                 | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
+| N.I.R.A                                  | 1        | Resin    | [Robots: N.I.R.A.][Wave 9 Minis]                     | [Nuka-World Rules Expansion][Wave 9 Rules]       |       |
+| [Protectron](#protectron-painting-guide) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis]    | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
+| Robobrain                                | 2        | Resin    | [Robots: Robobrain][Wave 4 Minis]                    | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
+| [Sentry Bot](#sentry-bot-painting-guide) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
+| The Mechanist                            | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
 
 #### Protectron Painting Guide
 
