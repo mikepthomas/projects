@@ -137,6 +137,8 @@ keywords:
 
 > Video © 2019 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
+#### Brotherhood of Steel Paladin Painting Guide
+
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
 ##### 1. Undercoat
@@ -497,16 +499,16 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster/Waster 2 Assembly Guide]      |
 | Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Scaver/Waster 3 Assembly Guide]      |
 
-[Butcher/Boss Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=13)
-[Factions Psycho Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=14)
-[Waster/Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=15)
-[Factions Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=16)
-[Survivalist/Scaver 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=17)
-[Pillager/Psycho 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=18)
-[Tormentor/Made Man 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=19)
-[Veteran/Made Man 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=20)
-[Waster/Waster 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=21)
-[Scaver/Waster 3 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=22)
+[Butcher/Boss Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=13
+[Factions Psycho Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=14
+[Waster/Scaver 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=15
+[Factions Scaver 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=16
+[Survivalist/Scaver 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=17
+[Pillager/Psycho 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=18
+[Tormentor/Made Man 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=19
+[Veteran/Made Man 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=20
+[Waster/Waster 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=21
+[Scaver/Waster 3 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=22
 
 #### The Pack
 
@@ -523,16 +525,16 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Waster 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster 1 Assembly Guide]             |
 | Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster 2/Scaver Assembly Guide]      |
 
-[Butcher/Alpha Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=13)
-[Survivalist/Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=14)
-[Psycho 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=15)
-[Survivalist/Psycho 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=16)
-[Scaver/Survivalist Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=17)
-[Psycho/Pillager Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=18)
-[Tormentor/Top Dog Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=19)
-[Veteran/Top Dog Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=20)
-[Waster 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=21)
-[Waster 2/Scaver Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=22)
+[Butcher/Alpha Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=13
+[Survivalist/Scaver 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=14
+[Psycho 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=15
+[Survivalist/Psycho 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=16
+[Scaver/Survivalist Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=17
+[Psycho/Pillager Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=18
+[Tormentor/Top Dog Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=19
+[Veteran/Top Dog Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=20
+[Waster 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=21
+[Waster 2/Scaver Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=22
 
 ## Raiders
 
@@ -769,12 +771,24 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                                                           | Quantity | Material | Included In                             | Cards                                            | Notes             |
 | -------------------------------------------------------------- | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----------------- |
-| Aviator                                                        | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
-| Brute                                                          | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
+| [Aviator](#aviator-painting-guide)                             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
+| [Brute](#brute-painting-guide)                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
 | [Mutant Hound](#mutant-hound-painting-guide)                   | 2        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           | [Blog][Blog Dogs] |
 | [Super Mutant](#super-mutant-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
 | [Super Mutant Behemoth](#super-mutant-behemoth-painting-guide) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
 | Swan                                                           | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |                   |
+
+#### Aviator Painting Guide
+
+[How to Paint: Fallout Super Mutants Video](https://www.youtube-nocookie.com/embed/WlYllSFhPWk)
+
+> Video © 2020 [Duncan Rhodes Painting Academy](https://www.youtube.com/@DuncanRhodesDRPA)
+
+#### Brute Painting Guide
+
+[My Attempt At Painting Super Mutants from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/oepk4wnfXcs)
+
+> Video © 2018 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
 #### Mutant Hound Painting Guide
 
@@ -783,10 +797,6 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 > Video © 2018 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
 #### Super Mutant Painting Guide
-
-[My Attempt At Painting Super Mutants from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/oepk4wnfXcs)
-
-> Video © 2018 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
