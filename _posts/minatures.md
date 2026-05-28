@@ -458,54 +458,81 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 #### The Disciples
 
-[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf)
+| Item                 | Quantity | Material | Included In                            | Cards                                      | Notes                                                       |
+| -------------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
+| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Butcher/Tormentor Assembly Guide]    |
+| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Survivalist A Assembly Guide]        |
+| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Faction Psycho 1 Assembly Guide]     |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Pillager/Psycho 2 Assembly Guide]    |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Survivalist/Scaver 2 Assembly Guide] |
+| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster/Waster 1 Assembly Guide]      |
+| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Veteran/Butcher 1 Assembly Guide]    |
+| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Tormentor/Butcher 2 Assembly Guide]  |
+| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Scaver/Waster 2 Assembly Guide]      |
+| Waster A             | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster A Assembly Guide]             |
 
-| Item                 | Quantity | Material | Included In                            | Cards                                      | Notes                    |
-| -------------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | ------------------------ |
-| Butcher/Tormentor    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 13) |
-| Survivalist A        | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 14) |
-| Faction Psycho 1     | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 15) |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 16) |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 17) |
-| Waster/Waster 1      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 18) |
-| Veteran/Butcher 1    | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 19) |
-| Tormentor/Butcher 2  | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 20) |
-| Scaver/Waster 2      | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
-| Waster A             | 1        | HIPS     | [Raiders: The Disciples][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
+[Butcher/Tormentor Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=13
+[Survivalist A Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=14
+[Faction Psycho 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=15
+[Pillager/Psycho 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=16
+[Survivalist/Scaver 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=17
+[Waster/Waster 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=18
+[Veteran/Butcher 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=19
+[Tormentor/Butcher 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=20
+[Scaver/Waster 2 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=21
+[Waster A Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=22
 
 #### The Operators
 
-[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf)
+| Item                 | Quantity | Material | Included In                            | Cards                                      | Notes                                                       |
+| -------------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
+| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Butcher/Boss Assembly Guide]         |
+| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Factions Psycho Assembly Guide]      |
+| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster/Scaver 1 Assembly Guide]      |
+| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Factions Scaver 1 Assembly Guide]    |
+| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Survivalist/Scaver 2 Assembly Guide] |
+| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Pillager/Psycho 2 Assembly Guide]    |
+| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Tormentor/Made Man 1 Assembly Guide] |
+| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Veteran/Made Man 2 Assembly Guide]   |
+| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster/Waster 2 Assembly Guide]      |
+| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Scaver/Waster 3 Assembly Guide]      |
 
-| Item                 | Quantity | Material | Included In                            | Cards                                      | Notes                    |
-| -------------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | ------------------------ |
-| Butcher/Boss         | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 13) |
-| Factions Psycho      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 14) |
-| Waster/Scaver 1      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 15) |
-| Factions Scaver 1    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 16) |
-| Survivalist/Scaver 2 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 17) |
-| Pillager/Psycho 2    | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 18) |
-| Tormentor/Made Man 1 | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 19) |
-| Veteran/Made Man 2   | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 20) |
-| Waster/Waster 2      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
-| Scaver/Waster 3      | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
+[Butcher/Boss Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=13)
+[Factions Psycho Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=14)
+[Waster/Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=15)
+[Factions Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=16)
+[Survivalist/Scaver 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=17)
+[Pillager/Psycho 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=18)
+[Tormentor/Made Man 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=19)
+[Veteran/Made Man 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=20)
+[Waster/Waster 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=21)
+[Scaver/Waster 3 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=22)
 
 #### The Pack
 
-[Modiphius Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf)
+| Item                 | Quantity | Material | Included In                       | Cards                                      | Notes                                                       |
+| -------------------- | -------- | -------- | --------------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
+| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Butcher/Alpha Assembly Guide]        |
+| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Survivalist/Scaver 1 Assembly Guide] |
+| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Psycho 1 Assembly Guide]             |
+| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Survivalist/Psycho 2 Assembly Guide] |
+| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Scaver/Survivalist Assembly Guide]   |
+| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Psycho/Pillager Assembly Guide]      |
+| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Tormentor/Top Dog Assembly Guide]    |
+| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Veteran/Top Dog Assembly Guide]      |
+| Waster 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster 1 Assembly Guide]             |
+| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Assembly Guide :pdf:][Waster 2/Scaver Assembly Guide]      |
 
-| Item                 | Quantity | Material | Included In                       | Cards                                      | Notes                    |
-| -------------------- | -------- | -------- | --------------------------------- | ------------------------------------------ | ------------------------ |
-| Butcher/Alpha        | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 13) |
-| Survivalist/Scaver 1 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 14) |
-| Psycho 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 15) |
-| Survivalist/Psycho 2 | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 16) |
-| Scaver/Survivalist   | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 17) |
-| Psycho/Pillager      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 18) |
-| Tormentor/Top Dog    | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 19) |
-| Veteran/Top Dog      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 20) |
-| Waster 1             | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 21) |
-| Waster 2/Scaver      | 1        | HIPS     | [Raiders: The Pack][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | Assembly Guide (Page 22) |
+[Butcher/Alpha Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=13)
+[Survivalist/Scaver 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=14)
+[Psycho 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=15)
+[Survivalist/Psycho 2 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=16)
+[Scaver/Survivalist Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=17)
+[Psycho/Pillager Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=18)
+[Tormentor/Top Dog Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=19)
+[Veteran/Top Dog Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=20)
+[Waster 1 Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=21)
+[Waster 2/Scaver Assembly Guide](https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=22)
 
 ## Raiders
 

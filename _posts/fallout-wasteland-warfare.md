@@ -134,6 +134,12 @@ A good place to start is the video series that Modiphus has put together which g
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+Misfit Hobbies also has a good `How to Play` series, starting from Basic to more advanced rules:
+
+[How to Play Fallout Wasteland Warfare Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLnZCvXR-OO3P2Wjb7mum1Hj-QlLSH-NC7)
+
+> Videos © 2022 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
 The Getting Acclimated book explains further detail and has a few Tutorials so that you can try out the game mechanics.
 
 ##### Tutorial 1: Navigating the Wastes
@@ -295,18 +301,18 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Fallout Wasteland Warfare Box
 
-| Item                                     | Purchased | Digital                                                                                                      |     Downloaded     | Released   | Notes |
-| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------- | ----- |
-| SCP-001-111: Ad Victorium                |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 |
-| SCP-002-111: Big John’s Salvage Showdown |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 |
-| SCP-003-111: Quest for Knowledge         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 |
+| Item                                     | Purchased | Digital                                                                                                      |     Downloaded     | Released   | Notes                                               |
+| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------- | --------------------------------------------------- |
+| SCP-001-111: Ad Victorium                |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Core Box]       |
+| SCP-002-111: Big John’s Salvage Showdown |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]              |
+| SCP-003-111: Quest for Knowledge         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                  |
 | SCP-004-111: Radio Tower Takeover        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 |
 | SCP-005-111: Flip's Revenge              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 |
-| SCP-006-111: Sanctuary Hills Sweep       |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 |
-| SCP-007-111: Psychotrip                  |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 |
-| SCP-008-111: The Jury Street Colossus    |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 |
+| SCP-006-111: Sanctuary Hills Sweep       |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills] |
+| SCP-007-111: Psychotrip                  |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]         |
+| SCP-008-111: The Jury Street Colossus    |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]              |
 | SCP-009-111: Midwest Encounter           |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 |
-| SCP-010-111: Benny's Request             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 |
+| SCP-010-111: Benny's Request             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]           |
 | SCP-011-111: Atomic Sprint!              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 |
 
 ##### Big John’s Salvage Showdown
@@ -319,22 +325,22 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Robots
 
-| Item                            | Purchased | Digital                                                                                                       |     Downloaded     | Released   | Notes |
-| ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| Item                            | Purchased | Digital                                                                                                       |     Downloaded     | Released   | Notes                                        |
+| ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | -------------------------------------------- |
 | SCP-012-111: Steel-Clad Manhunt |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 |
-| SCP-013-111: Protectron Parade! |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
-| SCP-014-111: Deadly Run         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
-| SCP-015-111: Target Locked      |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
+| SCP-013-111: Protectron Parade! |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Protectron and Eyebot] |
+| SCP-014-111: Deadly Run         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Sentry Bot]            |
+| SCP-015-111: Target Locked      |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Assaultrons]           |
 
 #### Creatures
 
-| Item                                  | Purchased | Digital                                                                                                          |     Downloaded     | Released   | Notes |
-| ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| Item                                  | Purchased | Digital                                                                                                          |     Downloaded     | Released   | Notes                                      |
+| ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ------------------------------------------ |
 | SCP-016-111: Hunters of the Wasteland |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 |
-| SCP-017-111: Old Gullet's Deathtrap   |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 |
-| SCP-018-111: DC Metro Raid            |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 |
-| SCP-019-111: Chemtest Pit             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 |
-| SCP-020-111: Den of Pestilence        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 |
+| SCP-017-111: Old Gullet's Deathtrap   |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Deathclaw]        |
+| SCP-018-111: DC Metro Raid            |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Ghouls]           |
+| SCP-019-111: Chemtest Pit             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Radscorpions]     |
+| SCP-020-111: Den of Pestilence        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Wasteland Vermin] |
 
 #### Promo
 
@@ -506,14 +512,14 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 ### Scenarios
 
-| Item                                         |     Purchased      | Digital                                   |     Downloaded     | Released                          | Notes                                    |
-| -------------------------------------------- | :----------------: | ----------------------------------------- | :----------------: | --------------------------------- | ---------------------------------------- |
-| SCP-034-111: The Undiscovered Vault          |                    | [Free :pdf:][Undiscovered Vault]          | :heavy_check_mark: | [October 2020][FF 16/10/20]       |
-| SCP-050-111: The Beast of the Bottling Plant |                    | [Free :pdf:][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
-| Raid the Crash Site                          | :heavy_check_mark: |                                           |                    |                                   | Part of the [Raiders Organised Play] Kit |
+| Item                                              |     Purchased      | Digital                                   |     Downloaded     | Released                          | Notes                            |
+| ------------------------------------------------- | :----------------: | ----------------------------------------- | :----------------: | --------------------------------- | -------------------------------- |
+| SCP-034-111: The Undiscovered Vault               |                    | [Free :pdf:][Undiscovered Vault]          | :heavy_check_mark: | [October 2020][FF 16/10/20]       | Scenario for [Terminals]         |
+| SCP-050-111: The Beast of the Bottling Plant      |                    | [Free :pdf:][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
+| [Raiders Organised Play Kit: Raid the Crash Site] | :heavy_check_mark: |                                           |                    |                                   | Scenario for [Crashed Vertibird] |
 
 [Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
-[Raiders Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
+[Raiders Organised Play Kit: Raid the Crash Site]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
 [Undiscovered Vault]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Scenario_The_Undiscovered_Vault.pdf
 
 #### The Beast of the Bottling Plant
@@ -680,12 +686,12 @@ I will use elements from all of these to create my own version of [Vault 88](vau
 
 ### Scenarios
 
-| Item                               |     Purchased      | Digital                             |     Downloaded     | Released                                    | Notes                                      |
-| ---------------------------------- | :----------------: | ----------------------------------- | :----------------: | ------------------------------------------- | ------------------------------------------ |
-| SCP-051-111: Showdown in Synthtown |                    | [Free :pdf:][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] | [Blog: Institute Vs Survivors]             |
-| Teleporting Trouble                | :heavy_check_mark: |                                     |                    |                                             | Part of the [Institute Organised Play] Kit |
+| Item                                                |     Purchased      | Digital                             |     Downloaded     | Released                                    | Notes                          |
+| --------------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | ------------------------------------------- | ------------------------------ |
+| SCP-051-111: Showdown in Synthtown                  |                    | [Free :pdf:][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] | [Blog: Institute Vs Survivors] |
+| [Institute Organised Play Kit: Teleporting Trouble] | :heavy_check_mark: |                                     |                    |                                             |
 
-[Institute Organised Play]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
+[Institute Organised Play Kit: Teleporting Trouble]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Showdown in Synthtown]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf
 
 ## Wave 4 - Enclave
@@ -821,7 +827,7 @@ I will use this to create my own version of [Sanctuary Hills](sanctuary-hills) f
 
 | Item                                         | Purchased | Digital                            |     Downloaded     | Released                     | Notes                                  |
 | -------------------------------------------- | :-------: | ---------------------------------- | :----------------: | ---------------------------- | -------------------------------------- |
-| AA02-2021: Automaton Assembly                |           | [Free :pdf:][Automaton Assembly]   | :heavy_check_mark: | March 2021                   |
+| AA02-2021: Automaton Assembly                |           | [Free :pdf:][Automaton Assembly]   | :heavy_check_mark: | March 2021                   | Scenario for [Robot Work Bench]        |
 | SCP-059-111: The Zetan Incident              |           | [Free :pdf:][Zetan Incident]       | :heavy_check_mark: | [May 2021][FF 14/05/21]      | Scenario for [Zetan] and [Crashed UFO] |
 | SCP-060-111: The Vestiges Resurgent (Part 1) |           | [Free :pdf:][Vestiges Resurgent 1] | :heavy_check_mark: | [November 2020][FF 20/11/20] |
 | SCP-060-111: The Vestiges Resurgent (Part 2) |           | [Free :pdf:][Vestiges Resurgent 2] | :heavy_check_mark: | [December 2020][FF 15/12/20] |
