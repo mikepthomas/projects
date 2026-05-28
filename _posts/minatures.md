@@ -137,6 +137,41 @@ keywords:
 
 > Video © 2019 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
+##### 1. Undercoat
+
+| Item   | Suggested Paint       |        Own         |
+| ------ | --------------------- | :----------------: |
+| Primer | [Uniform Grey Primer] | :heavy_check_mark: |
+
+##### 2. Basecoat
+
+| Item                    | Suggested Paint                | Alternative                          |        Own         |
+| ----------------------- | ------------------------------ | ------------------------------------ | :----------------: |
+| Lazer Rifle             | Warpaints: [Army Green]        | Warpaints Fanatic: [Army Green]      | :heavy_check_mark: |
+| Lazer Rifle Grip        | Warpaints: [Necrotic Flesh]    |                                      |        :x:         |
+| Lazer Rifle Energy Cell | Warpaints: [Daemonic Yellow]   | Grinning Gargoyle: [Daemonic Yellow] | :heavy_check_mark: |
+| Lazer Rifle Cabling     | Warpaints: [Dragon Red]        | Warpaints Fanatic: [Dragon Red]      | :heavy_check_mark: |
+| Armor Weathering        | Warpaints Effects: [Dry Rust]  |                                      | :heavy_check_mark: |
+| Base                    | Warpaints: [Necromancer Cloak] |                                      | :heavy_check_mark: |
+| Wood                    | Warpaints: [Oak Brown]         |                                      | :heavy_check_mark: |
+
+##### 3. Wash
+
+| Item  | Suggested Paint   | Alternative                         |        Own         |
+| ----- | ----------------- | ----------------------------------- | :----------------: |
+| Model | Citadel: Nuln Oil | Warpaints Fanatic Wash: [Dark Tone] | :heavy_check_mark: |
+
+##### 4. Highlight
+
+| Item       | Suggested Paint                  | Alternative                              |        Own         |
+| ---------- | -------------------------------- | ---------------------------------------- | :----------------: |
+| Armor      | Warpaints Metallics: [Gun Metal] | Warpaints Fanatic Metallics: [Gun Metal] | :heavy_check_mark: |
+| Under Suit | Warpaints: [Necromancer Cloak]   |                                          | :heavy_check_mark: |
+| Tubes      | Warpaints: [Oak Brown]           |                                          | :heavy_check_mark: |
+| Tubes      | Warpaints: [Leather Brown]       | Grinning Gargoyle: [Leather Brown]       | :heavy_check_mark: |
+| Light      | Warpaints: [Crystal Blue]        |                                          |        :x:         |
+| Base       | Warpaints: [Dungeon Grey]        | Grinning Gargoyle: [Dungeon Grey]        | :heavy_check_mark: |
+
 #### Brotherhood of Steel Paladin Painting Guide
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
@@ -1189,6 +1224,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Ultramarine Blue]: minatures-paint#strong-pale-blues
 [Vivid Blues]: #
 [Arctic Gem]: minatures-paint#vivid-blues
+[Crystal Blue]: minatures-paint#vivid-blues
 [Electric Blue]: minatures-paint#vivid-blues
 [Deep Green-Blues]: #
 [Turquoises]: #
@@ -1205,6 +1241,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Camouflage Green]: minatures-paint#olive-greens
 [Commando Green]: minatures-paint#olive-greens
 [Elf Green]: minatures-paint#olive-greens
+[Necrotic Flesh]: minatures-paint#olive-greens
 [Woodland Camo]: minatures-paint#olive-greens
 [Browns]: #
 [Bootstrap Brown]: minatures-paint#browns
