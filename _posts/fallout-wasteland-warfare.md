@@ -424,7 +424,7 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 | Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                               | Notes        |
 | ------------------------------------- | :----------------: | --------------------------- | :----------------: | -------------------------------------- | ------------ |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]             |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]             | Legendary    |
 | [Creatures: Ghouls]                   |        :x:         |                             |                    | November 2019                          |
 | [Creatures: Wasteland Vermin]         |        :x:         |                             |                    | November 2019                          |
 | [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
