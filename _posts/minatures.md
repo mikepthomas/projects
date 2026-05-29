@@ -1466,6 +1466,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Barbarian Flesh]: minatures-paint#rose-skin-tones
 [Warm Skin Tones]: #
 [Deep Skin Tones]: #
+[Amber Skin]: minatures-paint#deep-skin-tones
 [Corpse Pale]: minatures-paint#deep-skin-tones
 [Dorado Skin]: minatures-paint#deep-skin-tones
 [Onyx Skin]: minatures-paint#deep-skin-tones
