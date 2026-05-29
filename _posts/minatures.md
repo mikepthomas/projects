@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-05-28T13:30:36.441Z
+lastmod: 2026-05-29T11:04:12.681Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -25,7 +25,7 @@ keywords:
 
 # Intro
 
-[Modiphius Blog: Getting Back Into Painting - Can You Get Good In A Year?](https://modiphius.net/blogs/news/getting-back-into-painting-can-you-get-good-in-a-year)
+[Modiphius Blog: Getting Back Into Painting](https://modiphius.net/blogs/news/getting-back-into-painting-can-you-get-good-in-a-year) - Can You Get Good In A Year?
 
 [Painting and Customising Fallout: Wasteland Warfare Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2C9oRFCsJnlYFEOVmd6FCF)
 
