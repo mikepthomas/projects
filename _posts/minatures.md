@@ -954,11 +954,76 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2018 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
+##### 1. Undercoat
+
+| Item   | Suggested Paint       |        Own         |
+| ------ | --------------------- | :----------------: |
+| Primer | [Matt Black Primer]   |        :x:         |
+| Zenial | [Uniform Grey Primer] | :heavy_check_mark: |
+
+##### 2. Basecoat
+
+| Item                 | Suggested Paint                | Alternative                        |        Own         |
+| -------------------- | ------------------------------ | ---------------------------------- | :----------------: |
+| Armor                | Warpaints: [Ash Grey]          | Warpaints Fanatic: [Ash Grey]      | :heavy_check_mark: |
+| Armor                | Warpaints: [Electric Blue]     | Warpaints Fanatic: [Arctic Gem]    | :heavy_check_mark: |
+| Armor / Skin         | Warpaints: [Army Green]        | Warpaints Fanatic: [Army Green]    | :heavy_check_mark: |
+| Clothing / Gun Stock | Warpaints: [Leather Brown]     | Grinning Gargoyle: [Leather Brown] | :heavy_check_mark: |
+| Skulls               | Warpaints: [Skeleton Bone]     | Grinning Gargoyle: [Skeleton Bone] | :heavy_check_mark: |
+| Road                 | Warpaints: [Necromancer Cloak] |                                    | :heavy_check_mark: |
+| Curb                 | Warpaints: [Dungeon Grey]      | Grinning Gargoyle: [Dungeon Grey]  | :heavy_check_mark: |
+| Dirt                 | Warpaints: [Monster Brown]     |                                    | :heavy_check_mark: |
+| Wood                 | Warpaints: [Oak Brown]         |                                    | :heavy_check_mark: |
+
+##### 3. Wash
+
+| Item | Suggested Paint           | Alternative                           |        Own         |
+| ---- | ------------------------- | ------------------------------------- | :----------------: |
+| Body | Citadel: Agrax Earthshade | Warpaints Fanatic Wash: [Strong Tone] | :heavy_check_mark: |
+| Base | Citadel: Nuln Oil         | Warpaints Fanatic Wash: [Dark Tone]   | :heavy_check_mark: |
+
+##### 4. Highlight
+
+| Item             | Suggested Paint                  | Alternative                              |        Own         |
+| ---------------- | -------------------------------- | ---------------------------------------- | :----------------: |
+| Armor Weathering | Warpaints Effects: [Dry Rust]    |                                          | :heavy_check_mark: |
+| Armor / Weapons  | Warpaints Metallics: [Gun Metal] | Warpaints Fanatic Metallics: [Gun Metal] | :heavy_check_mark: |
+
 #### Mutant Hound Painting Guide
 
 [How to Paint Super Mutant Hounds for Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/QJNgzJra4OE)
 
 > Video © 2018 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
+##### 1. Undercoat
+
+| Item   | Suggested Paint     | Own |
+| ------ | ------------------- | :-: |
+| Primer | [Matt Black Primer] | :x: |
+
+##### 2. Basecoat
+
+| Item         | Suggested Paint            | Alternative                        |        Own         |
+| ------------ | -------------------------- | ---------------------------------- | :----------------: |
+| Body         | Warpaints: [Army Green]    | Warpaints Fanatic: [Army Green]    | :heavy_check_mark: |
+| Teeth        | Warpaints: [Skeleton Bone] | Grinning Gargoyle: [Skeleton Bone] | :heavy_check_mark: |
+| Gums / Veins | Warpaints: [Monster Brown] |                                    | :heavy_check_mark: |
+| Gums / Veins | Warpaints: [Crusted Sore]  |                                    |        :x:         |
+| Base         | Warpaints: [Dungeon Grey]  | Grinning Gargoyle: [Dungeon Grey]  | :heavy_check_mark: |
+
+##### 3. Wash
+
+| Item         | Suggested Paint           | Alternative                           |        Own         |
+| ------------ | ------------------------- | ------------------------------------- | :----------------: |
+| Entire Model | Citadel: Agrax Earthshade | Warpaints Fanatic Wash: [Strong Tone] | :heavy_check_mark: |
+
+##### 4. Highlight
+
+| Item | Suggested Paint              | Alternative                     |        Own         |
+| ---- | ---------------------------- | ------------------------------- | :----------------: |
+| Body | Warpaints: [Army Green]      | Warpaints Fanatic: [Army Green] | :heavy_check_mark: |
+| Body | Warpaints: [Matt White]      | Warpaints Fanatic: [Matt White] | :heavy_check_mark: |
+| Base | Vallejo: Texture Brown Earth |                                 |        :x:         |
 
 #### Super Mutant Painting Guide
 
@@ -1445,6 +1510,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Combat Fatigues]: minatures-paint#warm-greys--whites
 [Drake Tooth]: minatures-paint#warm-greys--whites
 [Grey Castle]: minatures-paint#warm-greys--whites
+[Matt White]: minatures-paint#warm-greys--whites
 [Desaturated Blue-Greys]: #
 [Fog Grey]: minatures-paint#desaturated-blue-greys
 [Frost Blue]: minatures-paint#desaturated-blue-greys
