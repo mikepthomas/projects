@@ -936,19 +936,13 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Item                                                           | Quantity | Material | Included In                             | Cards                                            | Notes             |
 | -------------------------------------------------------------- | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----------------- |
 | [Aviator](#aviator-painting-guide)                             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
-| [Brute](#brute-painting-guide)                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
+| Brute                                                          | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
 | [Mutant Hound](#mutant-hound-painting-guide)                   | 2        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           | [Blog][Blog Dogs] |
 | [Super Mutant](#super-mutant-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
 | [Super Mutant Behemoth](#super-mutant-behemoth-painting-guide) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
 | Swan                                                           | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |
 
 #### Aviator Painting Guide
-
-[How to Paint: Fallout Super Mutants Video](https://www.youtube-nocookie.com/embed/WlYllSFhPWk)
-
-> Video © 2020 [Duncan Rhodes Painting Academy](https://www.youtube.com/@DuncanRhodesDRPA)
-
-#### Brute Painting Guide
 
 [My Attempt At Painting Super Mutants from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/oepk4wnfXcs)
 
