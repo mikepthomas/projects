@@ -1070,6 +1070,33 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2019 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
+##### 1. Undercoat
+
+| Item   | Suggested Paint     | Own |
+| ------ | ------------------- | :-: |
+| Primer | [Matt Black Primer] | :x: |
+
+##### 2. Basecoat
+
+| Item                     | Suggested Paint                | Alternative                        |        Own         |
+| ------------------------ | ------------------------------ | ---------------------------------- | :----------------: |
+| Base Fur / Dirt          | Warpaints: [Leather Brown]     | Grinning Gargoyle: [Leather Brown] | :heavy_check_mark: |
+| Belly Fur                | Warpaints: [Skeleton Bone]     | Grinning Gargoyle: [Skeleton Bone] | :heavy_check_mark: |
+| Bottle / Plank / Top Fur | Warpaints: [Oak Brown]         |                                    | :heavy_check_mark: |
+| Dirt / Nose / Road       | Warpaints: [Necromancer Cloak] |                                    | :heavy_check_mark: |
+
+##### 3. Wash
+
+| Item        | Suggested Paint   | Alternative                         |        Own         |
+| ----------- | ----------------- | ----------------------------------- | :----------------: |
+| Whole Model | Citadel: Nuln Oil | Warpaints Fanatic Wash: [Dark Tone] | :heavy_check_mark: |
+
+##### 4. Highlight
+
+| Item | Suggested Paint                | Alternative |        Own         |
+| ---- | ------------------------------ | ----------- | :----------------: |
+| Fur  | Warpaints: [Necromancer Cloak] |             | :heavy_check_mark: |
+
 #### Preston Garvey Painting Guide
 
 [Modiphius Painting Guide (Page 6)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
