@@ -79,7 +79,7 @@ keywords:
 | Armor, Clothes, and Power (BMCE v1.0) |           | [Free :pdf:][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
 | Weapons (BMCE v1.0)                   |           | [Free :pdf:][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
 
-[Items (v1.0)]: https://web.archive.org/web/20210506073957/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
+[Items (v1.0)]: https://web.archive.org/web/20210317032625/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
 [Items (v5.0)]: https://web.archive.org/web/20211017025537/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_items_17may.pdf
 [Items (v8.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Items.pdf
 [Alcohol, Chem, and Food (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/672d3170-7434-48bd-8dd2-1ac3e278dfdb/BMCE-Alcohol-Chem-and-Food-items-list-v-1-0.pdf
@@ -134,10 +134,16 @@ keywords:
 
 ### Units
 
-| Item                                                 | Quantity | Material | Included In                                         | Cards                                  | Notes |
-| ---------------------------------------------------- | -------- | -------- | --------------------------------------------------- | -------------------------------------- | ----- |
-| [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]              | [Two Player Starter Set][Wave 1 Rules] |       |
-| [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis] | [Two Player Starter Set][Wave 1 Rules] |       |
+| Item                                                 | Quantity | Material | Included In                                                   | Cards                                         | Notes |
+| ---------------------------------------------------- | -------- | -------- | ------------------------------------------------------------- | --------------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]                        | [Two Player Starter Set][Wave 1 Rules]        |
+| [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis]           | [Two Player Starter Set][Wave 1 Rules]        |
+| Field Scribe                                         | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Knight                                               | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
+| Initiate                                             | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
+| Initiate Blade                                       | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
+| Lancers                                              | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Paladin](#paladin-painting-guide)                   | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
 
 #### Aspirant Goddard Painting Guide
 
@@ -180,7 +186,13 @@ keywords:
 | Light      | Warpaints: [Crystal Blue]        |                                          |        :x:         |
 | Base       | Warpaints: [Dungeon Grey]        | Grinning Gargoyle: [Dungeon Grey]        | :heavy_check_mark: |
 
-#### Brotherhood of Steel Paladin Painting Guide
+#### Maximus Painting Guide
+
+[Fallout: Hollywood Heroes - Painting Maximus Video](https://www.youtube-nocookie.com/embed/I6SeSwpLU84)
+
+> Video © 2026 [Sonic Sledgehammer Studio](https://www.youtube.com/@SonicSledgehammerStudio)
+
+#### Paladin Painting Guide
 
 [Modiphius Painting Guide (Page 7)](https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview)
 
@@ -275,11 +287,17 @@ keywords:
 
 | Item                                   | Quantity | Material | Included In                                 | Cards                                            | Notes |
 | -------------------------------------- | -------- | -------- | ------------------------------------------- | ------------------------------------------------ | ----- |
-| Alien                                  | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]      | [Two Player Starter Set][Wave 1 Rules]           |       |
-| Deathclaw                              | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]      | [Two Player Starter Set][Wave 1 Rules]           |       |
-| Deathclaw                              | 1        | Resin    | [Creatures: Deathclaw][Wave 1 Minis]        | [Two Player Starter Set][Wave 1 Rules]           |       |
-| [Molerats](#molerats-painting-guide)   | :x:      | Resin    | [Creatures: Wasteland Vermin][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
-| [Radroaches](#radroach-painting-guide) | :x:      | Resin    | [Creatures: Wasteland Vermin][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
+| Alien                                  | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]      | [Two Player Starter Set][Wave 1 Rules]           |
+| [Deathclaw](#deathclaw-painting-guide) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]      | [Two Player Starter Set][Wave 1 Rules]           |
+| [Deathclaw](#deathclaw-painting-guide) | 1        | Resin    | [Creatures: Deathclaw][Wave 1 Minis]        | [Two Player Starter Set][Wave 1 Rules]           |
+| [Molerats](#molerats-painting-guide)   | :x:      | Resin    | [Creatures: Wasteland Vermin][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Radroaches](#radroach-painting-guide) | :x:      | Resin    | [Creatures: Wasteland Vermin][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
+#### Deathclaw Painting Guide
+
+[Painting Fallout's Deathclaws the Easy Way Video](https://www.youtube-nocookie.com/embed/Mh7-dQsvX4o)
+
+> Video © 2021 [Sonic Sledgehammer Studio](https://www.youtube.com/@SonicSledgehammerStudio)
 
 #### Molerats Painting Guide
 
@@ -378,12 +396,12 @@ keywords:
 
 ### Units
 
-| Item                                             | Quantity | Material | Included In                             | Cards                                            | Notes |
-| ------------------------------------------------ | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----- |
-| Enclave Soldier                                  | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
-| [Frank Horrigan](#frank-horrigan-painting-guide) | 1        | Resin    | [Enclave: Frank Horrigan][Wave 4 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
-| Tesla Soldier                                    | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
-| Warrant Officer                                  | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |       |
+| Item                                             | Quantity | Material | Included In                             | Cards                                   | Notes |
+| ------------------------------------------------ | -------- | -------- | --------------------------------------- | --------------------------------------- | ----- |
+| Enclave Soldier                                  | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Capital Rules Expansion][Wave 8 Rules] |
+| [Frank Horrigan](#frank-horrigan-painting-guide) | 1        | Resin    | [Enclave: Frank Horrigan][Wave 4 Minis] | [Capital Rules Expansion][Wave 8 Rules] |
+| Tesla Soldier                                    | 2        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Capital Rules Expansion][Wave 8 Rules] |
+| Warrant Officer                                  | 1        | Resin    | [Enclave: Core Box][Wave 4 Minis]       | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### Frank Horrigan Painting Guide
 
@@ -494,6 +512,20 @@ keywords:
 [Institute Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ab6c2fee-5b89-4d9a-a2a2-9075864fd1ec/BMCE-Institute-v-1-1.pdf
 
 There are examples of How to paint Institute Synths and Konrad Kellogg in the [Blog on the Modiphius website](https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog).
+
+### Units
+
+| Item                 | Quantity | Material | Included In                                        | Cards                                              | Notes |
+| -------------------- | -------- | -------- | -------------------------------------------------- | -------------------------------------------------- | ----- |
+| A-2018               | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Battered Gen 1 Synth | 2        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Courser              | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Engineer             | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Gen 1 Synth          | 2        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Patroller            | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Scientist            | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Synth Infiltrator    | 2        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] |                                                    |
+| Trooper              | 1        | HIPS     | [Institute: Core Box (Plastic)][Battle for Boston] | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ## Leigon
 
@@ -661,10 +693,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 | Item                             | Quantity | Material | Included In                       | Cards                                            | Notes |
 | -------------------------------- | -------- | -------- | --------------------------------- | ------------------------------------------------ | ----- |
-| Psycho                           | 2        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
-| [Raider](#raider-painting-guide) | 3        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
-| Scavver                          | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
-| Veteran Raider                   | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
+| Psycho                           | 2        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Raider](#raider-painting-guide) | 3        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Scavver                          | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Veteran Raider                   | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
@@ -767,15 +799,15 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                                     | Quantity | Material | Included In                                          | Cards                                            | Notes |
 | ---------------------------------------- | -------- | -------- | ---------------------------------------------------- | ------------------------------------------------ | ----- |
-| Codsworth                                | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]    |       |
-| Curie                                    | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
-| Miss Nanny                               | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
-| Mr Gutsy                                 | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |       |
-| N.I.R.A                                  | 1        | Resin    | [Robots: N.I.R.A.][Wave 9 Minis]                     | [Nuka-World Rules Expansion][Wave 9 Rules]       |       |
-| [Protectron](#protectron-painting-guide) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis]    | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
-| Robobrain                                | 2        | Resin    | [Robots: Robobrain][Wave 4 Minis]                    | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
-| [Sentry Bot](#sentry-bot-painting-guide) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
-| The Mechanist                            | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules]   |       |
+| Codsworth                                | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]    |
+| Curie                                    | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Miss Nanny                               | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Mr Gutsy                                 | :x:      | Resin    | [Robots: Mister Handy Pack][Wave 6 Minis]            | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| N.I.R.A                                  | 1        | Resin    | [Robots: N.I.R.A.][Wave 9 Minis]                     | [Nuka-World Rules Expansion][Wave 9 Rules]       |
+| [Protectron](#protectron-painting-guide) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis]    | [Automatron Card Expansion Pack][Wave 3 Rules]   |
+| Robobrain                                | 2        | Resin    | [Robots: Robobrain][Wave 4 Minis]                    | [Automatron Card Expansion Pack][Wave 3 Rules]   |
+| [Sentry Bot](#sentry-bot-painting-guide) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                   | [Automatron Card Expansion Pack][Wave 3 Rules]   |
+| The Mechanist                            | 1        | Resin    | [The Mechanist][Wave 3 Minis]                        | [Automatron Card Expansion Pack][Wave 3 Rules]   |
 
 #### Protectron Painting Guide
 
@@ -894,12 +926,12 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                                                           | Quantity | Material | Included In                             | Cards                                            | Notes             |
 | -------------------------------------------------------------- | -------- | -------- | --------------------------------------- | ------------------------------------------------ | ----------------- |
-| [Aviator](#aviator-painting-guide)                             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
-| [Brute](#brute-painting-guide)                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
+| [Aviator](#aviator-painting-guide)                             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
+| [Brute](#brute-painting-guide)                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
 | [Mutant Hound](#mutant-hound-painting-guide)                   | 2        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           | [Blog][Blog Dogs] |
-| [Super Mutant](#super-mutant-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |                   |
-| [Super Mutant Behemoth](#super-mutant-behemoth-painting-guide) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |                   |
-| Swan                                                           | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |                   |
+| [Super Mutant](#super-mutant-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]  | [Two Player Starter Set][Wave 1 Rules]           |
+| [Super Mutant Behemoth](#super-mutant-behemoth-painting-guide) | 1        | Resin    | [Super Mutants: Behemoth][Wave 1 Minis] | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| Swan                                                           | 1        | Resin    | [Super Mutants: Swan][Wave 6 Minis]     | [Commonwealth Rules][Wave 6 Rules]               |
 
 #### Aviator Painting Guide
 
@@ -1036,33 +1068,33 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 | Item                                                          | Quantity | Material | Included In                                          | Cards                                              | Notes             |
 | ------------------------------------------------------------- | -------- | -------- | ---------------------------------------------------- | -------------------------------------------------- | ----------------- |
-| Cait                                                          | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
+| Cait                                                          | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
 | [Dogmeat](#dogmeat-painting-guide)                            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             | [Blog][Blog Dogs] |
 | Dogmeat Guard Dog                                             | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   | [Blog][Blog Dogs] |
 | Dogmeat Scout                                                 | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      | [Blog][Blog Dogs] |
-| Enslaved Tech                                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| Hancock                                                       | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| Jake Finch                                                    | 1        | Resin    | [Survivors: Jake Finch][Wave 7 Minis]                | [Forged in the Fire Rules Expansion][Wave 7 Rules] |                   |
-| Lorenzo Cabot                                                 | 1        | Resin    | [Survivors: Lorenzo Cabot][Wave 4 Minis]             | [Enclave Wave Card Expansion Pack][Wave 4 Rules]   |                   |
-| Mama Murphy                                                   | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| Nick Valentine                                                | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| Nuka Girl                                                     | 1        | Resin    | [Nuka Cola Girl][Wave 1 Minis]                       | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| Piper                                                         | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| [Preston Garvey](#preston-garvey-painting-guide)              | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| Ronnie Shaw                                                   | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| Rosa Meitner                                                  | 1        | Resin    | [Survivors: Rosa Meitner][Wave 8 Minis]              | [Capital Rules Expansion][Wave 8 Rules]            |                   |
-| [Settler (Female)](#settler-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| [Settler (Female)](#settler-painting-guide)                   | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| Settler (Male)                                                | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| Settler (Male)                                                | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| [Sole Survivor (Female)](#sole-survivor-painting-guide)       | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| Sole Survivor (Male)                                          | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Two Player Starter Set][Wave 1 Rules]             |                   |
-| Strong                                                        | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| Sturges                                                       | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
-| Vault Dweller                                                 | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| Vault Security Officer                                        | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |                   |
-| [Sole Survivor Tech](#x-01-survivor-assembly--painting-guide) | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |                   |
-| X6-88 Courser                                                 | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |                   |
+| Enslaved Tech                                                 | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
+| Hancock                                                       | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Jake Finch                                                    | 1        | Resin    | [Survivors: Jake Finch][Wave 7 Minis]                | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Lorenzo Cabot                                                 | 1        | Resin    | [Survivors: Lorenzo Cabot][Wave 4 Minis]             | [Enclave Wave Card Expansion Pack][Wave 4 Rules]   |
+| Mama Murphy                                                   | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| Nick Valentine                                                | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Nuka Girl                                                     | 1        | Resin    | [Nuka Cola Girl][Wave 1 Minis]                       | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| Piper                                                         | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| [Preston Garvey](#preston-garvey-painting-guide)              | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| Ronnie Shaw                                                   | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| Rosa Meitner                                                  | 1        | Resin    | [Survivors: Rosa Meitner][Wave 8 Minis]              | [Capital Rules Expansion][Wave 8 Rules]            |
+| [Settler (Female)](#settler-painting-guide)                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
+| [Settler (Female)](#settler-painting-guide)                   | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Two Player Starter Set][Wave 1 Rules]             |
+| Settler (Male)                                                | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
+| Settler (Male)                                                | 2        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Two Player Starter Set][Wave 1 Rules]             |
+| [Sole Survivor (Female)](#sole-survivor-painting-guide)       | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
+| Sole Survivor (Male)                                          | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Two Player Starter Set][Wave 1 Rules]             |
+| Strong                                                        | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Sturges                                                       | 1        | Resin    | [Survivors: Core Box][Wave 1 Minis]                  | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
+| Vault Dweller                                                 | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Vault Security Officer                                        | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| [Sole Survivor Tech](#x-01-survivor-assembly--painting-guide) | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |
+| X6-88 Courser                                                 | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
 
 #### Dogmeat Painting Guide
 
@@ -1329,9 +1361,9 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 
 | Item                | Quantity | Material | Included In                                    | Cards                                            | Notes |
 | ------------------- | -------- | -------- | ---------------------------------------------- | ------------------------------------------------ | ----- |
-| The Burned Man      | 1        | Resin    | [Unaligned: Burned Man][Wave 5 Minis]          | [New Vegas Rules Expansion][Wave 5 Rules]        |       |
-| [Grognak](#grognak) | 1        | Resin    | [Unaligned: Grognak][Wave 6 Minis]             | [Commonwealth Rules][Wave 6 Rules]               |       |
-| Mysterious Stranger | 1        | Resin    | [Unaligned: Mysterious Stranger][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |       |
+| The Burned Man      | 1        | Resin    | [Unaligned: Burned Man][Wave 5 Minis]          | [New Vegas Rules Expansion][Wave 5 Rules]        |
+| [Grognak](#grognak) | 1        | Resin    | [Unaligned: Grognak][Wave 6 Minis]             | [Commonwealth Rules][Wave 6 Rules]               |
+| Mysterious Stranger | 1        | Resin    | [Unaligned: Mysterious Stranger][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Grognak Painting Guide
 
@@ -1375,6 +1407,18 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 | Base / Loincloth | Warpaints: [Desert Yellow] | Warpaints Fanatic: [Desert Yellow] | :heavy_check_mark: |
 | Base / Weapons   | Warpaints: [Ash Grey]      | Warpaints Fanatic: [Ash Grey]      | :heavy_check_mark: |
 | Hair             | Citadel: Flayed One Flesh  | Warpaints Fanatic: [Dorado Skin]   | :heavy_check_mark: |
+
+#### T-45 Outcast Painting Guide
+
+[Fallout: Wasteland Warfare - Outcast Power Armor Video](https://www.youtube-nocookie.com/embed/DM10P9-tIHY)
+
+> Video © 2024 [Sonic Sledgehammer Studio](https://www.youtube.com/@SonicSledgehammerStudio)
+
+#### T-51 Painting Guide
+
+[Crawl Out Through the Fall Out! Fallout 4 Power Armour Video](https://www.youtube-nocookie.com/embed/RnwKHRipOMQ)
+
+> Video © 2021 [Sonic Sledgehammer Studio](https://www.youtube.com/@SonicSledgehammerStudio)
 
 [Black & Greys]: #
 [Ash Grey]: minatures-paint#black--greys
@@ -1524,3 +1568,4 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Wave 8 Minis]: fallout-wasteland-warfare#minatures-7
 [Wave 9 Rules]: fallout-wasteland-warfare#rules-8
 [Wave 9 Minis]: fallout-wasteland-warfare#minatures-8
+[Battle for Boston]: fallout-wasteland-warfare#items-3
