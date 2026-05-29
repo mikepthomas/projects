@@ -1216,6 +1216,47 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2019 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
 
+##### 1. Undercoat
+
+| Item   | Suggested Paint     | Own |
+| ------ | ------------------- | :-: |
+| Primer | [Matt Black Primer] | :x: |
+
+##### 2. Basecoat
+
+| Item                                     | Suggested Paint            | Alternative                        |        Own         |
+| ---------------------------------------- | -------------------------- | ---------------------------------- | :----------------: |
+| Base                                     | Warpaints: [Dark Stone]    |                                    | :heavy_check_mark: |
+| Vault Suit                               | Warpaints: [Deep Blue]     | Grinning Gargoyle: [Deep Blue]     | :heavy_check_mark: |
+| Leather Pads                             | Warpaints: [Leather Brown] | Grinning Gargoyle: [Leather Brown] | :heavy_check_mark: |
+| Belt / Rifle Stock / Wrist Guards / Wood | Warpaints: [Oak Brown]     |                                    | :heavy_check_mark: |
+| Belt Pouches / Pip Boy                   | Warpaints: [Army Green]    | Warpaints Fanatic: [Army Green]    | :heavy_check_mark: |
+| Skin                                     | Citadel: Kislev Flesh      | Warpaints Fanatic: [Amber Skin]    |        :x:         |
+
+##### 3. Wash
+
+| Item       | Suggested Paint               | Alternative                                 |        Own         |
+| ---------- | ----------------------------- | ------------------------------------------- | :----------------: |
+| Vault Suit | Citadel: Drakenhof Nightshade | Warpaints Fanatic Wash: [Dark Blue Tone]    | :heavy_check_mark: |
+| Leather    | Citadel: Nuln Oil             | Warpaints Fanatic Wash: [Dark Tone]         | :heavy_check_mark: |
+| Skin       | Citadel: Reikland Fleshshade  | Warpaints Fanatic Wash: [Strong Skin Shade] | :heavy_check_mark: |
+
+##### 4. Highlight 1
+
+| Item                                     | Suggested Paint            | Alternative                        |        Own         |
+| ---------------------------------------- | -------------------------- | ---------------------------------- | :----------------: |
+| Base                                     | Warpaints: [Dungeon Grey]  | Grinning Gargoyle: [Dungeon Grey]  | :heavy_check_mark: |
+| Leather Pads                             | Warpaints: [Monster Brown] |                                    | :heavy_check_mark: |
+| Belt / Rifle Stock / Wrist Guards / Wood | Warpaints: [Leather Brown] | Grinning Gargoyle: [Leather Brown] | :heavy_check_mark: |
+| Vault Suit                               | Warpaints: [Electric Blue] | Warpaints Fanatic: [Arctic Gem]    | :heavy_check_mark: |
+
+##### 5. Highlight 2
+
+| Item                   | Suggested Paint             | Alternative                       |        Own         |
+| ---------------------- | --------------------------- | --------------------------------- | :----------------: |
+| Base                   | Warpaints: [Uniform Grey]   | Warpaints Fanatic: [Uniform Grey] | :heavy_check_mark: |
+| Vault Suit Trim / Logo | Citadel: Flash Glitz Yellow |                                   |        :x:         |
+
 #### X-01 Survivor Assembly & Painting Guide
 
 ![X-01 Survivor](https://i.shgcdn.com/48f2ee5f-73a5-4839-a958-b06d95f08c1c/)
@@ -1357,6 +1398,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Vivid Blues]: #
 [Arctic Gem]: minatures-paint#vivid-blues
 [Crystal Blue]: minatures-paint#vivid-blues
+[Deep Blue]: minatures-paint#vivid-blues
 [Electric Blue]: minatures-paint#vivid-blues
 [Deep Green-Blues]: #
 [Turquoises]: #
@@ -1444,6 +1486,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [True Copper]: minatures-paint#the-army-painter-metalics
 [Washes]: #
 [Blue Tone]: minatures-paint#the-army-painter-washes
+[Dark Blue Tone]: minatures-paint#the-army-painter-washes
 [Dark Tone]: minatures-paint#the-army-painter-washes
 [Flesh Wash]: minatures-paint#the-army-painter-washes
 [Green Tone]: minatures-paint#the-army-painter-washes
