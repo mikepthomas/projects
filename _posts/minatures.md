@@ -1298,6 +1298,12 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Base                   | Warpaints: [Uniform Grey]   | Warpaints Fanatic: [Uniform Grey] | :heavy_check_mark: |
 | Vault Suit Trim / Logo | Citadel: Flash Glitz Yellow |                                   |        :x:         |
 
+#### The Ghoul Painting Guide
+
+[I Made These Fallout Characters for the Tabletop Video](https://www.youtube-nocookie.com/embed/IPtVzoZCyK0)
+
+> Video © 2024 [Misfit Hobbies](https://www.youtube.com/@MisfitHobbies)
+
 #### X-01 Survivor Assembly & Painting Guide
 
 ![X-01 Survivor](https://i.shgcdn.com/48f2ee5f-73a5-4839-a958-b06d95f08c1c/)
