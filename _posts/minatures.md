@@ -1253,9 +1253,9 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 
 | Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes |
 | -------------------------- | :-------: | ---------------------------------------- | :----------------: | ---------- | ----- |
-| The Slog Force List (v7.0) |           | [Free :pdf:][The Slog Force List (v7.0)] | :heavy_check_mark: | March 2023 |
+| The Slog Force List (v1.0) |           | [Free :pdf:][The Slog Force List (v1.0)] | :heavy_check_mark: | March 2023 |
 
-[The Slog Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Battle_Mode_The_Slog_001w.pdf
+[The Slog Force List (v1.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Battle_Mode_The_Slog_001w.pdf
 
 ## Unaligned
 
