@@ -134,16 +134,25 @@ keywords:
 
 ### Units
 
-| Item                                                 | Quantity | Material | Included In                                                   | Cards                                         | Notes |
-| ---------------------------------------------------- | -------- | -------- | ------------------------------------------------------------- | --------------------------------------------- | ----- |
+| Item                                                 | Quantity | Material | Included In                                                   | Cards                                         | Notes                                                                             |
+| ---------------------------------------------------- | -------- | -------- | ------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]                        | [Two Player Starter Set][Wave 1 Rules]        |
 | [Aspirant Goddard](#aspirant-goddard-painting-guide) | 1        | Resin    | [Brotherhood of Steel: Power Armor 1][Wave 4 Minis]           | [Two Player Starter Set][Wave 1 Rules]        |
-| Field Scribe                                         | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| Knight                                               | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
-| Initiate                                             | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
-| Initiate Blade                                       | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
-| Lancers                                              | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Paladin](#paladin-painting-guide)                   | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       |
+| Field Scribe                                         | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Field Scribe 1 Assembly Guide :pdf:] [Field Scribe 2 Assembly Guide :pdf:]       |
+| Knight                                               | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       | [Knight (T-60 B) Assembly Guide :pdf:]                                            |
+| Knight Patrol / Initiate                             | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]                             |
+| Knight Patrol (Blade) / Initiate Blade               | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]                             |
+| Lancers                                              | 2        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Initiate/Lancer 1 Assembly Guide :pdf:] [Initiate/Lancer 2 Assembly Guide :pdf:] |
+| [Paladin](#paladin-painting-guide)                   | 1        | HIPS     | [Brotherhood of Steel: Core Box (Plastic)][Battle for Boston] | [Capital Rules Expansion][Wave 8 Rules]       | [Paladin (T-60 A) Assembly Guide :pdf:]                                           |
+
+[Paladin (T-60 A) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=10
+[Knight (T-60 B) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=12
+[Initiate/Lancer 1 Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=14
+[Initiate/Lancer 2 Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=15
+[Field Scribe 1 Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=16
+[Field Scribe 2 Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=17
+[Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=18
+[Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=19
 
 #### Aspirant Goddard Painting Guide
 
