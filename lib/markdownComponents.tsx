@@ -37,7 +37,7 @@ import { basePath } from '../next.config';
 
 export function getComponents() {
   return {
-    a: ({ children, href, title }) => {
+    a: ({ children, href, id, title }) => {
       if (href?.match(/^(https?:)?\/\/www.youtube(-nocookie)?.com\/embed\//)) {
         return (
           <motion.span
@@ -94,7 +94,7 @@ export function getComponents() {
         );
       } else {
         return (
-          <Link href={href} title={title}>
+          <Link href={href} id={id} title={title}>
             {children}
           </Link>
         );

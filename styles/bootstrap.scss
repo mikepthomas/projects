@@ -102,8 +102,14 @@ $theme-colors: map-merge(
 html {
   scroll-padding-top: 120px;
 }
+ol,
 ul {
   padding-left: 15px;
+  li {
+    p {
+      margin-bottom: 0.5em;
+    }
+  }
 }
 table thead {
   @extend .table-dark;

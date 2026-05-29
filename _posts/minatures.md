@@ -100,6 +100,14 @@ keywords:
 
 ## Brotherhood of Steel
 
+> The `Brotherhood of Steel` view themselves as the true future of humanity, seeing technology as both a blessing and a curse.
+> The Brotherhood husband high tech weapons and armor from the past to cautiously build a new future.
+>
+> Though they might be few in number, they are walking tanks; steel within and without.
+> They go into battle with powerful long ranged attacks, armored against everything the wastes can throw at them.[^brotherhood-of-steel]
+
+[^brotherhood-of-steel]: [Modiphius Entertainment](https://www.modiphius.net) (2018). "Brotherhood of Steel Force List" _FOWW FLB-001-111_, Version 1.0 page 1.
+
 [Fallout Wasteland Warfare Brotherhood of Steel Miniatures Video](https://www.youtube-nocookie.com/embed/zHzFLsP2WHw)
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
@@ -217,6 +225,15 @@ keywords:
 
 ## Children of Atom
 
+> Praise be to Atom! The `Children of Atom` are zealous devotees of Atom who deify radiation in all its forms.
+> They seek to gather and protect radioactive materials, weapons, and locations, spreading “The Glow” by any means necessary.
+> To them atomic obliteration is a goal, rather than a fate to be feared, a division of the body into innumerable new worlds, a gift from Atom himself.
+>
+> When they set upon the unfaithful masses that threaten their ways, the `Children of Atom` are driven forward by the blessing of “The Glow” and wield weapons that share its gifts with those that stand against them.
+> Growing in strength with every click of the Geiger counter, even as Atom weakens their foes.[^children-of-atom]
+
+[^children-of-atom]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Children of Atom Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                                    | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
@@ -228,6 +245,13 @@ keywords:
 [Children of Atom Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca149759-e144-4d8e-8d6a-406c45d4bc82/BMCE-Children-of-Atom-v-1-0.pdf
 
 ## Creatures
+
+> The Wasteland is full of mutated and belligerent `Creatures` that survive and thrive in the post-nuclear ruins of the world.
+> Some group together by species and hive, others are wielded like a hammer by individuals with high-tech controlling systems.
+> Waves of chittering radroaches ovewhelm the foe; Deathclaw smash and rend even the toughest armor; Radscorpions and molerats emerge from burrows to bite and sting.
+> No matter the attack, when a group of creatures enters combat the results are close, bloody, and savage.[^creatures]
+
+[^creatures]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Creatures Force List" _FOWW BM-1-001_, Version 4.0 page 1.
 
 [Fallout Wasteland Warfare Deathclaw Video](https://www.youtube-nocookie.com/embed/bIy-BXHHa18)
 
@@ -333,6 +357,11 @@ keywords:
 
 ## Enclave
 
+> The `Enclave` believe they are the paramount force in the Wasteland, and stride to war cloaked in the arrogance of purity and the advanced technology to enforce their will.
+> Their elite forces burn and vaporise their enemies with impunity as they march towards reconquest.[^enclave]
+
+[^enclave]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Enclave Force List" _FOWW BM-1-001_, Version 4.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
@@ -420,6 +449,13 @@ keywords:
 
 ## Gunners
 
+> The `Gunners` are less a gang of raiders, more a private mercenary group eager to undertake the most violent jobs the Wasteland has to offer, for the right incentive of course.
+> The go-to outfit for mercenary work in the Commonwealth, the `Gunners` have forged themselves a fearsome and more than earned reputation.
+>
+> With a combination of overwhelming firepower and the support offered from their chain of command, the `Gunners` are swift to punish anyone foolish enough to mistake them for common raiders.[^gunners]
+
+[^gunners]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Gunners Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
@@ -431,6 +467,15 @@ keywords:
 [Gunners Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/886cce9f-767a-431d-89be-21eef04d86ac/BMCE-Gunners-v-1-0.pdf
 
 ## Institute
+
+> The `Institute` are a remnant of the pre-war intellectual elite.
+> Previously the Commonwealth Institute of Technology, in the apocalyptic wasteland they put their greatest asset to use.
+> Applying their minds to the problem of how to survive and thrive.
+>
+> This came in the form of advanced technology, synthetic humans (Synths), teleportation, and mass-produced laser weaponry.
+> With these advances and more in place, they have started enacting their shadowy plans regarding the future of the wasteland, and humankind as a whole.[^institute]
+
+[^institute]: [Modiphius Entertainment](https://www.modiphius.net) (2019). "The Institute Force List" _FOWW FLI-005-111_, Version 1.0 page 1.
 
 ### Battle Mode Force List
 
@@ -452,6 +497,12 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ## Leigon
 
+> Owned by the mighty Caesar, his legion of conquered warriors fights as a warped echo of the long forgotten Roman Empire.
+>
+> The ranks of Legionnaires bring a brutal peace to New Vegas through their fanatical devotion to their leader, under the watchful eyes of his officers.[^leigon]
+
+[^leigon]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Caesar's Leigon Force List" _FOWW BM-1-005_, Version 5.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                          | Purchased | Digital                                     |     Downloaded     | Released   | Notes                 |
@@ -465,6 +516,13 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [Legion Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7e720df6-a43b-4457-ac02-fe17c0f6e9de/BMCE-Legion-v-1-0.pdf
 
 ## NCR
+
+> The `NCR` strives to return democracy and the rule of law to the chaos of the Wasteland.
+>
+> However, it is not afraid to spill blood to achieve that goal.
+> It’s men and women of the Republic military are well armed and armoured, while specialists such as Rangers bring an elite punch.[^ncr]
+
+[^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
 
 ### Battle Mode Force List
 
@@ -573,6 +631,13 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ## Raiders
 
+> Not all of the people of the Wasteland seek to rebuild civilisation. The `Raiders` are the selfish, desperate or outright dangerous dregs of humanity.
+> Rather than build and grow, they steal and destroy. Rather than defend their fellow man, then seek to oppress and control them.
+>
+> Armed with whatever weapons and gear they can lay their hands on, and often hopped up on home distilled chems, the `Raiders` swarm their enemies and leave nothing of worth behind once the dust settles.[^raiders]
+
+[^raiders]: [Modiphius Entertainment](https://www.modiphius.net) (2018). "Raider Force List" _FOWW FLR-004-111_, Version 1.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released      | Notes                 |
@@ -658,6 +723,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 ## Railroad
 
+> Working in the shadows, The `Railroad` aim to champion and protect Synths across the Commonwealth.
+> Preferring subterfuge and stealth to a straight up fight, the `Railroad` work through highly skilled agents stationed throughout the Wasteland to achieve their goals.
+>
+> When pushed into unavoidable conflict, these specialised operatives come together to form a diverse combat team.
+> Able to lean on one another, the `Railroad` are an incredibly adaptable force, always able to call on the right person (or robot) for the right job.[^railroad]
+
+[^railroad]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Railroad Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
+
 ### Battle Mode Force List
 
 | Item                            | Purchased | Digital                                       |     Downloaded     | Released   | Notes                 |
@@ -669,6 +742,12 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 [Railroad Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/69343f4a-3915-4c6d-bef4-6dcdc14d0021/BMCE-Railroad-v-1-1.pdf
 
 ## Robots
+
+> Clanking metal plates and rotating actuators can spell doom for the unwary in the wasteland - the sound of nearby `Robots` is not a comforting one!
+> `Robots` that have survived in the new world have almost universally changed from helpful friends to militarised death bots, with Protectrons and Mr. Handys changed to aggressive stances (not to mention the high-tech military Assaultrons and Sentry Bots!).
+> Anyone attacking these tireless tin warriors must have a screw loose...[^robots]
+
+[^robots]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Robots Force List" _FOWW BM-1-001_, Version 4.0 page 1.
 
 ### Battle Mode Force List
 
@@ -777,6 +856,15 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Stone                | Warpaints: [Uniform Grey]        | Warpaints Fanatic: [Uniform Grey]        | :heavy_check_mark: |
 
 ## Super Mutants
+
+> The `Super Mutants` see themselves as lords of the wastes, and inheritors of civilization (just don’t ask them to spell civilization).
+> They go chest-to-chest with anything the Wasteland can throw at them, and usually come out on top.
+> Super Mutants are combat monsters, charging into the fray and hacking the enemy apart with crude, bludgeoning weapons.
+>
+> They tend not to have heavy armor or power at long range, but they make up for this with bulk, endurance and very powerful close assaults.
+> Gang up and charge in – meat bags don’t fill themselves![^super-mutants]
+
+[^super-mutants]: [Modiphius Entertainment](https://www.modiphius.net) (2018). "Super Mutant Force List" _FOWW FLM-002-111_, Version 1.0 page 1.
 
 [Fallout Wasteland Warfare Super Mutants Miniatures Video](https://www.youtube-nocookie.com/embed/lq46sRF-DyU)
 
@@ -913,6 +1001,14 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 | Skin          | Warpaints Air: [Feral Green]     |                                          |        :x:         |
 
 ## Survivors
+
+> The `Survivors` faction represents rag-tag groups of humans banding together.
+> Individually they are weaker than many other denizens of the Wasteland, but they thrive as a group.
+> `Survivors` also have a high number of named characters with individual special abilities.
+>
+> The layers of bonuses to your force and negatives to the enemy gives the `Survivors` a serious edge in combat, the whole becoming much greater than the sum of its parts.[^survivors]
+
+[^survivors]: [Modiphius Entertainment](https://www.modiphius.net) (2018). "Survivors Force List" _FOWW FLS-003-111_, Version 1.0 page 1.
 
 [Fallout Wasteland Warfare Survivors Miniatures Video](https://www.youtube-nocookie.com/embed/eNUOSiWVgZc)
 
@@ -1143,6 +1239,15 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 | Base Stone    | Warpaints: [Ash Grey]            | Warpaints Fanatic: [Ash Grey]            | :heavy_check_mark: |
 
 ## The Slog
+
+> Across the wasteland, no survivors are alien to hard work, but among the inhabitants of '`The Slog`', hard work is tantamount to survival.
+> A settlement comprised solely of Ghouls and led by the always friendly Wiseman, ‘`The Slog`’ is a farm above all other things, the only Tarberry Bog in the Commonwealth.
+> However, mistaking the Ghouls tending to the land as nothing more than farmers is a mistake raiders have made in the past, and found a group of ornery, resilient, and frankly prepared men and women more than capable of defending what’s theirs.
+>
+> Partnering the natural fortitude of their kind with the bounty from the farm, when pushed to a fight the members of ‘`The Slog`’ are long lasting foes, able to power though more wounds than most and outright ignore the dangers of radiation.
+> Together, they are armed, organised and most importantly, determined.[^the-slog]
+
+[^the-slog]: [Modiphius Entertainment](https://www.modiphius.net) (2022). "The Slog Force List" _FOWW FITF-1-007_, Version 1.0 page 1.
 
 ### Battle Mode Force List
 
