@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-30T16:29:11.279Z
+lastmod: 2026-05-30T23:00:03.088Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -406,7 +406,7 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 ### Accessories
 
-![Weapons Upgrade Pack](https://i.shgcdn.com/81edb1be-3f5c-41d5-a029-1f3858031e15/)
+![Weapons Upgrade Pack](https://modiphius.net/cdn/shop/products/Fallout_WeaponsSprueHero_1280x.jpg)
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
@@ -422,29 +422,45 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                               | Notes        |
-| ------------------------------------- | :----------------: | --------------------------- | :----------------: | -------------------------------------- | ------------ |
-| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]             | Legendary    |
-| [Creatures: Ghouls]                   |        :x:         |                             |                    | November 2019                          |
-| [Creatures: Wasteland Vermin]         |        :x:         |                             |                    | November 2019                          |
-| [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
-| [Raiders: Core Box]                   | :heavy_check_mark: |                             |                    | [August 2019][PR 12/08/19]             |
-| [Robots: Assaultrons & Protectrons]   |        :x:         |                             |                    | October 2019                           |
-| [Robots: Sentry Bot]                  | :heavy_check_mark: |                             |                    | April 2019                             |
-| [Stealth Boy Coursers]                |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]      | GenCon Promo |
-| [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                             |                    | [October 2019][DEVELOPMENT BLOG #7]    |
-| [Unaligned: Mysterious Stranger]      | :heavy_check_mark: |                             |                    | [September 2020][DEVELOPMENT BLOG #25] | Promo        |
+| Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                            | Notes        |
+| ------------------------------------- | :----------------: | --------------------------- | :----------------: | ----------------------------------- | ------------ |
+| [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]          | Legendary    |
+| [Creatures: Ghouls]                   |        :x:         |                             |                    | November 2019                       |
+| [Creatures: Wasteland Vermin]         |        :x:         |                             |                    | November 2019                       |
+| [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
+| [Robots: Assaultrons & Protectrons]   |        :x:         |                             |                    | October 2019                        |
+| [Robots: Sentry Bot]                  | :heavy_check_mark: |                             |                    | April 2019                          |
+| [Stealth Boy Coursers]                |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
+| [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                             |                    | [October 2019][DEVELOPMENT BLOG #7] |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
 [Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
 [Glowing Ghouls]: https://web.archive.org/web/20220124171706/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-glowing-ghouls
 [Liberty Prime Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
-[Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
 [Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
 [Robots: Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
 [Stealth Boy Coursers]: https://web.archive.org/web/20220118105112/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-stealth-boy-coursers
 [Survivors: X-01 Survivor & Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
+
+#### Raiders
+
+![The Raider Bundle](https://modiphius.net/cdn/shop/products/Fallout_RaidersWebBundleStranger1Full1Web_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+[The Raider Bundle](https://modiphius.net/products/fallout-wasteland-warfare-the-raider-bundle) includes the main Raiders packs in addition to the [Raiders Wave Expansion Card Pack].
+
+| Item                                   |     Purchased      | Digital | Downloaded | Released                               | Notes |
+| -------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- | ----- |
+| [Raiders: Ack Ack, Sinjin & Avery]     |        :x:         |         |            | [August 2019][PR 12/08/19]             |
+| [Raiders: Core Box]                    | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]             |
+| [Raiders: Raiders, Scavvers & Psychos] |        :x:         |         |            | [August 2019][PR 12/08/19]             |
+| [Unaligned: Mysterious Stranger]       | :heavy_check_mark: |         |            | [September 2020][DEVELOPMENT BLOG #25] | Promo |
+
+[Raiders: Ack Ack, Sinjin & Avery]: https://modiphius.net/products/fallout-wasteland-warfare-ack-ack-sinjin-avery
+[Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
+[Raiders: Raiders, Scavvers & Psychos]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-scavvers-psychos
 [Unaligned: Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger
 
 ### Scatter
@@ -618,29 +634,44 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               |     Purchased      | Digital | Downloaded | Released     | Notes                                |
-| ------------------ | :----------------: | ------- | :--------: | ------------ | ------------------------------------ |
-| [Objective Pack 1] | :heavy_check_mark: |         |            | January 2020 | [Blog: How To Use Objective Markers] |
-| [Objective Pack 2] | :heavy_check_mark: |         |            | January 2020 | [Blog: How To Use Objective Markers] |
+| Item                               |     Purchased      | Digital | Downloaded | Released                          | Notes                                |
+| ---------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ------------------------------------ |
+| Nuka-Cola Bottle Objective Markers |        :x:         |         |            | [June 2019][DEVELOPMENT BLOG #26] | GenCon Promo                         |
+| [Objective Pack 1]                 | :heavy_check_mark: |         |            | January 2020                      | [Blog: How To Use Objective Markers] |
+| [Objective Pack 2]                 | :heavy_check_mark: |         |            | January 2020                      | [Blog: How To Use Objective Markers] |
 
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
 ### Minatures
 
-| Item                           |     Purchased      | Digital | Downloaded | Released                                        | Notes                                                  |
-| ------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
-| [Institute: Core Box]          |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
-| [The Mechanist]                | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update]         | Promo                                                  |
-| [Survivors: Unusual Allies]    | :heavy_check_mark: |         |            |                                                 |
-| [Survivors: Vault Personnel]   | :heavy_check_mark: |         |            |                                                 | Contains Miniatures related to the [Vault](vault)      |
-| [Unaligned: T-51 Power Armour] |        :x:         |         |            |
+| Item                                                 |     Purchased      | Digital | Downloaded | Released                                | Notes                                             |
+| ---------------------------------------------------- | :----------------: | ------- | :--------: | --------------------------------------- | ------------------------------------------------- |
+| [Brotherhood of Steel: Elder Maxson & Captain Kells] |        :x:         |         |            |                                         |
+| [The Mechanist]                                      | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update] | Promo                                             |
+| [Super Mutants: Overlord & Fist]                     |        :x:         |         |            |                                         |
+| [Survivors: Unusual Allies]                          | :heavy_check_mark: |         |            |                                         |
+| [Survivors: Vault Personnel]                         | :heavy_check_mark: |         |            |                                         | Contains Miniatures related to the [Vault](vault) |
+| [Unaligned: T-51 Power Armour]                       |        :x:         |         |            |                                         |
 
-[Institute: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
+[Brotherhood of Steel: Elder Maxson & Captain Kells]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-elder-maxson-and-captain-kells
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
+[Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
 [Survivors: Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies
 [Survivors: Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
 [Unaligned: T-51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
+
+#### Institute
+
+| Item                           | Purchased | Digital | Downloaded | Released                                        | Notes                                                  |
+| ------------------------------ | :-------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
+| [Institute: Core Box]          |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
+| [Institute: Covert Operations] |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] |
+| [Institute: Synths]            |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] |
+
+[Institute: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
+[Institute: Covert Operations]: https://modiphius.net/products/fallout-wasteland-warfare-institute-institute-covert-operations
+[Institute: Synths]: https://modiphius.net/products/fallout-wasteland-warfare-institute-synths
 
 ### Scatter
 
@@ -762,30 +793,60 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 ### Minatures
 
-![Frank Horrigan](https://i.shgcdn.com/efc84897-0eed-4214-a7e6-d5315349cb84/)
+![Power Armour](https://i.shgcdn.com/dacdb95d-82f8-4e05-8ca5-b83bdc4b8a46/)
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                              | Notes                                            |
-| ------------------------------------- | :----------------: | ----------------------- | :----------------: | ------------------------------------- | ------------------------------------------------ |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                                       |
-| [Creatures: Fog Crawler]              |        :x:         |                         |                    | July 2020                             | [Legendary (Shipbreaker)][Into the Wasteland]    |
-| [Creatures: Mirelurk Queen]           |        :x:         |                         |                    | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
-| [Enclave: Core Box]                   | :heavy_check_mark: |                         |                    |                                       |
-| [Enclave: Frank Horrigan]             | :heavy_check_mark: |                         |                    | [November 2020][DEVELOPMENT BLOG #11] | Legendary                                        |
-| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021]                          |
-| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20]          | Promo                                            |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                                       |
+| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                     | Notes |
+| ------------------------------------- | :----------------: | ----------------------- | :----------------: | ---------------------------- | ----- |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                              |
+| [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021]                 |
+| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020][FF 20/11/20] | Promo |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                              |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
-[Creatures: Fog Crawler]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-fog-crawler
-[Creatures: Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen
-[Enclave: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
-[Enclave: Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan
 [Robobrain Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
 [Robots: Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
 [Survivors: Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
 [Unaligned: T-45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
+
+#### Creatures
+
+![The Mirelurk Bundle](https://modiphius.net/cdn/shop/products/MirelurkScaleDiagramWithSSandHatchlings_808ba902-37b0-4487-a629-3d6e1d67b111_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+[The Mirelurk Bundle](https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-mirelurk-bundle) includes the following packs:
+
+| Item                                    | Purchased | Digital | Downloaded | Released                              | Notes                                            |
+| --------------------------------------- | :-------: | ------- | :--------: | ------------------------------------- | ------------------------------------------------ |
+| [Creatures: Fog Crawler]                |    :x:    |         |            | July 2020                             | [Legendary (Shipbreaker)][Into the Wasteland]    |
+| [Creatures: Mirelurks]                  |    :x:    |         |            |                                       |                                                  |
+| [Creatures: Mirelurk Hatchlings & Eggs] |    :x:    |         |            |                                       |                                                  |
+| [Creatures: Mirelurk Hunters]           |    :x:    |         |            |                                       |                                                  |
+| [Creatures: Mirelurk Queen]             |    :x:    |         |            | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
+
+[Creatures: Fog Crawler]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-fog-crawler
+[Creatures: Mirelurks]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk
+[Creatures: Mirelurk Hatchlings & Eggs]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-hatchlings-eggs
+[Creatures: Mirelurk Hunters]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-hunters
+[Creatures: Mirelurk Queen]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk-queen
+
+#### Enclave
+
+![Frank Horrigan](https://i.shgcdn.com/efc84897-0eed-4214-a7e6-d5315349cb84/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                      |     Purchased      | Digital | Downloaded | Released                              | Notes     |
+| ------------------------- | :----------------: | ------- | :--------: | ------------------------------------- | --------- |
+| [Enclave: Core Box]       | :heavy_check_mark: |         |            |                                       |
+| [Enclave: Frank Horrigan] | :heavy_check_mark: |         |            | [November 2020][DEVELOPMENT BLOG #11] | Legendary |
+| [Enclave: High Command]   |        :x:         |         |            |                                       |
+
+[Enclave: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
+[Enclave: Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan
+[Enclave: High Command]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-high-command
 
 ### Scatter
 
