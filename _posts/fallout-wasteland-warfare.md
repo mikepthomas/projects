@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-05-21T18:25:29.561Z
+lastmod: 2026-05-30T16:29:11.279Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1323,6 +1323,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ### Minatures
 
+#### Mr. Fuzzy and The Ghoulish Remnants
+
 | Item                           |     Purchased      | Digital | Downloaded | Released                 | Notes |
 | ------------------------------ | :----------------: | ------- | :--------: | ------------------------ | ----- |
 | [Creatures: Ghoulish Remnants] |        :x:         |         |            | [June 2024][FF 21/06/24] |
@@ -1330,6 +1332,16 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
+
+#### Scorched Plague
+
+| Item                  |     Purchased      | Digital | Downloaded | Released                | Notes     |
+| --------------------- | :----------------: | ------- | :--------: | ----------------------- | --------- |
+| [Scorchbeast Queen]   | :heavy_check_mark: |         |            | [May 2025][FF 23/05/25] | Legendary |
+| [Scorched: The Horde] |        :x:         |         |            | [May 2025][FF 23/05/25] |
+
+[Scorchbeast Queen]: https://modiphius.net/products/fallout-miniatures-scorched-scorchbeast-queen
+[Scorched: The Horde]: https://modiphius.net/products/fallout-miniatures-scorched-the-horde
 
 ### Scenarios
 
@@ -1377,6 +1389,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 [Longfellow and the Trappers Rules]: https://connect.forgefire.games/products/longfellow-and-the-trappers-card-pack
 
 ### Minatures
+
+#### Longfellow and the Trappers
 
 | Item                        |     Purchased      | Digital | Downloaded | Released                     | Notes |
 | --------------------------- | :----------------: | ------- | :--------: | ---------------------------- | ----- |
