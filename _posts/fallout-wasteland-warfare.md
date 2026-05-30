@@ -1365,7 +1365,7 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 [FF 18/07/25]: https://modiphius.net/blogs/news/fallout-friday-july-18th
 [FF 22/08/25]: https://modiphius.net/blogs/news/fallout-friday-august-22nd
 
-[Fallout: Factions & Wasteland Warfare - Wave 10: The Wilds of Appalachia Video](https://www.youtube-nocookie.com/embed/Ru0CrPVhOx4)
+[Fallout: Factions & Wasteland Warfare - Wave 10, Part 1 Video](https://www.youtube-nocookie.com/embed/Ru0CrPVhOx4)
 
 > Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
@@ -1409,6 +1409,10 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
 #### Scorched Plague
+
+[Fallout: Miniatures Reveal - Wave 10, Part 2 Video](https://www.youtube-nocookie.com/embed/6wadIOkHYtM?start=2354)
+
+> Video © 2024 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                  |     Purchased      | Digital | Downloaded | Released                | Notes     |
 | --------------------- | :----------------: | ------- | :--------: | ----------------------- | --------- |
