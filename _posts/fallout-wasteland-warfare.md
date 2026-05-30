@@ -108,7 +108,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 
 | Item                     |     Purchased      | Digital                          |     Downloaded     | Released                          | Notes                                                          |
 | ------------------------ | :----------------: | -------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
-| [Settlement Deck]        | :heavy_check_mark: |                                  |                    | April 2019                        | Discontinued, but some cards are available in later card packs |
+| [Settlement Deck]        | :heavy_check_mark: |                                  |                    | April 2019                        | Discontinued, but some cards are available in later card decks |
 | [Two Player Starter Set] | :heavy_check_mark: |                                  |                    | [April 2019][DEVELOPMENT BLOG #1] |
 | ┝ Cards                  | :heavy_check_mark: | [Free :pdf:][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Dice & Rulers          | :heavy_check_mark: | [Free :pdf:][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
@@ -224,14 +224,20 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                                      |     Purchased      | Digital | Downloaded | Released                           | Notes |
 | ----------------------------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
 | [Nuka Cola Girl]                          | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]         | Promo |
+| [Super Mutants: Behemoth]                 | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]  |
 | [Two Player Starter Set Resin Miniatures] |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #12] |
 
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
+[Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
 [Two Player Starter Set Resin Miniatures]: https://modiphius.net/products/copy-of-fallout-wasteland-warfare-two-player-starter-models-collectors-resin-set
 
 #### Brotherhood of Steel
 
-[Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle)
+![The Brotherhood of Steel Starter Bundle](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle-fallout-wasteland-warfare-modiphius-entertainment-760153_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+[The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the following sets:
 
 | Item                                                        | Purchased | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :-------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
@@ -267,23 +273,25 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Super Mutants
 
-[Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle)
+![The Super Mutants Starter Bundle](https://modiphius.net/cdn/shop/products/1-Bundle-Shot-Fallout-Wasteland-Warfare-MUH051285_1280x.jpg)
 
-| Item                       |     Purchased      | Digital | Downloaded | Released                                  | Notes |
-| -------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [Super Mutants: Behemoth]  | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]         |
-| [Super Mutants: Core Box]  |        :x:         |         |            | April 2019                                |
-| [Super Mutants: Hammer]    |        :x:         |         |            | April 2019                                |
-| [Super Mutants: Suiciders] |        :x:         |         |            | [April 2019][Blog: Super Mutant Suicider] |
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
+[The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main Super Mutant sets in addition to the [Two Player Starter Set].
+
+| Item                       | Purchased | Digital | Downloaded | Released                                  | Notes |
+| -------------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [Super Mutants: Core Box]  |    :x:    |         |            | April 2019                                |
+| [Super Mutants: Hammer]    |    :x:    |         |            | April 2019                                |
+| [Super Mutants: Suiciders] |    :x:    |         |            | [April 2019][Blog: Super Mutant Suicider] |
+
 [Super Mutants: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
 [Super Mutants: Hammer]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-hammer
 [Super Mutants: Suiciders]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-suiciders
 
 #### Survivors
 
-[Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle)
+[The Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle) includes the main Survivors sets in addition to the [Two Player Starter Set].
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                          | Notes                                                             |
 | -------------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----------------------------------------------------------------- |
@@ -449,7 +457,7 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Raider Bundle](https://modiphius.net/products/fallout-wasteland-warfare-the-raider-bundle) includes the main Raiders packs in addition to the [Raiders Wave Expansion Card Pack].
+[The Raider Bundle](https://modiphius.net/products/fallout-wasteland-warfare-the-raider-bundle) includes the main Raiders sets in addition to the [Raiders Wave Expansion Card Pack].
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                               | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- | ----- |
@@ -645,17 +653,15 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Minatures
 
-| Item                                                 |     Purchased      | Digital | Downloaded | Released                                | Notes                                             |
-| ---------------------------------------------------- | :----------------: | ------- | :--------: | --------------------------------------- | ------------------------------------------------- |
-| [Brotherhood of Steel: Elder Maxson & Captain Kells] |        :x:         |         |            |                                         |
-| [The Mechanist]                                      | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update] | Promo                                             |
-| [Super Mutants: Overlord & Fist]                     |        :x:         |         |            |                                         |
-| [Survivors: Unusual Allies]                          | :heavy_check_mark: |         |            |                                         |
-| [Survivors: Vault Personnel]                         | :heavy_check_mark: |         |            |                                         | Contains Miniatures related to the [Vault](vault) |
-| [Unaligned: T-51 Power Armour]                       |        :x:         |         |            |                                         |
+| Item                                                 |     Purchased      | Digital | Downloaded | Released | Notes                                             |
+| ---------------------------------------------------- | :----------------: | ------- | :--------: | -------- | ------------------------------------------------- |
+| [Brotherhood of Steel: Elder Maxson & Captain Kells] |        :x:         |         |            |          |
+| [Super Mutants: Overlord & Fist]                     |        :x:         |         |            |          |
+| [Survivors: Unusual Allies]                          | :heavy_check_mark: |         |            |          |
+| [Survivors: Vault Personnel]                         | :heavy_check_mark: |         |            |          | Contains Miniatures related to the [Vault](vault) |
+| [Unaligned: T-51 Power Armour]                       |        :x:         |         |            |          |
 
 [Brotherhood of Steel: Elder Maxson & Captain Kells]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-elder-maxson-and-captain-kells
-[The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
 [Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
 [Survivors: Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies
 [Survivors: Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
@@ -663,15 +669,23 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Institute
 
-| Item                           | Purchased | Digital | Downloaded | Released                                        | Notes                                                  |
-| ------------------------------ | :-------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
-| [Institute: Core Box]          |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
-| [Institute: Covert Operations] |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] |
-| [Institute: Synths]            |    :x:    |         |            | [December 2019][Blog: Whats In Boxes Institute] |
+![The Institute Bundle](https://modiphius.net/cdn/shop/products/1-Product-Shot-Fallout-Wasteland-Warfare-MUH052037_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+[The Institute Bundle](https://modiphius.net/products/fallout-wasteland-warfare-institute-bundle) includes the main Institute sets in addition to the [Institute Wave Expansion Card Pack].
+
+| Item                           |     Purchased      | Digital | Downloaded | Released                                        | Notes                                                  |
+| ------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
+| [Institute: Core Box]          |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
+| [Institute: Covert Operations] |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] |
+| [Institute: Synths]            |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] |
+| [The Mechanist]                | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update]         | Promo                                                  |
 
 [Institute: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-institute-core-box
 [Institute: Covert Operations]: https://modiphius.net/products/fallout-wasteland-warfare-institute-institute-covert-operations
 [Institute: Synths]: https://modiphius.net/products/fallout-wasteland-warfare-institute-synths
+[The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
 
 ### Scatter
 
@@ -816,7 +830,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Mirelurk Bundle](https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-mirelurk-bundle) includes the following packs:
+[The Mirelurk Bundle](https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-mirelurk-bundle) includes the following sets:
 
 | Item                                    | Purchased | Digital | Downloaded | Released                              | Notes                                            |
 | --------------------------------------- | :-------: | ------- | :--------: | ------------------------------------- | ------------------------------------------------ |
