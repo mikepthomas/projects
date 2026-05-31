@@ -1988,6 +1988,11 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [PR 20/03/24]: https://modiphius.net/blogs/press-releases/modiphius-new-fallout-miniatures-game-available-to-pre-order
 [PR 28/02/25]: https://modiphius.net/blogs/press-releases/new-core-rulebook-for-fallout-factions-now-available-for-pre-order
 [PR 02/10/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-second-fallout-factions-starter-set
+[Youtube Release Videos]: #
+[Fallout Factions #1]: https://www.youtube.com/watch?v=xiqyvzMp42Y
+[Fallout Factions #2]: https://www.youtube.com/watch?v=32L1G7QiW_4
+[Fallout Factions #3]: https://www.youtube.com/watch?v=Sh_DmYY9WYE
+[Fallout Factions #4]: https://www.youtube.com/watch?v=9Ng-b8ESw8Y
 
 ## Rules
 
