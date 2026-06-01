@@ -1737,7 +1737,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
 [RPG (Expansion Book) PDF]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf
-[RPG (Expansion Book) Special Edition]: https://web.archive.org/web/20190802205136/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-rpg-expansion-book-collectors-edition
+[RPG (Expansion Book) Special Edition]: https://web.archive.org/web/20220725164423/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-collectors-edition
 [RPG - GM Screen and Booklet]: https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet
 
 ### Errata
