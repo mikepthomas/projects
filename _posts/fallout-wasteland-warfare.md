@@ -1727,15 +1727,17 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-bundle) contains 3 items:
 
-| Item                          |     Purchased      | Digital                               |     Downloaded     | Released                           | Notes |
-| ----------------------------- | :----------------: | ------------------------------------- | :----------------: | ---------------------------------- | ----- |
-| [Extra Tabletop Dice Set]     | :heavy_check_mark: |                                       |                    | [April 2019][DEVELOPMENT BLOG #16] |
-| [RPG (Expansion Book)]        | :heavy_check_mark: | [Buy :pdf:][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
-| [RPG - GM Screen and Booklet] | :heavy_check_mark: |                                       |                    | July 2020                          |
+| Item                                   |     Purchased      | Digital                               |     Downloaded     | Released                           | Notes |
+| -------------------------------------- | :----------------: | ------------------------------------- | :----------------: | ---------------------------------- | ----- |
+| [Extra Tabletop Dice Set]              | :heavy_check_mark: |                                       |                    | [April 2019][DEVELOPMENT BLOG #16] |
+| [RPG (Expansion Book)]                 | :heavy_check_mark: | [Buy :pdf:][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
+| [RPG (Expansion Book) Special Edition] |        :x:         | [Buy :pdf:][RPG (Expansion Book) PDF] | :heavy_check_mark: | [August 2019][PR 01/08/19]         |
+| [RPG - GM Screen and Booklet]          | :heavy_check_mark: |                                       |                    | July 2020                          |
 
 [Extra Tabletop Dice Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-extra-dice-set
 [RPG (Expansion Book)]: https://web.archive.org/web/20220703183803/https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book
 [RPG (Expansion Book) PDF]: https://modiphius.net/products/fallout-wasteland-warfare-rpg-expansion-book-pdf
+[RPG (Expansion Book) Special Edition]: https://web.archive.org/web/20190802205136/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-rpg-expansion-book-collectors-edition
 [RPG - GM Screen and Booklet]: https://www.modiphius.net/products/fallout-wasteland-warfare-rpg-gm-screen-and-booklet
 
 ### Errata
