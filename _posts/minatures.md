@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-05-29T11:04:12.681Z
+lastmod: 2026-06-04T13:04:58.685Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -31,72 +31,7 @@ keywords:
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-# Item & Unit Costs
-
-## General Mode
-
-| Item                      | Purchased | Digital                                 |     Downloaded     | Released      | Notes |
-| ------------------------- | :-------: | --------------------------------------- | :----------------: | ------------- | ----- |
-| Item & Unit Costs (v1.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | July 2018     |
-| Item & Unit Costs (v2.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | March 2019    |
-| Item & Unit Costs (v2.1)  |           | [Free :pdf:][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
-| Item & Unit Costs (v3.0)  |           | [Free :pdf:][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
-| Item & Unit Costs (v3.2)  |           | [Free :pdf:][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
-| Item & Unit Costs (v6.0)  |           | [Free :pdf:][Item & Unit Costs (v6.0)]  | :heavy_check_mark: | November 2022 |
-| Item & Unit Costs (v7.0)  |           | [Free :pdf:][Item & Unit Costs (v7.0)]  | :heavy_check_mark: | April 2023    |
-| Item & Unit Costs (v9.0)  |           | [Free :pdf:][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
-| Item & Unit Costs (v10.0) |           | [Free :pdf:][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
-
-[Item & Unit Costs]: https://web.archive.org/web/20190825194518/https://www.modiphius.net/products/fallout-wasteland-warfare-battle-mode-force-lists-free
-[Item & Unit Costs (v2.1)]: https://web.archive.org/web/20191123170110/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_item_and_unit_costs_v2.1.pdf
-[Item & Unit Costs (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.0.pdf
-[Item & Unit Costs (v3.2)]: https://web.archive.org/web/20201204130419/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.2.pdf
-[Item & Unit Costs (v6.0)]: https://web.archive.org/web/20230207221806/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_General_Mode_Unit_and_Item_Costs_002w.pdf?v=1668459562
-[Item & Unit Costs (v7.0)]: https://web.archive.org/web/20230602025924/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_General_Mode_Unit_and_Item_Costs.pdf?v=1682523440
-[Item & Unit Costs (v9.0)]: https://web.archive.org/web/20240301033311/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs_001LW.pdf?v=1701287020
-[Item & Unit Costs (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf
-
-## Roleplaying Game
-
-| Item                         | Purchased | Digital                                    |     Downloaded     | Released      | Notes |
-| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | ------------- | ----- |
-| RPG Item Costs (v1.0)        |           | [Free :pdf:][RPG Item Costs (v1.0)]        | :heavy_check_mark: | December 2019 |
-| RPG Item & Unit Costs (v4.0) |           | [Free :pdf:][RPG Item & Unit Costs (v4.0)] | :heavy_check_mark: | November 2020 |
-
-[RPG Item Costs (v1.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_item_costs_v.1.0.pdf
-[RPG Item & Unit Costs (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/fww_wave_4_rpg_unit_and_item_costs_nov2020.pdf
-
-## Battle Mode
-
-### Items
-
-| Item                                  | Purchased | Digital                                             |     Downloaded     | Released     | Notes |
-| ------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------ | ----- |
-| Items (v1.0)                          |           | [Free :pdf:][Items (v1.0)]                          | :heavy_check_mark: | January 2021 |
-| Items (v5.0)                          |           | [Free :pdf:][Items (v5.0)]                          | :heavy_check_mark: | May 2021     |
-| Items (v8.0)                          |           | [Free :pdf:][Items (v8.0)]                          | :heavy_check_mark: | April 2023   |
-| Alcohol, Chem, and Food (BMCE v1.0)   |           | [Free :pdf:][Alcohol, Chem, and Food (BMCE v1.0) ]  | :heavy_check_mark: | June 2024    |
-| Armor, Clothes, and Power (BMCE v1.0) |           | [Free :pdf:][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
-| Weapons (BMCE v1.0)                   |           | [Free :pdf:][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
-
-[Items (v1.0)]: https://web.archive.org/web/20210317032625/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
-[Items (v5.0)]: https://web.archive.org/web/20211017025537/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_items_17may.pdf
-[Items (v8.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Items.pdf
-[Alcohol, Chem, and Food (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/672d3170-7434-48bd-8dd2-1ac3e278dfdb/BMCE-Alcohol-Chem-and-Food-items-list-v-1-0.pdf
-[Armor, Clothes, and Power (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c56367dc-1793-4d5a-93f9-3d468004ff72/BMCE-Armor-Clothes-and-Power-Armor-items-list-v-1-1.pdf
-[Weapons (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/4effbba1-d622-47a7-ad74-36cbfa518494/BMCE-Weapons-items-list-v-1-0.pdf
-
-### Perks and Upgrades
-
-| Item                         | Purchased | Digital                                    |     Downloaded     | Released  | Notes |
-| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | --------- | ----- |
-| Gears and Mods (BMCE v1.1)   |           | [Free :pdf:][Gears and Mods (BMCE v1.1)]   | :heavy_check_mark: | June 2024 |
-| Leader and Perks (BMCE v1.1) |           | [Free :pdf:][Leader and Perks (BMCE v1.1)] | :heavy_check_mark: | June 2024 |
-
-[Gears and Mods (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/6504537a-54b3-477b-af18-46ed49711d89/BMCE-Gears-and-Mods-items-list-v-1-1.pdf
-[Leader and Perks (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/00face65-d3a1-435c-860c-739031fd0f03/BMCE-Leader-and-Perks-items-list-v-1-1.pdf
-
-# Force Lists
+# Battle Mode
 
 ## Brotherhood of Steel
 
@@ -112,7 +47,7 @@ keywords:
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                                        | Purchased | Digital                                  |     Downloaded     | Released      | Notes                 |
 | ------------------------------------------- | :-------: | ---------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -259,7 +194,7 @@ keywords:
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                                    | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
 | --------------------------------------- | :-------: | ----------------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -282,7 +217,7 @@ keywords:
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                             | Purchased | Digital                                        |     Downloaded     | Released   | Notes                 |
 | -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -393,7 +328,7 @@ keywords:
 
 [^enclave]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Enclave Force List" _FOWW BM-1-001_, Version 4.0 page 1.
 
-### Battle Mode Force List
+### Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
 | ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -491,7 +426,7 @@ keywords:
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
 | ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -512,7 +447,7 @@ keywords:
 
 [^institute]: [Modiphius Entertainment](https://www.modiphius.net) (2019). "The Institute Force List" _FOWW FLI-005-111_, Version 1.0 page 1.
 
-### Battle Mode Force List
+### Force List
 
 | Item                             | Purchased | Digital                                        |     Downloaded     | Released      | Notes                 |
 | -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -552,7 +487,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [^leigon]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Caesar's Leigon Force List" _FOWW BM-1-005_, Version 5.0 page 1.
 
-### Battle Mode Force List
+### Force List
 
 | Item                          | Purchased | Digital                                     |     Downloaded     | Released   | Notes                 |
 | ----------------------------- | :-------: | ------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -577,7 +512,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 > Video © 2020 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes                 |
 | -------------------------- | :-------: | ---------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -594,7 +529,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > [!IMPORTANT]
 > The Nuka-World Gangs Raiders can be built in multiple ways. Please read the `Fallout: Factions` or `Wasteland Warfare` rules before building.
 
-### Battle Mode Force List
+### Force List
 
 | Item                                            | Purchased | Digital                                                       |     Downloaded     | Released  | Notes                 |
 | ----------------------------------------------- | :-------: | ------------------------------------------------------------- | :----------------: | --------- | --------------------- |
@@ -691,7 +626,7 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [^raiders]: [Modiphius Entertainment](https://www.modiphius.net) (2018). "Raider Force List" _FOWW FLR-004-111_, Version 1.0 page 1.
 
-### Battle Mode Force List
+### Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released      | Notes                 |
 | ------------------------------ | :-------: | -------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -788,7 +723,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                            | Purchased | Digital                                       |     Downloaded     | Released   | Notes                 |
 | ------------------------------- | :-------: | --------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -806,7 +741,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 [^robots]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "Robots Force List" _FOWW BM-1-001_, Version 4.0 page 1.
 
-### Battle Mode Force List
+### Force List
 
 | Item                          | Purchased | Digital                                     |     Downloaded     | Released   | Notes                 |
 | ----------------------------- | :-------: | ------------------------------------------- | :----------------: | ---------- | --------------------- |
@@ -927,7 +862,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                                 | Purchased | Digital                                            |     Downloaded     | Released      | Notes                 |
 | ------------------------------------ | :-------: | -------------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -1130,7 +1065,7 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                             | Purchased | Digital                                        |     Downloaded     | Released      | Notes                 |
 | -------------------------------- | :-------: | ---------------------------------------------- | :----------------: | ------------- | --------------------- |
@@ -1443,7 +1378,7 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-### Battle Mode Force List
+### Force List
 
 | Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes |
 | -------------------------- | :-------: | ---------------------------------------- | :----------------: | ---------- | ----- |
@@ -1514,6 +1449,66 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 
 > Video © 2021 [Sonic Sledgehammer Studio](https://www.youtube.com/@SonicSledgehammerStudio)
 
+## Items
+
+| Item                                  | Purchased | Digital                                             |     Downloaded     | Released     | Notes |
+| ------------------------------------- | :-------: | --------------------------------------------------- | :----------------: | ------------ | ----- |
+| Items (v1.0)                          |           | [Free :pdf:][Items (v1.0)]                          | :heavy_check_mark: | January 2021 |
+| Items (v5.0)                          |           | [Free :pdf:][Items (v5.0)]                          | :heavy_check_mark: | May 2021     |
+| Items (v8.0)                          |           | [Free :pdf:][Items (v8.0)]                          | :heavy_check_mark: | April 2023   |
+| Alcohol, Chem, and Food (BMCE v1.0)   |           | [Free :pdf:][Alcohol, Chem, and Food (BMCE v1.0) ]  | :heavy_check_mark: | June 2024    |
+| Armor, Clothes, and Power (BMCE v1.0) |           | [Free :pdf:][Armor, Clothes, and Power (BMCE v1.0)] | :heavy_check_mark: | June 2024    |
+| Weapons (BMCE v1.0)                   |           | [Free :pdf:][Weapons (BMCE v1.0)]                   | :heavy_check_mark: | June 2024    |
+
+[Items (v1.0)]: https://web.archive.org/web/20210317032625/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_battle_mode_items_jan21.pdf
+[Items (v5.0)]: https://web.archive.org/web/20211017025537/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_items_17may.pdf
+[Items (v8.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Items.pdf
+[Alcohol, Chem, and Food (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/672d3170-7434-48bd-8dd2-1ac3e278dfdb/BMCE-Alcohol-Chem-and-Food-items-list-v-1-0.pdf
+[Armor, Clothes, and Power (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c56367dc-1793-4d5a-93f9-3d468004ff72/BMCE-Armor-Clothes-and-Power-Armor-items-list-v-1-1.pdf
+[Weapons (BMCE v1.0) ]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/4effbba1-d622-47a7-ad74-36cbfa518494/BMCE-Weapons-items-list-v-1-0.pdf
+
+### Perks and Upgrades
+
+| Item                         | Purchased | Digital                                    |     Downloaded     | Released  | Notes |
+| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | --------- | ----- |
+| Gears and Mods (BMCE v1.1)   |           | [Free :pdf:][Gears and Mods (BMCE v1.1)]   | :heavy_check_mark: | June 2024 |
+| Leader and Perks (BMCE v1.1) |           | [Free :pdf:][Leader and Perks (BMCE v1.1)] | :heavy_check_mark: | June 2024 |
+
+[Gears and Mods (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/6504537a-54b3-477b-af18-46ed49711d89/BMCE-Gears-and-Mods-items-list-v-1-1.pdf
+[Leader and Perks (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/00face65-d3a1-435c-860c-739031fd0f03/BMCE-Leader-and-Perks-items-list-v-1-1.pdf
+
+# General Mode
+
+| Item                      | Purchased | Digital                                 |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | --------------------------------------- | :----------------: | ------------- | ----- |
+| Item & Unit Costs (v1.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | July 2018     |
+| Item & Unit Costs (v2.0)  |           | [Free :pdf:][Item & Unit Costs]         | :heavy_check_mark: | March 2019    |
+| Item & Unit Costs (v2.1)  |           | [Free :pdf:][Item & Unit Costs (v2.1)]  | :heavy_check_mark: | April 2019    |
+| Item & Unit Costs (v3.0)  |           | [Free :pdf:][Item & Unit Costs (v3.0)]  | :heavy_check_mark: | December 2019 |
+| Item & Unit Costs (v3.2)  |           | [Free :pdf:][Item & Unit Costs (v3.2)]  | :heavy_check_mark: | January 2020  |
+| Item & Unit Costs (v6.0)  |           | [Free :pdf:][Item & Unit Costs (v6.0)]  | :heavy_check_mark: | November 2022 |
+| Item & Unit Costs (v7.0)  |           | [Free :pdf:][Item & Unit Costs (v7.0)]  | :heavy_check_mark: | April 2023    |
+| Item & Unit Costs (v9.0)  |           | [Free :pdf:][Item & Unit Costs (v9.0)]  | :heavy_check_mark: | November 2023 |
+| Item & Unit Costs (v10.0) |           | [Free :pdf:][Item & Unit Costs (v10.0)] | :heavy_check_mark: | April 2024    |
+
+[Item & Unit Costs]: https://web.archive.org/web/20190825194518/https://www.modiphius.net/products/fallout-wasteland-warfare-battle-mode-force-lists-free
+[Item & Unit Costs (v2.1)]: https://web.archive.org/web/20191123170110/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_item_and_unit_costs_v2.1.pdf
+[Item & Unit Costs (v3.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.0.pdf
+[Item & Unit Costs (v3.2)]: https://web.archive.org/web/20201204130419/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_items___costs_v.3.2.pdf
+[Item & Unit Costs (v6.0)]: https://web.archive.org/web/20230207221806/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_General_Mode_Unit_and_Item_Costs_002w.pdf?v=1668459562
+[Item & Unit Costs (v7.0)]: https://web.archive.org/web/20230602025924/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_General_Mode_Unit_and_Item_Costs.pdf?v=1682523440
+[Item & Unit Costs (v9.0)]: https://web.archive.org/web/20240301033311/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs_001LW.pdf?v=1701287020
+[Item & Unit Costs (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_General_Mode_Unit_and_Item_Costs.pdf
+
+# Roleplaying Game
+
+| Item                         | Purchased | Digital                                    |     Downloaded     | Released      | Notes |
+| ---------------------------- | :-------: | ------------------------------------------ | :----------------: | ------------- | ----- |
+| RPG Item Costs (v1.0)        |           | [Free :pdf:][RPG Item Costs (v1.0)]        | :heavy_check_mark: | December 2019 |
+| RPG Item & Unit Costs (v4.0) |           | [Free :pdf:][RPG Item & Unit Costs (v4.0)] | :heavy_check_mark: | November 2020 |
+
+[RPG Item Costs (v1.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_item_costs_v.1.0.pdf
+[RPG Item & Unit Costs (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/fww_wave_4_rpg_unit_and_item_costs_nov2020.pdf
 [Black & Greys]: #
 [Ash Grey]: minatures-paint#black--greys
 [Matt Black]: minatures-paint#black--greys
