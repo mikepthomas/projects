@@ -255,6 +255,10 @@ keywords:
 
 [^children-of-atom]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Children of Atom Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
 
+[Fallout: Wasteland Warfare - Zealot Congregation Video](https://www.youtube-nocookie.com/embed/AKLYwjaNQSU)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
 ### Battle Mode Force List
 
 | Item                                    | Purchased | Digital                                               |     Downloaded     | Released   | Notes                 |
@@ -483,6 +487,10 @@ keywords:
 
 [^gunners]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Gunners Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
 
+[Fallout: Wasteland Warfare - Gunners Core Box Video](https://www.youtube-nocookie.com/embed/qCTpLP0P4cg)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
 ### Battle Mode Force List
 
 | Item                           | Purchased | Digital                                      |     Downloaded     | Released   | Notes                 |
@@ -564,6 +572,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > It’s men and women of the Republic military are well armed and armoured, while specialists such as Rangers bring an elite punch.[^ncr]
 
 [^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
+
+[Fallout: Wasteland Warfare - NCR Ranger Video](https://www.youtube-nocookie.com/embed/kw3ZteZvFSc)
+
+> Video © 2020 [Modiphius](https://www.youtube.com/@Modiphius)
 
 ### Battle Mode Force List
 
@@ -771,6 +783,10 @@ There are examples of Paint colours that can be used in the `Painting the Raider
 > Able to lean on one another, the `Railroad` are an incredibly adaptable force, always able to call on the right person (or robot) for the right job.[^railroad]
 
 [^railroad]: [Modiphius Entertainment](https://www.modiphius.net) (2023). "Railroad Force List" _FOWW CAPITAL-1-008_, Version 7.0 page 1.
+
+[Fallout: Wasteland Warfare - Railroad Core Box Video](https://www.youtube-nocookie.com/embed/jJHe8ond-Es)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 ### Battle Mode Force List
 
@@ -1422,6 +1438,10 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 > Together, they are armed, organised and most importantly, determined.[^the-slog]
 
 [^the-slog]: [Modiphius Entertainment](https://www.modiphius.net) (2022). "The Slog Force List" _FOWW FITF-1-007_, Version 1.0 page 1.
+
+[Fallout: Wasteland Warfare - The Slog Video](https://www.youtube-nocookie.com/embed/VVrHMYFxoKI)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 ### Battle Mode Force List
 
