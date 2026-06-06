@@ -2028,6 +2028,20 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
 
+### Get You By Lists
+
+| Item                        | Purchased | Digital                                   |     Downloaded     | Released | Notes |
+| --------------------------- | :-------: | ----------------------------------------- | :----------------: | -------- | ----- |
+| Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: |          |
+| Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: |          |
+| Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: |          |
+| Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: |          |
+
+[Brotherhood of Steel (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5d71679b-a151-456a-b1d6-9ddbfa10b422/Brotherhood-of-Steel-Get-You-By-List-V1-0.pdf
+[Super Mutants (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/39759e62-765c-4a49-81f4-c507cc7a60c4/Super-Mutants-Get-You-By-List-V1-0.pdf
+[Wasteland Raiders (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/348837a0-a761-4ffa-abee-5a4402a561ae/Wasteland-Raiders-Get-You-By-List-V1-0.pdf
+[Wastelanders (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/3cff45f7-6f13-40d1-ad26-e563f14ddd1b/Wastelanders-Get-You-By-List-V1-0.pdf
+
 ## Battle for Nuka-World
 
 ### Faction Focus
