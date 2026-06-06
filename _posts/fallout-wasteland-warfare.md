@@ -2030,12 +2030,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Get You By Lists
 
-| Item                        | Purchased | Digital                                   |     Downloaded     | Released | Notes |
-| --------------------------- | :-------: | ----------------------------------------- | :----------------: | -------- | ----- |
-| Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: |          |
-| Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: |          |
-| Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: |          |
-| Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: |          |
+| Item                        | Purchased | Digital                                   |     Downloaded     | Released                            | Notes |
+| --------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------------------------------- | ----- |
+| Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
+| Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
+| Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
+| Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 
 [Brotherhood of Steel (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5d71679b-a151-456a-b1d6-9ddbfa10b422/Brotherhood-of-Steel-Get-You-By-List-V1-0.pdf
 [Super Mutants (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/39759e62-765c-4a49-81f4-c507cc7a60c4/Super-Mutants-Get-You-By-List-V1-0.pdf
