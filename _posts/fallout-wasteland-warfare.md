@@ -2033,6 +2033,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                        | Purchased | Digital                                   |     Downloaded     | Released                            | Notes |
 | --------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------------------------------- | ----- |
 | Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
+| Gunners (v1.0)              |           |                                           |        :x:         | [June 2024][FF 21/06/24]            |
 | Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
