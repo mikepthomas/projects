@@ -8,7 +8,6 @@ description: List of Fallout Minatures ordered by Faction, with suggested painti
 preview: /assets/blog/minatures-paint/paint-hero.jpg
 slug: /projects/minatures
 related:
-  - /projects/fallout-wasteland-warfare
   - /projects/minatures-paint
 draft: false
 tags:
