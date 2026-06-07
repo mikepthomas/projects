@@ -6,7 +6,7 @@ lastmod: 2026-06-04T13:04:58.685Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
-slug: /projects/minatures-paint
+slug: /projects/minatures
 related:
   - /projects/fallout-wasteland-warfare
   - /projects/minatures-paint
