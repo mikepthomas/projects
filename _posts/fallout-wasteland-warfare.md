@@ -176,15 +176,15 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ### Errata
 
-| Item           | Purchased | Digital                      |     Downloaded     | Released      | Notes |
-| -------------- | :-------: | ---------------------------- | :----------------: | ------------- | ----- |
-| Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018  |
-| Errata (v3.0)  |           |                              |        :x:         | July 2019     |
-| Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | December 2019 |
-| Errata (v5.0)  |           |                              |        :x:         | November 2020 |
-| Errata (v6.0)  |           | [Free :pdf:][Errata (v6.0)]  | :heavy_check_mark: | June 2022     |
-| Errata (v8.0)  |           | [Free :pdf:][Errata (v8.0)]  | :heavy_check_mark: | April 2023    |
-| Errata (v10.0) |           | [Free :pdf:][Errata (v10.0)] | :heavy_check_mark: | March 2024    |
+| Item           | Purchased | Digital                      |     Downloaded     | Released                                | Notes |
+| -------------- | :-------: | ---------------------------- | :----------------: | --------------------------------------- | ----- |
+| Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018                            |
+| Errata (v3.0)  |           |                              |        :x:         | [June 2019][DEVELOPMENT BLOG #27]       |
+| Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
+| Errata (v5.0)  |           |                              |        :x:         | [November 2020][FF 13/11/20]            |
+| Errata (v6.0)  |           | [Free :pdf:][Errata (v6.0)]  | :heavy_check_mark: | June 2022                               |
+| Errata (v8.0)  |           | [Free :pdf:][Errata (v8.0)]  | :heavy_check_mark: | April 2023                              |
+| Errata (v10.0) |           | [Free :pdf:][Errata (v10.0)] | :heavy_check_mark: | [April 2024][FF 19/04/24]               |
 
 [Errata (v2.0)]: https://web.archive.org/web/20191123170504/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_errata_faq_v.2.0_download.pdf
 [Errata (v4.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_rules_of_play_errata_faq_v4.0.pdf
@@ -1742,11 +1742,11 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                         |     Downloaded     | Released      | Notes |
-| ------------- | :-------: | ------------------------------- | :----------------: | ------------- | ----- |
-| Errata (v1.0) |           |                                 |        :x:         | July 2019     |
-| Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)] | :heavy_check_mark: | December 2019 |
-| Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)] | :heavy_check_mark: | November 2020 |
+| Item          | Purchased | Digital                         |     Downloaded     | Released                                | Notes |
+| ------------- | :-------: | ------------------------------- | :----------------: | --------------------------------------- | ----- |
+| Errata (v1.0) |           |                                 |        :x:         | [July 2019][FF 19/07/24]                |
+| Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)] | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
+| Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)] | :heavy_check_mark: | [November 2020][FF 13/11/20]            |
 
 [RPG Errata (v2.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_errata_faq_v.2.0.pdf
 [RPG Errata (v3.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_rpg_errata_faq_advice_may17.pdf
@@ -2022,9 +2022,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                              |     Downloaded     | Released | Notes |
-| ------------- | :-------: | ------------------------------------ | :----------------: | -------- | ----- |
-| Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)] | :heavy_check_mark: |          |
+| Item          | Purchased | Digital                              |     Downloaded     | Released                    | Notes |
+| ------------- | :-------: | ------------------------------------ | :----------------: | --------------------------- | ----- |
+| Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)] | :heavy_check_mark: | [May 2026][Factions Errata] |
 
 [Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
 
