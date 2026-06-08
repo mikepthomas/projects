@@ -670,10 +670,6 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
 
-[Fallout: Wasteland Warfare - NCR Ranger Video](https://www.youtube-nocookie.com/embed/kw3ZteZvFSc)
-
-> Video © 2020 [Modiphius](https://www.youtube.com/@Modiphius)
-
 ### Force List
 
 | Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes                 |
@@ -685,6 +681,18 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [NCR Force List (v5.0)]: https://web.archive.org/web/20211017022315/https://www.modiphius.com/uploads/1/4/0/6/14062642/battle_mode_ncr_17may.pdf
 [NCR Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_NCR.pdf
 [NCR Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7fb1334a-d5dc-417c-9998-a58ce00b72e5/BMCE-NCR-v-1-0.pdf
+
+### Wave 5
+
+#### NCR Ranger
+
+[Fallout: Wasteland Warfare - NCR Ranger Video](https://www.youtube-nocookie.com/embed/kw3ZteZvFSc)
+
+> Video © 2020 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item        | Quantity | Material | Cards                                     | Notes |
+| ----------- | -------- | -------- | ----------------------------------------- | ----- |
+| The Courier | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ## Nuka-World Gangs Raiders
 
@@ -699,9 +707,13 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [Nuka-World Gangs Raiders Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7719d53e-ddf8-4cf8-b987-253032636736/BMCE-Nuka-World-Gangs-Raiders-v-1-1.pdf
 
-### Units
+### Wave 9
 
 #### The Disciples
+
+![Raiders: The Disciples](https://modiphius.net/cdn/shop/files/fallout-miniatures-raiders-the-disciples-fallout-miniatures-modiphius-entertainment-897860_1280x.jpg)
+
+> Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item            | Quantity | Material | Included In                            | Cards                                      | Notes                                                  |
 | --------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | ------------------------------------------------------ |
@@ -729,6 +741,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 #### The Operators
 
+![Raiders: The Operators](https://modiphius.net/cdn/shop/files/fallout-miniatures-raiders-the-operators-fallout-miniatures-modiphius-entertainment-372976_1280x.jpg)
+
+> Image © [Modiphius Entertainment](https://www.modiphius.net)
+
 | Item              | Quantity | Material | Included In                            | Cards                                      | Notes                                                    |
 | ----------------- | -------- | -------- | -------------------------------------- | ------------------------------------------ | -------------------------------------------------------- |
 | Butcher           | 1        | HIPS     | [Raiders: The Operators][Wave 9 Minis] | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Boss Assembly Guide :pdf:] (Center)             |
@@ -754,6 +770,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [Scaver/Waster 3 Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=22
 
 #### The Pack
+
+![Raiders: The Pack](https://modiphius.net/cdn/shop/files/fallout-miniatures-raiders-the-pack-fallout-miniatures-modiphius-entertainment-304398_1280x.jpg)
+
+> Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material | Included In                       | Cards                                      | Notes                                                       |
 | -------------------- | -------- | -------- | --------------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
@@ -807,16 +827,24 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [Raiders Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Raiders.pdf
 [Raiders Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1286f3d9-e6ee-4470-8c9b-b95851da7aa3/BMCE-Raiders-v-1-0.pdf
 
-### Units
+### Wave 2
 
-| Item              | Quantity | Material | Included In                       | Cards                                            | Notes |
-| ----------------- | -------- | -------- | --------------------------------- | ------------------------------------------------ | ----- |
-| Psycho            | 2        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| [Raider](#raider) | 3        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Scavver           | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Veteran Raider    | 1        | Resin    | [Raiders: Core Box][Wave 2 Minis] | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+#### Core Box
 
-There are examples of Paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
+![Raiders: Core Box](https://modiphius.net/cdn/shop/products/6-Scenic-Shot-Fallout-Wasteland-Warfare-MUH051721_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item              | Quantity | Material | Cards                                            | Notes |
+| ----------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Psycho            | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Raider](#raider) | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Scavver           | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Veteran Raider    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
+### Painting Guides
+
+There are some examples of paint colours that can be used in the `Painting the Raiders` section of the [Blog on the Modiphius website](https://modiphius.net/blogs/news/the-raiders-are-here).
 
 #### Raider
 
