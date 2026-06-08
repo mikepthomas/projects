@@ -482,7 +482,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | Item                  |     Purchased      | Digital                            |     Downloaded     | Released                           | Notes                                                                        |
 | --------------------- | :----------------: | ---------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
 | [Corvega Sedan]       |        :x:         | [Buy :zip:][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial]                                        |
-| [Crashed Vertibird]   |        :x:         | [Buy :zip:][Crashed Vertibird STL] |        :x:         | [August 2019][DEVELOPMENT BLOG #9] |
+| [Crashed Vertibird]   |        :x:         | [Buy :zip:][Crashed Vertibird STL] | :heavy_check_mark: | [August 2019][DEVELOPMENT BLOG #9] |
 | [Junk Barricades]     | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] |
 | [Military Barricades] | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
 | [Turrets]             | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | [Scenic Set Cards :pdf:]                                                     |
@@ -574,7 +574,16 @@ This scenario was designed for using the `Crashed Vertibird`.
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-I plan on 3D Printing parts from the [Parked Vertibird](brotherhood-of-steel#vehicles) instead.
+| Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [AltWing][Crashed Vertibird STL]      | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Engine][Crashed Vertibird STL]       | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [NonHandedFin][Crashed Vertibird STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Prop][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [REVISEDMain][Crashed Vertibird STL]  | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Rubble][Crashed Vertibird STL]       | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Tail][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Wing][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 ### Settlement Mode
 
@@ -828,7 +837,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 #### Creatures
 
-![The Mirelurk Bundle](https://modiphius.net/cdn/shop/products/MirelurkScaleDiagramWithSSandHatchlings_808ba902-37b0-4487-a629-3d6e1d67b111_1280x.jpg)
+![The Mirelurk Bundle](https://modiphius.net/cdn/shop/products/MirelurkScaleDiagramWithSSandHatchlings_1280x.jpg)
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
@@ -872,7 +881,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 | Item               | Purchased | Digital                           |     Downloaded     | Released                          | Notes |
 | ------------------ | :-------: | --------------------------------- | :----------------: | --------------------------------- | ----- |
-| [Crashed UFO]      |    :x:    | [Buy :zip:][Crashed UFO STL]      |        :x:         | [March 2021][YT March 2021]       |
+| [Crashed UFO]      |    :x:    | [Buy :zip:][Crashed UFO STL]      | :heavy_check_mark: | [March 2021][YT March 2021]       |
 | [Robot Work Bench] |    :x:    | [Buy :zip:][Robot Work Bench STL] | :heavy_check_mark: | [February 2021][YT February 2021] |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
@@ -922,9 +931,9 @@ I will use this to create my own version of [Sanctuary Hills](sanctuary-hills) f
 
 This scenario was designed for using the `Robot Work Bench`.
 
-![Robot Work Bench](https://modiphius.net/cdn/shop/products/RobotWorkbench_RGB-150dpi_1_95b5deb5-1571-4a49-8e42-b6ce3b90d411_1280x.jpg)
+![Robot Work Bench](https://modiphius.net/cdn/shop/products/RobotWorkbench_RGB-150dpi_1_1280x.jpg)
 
-> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
@@ -936,6 +945,20 @@ This scenario was designed for using the `Robot Work Bench`.
 | [RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 | [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 | [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+
+#### The Zetan Incident
+
+This scenario was designed for using the `Crashed UFO`.
+
+![Crashed UFO](https://modiphius.net/cdn/shop/products/CrashedUFO_RGB-150dpi_1_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [Body][Crashed UFO STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Fin][Crashed UFO STL]  | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Tail][Crashed UFO STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 ## Wave 5 - New Vegas Expansion
 
