@@ -433,23 +433,25 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 | Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                            | Notes        |
 | ------------------------------------- | :----------------: | --------------------------- | :----------------: | ----------------------------------- | ------------ |
 | [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]          | Legendary    |
-| [Creatures: Ghouls]                   |        :x:         |                             |                    | November 2019                       |
-| [Creatures: Wasteland Vermin]         |        :x:         |                             |                    | November 2019                       |
 | [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
-| [Robots: Assaultrons & Protectrons]   |        :x:         |                             |                    | October 2019                        |
-| [Robots: Sentry Bot]                  | :heavy_check_mark: |                             |                    | April 2019                          |
 | [Stealth Boy Coursers]                |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
 | [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                             |                    | [October 2019][DEVELOPMENT BLOG #7] |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
-[Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
-[Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
-[Glowing Ghouls]: https://web.archive.org/web/20220124171706/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-glowing-ghouls
 [Liberty Prime Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
-[Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
-[Robots: Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
+[Glowing Ghouls]: https://web.archive.org/web/20220124171706/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-glowing-ghouls
 [Stealth Boy Coursers]: https://web.archive.org/web/20220118105112/https://www.modiphius.net/products/fallout-wasteland-warfare-event-special-stealth-boy-coursers
 [Survivors: X-01 Survivor & Dogmeat]: https://modiphius.net/products/fallout-wasteland-warfare-x-01-survivor-dogmeat
+
+#### Creatures
+
+| Item                          | Purchased | Digital | Downloaded | Released      | Notes |
+| ----------------------------- | :-------: | ------- | :--------: | ------------- | ----- |
+| [Creatures: Ghouls]           |    :x:    |         |            | November 2019 |
+| [Creatures: Wasteland Vermin] |    :x:    |         |            | November 2019 |
+
+[Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
+[Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
 
 #### Raiders
 
@@ -470,6 +472,16 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 [Raiders: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-core-set
 [Raiders: Raiders, Scavvers & Psychos]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-scavvers-psychos
 [Unaligned: Mysterious Stranger]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-mysterious-stranger
+
+#### Robots
+
+| Item                                |     Purchased      | Digital | Downloaded | Released     | Notes |
+| ----------------------------------- | :----------------: | ------- | :--------: | ------------ | ----- |
+| [Robots: Assaultrons & Protectrons] |        :x:         |         |            | October 2019 |
+| [Robots: Sentry Bot]                | :heavy_check_mark: |         |            | April 2019   |
+
+[Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
+[Robots: Sentry Bot]: https://modiphius.net/products/fallout-wasteland-warfare-robots-sentry-bot-2019
 
 ### Scatter
 
@@ -662,21 +674,23 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Minatures
 
-| Item                                                 |     Purchased      | Digital | Downloaded | Released | Notes                                             |
-| ---------------------------------------------------- | :----------------: | ------- | :--------: | -------- | ------------------------------------------------- |
-| [Brotherhood of Steel: Elder Maxson & Captain Kells] |        :x:         |         |            |          |
-| [Brotherhood of Steel: Order of the Shield]          |        :x:         |         |            |          |
-| [Super Mutants: Overlord & Fist]                     |        :x:         |         |            |          |
-| [Survivors: Unusual Allies]                          | :heavy_check_mark: |         |            |          |
-| [Survivors: Vault Personnel]                         | :heavy_check_mark: |         |            |          | Contains Miniatures related to the [Vault](vault) |
-| [Unaligned: T-51 Power Armour]                       |        :x:         |         |            |          |
+| Item                             | Purchased | Digital | Downloaded | Released | Notes |
+| -------------------------------- | :-------: | ------- | :--------: | -------- | ----- |
+| [Super Mutants: Overlord & Fist] |    :x:    |         |            |          |
+| [Unaligned: T-51 Power Armour]   |    :x:    |         |            |          |
+
+[Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
+[Unaligned: T-51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
+
+#### Brotherhood of Steel
+
+| Item                                                 | Purchased | Digital | Downloaded | Released | Notes |
+| ---------------------------------------------------- | :-------: | ------- | :--------: | -------- | ----- |
+| [Brotherhood of Steel: Elder Maxson & Captain Kells] |    :x:    |         |            |          |
+| [Brotherhood of Steel: Order of the Shield]          |    :x:    |         |            |          |
 
 [Brotherhood of Steel: Elder Maxson & Captain Kells]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-elder-maxson-and-captain-kells
 [Brotherhood of Steel: Order of the Shield]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-order-of-the-shield
-[Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
-[Survivors: Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies
-[Survivors: Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
-[Unaligned: T-51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
 
 #### Institute
 
@@ -697,6 +711,16 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Institute: Covert Operations]: https://modiphius.net/products/fallout-wasteland-warfare-institute-institute-covert-operations
 [Institute: Synths]: https://modiphius.net/products/fallout-wasteland-warfare-institute-synths
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
+
+#### Survivors
+
+| Item                         |     Purchased      | Digital | Downloaded | Released | Notes                                             |
+| ---------------------------- | :----------------: | ------- | :--------: | -------- | ------------------------------------------------- |
+| [Survivors: Unusual Allies]  | :heavy_check_mark: |         |            |          |
+| [Survivors: Vault Personnel] | :heavy_check_mark: |         |            |          | Contains Miniatures related to the [Vault](vault) |
+
+[Survivors: Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies
+[Survivors: Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
 
 ### Scatter
 
@@ -1137,25 +1161,37 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Minatures
 
-| Item                                 |     Purchased      | Digital | Downloaded | Released         | Notes                                                   |
-| ------------------------------------ | :----------------: | ------- | :--------: | ---------------- | ------------------------------------------------------- |
-| [Creatures: Deathclaw Matriarch]     |        :x:         |         |            | [August 2022]    | Legendary                                               |
-| [Creatures: Mongrel Scavenging Pack] |        :x:         |         |            | [September 2022] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
-| [Gunners: Core Box]                  |        :x:         |         |            | [April 2022]     |
-| [Railroad: Core Box]                 |        :x:         |         |            | [May 2022]       |
-| [Robots: Mister Handy Pack]          |        :x:         |         |            | [July 2022]      |
-| [Robots: Protectron Workers]         |        :x:         |         |            | [June 2022]      |
-| [Super Mutants: Swan]                | :heavy_check_mark: |         |            | [July 2022]      | Legendary                                               |
-| [Unaligned: Grognak]                 | :heavy_check_mark: |         |            | [April 2022]     | Promo                                                   |
+| Item                  |     Purchased      | Digital | Downloaded | Released     | Notes     |
+| --------------------- | :----------------: | ------- | :--------: | ------------ | --------- |
+| [Gunners: Core Box]   |        :x:         |         |            | [April 2022] |
+| [Railroad: Core Box]  |        :x:         |         |            | [May 2022]   |
+| [Super Mutants: Swan] | :heavy_check_mark: |         |            | [July 2022]  | Legendary |
+| [Unaligned: Grognak]  | :heavy_check_mark: |         |            | [April 2022] | Promo     |
+
+[Gunners: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
+[Railroad: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
+[Super Mutants: Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
+[Unaligned: Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak
+
+#### Creatures
+
+| Item                                 | Purchased | Digital | Downloaded | Released         | Notes                                                   |
+| ------------------------------------ | :-------: | ------- | :--------: | ---------------- | ------------------------------------------------------- |
+| [Creatures: Deathclaw Matriarch]     |    :x:    |         |            | [August 2022]    | Legendary                                               |
+| [Creatures: Mongrel Scavenging Pack] |    :x:    |         |            | [September 2022] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
 
 [Creatures: Deathclaw Matriarch]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-deathclaw-matriarch
 [Creatures: Mongrel Scavenging Pack]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mongrel-scavenging-pack
-[Gunners: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
-[Railroad: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
+
+#### Robots
+
+| Item                         | Purchased | Digital | Downloaded | Released    | Notes |
+| ---------------------------- | :-------: | ------- | :--------: | ----------- | ----- |
+| [Robots: Mister Handy Pack]  |    :x:    |         |            | [July 2022] |
+| [Robots: Protectron Workers] |    :x:    |         |            | [June 2022] |
+
 [Robots: Mister Handy Pack]: https://modiphius.net/products/fallout-wasteland-warfare-robots-mister-handy-pack
 [Robots: Protectron Workers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-protectron-workers
-[Super Mutants: Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
-[Unaligned: Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak
 
 ### Scatter
 
