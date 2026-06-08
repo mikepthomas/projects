@@ -7,7 +7,6 @@ description: This is a list of paint I have purchased over the years.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
 slug: /projects/minatures-paint
 related:
-  - /projects/fallout-wasteland-warfare
   - /projects/minatures
 draft: false
 tags:

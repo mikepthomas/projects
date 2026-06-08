@@ -7,8 +7,6 @@ author: Mike Thomas
 description: Building a House in Sanctuary Hills for the Sole Survivor.
 preview: /assets/blog/sanctuary-hills/sanctuary-hills-house-hero.jpg
 slug: /projects/sanctuary-hills
-related:
-  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare

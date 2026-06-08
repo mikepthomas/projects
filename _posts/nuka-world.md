@@ -6,8 +6,6 @@ author: Mike Thomas
 description: 3D Printing the Nuka-World terrain for Fallout Wasteland Warfare.
 preview: /assets/blog/nuka-world/nuka-world-hero.jpg
 slug: /projects/nuka-world
-related:
-  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare

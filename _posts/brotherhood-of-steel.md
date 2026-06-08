@@ -6,8 +6,6 @@ author: Mike Thomas
 description: 3D Printing the Brotherhood of Steel Encampment for Fallout Wasteland Warfare.
 preview: /assets/blog/brotherhood-of-steel/brotherhood-of-steel-hero.jpg
 slug: /projects/brotherhood-of-steel
-related:
-  - /projects/fallout-wasteland-warfare
 draft: false
 tags:
   - Fallout Wasteland Warfare
