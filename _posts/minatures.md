@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-06-09T16:16:53.257Z
+lastmod: 2026-06-09T18:53:27.371Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -394,7 +394,7 @@ keywords:
 | ---------------------------- | -------- | -------- | ------------------------------------------------ | --------- |
 | Deathclaw Matriarch (I & II) | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] | Legendary |
 
-#### Mongrel Scavengers
+#### Mongrel Scavenging Pack
 
 [Fallout: Wasteland Warfare - Mongrel Scavengers Video](https://www.youtube-nocookie.com/embed/f_EVL9i1UbE)
 
@@ -1057,13 +1057,39 @@ There are some examples of paint colours that can be used in the `Painting the R
 [Robots Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Robots.pdf
 [Robots Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/595c0e75-9f04-4bb9-b459-c87a5a0b11ef/BMCE-Robots-v-1-0.pdf
 
-### Units
+### Wave 2
 
-| Item                      | Quantity | Material | Included In                                       | Cards                                          | Notes |
-| ------------------------- | -------- | -------- | ------------------------------------------------- | ---------------------------------------------- | ----- |
-| [Protectron](#protectron) | :x:      | Resin    | [Robots: Assaultrons & Protectrons][Wave 2 Minis] | [Automatron Card Expansion Pack][Wave 3 Rules] |
-| [Sentry Bot](#sentry-bot) | 1        | Resin    | [Robots: Sentry Bot][Wave 2 Minis]                | [Automatron Card Expansion Pack][Wave 3 Rules] |
-| The Mechanist             | 1        | Resin    | [The Mechanist][Wave 3 Minis]                     | [Automatron Card Expansion Pack][Wave 3 Rules] |
+#### Assaultrons & Protectrons
+
+![Robots: Assaultrons & Protectrons](https://modiphius.net/cdn/shop/products/4-ScenicShot-RobotsAssaultrons_Protectrons-FWW-RGB-150dpi-MUH051724_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                      | Quantity | Material | Cards                                          | Notes |
+| ------------------------- | -------- | -------- | ---------------------------------------------- | ----- |
+| Battered Assaultron       | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| Battered Protectron       | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| Assaultron                | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
+| [Protectron](#protectron) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
+
+#### Sentry Bot
+
+![Robots: Sentry Bot](https://modiphius.net/cdn/shop/products/Robots_Sentry_Bot_Expansion_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                      | Quantity | Material | Cards                                          | Notes |
+| ------------------------- | -------- | -------- | ---------------------------------------------- | ----- |
+| Battered Sentry Bot       | :x:      | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| [Sentry Bot](#sentry-bot) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]        |
+
+### Wave 3
+
+#### The Mechanist
+
+| Item          | Quantity | Material | Cards                                          | Notes |
+| ------------- | -------- | -------- | ---------------------------------------------- | ----- |
+| The Mechanist | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
 
 ### Wave 4
 
@@ -1470,31 +1496,19 @@ There are some examples of paint colours that can be used in the `Painting the R
 [Survivors Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Survivors.pdf
 [Survivors Force List (BMCE v1.1)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c09206da-4f18-45df-a628-7e0b984b7bc9/BMCE-Survivors-v-1-1.pdf
 
-### Units
-
-| Item                                     | Quantity | Material | Included In                                          | Cards                                              | Notes             |
-| ---------------------------------------- | -------- | -------- | ---------------------------------------------------- | -------------------------------------------------- | ----------------- |
-| Cait                                     | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
-| Codsworth                                | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
-| [Dogmeat](#dogmeat)                      | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             | [Blog][Blog Dogs] |
-| Dogmeat Guard Dog                        | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   | [Blog][Blog Dogs] |
-| Dogmeat Scout                            | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      | [Blog][Blog Dogs] |
-| Enslaved Tech                            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
-| Hancock                                  | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Nick Valentine                           | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Nuka Girl                                | 1        | Resin    | [Nuka Cola Girl][Wave 1 Minis]                       | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
-| Piper                                    | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
-| [Settler (Female)](#settler)             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
-| Settler (Male)                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
-| [Sole Survivor (Female)](#sole-survivor) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]               | [Two Player Starter Set][Wave 1 Rules]             |
-| Sole Survivor (Male)                     | 1        | Resin    | [Survivors: Heroes of Sanctuary Hills][Wave 1 Minis] | [Two Player Starter Set][Wave 1 Rules]             |
-| Strong                                   | 1        | Resin    | [Survivors: Unusual Allies][Wave 3 Minis]            | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Vault Dweller                            | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Vault Security Officer                   | 2        | Resin    | [Survivors: Vault Personnel][Wave 3 Minis]           | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| [Sole Survivor Tech](#x-01-survivor)     | 1        | Resin    | [Survivors: X-01 Survivor & Dogmeat][Wave 2 Minis]   | [Raiders Wave Expansion Card Pack][Wave 2 Rules]   |
-| X6-88 Courser                            | 1        | Resin    | [Survivors: Boston Companions][Wave 1 Minis]         | [Wave 1 Fundamentals Card Deck][Wave 4 Rules]      |
-
 ### Wave 1
+
+#### Boston Companions
+
+![Survivors: Boston Companions](https://modiphius.net/cdn/shop/products/6-Scenic-BostonCompanions-FWW-RGB-150dpi-MUH051260_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item          | Quantity | Material | Cards                                         | Notes |
+| ------------- | -------- | -------- | --------------------------------------------- | ----- |
+| Cait          | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Piper         | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| X6-88 Courser | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Core Box
 
@@ -1510,6 +1524,76 @@ There are some examples of paint colours that can be used in the `Painting the R
 | [Settler (Female)](#settler)      | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 | Settler (Male)                    | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 | Sturges                           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+
+#### Heroes of Sanctuary Hills
+
+![Survivors: Heroes of Sanctuary Hills](https://i.shgcdn.com/269f04eb-02f3-4d02-a4d7-9fdd40fa5d6c/)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                 | Quantity | Material | Cards                                         | Notes             |
+| -------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| Codsworth            | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Dogmeat Scout        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
+| Sole Survivor (Male) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+
+#### Nuka Girl
+
+![Nuka Cola Girl](https://modiphius.net/cdn/shop/articles/Fallout_Nuke_Cola_Girl_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item      | Quantity | Material | Cards                                         | Notes |
+| --------- | -------- | -------- | --------------------------------------------- | ----- |
+| Nuka Girl | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+
+#### Two Player Starter Set
+
+| Item                                     | Quantity | Material | Cards                                  | Notes             |
+| ---------------------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
+| [Dogmeat](#dogmeat)                      | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
+| Enslaved Tech                            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Settler (Female)](#settler)             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Settler (Male)                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Sole Survivor (Female)](#sole-survivor) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+
+### Wave 2
+
+#### X-01 Survivor & Dogmeat
+
+![Survivors: X-01 Survivor & Dogmeat](https://i.shgcdn.com/9826c045-eb62-489a-9923-2ee2236485df/)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                                 | Quantity | Material | Cards                                            | Notes             |
+| ------------------------------------ | -------- | -------- | ------------------------------------------------ | ----------------- |
+| Dogmeat Guard Dog                    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] | [Blog][Blog Dogs] |
+| [Sole Survivor Tech](#x-01-survivor) | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
+### Wave 3
+
+#### Unusual Allies
+
+![Survivors: Unusual Allies](https://i.shgcdn.com/5242da31-2654-4edd-af64-126918f492fc/)
+
+> Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item           | Quantity | Material | Cards                                              | Notes |
+| -------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Hancock        | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Nick Valentine | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Strong         | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+
+#### Vault Personnel
+
+![Survivors: Vault Personnel](https://modiphius.net/cdn/shop/products/5-Scenic-Shot-Fallout-Wasteland-Warfare-MUHXXXXXX_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                   | Quantity | Material | Cards                                              | Notes |
+| ---------------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Vault Dweller          | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Vault Security Officer | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 4
 
@@ -2134,11 +2218,8 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Related Links]: #
 [Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
 [Wave 1 Rules]: fallout-wasteland-warfare#rules
-[Wave 1 Minis]: fallout-wasteland-warfare#minatures
 [Wave 2 Rules]: fallout-wasteland-warfare#rules-1
-[Wave 2 Minis]: fallout-wasteland-warfare#minatures-1
 [Wave 3 Rules]: fallout-wasteland-warfare#rules-2
-[Wave 3 Minis]: fallout-wasteland-warfare#minatures-2
 [Wave 4 Rules]: fallout-wasteland-warfare#rules-3
 [Wave 5 Rules]: fallout-wasteland-warfare#rules-4
 [Wave 6 Rules]: fallout-wasteland-warfare#rules-5
