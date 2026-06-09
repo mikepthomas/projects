@@ -1103,6 +1103,19 @@ There are some examples of paint colours that can be used in the `Painting the R
 | --------- | -------- | -------- | ---------------------------------------------- | ----- |
 | Robobrain | 2        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
 
+### Wave 5
+
+#### Securitron Enforcers
+
+![Robots: Securitron Enforcers](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-robots-securitron-enforcers-fallout-wasteland-warfare-modiphius-entertainment-790297_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                                | Quantity | Material | Cards                                     | Notes |
+| ----------------------------------- | -------- | -------- | ----------------------------------------- | ----- |
+| [Securitron MK I](#securitron-mk-i) | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Securitron MK II                    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
 ### Wave 6
 
 #### Mister Handy Pack
@@ -1168,6 +1181,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Base                 | Warpaints: [Leather Brown]       | Grinning Gargoyle: [Leather Brown]       | :heavy_check_mark: |
 | Hands / Legs / Visor | Warpaints Metallics: [Gun Metal] | Warpaints Fanatic Metallics: [Gun Metal] | :heavy_check_mark: |
 | Bricks               | Warpaints: [Fur Brown]           | Warpaints Fanatic: [Fur Brown]           | :heavy_check_mark: |
+
+#### Securitron MK I
+
+[Mini Painting Tutorial - Securitron / Yes Man Video](https://www.youtube-nocookie.com/embed/bl8DiU1BRAA)
+
+> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Sentry Bot
 
@@ -1619,7 +1638,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 | ------------- | -------- | -------- | ----------------------------------------- | ----- |
 | Arcade Gannon | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 | Boone         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Cass          | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| [Cass](#cass) | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 7
 
@@ -1646,6 +1665,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Rosa Meitner | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 ### Painting Guides
+
+#### Cass
+
+[Painting Tutorial - Cass Pre-Shading Video](https://www.youtube-nocookie.com/embed/E4WR6H3M0iU)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Dogmeat
 
