@@ -1021,18 +1021,22 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                           |     Purchased      | Digital | Downloaded | Released                                  | Notes |
-| ------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [Caesar's Legion: Core Box]    |        :x:         |         |            | [May 2021][Blog: Caesar's Legion]         |
-| [NCR: Core Box]                |        :x:         |         |            | [May 2021][Blog: New California Republic] |
-| [NCR: Ranger]                  |        :x:         |         |            |                                           | Promo |
-| [Robots: Securitron Enforcers] |        :x:         |         |            | [September 2021]                          |
-| [Unaligned: Burned Man]        | :heavy_check_mark: |         |            | [November 2021]                           | Promo |
+| Item                              |     Purchased      | Digital | Downloaded | Released                                  | Notes |
+| --------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [Caesar's Legion: Core Box]       |        :x:         |         |            | [May 2021][Blog: Caesar's Legion]         |
+| [NCR: Core Box]                   |        :x:         |         |            | [May 2021][Blog: New California Republic] |
+| [NCR: Ranger]                     |        :x:         |         |            |                                           | Promo |
+| [Robots: Securitron Enforcers]    |        :x:         |         |            | [September 2021]                          |
+| [Super Mutants: Nightkin]         |        :x:         |         |            | [August 2021]                             |
+| [Survivors: Boone, Arcade & Cass] |        :x:         |         |            | [October 2021]                            |
+| [Unaligned: Burned Man]           | :heavy_check_mark: |         |            | [November 2021]                           | Promo |
 
 [Caesar's Legion: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
 [NCR: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box
 [NCR: Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
 [Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
+[Super Mutants: Nightkin]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-nightkin
+[Survivors: Boone, Arcade & Cass]: https://modiphius.net/products/fallout-wasteland-warfare-boone-arcade-and-cass
 [Unaligned: Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
 
 #### Print at Home
@@ -1161,15 +1165,13 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Minatures
 
-| Item                  |     Purchased      | Digital | Downloaded | Released     | Notes     |
-| --------------------- | :----------------: | ------- | :--------: | ------------ | --------- |
-| [Gunners: Core Box]   |        :x:         |         |            | [April 2022] |
-| [Railroad: Core Box]  |        :x:         |         |            | [May 2022]   |
-| [Super Mutants: Swan] | :heavy_check_mark: |         |            | [July 2022]  | Legendary |
-| [Unaligned: Grognak]  | :heavy_check_mark: |         |            | [April 2022] | Promo     |
+| Item                                    |     Purchased      | Digital | Downloaded | Released     | Notes     |
+| --------------------------------------- | :----------------: | ------- | :--------: | ------------ | --------- |
+| [Children of Atom: Zealot Congregation] |        :x:         |         |            | [June 2022]  |
+| [Super Mutants: Swan]                   | :heavy_check_mark: |         |            | [July 2022]  | Legendary |
+| [Unaligned: Grognak]                    | :heavy_check_mark: |         |            | [April 2022] | Promo     |
 
-[Gunners: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
-[Railroad: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
+[Children of Atom: Zealot Congregation]: https://modiphius.net/products/fallout-wasteland-warfare-children-of-atom-zealot-congregation
 [Super Mutants: Swan]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-swan
 [Unaligned: Grognak]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-grognak
 
@@ -1177,11 +1179,35 @@ There is also a sampler containing some of the items from the bundle:
 
 | Item                                 | Purchased | Digital | Downloaded | Released         | Notes                                                   |
 | ------------------------------------ | :-------: | ------- | :--------: | ---------------- | ------------------------------------------------------- |
+| [Creatures: Brahmin Herd]            |    :x:    |         |            | [September 2022] |
 | [Creatures: Deathclaw Matriarch]     |    :x:    |         |            | [August 2022]    | Legendary                                               |
 | [Creatures: Mongrel Scavenging Pack] |    :x:    |         |            | [September 2022] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
+| [Creatures: Yao Guai Ambush]         |    :x:    |         |            | [August 2022]    |
 
+[Creatures: Brahmin Herd]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-brahmin-herd
 [Creatures: Deathclaw Matriarch]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-deathclaw-matriarch
 [Creatures: Mongrel Scavenging Pack]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mongrel-scavenging-pack
+[Creatures: Yao Guai Ambush]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-yao-guai-ambush
+
+#### Gunners
+
+| Item                            | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Gunners: Conquerors of Quincy] |    :x:    |         |            | [May 2022]   |
+| [Gunners: Core Box]             |    :x:    |         |            | [April 2022] |
+
+[Gunners: Conquerors of Quincy]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-conquerors-of-quincy
+[Gunners: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-gunners-core-box
+
+#### Railroad
+
+| Item                   | Purchased | Digital | Downloaded | Released   | Notes |
+| ---------------------- | :-------: | ------- | :--------: | ---------- | ----- |
+| [Railroad: Core Box]   |    :x:    |         |            | [May 2022] |
+| [Railroad: Operatives] |    :x:    |         |            | [May 2022] |
+
+[Railroad: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-core-box
+[Railroad: Operatives]: https://modiphius.net/products/fallout-wasteland-warfare-railroad-operatives
 
 #### Robots
 
@@ -1238,12 +1264,14 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Minatures
 
-| Item                                   |     Purchased      | Digital | Downloaded | Released       | Notes |
-| -------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
-| [Raiders: The Forged]                  |        :x:         |         |            | [October 2022] |
-| [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022] |
-| [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022] | Promo |
+| Item                                   |     Purchased      | Digital | Downloaded | Released        | Notes |
+| -------------------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Creatures: Blood Bugs]                |        :x:         |         |            | [November 2022] |
+| [Raiders: The Forged]                  |        :x:         |         |            | [October 2022]  |
+| [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022]  |
+| [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022]  | Promo |
 
+[Creatures: Blood Bugs]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-blood-bugs
 [Raiders: The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
 [Survivors: Ghoul Settlers (The Slog)]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
 [Survivors: Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
