@@ -30,6 +30,60 @@ keywords:
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
+# Cards
+
+This section was started as an excersise to understand how many Card Sleeves I will need to purchase, however, as I do not own many of the products in some of the waves and some of the cards in the products are not in the downloadable PDFs, I will need to roughly estimate instead.
+
+[Product Card Lists](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_Full_Card_List_002LW.pdf)
+
+## Standard
+
+| Item              | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
+| ----------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [AI :pdf:]        | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
+| [Reference :pdf:] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
+| [Unit :pdf:]      | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
+| `Total`           |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
+
+[AI :pdf:]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle
+[Reference :pdf:]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
+[Unit :pdf:]: https://drive.google.com/file/d/1ZtCOQt53esqlUFJGbId4y2Z_E98Ndb83/preview
+
+## Mini European
+
+| Item                 | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
+| -------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
+| [Chems :pdf:]        | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
+| [Equipment :pdf:]    | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
+| [Heroic :pdf:]       | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
+| [Leader :pdf:]       | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
+| [Mods :pdf:]         | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
+| [Perk :pdf:]         | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
+| [Power Armour :pdf:] | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
+| [Weapon :pdf:]       | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
+| `Total`              |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+
+[Chems :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf
+[Equipment :pdf:]: https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview
+[Heroic :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/heroic_cards_v4_001w.pdf
+[Leader :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_6_Cards_Leader_001w.pdf
+[Mods :pdf:]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Perk :pdf:]: https://drive.google.com/file/d/1lF6HUvDu1DXKn6oouCbCmr982vV7UtGD/preview
+[Power Armour :pdf:]: https://drive.google.com/file/d/1fOcB9S4UmQJy8dEsqT_GhxO9EjM1Da2p/preview
+[Weapon :pdf:]: https://drive.google.com/file/d/1gTPZOrpqB_LojSpslACKXaXWto0nQ4Ex/preview
+
+### Euro-Mini Card Box
+
+A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set] and expansions.
+
+| Item                                | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [EUROBOX_divider_V2][Card Box]      | 6        | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
+| [eurobox-top-v2-longer][Card Box]   | 1        | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
+| [euroboxv2_double_longer][Card Box] | 1        | [PrimaValue PLA (Black)] |      |      |        |      |   :x:   |
+
+[Card Box]: https://www.thingiverse.com/thing:7139338/files
+
 # Battle Mode
 
 ## Brotherhood of Steel
@@ -2240,6 +2294,9 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [Matt Black Primer]: https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-black-cp3001s
 [Uniform Grey Primer]: https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-uniform-grey-cp3010s
 [White Primer]: https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-matt-white-cp3002s
+[Filament]: #
+[PrimaValue PLA (Black)]: printer-filament#primavalue-pla-black
+[PrimaValue PLA (Red)]: printer-filament#primavalue-pla-red
 [Related Links]: #
 [Blog Dogs]: https://modiphius.net/blogs/news/man-s-best-friend-a-guide-to-dogs-in-fallout-wasteland-warfare
 [Wave 1 Rules]: fallout-wasteland-warfare#rules
