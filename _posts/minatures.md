@@ -2,7 +2,7 @@
 title: Fallout Minatures
 heading: Force Lists and Painting Guides for Fallout Minatures
 date: 2026-04-30T11:32:50.044Z
-lastmod: 2026-06-09T16:16:47.354Z
+lastmod: 2026-06-09T16:16:53.257Z
 author: Mike Thomas
 description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
 preview: /assets/blog/minatures-paint/paint-hero.jpg
@@ -70,13 +70,13 @@ keywords:
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                                         | Quantity | Material | Cards                                         | Notes |
-| -------------------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Field Scribe                                 | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| Knight Patrol / Initiate                     | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Knight Patrol (Blade) / Initiate Blade       | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Lancer                                       | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Paladin](minatures-painting-guides#paladin) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Item                                   | Quantity | Material | Cards                                         | Notes |
+| -------------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
+| Field Scribe                           | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Knight Patrol / Initiate               | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Knight Patrol (Blade) / Initiate Blade | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Lancer                                 | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Paladin](#paladin)                    | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
 
 #### Frontline Knights
 
@@ -103,9 +103,9 @@ keywords:
 
 #### Two Player Starter Set
 
-| Item                                                           | Quantity | Material | Cards                                  | Notes |
-| -------------------------------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Aspirant Goddard](minatures-painting-guides#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                                  | Quantity | Material | Cards                                  | Notes |
+| ------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 2
 
@@ -155,9 +155,9 @@ keywords:
 
 > Image © [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                                           | Quantity | Material | Cards                                  | Notes |
-| -------------------------------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Aspirant Goddard](minatures-painting-guides#aspirant-goddard) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+| Item                                  | Quantity | Material | Cards                                  | Notes |
+| ------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 10
 
@@ -167,14 +167,14 @@ keywords:
 
 > Image © 2025 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                         | Quantity | Material | Cards                                         | Notes                                                                             |
-| -------------------------------------------- | -------- | -------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
-| Field Scribe                                 | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Field Scribe 1 Assembly Guide :pdf:] [Field Scribe 2 Assembly Guide :pdf:]       |
-| Knight                                       | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Knight (T-60 B) Assembly Guide :pdf:]                                            |
-| Knight Patrol / Initiate                     | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]                             |
-| Knight Patrol (Blade) / Initiate Blade       | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]                             |
-| Lancer                                       | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Initiate/Lancer 1 Assembly Guide :pdf:] [Initiate/Lancer 2 Assembly Guide :pdf:] |
-| [Paladin](minatures-painting-guides#paladin) | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Paladin (T-60 A) Assembly Guide :pdf:]                                           |
+| Item                                   | Quantity | Material | Cards                                         | Notes                                                                             |
+| -------------------------------------- | -------- | -------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
+| Field Scribe                           | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Field Scribe 1 Assembly Guide :pdf:] [Field Scribe 2 Assembly Guide :pdf:]       |
+| Knight                                 | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Knight (T-60 B) Assembly Guide :pdf:]                                            |
+| Knight Patrol / Initiate               | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]                             |
+| Knight Patrol (Blade) / Initiate Blade | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]                             |
+| Lancer                                 | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Initiate/Lancer 1 Assembly Guide :pdf:] [Initiate/Lancer 2 Assembly Guide :pdf:] |
+| [Paladin](#paladin)                    | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Paladin (T-60 A) Assembly Guide :pdf:]                                           |
 
 [Paladin (T-60 A) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=10
 [Knight (T-60 B) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=12
@@ -343,9 +343,9 @@ keywords:
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                    | Quantity | Material | Cards                                  | Notes |
-| ----------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Deathclaw](#deathclaw) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+| Item                      | Quantity | Material | Cards                                  | Notes |
+| ------------------------- | -------- | -------- | -------------------------------------- | ----- |
+| [Deathclaw](#deathclaw-1) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
@@ -353,10 +353,10 @@ keywords:
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                    | Quantity | Material | Cards                                  | Notes |
-| ----------------------- | -------- | -------- | -------------------------------------- | ----- |
-| Alien                   | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Deathclaw](#deathclaw) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                      | Quantity | Material | Cards                                  | Notes |
+| ------------------------- | -------- | -------- | -------------------------------------- | ----- |
+| Alien                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Deathclaw](#deathclaw-1) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 2
 
@@ -1222,9 +1222,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                  | Quantity | Material | Cards                                         | Notes |
-| --------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| [Behemoth](#behemoth) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Item                    | Quantity | Material | Cards                                         | Notes |
+| ----------------------- | -------- | -------- | --------------------------------------------- | ----- |
+| [Behemoth](#behemoth-1) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Core Box
 
@@ -1260,9 +1260,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item     | Quantity | Material | Cards                                     | Notes |
-| -------- | -------- | -------- | ----------------------------------------- | ----- |
-| Nightkin | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Item                    | Quantity | Material | Cards                                     | Notes |
+| ----------------------- | -------- | -------- | ----------------------------------------- | ----- |
+| [Nightkin](#nightkin-1) | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 6
 
@@ -1396,6 +1396,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Body | Warpaints: [Army Green]      | Warpaints Fanatic: [Army Green] | :heavy_check_mark: |
 | Body | Warpaints: [Matt White]      | Warpaints Fanatic: [Matt White] | :heavy_check_mark: |
 | Base | Vallejo: Texture Brown Earth |                                 |        :x:         |
+
+#### Nightkin
+
+[Painting Tutorial - Nightkin Skin Tones Video](https://www.youtube-nocookie.com/embed/qmTSKWP_8hM)
+
+> Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Super Mutant
 
