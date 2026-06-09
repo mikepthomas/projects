@@ -2237,13 +2237,17 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Character Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c288b605-212d-4d61-a814-c739e634ff2e/Fallout-2d20_Solo-RPG-Wasteland-Wanderer-Appendix-4-fillable-forms.pdf
 
-# Fallout: Wasteland Warfare (New Edition)
+# Fallout: Wasteland Warfare (Second Edition)
 
 The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 [Press Releases]: #
 [PR 02/06/25]: https://modiphius.net/blogs/press-releases/modiphius-announces-a-second-edition-of-fallout-wasteland-warfare
 [PR 04/03/26]: https://modiphius.net/blogs/press-releases/modiphius-reveals-products-for-second-edition-of-fallout-wasteland-warfare
+
+[Fallout: Wasteland Warfare - Second Edition - Gameplay Preview Video](https://www.youtube-nocookie.com/embed/pYDmlt16YnA)
+
+> Video © 2026 [Modiphius](https://www.youtube.com/@Modiphius)
 
 ## Development
 
