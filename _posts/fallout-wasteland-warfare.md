@@ -1264,17 +1264,31 @@ There is also a sampler containing some of the items from the bundle:
 
 ### Minatures
 
-| Item                                   |     Purchased      | Digital | Downloaded | Released        | Notes |
-| -------------------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [Creatures: Blood Bugs]                |        :x:         |         |            | [November 2022] |
-| [Raiders: The Forged]                  |        :x:         |         |            | [October 2022]  |
-| [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022]  |
-| [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022]  | Promo |
+| Item                                   |     Purchased      | Digital | Downloaded | Released       | Notes |
+| -------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
+| [Raiders: The Forged]                  |        :x:         |         |            | [October 2022] |
+| [Super Mutants: Centaurs]              |        :x:         |         |            | [January 2023] |
+| [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022] |
+| [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022] | Promo |
 
-[Creatures: Blood Bugs]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-blood-bugs
 [Raiders: The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
+[Super Mutants: Centaurs]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-centaurs
 [Survivors: Ghoul Settlers (The Slog)]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-ghoul-settlers-the-slog
 [Survivors: Jake Finch]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-jake-finch-promo
+
+#### Creatures
+
+| Item                      | Purchased | Digital | Downloaded | Released        | Notes |
+| ------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
+| [Creatures: Bloatflies]   |    :x:    |         |            | [January 2023]  |
+| [Creatures: Blood Bugs]   |    :x:    |         |            | [November 2022] |
+| [Creatures: Radstag Herd] |    :x:    |         |            | [January 2023]  |
+| [Creatures: Stingwings]   |    :x:    |         |            | [November 2022] |
+
+[Creatures: Bloatflies]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-bloatflies
+[Creatures: Blood Bugs]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-blood-bugs
+[Creatures: Radstag Herd]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-radstag-herd
+[Creatures: Stingwings]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-stingwings
 
 ### Scatter
 

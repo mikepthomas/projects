@@ -473,6 +473,17 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 ### Wave 7
 
+#### Bloatflies
+
+[Fallout: Wasteland Warfare - Bloatflies Video](https://www.youtube-nocookie.com/embed/q6KMcpNPV4Y)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item             | Quantity | Material | Cards                                            | Notes |
+| ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Bloatfly         | 2        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Glowing Bloatfly | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+
 #### Blood Bugs
 
 [Fallout: Wasteland Warfare - Blood Bugs Video](https://www.youtube-nocookie.com/embed/DKdC5KoYRkI)
@@ -483,6 +494,28 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | ----------------- | -------- | -------- | -------------------------------------------------- | ----- |
 | Blood Bug         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 | Glowing Blood Bug | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+
+#### Radstag Herd
+
+[Fallout: Wasteland Warfare - Rad Stags Video](https://www.youtube-nocookie.com/embed/tGpoqaQGFaM)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item        | Quantity | Material | Cards                                              | Notes |
+| ----------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Radstag     | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Radstag Doe | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+
+#### Sting Wings
+
+[Fallout: Wasteland Warfare - Sting Wings Video](https://www.youtube-nocookie.com/embed/RYKVcbw8nsI)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item              | Quantity | Material | Cards                                              | Notes |
+| ----------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Glowing Stingwing | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Stingwing         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Painting Guides
 
@@ -1184,6 +1217,18 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Miss Nanny | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 | Mr Gutsy   | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
+#### Protectron Workers
+
+[Fallout: Wasteland Warfare - Protectron Workers Video](https://www.youtube-nocookie.com/embed/1I6-tQYUKVA)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                      | Quantity | Material | Cards                                            | Notes |
+| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Police Protectron         | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Protectron Fire Brigadier | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Utility Protectron        | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+
 ### Wave 9
 
 #### N.I.R.A.
@@ -1374,6 +1419,18 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Item          | Quantity | Material | Cards                              | Notes     |
 | ------------- | -------- | -------- | ---------------------------------- | --------- |
 | Swan (I & II) | 1        | Resin    | [Commonwealth Rules][Wave 6 Rules] | Legendary |
+
+### Wave 7
+
+#### Centaurs
+
+[Fallout: Wasteland Warfare - Centaurs Video](https://www.youtube-nocookie.com/embed/P6ldIGlNV0o)
+
+> Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item    | Quantity | Material | Cards                                              | Notes |
+| ------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Centaur | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Painting Guides
 
