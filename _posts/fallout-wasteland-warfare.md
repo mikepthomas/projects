@@ -445,12 +445,16 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 #### Creatures
 
-| Item                          | Purchased | Digital | Downloaded | Released      | Notes |
-| ----------------------------- | :-------: | ------- | :--------: | ------------- | ----- |
-| [Creatures: Ghouls]           |    :x:    |         |            | November 2019 |
-| [Creatures: Wasteland Vermin] |    :x:    |         |            | November 2019 |
+| Item                               | Purchased | Digital | Downloaded | Released      | Notes        |
+| ---------------------------------- | :-------: | ------- | :--------: | ------------- | ------------ |
+| [Creatures: Ghouls]                |    :x:    |         |            | November 2019 |
+| [Creatures: Mole Rats]             |    :x:    |         |            | November 2019 | Discontinued |
+| [Creatures: Putrid & Glowing Ones] |    :x:    |         |            | November 2019 | Discontinued |
+| [Creatures: Wasteland Vermin]      |    :x:    |         |            | November 2019 |
 
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
+[Creatures: Mole Rats]: https://web.archive.org/web/20241014234127/https://modiphius.net/products/fallout-wasteland-warfare-creatures-mole-rats
+[Creatures: Putrid & Glowing Ones]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-putrid-glowing-ones
 [Creatures: Wasteland Vermin]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-wasteland-vermin
 
 #### Raiders
@@ -552,7 +556,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | ------------------------------------------------- | :----------------: | ----------------------------------------- | :----------------: | --------------------------------- | -------------------------------- |
 | SCP-034-111: The Undiscovered Vault               |                    | [Free :pdf:][Undiscovered Vault]          | :heavy_check_mark: | [October 2020]                    | Scenario for [Terminals]         |
 | SCP-050-111: The Beast of the Bottling Plant      |                    | [Free :pdf:][Beast of the Bottling Plant] | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27] |
-| [Raiders Organised Play Kit: Raid the Crash Site] | :heavy_check_mark: |                                           |                    |                                   | Scenario for [Crashed Vertibird] |
+| [Raiders Organised Play Kit: Raid the Crash Site] | :heavy_check_mark: |                                           |                    | May 2021                          | Scenario for [Crashed Vertibird] |
 
 [Beast of the Bottling Plant]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_the_beast_of_the_bottling_plant.pdf
 [Raiders Organised Play Kit: Raid the Crash Site]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
@@ -674,20 +678,18 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 ### Minatures
 
-| Item                             | Purchased | Digital | Downloaded | Released | Notes |
-| -------------------------------- | :-------: | ------- | :--------: | -------- | ----- |
-| [Super Mutants: Overlord & Fist] |    :x:    |         |            |          |
-| [Unaligned: T-51 Power Armour]   |    :x:    |         |            |          |
+| Item                           | Purchased | Digital | Downloaded | Released       | Notes |
+| ------------------------------ | :-------: | ------- | :--------: | -------------- | ----- |
+| [Unaligned: T-51 Power Armour] |    :x:    |         |            | September 2020 |
 
-[Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
 [Unaligned: T-51 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-51-power-armour
 
 #### Brotherhood of Steel
 
-| Item                                                 | Purchased | Digital | Downloaded | Released | Notes |
-| ---------------------------------------------------- | :-------: | ------- | :--------: | -------- | ----- |
-| [Brotherhood of Steel: Elder Maxson & Captain Kells] |    :x:    |         |            |          |
-| [Brotherhood of Steel: Order of the Shield]          |    :x:    |         |            |          |
+| Item                                                 | Purchased | Digital | Downloaded | Released       | Notes |
+| ---------------------------------------------------- | :-------: | ------- | :--------: | -------------- | ----- |
+| [Brotherhood of Steel: Elder Maxson & Captain Kells] |    :x:    |         |            | September 2020 |
+| [Brotherhood of Steel: Order of the Shield]          |    :x:    |         |            | September 2020 |
 
 [Brotherhood of Steel: Elder Maxson & Captain Kells]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-elder-maxson-and-captain-kells
 [Brotherhood of Steel: Order of the Shield]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-order-of-the-shield
@@ -712,12 +714,22 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Institute: Synths]: https://modiphius.net/products/fallout-wasteland-warfare-institute-synths
 [The Mechanist]: https://modiphius.net/products/fallout-wasteland-warfare-promo-mechanist
 
+#### Super Mutants
+
+| Item                             | Purchased | Digital | Downloaded | Released    | Notes |
+| -------------------------------- | :-------: | ------- | :--------: | ----------- | ----- |
+| [Super Mutants: Overlord & Fist] |    :x:    |         |            | August 2020 |
+| [Super Mutants: Skirmishers]     |    :x:    |         |            | August 2020 |
+
+[Super Mutants: Overlord & Fist]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-overlord-and-fist-1
+[Super Mutants: Skirmishers]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-skirmishers
+
 #### Survivors
 
-| Item                         |     Purchased      | Digital | Downloaded | Released | Notes                                             |
-| ---------------------------- | :----------------: | ------- | :--------: | -------- | ------------------------------------------------- |
-| [Survivors: Unusual Allies]  | :heavy_check_mark: |         |            |          |
-| [Survivors: Vault Personnel] | :heavy_check_mark: |         |            |          | Contains Miniatures related to the [Vault](vault) |
+| Item                         |     Purchased      | Digital | Downloaded | Released    | Notes                                             |
+| ---------------------------- | :----------------: | ------- | :--------: | ----------- | ------------------------------------------------- |
+| [Survivors: Unusual Allies]  | :heavy_check_mark: |         |            | August 2020 |
+| [Survivors: Vault Personnel] | :heavy_check_mark: |         |            | August 2020 | Contains Miniatures related to the [Vault](vault) |
 
 [Survivors: Unusual Allies]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-unusual-allies
 [Survivors: Vault Personnel]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-vault-personnel
@@ -728,13 +740,13 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Purchased | Digital                        |     Downloaded     | Released      | Notes |
-| ------------------------- | :-------: | ------------------------------ | :----------------: | ------------- | ----- |
-| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird]  | :heavy_check_mark: | April 2020    |
-| Pre-war APC               |           | [Buy :zip:][Pre-war APC]       | :heavy_check_mark: | November 2020 |
-| [Settlement Work Benches] |    :x:    |                                |                    |               |
-| Streets of Boston         |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2020   |
-| Tank                      |           | [Buy :zip:][Tank]              |        :x:         |               |
+| Item                      | Purchased | Digital                        |     Downloaded     | Released       | Notes |
+| ------------------------- | :-------: | ------------------------------ | :----------------: | -------------- | ----- |
+| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird]  | :heavy_check_mark: | April 2020     |
+| Pre-war APC               |           | [Buy :zip:][Pre-war APC]       | :heavy_check_mark: | November 2020  |
+| [Settlement Work Benches] |    :x:    |                                |                    | August 2020    |
+| Streets of Boston         |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2020    |
+| Tank                      |           | [Buy :zip:][Tank]              |        :x:         | September 2020 |
 
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
@@ -769,7 +781,7 @@ I will use elements from all of these to create my own version of [Vault 88](vau
 | Item                                                |     Purchased      | Digital                             |     Downloaded     | Released                                    | Notes                          |
 | --------------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | ------------------------------------------- | ------------------------------ |
 | SCP-051-111: Showdown in Synthtown                  |                    | [Free :pdf:][Showdown in Synthtown] | :heavy_check_mark: | [January 2020][Blog: Showdown In Synthtown] | [Blog: Institute Vs Survivors] |
-| [Institute Organised Play Kit: Teleporting Trouble] | :heavy_check_mark: |                                     |                    |                                             |
+| [Institute Organised Play Kit: Teleporting Trouble] | :heavy_check_mark: |                                     |                    | October 2020                                |
 
 [Institute Organised Play Kit: Teleporting Trouble]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Showdown in Synthtown]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf
@@ -796,10 +808,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 | Item                                            |     Purchased      | Digital                             |     Downloaded     | Released        | Notes |
 | ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | --------------- | ----- |
-| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    |                 |
-| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    |                 |
+| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | November 2020   |
+| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | November 2020   |
 | [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020] |
-| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    |                 |
+| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | November 2020   |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
@@ -848,14 +860,16 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 | Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                    | Notes |
 | ------------------------------------- | :----------------: | ----------------------- | :----------------: | --------------------------- | ----- |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    |                             |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    | October 2020                |
 | [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021][YT April 2021] |
+| [Super Mutant: Aviator]               |        :x:         |                         |                    | October 2020                |
 | [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020]             | Promo |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    |                             |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    | December 2020               |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 [Robobrain Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
 [Robots: Robobrain]: https://modiphius.net/products/fallout-wasteland-warfare-robots-robobrain
+[Super Mutant: Aviator]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutant-aviator-blister
 [Survivors: Lorenzo Cabot]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-lorenzo-cabot
 [Unaligned: T-45 Power Armour]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-t-45-power-armour
 
@@ -869,10 +883,10 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 | Item                                    | Purchased | Digital | Downloaded | Released                              | Notes                                            |
 | --------------------------------------- | :-------: | ------- | :--------: | ------------------------------------- | ------------------------------------------------ |
-| [Creatures: Fog Crawler]                |    :x:    |         |            | July 2020                             | [Legendary (Shipbreaker)][Into the Wasteland]    |
-| [Creatures: Mirelurks]                  |    :x:    |         |            |                                       |                                                  |
-| [Creatures: Mirelurk Hatchlings & Eggs] |    :x:    |         |            |                                       |                                                  |
-| [Creatures: Mirelurk Hunters]           |    :x:    |         |            |                                       |                                                  |
+| [Creatures: Fog Crawler]                |    :x:    |         |            | September 2020                        | [Legendary (Shipbreaker)][Into the Wasteland]    |
+| [Creatures: Mirelurks]                  |    :x:    |         |            | September 2020                        |                                                  |
+| [Creatures: Mirelurk Hatchlings & Eggs] |    :x:    |         |            | September 2020                        |                                                  |
+| [Creatures: Mirelurk Hunters]           |    :x:    |         |            | September 2020                        |                                                  |
 | [Creatures: Mirelurk Queen]             |    :x:    |         |            | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
 
 [Creatures: Fog Crawler]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-fog-crawler
@@ -889,13 +903,19 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 | Item                      |     Purchased      | Digital | Downloaded | Released                              | Notes     |
 | ------------------------- | :----------------: | ------- | :--------: | ------------------------------------- | --------- |
-| [Enclave: Core Box]       | :heavy_check_mark: |         |            |                                       |
+| [Enclave: Core Box]       | :heavy_check_mark: |         |            | November 2020                         |
 | [Enclave: Frank Horrigan] | :heavy_check_mark: |         |            | [November 2020][DEVELOPMENT BLOG #11] | Legendary |
-| [Enclave: High Command]   |        :x:         |         |            |                                       |
+| [Enclave: Hellfire Set]   |        :x:         |         |            | November 2020                         |
+| [Enclave: High Command]   |        :x:         |         |            | November 2020                         |
+| [Enclave: Soldier Set]    |        :x:         |         |            | January 2021                          |
+| [Enclave: Tesla Set]      |        :x:         |         |            | January 2021                          |
 
 [Enclave: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-core-box
 [Enclave: Frank Horrigan]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-frank-horrigan
+[Enclave: Hellfire Set]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-hellfire-set
 [Enclave: High Command]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-high-command
+[Enclave: Soldier Set]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-soldier-set
+[Enclave: Tesla Set]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-tesla-set
 
 ### Scatter
 
