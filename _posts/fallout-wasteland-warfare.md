@@ -808,10 +808,10 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 | Item                                            |     Purchased      | Digital                             |     Downloaded     | Released        | Notes |
 | ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | --------------- | ----- |
-| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | November 2020   |
-| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | November 2020   |
+| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | [November 2020] |
+| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | [November 2020] |
 | [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020] |
-| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | November 2020   |
+| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | [November 2020] |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
@@ -864,7 +864,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 | [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021][YT April 2021] |
 | [Super Mutant: Aviator]               |        :x:         |                         |                    | October 2020                |
 | [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020]             | Promo |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    | December 2020               |
+| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    | [December 2020]             |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 [Robobrain Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
@@ -903,10 +903,10 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 | Item                      |     Purchased      | Digital | Downloaded | Released                              | Notes     |
 | ------------------------- | :----------------: | ------- | :--------: | ------------------------------------- | --------- |
-| [Enclave: Core Box]       | :heavy_check_mark: |         |            | November 2020                         |
+| [Enclave: Core Box]       | :heavy_check_mark: |         |            | [November 2020]                       |
 | [Enclave: Frank Horrigan] | :heavy_check_mark: |         |            | [November 2020][DEVELOPMENT BLOG #11] | Legendary |
-| [Enclave: Hellfire Set]   |        :x:         |         |            | November 2020                         |
-| [Enclave: High Command]   |        :x:         |         |            | November 2020                         |
+| [Enclave: Hellfire Set]   |        :x:         |         |            | [November 2020]                       |
+| [Enclave: High Command]   |        :x:         |         |            | [November 2020]                       |
 | [Enclave: Soldier Set]    |        :x:         |         |            | January 2021                          |
 | [Enclave: Tesla Set]      |        :x:         |         |            | January 2021                          |
 
