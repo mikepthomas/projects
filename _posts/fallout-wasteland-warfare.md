@@ -1749,6 +1749,21 @@ The Co-Op Handbook gives more rules and advice for playing Co-Op style games.
 | Jackpot!                 |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
 | Salvaging This Situation |           | [Free :pdf:][Vault-Tec Simulator] | :heavy_check_mark: | May 2024 |
 
+## C.A.M.P.S Mode
+
+![C.A.M.P.S Mode Out Now](https://preview.redd.it/fallout-wasteland-warfare-c-a-m-p-s-mode-v0-lrl829i99eae1.png?width=1080&crop=smart&auto=webp&s=de459b7ab2d711a7cdda0b51a55baa3f55d25f18)
+
+| Item                     | Purchased | Digital                                |     Downloaded     | Released                       | Notes |
+| ------------------------ | :-------: | -------------------------------------- | :----------------: | ------------------------------ | ----- |
+| C.A.M.P.S Mode Rulebook  |           | [Free :pdf:][C.A.M.P.S Mode Rulebook]  | :heavy_check_mark: | [January 2025][C.A.M.P.S Mode] |
+| C.A.M.P.S Mode Resources |           | [Free :pdf:][C.A.M.P.S Mode Resources] | :heavy_check_mark: | [January 2025][C.A.M.P.S Mode] |
+
+[C.A.M.P.S Mode]: https://www.reddit.com/r/wastelandwarfare/comments/1hr45w0/fallout_wasteland_warfare_camps_mode
+[C.A.M.P.S Mode Rulebook]: https://drive.google.com/file/d/1EuU0eWFr7f0hk0ExGnW3C4ydTOa_koLF/preview
+[C.A.M.P.S Mode Resources]: https://drive.google.com/file/d/1yVHSoYJWPhKfPGhHF_mHwFXOEO2DF5C-/preview
+
+![C.A.M.P.S Mode Features](https://preview.redd.it/fallout-wasteland-warfare-c-a-m-p-s-mode-v0-dmnezjka9eae1.png?width=1080&crop=smart&auto=webp&s=d311c65d7c2e19aeb9768c942b375287b6446445)
+
 # Fallout: Wasteland Warfare Roleplaying Game
 
 `Fallout: Wasteland Warfare Roleplaying Game`, also called `Fallout: Wasteland Warfare RPG`, is a standalone expansion for `Fallout: Wasteland Warfare`.
