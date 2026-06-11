@@ -331,6 +331,12 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | Base             | Warpaints: [Banshee Brown]              | Warpaints Fanatic: [Tomb King Tan]              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: [Dry Rust]           |                                                 | :heavy_check_mark: |
 
+#### Rahmani, Expedition Leader
+
+![Rahmani, Expedition Leader Painting Guide](https://modiphius.net/cdn/shop/files/fallout-miniatures-brotherhood-of-steel-appalachian-command-fallout-miniatures-modiphius-entertainment-419545_1280x.jpg)
+
+> Image © 2025 [Modiphius Entertainment](https://www.modiphius.net)
+
 ## Children of Atom
 
 > Praise be to Atom! The `Children of Atom` are zealous devotees of Atom who deify radiation in all its forms.
@@ -1073,6 +1079,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Rust           | Warpaints Washes: [Dark Tone]           | Warpaints Fanatic Wash: [Dark Tone]             | :heavy_check_mark: |
 | Rust           | Warpaints Metallics: [Plate Mail Metal] | Grinning Gargoyle Metallics: [Plate Mail Metal] | :heavy_check_mark: |
 
+#### Wasteland Raider Psycho
+
+![Wasteland Raider Psycho Painting Guide](https://modiphius.net/cdn/shop/files/fallout-miniatures-wasteland-raiders-core-box-plastic-fallout-miniatures-modiphius-entertainment-428772_1280x.jpg)
+
+> Image © 2025 [Modiphius Entertainment](https://www.modiphius.net)
+
 ## Railroad
 
 > Working in the shadows, The `Railroad` aim to champion and protect Synths across the Commonwealth.
@@ -1242,6 +1254,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | N.I.R.A. | 1        | Resin    | [Nuka-World Rules Expansion][Wave 9 Rules] |
 
 ### Painting Guides
+
+#### Imposter Sheepsquatch
+
+![Imposter Sheepsquatch Painting Guide](https://modiphius.net/cdn/shop/files/fallout-miniatures-pylon-ambush-scenic-set-fallout-miniatures-modiphius-entertainment-942717_1280x.jpg)
+
+> Image © 2025 [Modiphius Entertainment](https://www.modiphius.net)
 
 #### Protectron
 
