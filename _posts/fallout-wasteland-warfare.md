@@ -1425,15 +1425,37 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 
 ### Minatures
 
-| Item                                      |     Purchased      | Digital | Downloaded | Released     | Notes                                  |
-| ----------------------------------------- | :----------------: | ------- | :--------: | ------------ | -------------------------------------- |
-| [Brotherhood of Steel: Heavy Armor (T45)] |        :x:         |         |            | [April 2023] |
-| [Survivors: Capital Companions]           |        :x:         |         |            | [July 2023]  |
-| [Survivors: Reilly's Rangers]             |        :x:         |         |            | [June 2023]  | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Survivors: Rosa Meitner]                 | :heavy_check_mark: |         |            | [April 2023] | Promo                                  |
-| [Survivors: Washington Personalities]     |        :x:         |         |            | [July 2023]  |
+#### Brotherhood of Steel
 
+| Item                                      | Purchased | Digital | Downloaded | Released     | Notes |
+| ----------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Brotherhood of Steel: Citadel Command]   |    :x:    |         |            | [May 2023]   |
+| [Brotherhood of Steel: Combat Patrol]     |    :x:    |         |            | [April 2023] |
+| [Brotherhood of Steel: Heavy Armor (T45)] |    :x:    |         |            | [April 2023] |
+
+[Brotherhood of Steel: Citadel Command]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-citadel-command
+[Brotherhood of Steel: Combat Patrol]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-combat-patrol
 [Brotherhood of Steel: Heavy Armor (T45)]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
+
+#### Enclave
+
+| Item                              | Purchased | Digital | Downloaded | Released    | Notes |
+| --------------------------------- | :-------: | ------- | :--------: | ----------- | ----- |
+| [Enclave: Assault Force]          |    :x:    |         |            | [June 2023] |
+| [Enclave: Domesticated Deathclaw] |    :x:    |         |            | [May 2023]  |
+
+[Enclave: Assault Force]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-assault-force
+[Enclave: Domesticated Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-enclave-domesticated-deathclaw
+
+#### Survivors
+
+| Item                                  |     Purchased      | Digital | Downloaded | Released     | Notes                                  |
+| ------------------------------------- | :----------------: | ------- | :--------: | ------------ | -------------------------------------- |
+| [Survivors: Capital Companions]       |        :x:         |         |            | [July 2023]  |
+| [Survivors: Reilly's Rangers]         |        :x:         |         |            | [June 2023]  | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Survivors: Rosa Meitner]             | :heavy_check_mark: |         |            | [April 2023] | Promo                                  |
+| [Survivors: Washington Personalities] |        :x:         |         |            | [July 2023]  |
+
 [Survivors: Capital Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-capital-companions
 [Survivors: Reilly's Rangers]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-reillys-rangers
 [Survivors: Rosa Meitner]: https://modiphius.net/products/fallout-wasteland-warfare-rosa-meitner-promo
@@ -1444,7 +1466,7 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 | Item                      | Purchased | Digital                                | Downloaded | Released                | Notes                                      |
 | ------------------------- | :-------: | -------------------------------------- | :--------: | ----------------------- | ------------------------------------------ |
 | Cult of the Mothman Altar |           | [Buy :zip:][Cult of the Mothman Altar] |    :x:     | [May 2023][YT May 2023] | [Cult of the Mothman Altar Assembly Guide] |
-| Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     |                         |
+| Meat and Gore             |           | [Buy :zip:][Meat and Gore]             |    :x:     | September 2023          |
 | Metal Dome                |           | [Buy :zip:][Metal Dome]                |    :x:     | [June 2023]             |
 
 [Cult of the Mothman Altar]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-cult-of-the-mothman-altar
