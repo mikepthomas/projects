@@ -1041,30 +1041,68 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                              |     Purchased      | Digital | Downloaded | Released                                  | Notes |
-| --------------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [Caesar's Legion: Core Box]       |        :x:         |         |            | [May 2021][Blog: Caesar's Legion]         |
-| [NCR: Core Box]                   |        :x:         |         |            | [May 2021][Blog: New California Republic] |
-| [NCR: Ranger]                     |        :x:         |         |            |                                           | Promo |
-| [Robots: Securitron Enforcers]    |        :x:         |         |            | [September 2021]                          |
-| [Super Mutants: Nightkin]         |        :x:         |         |            | [August 2021]                             |
-| [Survivors: Boone, Arcade & Cass] |        :x:         |         |            | [October 2021]                            |
-| [Unaligned: Burned Man]           | :heavy_check_mark: |         |            | [November 2021]                           | Promo |
+| Item                           |     Purchased      | Digital | Downloaded | Released         | Notes |
+| ------------------------------ | :----------------: | ------- | :--------: | ---------------- | ----- |
+| [Robots: Securitron Enforcers] |        :x:         |         |            | [September 2021] |
+| [Unaligned: Burned Man]        | :heavy_check_mark: |         |            | [November 2021]  | Promo |
+
+[Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
+[Unaligned: Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
+
+#### Caesar's Legion
+
+| Item                                | Purchased | Digital | Downloaded | Released                          | Notes |
+| ----------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
+| [Caesar's Legion: Core Box]         |    :x:    |         |            | [May 2021][Blog: Caesar's Legion] |
+| [Caesar's Legion: Military Command] |    :x:    |         |            | [June 2021]                       |
+| [Caesar's Legion: Veteran Wave]     |    :x:    |         |            | [July 2021]                       |
 
 [Caesar's Legion: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
+[Caesar's Legion: Military Command]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-military-command
+[Caesar's Legion: Veteran Wave]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-veteran-wave
+
+#### New California Republic
+
+| Item                 | Purchased | Digital | Downloaded | Released                                  | Notes |
+| -------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [NCR: Core Box]      |    :x:    |         |            | [May 2021][Blog: New California Republic] |
+| [NCR: Ranger]        |    :x:    |         |            | [September 2020][Blog: Mojave Expansion]  | Promo |
+| [NCR: Ranger Patrol] |    :x:    |         |            | [July 2021]                               |
+| [NCR: Top Brass]     |    :x:    |         |            | [June 2021]                               |
+
 [NCR: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box
 [NCR: Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
-[Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
+[NCR: Ranger Patrol]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-ranger-patrol
+[NCR: Top Brass]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-top-brass
+
+#### Super Mutants
+
+| Item                              | Purchased | Digital | Downloaded | Released         | Notes |
+| --------------------------------- | :-------: | ------- | :--------: | ---------------- | ----- |
+| [Super Mutants: Marcus and Lily]  |    :x:    |         |            | [September 2021] |
+| [Super Mutants: Nightkin]         |    :x:    |         |            | [August 2021]    |
+| [Super Mutants: Tabitha and Raul] |    :x:    |         |            | [August 2021]    |
+
+[Super Mutants: Marcus and Lily]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-marcus-and-lily
 [Super Mutants: Nightkin]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-nightkin
-[Survivors: Boone, Arcade & Cass]: https://modiphius.net/products/fallout-wasteland-warfare-boone-arcade-and-cass
-[Unaligned: Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
+[Super Mutants: Tabitha and Raul]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-tabitha-and-raul
+
+#### Survivors
+
+| Item                                      | Purchased | Digital | Downloaded | Released       | Notes |
+| ----------------------------------------- | :-------: | ------- | :--------: | -------------- | ----- |
+| [Mojave Companions: Ed-E, Rex & Veronica] |    :x:    |         |            | [October 2021] |
+| [Mojave Companions: Boone, Arcade & Cass] |    :x:    |         |            | [October 2021] |
+
+[Mojave Companions: Ed-E, Rex & Veronica]: https://modiphius.net/products/fallout-wasteland-warfare-ed-e-rex-and-veronica
+[Mojave Companions: Boone, Arcade & Cass]: https://modiphius.net/products/fallout-wasteland-warfare-boone-arcade-and-cass
 
 #### Print at Home
 
 | Item                    |     Purchased      | Digital                                |     Downloaded     | Released        | Notes                                 |
 | ----------------------- | :----------------: | -------------------------------------- | :----------------: | --------------- | ------------------------------------- |
 | Bottle and Cappy        |                    | [Buy :zip:][Bottle and Cappy]          | :heavy_check_mark: | [December 2021] |
-| [Vault-Tec Poster Girl] | :heavy_check_mark: | [Buy :zip:][Vault Tec Poster Girl STL] | :heavy_check_mark: |                 | [Vault-Tec Poster Girl (Pre-Colored)] |
+| [Vault-Tec Poster Girl] | :heavy_check_mark: | [Buy :zip:][Vault Tec Poster Girl STL] | :heavy_check_mark: | December 2021   | [Vault-Tec Poster Girl (Pre-Colored)] |
 
 [Bottle and Cappy]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-bottle-and-cappy-stl
 [Vault-Tec Poster Girl]: https://only-games.co/products/vault-tec-poster-girl
@@ -1073,11 +1111,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Scatter
 
-| Item             | Purchased | Digital                       |     Downloaded     | Released      | Notes |
-| ---------------- | :-------: | ----------------------------- | :----------------: | ------------- | ----- |
-| Chryslus Rocket  |           | [Buy :zip:][Chryslus Rocket]  | :heavy_check_mark: | November 2021 |
-| Corvega Coupe    |           | [Buy :zip:][Corvega Coupe]    | :heavy_check_mark: | November 2021 |
-| Settlement Walls |           | [Buy :zip:][Settlement Walls] | :heavy_check_mark: | [March 2022]  |
+| Item             | Purchased | Digital                       |     Downloaded     | Released        | Notes |
+| ---------------- | :-------: | ----------------------------- | :----------------: | --------------- | ----- |
+| Chryslus Rocket  |           | [Buy :zip:][Chryslus Rocket]  | :heavy_check_mark: | [November 2021] |
+| Corvega Coupe    |           | [Buy :zip:][Corvega Coupe]    | :heavy_check_mark: | [November 2021] |
+| Settlement Walls |           | [Buy :zip:][Settlement Walls] | :heavy_check_mark: | [March 2022]    |
 
 [Chryslus Rocket]: https://www.myminifactory.com/object/3d-print-chryslus-rocket-terrain-expansion-fallout-wasteland-warfare-141484
 [Corvega Coupe]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-corvega-coupe-stl
@@ -1121,9 +1159,9 @@ The [Dry Rock Gulch STL Bundle](https://modiphius.net/products/fallout-wasteland
 
 There is also a sampler containing some of the items from the bundle:
 
-| Item                 | Purchased | Digital                           |     Downloaded     | Released       | Notes                                                                          |
-| -------------------- | :-------: | --------------------------------- | :----------------: | -------------- | ------------------------------------------------------------------------------ |
-| Tabletop STL Sampler |           | [Buy :zip:][Tabletop STL Sampler] | :heavy_check_mark: | [January 2022] | Replaces versions in the Fallout Factions: [Battle for Nuka-World Starter Set] |
+| Item                 | Purchased | Digital                           |     Downloaded     | Released        | Notes                                                                          |
+| -------------------- | :-------: | --------------------------------- | :----------------: | --------------- | ------------------------------------------------------------------------------ |
+| Tabletop STL Sampler |           | [Buy :zip:][Tabletop STL Sampler] | :heavy_check_mark: | [November 2021] | Replaces versions in the Fallout Factions: [Battle for Nuka-World Starter Set] |
 
 [Tabletop STL Sampler]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-tabletop-stl-sampler
 
@@ -1158,6 +1196,8 @@ There is also a sampler containing some of the items from the bundle:
 [Big Iron]: https://ko-fi.com/s/767185b2f0
 
 ## Wave 6 - Commonwealth Expansion
+
+Wave 6 introduces new factions, the `Children of Atom`, `Gunners` and the `Railroad`.
 
 [April 2022]: https://modiphius.net/blogs/news/fallout-friday-april-2022
 [May 2022]: https://modiphius.net/blogs/news/fallout-friday-may-2022
@@ -1261,6 +1301,8 @@ There is also a sampler containing some of the items from the bundle:
 
 ## Wave 7 - Forged in the Fire Expansion
 
+Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-faction of the `Survivors`, `The Slog`.
+
 [October 2022]: https://modiphius.net/blogs/news/fallout-friday-october-2022
 [November 2022]: https://modiphius.net/blogs/news/fallout-friday-november-11th
 [December 2022]: https://modiphius.net/blogs/news/fallout-friday-december-16th
@@ -1360,6 +1402,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 
 ## Wave 8 - Capital Expansion
 
+Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
+
 [April 2023]: https://modiphius.net/blogs/news/fallout-friday-april-14th
 [May 2023]: https://modiphius.net/blogs/news/fallout-friday-may-12th
 [June 2023]: https://modiphius.net/blogs/news/fallout-friday-june-9th
@@ -1409,6 +1453,8 @@ The [Basing Greebles STL Bundle](https://modiphius.net/products/fallout-wastelan
 [Metal Dome]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-metal-dome
 
 ## Wave 9 - Nuka-World Expansion
+
+Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Operators` and `The Pack`.
 
 [October 2023]: https://modiphius.net/blogs/news/fallout-friday-october-20th
 [November 2023]: https://modiphius.net/blogs/news/fallout-friday-november-17th
