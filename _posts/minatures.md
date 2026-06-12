@@ -403,9 +403,21 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                      | Quantity | Material | Cards                                  | Notes |
-| ------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Deathclaw](#deathclaw-1) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+| Item                      | Quantity | Material | Cards                                            | Notes |
+| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| [Deathclaw](#deathclaw-1) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]           |
+| Young Deathclaw           | :x:      | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
+#### Radscorpions
+
+![Creatures: Radscorpions](https://modiphius.net/cdn/shop/products/2-Scenic-Shot-Fallout-Wasteland-Warfare-MUH051264_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                            | Quantity | Material | Cards                                         | Notes |
+| ------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
+| Deathskull Radscorpion (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]            |
+| Radscorpion                     | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
@@ -413,12 +425,26 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Quantity | Material | Cards                                  | Notes |
-| ------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| Alien                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Deathclaw](#deathclaw-1) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                      | Quantity | Material | Cards                                            | Notes |
+| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Alien                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
+| [Deathclaw](#deathclaw-1) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
+| Young Deathclaw           | :x:      | PVC      | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Wave 2
+
+#### Ghouls
+
+![Creatures: Ghouls](https://modiphius.net/cdn/shop/products/9-Scenic-Ghouls-FWW-RGB-150dpi-MUH051729_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                | Quantity | Material | Cards                                            | Notes |
+| ------------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Bloated Glowing One | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Feral Ghoul         | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
+| Putrid Glowing One  | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Weak Feral Ghoul    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Wasteland Vermin
 
@@ -426,10 +452,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                    | Quantity | Material | Cards                                            | Notes |
-| ----------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| [Molerats](#molerats)   | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| [Radroaches](#radroach) | 6        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Item                        | Quantity | Material | Cards                                            | Notes |
+| --------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Glowing Radroach Swarm      | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Mole Rat](#molerats)       | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Radroach Swarm](#radroach) | 5        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
 
 ### Wave 6
 
@@ -1228,6 +1255,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Curie      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 | Miss Nanny | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 | Mr Gutsy   | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Mr Handy   | :x:      | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
 
 #### Protectron Workers
 
@@ -1401,6 +1429,27 @@ There are some examples of paint colours that can be used in the `Painting the R
 | [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
 | Mutant Hound Fiend            | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
 | [Super Mutant](#super-mutant) | 3        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+
+#### Hammer
+
+![Super Mutant: Hammer](https://modiphius.net/cdn/shop/products/5-Scenic-Hammer-FWW-RGB-150dpi-MUH051242_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                          | Quantity | Material | Cards                                         | Notes             |
+| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| Hammer                        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+
+#### Suiciders
+
+[Fallout Wasteland Warfare Miniature Super Mutant Suicider Video](https://www.youtube-nocookie.com/embed/Y4vqXHaSqFU)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item     | Quantity | Material | Cards                                         | Notes |
+| -------- | -------- | -------- | --------------------------------------------- | ----- |
+| Suicider | 3        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
@@ -1669,8 +1718,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Mama Murphy                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 | [Preston Garvey](#preston-garvey) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 | Ronnie Shaw                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| [Settler (Female)](#settler)      | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
-| Settler (Male)                    | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Scavenger                         | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| [Settler](#settler)               | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 | Sturges                           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Heroes of Sanctuary Hills
@@ -1679,11 +1728,22 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                 | Quantity | Material | Cards                                         | Notes             |
-| -------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| Codsworth            | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Dogmeat Scout        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
-| Sole Survivor (Male) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Item                | Quantity | Material | Cards                                         | Notes             |
+| ------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| Codsworth           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Dogmeat Scout       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
+| Sole Survivor Loner | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+
+#### Minutemen Posse
+
+[Fallout Wasteland Warfare - Minutemen Posse Box set Video](https://www.youtube-nocookie.com/embed/vNq1Ex2Ixz0)
+
+> Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item               | Quantity | Material | Cards                                         | Notes |
+| ------------------ | -------- | -------- | --------------------------------------------- | ----- |
+| Minuteman (Female) | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Minuteman (Male)   | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Nuka Girl
 
@@ -1693,17 +1753,19 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 | Item      | Quantity | Material | Cards                                         | Notes |
 | --------- | -------- | -------- | --------------------------------------------- | ----- |
-| Nuka Girl | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Nuka-Girl | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Two Player Starter Set
 
-| Item                                     | Quantity | Material | Cards                                  | Notes             |
-| ---------------------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
-| [Dogmeat](#dogmeat)                      | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| Enslaved Tech                            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Settler (Female)](#settler)             | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| Settler (Male)                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Sole Survivor (Female)](#sole-survivor) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                                    | Quantity | Material | Cards                                  | Notes             |
+| --------------------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
+| [Dog](#dogmeat)                         | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Dogmeat](#dogmeat)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
+| Enslaved Tech                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Scavenger                               | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Settler](#settler)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Sole Survivor](#sole-survivor)         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| [Sole Survivor Day One](#sole-survivor) | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 2
 
