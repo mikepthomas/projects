@@ -574,10 +574,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item              | Quantity | Material | Cards                                              | Notes |
-| ----------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Blood Bug         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Glowing Blood Bug | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Item             | Quantity | Material | Cards                                              | Notes |
+| ---------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Bloodbug         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Glowing Bloodbug | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 #### Radstag Herd
 
