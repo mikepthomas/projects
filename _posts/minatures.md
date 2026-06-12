@@ -458,6 +458,32 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | [Mole Rat](#molerats)       | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 | [Radroach Swarm](#radroach) | 5        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
 
+### Wave 4
+
+#### Fog Crawler
+
+![Creatures: Mirelurk Queen](https://modiphius.net/cdn/shop/products/4-Scenic-Fogcrawler-FWW-RGB-150dpi-MUH052008_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                 | Quantity | Material | Cards                                            | Notes     |
+| -------------------- | -------- | -------- | ------------------------------------------------ | --------- |
+| Fog Crawler          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| Shipbreaker (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
+
+#### Mirelurk Queen
+
+![Creatures: Mirelurk Queen](https://modiphius.net/cdn/shop/products/4-Scenic-Shot-Fallout-Wasteland-Warfare-MUH052005_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                    | Quantity | Material | Cards                                            | Notes     |
+| ----------------------- | -------- | -------- | ------------------------------------------------ | --------- |
+| Mirelurk Hatchlings     | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| Mirelurk Queen          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| Nukalurk Hatchlings     | 3        | Resin    | [Into the Wasteland][Wave 4 Rules]               |
+| Nukalurk Queen (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
+
 ### Wave 6
 
 #### Brahmin Herd
@@ -514,7 +540,7 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 | Item             | Quantity | Material | Cards                                            | Notes |
 | ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Bloatfly         | 2        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Bloatfly         | 2        | Resin    | [Into the Wasteland][Wave 4 Rules]               |
 | Glowing Bloatfly | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 #### Blood Bugs
@@ -1452,8 +1478,6 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Suicider | 3        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
-
-### Units
 
 | Item                          | Quantity | Material | Cards                                  | Notes             |
 | ----------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
