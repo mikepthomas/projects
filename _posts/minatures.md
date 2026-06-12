@@ -485,6 +485,16 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | Mirelurk           | 1        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
 | Softshell Mirelurk | 1        | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
+#### Mirelurk Hunters
+
+![Creatures: Mirelurk Hunters](https://modiphius.net/cdn/shop/products/3-Scenic-Shot-Fallout-Wasteland-Warfare-MUH052006_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item            | Quantity | Material | Cards                                            | Notes |
+| --------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Mirelurk Hunter | 2        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+
 #### Mirelurk Queen
 
 ![Creatures: Mirelurk Queen](https://modiphius.net/cdn/shop/products/4-Scenic-Shot-Fallout-Wasteland-Warfare-MUH052005_1280x.jpg)
@@ -706,13 +716,43 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 #### Frank Horrigan
 
-![Frank Horrigan](https://i.shgcdn.com/efc84897-0eed-4214-a7e6-d5315349cb84/)
+![Enclave: Frank Horrigan](https://i.shgcdn.com/efc84897-0eed-4214-a7e6-d5315349cb84/)
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                              | Quantity | Material | Cards                                   | Notes |
-| --------------------------------- | -------- | -------- | --------------------------------------- | ----- |
-| [Frank Horrigan](#frank-horrigan) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Item                                            | Quantity | Material | Cards                                   | Notes     |
+| ----------------------------------------------- | -------- | -------- | --------------------------------------- | --------- |
+| [Frank Horrigan (I, II & III)](#frank-horrigan) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] | Legendary |
+
+#### Hellfire Set
+
+| Item             | Quantity | Material | Cards                                   | Notes |
+| ---------------- | -------- | -------- | --------------------------------------- | ----- |
+| Hellfire Trooper | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+
+#### High Command
+
+![Enclave: High Command](https://modiphius.net/cdn/shop/articles/Enclave_Scientist_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item               | Quantity | Material | Cards                                   | Notes |
+| ------------------ | -------- | -------- | --------------------------------------- | ----- |
+| Colonel Autumn     | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Lieutenant         | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Science Specialist | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+
+#### Soldier Set
+
+| Item            | Quantity | Material | Cards                                   | Notes |
+| --------------- | -------- | -------- | --------------------------------------- | ----- |
+| Enclave Soldier | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+
+#### Tesla Set
+
+| Item          | Quantity | Material | Cards                                   | Notes |
+| ------------- | -------- | -------- | --------------------------------------- | ----- |
+| Tesla Soldier | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 ### Painting Guides
 
