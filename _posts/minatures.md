@@ -874,6 +874,35 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Synth Infiltrator    | 2        | HIPS     |                                                    |
 | Trooper              | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
+### Wave 3
+
+#### Core Box
+
+![Institute: Core Box](https://modiphius.net/cdn/shop/products/6-Scenic-Shot-Fallout-Wasteland-Warfare-MUH051807_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                 | Quantity | Material | Cards                                              | Notes |
+| -------------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Battered Gen 1 Synth | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Courser              | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Gen 1 Synth          | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Patroller            | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Scientist            | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Trooper              | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+
+#### Covert Operations
+
+![Institute: Covert Operations](https://modiphius.net/cdn/shop/products/6-Scenic-Shot-Fallout-Wasteland-Warfare-MUH051809_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item          | Quantity | Material | Cards                                              | Notes |
+| ------------- | -------- | -------- | -------------------------------------------------- | ----- |
+| A-2018        | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Conrad Kellog | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Z2-47         | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+
 ## Leigon
 
 > Owned by the mighty Caesar, his legion of conquered warriors fights as a warped echo of the long forgotten Roman Empire.
@@ -1064,6 +1093,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 #### Ack Ack, Sinjin & Avery
 
+![Raiders: Ack Ack, Sinjin & Avery](https://i.shgcdn.com/f53fe37c-366c-4008-9b2e-769c4556f2df/)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
 | Item    | Quantity | Material | Cards                                            | Notes |
 | ------- | -------- | -------- | ------------------------------------------------ | ----- |
 | Ack Ack | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
@@ -1084,6 +1117,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Veteran Raider    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Raiders, Scavvers & Psychos
+
+![Raiders: Raiders, Scavvers & Psychos](https://i.shgcdn.com/ba7b3788-c126-4efd-a1f1-5b5ba33547fe/)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item           | Quantity | Material | Cards                                            | Notes |
 | -------------- | -------- | -------- | ------------------------------------------------ | ----- |
@@ -1269,6 +1306,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 ### Wave 3
 
 #### The Mechanist
+
+![The Mechanist](https://modiphius.net/cdn/shop/products/5-Product-Shot-Fallout-Wasteland-Warfare-MUH051901_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Cards                                          | Notes |
 | ------------- | -------- | -------- | ---------------------------------------------- | ----- |
@@ -1518,6 +1559,29 @@ There are some examples of paint colours that can be used in the `Painting the R
 | [Mutant Hound](#mutant-hound) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
 | Mutant Hound Fiend            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
 | [Super Mutant](#super-mutant) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+
+### Wave 3
+
+#### Overlord & Fist
+
+![Super Mutants: Overlord & Fist](https://modiphius.net/cdn/shop/products/1-Painted-Models-Fallout-Wasteland-Warfare-MUH051814_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item     | Quantity | Material | Cards                                              | Notes |
+| -------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Fist     | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Overlord | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+
+#### Skirmishers
+
+![Super Mutants: Skirmishers](https://modiphius.net/cdn/shop/products/1-Painted-Models-Fallout-Wasteland-Warfare-MUH051813_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item       | Quantity | Material | Cards                                              | Notes |
+| ---------- | -------- | -------- | -------------------------------------------------- | ----- |
+| Skirmisher | 3        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 5
 
