@@ -414,10 +414,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                            | Quantity | Material | Cards                                         | Notes |
-| ------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Deathskull Radscorpion (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]            |
-| Radscorpion                     | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Item                            | Quantity | Material | Cards                                                         | Notes |
+| ------------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
+| Deathskull Radscorpion (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
+| Radscorpion                     | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
+| Young Radscorpion               | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Two Player Starter Set
 
@@ -452,24 +453,37 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                        | Quantity | Material | Cards                                            | Notes |
-| --------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Glowing Radroach Swarm      | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| [Mole Rat](#molerats)       | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| [Radroach Swarm](#radroach) | 5        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
+| Item                        | Quantity | Material | Cards                                                         | Notes |
+| --------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
+| Glowing Radroach Swarm      | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
+| [Mole Rat](#molerats)       | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
+| [Rabid Mole Rat](#molerats) | 1        | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| [Radroach Swarm](#radroach) | 5        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
 
 ### Wave 4
 
 #### Fog Crawler
 
-![Creatures: Mirelurk Queen](https://modiphius.net/cdn/shop/products/4-Scenic-Fogcrawler-FWW-RGB-150dpi-MUH052008_1280x.jpg)
+![Creatures: Fog Crawler](https://modiphius.net/cdn/shop/products/4-Scenic-Fogcrawler-FWW-RGB-150dpi-MUH052008_1280x.jpg)
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                 | Quantity | Material | Cards                                            | Notes     |
-| -------------------- | -------- | -------- | ------------------------------------------------ | --------- |
-| Fog Crawler          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
-| Shipbreaker (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
+| Item                 | Quantity | Material | Cards                                                         | Notes     |
+| -------------------- | -------- | -------- | ------------------------------------------------------------- | --------- |
+| Fog Crawler          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Shipbreaker (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
+| Young Fog Crawler    | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+
+#### Mirelurks
+
+![Creatures: Mirelurks](https://modiphius.net/cdn/shop/products/3-Scenics-Shot-Fallout-Wasteland-Warfare-MUH052010_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item               | Quantity | Material | Cards                                                         | Notes |
+| ------------------ | -------- | -------- | ------------------------------------------------------------- | ----- |
+| Mirelurk           | 1        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Softshell Mirelurk | 1        | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Mirelurk Queen
 
@@ -477,12 +491,13 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                    | Quantity | Material | Cards                                            | Notes     |
-| ----------------------- | -------- | -------- | ------------------------------------------------ | --------- |
-| Mirelurk Hatchlings     | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
-| Mirelurk Queen          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
-| Nukalurk Hatchlings     | 3        | Resin    | [Into the Wasteland][Wave 4 Rules]               |
-| Nukalurk Queen (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
+| Item                    | Quantity | Material | Cards                                                         | Notes     |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------- | --------- |
+| Mirelurk Hatchlings     | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Mirelurk Queen          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Nukalurk Hatchlings     | 3        | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
+| Nukalurk Queen (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
+| Young Mirelurk Queen    | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 ### Wave 6
 
@@ -1438,9 +1453,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                    | Quantity | Material | Cards                                         | Notes |
-| ----------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| [Behemoth](#behemoth-1) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Item                         | Quantity | Material | Cards                                                         | Notes |
+| ---------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
+| [Behemoth](#behemoth-1)      | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
+| [Weak Behemoth](#behemoth-1) | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Core Box
 
