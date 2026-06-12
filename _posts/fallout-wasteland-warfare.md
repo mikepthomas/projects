@@ -445,11 +445,11 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 #### Creatures
 
-| Item                               | Purchased | Digital | Downloaded | Released      | Notes        |
-| ---------------------------------- | :-------: | ------- | :--------: | ------------- | ------------ |
+| Item                               | Purchased | Digital | Downloaded | Released      | Notes                                                     |
+| ---------------------------------- | :-------: | ------- | :--------: | ------------- | --------------------------------------------------------- |
 | [Creatures: Ghouls]                |    :x:    |         |            | November 2019 |
-| [Creatures: Mole Rats]             |    :x:    |         |            | November 2019 | Discontinued |
-| [Creatures: Putrid & Glowing Ones] |    :x:    |         |            | November 2019 | Discontinued |
+| [Creatures: Mole Rats]             |    :x:    |         |            | November 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
+| [Creatures: Putrid & Glowing Ones] |    :x:    |         |            | November 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
 | [Creatures: Wasteland Vermin]      |    :x:    |         |            | November 2019 |
 
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
