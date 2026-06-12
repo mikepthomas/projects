@@ -1062,6 +1062,14 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Wave 2
 
+#### Ack Ack, Sinjin & Avery
+
+| Item    | Quantity | Material | Cards                                            | Notes |
+| ------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Ack Ack | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Avery   | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Sinjin  | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
 #### Core Box
 
 ![Raiders: Core Box](https://modiphius.net/cdn/shop/products/6-Scenic-Shot-Fallout-Wasteland-Warfare-MUH051721_1280x.jpg)
@@ -1074,6 +1082,14 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | [Raider](#raider) | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 | Scavver           | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 | Veteran Raider    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+
+#### Raiders, Scavvers & Psychos
+
+| Item           | Quantity | Material | Cards                                            | Notes |
+| -------------- | -------- | -------- | ------------------------------------------------ | ----- |
+| Psycho Outlaw  | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Raider Outlaw  | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Scavver Outlaw | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Wave 7
 
