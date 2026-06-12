@@ -236,8 +236,63 @@ To communicate with the EEPROM chip we need to enable the I2C interface.
 pi@raspberrypi:~/hats/eepromutils $ sudo raspi-config
 ```
 
-Select:
-interfacing Options -> I2C -> Yes -> ok -> Finish
+Select `Interface Options`:
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│       1 System Options       Configure system settings                       │
+│       2 Display Options      Configure display settings                      │
+│      |3 Interface Options    Configure connections to peripherals     |      │
+│       4 Performance Options  Configure performance settings                  │
+│       5 Localisation Options Configure language and regional settings        │
+│       6 Advanced Options     Configure advanced settings                     │
+│       8 Update               Update this tool to the latest version          │
+│       9 About raspi-config   Information about this configuration tool       │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Finish>                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+Select `I2C`:
+
+```
+┌─────────┤ Raspberry Pi Software Configuration Tool (raspi-config) ├──────────┐
+│                                                                              │
+│    I1 SSH         Enable/disable remote command line access using SSH        │
+│    I2 RPi Connect Enable/disable Raspberry Pi Connect                        │
+│    I3 VNC         Enable/disable graphical remote desktop access             │
+│    I4 SPI         Enable/disable automatic loading of SPI kernel module      │
+│   |I5 I2C         Enable/disable automatic loading of I2C kernel module |    │
+│    I6 Serial Port Enable/disable shell messages on the serial connection     │
+│    I7 1-Wire      Enable/disable one-wire interface                          │
+│    I8 Remote GPIO Enable/disable remote access to GPIO pins                  │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                     <Select>                     <Back>                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+The wizard will then ask:
+
+Would you like the ARM I2C interface to be enabled?
+
+Select: `Yes`
+
+You will then be presented with a screen saying:
+
+The ARM I2C interface is enabled
+
+Select `Ok` and then `Finish` to exit the Raspberry Pi Software Configuration Tool.
 
 We will then need to reboot the Raspberry Pi to enable.
 
