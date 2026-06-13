@@ -23,9 +23,18 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import cn from 'classnames';
 import React from 'react';
-import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler } from 'reactstrap';
+import {
+  Collapse,
+  Nav,
+  Navbar,
+  NavbarBrand,
+  NavbarToggler,
+  NavItem,
+  NavLink,
+} from 'reactstrap';
 
 import styles from './navigation.module.scss';
 import SocialLink from './social-link';
@@ -73,6 +82,12 @@ export default function Navigation(props: Props) {
               .map((item) => (
                 <SocialLink key={item.name} {...item} />
               ))}
+            <NavItem>
+              <NavLink href="/projects">
+                <FontAwesomeIcon icon={['fas', 'box-open']} />
+                &nbsp; Projects
+              </NavLink>
+            </NavItem>
           </Nav>
         </Collapse>
       </Navbar>

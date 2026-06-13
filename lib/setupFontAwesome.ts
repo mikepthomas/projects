@@ -36,6 +36,7 @@ import {
 import { faFilePdf, faFileZipper } from '@fortawesome/free-regular-svg-icons';
 import {
   faAnchor,
+  faBoxOpen,
   faBuildingShield,
   faCalendarAlt,
   faCalendarDay,
@@ -56,6 +57,7 @@ export default function register() {
   library.add(
     faApple,
     faAnchor,
+    faBoxOpen,
     faBuildingShield,
     faCalendarAlt,
     faCalendarDay,

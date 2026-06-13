@@ -84,7 +84,7 @@ export default function TimelinePanel(props: Experience) {
         <div className="timeline-heading">
           <h4 className="timeline-title">{props.title}</h4>
           <small className="mb-1 text-muted">
-            <FontAwesomeIcon icon="calendar-alt" />
+            <FontAwesomeIcon icon={['fas', 'calendar-alt']} />
             &nbsp;
             {DateUtils.formatDate(props.startDate)}
             &nbsp;-&nbsp;
