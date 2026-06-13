@@ -963,15 +963,6 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 [Legion Force List (v7.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_8_Battle_Mode_Caesars_Legion.pdf
 [Legion Force List (BMCE v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7e720df6-a43b-4457-ac02-fe17c0f6e9de/BMCE-Legion-v-1-0.pdf
 
-## NCR
-
-> The `NCR` strives to return democracy and the rule of law to the chaos of the Wasteland.
->
-> However, it is not afraid to spill blood to achieve that goal.
-> It’s men and women of the Republic military are well armed and armoured, while specialists such as Rangers bring an elite punch.[^ncr]
-
-[^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
-
 ### Wave 5
 
 #### Core Box
@@ -1001,6 +992,15 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Legionary Scout  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 | Praetorian Guard | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 | Vexillarius      | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+## NCR
+
+> The `NCR` strives to return democracy and the rule of law to the chaos of the Wasteland.
+>
+> However, it is not afraid to spill blood to achieve that goal.
+> It’s men and women of the Republic military are well armed and armoured, while specialists such as Rangers bring an elite punch.[^ncr]
+
+[^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
 
 ### Force List
 
