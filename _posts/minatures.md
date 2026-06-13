@@ -972,6 +972,36 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 [^ncr]: [Modiphius Entertainment](https://www.modiphius.net) (2021). "NCR Force List" _FOWW BM-1-005_, Version 5.0 page 1.
 
+### Wave 5
+
+#### Core Box
+
+| Item              | Quantity | Material | Cards                                     | Notes |
+| ----------------- | -------- | -------- | ----------------------------------------- | ----- |
+| Centurion         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Legion Explorer   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Prime Legionary   | 3        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Recruit Legionary | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Veteran Decanus   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Military Command
+
+| Item           | Quantity | Material | Cards                                     | Notes |
+| -------------- | -------- | -------- | ----------------------------------------- | ----- |
+| Legate Lanius  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Lucius         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Vulpes Inculta | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Veteran Wave
+
+| Item             | Quantity | Material | Cards                                     | Notes |
+| ---------------- | -------- | -------- | ----------------------------------------- | ----- |
+| Hound Master     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Leigion Mongrel  | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Legionary Scout  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Praetorian Guard | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Vexillarius      | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
 ### Force List
 
 | Item                       | Purchased | Digital                                  |     Downloaded     | Released   | Notes                 |
@@ -986,6 +1016,16 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 
 ### Wave 5
 
+#### Core Box
+
+| Item               | Quantity | Material | Cards                                     | Notes |
+| ------------------ | -------- | -------- | ----------------------------------------- | ----- |
+| NCR Heavy Trooper  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Patrol Ranger  | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper        | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper MP     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Veteran Ranger | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
 #### NCR Ranger
 
 [Fallout: Wasteland Warfare - NCR Ranger Video](https://www.youtube-nocookie.com/embed/kw3ZteZvFSc)
@@ -995,6 +1035,24 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 | Item        | Quantity | Material | Cards                                     | Notes |
 | ----------- | -------- | -------- | ----------------------------------------- | ----- |
 | The Courier | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Ranger Patrol
+
+| Item                   | Quantity | Material | Cards                                     | Notes |
+| ---------------------- | -------- | -------- | ----------------------------------------- | ----- |
+| 1st Recon Sharpshooter | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Civilian Ranger    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper            | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper MP         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Veteran Ranger     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Top Brass
+
+| Item                | Quantity | Material | Cards                                     | Notes |
+| ------------------- | -------- | -------- | ----------------------------------------- | ----- |
+| Chief Hanlon        | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| General Lee Oliver  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Lieutenant Gorobets | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ## Nuka-World Gangs Raiders
 
@@ -1625,6 +1683,17 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 ### Wave 5
 
+#### Marcus and Lily
+
+![Super Mutant: Marcus and Lily](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-super-mutants-marcus-and-lily-fallout-wasteland-warfare-modiphius-entertainment-808731_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item   | Quantity | Material | Cards                                     | Notes |
+| ------ | -------- | -------- | ----------------------------------------- | ----- |
+| Lily   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Marcus | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
 #### Nightkin
 
 [Fallout: Wasteland Warfare - Nightkin Super Mutants Video](https://www.youtube-nocookie.com/embed/1_XN0YkeA9U)
@@ -1634,6 +1703,17 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Item                    | Quantity | Material | Cards                                     | Notes |
 | ----------------------- | -------- | -------- | ----------------------------------------- | ----- |
 | [Nightkin](#nightkin-1) | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Tabitha and Raul
+
+![Super Mutant: Tabitha and Raul](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-super-mutants-tabitha-and-raul-fallout-wasteland-warfare-modiphius-entertainment-385643_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item    | Quantity | Material | Cards                                     | Notes |
+| ------- | -------- | -------- | ----------------------------------------- | ----- |
+| Raul    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Tabitha | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 6
 
@@ -1990,6 +2070,18 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Arcade Gannon | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 | Boone         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 | [Cass](#cass) | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+
+#### Ed-E, Rex and Veronica
+
+![Mojave Companions: Ed-E, Rex and Veronica](https://cdn.shopify.com/s/files/1/0225/4035/files/Rex_Ed-E_Veronica_NewVegasCompanions_FO_Scene_RGB-150dpi_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item     | Quantity | Material | Cards                                     | Notes             |
+| -------- | -------- | -------- | ----------------------------------------- | ----------------- |
+| Ed-E     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Rex      | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] | [Blog][Blog Dogs] |
+| Veronica | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 7
 
