@@ -2,7 +2,7 @@
 title: Voron 1.8
 heading: Building my first Voron printer
 date: 2022-02-17
-lastmod: 2024-05-19T16:25:23.786Z
+lastmod: 2026-06-14T17:59:41.100Z
 author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8 3D printer.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
@@ -231,13 +231,13 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Tools
 
-| Item                                                                                                                                              | Quantity | Material                |      Printed       | Notes                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- | :----------------: | ------------------------------------------------ |
+| Item                                                                                                                                              | Quantity | Material                |      Printed       | Notes                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- | :----------------: | ------------------------------------------- |
+| [ba_pulley_align_tool](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/ba_pulley_align_tool.stl)                                | 1        | [eSun ABS+ (Black)]     |        :x:         | This is a `Trident r2`                      |
 | [rail_installation_guide_center](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Tools/rail_installation_guide_center_x2.stl)           | 2        | [eSun ABS+ (Black)]     | :heavy_check_mark: |
-| ~[v1.8_extrusion_drilling_jig](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Tools/v1.8_extrusion_drilling_jig.stl)~                  | ~1~      |                         |        :x:         | Not required as I brought my frame as a kit      |
-| [pulley_jig](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Tools/pulley_jig.stl)                                                      | 1        | [eSun ABS+ (Black)]     | :heavy_check_mark: | This is a 2.4 Part, has spacer for extruder gear |
-| [TensionMeter](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)                         | 1        | [eSun ABS+ (Black)]     | :heavy_check_mark: | This is a Voron Users mod by `Kruppes`           |
-| [lower_extrusion_alignment](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/natewalck/v1.8_Jigs/lower_extrusion_alignment.stl) | 1        | [Tinmorry PETG (Black)] | :heavy_check_mark: | This is a Voron Users mod by `natewalck`         |
+| ~[v1.8_extrusion_drilling_jig](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Tools/v1.8_extrusion_drilling_jig.stl)~                  | ~1~      |                         |        :x:         | Not required as I brought my frame as a kit |
+| [TensionMeter](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)                         | 1        | [eSun ABS+ (Black)]     | :heavy_check_mark: | This is a Voron Users mod by `Kruppes`      |
+| [lower_extrusion_alignment](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/natewalck/v1.8_Jigs/lower_extrusion_alignment.stl) | 1        | [Tinmorry PETG (Black)] | :heavy_check_mark: | This is a Voron Users mod by `natewalck`    |
 
 ## Gantry
 
@@ -393,14 +393,16 @@ The bed frame will not only hold the bed, but will also be a base for the [Z end
 | Misumi HFSB5-2020-200-TPW        | 2        |
 | Misumi HFSB5-2020-420-AH45-BH375 | 2        |
 
-### :white_check_mark: Z Axis Rods
+### :wrench Z Axis Rods
 
-| Item                                                                                                                        | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [leadscrew_block](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/%5Ba%5D_leadscrew_block_x2.stl)             | 2        | [eSun ABS+ (Fire Engine Red)] | 3.87m | 9.88g  | £0.19 | :heavy_check_mark: |
-| [z_shaft_retainer](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/%5Ba%5D_z_shaft_retainer_x8.stl)           | 8        | [eSun ABS+ (Black)]           | 0.89m | 2.26g  | £0.04 | :heavy_check_mark: |
-| [z_motor_mount](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/z_motor_mount_x2.stl)                         | 2        | [eSun ABS+ (Fire Engine Red)] | 8.50m | 21.68g | £0.41 | :heavy_check_mark: |
-| [z_cable_chain_mount](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Z_Assembly/z_cable_chain_mount_3hole.stl) | 1        |                               |       |        |       |     :question:     | This is a Trident Part. May need to make some modifications for it to fit and I will need to [print ends for the chain](printer-voron-1.8-mods#printable-chain) |
+| Item                                                                                                              | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [leadscrew_block](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/%5Ba%5D_leadscrew_block_x2.stl)   | 2        | [eSun ABS+ (Fire Engine Red)] | 3.87m | 9.88g  | £0.19 | :heavy_check_mark: |
+| [z_shaft_retainer](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/%5Ba%5D_z_shaft_retainer_x8.stl) | 8        | [eSun ABS+ (Black)]           | 0.89m | 2.26g  | £0.04 | :heavy_check_mark: |
+| [z_cover_rear](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Z_Assembly/%5Ba%5D_z_cover_rear.stl)   | 2        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is for mounting the rear stepper motor for the `Trident r2`. But will fit to replace the stock 1.8 `z_motor_mount`.                                             |
+| ~[z_motor_mount](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Bed/z_motor_mount_x2.stl)~             | ~2~      | [eSun ABS+ (Fire Engine Red)] | 8.50m | 21.68g | £0.41 | :heavy_check_mark: |
+| [z_lower_3hole](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Z_Assembly/z_lower_3hole.stl)         | 1        |                               |       |        |       |     :question:     | This is a `Trident r2` Part. May need to make some modifications for it to fit and I will need to [print ends for the chain](printer-voron-1.8-mods#printable-chain) |
+| [z_stepper_rear](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Z_Assembly/z_stepper_rear.stl)       | 2        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is for mounting the rear stepper motor for the `Trident r2`. But will fit to replace the stock 1.8 `z_motor_mount`.                                             |
 
 #### Assembly
 
