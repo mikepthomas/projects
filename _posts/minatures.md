@@ -52,14 +52,19 @@ This section was started as an excersise to understand how many Card Sleeves I w
 [Card List – Wave 7]: https://web.archive.org/web/20230207221806/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Full_Card_List_001w.pdf?v=1667396837
 [Card List – Wave 9]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_Full_Card_List_002LW.pdf
 
+> When initially released, every starter box and expansion contained cards. From July 2019, products containing models no longer come with cards and,
+> instead, all cards for each wave of releases are available as a separate deck covering all the models in that wave plus more.[^full-card-list]
+
+[^full-card-list]: [Modiphius Entertainment](https://www.modiphius.net) (2019). "Full Card List – July 2019 Onwards" _FOWW FCL-001-111_, Version 1.0 page 1.
+
 ## Standard
 
-| Item              | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
-| ----------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [AI :pdf:]        | :heavy_check_mark: | 46     | 21     | 26     |        |        |        |        |        |        |                    | 93       |
-| [Reference :pdf:] | :heavy_check_mark: | 7      | 4      | 2      | 3      | 3      | 6      | 3      | 3      | 5      | 3                  | 39       |
-| [Unit :pdf:]      | :heavy_check_mark: | 47     | 21     | 25     | 17     | 38     | 35     | 19     | 40     | 45     | 17                 | 304      |
-| `Total`           |                    | `100`  | `46`   | `53`   | `20`   | `41`   | `41`   | `22`   | `43`   | `50`   | `20`               | `436`    |
+| Item              |     Downloaded     | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
+| ----------------- | :----------------: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----------------: | -------: |
+| [AI :pdf:]        | :heavy_check_mark: |     46 |     21 |     26 |        |        |        |        |        |        |                    |       93 |
+| [Reference :pdf:] | :heavy_check_mark: |      7 |      4 |      2 |      3 |      3 |      6 |      3 |      3 |      5 |                  3 |       39 |
+| [Unit :pdf:]      | :heavy_check_mark: |     47 |     21 |     25 |     17 |     38 |     35 |     19 |     40 |     45 |                 17 |      304 |
+| `Total`           |                    |  `100` |   `46` |   `53` |   `20` |   `41` |   `41` |   `22` |   `43` |   `50` |               `20` |    `436` |
 
 [AI :pdf:]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-3-ai-card-deck-bundle
 [Reference :pdf:]: https://drive.google.com/file/d/1ssf1zOP5rbZGvFosxn9Gn4GHQyKvmcU0/preview
@@ -67,17 +72,17 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ## Mini European
 
-| Item                 | Downloaded         | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
-| -------------------- | ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ | -------- |
-| [Chems :pdf:]        | :heavy_check_mark: | 17     | 1      | 4      | 2      | 3      |        |        |        |        |                    | 27       |
-| [Equipment :pdf:]    | :heavy_check_mark: | 66     | 19     | 26     | 12     | 21     | 1      | 1      | 17     | 42     |                    | 205      |
-| [Heroic :pdf:]       | :heavy_check_mark: | 6      | -      | -      | -      |        |        |        |        |        |                    | 6        |
-| [Leader :pdf:]       | :heavy_check_mark: |        | 5      | 6      | 4      |        | 15     |        |        |        |                    | 30       |
-| [Mods :pdf:]         | :heavy_check_mark: | 23     | 8      | 54     | 27     | 3      | 5      | 1      | 1      | 9      | 3                  | 134      |
-| [Perk :pdf:]         | :heavy_check_mark: | 32     | 8      | 9      | 6      | 6      | 17     | 2      | 1      | 3      |                    | 84       |
-| [Power Armour :pdf:] | :heavy_check_mark: | 4      | 2      | 1      | 2      | 1      | 3      | 1      | 3      | 4      |                    | 21       |
-| [Weapon :pdf:]       | :heavy_check_mark: | 59     | 16     | 10     | 62     | 53     | 42     | 26     | 31     | 23     | 25                 | 347      |
-| `Total`              |                    | `207`  | `59`   | `110`  | `115`  | `87`   | `83`   | `31`   | `53`   | `81`   | `28`               | `854`    |
+| Item                 |     Downloaded     | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 | Wave 7 | Wave 8 | Wave 9 | Into the Wasteland | Quantity |
+| -------------------- | :----------------: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----------------: | -------: |
+| [Chems :pdf:]        | :heavy_check_mark: |     17 |      1 |      4 |      2 |      3 |        |        |        |        |                    |       27 |
+| [Equipment :pdf:]    | :heavy_check_mark: |     66 |     19 |     26 |     12 |     21 |      1 |      1 |     17 |     42 |                    |      205 |
+| [Heroic :pdf:]       | :heavy_check_mark: |      6 |      - |      - |      - |        |        |        |        |        |                    |        6 |
+| [Leader :pdf:]       | :heavy_check_mark: |        |      5 |      6 |      4 |        |     15 |        |        |        |                    |       30 |
+| [Mods :pdf:]         | :heavy_check_mark: |     23 |      8 |     54 |     27 |      3 |      5 |      1 |      1 |      9 |                  3 |      134 |
+| [Perk :pdf:]         | :heavy_check_mark: |     32 |      8 |      9 |      6 |      6 |     17 |      2 |      1 |      3 |                    |       84 |
+| [Power Armour :pdf:] | :heavy_check_mark: |      4 |      2 |      1 |      2 |      1 |      3 |      1 |      3 |      4 |                    |       21 |
+| [Weapon :pdf:]       | :heavy_check_mark: |     59 |     16 |     10 |     62 |     53 |     42 |     26 |     31 |     23 |                 25 |      347 |
+| `Total`              |                    |  `207` |   `59` |  `110` |  `115` |   `87` |   `83` |   `31` |   `53` |   `81` |               `28` |    `854` |
 
 [Chems :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_cards_chem_may17.pdf
 [Equipment :pdf:]: https://drive.google.com/file/d/1VI8-Ku80Vyvyo3Xg1MnCc6on0b7dvges/preview
