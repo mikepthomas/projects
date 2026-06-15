@@ -543,7 +543,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | [Heavy Consoles]     |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:] |
 | [Terminals]          |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 | [Scenic Set Cards :pdf:] |
 | [Vault-Tec Lockers]  |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 |
-| [Vault-Tec Supplies] |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]
+| [Vault-Tec Supplies] |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:] |
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals

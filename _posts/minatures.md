@@ -2004,7 +2004,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Enslaved Tech                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 | Scavenger                               | 1        | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 | [Settler](#settler)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| [Sole Survivor](#sole-survivor)         | 1        | PVC      | - [Two Player Starter Set][Wave 1 Rules]        |
+| [Sole Survivor](#sole-survivor)         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 | [Sole Survivor Day One](#sole-survivor) | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 
 ### Wave 2
