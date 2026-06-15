@@ -95,7 +95,7 @@ This section was started as an excersise to understand how many Card Sleeves I w
 
 ### Euro-Mini Card Box
 
-A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set] and expansions.
+A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Wave 1 Rules] and expansions.
 
 | Item                                | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
 | ----------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
