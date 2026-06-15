@@ -1619,13 +1619,13 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                          | Quantity | Material | Cards                                  | Notes             |
-| ----------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
-| Brute                         | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
-| Master                        | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
-| [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| Mutant Hound Fiend            | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Super Mutant](#super-mutant) | 3        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+| Item                          | Quantity | Material | Cards                                         | Notes             |
+| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| Brute                         | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Master                        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Mutant Hound Fiend            | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Super Mutant](#super-mutant) | 3        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 
 #### Hammer
 
@@ -1650,13 +1650,13 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 #### Two Player Starter Set
 
-| Item                          | Quantity | Material | Cards                                  | Notes             |
-| ----------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
-| [Aviator](#aviator)           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| Brute                         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Mutant Hound](#mutant-hound) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| Mutant Hound Fiend            | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Super Mutant](#super-mutant) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                          | Quantity | Material | Cards                                         | Notes             |
+| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| [Aviator](#aviator)           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| Brute                         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| [Mutant Hound](#mutant-hound) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Mutant Hound Fiend            | 1        | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Super Mutant](#super-mutant) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 
 ### Wave 3
 
@@ -1958,7 +1958,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Mama Murphy                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 | [Preston Garvey](#preston-garvey) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 | Ronnie Shaw                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Scavenger                         | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Scavenger                         | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 | [Settler](#settler)               | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 | Sturges                           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
@@ -1972,7 +1972,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 | ------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
 | Codsworth           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 | Dogmeat Scout       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
-| Sole Survivor Loner | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Sole Survivor Loner | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Minutemen Posse
 
@@ -1997,15 +1997,15 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 #### Two Player Starter Set
 
-| Item                                    | Quantity | Material | Cards                                  | Notes             |
-| --------------------------------------- | -------- | -------- | -------------------------------------- | ----------------- |
-| [Dog](#dogmeat)                         | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Dogmeat](#dogmeat)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] | [Blog][Blog Dogs] |
-| Enslaved Tech                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| Scavenger                               | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Settler](#settler)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Sole Survivor](#sole-survivor)         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
-| [Sole Survivor Day One](#sole-survivor) | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| Item                                    | Quantity | Material | Cards                                         | Notes             |
+| --------------------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
+| [Dog](#dogmeat)                         | :x:      | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Dogmeat](#dogmeat)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Enslaved Tech                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| Scavenger                               | 1        | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Settler](#settler)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| [Sole Survivor](#sole-survivor)         | 1        | PVC      | - [Two Player Starter Set][Wave 1 Rules]        |
+| [Sole Survivor Day One](#sole-survivor) | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 
 ### Wave 2
 
