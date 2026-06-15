@@ -34,7 +34,23 @@ keywords:
 
 This section was started as an excersise to understand how many Card Sleeves I will need to purchase, however, as I do not own many of the products in some of the waves and some of the cards in the products are not in the downloadable PDFs, I will need to roughly estimate instead.
 
-[Product Card Lists](https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_Full_Card_List_002LW.pdf)
+| Item                               | Purchased | Digital                                     |     Downloaded     | Released   | Notes |
+| ---------------------------------- | :-------: | ------------------------------------------- | :----------------: | ---------- | ----- |
+| Full Card List – Wave 1            |           | [Free :pdf:][Card List – Wave 1]            | :heavy_check_mark: | May 2019   |
+| Full Card List – Pre-July 2019     |           | [Free :pdf:][Card List - Pre-July 2019]     | :heavy_check_mark: | July 2019  |
+| Full Card List – July 2019 Onwards |           | [Free :pdf:][Card List - July 2019 Onwards] | :heavy_check_mark: | July 2019  |
+| Full Card List – Wave 4            |           | [Free :pdf:][Card List - Wave 4]            | :heavy_check_mark: | July 2020  |
+| Full Card List – Wave 5            |           | [Free :pdf:][Card List – Wave 5]            | :heavy_check_mark: | May 2021   |
+| Full Card List – Wave 7            |           | [Free :pdf:][Card List – Wave 7]            | :heavy_check_mark: | June 2022  |
+| Full Card List – Wave 9            |           | [Free :pdf:][Card List – Wave 9]            | :heavy_check_mark: | April 2023 |
+
+[Card List – Wave 1]: https://web.archive.org/web/20191123170148/https://www.modiphius.com/uploads/1/4/0/6/14062642/fallout_-_full_card_list_-_all_wave_1_v6.pdf
+[Card List - Pre-July 2019]: https://web.archive.org/web/20190918062008/https://www.modiphius.com/uploads/1/4/0/6/14062642/fallout_-_full_card_list_-_pre-july_2019_v6.pdf
+[Card List - July 2019 Onwards]: https://web.archive.org/web/20190918062052/https://www.modiphius.com/uploads/1/4/0/6/14062642/fallout_-_full_card_list_-_july_2019_onwards_v1.pdf
+[Card List - Wave 4]: https://web.archive.org/web/20201001080036/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww___fcl-001_full_card_list_002w.pdf
+[Card List – Wave 5]: https://web.archive.org/web/20210926183147/https://www.modiphius.com/uploads/1/4/0/6/14062642/wave_5_full_card_list_may17.pdf
+[Card List – Wave 7]: https://web.archive.org/web/20230207221806/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_7_Full_Card_List_001w.pdf?v=1667396837
+[Card List – Wave 9]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Wave_9_Full_Card_List_002LW.pdf
 
 ## Standard
 
