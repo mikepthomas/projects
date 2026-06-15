@@ -497,7 +497,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 
 | Item                  |     Purchased      | Digital                            |     Downloaded     | Released                           | Notes                                                                        |
 | --------------------- | :----------------: | ---------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
-| [Corvega Sedan]       |        :x:         | [Buy :zip:][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Corvega Atomic V-8 Terrain Tutorial]                                        |
+| [Corvega Sedan]       |        :x:         | [Buy :zip:][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Scenic Set Cards :pdf:] & [Corvega Atomic V-8 Terrain Tutorial]             |
 | [Crashed Vertibird]   |        :x:         | [Buy :zip:][Crashed Vertibird STL] | :heavy_check_mark: | [August 2019][DEVELOPMENT BLOG #9] |
 | [Junk Barricades]     | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] |
 | [Military Barricades] | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
@@ -543,7 +543,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | [Heavy Consoles]     |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:] |
 | [Terminals]          |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 | [Scenic Set Cards :pdf:] |
 | [Vault-Tec Lockers]  |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | August 2019 |
-| [Vault-Tec Supplies] |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  |
+| [Vault-Tec Supplies] |    :x:    | [Buy :zip:][Vault-Tec Office Bundle] | :heavy_check_mark: | April 2019  | [Scenic Set Cards :pdf:]
 
 [Heavy Consoles]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-heavy-consoles
 [Terminals]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-terminals
