@@ -2,7 +2,7 @@
 title: Voron 1.8
 heading: Building my first Voron printer
 date: 2022-02-17
-lastmod: 2026-06-14T17:59:41.100Z
+lastmod: 2026-06-16T21:25:51.914Z
 author: Mike Thomas
 description: The steps I have taken to print and source parts to assemble a Voron 1.8 3D printer.
 preview: /assets/blog/printer-voron-1.8/voron-hero.jpg
@@ -247,19 +247,26 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 Some of the gantry parts (specifically the AB Drive Units and Front Idlers) will be replaced with the upgraded versions from the Trident as they should fit the 1.8.
 
-### :white_check_mark: AB Drive Units
+### :wrench: A/B Drive Units
 
-![3D render of the Voron 1.8 AB Drive Units](/assets/blog/printer-voron-1.8/voron-design/ab-drive.jpg 'AB Drive Units')
+![3D render of the Voron Trident r2 A/B Drive Units](/assets/blog/printer-voron-1.8/voron-design/ab-drive.jpg 'A/B Drive Units')
 
-> Image © 2020 [Voron Design](https://www.vorondesign.com)
+> Image © 2026 [Voron Design](https://www.vorondesign.com)
 
-| Item                                                                                                                             | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                     |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
-| [wire_cover](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/%5Ba%5D_wire_cover.stl)           | 1        | [eSun ABS+ (Fire Engine Red)] | 1.30m | 3.31g  | £0.06 | :heavy_check_mark: | This is a Trident Part    |
-| [a_drive_frame_lower](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)]           | 8.58m | 21.86g | £0.42 | :heavy_check_mark: | This is a Trident Part    |
-| [a_drive_frame_upper](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)]           | 8.21m | 20.93g | £0.40 | :heavy_check_mark: | This is a Trident r1 Part |
-| [b_drive_frame_lower](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl) | 1        | [eSun ABS+ (Black)]           | 7.93m | 20.21g | £0.38 | :heavy_check_mark: | This is a Trident Part    |
-| [b_drive_frame_upper](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl) | 1        | [eSun ABS+ (Black)]           | 8.18m | 20.85g | £0.40 | :heavy_check_mark: | This is a Trident r1 Part |
+| Item                                                                                                                               | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------------ |
+| ~[a_drive_frame_lower](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/a_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]           | 8.58m | 21.86g | £0.42 | :heavy_check_mark: | This is a Trident Part                                                   |
+| ~[a_drive_frame_upper](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/a_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]           | 8.21m | 20.93g | £0.40 | :heavy_check_mark: | This is a Trident r1 Part                                                |
+| [a_stepper_lower](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/a_stepper_lower.stl)           | 1        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part                                                |
+| [a_stepper_upper](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/a_stepper_upper.stl)           | 1        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part                                                |
+| ~[b_drive_frame_lower](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/b_drive_frame_lower.stl)~ | ~1~      | [eSun ABS+ (Black)]           | 7.93m | 20.21g | £0.38 | :heavy_check_mark: | This is a Trident Part                                                   |
+| ~[b_drive_frame_upper](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/b_drive_frame_upper.stl)~ | ~1~      | [eSun ABS+ (Black)]           | 8.18m | 20.85g | £0.40 | :heavy_check_mark: | This is a Trident r1 Part                                                |
+| [b_stepper_lower](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/b_stepper_lower.stl)           | 1        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part                                                |
+| [b_stepper_upper](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/b_stepper_upper.stl)           | 1        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part                                                |
+| ~[circlip](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/circlip_x2.stl)~                      | ~2~      | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part, Not required, for Double Shear Shaft Supports |
+| ~[cover_bearing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/%5Ba%5D_cover_bearing_x2.stl)~  | ~2~      | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part, Not required, for Double Shear Shaft Supports |
+| [cover_logo](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/%5Ba%5D_cover_logo_x2.stl)          | 2        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part                                                |
+| ~[wire_cover](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/AB_Drive_Units/%5Ba%5D_wire_cover.stl)~           | ~1~      | [eSun ABS+ (Fire Engine Red)] | 1.30m | 3.31g  | £0.06 | :heavy_check_mark: | This is a Trident Part                                                   |
 
 ![An A Drive Unit printed in ABS with different settings](/assets/blog/printer-voron-1.8/a-drive-abs-tuning.jpg 'A Drive ABS Tuning')
 
@@ -271,32 +278,36 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 
 ##### Parts Used
 
-| Item                          | Quantity |
-| ----------------------------- | -------- |
-| F695 Bearing                  | 12       |
-| GT2 20T Pulley (5mm ID 6mm W) | 2        |
-| M3 Threaded Insert            | 1        |
-| M3x10 SHCS                    | 1        |
-| M3x30 SHCS                    | 6        |
-| M5 1mm Spacer                 | 12       |
-| M5x30 BHCS                    | 4        |
-| NEMA17 Motor 17HS19-2004S     | 2        |
+| Item                            | Quantity |
+| ------------------------------- | -------- |
+| ~F695 Bearing~                  | ~12~     |
+| ~GT2 20T Pulley (5mm ID 6mm W)~ | ~2~      |
+| ~M3 Threaded Insert~            | ~1~      |
+| ~M3x10 SHCS~                    | ~1~      |
+| ~M3x30 SHCS~                    | ~6~      |
+| ~M5 1mm Spacer~                 | ~12~     |
+| ~M5x30 BHCS~                    | ~4~      |
+| ~NEMA17 Motor 17HS19-2004S~     | ~2~      |
 
 > [!NOTE]
 > I will upgrade these motors to [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
 
-### :white_check_mark: Front Idlers
+### :wrench: Front Idlers
 
-![3D render of the Voron 1.8 Front Idlers](/assets/blog/printer-voron-1.8/voron-design/front-idlers.jpg 'Front Idlers')
+![3D render of the Voron Trident r2 Front Idlers](/assets/blog/printer-voron-1.8/voron-design/front-idlers.jpg 'Front Idlers')
 
-> Image © 2020 [Voron Design](https://www.vorondesign.com)
+> Image © 2026 [Voron Design](https://www.vorondesign.com)
 
-| Item                                                                                                                           | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
-| [tensioner_left](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)   | 1        | [eSun ABS+ (Fire Engine Red)] | 2.61m | 6.66g  | £0.13 | :heavy_check_mark: | This is a Trident r1 Part |
-| [tensioner_right](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl) | 1        | [eSun ABS+ (Fire Engine Red)] | 2.61m | 6.65g  | £0.13 | :heavy_check_mark: | This is a Trident r1 Part |
-| [front_idler_a](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/front_idler_a_x2.stl)          | 2        | [eSun ABS+ (Black)]           | 5.19m | 13.22g | £0.25 | :heavy_check_mark: | This is a Trident r1 Part |
-| [front_idler_b](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/front_idler_b_x2.stl)          | 2        | [eSun ABS+ (Black)]           | 3.07m | 7.83g  | £0.15 | :heavy_check_mark: | This is a Trident r1 Part |
+| Item                                                                                                                              | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                     |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ------------------------- |
+| ~[front_idler_a](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/front_idler_a_x2.stl)~           | ~2~      | [eSun ABS+ (Black)]           | 5.19m | 13.22g | £0.25 | :heavy_check_mark: | This is a Trident r1 Part |
+| ~[front_idler_b](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/front_idler_b_x2.stl)~           | ~2~      | [eSun ABS+ (Black)]           | 3.07m | 7.83g  | £0.15 | :heavy_check_mark: | This is a Trident r1 Part |
+| [idler_carrier_a](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/Front_Idlers/%5Ba%5D_idler_carrier_a_x2.stl) | 2        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part |
+| [idler_carrier_b](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/Front_Idlers/%5Ba%5D_idler_carrier_b_x2.stl) | 2        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part |
+| [idler_front](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/Front_Idlers/%5Ba%5D_idler_front_x2.stl)         | 2        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part |
+| [idler_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/Front_Idlers/idler_housing_x2.stl)             | 2        | [eSun ABS+ (Black)]           |       |        |       |        :x:         | This is a Trident r2 Part |
+| ~[tensioner_left](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_left.stl)~    | ~1~      | [eSun ABS+ (Fire Engine Red)] | 2.61m | 6.66g  | £0.13 | :heavy_check_mark: | This is a Trident r1 Part |
+| ~[tensioner_right](https://github.com/VoronDesign/Voron-Trident/blob/VTr1/STLs/Gantry/Front_Idlers/%5Ba%5D_tensioner_right.stl)~  | ~1~      | [eSun ABS+ (Fire Engine Red)] | 2.61m | 6.65g  | £0.13 | :heavy_check_mark: | This is a Trident r1 Part |
 
 #### Assembly
 
@@ -306,15 +317,15 @@ The screws on the front of the idlers move the tensioners forwards and backwards
 
 ##### Parts Used
 
-| Item               | Quantity |
-| ------------------ | -------- |
-| F695 Bearing       | 4        |
-| M3 Threaded Insert | 2        |
-| M3 Washer          | 2        |
-| M3x40 SHCS         | 2        |
-| M5 1mm Spacer      | 4        |
-| M5 Hexnut          | 2        |
-| M5x40 SHCS         | 2        |
+| Item                 | Quantity |
+| -------------------- | -------- |
+| ~F695 Bearing~       | ~4~      |
+| ~M3 Threaded Insert~ | ~2~      |
+| ~M3 Washer~          | ~2~      |
+| ~M3x40 SHCS~         | ~2~      |
+| ~M5 1mm Spacer~      | ~4~      |
+| ~M5 Hexnut~          | ~2~      |
+| ~M5x40 SHCS~         | ~2~      |
 
 ### :white_check_mark: Rear Crossbar
 
@@ -531,11 +542,13 @@ I built the Afterburner toolhead but will eventually add the [StealthBurner Main
 
 ## Endstops
 
-### :white_check_mark: Y Endstop
+### :wrench: Y Endstop
 
-| Item                                                                                                                       | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes |
-| -------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ----- |
-| [y_endstop_housing](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Gantry/AB_Drive_Units/y_endstop_housing.stl) | 1        | [eSun ABS+ (Fire Engine Red)] | 1.47m | 3.74g  | £0.07 | :heavy_check_mark: |
+| Item                                                                                                                         | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | ----------------------------------------------------------------- |
+| ~[y_bumper](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/%5Ba%5D_y_bumper.stl)~         | ~1~      | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part, Not required, only for X/Y Endstop PCB |
+| ~[y_endstop_housing](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Gantry/AB_Drive_Units/y_endstop_housing.stl)~ | ~1~      | [eSun ABS+ (Fire Engine Red)] | 1.47m | 3.74g  | £0.07 | :heavy_check_mark: | Replaced by `y_endstop_pod`                                       |
+| [y_endstop_pod](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/ba_drive_units/%5Ba%5D_y_endstop_pod.stl) | 1        | [eSun ABS+ (Fire Engine Red)] |       |        |       |        :x:         | This is a Trident r2 Part                                         |
 
 #### Assembly
 
@@ -545,12 +558,12 @@ As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to t
 
 ##### Parts Used
 
-| Item                         | Quantity |
-| ---------------------------- | -------- |
-| 24AWG PTFE Cable (Black)     | 500mm    |
-| M3x16 SHCS                   | 1        |
-| M5x16 BHCS                   | 1        |
-| SPDT KW10 Limit Micro Switch | 1        |
+| Item                           | Quantity |
+| ------------------------------ | -------- |
+| ~24AWG PTFE Cable (Black)~     | ~500mm~  |
+| ~M3x16 SHCS~                   | ~1~      |
+| ~M5x16 BHCS~                   | ~1~      |
+| ~SPDT KW10 Limit Micro Switch~ | ~1~      |
 
 ### :negative_squared_cross_mark: Z Endstop
 
