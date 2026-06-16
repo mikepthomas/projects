@@ -91,7 +91,7 @@ keywords:
 
 ![3D render of the Voron AfterBurner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg)
 
-> Image © 2021 [Voron Design](https://www.vorondesign.com/)
+> Image © 2021 [Voron Design](https://www.vorondesign.com)
 
 All printed parts will be printed in eSun ABS+. The Voron team recommends an infill type of 40% of either Grid, Gyroid, Honeycomb, Triangle or Cubic. A layer height of 0.2mm and extrusion width of 0.4mm, with a wall count of 4 and top/bottom layers of 5.
 

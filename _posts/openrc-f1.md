@@ -8,7 +8,7 @@ description: How I printed my OpenRC F1 car, Designed by Daniel Norée. This pro
 preview: /assets/blog/openrc-f1/openrc-hero.jpg
 slug: /projects/openrc-f1
 external:
-  - https://danielnoree.com/the-openrc-f1-build-guide/
+  - https://danielnoree.com/the-openrc-f1-build-guide
 draft: false
 tags:
   - OpenRC
@@ -26,7 +26,7 @@ promoted: true
 
 ![Front Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/e2/53/2b/53/72/Front_Wheel_Assembly_display_large.jpg)
 
-> Image © 2015 [Daniel Norée](https://danielnoree.com/)
+> Image © 2015 [Daniel Norée](https://danielnoree.com)
 
 > [!WARNING]
 > Quantities are for 1 Wheel, 2 front wheel assemblies are required
@@ -48,7 +48,7 @@ promoted: true
 
 ![Front BOM Assembly Diagram](https://cdn.thingiverse.com/renders/a6/8d/e8/c3/31/Front_BOM_Assembly_display_large.jpg)
 
-> Image © 2015 [Daniel Norée](https://danielnoree.com/)
+> Image © 2015 [Daniel Norée](https://danielnoree.com)
 
 | Item | Quantity | Description                                                                                                      | Material                                                        | Time  | Size   | Weight | Cost                  |      Printed       | Notes |
 | ---- | -------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----- | ------ | ------ | --------------------- | :----------------: | ----- |
@@ -68,7 +68,7 @@ promoted: true
 
 ![Rear Wheel Assembly Diagram](https://cdn.thingiverse.com/renders/24/b9/79/f2/e5/Rear_Wheel_Assembly_display_large.jpg)
 
-> Image © 2015 [Daniel Norée](https://danielnoree.com/)
+> Image © 2015 [Daniel Norée](https://danielnoree.com)
 
 > [!WARNING]
 > Quantities are for 1 Wheel, 2 front wheel assemblies are required
@@ -84,7 +84,7 @@ promoted: true
 
 ![Rear Axle Assembly Diagram](https://cdn.thingiverse.com/renders/44/24/da/87/7b/Rear_Axle_Assembly_display_large.jpg)
 
-> Image © 2015 [Daniel Norée](https://danielnoree.com/)
+> Image © 2015 [Daniel Norée](https://danielnoree.com)
 
 | Item | Quantity | Description                                                                                                                                             | Material                                                                | Time   | Size      | Weight | Cost                    |      Printed       | Notes                                        |
 | ---- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ | --------- | ------ | ----------------------- | :----------------: | -------------------------------------------- |
@@ -107,7 +107,7 @@ promoted: true
 
 ![Chassis Assembly Diagram](https://cdn.thingiverse.com/renders/b0/b3/37/79/ad/Chassie_Assembly_display_large.jpg)
 
-> Image © 2015 [Daniel Norée](https://danielnoree.com/)
+> Image © 2015 [Daniel Norée](https://danielnoree.com)
 
 | Item | Quantity | Description                                                                                                               | Material                                                                | Time   | Size    | Weight | Cost                    |      Printed       | Notes |
 | ---- | -------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ | ------- | ------ | ----------------------- | :----------------: | ----- |

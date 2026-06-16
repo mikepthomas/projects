@@ -14,7 +14,7 @@ related:
   - /projects/printer-am8
   - /projects/single-board-computers
 external:
-  - https://www.klipper3d.org/
+  - https://www.klipper3d.org
 tags:
   - Raspberry Pi
 categories:

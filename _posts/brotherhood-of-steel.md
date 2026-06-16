@@ -17,7 +17,7 @@ keywords:
   - Brotherhood of Steel
 ---
 
-> Image © 2022 [Modiphius Entertainment](https://modiphius.net/)
+> Image © 2022 [Modiphius Entertainment](https://modiphius.net)
 
 # Table of contents
 

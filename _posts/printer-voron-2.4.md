@@ -37,7 +37,7 @@ Fasteners are the parts needed to hold the 3D printed parts together and to the 
 
 ![Description of the types of fasteners](/assets/blog/printer-voron-2.4/voron-design/fasteners.jpg 'Fasteners')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                        | Quantity | Received | Notes                                  |
 | --------------------------- | -------- | -------- | -------------------------------------- |
@@ -79,7 +79,7 @@ The Motion Components are Bearings, Gears, and Pulleys that the moving parts of 
 
 ![Description of the types of motion components](/assets/blog/printer-voron-2.4/voron-design/motion.jpg 'Motion')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                                       | Quantity | Received | Notes                           |
 | ------------------------------------------ | -------- | -------- | ------------------------------- |
@@ -115,7 +115,7 @@ These are all the Electrical components that make the Printer work such as Circu
 
 ![3D render of the Voron 2.4 Electronics](/assets/blog/printer-voron-2.4/voron-design/electronics.jpg 'Electronics')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                                                  | Quantity | Received | Notes                                                                                |
 | ----------------------------------------------------- | -------- | -------- | ------------------------------------------------------------------------------------ |
@@ -169,7 +169,7 @@ The metal skeleton all the rest of the parts are attached to.
 
 ![3D render of the Voron 2.4 Frame](/assets/blog/printer-voron-2.4/voron-design/frame.jpg 'Frame')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                                            | Quantity | Received | Notes |
 | ----------------------------------------------- | -------- | -------- | ----- |
@@ -207,7 +207,7 @@ The Wiring and Connectors required to connect them all of the Electronics togeth
 
 ![Image of the Voron 2.4 Wiring](/assets/blog/printer-voron-2.4/voron-design/wiring.jpg 'Wiring')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                                                           | Quantity | Received | Notes                                                |
 | -------------------------------------------------------------- | -------- | -------- | ---------------------------------------------------- |
@@ -266,7 +266,7 @@ The Mains powered Heated Print Bed components.
 
 ![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg 'Print Bed')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 | Item                                                        | Quantity | Received | Notes                                          |
 | ----------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
@@ -297,7 +297,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron 2.4 Frame](/assets/blog/printer-voron-2.4/voron-design/frame.jpg 'Frame')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :white_check_mark: Main Frame Assembly
 
@@ -347,7 +347,7 @@ I used the [Bed Support Alignment Tools](#tools) to get the bed extrusions rough
 
 ![3D render of the Voron 2.4 Z Drives](/assets/blog/printer-voron-2.4/voron-design/z-drives.jpg 'Z Drives')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :white_check_mark: Z Rails
 
@@ -500,7 +500,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 
 ![3D render of the Voron 2.4 A/B Drives and Idlers](/assets/blog/printer-voron-2.4/voron-design/a-b-drives-and-idlers.jpg 'A/B Drives and Idlers')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have opted to upgrade the stock A/B Drives and Idlers with [LDO Voron AWD (All-Wheel-Drive) Upgrade Kit][LDO CNC AWD Kit].
 
@@ -741,7 +741,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 ![3D render of the Voron 2.4 Gantry](/assets/blog/printer-voron-2.4/voron-design/gantry.jpg 'Gantry')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :white_check_mark: Gantry Assembly
 
@@ -892,7 +892,7 @@ I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https
 
 ![3D render of the Voron 2.4 Z Axis](/assets/blog/printer-voron-2.4/voron-design/z-axis.jpg 'Z Axis')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :white_check_mark: Z Bearing Blocks
 
@@ -957,7 +957,7 @@ Finally the belts are tidied up with the Z Belt Clip mod by `ChenTheDesignMaker`
 
 ![3D render of the Voron 2.4 A/B Belts](/assets/blog/printer-voron-2.4/voron-design/a-b-belts.jpg 'A/B Belts')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: X Carriage
 
@@ -1005,7 +1005,7 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 
 ![3D render of the Voron 2.4 Electronics](/assets/blog/printer-voron-2.4/voron-design/electronics.jpg 'Electronics')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 The Electronics mounts are maintained separately in the [Voron Parts repository](https://github.com/VoronDesign/Voron-Parts).
 
@@ -1077,7 +1077,7 @@ The 24V PSU is used to power the main MCU, Motors and Hotend.
 
 ![3D render of the Voron 2.4 Controller Board](/assets/blog/printer-voron-2.4/voron-design/controller-board.jpg 'Controller Board')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 The only Controller Board that I own with more than 5 stepper driver sockets is the [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html).
 
@@ -1224,7 +1224,7 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 
 ![Image of the Voron 2.4 Wiring](/assets/blog/printer-voron-2.4/voron-design/wiring.jpg 'Wiring')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/voron/toolhead_harness) for convienience, instead of creating my own harness from scratch like I did for my [Voron 1.8].
 
@@ -1255,7 +1255,7 @@ I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/vor
 
 ![3D render of the Voron 2.4 Print Bed](/assets/blog/printer-voron-2.4/voron-design/print-bed.jpg 'Print Bed')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Heated Bed
 
@@ -1287,7 +1287,7 @@ The manual says to install this earlier in the build. I have opted to leave it u
 
 ![3D render of the Voron StealthBurner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg 'Stealthburner Assembled')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 The StealthBurner’s files are maintained separately in the [Voron Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner).
 
@@ -1297,7 +1297,7 @@ The StealthBurner’s files are maintained separately in the [Voron Stealthburne
 
 ![3D render of the Voron 2.4 Skirts](/assets/blog/printer-voron-2.4/voron-design/skirts.jpg 'Skirts')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :wrench: LCD
 
@@ -1451,7 +1451,7 @@ Rather than modifying the Stock skirts to add mesh I have chosen to print [Plug-
 
 ![3D render of the Voron 2.4 Panels](/assets/blog/printer-voron-2.4/voron-design/panels.jpg 'Panels')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
 

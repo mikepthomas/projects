@@ -10,7 +10,7 @@ slug: /projects/printer-voron-1.8-mods
 related:
   - /projects/voron-m4
 external:
-  - https://mods.vorondesign.com/
+  - https://mods.vorondesign.com
 draft: false
 tags:
   - Voron

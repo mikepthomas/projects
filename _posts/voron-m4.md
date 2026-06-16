@@ -22,7 +22,7 @@ keywords:
   - Printer
 ---
 
-> Image © 2019 [Voron Design](https://www.vorondesign.com/)
+> Image © 2019 [Voron Design](https://www.vorondesign.com)
 
 # Table of contents
 

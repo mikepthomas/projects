@@ -22,7 +22,7 @@ keywords:
   - Printer
 ---
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 # Table of contents
 
@@ -89,7 +89,7 @@ keywords:
 
 ![3D render of the Voron StealthBurner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 All printed parts will be printed in eSun ABS+. The Voron team recommends an infill type of 40% of either Grid, Gyroid, Honeycomb, Triangle or Cubic. A layer height of 0.2mm and extrusion width of 0.4mm, with a wall count of 4 and top/bottom layers of 5.
 
@@ -105,7 +105,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron ClockWork 2](/assets/blog/voron-stealthburner/voron-design/clockwork-2.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Guidler Arm
 
@@ -150,7 +150,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron StealthBurner Tool Cartridge](/assets/blog/voron-stealthburner/voron-design/tool-cartridge.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: V6 Toolhead
 
@@ -164,7 +164,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron StealthBurner](/assets/blog/voron-stealthburner/voron-design/stealthburner.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: StealthBurner
 
@@ -183,7 +183,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron StealthBurner ADXL345 Mount](/assets/blog/voron-stealthburner/voron-design/axdl345-mount.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: ADXL345 Mount
 
@@ -196,6 +196,6 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![3D render of the Voron StealthBurner X Carriage](/assets/blog/voron-stealthburner/voron-design/x-carriage.jpg)
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 The parts required to [mount the StealthBurner on Voron 2.4 can be found here](printer-voron-2.4#ab-belts).

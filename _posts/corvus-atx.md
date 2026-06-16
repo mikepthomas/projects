@@ -291,7 +291,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ![Image of the Voron 2.4 Wiring](/assets/blog/printer-voron-2.4/voron-design/wiring.jpg 'Wiring')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Hidden Cable Channel
 

@@ -24,7 +24,7 @@ promoted: true
 
 ![Exploded diagram of the Front C-Hub Assembly](/assets/blog/openrc-truggy/openrc/front-c-hub-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 | Item                                                                                | Quantity | Material                                                                | Time | Size      | Weight | Cost                |      Printed       | Notes |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ---- | --------- | ------ | ------------------- | :----------------: | ----- |
@@ -39,7 +39,7 @@ promoted: true
 
 ![Exploded diagram of the Differential Housing Assembly](/assets/blog/openrc-truggy/openrc/differential-housing-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 > [!WARNING]
 > Quantities are for 1 Diff, 2 differential housing assemblies are required
@@ -65,7 +65,7 @@ promoted: true
 
 ![Exploded diagram of the Front Assembly](/assets/blog/openrc-truggy/openrc/front-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 | Item                                                                                | Quantity | Material                                                                | Time   | Size       | Weight | Cost                    |      Printed       | Notes                                                                     |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ------------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ promoted: true
 
 ![Exploded diagram of the Rear Assembly](/assets/blog/openrc-truggy/openrc/rear-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 | Item                                                                                | Quantity | Material                                                                | Time   | Size       | Weight | Cost                    |      Printed       | Notes                                                                     |
 | ----------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ promoted: true
 
 ![Exploded diagram of the Steering Assembly](/assets/blog/openrc-truggy/openrc/steering-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 | Item                                                                                | Quantity | Material                                            | Time   | Size       | Weight | Cost                    |      Printed       | Notes |
 | ----------------------------------------------------------------------------------- | -------- | --------------------------------------------------- | ------ | ---------- | ------ | ----------------------- | :----------------: | ----- |
@@ -140,7 +140,7 @@ promoted: true
 
 ![Exploded diagram of the Chassis Assembly](/assets/blog/openrc-truggy/openrc/chassis-assembly.png)
 
-> Image © 2013 [Daniel Norée](https://danielnoree.com/)
+> Image © 2013 [Daniel Norée](https://danielnoree.com)
 
 | Item                                                                             | Quantity | Material                                                                | Time   | Size   | Weight | Cost                    |      Printed       | Notes |
 | -------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ------ | ----------------------- | :----------------: | ----- |

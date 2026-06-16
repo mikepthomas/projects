@@ -8,7 +8,7 @@ description: I won an auction on ebay and there were 3 Wifi Weather Station PCBs
 preview: /assets/blog/solar-wifi-weather-station/solar-wifi-weather-station-hero.jpg
 slug: /projects/solar-wifi-weather-station
 external:
-  - https://www.opengreenenergy.com/solar-powered-wifi-weather-station-v2-0/
+  - https://www.opengreenenergy.com/solar-powered-wifi-weather-station-v2-0
 draft: false
 tags:
   - ESPHome

@@ -304,7 +304,7 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ![3D render of the Voron 0.2 Frame](/assets/blog/printer-voron-0.2/voron-design/frame.jpg 'Frame')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: No Drop Nuts
 
@@ -479,7 +479,7 @@ The [LDO V0.2 Frame Kit] does not come with the extrusions to build the stock Be
 
 ![3D render of the Voron 0.2 A/B Drives](/assets/blog/printer-voron-0.2/voron-design/a-b-drives.jpg 'A/B Drives')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have opted to upgrade the stock Gantry to the [TULIP V2.0](https://github.com/Amekyras/tulip) mod by `Amekyras` which is a full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners.
 The benefit for the A/B Drives is that the A/B motors are mounted solidly to the frame, meaning no more shunting them back and forth with a bulky tensioning nut.
@@ -516,7 +516,7 @@ The benefit for the A/B Drives is that the A/B motors are mounted solidly to the
 
 ![3D render of the Voron 0.2 A/B Idlers](/assets/blog/printer-voron-0.2/voron-design/a-b-idlers.jpg 'A/B Idlers')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have opted to upgrade the stock Gantry to the [TULIP V2.0](https://github.com/Amekyras/tulip) mod by `Amekyras` which is a full pin mod for the AB motor mounts, XY gantry joints and front idler tensioners.
 The benefit for the A/B Idlers this is that belt tension is applied through an M3 screw in the front idlers, and all bearing stacks run on pins rather than screws.
@@ -552,7 +552,7 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ![3D render of the Voron 0.2 Z-Axis](/assets/blog/printer-voron-0.2/voron-design/z-axis.jpg 'Z-Axis')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Leadscrew Nut
 
@@ -603,7 +603,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ![3D render of the Voron 0.2 X-Axis](/assets/blog/printer-voron-0.2/voron-design/x-axis.jpg 'X-Axis')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: XY Joint Left
 
@@ -650,7 +650,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ![3D render of the Voron 0.2 A/B Belts](/assets/blog/printer-voron-0.2/voron-design/a-b-belts.jpg 'A/B Belts')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: X Carriage
 
@@ -666,7 +666,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ![3D render of the Voron 0.2 ](/assets/blog/printer-voron-0.2/voron-design/print-bed.jpg 'Print Bed')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Print Bed
 
@@ -686,7 +686,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ![3D render of the Voron 0.2 Print Head](/assets/blog/printer-voron-0.2/voron-design/print-head.jpg 'Print Head')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Sherpa Mini
 
@@ -743,7 +743,7 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ![3D render of the Voron 0.2 Electronics & Wiring](/assets/blog/printer-voron-0.2/voron-design/electronics-and-wiring.jpg 'Electronics and Wiring')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Rear Panel
 
@@ -793,7 +793,7 @@ The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [
 
 ![3D render of the Voron 0.2 Skirts & Panels](/assets/blog/printer-voron-0.2/voron-design/skirts-and-panels.jpg 'Skirts and Panels')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 I have opted to upgrade the stock Trident style skirts with the [Stealth Skirts mod by Maverick](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Stealth_Skirts). The first 10 layers of the skirt parts will be printed in Orange and then I will perform a filament swap to Black to achieve two-tone skirts.
 
@@ -933,7 +933,7 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ![3D render of the Voron 0.2 Extrusion Tophat](/assets/blog/printer-voron-0.2/voron-design/extrusion-tophat.jpg 'Extrusion Tophat')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 ### :negative_squared_cross_mark: Top Panel
 
@@ -987,7 +987,7 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ![3D Render of the Voron 0.2 Complete](/assets/blog/printer-voron-0.2/voron-design/assembly-complete.jpg 'Assembly Complete')
 
-> Image © 2023 [Voron Design](https://www.vorondesign.com/)
+> Image © 2023 [Voron Design](https://www.vorondesign.com)
 
 [Filament]: #
 [BasicFil PET (Clear)]: printer-filament#basicfil-pet-clear

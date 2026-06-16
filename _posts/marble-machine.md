@@ -8,7 +8,7 @@ description: Printing a Marble Machine
 preview: /assets/blog/marble-machine/marble-machine-hero.jpg
 slug: /projects/marble-machine
 external:
-  - https://outofmarbles.com/
+  - https://outofmarbles.com
 draft: false
 tags:
   - Out of Marbles
