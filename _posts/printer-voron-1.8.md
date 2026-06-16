@@ -234,6 +234,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | Item                                                                                                                                              | Quantity | Material                |      Printed       | Notes                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- | :----------------: | ------------------------------------------- |
 | [ba_pulley_align_tool](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/ba_pulley_align_tool.stl)                                | 1        | [eSun ABS+ (Black)]     |        :x:         | This is a `Trident r2`                      |
+| [ptfe_jig_35mm](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/ptfe_jig_35mm.stl)                                              | 1        | [eSun ABS+ (Black)]     |        :x:         | This is a `Trident r2`                      |
 | [rail_installation_guide_center](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Tools/rail_installation_guide_center_x2.stl)           | 2        | [eSun ABS+ (Black)]     | :heavy_check_mark: |
 | ~[v1.8_extrusion_drilling_jig](https://github.com/VoronDesign/Voron-1/blob/Voron1.8/STLs/Tools/v1.8_extrusion_drilling_jig.stl)~                  | ~1~      |                         |        :x:         | Not required as I brought my frame as a kit |
 | [TensionMeter](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)                         | 1        | [eSun ABS+ (Black)]     | :heavy_check_mark: | This is a Voron Users mod by `Kruppes`      |
@@ -245,7 +246,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 > Image © 2020 [Voron Design](https://www.vorondesign.com)
 
-Some of the gantry parts (specifically the AB Drive Units and Front Idlers) will be replaced with the upgraded versions from the Trident as they should fit the 1.8.
+Some of the gantry parts (specifically the A/B Drive Units and Front Idlers) will be replaced with the upgraded versions from the Trident as they fit the 1.8 frame.
 
 ### :wrench: A/B Drive Units
 
@@ -278,16 +279,19 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 
 ##### Parts Used
 
-| Item                            | Quantity |
-| ------------------------------- | -------- |
-| ~F695 Bearing~                  | ~12~     |
-| ~GT2 20T Pulley (5mm ID 6mm W)~ | ~2~      |
-| ~M3 Threaded Insert~            | ~1~      |
-| ~M3x10 SHCS~                    | ~1~      |
-| ~M3x30 SHCS~                    | ~6~      |
-| ~M5 1mm Spacer~                 | ~12~     |
-| ~M5x30 BHCS~                    | ~4~      |
-| ~NEMA17 Motor 17HS19-2004S~     | ~2~      |
+| Item                          | Quantity |
+| ----------------------------- | -------- |
+| F695 Bearing                  | ~12~ 16  |
+| GT2 20T Pulley (5mm ID 6mm W) | 2        |
+| M3 Threaded Insert            | ~1~ 4    |
+| M3x6 BHCS                     | 4        |
+| M3x8 SHCS                     | 4        |
+| ~M3x10 SHCS~                  | ~1~      |
+| M3x30 SHCS                    | ~6~ 8    |
+| M5 1mm Spacer                 | ~12~ 16  |
+| M5 Threaded Insert            | 4        |
+| M5x30 BHCS                    | 4        |
+| NEMA17 Motor 17HS19-2004S     | 2        |
 
 > [!NOTE]
 > I will upgrade these motors to [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
@@ -317,15 +321,20 @@ The screws on the front of the idlers move the tensioners forwards and backwards
 
 ##### Parts Used
 
-| Item                 | Quantity |
-| -------------------- | -------- |
-| ~F695 Bearing~       | ~4~      |
-| ~M3 Threaded Insert~ | ~2~      |
-| ~M3 Washer~          | ~2~      |
-| ~M3x40 SHCS~         | ~2~      |
-| ~M5 1mm Spacer~      | ~4~      |
-| ~M5 Hexnut~          | ~2~      |
-| ~M5x40 SHCS~         | ~2~      |
+| Item                             | Quantity |
+| -------------------------------- | -------- |
+| F695 Bearing                     | 4        |
+| M3 Threaded Insert               | ~2~ 10   |
+| M3 Washer                        | 2        |
+| M3x8 SHCS                        | 2        |
+| M3x16 SHCS                       | 2        |
+| M3x25 SHCS                       | 4        |
+| M3x40 SHCS                       | ~2~ 4    |
+| M5 1mm Spacer                    | 4        |
+| ~M5 Hexnut~                      | ~2~      |
+| M5x16 SHCS                       | 2        |
+| ~M5x40 SHCS~                     | ~2~      |
+| PTFE Tube (4mm OD 3mm ID) - 35mm | 4        |
 
 ### :white_check_mark: Rear Crossbar
 
@@ -404,7 +413,7 @@ The bed frame will not only hold the bed, but will also be a base for the [Z end
 | Misumi HFSB5-2020-200-TPW        | 2        |
 | Misumi HFSB5-2020-420-AH45-BH375 | 2        |
 
-### :wrench Z Axis Rods
+### :wrench: Z Axis Rods
 
 | Item                                                                                                              | Quantity | Material                      | Size  | Weight | Cost  |      Printed       | Notes                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ------ | ----- | :----------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -558,12 +567,13 @@ As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to t
 
 ##### Parts Used
 
-| Item                           | Quantity |
-| ------------------------------ | -------- |
-| ~24AWG PTFE Cable (Black)~     | ~500mm~  |
-| ~M3x16 SHCS~                   | ~1~      |
-| ~M5x16 BHCS~                   | ~1~      |
-| ~SPDT KW10 Limit Micro Switch~ | ~1~      |
+| Item                         | Quantity |
+| ---------------------------- | -------- |
+| 24AWG PTFE Cable (Black)     | 500mm    |
+| M2x10 Self-Tapping Screw     | 2        |
+| ~M3x16 SHCS~                 | ~1~      |
+| M5x16 BHCS                   | 1        |
+| SPDT KW10 Limit Micro Switch | 1        |
 
 ### :negative_squared_cross_mark: Z Endstop
 
