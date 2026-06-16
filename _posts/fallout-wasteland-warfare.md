@@ -1633,7 +1633,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 [September 2025]: https://modiphius.net/blogs/news/fallout-friday-september-19th
 [November 2025]: https://modiphius.net/blogs/news/fallout-friday-november-21st
-[Painter's Busts]: https://modiphius.net/blogs/news/painter-s-busts
+[December 2025]: https://modiphius.net/blogs/news/painter-s-busts
 [January 2026]: https://modiphius.net/blogs/news/fallout-friday-january-23rd
 [February 2026]: https://modiphius.net/blogs/news/fallout-friday-february-20th
 [March 2026]: https://modiphius.net/blogs/news/fallout-friday-march-27
@@ -1657,6 +1657,14 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Children of Atom Rules]: https://connect.forgefire.games/products/children-of-atom-card-pack
 [Creatures of the Fog Rules]: https://connect.forgefire.games/products/creatures-of-the-fog-card-pack
 [Longfellow and the Trappers Rules]: https://connect.forgefire.games/products/longfellow-and-the-trappers-card-pack
+
+### Accessories
+
+| Item                  |     Purchased      | Digital | Downloaded | Released        | Notes |
+| --------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [T-60 Painter's Bust] | :heavy_check_mark: |         |            | [December 2025] |
+
+[T-60 Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-t-60
 
 ### Minatures
 
