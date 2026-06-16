@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-06-08T15:17:24.358Z
+lastmod: 2026-06-16T14:46:51.765Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2087,10 +2087,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Quest Book
 
-| Item             | Purchased | Digital                         |     Downloaded     | Released                  | Notes |
-| ---------------- | :-------: | ------------------------------- | :----------------: | ------------------------- | ----- |
-| [Royal Flush]    |    :x:    | [Buy :pdf:][Royal Flush PDF]    |        :x:         | [January 2026]            |
-| [Winter of Atom] |    :x:    | [Buy :pdf:][Winter of Atom PDF] | :heavy_check_mark: | [July 2023][YT July 2023] |
+| Item             |     Purchased      | Digital                         |     Downloaded     | Released                  | Notes |
+| ---------------- | :----------------: | ------------------------------- | :----------------: | ------------------------- | ----- |
+| [Royal Flush]    |        :x:         | [Buy :pdf:][Royal Flush PDF]    |        :x:         | [January 2026]            |
+| [Winter of Atom] | :heavy_check_mark: | [Buy :pdf:][Winter of Atom PDF] | :heavy_check_mark: | [July 2023][YT July 2023] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
 [Royal Flush PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush-pdf
