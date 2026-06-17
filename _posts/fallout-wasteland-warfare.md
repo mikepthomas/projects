@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-06-16T14:46:51.765Z
+lastmod: 2026-06-17T11:42:36.115Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -467,9 +467,9 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                               | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | -------------------------------------- | ----- |
-| [Raiders: Ack Ack, Sinjin & Avery]     |        :x:         |         |            | [August 2019][PR 12/08/19]             |
+| [Raiders: Ack Ack, Sinjin & Avery]     | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]             |
 | [Raiders: Core Box]                    | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]             |
-| [Raiders: Raiders, Scavvers & Psychos] |        :x:         |         |            | [August 2019][PR 12/08/19]             |
+| [Raiders: Raiders, Scavvers & Psychos] | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]             |
 | [Unaligned: Mysterious Stranger]       | :heavy_check_mark: |         |            | [September 2020][DEVELOPMENT BLOG #25] | Promo |
 
 [Raiders: Ack Ack, Sinjin & Avery]: https://modiphius.net/products/fallout-wasteland-warfare-ack-ack-sinjin-avery
@@ -1051,11 +1051,11 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Caesar's Legion
 
-| Item                                | Purchased | Digital | Downloaded | Released                          | Notes |
-| ----------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| [Caesar's Legion: Core Box]         |    :x:    |         |            | [May 2021][Blog: Caesar's Legion] |
-| [Caesar's Legion: Military Command] |    :x:    |         |            | [June 2021]                       |
-| [Caesar's Legion: Veteran Wave]     |    :x:    |         |            | [July 2021]                       |
+| Item                                |     Purchased      | Digital | Downloaded | Released                          | Notes |
+| ----------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----- |
+| [Caesar's Legion: Core Box]         | :heavy_check_mark: |         |            | [May 2021][Blog: Caesar's Legion] |
+| [Caesar's Legion: Military Command] | :heavy_check_mark: |         |            | [June 2021]                       |
+| [Caesar's Legion: Veteran Wave]     | :heavy_check_mark: |         |            | [July 2021]                       |
 
 [Caesar's Legion: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
 [Caesar's Legion: Military Command]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-military-command
@@ -1063,12 +1063,12 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### New California Republic
 
-| Item                 | Purchased | Digital | Downloaded | Released                                  | Notes |
-| -------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [NCR: Core Box]      |    :x:    |         |            | [May 2021][Blog: New California Republic] |
-| [NCR: Ranger]        |    :x:    |         |            | [September 2020][Blog: Mojave Expansion]  | Promo |
-| [NCR: Ranger Patrol] |    :x:    |         |            | [July 2021]                               |
-| [NCR: Top Brass]     |    :x:    |         |            | [June 2021]                               |
+| Item                 |     Purchased      | Digital | Downloaded | Released                                  | Notes |
+| -------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [NCR: Core Box]      | :heavy_check_mark: |         |            | [May 2021][Blog: New California Republic] |
+| [NCR: Ranger]        |        :x:         |         |            | [September 2020][Blog: Mojave Expansion]  | Promo |
+| [NCR: Ranger Patrol] | :heavy_check_mark: |         |            | [July 2021]                               |
+| [NCR: Top Brass]     | :heavy_check_mark: |         |            | [June 2021]                               |
 
 [NCR: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-core-box
 [NCR: Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
@@ -1328,7 +1328,7 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released       | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
-| [Raiders: The Forged]                  |        :x:         |         |            | [October 2022] |
+| [Raiders: The Forged]                  | :heavy_check_mark: |         |            | [October 2022] |
 | [Super Mutants: Centaurs]              |        :x:         |         |            | [January 2023] |
 | [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022] |
 | [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022] | Promo |
@@ -1660,10 +1660,16 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 ### Accessories
 
-| Item                  |     Purchased      | Digital | Downloaded | Released        | Notes |
-| --------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [T-60 Painter's Bust] | :heavy_check_mark: |         |            | [December 2025] |
+| Item                        |     Purchased      | Digital | Downloaded | Released        | Notes |
+| --------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Dogmeat Painter's Bust]    |        :x:         |         |            | [January 2026]  |
+| [Nate Painter's Bust]       |        :x:         |         |            | [January 2026]  |
+| [NCR Ranger Painter's Bust] |        :x:         |         |            | [December 2025] |
+| [T-60 Painter's Bust]       | :heavy_check_mark: |         |            | [December 2025] |
 
+[Dogmeat Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-dogmeat
+[Nate Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-nate
+[NCR Ranger Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-ncr-ranger
 [T-60 Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-t-60
 
 ### Minatures
@@ -2298,10 +2304,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Minatures
 
-| Item                            | Purchased | Digital                                                     |     Downloaded     | Released         | Notes                                     |
-| ------------------------------- | :-------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
-| [Wasteland Raiders: Core Box]   |    :x:    | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box] |    :x:    | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                            |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
+| ------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
+| [Wasteland Raiders: Core Box]   | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box] |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
 [Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
