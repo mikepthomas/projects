@@ -1041,27 +1041,33 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 ### Minatures
 
-| Item                           |     Purchased      | Digital | Downloaded | Released         | Notes |
-| ------------------------------ | :----------------: | ------- | :--------: | ---------------- | ----- |
-| [Robots: Securitron Enforcers] |        :x:         |         |            | [September 2021] |
-| [Unaligned: Burned Man]        | :heavy_check_mark: |         |            | [November 2021]  | Promo |
-
-[Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
-[Unaligned: Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
-
 #### Caesar's Legion
+
+![Caesar's Legion Forces Bundle](https://modiphius.net/cdn/shop/products/2-Bundle_CARDS-NewVegas_FO_RGB-150dpi_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+[Caesar's Legion Forces Bundle](https://modiphius.net/products/fallout-wasteland-warfare-new-vegas-ncr-forces-bundle) includes the following sets in addition to the [New Vegas Rules Expansion].
 
 | Item                                |     Purchased      | Digital | Downloaded | Released                          | Notes |
 | ----------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----- |
 | [Caesar's Legion: Core Box]         | :heavy_check_mark: |         |            | [May 2021][Blog: Caesar's Legion] |
 | [Caesar's Legion: Military Command] | :heavy_check_mark: |         |            | [June 2021]                       |
 | [Caesar's Legion: Veteran Wave]     | :heavy_check_mark: |         |            | [July 2021]                       |
+| [Unaligned: Burned Man]             | :heavy_check_mark: |         |            | [November 2021]                   | Promo |
 
 [Caesar's Legion: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-core-box
 [Caesar's Legion: Military Command]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-military-command
 [Caesar's Legion: Veteran Wave]: https://modiphius.net/products/fallout-wasteland-warfare-caesars-legion-veteran-wave
+[Unaligned: Burned Man]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-burned-man-promo
 
 #### New California Republic
+
+![NCR Forces Bundle](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-new-vegas-ncr-forces-bundle-fallout-wasteland-warfare-modiphius-entertainment-155237_1280x.jpg)
+
+> Image © 2021 [Modiphius Entertainment](https://modiphius.net)
+
+[NCR Forces Bundle](https://modiphius.net/products/fallout-wasteland-warfare-new-vegas-ncr-forces-bundle) includes the following sets:
 
 | Item                 |     Purchased      | Digital | Downloaded | Released                                  | Notes |
 | -------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
@@ -1074,6 +1080,14 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [NCR: Ranger]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-promo-ncr-ranger
 [NCR: Ranger Patrol]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-ranger-patrol
 [NCR: Top Brass]: https://modiphius.net/products/fallout-wasteland-warfare-ncr-top-brass
+
+#### Robots
+
+| Item                           | Purchased | Digital | Downloaded | Released         | Notes |
+| ------------------------------ | :-------: | ------- | :--------: | ---------------- | ----- |
+| [Robots: Securitron Enforcers] |    :x:    |         |            | [September 2021] |
+
+[Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
 
 #### Super Mutants
 
