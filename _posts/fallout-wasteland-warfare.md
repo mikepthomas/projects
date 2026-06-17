@@ -233,11 +233,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Brotherhood of Steel
 
-![The Brotherhood of Steel Starter Bundle](https://modiphius.net/cdn/shop/files/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle-fallout-wasteland-warfare-modiphius-entertainment-760153_1280x.jpg)
+![The Brotherhood of Steel Starter Bundle](https://www.modiphius.net/cdn/shop/products/1-Bundle-Shot-Fallout-Wasteland-Warfare-MUH051284_1280x.jpg)
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the following sets:
+[The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the main `Brotherhood of Steel` sets in addition to the [Two Player Starter Set].
 
 | Item                                                        | Purchased | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :-------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
@@ -277,7 +277,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main Super Mutant sets in addition to the [Two Player Starter Set].
+[The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main `Super Mutant` sets in addition to the [Two Player Starter Set].
 
 | Item                       | Purchased | Digital | Downloaded | Released                                  | Notes |
 | -------------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
@@ -291,7 +291,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Survivors
 
-[The Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle) includes the main Survivors sets in addition to the [Two Player Starter Set].
+![The Survivors Starter Bundle](https://modiphius.net/cdn/shop/products/1-Bundle-Shot-Fallout-Wasteland-Warfare-MUH051286_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+[The Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle) includes the main `Survivors` sets in addition to the [Two Player Starter Set].
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                          | Notes                                                             |
 | -------------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----------------------------------------------------------------- |
