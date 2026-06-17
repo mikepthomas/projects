@@ -315,13 +315,13 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | SCP-002-111: Big John’s Salvage Showdown |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]              |
 | SCP-003-111: Quest for Knowledge         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                  |
 | SCP-004-111: Radio Tower Takeover        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 |
-| SCP-005-111: Flip's Revenge              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 |
+| SCP-005-111: Flip's Revenge              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                |
 | SCP-006-111: Sanctuary Hills Sweep       |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills] |
 | SCP-007-111: Psychotrip                  |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]         |
 | SCP-008-111: The Jury Street Colossus    |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]              |
 | SCP-009-111: Midwest Encounter           |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 |
 | SCP-010-111: Benny's Request             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]           |
-| SCP-011-111: Atomic Sprint!              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 |
+| SCP-011-111: Atomic Sprint!              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Suiciders]             |
 
 ##### Big John’s Salvage Showdown
 
