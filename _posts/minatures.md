@@ -170,11 +170,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                | Quantity | Material | Cards                                         | Notes |
-| ------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Eyebot              | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Knight-Captain Cade | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| Paladin Danse       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Item                            | Quantity | Material | Cards                                         | Notes |
+| ------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
+| Eyebot                          | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Knight-Captain Cade             | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Paladin Danse](#paladin-danse) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
@@ -351,6 +351,12 @@ A printable slide top box to hold the all the Mini European size cards from the 
 | Wires            | Warpaints: [Daemonic Yellow]            | Grinning Gargoyle: [Daemonic Yellow]            | :heavy_check_mark: |
 | Base             | Warpaints: [Banshee Brown]              | Warpaints Fanatic: [Tomb King Tan]              | :heavy_check_mark: |
 | Armor Weathering | Warpaints Effects: [Dry Rust]           |                                                 | :heavy_check_mark: |
+
+#### Paladin Danse
+
+[How To Paint: Paladin Danse, from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/NuokshzCk1U)
+
+> Video © 2020 [The Army Painter](https://www.youtube.com/@TheArmyPainter)
 
 #### Rahmani, Expedition Leader
 
@@ -1656,7 +1662,7 @@ There are some examples of paint colours that can be used in the `Painting the R
 
 | Item                          | Quantity | Material | Cards                                         | Notes             |
 | ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| Hammer                        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Hammer](#hammer-1)           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 | [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
 
 #### Suiciders
@@ -1844,6 +1850,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 | Shopping Cart | Warpaints Metallics: [Gun Metal] | Warpaints Fanatic Metallics: [Gun Metal] | :heavy_check_mark: |
 | Shopping Cart | AK Interactive: Rust Streaks     | Warpaints Effects: [Dry Rust]            | :heavy_check_mark: |
 | Skin          | Warpaints Air: [Feral Green]     |                                          |        :x:         |
+
+#### Hammer
+
+[How To Paint: Hammer, from Fallout Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/OZx7k8yRoFg)
+
+> Video © 2020 [The Army Painter](https://www.youtube.com/@TheArmyPainter)
 
 #### Mutant Hound
 
