@@ -2121,7 +2121,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item             |     Purchased      | Digital                         |     Downloaded     | Released                  | Notes |
 | ---------------- | :----------------: | ------------------------------- | :----------------: | ------------------------- | ----- |
-| [Royal Flush]    |        :x:         | [Buy :pdf:][Royal Flush PDF]    |        :x:         | [January 2026]            |
+| [Royal Flush]    |        :x:         | [Buy :pdf:][Royal Flush PDF]    | :heavy_check_mark: | [January 2026]            |
 | [Winter of Atom] | :heavy_check_mark: | [Buy :pdf:][Winter of Atom PDF] | :heavy_check_mark: | [July 2023][YT July 2023] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
