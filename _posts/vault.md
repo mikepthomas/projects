@@ -29,7 +29,7 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault) that can be used for inspiration.
 
-# Minatures
+# Miniatures
 
 ## Vault-Tec Poster Girl
 

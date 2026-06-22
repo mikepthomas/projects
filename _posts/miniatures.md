@@ -1,14 +1,14 @@
 ---
-title: Fallout Minatures
-heading: Force Lists and Painting Guides for Fallout Minatures
+title: Fallout Miniatures
+heading: Force Lists and Painting Guides for Fallout Miniatures
 date: 2026-04-30T11:32:50.044Z
 lastmod: 2026-06-09T18:53:27.371Z
 author: Mike Thomas
-description: List of Fallout Minatures ordered by Faction, with suggested painting colours from various Painting Guides.
-preview: /assets/blog/minatures-paint/paint-hero.jpg
-slug: /projects/minatures
+description: List of Fallout Miniatures ordered by Faction, with suggested painting colours from various Painting Guides.
+preview: /assets/blog/miniatures-paint/paint-hero.jpg
+slug: /projects/miniatures
 related:
-  - /projects/minatures-paint
+  - /projects/miniatures-paint
 draft: false
 tags:
   - Toys
@@ -2588,127 +2588,127 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 [RPG Item Costs (v1.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_item_costs_v.1.0.pdf
 [RPG Item & Unit Costs (v4.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/fww_wave_4_rpg_unit_and_item_costs_nov2020.pdf
 [Black & Greys]: #
-[Ash Grey]: minatures-paint#black--greys
-[Matt Black]: minatures-paint#black--greys
-[Necromancer Cloak]: minatures-paint#black--greys
-[Spaceship Exterior]: minatures-paint#black--greys
-[Uniform Grey]: minatures-paint#black--greys
+[Ash Grey]: miniatures-paint#black--greys
+[Matt Black]: miniatures-paint#black--greys
+[Necromancer Cloak]: miniatures-paint#black--greys
+[Spaceship Exterior]: miniatures-paint#black--greys
+[Uniform Grey]: miniatures-paint#black--greys
 [Warm Greys & Whites]: #
-[Combat Fatigues]: minatures-paint#warm-greys--whites
-[Drake Tooth]: minatures-paint#warm-greys--whites
-[Grey Castle]: minatures-paint#warm-greys--whites
-[Matt White]: minatures-paint#warm-greys--whites
+[Combat Fatigues]: miniatures-paint#warm-greys--whites
+[Drake Tooth]: miniatures-paint#warm-greys--whites
+[Grey Castle]: miniatures-paint#warm-greys--whites
+[Matt White]: miniatures-paint#warm-greys--whites
 [Desaturated Blue-Greys]: #
-[Fog Grey]: minatures-paint#desaturated-blue-greys
-[Frost Blue]: minatures-paint#desaturated-blue-greys
-[Ice Storm]: minatures-paint#desaturated-blue-greys
-[Runic Cobalt]: minatures-paint#desaturated-blue-greys
-[Wolf Grey]: minatures-paint#desaturated-blue-greys
+[Fog Grey]: miniatures-paint#desaturated-blue-greys
+[Frost Blue]: miniatures-paint#desaturated-blue-greys
+[Ice Storm]: miniatures-paint#desaturated-blue-greys
+[Runic Cobalt]: miniatures-paint#desaturated-blue-greys
+[Wolf Grey]: miniatures-paint#desaturated-blue-greys
 [Strong Pale Blues]: #
-[Dark Sky]: minatures-paint#strong-pale-blues
-[Ultramarine Blue]: minatures-paint#strong-pale-blues
+[Dark Sky]: miniatures-paint#strong-pale-blues
+[Ultramarine Blue]: miniatures-paint#strong-pale-blues
 [Vivid Blues]: #
-[Arctic Gem]: minatures-paint#vivid-blues
-[Crystal Blue]: minatures-paint#vivid-blues
-[Deep Blue]: minatures-paint#vivid-blues
-[Electric Blue]: minatures-paint#vivid-blues
+[Arctic Gem]: miniatures-paint#vivid-blues
+[Crystal Blue]: miniatures-paint#vivid-blues
+[Deep Blue]: miniatures-paint#vivid-blues
+[Electric Blue]: miniatures-paint#vivid-blues
 [Deep Green-Blues]: #
 [Turquoises]: #
 [Teals]: #
 [Deep Greens]: #
-[Angel Green]: minatures-paint#deep-greens
-[Feral Green]: minatures-paint#deep-greens
-[Greenskin]: minatures-paint#deep-greens
+[Angel Green]: miniatures-paint#deep-greens
+[Feral Green]: miniatures-paint#deep-greens
+[Greenskin]: miniatures-paint#deep-greens
 [Vibrant Greens]: #
 [Desaturated Cool Greens]: #
-[Patagon Pine]: minatures-paint#desaturated-cool-greens
+[Patagon Pine]: miniatures-paint#desaturated-cool-greens
 [Olive Greens]: #
-[Army Green]: minatures-paint#olive-greens
-[Camouflage Green]: minatures-paint#olive-greens
-[Commando Green]: minatures-paint#olive-greens
-[Elf Green]: minatures-paint#olive-greens
-[Necrotic Flesh]: minatures-paint#olive-greens
-[Woodland Camo]: minatures-paint#olive-greens
+[Army Green]: miniatures-paint#olive-greens
+[Camouflage Green]: miniatures-paint#olive-greens
+[Commando Green]: miniatures-paint#olive-greens
+[Elf Green]: miniatures-paint#olive-greens
+[Necrotic Flesh]: miniatures-paint#olive-greens
+[Woodland Camo]: miniatures-paint#olive-greens
 [Browns]: #
-[Bootstrap Brown]: minatures-paint#browns
-[Hardened Carapace]: minatures-paint#browns
-[Kobold Skin]: minatures-paint#browns
-[Leather Brown]: minatures-paint#browns
-[Monster Brown]: minatures-paint#browns
-[Urban Buff]: minatures-paint#browns
-[Werewolf Fur]: minatures-paint#browns
+[Bootstrap Brown]: miniatures-paint#browns
+[Hardened Carapace]: miniatures-paint#browns
+[Kobold Skin]: miniatures-paint#browns
+[Leather Brown]: miniatures-paint#browns
+[Monster Brown]: miniatures-paint#browns
+[Urban Buff]: miniatures-paint#browns
+[Werewolf Fur]: miniatures-paint#browns
 [Ochres & Tans]: #
-[Desert Yellow]: minatures-paint#ochres--tans
-[Tundra Taupe]: minatures-paint#ochres--tans
-[Venom Wyrm]: minatures-paint#ochres--tans
+[Desert Yellow]: miniatures-paint#ochres--tans
+[Tundra Taupe]: miniatures-paint#ochres--tans
+[Venom Wyrm]: miniatures-paint#ochres--tans
 [Light Neutrals]: #
-[Banshee Brown]: minatures-paint#light-neutrals
-[Skeleton Bone]: minatures-paint#light-neutrals
-[Tomb King Tan]: minatures-paint#light-neutrals
+[Banshee Brown]: miniatures-paint#light-neutrals
+[Skeleton Bone]: miniatures-paint#light-neutrals
+[Tomb King Tan]: miniatures-paint#light-neutrals
 [Yellows]: #
-[Daemonic Yellow]: minatures-paint#yellows
-[Fiendish Yellow]: minatures-paint#yellows
-[Moon Dust]: minatures-paint#yellows
-[Space Dust]: minatures-paint#yellows
+[Daemonic Yellow]: miniatures-paint#yellows
+[Fiendish Yellow]: miniatures-paint#yellows
+[Moon Dust]: miniatures-paint#yellows
+[Space Dust]: miniatures-paint#yellows
 [Oranges]: #
 [Warm Reds]: #
-[Abomination Gore]: minatures-paint#warm-reds
-[Mars Red]: minatures-paint#warm-reds
-[Nomad Flesh]: minatures-paint#warm-reds
-[Violent Vermillion]: minatures-paint#warm-reds
+[Abomination Gore]: miniatures-paint#warm-reds
+[Mars Red]: miniatures-paint#warm-reds
+[Nomad Flesh]: miniatures-paint#warm-reds
+[Violent Vermillion]: miniatures-paint#warm-reds
 [Ruddy Browns]: #
-[Dirt Spatter]: minatures-paint#ruddy-browns
-[Fur Brown]: minatures-paint#ruddy-browns
-[Oak Brown]: minatures-paint#ruddy-browns
-[Tanned Flesh]: minatures-paint#ruddy-browns
-[Tree Ancient]: minatures-paint#ruddy-browns
+[Dirt Spatter]: miniatures-paint#ruddy-browns
+[Fur Brown]: miniatures-paint#ruddy-browns
+[Oak Brown]: miniatures-paint#ruddy-browns
+[Tanned Flesh]: miniatures-paint#ruddy-browns
+[Tree Ancient]: miniatures-paint#ruddy-browns
 [Cool Reds]: #
-[Crusted Sore]: minatures-paint#cool-reds
-[Dragon Red]: minatures-paint#cool-reds
-[Pure Red]: minatures-paint#cool-reds
-[Vampire Red]: minatures-paint#cool-reds
+[Crusted Sore]: miniatures-paint#cool-reds
+[Dragon Red]: miniatures-paint#cool-reds
+[Pure Red]: miniatures-paint#cool-reds
+[Vampire Red]: miniatures-paint#cool-reds
 [Pinks]: #
 [Purples]: #
 [Magentas]: #
 [Desaturated Violets]: #
-[Moldy Wine]: minatures-paint#desaturated-violets
-[Wasteland Soil]: minatures-paint#desaturated-violets
+[Moldy Wine]: miniatures-paint#desaturated-violets
+[Wasteland Soil]: miniatures-paint#desaturated-violets
 [Rose Skin Tones]: #
-[Agate Skin]: minatures-paint#rose-skin-tones
-[Barbarian Flesh]: minatures-paint#rose-skin-tones
+[Agate Skin]: miniatures-paint#rose-skin-tones
+[Barbarian Flesh]: miniatures-paint#rose-skin-tones
 [Warm Skin Tones]: #
 [Deep Skin Tones]: #
-[Amber Skin]: minatures-paint#deep-skin-tones
-[Corpse Pale]: minatures-paint#deep-skin-tones
-[Dorado Skin]: minatures-paint#deep-skin-tones
-[Onyx Skin]: minatures-paint#deep-skin-tones
+[Amber Skin]: miniatures-paint#deep-skin-tones
+[Corpse Pale]: miniatures-paint#deep-skin-tones
+[Dorado Skin]: miniatures-paint#deep-skin-tones
+[Onyx Skin]: miniatures-paint#deep-skin-tones
 [Others]: #
-[Dark Stone]: minatures-paint#others
-[Dungeon Grey]: minatures-paint#others
+[Dark Stone]: miniatures-paint#others
+[Dungeon Grey]: miniatures-paint#others
 [Effects]: #
-[Dry Blood]: minatures-paint#the-army-painter-effects
-[Dry Rust]: minatures-paint#the-army-painter-effects
-[Oil Stains]: minatures-paint#the-army-painter-effects
+[Dry Blood]: miniatures-paint#the-army-painter-effects
+[Dry Rust]: miniatures-paint#the-army-painter-effects
+[Oil Stains]: miniatures-paint#the-army-painter-effects
 [Metallics]: #
-[Bright Gold]: minatures-paint#the-army-painter-metalics
-[Greedy Gold]: minatures-paint#the-army-painter-metalics
-[Gun Metal]: minatures-paint#the-army-painter-metalics
-[Mithril]: minatures-paint#the-army-painter-metalics
-[Plate Mail Metal]: minatures-paint#the-army-painter-metalics
-[Rough Iron]: minatures-paint#the-army-painter-metalics
-[True Copper]: minatures-paint#the-army-painter-metalics
+[Bright Gold]: miniatures-paint#the-army-painter-metalics
+[Greedy Gold]: miniatures-paint#the-army-painter-metalics
+[Gun Metal]: miniatures-paint#the-army-painter-metalics
+[Mithril]: miniatures-paint#the-army-painter-metalics
+[Plate Mail Metal]: miniatures-paint#the-army-painter-metalics
+[Rough Iron]: miniatures-paint#the-army-painter-metalics
+[True Copper]: miniatures-paint#the-army-painter-metalics
 [Washes]: #
-[Blue Tone]: minatures-paint#the-army-painter-washes
-[Dark Blue Tone]: minatures-paint#the-army-painter-washes
-[Dark Tone]: minatures-paint#the-army-painter-washes
-[Flesh Wash]: minatures-paint#the-army-painter-washes
-[Green Tone]: minatures-paint#the-army-painter-washes
-[Mid Brown]: minatures-paint#the-army-painter-washes
-[Military Shade]: minatures-paint#the-army-painter-washes
-[Sepia Tone]: minatures-paint#the-army-painter-washes
-[Soft Tone]: minatures-paint#the-army-painter-washes
-[Strong Skin Shade]: minatures-paint#the-army-painter-washes
-[Strong Tone]: minatures-paint#the-army-painter-washes
+[Blue Tone]: miniatures-paint#the-army-painter-washes
+[Dark Blue Tone]: miniatures-paint#the-army-painter-washes
+[Dark Tone]: miniatures-paint#the-army-painter-washes
+[Flesh Wash]: miniatures-paint#the-army-painter-washes
+[Green Tone]: miniatures-paint#the-army-painter-washes
+[Mid Brown]: miniatures-paint#the-army-painter-washes
+[Military Shade]: miniatures-paint#the-army-painter-washes
+[Sepia Tone]: miniatures-paint#the-army-painter-washes
+[Soft Tone]: miniatures-paint#the-army-painter-washes
+[Strong Skin Shade]: miniatures-paint#the-army-painter-washes
+[Strong Tone]: miniatures-paint#the-army-painter-washes
 [Primer]: #
 [Army Green Primer]: https://thearmypainter.com/en-nl/products/colour-primers-colour-primer-army-green-cp3005s
 [Gun Metal Primer]: https://thearmypainter.com/en-gb/products/colour-primers-colour-primer-gun-metal-cp3025s

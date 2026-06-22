@@ -1,13 +1,13 @@
 ---
-title: Paint for Minatures
-heading: Paint for Wargaming Minatures
+title: Paint for Miniatures
+heading: Paint for Wargaming Miniatures
 date: 2026-04-28T22:57:55.784Z
 author: Mike Thomas
 description: This is a list of paint I have purchased over the years.
-preview: /assets/blog/minatures-paint/paint-hero.jpg
-slug: /projects/minatures-paint
+preview: /assets/blog/miniatures-paint/paint-hero.jpg
+slug: /projects/miniatures-paint
 related:
-  - /projects/minatures
+  - /projects/miniatures
 draft: false
 tags:
   - Toys

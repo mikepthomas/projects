@@ -11,7 +11,7 @@ description: |
 preview: /assets/blog/fallout-wasteland-warfare/fallout-wasteland-warfare-hero.jpg
 slug: /projects/fallout-wasteland-warfare
 related:
-  - /projects/minatures
+  - /projects/miniatures
   - /projects/brotherhood-of-steel
   - /projects/nuka-world
   - /projects/red-rocket
@@ -215,7 +215,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 [Caps Stash Tub]: https://www.thingiverse.com/thing:3140194/files
 
-### Minatures
+### Miniatures
 
 ![Super Mutant Behemoth](https://i.shgcdn.com/c91c7904-b7ac-4ae0-a233-37e7df387782/)
 
@@ -368,7 +368,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 ## Wave 2 - Raiders
 
-Wave 2 expands on the base game, introducing the `Raiders` faction, with new Minatures and Card Deck.
+Wave 2 expands on the base game, introducing the `Raiders` faction, with new Miniatures and Card Deck.
 
 ### Development
 
@@ -428,7 +428,7 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 [Weapons Upgrade Pack]: https://modiphius.net/products/fallout-wasteland-warfare-weapons-upgrade-pack
 
-### Minatures
+### Miniatures
 
 [Fallout Wasteland Warfare - Liberty Prime Miniature Video](https://www.youtube-nocookie.com/embed/AWrzRuQ7I5k)
 
@@ -636,7 +636,7 @@ The Notebooks have printed versions of the version 1.0 Settlement Sheet. Downloa
 
 ## Wave 3 - Institute
 
-Wave 3 expands on the base game, introducing the `Institute` faction, with new Minatures and Card Deck.
+Wave 3 expands on the base game, introducing the `Institute` faction, with new Miniatures and Card Deck.
 
 [Blog: How To Use Institute]: https://modiphius.net/blogs/news/how-to-use-the-institute-in-your-games-of-fallout-wasteland-warfare
 [Blog: How To Paint Institute]: https://modiphius.net/blogs/news/how-to-paint-fallout-wasteland-warfare-institute-synths-and-konrad-kellog
@@ -680,7 +680,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 [Objective Pack 1]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-1
 [Objective Pack 2]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-objective-markers-2
 
-### Minatures
+### Miniatures
 
 | Item                           | Purchased | Digital | Downloaded | Released       | Notes |
 | ------------------------------ | :-------: | ------- | :--------: | -------------- | ----- |
@@ -792,7 +792,7 @@ I will use elements from all of these to create my own version of [Vault 88](vau
 
 ## Wave 4 - Enclave
 
-Wave 4 expands on the base game, introducing the `Enclave` faction, with new Minatures and Card Deck.
+Wave 4 expands on the base game, introducing the `Enclave` faction, with new Miniatures and Card Deck.
 
 [Blog App Launch]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-app-launches
 [Blog App Phone]: https://modiphius.net/blogs/news/fallout-wasteland-warfare-now-on-your-phone
@@ -856,7 +856,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 [Box Insert]: https://www.thingiverse.com/thing:3197502/files
 
-### Minatures
+### Miniatures
 
 ![Power Armour](https://i.shgcdn.com/dacdb95d-82f8-4e05-8ca5-b83bdc4b8a46/)
 
@@ -1043,7 +1043,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
 [New Vegas Rules Expansion]: https://modiphius.net/products/fallout-accessories-new-vegas-rules-expansion
 
-### Minatures
+### Miniatures
 
 #### Caesar's Legion
 
@@ -1241,7 +1241,7 @@ Wave 6 introduces new factions, the `Children of Atom`, `Gunners` and the `Railr
 [Into The Vault]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
 
-### Minatures
+### Miniatures
 
 | Item                                    |     Purchased      | Digital | Downloaded | Released     | Notes     |
 | --------------------------------------- | :----------------: | ------- | :--------: | ------------ | --------- |
@@ -1342,7 +1342,7 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 [Forged in the Fire Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-forged-in-the-fire-rules-expansion
 [Homestead Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-homestead-rules-expansion-pdf
 
-### Minatures
+### Miniatures
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released       | Notes |
 | -------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
@@ -1441,7 +1441,7 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
 
-### Minatures
+### Miniatures
 
 #### Brotherhood of Steel
 
@@ -1519,7 +1519,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Nuka-World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
 [Nuka-World Rules Expansion PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
-### Minatures
+### Miniatures
 
 | Item                          |     Purchased      | Digital | Downloaded | Released                            | Notes |
 | ----------------------------- | :----------------: | ------- | :--------: | ----------------------------------- | ----- |
@@ -1605,7 +1605,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [The Dawn of the Mothman Rules]: https://connect.forgefire.games/products/the-dawn-of-the-mothman-rules-packet-card-pack
 [Wasteland Wildlife Rules]: https://connect.forgefire.games/products/wasteland-wildlife-card-pack
 
-### Minatures
+### Miniatures
 
 #### Mr. Fuzzy and The Ghoulish Remnants
 
@@ -1690,7 +1690,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [NCR Ranger Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-ncr-ranger
 [T-60 Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-t-60
 
-### Minatures
+### Miniatures
 
 #### Longfellow and the Trappers
 
@@ -1724,7 +1724,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 [Amazon TV Rules]: https://drive.google.com/drive/folders/1nvg-L2EC1Z3Rp2wrCPrhg6O1fV-Lkgy2
 
-### Minatures
+### Miniatures
 
 | Item                         |     Purchased      | Digital                                                 |     Downloaded     | Released        | Notes                                  |
 | ---------------------------- | :----------------: | ------------------------------------------------------- | :----------------: | --------------- | -------------------------------------- |
@@ -1810,7 +1810,7 @@ The Battle Mode Rulebook gives more rules and advice for playing PvP style games
 [Battle Mode (v1.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_battle_mode_v.1.0_download.pdf
 [Battle Mode (v1.6)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7463e16e-163b-4428-8548-0dc203e0ee88/BMCE-Rulebook-v-1-6.pdf
 
-Force Lists can be found on my [Minatures Page](minatures).
+Force Lists can be found on my [Miniatures Page](miniatures).
 
 ### Scenarios
 
@@ -2320,7 +2320,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
 
-## Minatures
+## Miniatures
 
 | Item                            |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
 | ------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |

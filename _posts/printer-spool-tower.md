@@ -202,15 +202,15 @@ keywords:
 
 ### Round
 
-| Item                     | Quantity | Material                     | Time | Size | Weight | Cost | Printed | Notes                                                                |
-| ------------------------ | -------- | ---------------------------- | ---- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------- |
+| Item                     | Quantity | Material                     | Time | Size | Weight | Cost | Printed | Notes                                                                 |
+| ------------------------ | -------- | ---------------------------- | ---- | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------- |
 | ~Round Base insert 25mm~ | ~1~      |                              |      |      |        |      |   :x:   |
 | ~Round Base insert 28mm~ | ~1~      |                              |      |      |        |      |   :x:   |
-| Round Base insert 30mm   | 3        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
+| Round Base insert 30mm   | 3        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   | [Fallout Miniatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
 | ~Round Base insert 32mm~ | ~1~      |                              |      |      |        |      |   :x:   |
 | ~Round Base insert 35mm~ | ~1~      |                              |      |      |        |      |   :x:   |
 | ~Round Base insert 39mm~ | ~1~      |                              |      |      |        |      |   :x:   |
-| Round Base insert 40mm   | 1        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   | [Fallout Minatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
+| Round Base insert 40mm   | 1        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   | [Fallout Miniatures](fallout-wasteland-warfare) are 30mm, 40mm & 50mm |
 
 ### Square
 

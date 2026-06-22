@@ -27,7 +27,7 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 
 [Battle for Nuka-World Starter Set]: fallout-wasteland-warfare#battle-for-nuka-world
 
-# Minatures
+# Miniatures
 
 ## Bottle and Cappy
 
