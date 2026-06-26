@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-06-17T11:42:36.115Z
+lastmod: 2026-06-26T15:47:36.393Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1051,7 +1051,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
-[Caesar's Legion Forces Bundle](https://modiphius.net/products/fallout-wasteland-warfare-new-vegas-ncr-forces-bundle) includes the following sets in addition to the [New Vegas Rules Expansion].
+[Caesar's Legion Forces Bundle](https://modiphius.net/products/fallout-wasteland-warfare-new-vegas-caesars-legion-forces-bundle) includes the following sets in addition to the [New Vegas Rules Expansion].
 
 | Item                                |     Purchased      | Digital | Downloaded | Released                          | Notes |
 | ----------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----- |
@@ -1657,6 +1657,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [March 2026]: https://modiphius.net/blogs/news/fallout-friday-march-27
 [April 2026]: https://modiphius.net/blogs/news/fallout-friday-april-24
 [May 2026]: https://modiphius.net/blogs/news/fallout-friday-may-22
+[June 2026]: https://modiphius.net/blogs/news/fallout-friday-june-26
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -1680,8 +1681,8 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 | Item                        |     Purchased      | Digital | Downloaded | Released        | Notes |
 | --------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [Dogmeat Painter's Bust]    |        :x:         |         |            | [January 2026]  |
-| [Nate Painter's Bust]       |        :x:         |         |            | [January 2026]  |
+| [Dogmeat Painter's Bust]    |        :x:         |         |            | [June 2026]     |
+| [Nate Painter's Bust]       |        :x:         |         |            | [June 2026]     |
 | [NCR Ranger Painter's Bust] |        :x:         |         |            | [December 2025] |
 | [T-60 Painter's Bust]       | :heavy_check_mark: |         |            | [December 2025] |
 
