@@ -178,12 +178,15 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item           | Purchased | Digital                      |     Downloaded     | Released                                | Notes |
 | -------------- | :-------: | ---------------------------- | :----------------: | --------------------------------------- | ----- |
+| Errata (v1.0)  |           |                              |        :x:         |                                         |
 | Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018                            |
-| Errata (v3.0)  |           |                              |        :x:         | [June 2019][DEVELOPMENT BLOG #27]       |
+| Errata (v3.0)  |           |                              | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27]       |
 | Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
 | Errata (v5.0)  |           |                              |        :x:         | [November 2020]                         |
 | Errata (v6.0)  |           | [Free :pdf:][Errata (v6.0)]  | :heavy_check_mark: | June 2022                               |
+| Errata (v7.0)  |           |                              |        :x:         |                                         |
 | Errata (v8.0)  |           | [Free :pdf:][Errata (v8.0)]  | :heavy_check_mark: | April 2023                              |
+| Errata (v9.0)  |           |                              | :heavy_check_mark: | October 2023                            |
 | Errata (v10.0) |           | [Free :pdf:][Errata (v10.0)] | :heavy_check_mark: | [April 2024]                            |
 
 [Errata (v2.0)]: https://web.archive.org/web/20191123170504/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_errata_faq_v.2.0_download.pdf
@@ -626,7 +629,7 @@ The Notebooks have printed versions of the version 1.0 Settlement Sheet. Downloa
 | Item                    | Purchased | Digital                               |     Downloaded     | Released      | Notes |
 | ----------------------- | :-------: | ------------------------------------- | :----------------: | ------------- | ----- |
 | Settlement Sheet (v1.0) |           | [Free :pdf:][Settlement Sheet (v1.0)] | :heavy_check_mark: | July 2019     |
-| Settlement Sheet (v2.0) |           |                                       |        :x:         | August 2019   |
+| Settlement Sheet (v2.0) |           |                                       | :heavy_check_mark: | August 2019   |
 | Settlement Sheet (v3.0) |           | [Free :pdf:][Settlement Sheet (v3.0)] | :heavy_check_mark: | December 2019 |
 | Settlement Sheet (v4.0) |           | [Free :pdf:][Settlement Sheet (v4.0)] | :heavy_check_mark: | October 2020  |
 
@@ -1929,7 +1932,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item          | Purchased | Digital                         |     Downloaded     | Released                                | Notes |
 | ------------- | :-------: | ------------------------------- | :----------------: | --------------------------------------- | ----- |
-| Errata (v1.0) |           |                                 |        :x:         | July 2019                               |
+| Errata (v1.0) |           |                                 | :heavy_check_mark: | June 2019                               |
 | Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)] | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
 | Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)] | :heavy_check_mark: | [November 2020]                         |
 
@@ -2218,7 +2221,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item                        | Purchased | Digital                                   |     Downloaded     | Released                            | Notes |
 | --------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------------------------------- | ----- |
 | Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
-| Gunners (v1.0)              |           |                                           |        :x:         | [June 2024]                         |
+| Gunners (v1.0)              |           |                                           | :heavy_check_mark: | [June 2024]                         |
 | Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
