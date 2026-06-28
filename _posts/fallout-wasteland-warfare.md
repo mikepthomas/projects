@@ -488,7 +488,7 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 | Item                                |     Purchased      | Digital | Downloaded | Released     | Notes |
 | ----------------------------------- | :----------------: | ------- | :--------: | ------------ | ----- |
-| [Robots: Assaultrons & Protectrons] |        :x:         |         |            | October 2019 |
+| [Robots: Assaultrons & Protectrons] | :heavy_check_mark: |         |            | October 2019 |
 | [Robots: Sentry Bot]                | :heavy_check_mark: |         |            | April 2019   |
 
 [Robots: Assaultrons & Protectrons]: https://modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons-protectrons
@@ -1351,7 +1351,7 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 | -------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
 | [Raiders: The Forged]                  | :heavy_check_mark: |         |            | [October 2022] |
 | [Super Mutants: Centaurs]              |        :x:         |         |            | [January 2023] |
-| [Survivors: Ghoul Settlers (The Slog)] |        :x:         |         |            | [October 2022] |
+| [Survivors: Ghoul Settlers (The Slog)] | :heavy_check_mark: |         |            | [October 2022] |
 | [Survivors: Jake Finch]                | :heavy_check_mark: |         |            | [October 2022] | Promo |
 
 [Raiders: The Forged]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-the-forged
