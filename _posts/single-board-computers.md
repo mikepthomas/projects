@@ -103,15 +103,6 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | [BigTreeTech Knomi V1.0](https://bttwiki.com/KNOMI.html)                       | [Voron 2.4](printer-voron-2.4) |         | [Knomi Firmware](https://github.com/bigtreetech/KNOMI/tree/master/KNOMI1/Firmware) |
 | [BigTreeTech Pi V1.2](https://biqu.equipment/products/bigtreetech-btt-pi-v1-2) |                                |         | [CB1](https://github.com/bigtreetech/CB1)                                          | With [U2C v1.0 CAN Adapter Module](https://docs.meteyou.wtf/btt-pi-u2c/) |
 
-# Custom
-
-![Board designed to add additional functionality to a Printer running Klipper firmware](/assets/blog/single-board-computers/klipper-expander.jpg)
-
-| Item                                                             | Case                           | Flashed with                                                  | Notes                                      |
-| ---------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------- | ------------------------------------------ |
-| [ERCF Easy BRD](https://github.com/Tircown/ERCF-easy-brd)        | [AM8](printer-am8)             | [Klipper Firmware](printer-klipper-firmware#easy-brd)         | by [Tircown](https://github.com/Tircown)   |
-| [Klipper Expander](https://github.com/timmit99/Klipper-Expander) | [Voron 1.8](printer-voron-1.8) | [Klipper Firmware](printer-klipper-firmware#klipper-expander) | by [timmit99](https://github.com/timmit99) |
-
 # Espressif
 
 ![A Relay board with a ATtiny85 and an ESP-01](/assets/blog/single-board-computers/wifi-arduino-85.jpg)

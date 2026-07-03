@@ -605,10 +605,6 @@
             "alt": "Retro telephone used as a guestbook at my wedding",
             "title": "Teensy Audio Guestbook"
           },
-          "klipper-expander.jpg": {
-            "title": "Klipper Expander",
-            "alt": "Board designed to add additional functionality to a Printer running Klipper firmware"
-          },
           "mellow-boards.jpg": {
             "title": "Mellow Boards",
             "alt": "3D Printer mainboards made by Mellow"
@@ -1263,6 +1259,292 @@
             "title": "Klipper Expander"
           }
         },
+        "printer-voron-2.4": {
+          "voron-design": {
+            "a-b-belts.jpg": {
+              "title": "A/B Belts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 A/B Belts"
+            },
+            "a-b-drives-and-idlers.jpg": {
+              "title": "A/B Drives and Idlers",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 A/B Drives and Idlers"
+            },
+            "controller-board.jpg": {
+              "title": "Controller Board",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Controller Board"
+            },
+            "electronics.jpg": {
+              "title": "Electronics",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Electronics"
+            },
+            "frame.jpg": {
+              "title": "Frame",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Frame"
+            },
+            "gantry.jpg": {
+              "title": "Gantry",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Gantry"
+            },
+            "panels.jpg": {
+              "title": "Panels",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Panels"
+            },
+            "print-bed.jpg": {
+              "title": "Print Bed",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Print Bed"
+            },
+            "skirts.jpg": {
+              "title": "Skirts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Skirts"
+            },
+            "wiring.jpg": {
+              "title": "Wiring",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "Image of the Voron 2.4 Wiring"
+            },
+            "z-axis.jpg": {
+              "title": "Z Axis",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Z Axis"
+            },
+            "z-drives.jpg": {
+              "title": "Z Drives",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron 2.4 Z Drives"
+            },
+            "fasteners.jpg": {
+              "title": "Fasteners",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "Description of the types of fasteners"
+            },
+            "motion.jpg": {
+              "title": "Motion",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "Description of the types of motion components"
+            }
+          },
+          "voron-hero.jpg": {
+            "title": "Voron Hero",
+            "alt": "LDO 2.4 Frame Assembled"
+          },
+          "ldo-hardware-kit.jpg": {
+            "title": "LDO Hardware Kit",
+            "alt": "A big ol' bag of nuts n' bolts"
+          },
+          "assembling-the-frame.jpg": {
+            "title": "Assembling The Frame",
+            "alt": "Using a flat glass surface to keep the frame square during assembly"
+          },
+          "bed-extrusions.jpg": {
+            "title": "Bed Extrusions",
+            "alt": "Adding the Angle Corner Connectors to the Bed Extrusions"
+          },
+          "preparing-the-parts-and-tools.jpg": {
+            "title": "Preparing the Parts and Tools",
+            "alt": "Getting all the parts and tools together to build the frame"
+          },
+          "square-frame-washers.jpg": {
+            "title": "Square Frame Washers",
+            "alt": "Square frame nuts to help stop extrusions from twisting"
+          },
+          "bearings-cleaning.jpg": {
+            "title": "Bearings Cleaning",
+            "alt": "Cleaning the bearings with IPA"
+          },
+          "bearings-assembled.jpg": {
+            "title": "Bearings Assembled",
+            "alt": "Bearings assembled and ready for installation"
+          },
+          "z-rails-installed.jpg": {
+            "title": "Z Rails Installed",
+            "alt": "Z Axis linear rails installed on the frame"
+          },
+          "deck-panel-support.jpg": {
+            "title": "Deck Panel Support",
+            "alt": "Adding support clips to the deck panel"
+          },
+          "deck-panel.jpg": {
+            "title": "Deck Panel",
+            "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions"
+          },
+          "adding-threaded-inserts.jpg": {
+            "title": "Adding Threaded Inserts",
+            "alt": "Using a soldering iron to add heatset inserts to 3D printed parts"
+          },
+          "assembling-z-drives.jpg": {
+            "title": "Assembling Z-Drives",
+            "alt": "Putting together the parts for the belts in the Z-Drives"
+          },
+          "eyedlers.jpg": { "title": "EYEdlers", "alt": "Z Idlers assembled" },
+          "z-drives-installed.jpg": {
+            "title": "Z Drives Installed",
+            "alt": "The Z Drives and feet installed on the printer"
+          },
+          "z-motor-installed.jpg": {
+            "title": "Z Motor Installed",
+            "alt": "One of the Z motors installed to the Z Drive"
+          },
+          "z-idlers-installed.jpg": {
+            "title": "Z Idlers Installed",
+            "alt": "The Z Idlers installed into the top extrustions of the printer"
+          },
+          "a-idler.jpg": {
+            "title": "A Idler",
+            "alt": "The A Idler and Belt Tentioner for the Flying Gantry"
+          },
+          "b-idler.jpg": {
+            "title": "B Idler",
+            "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
+          },
+          "a-drive.jpg": { "title": "A Drive", "alt": "A Drive Assembled" },
+          "b-drive.jpg": { "title": "B Drive", "alt": "B Drive Assembled" },
+          "xy-joint-right.jpg": {
+            "title": "X/Y Joint (Right)",
+            "alt": "Right X/Y Joint Assembled"
+          },
+          "xy-joint-left.jpg": {
+            "title": "X/Y Joint (Left)",
+            "alt": "Left X/Y Joint Assembled"
+          },
+          "rear-gantry-extrusion.jpg": {
+            "title": "Rear Gantry Extrusion",
+            "alt": "A and B drives attached to the rear gantry extrusion"
+          },
+          "y-axis-assembly.jpg": {
+            "title": "Y-Axis Assembly",
+            "alt": "Y rails and A/B idlers attached to the gantry"
+          },
+          "x-axis-installed.jpg": {
+            "title": "X-Axis Installed",
+            "alt": "X-Axis installed onto the gantry"
+          },
+          "titanium-backers.jpg": {
+            "title": "Titanium Backers",
+            "alt": "Titanium Backers Installed on the gantry"
+          },
+          "heated-bed-wagos.jpg": {
+            "title": "Heated Bed Wagos",
+            "alt": "Wago Holder to make removal of the heated bed easier"
+          },
+          "xy-endstop-pcb.jpg": {
+            "title": "X/Y Endstop PCB",
+            "alt": "Endstop pod for X/Y Endstop PCB"
+          },
+          "two-tone-rear-skirt.jpg": {
+            "title": "Two-tone Rear Skirt",
+            "alt": "Rear Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "power-inlet.jpg": {
+            "title": "Power Inlet",
+            "alt": "Power Inlet Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "piplate-skirt.jpg": {
+            "title": "PiPlate Skirt",
+            "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap"
+          },
+          "reinforced-gantry-mounts.jpg": {
+            "title": "Reinforced Gantry Mounts",
+            "alt": "Annex Engineering Reinforced Gantry Mounts"
+          },
+          "z-belts-prep.jpg": {
+            "title": "Z Belts Prep",
+            "alt": "Using Zip Ties to support the gantry whilst installing the belts"
+          },
+          "reinforced-gantry-mounts-installed.jpg": {
+            "title": "Reinforced Gantry Mounts Installed",
+            "alt": "Annex Enginnering Reinforced Gantry Mounts installed in the printer"
+          },
+          "z-belts-installed.jpg": {
+            "title": "Z Belts Installed",
+            "alt": "Z Belts installed in the printer"
+          },
+          "z-belt-clips.jpg": {
+            "title": "Z Belt Clips",
+            "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties"
+          }
+        },
+        "voron-afterburner": {
+          "afterburner-hero.jpg": {
+            "alt": "Afterburner Toolhead Assembled",
+            "title": "Afterburner Hero"
+          },
+          "voron-design": {
+            "afterburner-assembled.jpg": {
+              "title": "AfterBurner Assembled",
+              "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron AfterBurner Assembled"
+            }
+          },
+          "clockwork-assembled.jpg": {
+            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
+            "title": "Clockwork Assembled"
+          },
+          "clockwork-installed.jpg": {
+            "alt": "Clockwork 1 extruder installed",
+            "title": "Clockwork Installed"
+          }
+        },
+        "voron-hardware": {
+          "voron-hardware-hero.jpg": {
+            "alt": "Board designed to add additional functionality to a Printer running Klipper firmware",
+            "title": "Voron Hardware Hero"
+          }
+        },
+        "voron-m4": {
+          "m4-hero.jpg": {
+            "title": "M4 Hero",
+            "caption": "Image © 2019 [Voron Design](https://www.vorondesign.com)",
+            "alt": "3D render of the Voron M4 Extruder Assembled"
+          }
+        },
+        "voron-stealthburner": {
+          "stealthburner-hero.jpg": {
+            "title": "StealthBurner Hero",
+            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+            "alt": "3D render of the Voron StealthBurner Toolhead"
+          },
+          "voron-design": {
+            "axdl345-mount.jpg": {
+              "title": "ADXL345 Mount",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron StealthBurner ADXL345 Mount"
+            },
+            "clockwork-2.jpg": {
+              "title": "ClockWork 2",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron ClockWork 2"
+            },
+            "stealthburner.jpg": {
+              "title": "StealthBurner",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron StealthBurner"
+            },
+            "tool-cartridge.jpg": {
+              "title": "Tool Cartridge",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron StealthBurner Tool Cartridge"
+            },
+            "x-carriage.jpg": {
+              "title": "X Carriage",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron StealthBurner X Carriage"
+            },
+            "stealthburner-assembled.jpg": {
+              "title": "Stealthburner Assembled",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "alt": "3D render of the Voron StealthBurner Assembled"
+            }
+          }
+        },
         "enraged-rabbit-carrot-feeder-1.1": {
           "enraged-rabbit-carrot-patch.jpg": {
             "alt": "An assembled Enraged Rabbit Carrot Patch",
@@ -1570,286 +1852,6 @@
           "nevermore-filter-hero.jpg": {
             "alt": "Parts to build a Nevermore Filter",
             "title": "Nevermore Filter Hero"
-          }
-        },
-        "printer-voron-2.4": {
-          "voron-design": {
-            "a-b-belts.jpg": {
-              "title": "A/B Belts",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 A/B Belts"
-            },
-            "a-b-drives-and-idlers.jpg": {
-              "title": "A/B Drives and Idlers",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 A/B Drives and Idlers"
-            },
-            "controller-board.jpg": {
-              "title": "Controller Board",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Controller Board"
-            },
-            "electronics.jpg": {
-              "title": "Electronics",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Electronics"
-            },
-            "frame.jpg": {
-              "title": "Frame",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Frame"
-            },
-            "gantry.jpg": {
-              "title": "Gantry",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Gantry"
-            },
-            "panels.jpg": {
-              "title": "Panels",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Panels"
-            },
-            "print-bed.jpg": {
-              "title": "Print Bed",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Print Bed"
-            },
-            "skirts.jpg": {
-              "title": "Skirts",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Skirts"
-            },
-            "wiring.jpg": {
-              "title": "Wiring",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Image of the Voron 2.4 Wiring"
-            },
-            "z-axis.jpg": {
-              "title": "Z Axis",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Z Axis"
-            },
-            "z-drives.jpg": {
-              "title": "Z Drives",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Z Drives"
-            },
-            "fasteners.jpg": {
-              "title": "Fasteners",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Description of the types of fasteners"
-            },
-            "motion.jpg": {
-              "title": "Motion",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Description of the types of motion components"
-            }
-          },
-          "voron-hero.jpg": {
-            "title": "Voron Hero",
-            "alt": "LDO 2.4 Frame Assembled"
-          },
-          "ldo-hardware-kit.jpg": {
-            "title": "LDO Hardware Kit",
-            "alt": "A big ol' bag of nuts n' bolts"
-          },
-          "assembling-the-frame.jpg": {
-            "title": "Assembling The Frame",
-            "alt": "Using a flat glass surface to keep the frame square during assembly"
-          },
-          "bed-extrusions.jpg": {
-            "title": "Bed Extrusions",
-            "alt": "Adding the Angle Corner Connectors to the Bed Extrusions"
-          },
-          "preparing-the-parts-and-tools.jpg": {
-            "title": "Preparing the Parts and Tools",
-            "alt": "Getting all the parts and tools together to build the frame"
-          },
-          "square-frame-washers.jpg": {
-            "title": "Square Frame Washers",
-            "alt": "Square frame nuts to help stop extrusions from twisting"
-          },
-          "bearings-cleaning.jpg": {
-            "title": "Bearings Cleaning",
-            "alt": "Cleaning the bearings with IPA"
-          },
-          "bearings-assembled.jpg": {
-            "title": "Bearings Assembled",
-            "alt": "Bearings assembled and ready for installation"
-          },
-          "z-rails-installed.jpg": {
-            "title": "Z Rails Installed",
-            "alt": "Z Axis linear rails installed on the frame"
-          },
-          "deck-panel-support.jpg": {
-            "title": "Deck Panel Support",
-            "alt": "Adding support clips to the deck panel"
-          },
-          "deck-panel.jpg": {
-            "title": "Deck Panel",
-            "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions"
-          },
-          "adding-threaded-inserts.jpg": {
-            "title": "Adding Threaded Inserts",
-            "alt": "Using a soldering iron to add heatset inserts to 3D printed parts"
-          },
-          "assembling-z-drives.jpg": {
-            "title": "Assembling Z-Drives",
-            "alt": "Putting together the parts for the belts in the Z-Drives"
-          },
-          "eyedlers.jpg": { "title": "EYEdlers", "alt": "Z Idlers assembled" },
-          "z-drives-installed.jpg": {
-            "title": "Z Drives Installed",
-            "alt": "The Z Drives and feet installed on the printer"
-          },
-          "z-motor-installed.jpg": {
-            "title": "Z Motor Installed",
-            "alt": "One of the Z motors installed to the Z Drive"
-          },
-          "z-idlers-installed.jpg": {
-            "title": "Z Idlers Installed",
-            "alt": "The Z Idlers installed into the top extrustions of the printer"
-          },
-          "a-idler.jpg": {
-            "title": "A Idler",
-            "alt": "The A Idler and Belt Tentioner for the Flying Gantry"
-          },
-          "b-idler.jpg": {
-            "title": "B Idler",
-            "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
-          },
-          "a-drive.jpg": { "title": "A Drive", "alt": "A Drive Assembled" },
-          "b-drive.jpg": { "title": "B Drive", "alt": "B Drive Assembled" },
-          "xy-joint-right.jpg": {
-            "title": "X/Y Joint (Right)",
-            "alt": "Right X/Y Joint Assembled"
-          },
-          "xy-joint-left.jpg": {
-            "title": "X/Y Joint (Left)",
-            "alt": "Left X/Y Joint Assembled"
-          },
-          "rear-gantry-extrusion.jpg": {
-            "title": "Rear Gantry Extrusion",
-            "alt": "A and B drives attached to the rear gantry extrusion"
-          },
-          "y-axis-assembly.jpg": {
-            "title": "Y-Axis Assembly",
-            "alt": "Y rails and A/B idlers attached to the gantry"
-          },
-          "x-axis-installed.jpg": {
-            "title": "X-Axis Installed",
-            "alt": "X-Axis installed onto the gantry"
-          },
-          "titanium-backers.jpg": {
-            "title": "Titanium Backers",
-            "alt": "Titanium Backers Installed on the gantry"
-          },
-          "heated-bed-wagos.jpg": {
-            "title": "Heated Bed Wagos",
-            "alt": "Wago Holder to make removal of the heated bed easier"
-          },
-          "xy-endstop-pcb.jpg": {
-            "title": "X/Y Endstop PCB",
-            "alt": "Endstop pod for X/Y Endstop PCB"
-          },
-          "two-tone-rear-skirt.jpg": {
-            "title": "Two-tone Rear Skirt",
-            "alt": "Rear Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "power-inlet.jpg": {
-            "title": "Power Inlet",
-            "alt": "Power Inlet Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "piplate-skirt.jpg": {
-            "title": "PiPlate Skirt",
-            "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "reinforced-gantry-mounts.jpg": {
-            "title": "Reinforced Gantry Mounts",
-            "alt": "Annex Engineering Reinforced Gantry Mounts"
-          },
-          "z-belts-prep.jpg": {
-            "title": "Z Belts Prep",
-            "alt": "Using Zip Ties to support the gantry whilst installing the belts"
-          },
-          "reinforced-gantry-mounts-installed.jpg": {
-            "title": "Reinforced Gantry Mounts Installed",
-            "alt": "Annex Enginnering Reinforced Gantry Mounts installed in the printer"
-          },
-          "z-belts-installed.jpg": {
-            "title": "Z Belts Installed",
-            "alt": "Z Belts installed in the printer"
-          },
-          "z-belt-clips.jpg": {
-            "title": "Z Belt Clips",
-            "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties"
-          }
-        },
-        "voron-afterburner": {
-          "afterburner-hero.jpg": {
-            "alt": "Afterburner Toolhead Assembled",
-            "title": "Afterburner Hero"
-          },
-          "voron-design": {
-            "afterburner-assembled.jpg": {
-              "title": "AfterBurner Assembled",
-              "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron AfterBurner Assembled"
-            }
-          },
-          "clockwork-assembled.jpg": {
-            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
-            "title": "Clockwork Assembled"
-          },
-          "clockwork-installed.jpg": {
-            "alt": "Clockwork 1 extruder installed",
-            "title": "Clockwork Installed"
-          }
-        },
-        "voron-m4": {
-          "m4-hero.jpg": {
-            "title": "M4 Hero",
-            "caption": "Image © 2019 [Voron Design](https://www.vorondesign.com)",
-            "alt": "3D render of the Voron M4 Extruder Assembled"
-          }
-        },
-        "voron-stealthburner": {
-          "stealthburner-hero.jpg": {
-            "title": "StealthBurner Hero",
-            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-            "alt": "3D render of the Voron StealthBurner Toolhead"
-          },
-          "voron-design": {
-            "axdl345-mount.jpg": {
-              "title": "ADXL345 Mount",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner ADXL345 Mount"
-            },
-            "clockwork-2.jpg": {
-              "title": "ClockWork 2",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron ClockWork 2"
-            },
-            "stealthburner.jpg": {
-              "title": "StealthBurner",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner"
-            },
-            "tool-cartridge.jpg": {
-              "title": "Tool Cartridge",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner Tool Cartridge"
-            },
-            "x-carriage.jpg": {
-              "title": "X Carriage",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner X Carriage"
-            },
-            "stealthburner-assembled.jpg": {
-              "title": "Stealthburner Assembled",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner Assembled"
-            }
           }
         },
         "horology": {
