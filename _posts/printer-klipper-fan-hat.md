@@ -68,47 +68,47 @@ The reference numbers in the notes field refer to the parts required marked on t
 ## Fasteners
 
 | Item                | Quantity | Received | Notes                                              |
-| ------------------- | -------- | -------- | -------------------------------------------------- |
-| M2.5x6 BHCS         | 4        | 50       | To mount the hat to the Raspberry Pi               |
-| M2.5x14 BHCS        | 4        | 10       | To mount the Fan                                   |
-| M2.5 Nut            | 4        | 50       | To mount the Fan                                   |
-| M2.5 Brass Standoff | 4        | 16       | To stop the fan inputs shorting on the HDMI Socket |
+| ------------------- | -------: | -------: | -------------------------------------------------- |
+| M2.5x6 BHCS         |        4 |       50 | To mount the hat to the Raspberry Pi               |
+| M2.5x14 BHCS        |        4 |       10 | To mount the Fan                                   |
+| M2.5 Nut            |        4 |       50 | To mount the Fan                                   |
+| M2.5 Brass Standoff |        4 |       16 | To stop the fan inputs shorting on the HDMI Socket |
 
 ## Connectors
 
-| Item                              | Quantity | Received           | Notes                           |
-| --------------------------------- | -------- | ------------------ | ------------------------------- |
-| 2 Pin JST-XH Header               | 5        | 20                 | FAN1-FAN5                       |
-| 3 Pin JST-XH Header               | 1        | 20                 | J4                              |
-| 4 Pin JST-XH Header               | 1        | 20                 | J3                              |
-| 5 Pin JST-XH Header               | 1        | 20                 | J2                              |
-| 40 Pin Raspberry Pi Header        | 1        | 7                  | J8                              |
-| Dupont Pin Headers                | 41 Pins  | 10 x 40 pin strips | J7, JP1-JP5, WP1, GPIO20-GPIO25 |
-| Jumper Cap 2.54mm                 | 6        | 109                | JP1-JP5, WP1                    |
-| KF301 Screw Terminal (5mm pitch)  | 1        | 10                 | J1                              |
-| PCB Panel Mount Blade Fuse Holder | 1        | 10                 | F1                              |
+| Item                              | Quantity |           Received | Notes                           |
+| --------------------------------- | -------: | -----------------: | ------------------------------- |
+| 2 Pin JST-XH Header               |        5 |                 20 | FAN1-FAN5                       |
+| 3 Pin JST-XH Header               |        1 |                 20 | J4                              |
+| 4 Pin JST-XH Header               |        1 |                 20 | J3                              |
+| 5 Pin JST-XH Header               |        1 |                 20 | J2                              |
+| 40 Pin Raspberry Pi Header        |        1 |                  7 | J8                              |
+| Dupont Pin Headers                |  41 Pins | 10 x 40 pin strips | J7, JP1-JP5, WP1, GPIO20-GPIO25 |
+| Jumper Cap 2.54mm                 |        6 |                109 | JP1-JP5, WP1                    |
+| KF301 Screw Terminal (5mm pitch)  |        1 |                 10 | J1                              |
+| PCB Panel Mount Blade Fuse Holder |        1 |                 10 | F1                              |
 
 ## SMD Components
 
 | Item                                    | Quantity | Received | Notes                  |
-| --------------------------------------- | -------- | -------- | ---------------------- |
-| 100nF Capacitor (1206 Package)          | 1        | 20       | C1                     |
-| 100Ω Resistor (1206 Package)            | 5        | 123      | R7, R9, R11, R13, R15  |
-| 1kΩ Resistor (1206 Package)             | 1        | 127      | R1                     |
-| 3.9kΩ Resistor (1206 Package)           | 2        | 112      | R2-R3                  |
-| 4.7kΩ Resistor (1206 Package)           | 7        | 103      | R4, R17-R22            |
-| 10kΩ Resistor (1206 Package)            | 5        | 111      | R8, R10, R12, R14, R16 |
-| LED Red (1206 Package)                  | 7        | 105      | D1-D7                  |
-| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 100      | Q1-Q5                  |
+| --------------------------------------- | -------: | -------: | ---------------------- |
+| 100nF Capacitor (1206 Package)          |        1 |       20 | C1                     |
+| 100Ω Resistor (1206 Package)            |        5 |      123 | R7, R9, R11, R13, R15  |
+| 1kΩ Resistor (1206 Package)             |        1 |      127 | R1                     |
+| 3.9kΩ Resistor (1206 Package)           |        2 |      112 | R2-R3                  |
+| 4.7kΩ Resistor (1206 Package)           |        7 |      103 | R4, R17-R22            |
+| 10kΩ Resistor (1206 Package)            |        5 |      111 | R8, R10, R12, R14, R16 |
+| LED Red (1206 Package)                  |        7 |      105 | D1-D7                  |
+| IRLML6344-TRPBF Mosfet (SOT-23 Package) |        5 |      100 | Q1-Q5                  |
 
 ## Misc
 
 | Item                       | Quantity | Received | Notes                                                                   |
-| -------------------------- | -------- | -------- | ----------------------------------------------------------------------- |
-| 2510 Axial Fan             | 1        | 2        |                                                                         |
-| CAT24C32 EEPROM            | 1        | 15       | U1                                                                      |
-| DIP-8 Socket               | 1        | 20       | Not required, but makes switching EEPROM modules out easier for testing |
-| DS18B20 Temperature Sensor | 1        | 15       |                                                                         |
+| -------------------------- | -------: | -------: | ----------------------------------------------------------------------- |
+| 2510 Axial Fan             |        1 |        2 |
+| CAT24C32 EEPROM            |        1 |       15 | U1                                                                      |
+| DIP-8 Socket               |        1 |       20 | Not required, but makes switching EEPROM modules out easier for testing |
+| DS18B20 Temperature Sensor |        1 |       15 |
 
 ![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 

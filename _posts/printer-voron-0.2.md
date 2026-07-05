@@ -34,32 +34,32 @@ However I have now subsequently upgraded many of the parts with electronics, fas
 Fasteners are the parts needed to hold the 3D printed parts together and to the frame.
 
 | Item                                      | Quantity | Received | Notes                                   |
-| ----------------------------------------- | -------- | -------- | --------------------------------------- |
-| 3x6x0.5 Shim Washer                       | 50       | 39       | In [LDO V0.2-S1 Fastener Kit]           |
-| M2x4 SHCS                                 |          | 8        | To Mount [LDO Kirigami Bed] to Z-Rails  |
-| M2x6 FHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit]           |
-| M2x6 SHCS                                 | 70       | 74       | In [LDO V0.2-S1 Fastener Kit]           |
-| M2x8 SHCS                                 | 10       | 12       | In [LDO V0.2-S1 Fastener Kit]           |
-| M2x10 Self Tapping Screws for Plastic     | 30       | 35       | In [LDO V0.2-S1 Fastener Kit]           |
-| ~M2 Nut~                                  | ~55~     |          | Not required, when using Nut Bar Mounts |
-| M2.5x6 BHCS                               |          | 6        | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x6 BHCS                                 | 40       | 63       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x8 BHCS                                 | 115      | 135      | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x8 FHCS                                 | 5        | 7        | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x10 BHCS                                | 50       | 37       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x12 BHCS                                | 25       | 33       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x16 BHCS                                | 10       | 11       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x25 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x30 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x35 BHCS                                | 30       | 33       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x40 BHCS                                | 10       | 12       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3x50 BHCS                                |          | 2        | In [LDO V0.2-S1 Fastener Kit]           |
-| M3 Brass heatstake inserts - short M3x5x4 | 50       | 60       | In [LDO V0.2-S1 Fastener Kit]           |
-| M3 LDO Slide In Nut                       |          | 100      | In [LDO V0.2-S1 Fastener Kit]           |
-| M3 Lock Nut                               |          | 6        | In [LDO V0.2-S1 Fastener Kit]           |
-| M3 Nut                                    | 140      | 155      | In [LDO V0.2-S1 Fastener Kit]           |
-| M3 Thumb Nut                              |          | 3        | In [LDO V0.2-S1 Fastener Kit]           |
-| Makerbeam XL M3 t-nut                     | 2        | 3        | In [LDO V0.2-S1 Fastener Kit]           |
+| ----------------------------------------- | -------: | -------: | --------------------------------------- |
+| 3x6x0.5 Shim Washer                       |       50 |       39 | In [LDO V0.2-S1 Fastener Kit]           |
+| M2x4 SHCS                                 |          |        8 | To Mount [LDO Kirigami Bed] to Z-Rails  |
+| M2x6 FHCS                                 |       10 |       12 | In [LDO V0.2-S1 Fastener Kit]           |
+| M2x6 SHCS                                 |       70 |       74 | In [LDO V0.2-S1 Fastener Kit]           |
+| M2x8 SHCS                                 |       10 |       12 | In [LDO V0.2-S1 Fastener Kit]           |
+| M2x10 Self Tapping Screws for Plastic     |       30 |       35 | In [LDO V0.2-S1 Fastener Kit]           |
+| ~M2 Nut~                                  |     ~55~ |          | Not required, when using Nut Bar Mounts |
+| M2.5x6 BHCS                               |          |        6 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x6 BHCS                                 |       40 |       63 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x8 BHCS                                 |      115 |      135 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x8 FHCS                                 |        5 |        7 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x10 BHCS                                |       50 |       37 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x12 BHCS                                |       25 |       33 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x16 BHCS                                |       10 |       11 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x25 BHCS                                |       10 |       12 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x30 BHCS                                |       10 |       12 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x35 BHCS                                |       30 |       33 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x40 BHCS                                |       10 |       12 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3x50 BHCS                                |          |        2 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3 Brass heatstake inserts - short M3x5x4 |       50 |       60 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3 LDO Slide In Nut                       |          |      100 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3 Lock Nut                               |          |        6 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3 Nut                                    |      140 |      155 | In [LDO V0.2-S1 Fastener Kit]           |
+| M3 Thumb Nut                              |          |        3 | In [LDO V0.2-S1 Fastener Kit]           |
+| Makerbeam XL M3 t-nut                     |        2 |        3 | In [LDO V0.2-S1 Fastener Kit]           |
 
 > [!NOTE]
 >
@@ -75,19 +75,19 @@ Fasteners are the parts needed to hold the 3D printed parts together and to the 
 Optional CNC Metal parts to replace some of the 3D printed ones.
 
 | Item                               | Quantity | Received | Notes |
-| ---------------------------------- | -------- | -------- | ----- |
-| Fysetc Profile Installation Helper |          | 1        |
-| Siboor CNC Slide Back Plate        |          | 1        |
+| ---------------------------------- | -------: | -------: | ----- |
+| Fysetc Profile Installation Helper |          |        1 |
+| Siboor CNC Slide Back Plate        |          |        1 |
 
 ## Frame Extrusions
 
 The metal skeleton all the rest of the parts are attached to.
 
 | Item                       | Quantity | Received | Notes                                          |
-| -------------------------- | -------- | -------- | ---------------------------------------------- |
-| Kirigami Bed Mount         |          | 1        | [LDO Kirigami Bed]                             |
-| ~Makerbeam XL 15x15 100mm~ | ~3~      |          | Not required, Using [LDO Kirigami Bed] instead |
-| Makerbeam XL 15x15 200mm   | 16       | 16       | In [LDO V0.2 Frame Kit]                        |
+| -------------------------- | -------: | -------: | ---------------------------------------------- |
+| Kirigami Bed Mount         |          |        1 | [LDO Kirigami Bed]                             |
+| ~Makerbeam XL 15x15 100mm~ |      ~3~ |          | Not required, Using [LDO Kirigami Bed] instead |
+| Makerbeam XL 15x15 200mm   |       16 |       16 | In [LDO V0.2 Frame Kit]                        |
 
 > [!NOTE]
 >
@@ -100,9 +100,9 @@ The metal skeleton all the rest of the parts are attached to.
 ## Extrusion Tophat Frame Extrusions
 
 | Item                        | Quantity | Received | Notes                          |
-| --------------------------- | -------- | -------- | ------------------------------ |
-| Makerbeam XL 15x15 80-100mm | 4        | 4        | 100mm, In [LDO V0.2 Frame Kit] |
-| Makerbeam XL 15x15 200mm    | 4        | 4        | In [LDO V0.2 Frame Kit]        |
+| --------------------------- | -------: | -------: | ------------------------------ |
+| Makerbeam XL 15x15 80-100mm |        4 |        4 | 100mm, In [LDO V0.2 Frame Kit] |
+| Makerbeam XL 15x15 200mm    |        4 |        4 | In [LDO V0.2 Frame Kit]        |
 
 > [!NOTE]
 > All extrusions are from the [LDO V0.2 Frame Kit].
@@ -112,28 +112,28 @@ The metal skeleton all the rest of the parts are attached to.
 These are all the Electrical components that make the Printer work such as Circuit Boards, Motors, and Switches.
 
 | Item                                                     | Quantity | Received | Notes                                          |
-| -------------------------------------------------------- | -------- | -------- | ---------------------------------------------- |
-| 100R resistor PCB for NeoPixels                          |          | 2        | Linneo PCB with 100 Ohm resistor for Neopixels |
-| 24V Heater Cartridge                                     | 1        | 1        |
-| 3010 blower fans 24V                                     | 2        | 2        | [GDSTime 3010 Blower Fans]                     |
-| 3010 axial fan 24V                                       | 2        | 2        | [LDO 3010 Axial Fan]                           |
-| 3510 axial fan 24V                                       |          | 4        | [GDSTime 3510 Axial Fans] for Stealth Skirts   |
-| 3M 5952 VHB tape                                         | 1        | 1        |
-| Bigtreetech SKR Pico                                     | 1        | 1        |
-| C13 Power Cord                                           | 1        | 1        |
-| ~ECAS04 Bowden Fitting~                                  | ~1~      |          | Not required with Stealth Skirts               |
-| Hotend                                                   | 1        | 1        |
-| Hotend thermistor                                        | 1        | 1        |
-| IEC320 C14 inlet                                         | 1        | 1        | Yellow Switch                                  |
-| Meanwell LRS-150-24                                      | 1        | 1        |
-| MicroSD Card                                             | 1        | 1        |
-| NEMA14 Stepper Motor 40Ncm                               | 2        | 2        | LDO-35STH48-1684AH                             |
-| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | 1        | 1        | [LDO-42STH25-1004CL200ET(VRN) Teflon Coat]     |
-| Neopixel Sequins                                         |          | 2        | FYSETC Neopixel Sequins with RGB               |
-| Omron Mouse Button - Micro Switch                        | 1        | 1        |
-| Raspberry Pi 4                                           | 1        | 1        |
-| V0 Display                                               | 1        | 1        |
-| Wago connectors (221-412)                                |          | 2        |
+| -------------------------------------------------------- | -------: | -------: | ---------------------------------------------- |
+| 100R resistor PCB for NeoPixels                          |          |        2 | Linneo PCB with 100 Ohm resistor for Neopixels |
+| 24V Heater Cartridge                                     |        1 |        1 |
+| 3010 blower fans 24V                                     |        2 |        2 | [GDSTime 3010 Blower Fans]                     |
+| 3010 axial fan 24V                                       |        2 |        2 | [LDO 3010 Axial Fan]                           |
+| 3510 axial fan 24V                                       |          |        4 | [GDSTime 3510 Axial Fans] for Stealth Skirts   |
+| 3M 5952 VHB tape                                         |        1 |        1 |
+| Bigtreetech SKR Pico                                     |        1 |        1 |
+| C13 Power Cord                                           |        1 |        1 |
+| ~ECAS04 Bowden Fitting~                                  |      ~1~ |          | Not required with Stealth Skirts               |
+| Hotend                                                   |        1 |        1 |
+| Hotend thermistor                                        |        1 |        1 |
+| IEC320 C14 inlet                                         |        1 |        1 | Yellow Switch                                  |
+| Meanwell LRS-150-24                                      |        1 |        1 |
+| MicroSD Card                                             |        1 |        1 |
+| NEMA14 Stepper Motor 40Ncm                               |        2 |        2 | LDO-35STH48-1684AH                             |
+| NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 |        1 |        1 | [LDO-42STH25-1004CL200ET(VRN) Teflon Coat]     |
+| Neopixel Sequins                                         |          |        2 | FYSETC Neopixel Sequins with RGB               |
+| Omron Mouse Button - Micro Switch                        |        1 |        1 |
+| Raspberry Pi 4                                           |        1 |        1 |
+| V0 Display                                               |        1 |        1 |
+| Wago connectors (221-412)                                |          |        2 |
 
 [GDSTime 3010 Blower Fans]: http://www.gdstime.com/list_45/139.html 'GDSTime 3010 Blower Fan'
 [GDSTime 3510 Axial Fans]: http://www.gdstime.com/pro1/64.html 'GDSTime 3510 Axial Fan'
@@ -145,18 +145,18 @@ These are all the Electrical components that make the Printer work such as Circu
 The Wiring and Connectors required to connect them all of the Electronics together.
 
 | Item                                               | Quantity | Received | Notes                                       |
-| -------------------------------------------------- | -------- | -------- | ------------------------------------------- |
-| 7mm x 7mm cable chain (less than 1/2 meter needed) | 1        | 1        | [Veekaft Brand]                             |
-| Cable Clips                                        |          | 5        | Replace with [Cable Trunking Raceway Kit]   |
-| High Flex Wire 22gauge 100ft                       | 1        |          | Kit comes with pre-made wiring harness      |
-| High Flex Wire 20gauge 10ft                        | 1        |          | Kit comes with pre-made wiring harness      |
-| Insulated Crimp Receptical                         | 4        |          | Kit comes with pre-made wiring harness      |
-| JST connectors (2pin 3pin 4pin)                    | ?        |          | Kit comes with pre-made wiring harness      |
-| Microfit3 Dual Row (10circuits) Male & Female Plug | 1        |          | Kit comes with pre-made wiring harness      |
-| Nylon Cable Ties (1.8mm wide or smaller)           | 50       | 100      |
-| Thermal Fuse 150C                                  | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit` |
-| Umbilical PCB Boards                               |          | 1        | [LDO Picobilical PCB kit]                   |
-| Wire 18gauge 10ft                                  | 1        |          | Kit comes with pre-made wiring harness      |
+| -------------------------------------------------- | -------: | -------: | ------------------------------------------- |
+| 7mm x 7mm cable chain (less than 1/2 meter needed) |        1 |        1 | [Veekaft Brand]                             |
+| Cable Clips                                        |          |        5 | Replace with [Cable Trunking Raceway Kit]   |
+| High Flex Wire 22gauge 100ft                       |        1 |          | Kit comes with pre-made wiring harness      |
+| High Flex Wire 20gauge 10ft                        |        1 |          | Kit comes with pre-made wiring harness      |
+| Insulated Crimp Receptical                         |        4 |          | Kit comes with pre-made wiring harness      |
+| JST connectors (2pin 3pin 4pin)                    |        ? |          | Kit comes with pre-made wiring harness      |
+| Microfit3 Dual Row (10circuits) Male & Female Plug |        1 |          | Kit comes with pre-made wiring harness      |
+| Nylon Cable Ties (1.8mm wide or smaller)           |       50 |      100 |
+| Thermal Fuse 150C                                  |        1 |        1 | In `LDO Voron V0.1 Build Plate & Parts Kit` |
+| Umbilical PCB Boards                               |          |        1 | [LDO Picobilical PCB kit]                   |
+| Wire 18gauge 10ft                                  |        1 |          | Kit comes with pre-made wiring harness      |
 
 > [!NOTE]
 > I ordered [Veekaft Brand] cable chains specifying a Bending Radius of `R15`.
@@ -170,13 +170,13 @@ The Wiring and Connectors required to connect them all of the Electronics togeth
 The Motion Components are Bearings, Gears, and Pulleys that the moving parts of the printer ride upon, including Linear Rails and Belts.
 
 | Item                                    | Quantity | Received | Notes                        |
-| --------------------------------------- | -------- | -------- | ---------------------------- |
-| F623-RS Bearing                         | 24       | 30       | [Fushi Bearings]             |
-| GT2 20T (5mm ID 6mm W)                  | 2        | 2        |
-| GT2 Open Belt (6mm W) - 3000mm          | 1        | 1        |
-| MGN7H Linear Rail with Carriage - 150mm | 5        | 5        | [LDO SLR7H-1R-150Z0]         |
-| Nut Bar Mounts                          |          | 5        | [LDO V0.2 Nut Bar Mount Kit] |
-| T8x8 Anti-backlash Flange Nut           | 1        | 1        |
+| --------------------------------------- | -------: | -------: | ---------------------------- |
+| F623-RS Bearing                         |       24 |       30 | [Fushi Bearings]             |
+| GT2 20T (5mm ID 6mm W)                  |        2 |        2 |
+| GT2 Open Belt (6mm W) - 3000mm          |        1 |        1 |
+| MGN7H Linear Rail with Carriage - 150mm |        5 |        5 | [LDO SLR7H-1R-150Z0]         |
+| Nut Bar Mounts                          |          |        5 | [LDO V0.2 Nut Bar Mount Kit] |
+| T8x8 Anti-backlash Flange Nut           |        1 |        1 |
 
 [Fushi Bearings]: https://www.aliexpress.com/item/4001227123701.html 'Fushi Bearings For VORON 0 Motion from Ali Express'
 [LDO SLR7H-1R-150Z0]: https://www.onetwo3d.co.uk/product/voron-0-linear-rail-kit-by-ldo 'Voron 0.1 & 0.2 Linear Rail Kit by LDO from OneTwo3D'
@@ -186,13 +186,13 @@ The Motion Components are Bearings, Gears, and Pulleys that the moving parts of 
 The Heated Print Bed components.
 
 | Item                                                     | Quantity | Received | Notes                                                          |
-| -------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------- |
-| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
-| MIC6 1/4" Plate - 120x120mm                              | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
-| ~PEI + 3M 468MP (200MP)~                                 | ~1~      |          | Not required as using Powder Coated Flex Buildplate            |
-| Silicone DC 24V Heater 100x100mm 60W                     | 1        | 1        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
-| Spring Steel Flex Buildplate 120x120mm (OPTIONAL)        | 1        | 1        | Ultistik Premium ULTEM (PEI) Powder Coated Heatbed Steel Sheet |
-| Yellow die springs 8x4x20mm                              | 3        | 3        | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
+| -------------------------------------------------------- | -------: | -------: | -------------------------------------------------------------- |
+| Magnetic sheet for spring steel plate 120x120 (OPTIONAL) |        1 |        1 | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
+| MIC6 1/4" Plate - 120x120mm                              |        1 |        1 | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
+| ~PEI + 3M 468MP (200MP)~                                 |      ~1~ |          | Not required as using Powder Coated Flex Buildplate            |
+| Silicone DC 24V Heater 100x100mm 60W                     |        1 |        1 | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
+| Spring Steel Flex Buildplate 120x120mm (OPTIONAL)        |        1 |        1 | Ultistik Premium ULTEM (PEI) Powder Coated Heatbed Steel Sheet |
+| Yellow die springs 8x4x20mm                              |        3 |        3 | In `LDO Voron V0.1 Build Plate & Parts Kit`                    |
 
 > [!NOTE]
 > All parts are from the `LDO Voron V0.1 Build Plate & Parts Kit`.
@@ -202,17 +202,17 @@ The Heated Print Bed components.
 The Acrylic Sheets to fully enclose the printer, ensuring the correct chamber temperatures, and to reduce draughts to be able to print ABS.
 
 | Item                                        | Quantity | Received | Notes                                               |
-| ------------------------------------------- | -------- | -------- | --------------------------------------------------- |
-| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ | ~2~      |          | Not required as using [Linneo RGBW LED Side Panels] |
-| ~Acrylic Sheet Clear (door) - 212x239x3mm~  | ~1~      |          | Not required as using [LDO Mini-Fridge Door Kit]    |
-| Acrylic Sheet Smoked - 168x180x3mm          |          | 2        | [Linneo RGBW LED Side Panels]                       |
-| Bottom Panel 3mm thick (See DXF)            | 1        | 1        | [Linneo Orange ACM Panels]                          |
-| Deck Panel 3mm thick (See DXF)              | 1        | 1        | [Linneo Orange ACM Panels]                          |
-| Lower Rear Panel 212x185x3mm                | 1        | 1        | [Linneo Orange ACM Panels]                          |
-| Mid Panel 3mm thick (See DXF)               | 1        | 1        | [Linneo Orange ACM Panels]                          |
-| ~Motor Panel 3mm thick (See DXF)~           | ~1~      |          | Not required as using [LDO Picobilical PCB kit]     |
-| RGBW LED Side Panel PCB                     |          | 2        | [Linneo RGBW LED Side Panels]                       |
-| Upper Rear Panel 212x63x3mm                 | 1        | 1        | [Linneo Orange ACM Panels]                          |
+| ------------------------------------------- | -------: | -------: | --------------------------------------------------- |
+| ~Acrylic Sheet Clear (sides) - 212x230x3mm~ |      ~2~ |          | Not required as using [Linneo RGBW LED Side Panels] |
+| ~Acrylic Sheet Clear (door) - 212x239x3mm~  |      ~1~ |          | Not required as using [LDO Mini-Fridge Door Kit]    |
+| Acrylic Sheet Smoked - 168x180x3mm          |          |        2 | [Linneo RGBW LED Side Panels]                       |
+| Bottom Panel 3mm thick (See DXF)            |        1 |        1 | [Linneo Orange ACM Panels]                          |
+| Deck Panel 3mm thick (See DXF)              |        1 |        1 | [Linneo Orange ACM Panels]                          |
+| Lower Rear Panel 212x185x3mm                |        1 |        1 | [Linneo Orange ACM Panels]                          |
+| Mid Panel 3mm thick (See DXF)               |        1 |        1 | [Linneo Orange ACM Panels]                          |
+| ~Motor Panel 3mm thick (See DXF)~           |      ~1~ |          | Not required as using [LDO Picobilical PCB kit]     |
+| RGBW LED Side Panel PCB                     |          |        2 | [Linneo RGBW LED Side Panels]                       |
+| Upper Rear Panel 212x63x3mm                 |        1 |        1 | [Linneo Orange ACM Panels]                          |
 
 > [!WARNING]
 > Some of these parts are not required as I will be using the
@@ -227,27 +227,27 @@ The Acrylic Sheets to fully enclose the printer, ensuring the correct chamber te
 ## Bowden
 
 | Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Bowden Fitting         | 2        | 2        |
-| Bowden Tube 4x3mm - 1m | 1        | 1        |
+| ---------------------- | -------: | -------: | ----- |
+| Bowden Fitting         |        2 |        2 |
+| Bowden Tube 4x3mm - 1m |        1 |        1 |
 
 ## Misc
 
 Miscellaneous parts needed to assemble the printer such as Adhesives, Tape, and Lubricants.
 
 | Item                              | Quantity | Received | Notes |
-| --------------------------------- | -------- | -------- | ----- |
-| 6mm x 3mm Round Neodymium Magnets | 8        | 10       |
-| Bowden Tube 4x2mm - 1m            | 1        | 1        |
-| Little Rubber Feet                | 4        | 4        |
-| Medium Strength Thread Locker     | 1        | 1        |
+| --------------------------------- | -------: | -------: | ----- |
+| 6mm x 3mm Round Neodymium Magnets |        8 |       10 |
+| Bowden Tube 4x2mm - 1m            |        1 |        1 |
+| Little Rubber Feet                |        4 |        4 |
+| Medium Strength Thread Locker     |        1 |        1 |
 
 ## Extrusion Tophat Panels
 
 | Item                      | Quantity | Received | Notes                                                                                         |
-| ------------------------- | -------- | -------- | --------------------------------------------------------------------------------------------- |
-| Side Panels 212x(71-91)mm | ~4~ 3    | 4        | 91mm, [Linneo 100mm Top Hat Kit]. 1 Not required as I am using the [LDO Mini-Fridge Door Kit] |
-| Top Panel 212x212mm       | 1        | 1        | [Linneo 100mm Top Hat Kit]                                                                    |
+| ------------------------- | -------: | -------: | --------------------------------------------------------------------------------------------- |
+| Side Panels 212x(71-91)mm |    ~4~ 3 |        4 | 91mm, [Linneo 100mm Top Hat Kit]. 1 Not required as I am using the [LDO Mini-Fridge Door Kit] |
+| Top Panel 212x212mm       |        1 |        1 | [Linneo 100mm Top Hat Kit]                                                                    |
 
 > [!NOTE]
 > All parts are from the [Linneo 100mm Top Hat Kit].
@@ -257,24 +257,24 @@ Miscellaneous parts needed to assemble the printer such as Adhesives, Tape, and 
 ## Extruder
 
 | Item                                         | Quantity | Received | Notes               |
-| -------------------------------------------- | -------- | -------- | ------------------- |
-| Bondtech BMG Extruder Kit                    | 1        | 1        |
-| MR85 Bearing                                 | 2        | 2        |
-| NEMA14 36mm pancake Motor with 10 tooth gear | 1        | 1        | LDO-36STH20-1004AHG |
+| -------------------------------------------- | -------: | -------: | ------------------- |
+| Bondtech BMG Extruder Kit                    |        1 |        1 |
+| MR85 Bearing                                 |        2 |        2 |
+| NEMA14 36mm pancake Motor with 10 tooth gear |        1 |        1 | LDO-36STH20-1004AHG |
 
 ## Mini-Fridge Door
 
 | Item                                    | Quantity | Received | Notes                                         |
-| --------------------------------------- | -------- | -------- | --------------------------------------------- |
-| Ø5x40mm Shaft                           | 4        | 4        | In [LDO Mini-Fridge Door Kit]                 |
-| 5mm ID, 7mm OD, 8mm Long Sleeve Bearing | 4        | 4        | In [LDO Mini-Fridge Door Kit]                 |
-| 6mm x 3mm Round Neodymium Magnets       | 12       | 12       | In [LDO Mini-Fridge Door Kit]                 |
-| Door Panel 310x210mm                    | 1        | 1        | [Linneo Voron V0.2 Mini Fridge PC Door Panel] |
-| M3x8 BHCS                               | 10       | 10       | In [LDO Mini-Fridge Door Kit]                 |
-| M3x8 SHCS                               | 2        | 2        | In [LDO Mini-Fridge Door Kit]                 |
-| M3x16 BHCS                              | 4        | 4        | In [LDO Mini-Fridge Door Kit]                 |
-| Makerbeam XL 15x15 200mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit]                 |
-| Makerbeam XL 15x15 330mm                | 2        | 2        | In [LDO Mini-Fridge Door Kit]                 |
+| --------------------------------------- | -------: | -------: | --------------------------------------------- |
+| Ø5x40mm Shaft                           |        4 |        4 | In [LDO Mini-Fridge Door Kit]                 |
+| 5mm ID, 7mm OD, 8mm Long Sleeve Bearing |        4 |        4 | In [LDO Mini-Fridge Door Kit]                 |
+| 6mm x 3mm Round Neodymium Magnets       |       12 |       12 | In [LDO Mini-Fridge Door Kit]                 |
+| Door Panel 310x210mm                    |        1 |        1 | [Linneo Voron V0.2 Mini Fridge PC Door Panel] |
+| M3x8 BHCS                               |       10 |       10 | In [LDO Mini-Fridge Door Kit]                 |
+| M3x8 SHCS                               |        2 |        2 | In [LDO Mini-Fridge Door Kit]                 |
+| M3x16 BHCS                              |        4 |        4 | In [LDO Mini-Fridge Door Kit]                 |
+| Makerbeam XL 15x15 200mm                |        2 |        2 | In [LDO Mini-Fridge Door Kit]                 |
+| Makerbeam XL 15x15 330mm                |        2 |        2 | In [LDO Mini-Fridge Door Kit]                 |
 
 > [!NOTE]
 > Door panel is a [Linneo Voron V0.2 Mini Fridge PC Door Panel] and all other parts are from the [LDO Mini-Fridge Door Kit].
@@ -288,17 +288,17 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ## Tools
 
-| Item                                                                                                                              | Quantity | Material            | Size  | Weight | Cost  |      Printed       | Notes                         |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------- | ----- | ------ | ----- | :----------------: | ----------------------------- |
-| [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Bearing_Press_Tool_x1.stl>) | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [Frame_Jig](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Frame_Jig_x1.stl>)                   | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                       | 2        | [eSun ABS+ (Black)] | 0.64m | 1.64g  | £0.03 | :heavy_check_mark: |
-| ~[NeoPixel_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/NeoPixel_Soldering_Jig.stl)~   | ~1~      | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a mod by [chirpy2605] |
-| [Pin_Jig_Bottom](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Bottom.stl>)            | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [Pin_Jig_Top](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Top.stl>)                  | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pulley_Tool_x1.stl>)                | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [Sequin_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sequin_Soldering_Jig.stl)         | 1        | [eSun ABS+ (Black)] |       |        |       |        :x:         | This is a mod by [chirpy2605] |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                         | 1        | [eSun ABS+ (Black)] | 1.56m | 3.97g  | £0.07 | :heavy_check_mark: |
+| Item                                                                                                                              | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------- |
+| [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Bearing_Press_Tool_x1.stl>) |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
+| [Frame_Jig](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Frame_Jig_x1.stl>)                   |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                       |        2 | [eSun ABS+ (Black)] |      | 0.64m |  1.64g | £0.03 | :heavy_check_mark: |
+| ~[NeoPixel_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/NeoPixel_Soldering_Jig.stl)~   |      ~1~ | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a mod by [chirpy2605] |
+| [Pin_Jig_Bottom](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Bottom.stl>)            |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
+| [Pin_Jig_Top](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Top.stl>)                  |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
+| [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pulley_Tool_x1.stl>)                |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
+| [Sequin_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sequin_Soldering_Jig.stl)         |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a mod by [chirpy2605] |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                         |        1 | [eSun ABS+ (Black)] |      | 1.56m |  3.97g | £0.07 | :heavy_check_mark: |
 
 ## Frame
 
@@ -308,15 +308,15 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 
 ### :negative_squared_cross_mark: No Drop Nuts
 
-| Item                                                                                                                                                                   | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------ |
-| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl)                                    | 2        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers.                    |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                    | ~120     | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                                                     |
-| ~[NoDropNut_Door_Latch](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Door_Latch_x2.stl)~                     | ~2~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Mini-Fridge Door |
-| ~[NoDropNut_Rear_Ext_Front](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Front_x2.stl)~             | ~2~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
-| ~[NoDropNut_Rear_Ext_Rear_Center](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl)~ | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
-| ~[NoDropNut_Rear_Ext_Rear_Edge](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl)~     | ~2~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
-| ~[NoDropNut_Side_Ext_Side](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Side_Ext_Side_x2.stl)~               | ~2~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
+| Item                                                                                                                                                                   | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------------------------ |
+| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl)                                    |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers.                    |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                    |     ~120 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                                                     |
+| ~[NoDropNut_Door_Latch](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Door_Latch_x2.stl)~                     |      ~2~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Mini-Fridge Door |
+| ~[NoDropNut_Rear_Ext_Front](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Front_x2.stl)~             |      ~2~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
+| ~[NoDropNut_Rear_Ext_Rear_Center](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
+| ~[NoDropNut_Rear_Ext_Rear_Edge](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl)~     |      ~2~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
+| ~[NoDropNut_Side_Ext_Side](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_Side_Ext_Side_x2.stl)~               |      ~2~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are not required when using Kirigami Bed     |
 
 ### :white_check_mark: Linear Rails
 
@@ -330,73 +330,73 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 ### :negative_squared_cross_mark: Y Rails
 
-| Item                                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------- |
-| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~               | ~2~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, they will be replaced by 2 LDO Rail Mounts |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                   |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   |
+| Item                                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------- |
+| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~               |      ~2~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, they will be replaced by 2 LDO Rail Mounts |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) |        2 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                   |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                                    | Quantity |
-| --------------------------------------- | -------- |
-| M2x6 SHCS                               | 10       |
-| ~M2 Nut~                                | ~10~     |
-| M3x8 BHCS                               | 2        |
-| M3 Nut                                  | 2        |
-| Makerbeam XL 15x15 200mm (E Extrusion)  | 2        |
-| MGN7H Linear Rail with Carriage - 150mm | 2        |
-| Nut Bar Mount (LDO)                     | 2        |
+| --------------------------------------- | -------: |
+| M2x6 SHCS                               |       10 |
+| ~M2 Nut~                                |     ~10~ |
+| M3x8 BHCS                               |        2 |
+| M3 Nut                                  |        2 |
+| Makerbeam XL 15x15 200mm (E Extrusion)  |        2 |
+| MGN7H Linear Rail with Carriage - 150mm |        2 |
+| Nut Bar Mount (LDO)                     |        2 |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
 
 ### :negative_squared_cross_mark: Z Rails
 
-| Item                                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------- |
-| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~               | ~2~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, they will be replaced by 2 LDO Rail Mounts |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                   |
-| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   |
+| Item                                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------- |
+| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~               |      ~2~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, they will be replaced by 2 LDO Rail Mounts |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) |        2 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                   |
+| [Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)                                   |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                                    | Quantity |
-| --------------------------------------- | -------- |
-| M2x6 SHCS                               | 10       |
-| ~M2 Nut~                                | ~10~     |
-| M3x8 BHCS                               | 2        |
-| M3 Nut                                  | 2        |
-| Makerbeam XL 15x15 200mm (C Extrusion)  | 2        |
-| MGN7H Linear Rail with Carriage - 150mm | 2        |
-| Nut Bar Mount (LDO)                     | 2        |
+| --------------------------------------- | -------: |
+| M2x6 SHCS                               |       10 |
+| ~M2 Nut~                                |     ~10~ |
+| M3x8 BHCS                               |        2 |
+| M3 Nut                                  |        2 |
+| Makerbeam XL 15x15 200mm (C Extrusion)  |        2 |
+| MGN7H Linear Rail with Carriage - 150mm |        2 |
+| Nut Bar Mount (LDO)                     |        2 |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
 
 ### :negative_squared_cross_mark: Z Axis
 
-| Item                                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | :--: | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 12       | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                    |
-| ~[Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)~                                 | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required, it will be replaced with `deck_plate_cover` |
+| Item                                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) |       12 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                    |
+| ~[Railstops](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Railstops_x5.stl)~                                 |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required, it will be replaced with `deck_plate_cover` |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| M3x6 BHCS                              | 4        |
-| ~M3x8 BHCS~                            | ~1~      |
-| M3x10 BHCS                             | 4        |
-| M3 Nut                                 | ~13~ 12  |
-| Makerbeam XL 15x15 200mm (B Extrusion) | 2        |
-| Makerbeam XL 15x15 200mm (H Extrusion) | 2        |
+| -------------------------------------- | -------: |
+| M3x6 BHCS                              |        4 |
+| ~M3x8 BHCS~                            |      ~1~ |
+| M3x10 BHCS                             |        4 |
+| M3 Nut                                 |  ~13~ 12 |
+| Makerbeam XL 15x15 200mm (B Extrusion) |        2 |
+| Makerbeam XL 15x15 200mm (H Extrusion) |        2 |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the bottom right `Railstop`.
@@ -405,19 +405,19 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 The [LDO V0.2 Frame Kit] does not come with the extrusions to build the stock Bed Carrier so the [LDO Kirigami Bed] will also need to be used.
 
-| Item                                                                                                                                                        | Quantity | Material               | Size | Weight | Cost | Printed | Notes                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------------------------------- |
-| ~[Front_Bed_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Front_Bed_Mount_x1.stl)~                                                     | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, this is replaced by `Stealth_Bed_Main_Body`.                                        |
-| [Kirigami brace LDO 3 x wagos with 3010 Fan](https://www.printables.com/model/858786/files)                                                                 | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a mod by [driftrotor]                                                                     |
-| ~[Kirigami_LDO_Breakout_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Kirigami_LDO_Breakout_Mount.stl)~                      | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a LDO Kirigami Bed Part. Not required as this is replaced by the Kirigami Bed Brace + Fan |
-| ~[Rear_Bed_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Left_x1.stl)~                                             | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required as I will be using the LDO Kirigami bed mount.                                       |
-| ~[Rear_Bed_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Right_x1.stl)~                                           | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required as I will be using the LDO Kirigami bed mount.                                       |
-| [Stealth_Bed_Main_Body](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Stealth_Bed_Main_Body.stl)                                    | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a LDO Kirigami Bed Part                                                                   |
-| ~[Stealth_Bed_Diffuser](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/%5Bc%5D_Stealth_Bed_Diffuser.stl)~                            | ~1~      | [BasicFil PET (Clear)] |      |        |      |   :x:   | This is a LDO Kirigami Bed Part, Not required as I have a Resin Printed one.                      |
-| [stealth_chain_mount](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount.stl)                       | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
-| [stealth_chain_mount_5mm_spacer](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount_5mm_spacer.stl) | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
-| [stealth_nut_block](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_nut_block.stl)                           | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
-| [stealth_wire_guide](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_wire_guide.stl)                         | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
+| Item                                                                                                                                                        | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------------------------------- |
+| ~[Front_Bed_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Front_Bed_Mount_x1.stl)~                                                     |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, this is replaced by `Stealth_Bed_Main_Body`.                                        |
+| [Kirigami brace LDO 3 x wagos with 3010 Fan](https://www.printables.com/model/858786/files)                                                                 |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a mod by [driftrotor]                                                                     |
+| ~[Kirigami_LDO_Breakout_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Kirigami_LDO_Breakout_Mount.stl)~                      |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a LDO Kirigami Bed Part. Not required as this is replaced by the Kirigami Bed Brace + Fan |
+| ~[Rear_Bed_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Left_x1.stl)~                                             |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required as I will be using the LDO Kirigami bed mount.                                       |
+| ~[Rear_Bed_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Rear_Bed_Mount_Right_x1.stl)~                                           |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required as I will be using the LDO Kirigami bed mount.                                       |
+| [Stealth_Bed_Main_Body](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/Stealth_Bed_Main_Body.stl)                                    |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a LDO Kirigami Bed Part                                                                   |
+| ~[Stealth_Bed_Diffuser](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Kirigami/%5Bc%5D_Stealth_Bed_Diffuser.stl)~                            |      ~1~ | [BasicFil PET (Clear)] |      |      |        |      |   :x:   | This is a LDO Kirigami Bed Part, Not required as I have a Resin Printed one.                      |
+| [stealth_chain_mount](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount.stl)                       |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
+| [stealth_chain_mount_5mm_spacer](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_chain_mount_5mm_spacer.stl) |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
+| [stealth_nut_block](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_nut_block.stl)                           |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
+| [stealth_wire_guide](https://github.com/christophmuellerorg/voron_0_kirigami_bed/blob/master/STL/VORON_v0.2_stealth_wire_guide.stl)                         |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a Kirigami Bed Part                                                                       |
 
 #### Assembly
 
@@ -427,53 +427,53 @@ The [LDO V0.2 Frame Kit] does not come with the extrusions to build the stock Be
 ##### Parts Used
 
 | Item                                      | Quantity |
-| ----------------------------------------- | -------- |
-| T8x8 Anti-backlash Flange Nut             | 1        |
-| Kirigami Bed Frame                        | 1        |
-| M3x6 BHCS                                 | 13       |
-| M3x10 BHCS                                | 2        |
-| M3 Brass heatstake inserts - short M3x5x4 | 19       |
-| M3 Nut                                    | 2        |
-| LDO Bed Joiner PCB                        | 1        |
-| LDO Bed Neopixel PCB                      | 1        |
-| Wago connectors (221-412)                 | 2        |
+| ----------------------------------------- | -------: |
+| T8x8 Anti-backlash Flange Nut             |        1 |
+| Kirigami Bed Frame                        |        1 |
+| M3x6 BHCS                                 |       13 |
+| M3x10 BHCS                                |        2 |
+| M3 Brass heatstake inserts - short M3x5x4 |       19 |
+| M3 Nut                                    |        2 |
+| LDO Bed Joiner PCB                        |        1 |
+| LDO Bed Neopixel PCB                      |        1 |
+| Wago connectors (221-412)                 |        2 |
 
 ### :negative_squared_cross_mark: Z Endstop
 
-| Item                                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------- |
-| [deck_plate_cover](https://www.printables.com/model/405522/files)                                                                   | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by [MarekZCMB]                       |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 2        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`             |
-| ~[Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL)~                     | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required, will replace with `deck_plate_cover` |
+| Item                                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------- |
+| [deck_plate_cover](https://www.printables.com/model/405522/files)                                                                   |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by [MarekZCMB]                       |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) |        2 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`             |
+| ~[Z_Endstop_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Endstop_Mount_x1.STL)~                     |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required, will replace with `deck_plate_cover` |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                                  | Quantity |
-| ------------------------------------- | -------- |
-| M2x10 Self Tapping Screws for Plastic | 2        |
-| M3x8 BHCS                             | 2        |
-| M3 Nut                                | 2        |
+| ------------------------------------- | -------: |
+| M2x10 Self Tapping Screws for Plastic |        2 |
+| M3x8 BHCS                             |        2 |
+| M3 Nut                                |        2 |
 
 ### :negative_squared_cross_mark: Frame
 
-| Item                                                                                                                                | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------- |
-| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl) | 2        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers. |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) | 29       | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                                  |
+| Item                                                                                                                                | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------------- |
+| [NoDropNut_12mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_12mm.stl) |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`. These are for the front idlers. |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl) |       29 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho`                                  |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                                   | Quantity |
-| -------------------------------------- | -------- |
-| Deck Panel 3mm thick                   | 1        |
-| M3x8 BHCS                              | 2        |
-| M3x10 BHCS                             | 10       |
-| M3 Nut                                 | 31       |
-| Makerbeam XL 15x15 200mm (D Extrusion) | 2        |
+| -------------------------------------- | -------: |
+| Deck Panel 3mm thick                   |        1 |
+| M3x8 BHCS                              |        2 |
+| M3x10 BHCS                             |       10 |
+| M3 Nut                                 |       31 |
+| Makerbeam XL 15x15 200mm (D Extrusion) |        2 |
 
 ## A/B Drives
 
@@ -486,31 +486,31 @@ The benefit for the A/B Drives is that the A/B motors are mounted solidly to the
 
 ### :negative_squared_cross_mark: A Drive
 
-| Item                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                       |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| ~[A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| ~[A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| ~[A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl)~ | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [Mid_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_A_x1.stl)  | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Mount_Plate_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_A_x1.stl)      | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [Top_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_A_x1.stl)          | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| Item                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                       |
+| ------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| ~[A_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Lower_x1.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| ~[A_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Drive_Frame_Upper_x1.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| ~[A_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_A_Drive_Tensioner_x1.stl)~ |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [Mid_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_A_x1.stl)  |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Mount_Plate_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_A_x1.stl)      |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [Top_Mount_A](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_A_x1.stl)          |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
 
 ### :negative_squared_cross_mark: B Drive
 
-| Item                                                                                                                | Quantity | Material           | Size | Weight | Cost | Printed | Notes                       |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| ~[B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| ~[B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| ~[B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl)~ | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [Mid_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_B_x1.stl)  | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Mount_Plate_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_B_x1.stl)      | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [Top_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_B_x1.stl)          | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| Item                                                                                                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                       |
+| ------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~               |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| ~[B_Drive_Frame_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Lower_x1.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| ~[B_Drive_Frame_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Drive_Frame_Upper_x1.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| ~[B_Drive_Tensioner](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_B_Drive_Tensioner_x1.stl)~ |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [Mid_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/%5Ba%5D_Mid_Mount_B_x1.stl)  |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Mount_Plate_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Mount_Plate_B_x1.stl)      |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                        |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[Tensioner_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Tensioner_Knob_x2.stl)~       |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [Top_Mount_B](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/AB%20Mounts/Top_Mount_B_x1.stl)          |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
 
 ## A/B Idlers
 
@@ -523,30 +523,30 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ### :negative_squared_cross_mark: A Idler
 
-| Item                                                                                                                                                                                    | Quantity | Material           | Size | Weight | Cost | Printed | Notes                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ---------------------------- |
-| ~[A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [A_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/A_Idler_Static_LazyCam_x1.stl>)                           | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
-| ~[A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [Idler_A_Tensioner_Lower_LaztCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Lower_LaztCam_x1.stl>) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
-| [Idler_A_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Upper_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
-| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [LazyCams_C-A CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [AKinferno] |
-| [LazyCams_C-A CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [AKinferno] |
+| Item                                                                                                                                                                                    | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ---------------------------- |
+| ~[A_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Lower_x1.stl)~                                                                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [A_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/A_Idler_Static_LazyCam_x1.stl>)                           |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
+| ~[A_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/A_Idler_Upper_x1.stl)~                                                                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [Idler_A_Tensioner_Lower_LaztCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Lower_LaztCam_x1.stl>) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
+| [Idler_A_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_A_Tensioner_Upper_LazyCam_x1.stl>) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part  |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [LazyCams_C-A CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [AKinferno] |
+| [LazyCams_C-A CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [AKinferno] |
 
 ### :negative_squared_cross_mark: B Idler
 
-| Item                                                                                                                                                                                    | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | -------------------------------------- |
-| ~[B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [B_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/B_Idler_Static_LazyCam_x1.stl>)                           | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
-| ~[B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)~                                                                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [Idler_B_Tensioner_Lower_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Lower_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
-| [Idler_B_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Upper_LazyCam_x1.stl>) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
-| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [LazyCams_C-B CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [AKinferno]           |
-| [LazyCams_C-B CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [AKinferno]           |
-| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                                     | 4        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `zruncho` |
+| Item                                                                                                                                                                                    | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | -------------------------------------- |
+| ~[B_Idler_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Lower_x1.stl)~                                                                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [B_Idler_Static_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/B_Idler_Static_LazyCam_x1.stl>)                           |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
+| ~[B_Idler_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/B_Idler_Upper_x1.stl)~                                                                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [Idler_B_Tensioner_Lower_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Lower_LazyCam_x1.stl>) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
+| [Idler_B_Tensioner_Upper_LazyCam](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Idler-Tensioners/LazyCams%20(optional)/%5Ba%5D_Idler_B_Tensioner_Upper_LazyCam_x1.stl>) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part            |
+| ~[Idler_Cam_Lock](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Idler_Cam_Lock_x2.STL)~                                                                           |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [LazyCams_C-B CamArm_v1](https://www.printables.com/model/533483)                                                                                                                       |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [AKinferno]           |
+| [LazyCams_C-B CamLock_v1](https://www.printables.com/model/533483)                                                                                                                      |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [AKinferno]           |
+| [NoDropNut_15mm](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/zruncho/V0_No_Drop_Nuts/stl/NoDropNut_15mm.stl)                                                     |        4 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `zruncho` |
 
 ## Z Axis
 
@@ -556,18 +556,18 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ### :negative_squared_cross_mark: Leadscrew Nut
 
-| Item                                                                                              | Quantity | Material          | Printed | Notes                                                          |
-| ------------------------------------------------------------------------------------------------- | -------- | ----------------- | :-----: | -------------------------------------------------------------- |
-| ~[T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl)~ | ~1~      | [LDO ABS (Black)] |   :x:   | Not required as this is replaced by the Kirigami Bed nut block |
+| Item                                                                                              | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                          |
+| ------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------- |
+| ~[T8_Nut_Block](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/T8_Nut_Block_x1.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required as this is replaced by the Kirigami Bed nut block |
 
 #### Assembly
 
 ##### Parts Used
 
-| Item                            | Quantity |
-| ------------------------------- | -------- |
-| ~M3x12 BHCS~                    | ~4~      |
-| ~T8x8 Anti-backlash Flange Nut~ | ~1~      |
+| Item | Quantity |
+| ------------------------------- | --------| |
+| ~M3x12 BHCS~ | ~4~ |
+| ~T8x8 Anti-backlash Flange Nut~ | ~1~ |
 
 > [!CAUTION]
 > These parts are not required when using the [LDO Kirigami Bed].
@@ -578,26 +578,26 @@ I have opted to upgrade the stock Trident style skirts with the [V0.2 Stealth Sk
 and as I will also be installing the [LDO Mini-Fridge Door Kit].
 I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/model/1079037) mod by [driftrotor].
 
-| Item                                                                                                                                             | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------ |
-| ~[Foot_Front_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Front_Left_x1.STL)~                                   | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, this is replaced by `fridge-door-stealth-front-feet` |
-| ~[Foot_Front_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Front_Right_x1.STL)~                                 | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, this is replaced by `fridge-door-stealth-front-feet` |
-| ~[Foot_Rear_Left_Inlet](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Rear_Left_Inlet_x1.STL)~                         | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, this is replaced by `Mains_Inlet_Foot`               |
-| ~[Foot_Rear_Right_Plain](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Rear_Right_Plain.STL)~                          | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required, this is replaced by `Right_Rear_Foot`                |
-| ~[Foot_Accent_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_A_x2.stl)~                               | ~2~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required, this is replaced by `Right_Rear_Accent`              |
-| ~[Foot_Accent_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_B_x2.stl)~                               | ~2~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required, this is replaced by `Left_Rear_Accent`               |
-| [fridge-door-stealth-accent-pieces](https://www.printables.com/model/1079037)                                                                    | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [driftrotor]                                      |
-| [fridge-door-stealth-front-feet](https://www.printables.com/model/1079037)                                                                       | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by [driftrotor]                                      |
-| [Left_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Rear_Accent_x1.stl)   | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
-| [Mains_Inlet_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Mains_Inlet_Foot_x1.stl)   | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
-| [Right_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Accent_x1.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
-| [Right_Rear_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Foot_x1.stl)     | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
+| Item                                                                                                                                             | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------ |
+| ~[Foot_Front_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Front_Left_x1.STL)~                                   |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, this is replaced by `fridge-door-stealth-front-feet` |
+| ~[Foot_Front_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Front_Right_x1.STL)~                                 |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, this is replaced by `fridge-door-stealth-front-feet` |
+| ~[Foot_Rear_Left_Inlet](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Rear_Left_Inlet_x1.STL)~                         |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, this is replaced by `Mains_Inlet_Foot`               |
+| ~[Foot_Rear_Right_Plain](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Foot_Rear_Right_Plain.STL)~                          |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required, this is replaced by `Right_Rear_Foot`                |
+| ~[Foot_Accent_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_A_x2.stl)~                               |      ~2~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required, this is replaced by `Right_Rear_Accent`              |
+| ~[Foot_Accent_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Foot_Accent_B_x2.stl)~                               |      ~2~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required, this is replaced by `Left_Rear_Accent`               |
+| [fridge-door-stealth-accent-pieces](https://www.printables.com/model/1079037)                                                                    |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [driftrotor]                                      |
+| [fridge-door-stealth-front-feet](https://www.printables.com/model/1079037)                                                                       |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by [driftrotor]                                      |
+| [Left_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Rear_Accent_x1.stl)   |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
+| [Mains_Inlet_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Mains_Inlet_Foot_x1.stl)   |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
+| [Right_Rear_Accent](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Accent_x1.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
+| [Right_Rear_Foot](https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Rear_Foot_x1.stl)     |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                            |
 
 ### :negative_squared_cross_mark: Leadscrew
 
-| Item                                                                                                      | Quantity | Material           | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Z_Motor_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Motor_Mount_x1.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   |
+| Item                                                                                                      | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Z_Motor_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Z_Motor_Mount_x1.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
 
 ## X Axis
 
@@ -607,41 +607,41 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: XY Joint Left
 
-| Item                                                                                                                                                                  | Quantity | Material           | Size | Weight | Cost | Printed | Notes                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                 | ~2~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [MMU_XY_Joint_Left_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Left_Tops.stl>) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                          | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [XY_Joint_Left_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Lower_x1.stl)                                            | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [XY_Joint_Left_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Upper_x1.stl)                                            | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| Item                                                                                                                                                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                 |      ~2~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [MMU_XY_Joint_Left_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Left_Tops.stl>) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                          |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[XY_Joint_Left_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Lower_x1.stl)~                                                       |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [XY_Joint_Left_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Lower_x1.stl)                                            |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[XY_Joint_Left_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Left_Upper_x1.stl)~                                                       |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [XY_Joint_Left_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Left_Upper_x1.stl)                                            |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
 
 ### :negative_squared_cross_mark: XY Joint Right
 
-| Item                                                                                                                                                                    | Quantity | Material           | Size | Weight | Cost | Printed | Notes                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------- |
-| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                   | ~2~      | [LDO ASA (Orange)] |      |        |      |   :x:   |
-| [MMU_XY_Joint_Right_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Right_Tops.stl>) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                            | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [XY_Joint_Right_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Lower_x1.stl)                                            | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
-| ~[XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl)~                                                       | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   |
-| [XY_Joint_Right_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Upper_x1.stl)                                            | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| Item                                                                                                                                                                    | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------- |
+| ~[9mm_Spacer](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_9mm_Spacer_x6.stl)~                                                                   |      ~2~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   |
+| [MMU_XY_Joint_Right_Tops](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20joints/XY%20Joint%20Upper%20MMU%20(optional)/MMU_XY_Joint_Right_Tops.stl>) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| [Spacer_Hex](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Spacer_Hex_x6.stl)                                                                            |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[XY_Joint_Right_Lower](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Lower_x1.stl)~                                                       |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [XY_Joint_Right_Lower](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Lower_x1.stl)                                            |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
+| ~[XY_Joint_Right_Upper](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/XY_Joint_Right_Upper_x1.stl)~                                                       |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   |
+| [XY_Joint_Right_Upper](https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/XY%20Joints/XY_Joint_Right_Upper_x1.stl)                                            |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part |
 
 ### :negative_squared_cross_mark: X Axis
 
-| Item                                                                                                                  | Quantity | Material          | Printed | Notes                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | :-----: | ----------------------------------------------------- |
-| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~ | ~1~      | [LDO ABS (Black)] |   :x:   | Not required, it will be replaced by 1 LDO Rail Mount |
+| Item                                                                                                                  | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------- |
+| ~[M2_Nut_Adapter_Rotated](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/M2_Nut_Adapter_Rotated_x5.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, it will be replaced by 1 LDO Rail Mount |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item     | Quantity |
-| -------- | -------- |
-| ~M2 Nut~ | ~5~      |
+| -------- | -------: |
+| ~M2 Nut~ |      ~5~ |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the printed `M2_Nut_Adapter`s.
@@ -654,10 +654,10 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: X Carriage
 
-| Item                                                                                                                   | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                     |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----------------------------------------- |
-| [X_Carriage](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/X_Carriage_x1.stl)                            | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | Replace with X Carriage with Inserts mod  |
-| [X_Carriage_Inserts](https://github.com/chirpy2605/voron/blob/main/V0/XCarriage_v0_2/STLs/X_Carriage_Inserts_v0.2.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605` |
+| Item                                                                                                                   | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------- |
+| [X_Carriage](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/X_Carriage_x1.stl)                            |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | Replace with X Carriage with Inserts mod  |
+| [X_Carriage_Inserts](https://github.com/chirpy2605/voron/blob/main/V0/XCarriage_v0_2/STLs/X_Carriage_Inserts_v0.2.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605` |
 
 > [!CAUTION]
 > These parts are not required when using the [Siboor CNC Slide Back Plate](https://www.aliexpress.com/item/1005004251753946.html).
@@ -670,17 +670,17 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: Print Bed
 
-| Item                                                                                                              | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                   |
-| ----------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------------- |
-| [Kirigami_Bed_Spacer](https://github.com/stvptrsn/Voron_Stuff/blob/main/Voron_0/Kirigami/Kirigami_Bed_Spacer.stl) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `stvptrsn` |
-| [Thumb_Nut](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Thumb_Nut_x3.stl)                 | 3        | [LDO ASA (Orange)] |      |        |      |   :x:   | May substitute these for metal ones     |
+| Item                                                                                                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                   |
+| ----------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------- |
+| [Kirigami_Bed_Spacer](https://github.com/stvptrsn/Voron_Stuff/blob/main/Voron_0/Kirigami/Kirigami_Bed_Spacer.stl) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `stvptrsn` |
+| [Thumb_Nut](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/%5Ba%5D_Thumb_Nut_x3.stl)                 |        3 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | May substitute these for metal ones     |
 
 ### :negative_squared_cross_mark: PEI Sheet Positioning Jig
 
-| Item                                                         | Quantity | Material          | Size | Weight | Cost | Printed | Notes                         |
-| ------------------------------------------------------------ | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----------------------------- |
-| [LeftCorner](https://www.printables.com/model/497212/files)  | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a mod by [Tommy Zero] |
-| [RightCorner](https://www.printables.com/model/497212/files) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a mod by [Tommy Zero] |
+| Item                                                         | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                         |
+| ------------------------------------------------------------ | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------- |
+| [LeftCorner](https://www.printables.com/model/497212/files)  |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a mod by [Tommy Zero] |
+| [RightCorner](https://www.printables.com/model/497212/files) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a mod by [Tommy Zero] |
 
 ## Print Head
 
@@ -690,54 +690,54 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: Sherpa Mini
 
-| Item                                                                                                                              | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ------------------------------------ |
-| [housing_core](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/housing_core_x1_rev16.STL)              | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
-| [housing_front](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/%5Ba%5D_housing_front_x1_rev15.STL)    | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
-| [housing_rear](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/housing_rear_x1_rev17.STL)              | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
-| [idler_arm_long](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/%5Ba%5D_idler_arm_long_x1_rev16a.STL) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
+| Item                                                                                                                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ------------------------------------ |
+| [housing_core](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/housing_core_x1_rev16.STL)              |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
+| [housing_front](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/%5Ba%5D_housing_front_x1_rev15.STL)    |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
+| [housing_rear](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/housing_rear_x1_rev17.STL)              |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
+| [idler_arm_long](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/%5Ba%5D_idler_arm_long_x1_rev16a.STL) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering` |
 
 ### :negative_squared_cross_mark: Dragon Burner
 
-| Item                                                                                                          | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                           |
-| ------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ----------------------------------------------- |
-| ~[2510_Spacer](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/2510_Spacer.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I will be using 3010 hotend fan |
-| ~[Brace_Loop](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Brace_Loop.stl)~       | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [chirpy2605]                   |
-| [Brace_Straight](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Brace_Straight.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [chirpy2605]                   |
+| Item                                                                                                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                           |
+| ------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------- |
+| ~[2510_Spacer](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/2510_Spacer.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I will be using 3010 hotend fan |
+| ~[Brace_Loop](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Brace_Loop.stl)~       |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                   |
+| [Brace_Straight](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Brace_Straight.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                   |
 
 ### :negative_squared_cross_mark: Cowl
 
-| Item                                                                                                                              | Quantity | Material               | Size | Weight | Cost | Printed | Notes                                            |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------ |
-| ~[Carrier_Dummy](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Ba%5D_Carrier_Dummy.stl)~             | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
-| ~[Carrier_Neopixel](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Neopixel.stl)~       | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
-| ~[Carrier_RainbowBarf](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_RainbowBarf.stl)~ | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
-| ~[Carrier_Sequin](hhttps://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Sequin.stl)~          | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
-| [Carrier_Sequin_RGB](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Sequin_RGB.stl)     | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
-| [Cowl_NoProbe](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Cowls/Voron/Cowl_NoProbe.stl)             | 1        | [LDO ASA (Orange)]     |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
-| ~[NeoPixel_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/NeoPixel_Mount.stl)~                   | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
-| [Sequin_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sequin_Mount.stl)                         | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
-| [Voron_Diffuser](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Cowls/Voron/%5Bc%5D_Voron_Diffuser.stl) | 1        | [BasicFil PET (Clear)] |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
+| Item                                                                                                                              | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes                                            |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------ |
+| ~[Carrier_Dummy](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Ba%5D_Carrier_Dummy.stl)~             |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
+| ~[Carrier_Neopixel](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Neopixel.stl)~       |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
+| ~[Carrier_RainbowBarf](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_RainbowBarf.stl)~ |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
+| ~[Carrier_Sequin](hhttps://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Sequin.stl)~          |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
+| [Carrier_Sequin_RGB](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/%5Bo%5D_Carrier_Sequin_RGB.stl)     |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
+| [Cowl_NoProbe](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Cowls/Voron/Cowl_NoProbe.stl)             |        1 | [LDO ASA (Orange)]     |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
+| ~[NeoPixel_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/NeoPixel_Mount.stl)~                   |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, I will be using Fysetc RGB Sequins |
+| [Sequin_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sequin_Mount.stl)                         |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
+| [Voron_Diffuser](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Cowls/Voron/%5Bc%5D_Voron_Diffuser.stl) |        1 | [BasicFil PET (Clear)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605]                    |
 
 ### :negative_squared_cross_mark: Extruder Mount
 
-| Item                                                                                                                                                           | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ------------------------------------------ |
-| ~[Bowden_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Bowden_Mount.stl)~                                                    | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required as I will not be using Bowden |
-| [Sherpa_Mini_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Extruder_Mounts/Sherpa_Mini_Mount.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [chirpy2605]              |
+| Item                                                                                                                                                           | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------ |
+| ~[Bowden_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Bowden_Mount.stl)~                                                    |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required as I will not be using Bowden |
+| [Sherpa_Mini_Mount](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Extruder_Mounts/Sherpa_Mini_Mount.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605]              |
 
 ### :negative_squared_cross_mark: Hotend Mount
 
-| Item                                                                                                                                                   | Quantity | Material           | Size | Weight | Cost | Printed | Notes                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------ | ---- | ------ | ---- | :-----: | ----------------------------- |
-| [V6_Mount_Front](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Hotend_Mounts/V6_Mount_Front.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [chirpy2605] |
-| [V6_Mount_Rear](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Hotend_Mounts/V6_Mount_Rear.stl)   | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [chirpy2605] |
+| Item                                                                                                                                                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----------------------------- |
+| [V6_Mount_Front](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Hotend_Mounts/V6_Mount_Front.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605] |
+| [V6_Mount_Rear](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sherpa_Mini_pattern_mounts/Hotend_Mounts/V6_Mount_Rear.stl)   |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [chirpy2605] |
 
 ### :negative_squared_cross_mark: AXDL345 Mount
 
-| Item                                                                                                                | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                         |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------- |
-| ~[ADXL_Mount_Front](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/ADXL_Mount_Front.stl)~ | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required as Picobilical has ADXL sensor on toolhead board |
+| Item                                                                                                                | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                         |
+| ------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------- |
+| ~[ADXL_Mount_Front](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/ADXL_Mount_Front.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required as Picobilical has ADXL sensor on toolhead board |
 
 ## Electronics & Wiring
 
@@ -747,47 +747,47 @@ I will also need the [V0 Fridge Door Stealth Skirts](https://www.printables.com/
 
 ### :negative_squared_cross_mark: Rear Panel
 
-| Item                                                                                                                       | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                          |
-| -------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------- |
-| [DIN_Rail_Mount](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/DIN_Rail_Mount_x2.stl)                   | 2        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605`      |
-| [PCB_DIN_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PCB_DIN_Clip_x2.stl)                | 2        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [RPi_or_BTT-Pico_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/RPi_or_BTT-Pico_Mount.STL) | 2        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| ~[VHB_Din_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/VHB_DIN_Mount.STL)~               | ~2~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, will replace with 200mm DIN Rail |
+| Item                                                                                                                       | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                          |
+| -------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------------- |
+| [DIN_Rail_Mount](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/DIN_Rail_Mount_x2.stl)                   |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605`      |
+| [PCB_DIN_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PCB_DIN_Clip_x2.stl)                |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [RPi_or_BTT-Pico_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/RPi_or_BTT-Pico_Mount.STL) |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| ~[VHB_Din_Mount](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/VHB_DIN_Mount.STL)~               |      ~2~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, will replace with 200mm DIN Rail |
 
 ### :negative_squared_cross_mark: Bottom Compartment
 
-| Item                                                                                                                     | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------------ |
-| ~[Fan_Mount_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Bottom_x1.stl)~    | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Fan Panel Left` and `Fan Panel Right` |
-| ~[Fan_Mount_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Top_x1.stl)~          | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Fan Panel Left` and `Fan Panel Right` |
-| [Fan Panel Left](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Bottom_Fan_Panel/Fan%20Panel%20Left.stl)   | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a `LDO` Part                                                     |
-| [Fan Panel Right](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Bottom_Fan_Panel/Fan%20Panel%20Right.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a `LDO` Part                                                     |
-| [PSU_Cover](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PSU_Cover_x1.STL)                    | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                                     | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------ | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------ |
+| ~[Fan_Mount_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Bottom_x1.stl)~    |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Fan Panel Left` and `Fan Panel Right` |
+| ~[Fan_Mount_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/Fan_Mount_Top_x1.stl)~          |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Fan Panel Left` and `Fan Panel Right` |
+| [Fan Panel Left](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Bottom_Fan_Panel/Fan%20Panel%20Left.stl)   |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a `LDO` Part                                                     |
+| [Fan Panel Right](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Bottom_Fan_Panel/Fan%20Panel%20Right.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a `LDO` Part                                                     |
+| [PSU_Cover](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Electronics/PSU_Cover_x1.STL)                    |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: MF Nano
 
 The MF Nano is a tiny recirculating carbon filter for the Voron V0 designed by [MapleLeafMakers](https://github.com/MapleLeafMakers/MFNano).
 
-| Item                                                                                         | Quantity | Material           | Size | Weight | Cost | Printed | Notes                              |
-| -------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ---------------------------------- |
-| [cartridge_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_body.stl) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
-| [cartridge_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_lid.stl)   | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
-| [magclip](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/magclip_x2.stl)            | 2        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
-| [plenum_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_body.stl)       | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
-| [plenum_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_lid.stl)         | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
+| Item                                                                                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                              |
+| -------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ---------------------------------- |
+| [cartridge_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_body.stl) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
+| [cartridge_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/cartridge_lid.stl)   |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
+| [magclip](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/magclip_x2.stl)            |        2 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
+| [plenum_body](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_body.stl)       |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
+| [plenum_lid](https://github.com/MapleLeafMakers/MFNano/blob/main/STL/plenum_lid.stl)         |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `MapleLeafMakers` |
 
 #### Assembly
 
 ##### Parts Used
 
 | Item                           | Quantity |
-| ------------------------------ | -------- |
-| M3x6 BHCS                      | 5        |
-| M3x16 BHCS                     | 2        |
-| 4x6mm Neodimium Magnet         | 8        |
-| 6x3mm Neodimium Magnet         | 12       |
-| M3 Threaded Insert             | 3        |
-| 50x50x15 Centrifugal Fan (24V) | 1        |
+| ------------------------------ | -------: |
+| M3x6 BHCS                      |        5 |
+| M3x16 BHCS                     |        2 |
+| 4x6mm Neodimium Magnet         |        8 |
+| 6x3mm Neodimium Magnet         |       12 |
+| M3 Threaded Insert             |        3 |
+| 50x50x15 Centrifugal Fan (24V) |        1 |
 
 ## Skirts & Panels
 
@@ -799,135 +799,135 @@ I have opted to upgrade the stock Trident style skirts with the [Stealth Skirts 
 
 ### :negative_squared_cross_mark: Left Side Skirts
 
-| Item                                                                                                                                                   | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Left_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_A_x1.stl)     | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Left_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_B_x1.stl)     | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| ~[Side_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_x2.STL)~                                                   | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
-| ~[Side_Skirt_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_Mirror_x2.stl)~                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| Item                                                                                                                                                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Left_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_A_x1.stl)     |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Left_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Left_Side_Skirt_B_x1.stl)     |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| ~[Side_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_x2.STL)~                                                   |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| ~[Side_Skirt_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_Mirror_x2.stl)~                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
 
 ### :negative_squared_cross_mark: Right Side Skirts
 
-| Item                                                                                                                                                   | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Right_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_A_x1.stl)   | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Right_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_B_x1.stl)   | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| ~[Side_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_x2.STL)~                                                   | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
-| ~[Side_Skirt_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_Mirror_x2.stl)~                                     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| Item                                                                                                                                                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [3510_Fan_Grill](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Fan_Grill_x2.stl)           |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [3510_Side_Skirt_Mid](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/3510_Side_Skirt_Mid_x2.stl) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Right_Side_Skirt_A](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_A_x1.stl)   |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Right_Side_Skirt_B](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Right_Side_Skirt_B_x1.stl)   |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| [Side_Logo_Insert](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Side_Logo_Insert_x2.stl)       |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| ~[Side_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_x2.STL)~                                                   |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| ~[Side_Skirt_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Side_Skirt_Mirror_x2.stl)~                                     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
 
 ### :negative_squared_cross_mark: Rear Skirt
 
-| Item                                                                                                                                 | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [Rear_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Rear_Skirt_x1.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
-| ~[Rear_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Rear_Skirt_x1.STL)~                                 | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| Item                                                                                                                                 | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [Rear_Skirt](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Maverick/V0.2_Stealth_Skirts/STLs/Rear_Skirt_x1.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `Maverick`                   |
+| ~[Rear_Skirt](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Rear_Skirt_x1.STL)~                                 |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
 
 ### :negative_squared_cross_mark: Front Skirts
 
-| Item                                                                                                           | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                     |
-| -------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [fridge-door-stealth-front-left-skirt](https://www.printables.com/model/1079037)                               | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
-| [fridge-door-stealth-front-right-skirt](https://www.printables.com/model/1079037)                              | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
-| [fridge-door-stealth-left-skirt-mesh](https://www.printables.com/model/1079037)                                | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
-| [fridge-door-stealth-right-skirt-mesh](https://www.printables.com/model/1079037)                               | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
-| ~[Front_Skirt_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Front_Skirt_A_x1.STL)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
-| ~[Front_Skirt_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Front_Skirt_B_x1.STL)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
-| ~[Logo_Insert](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Logo_Insert_x2.stl)~ | ~2~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| Item                                                                                                           | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| -------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [fridge-door-stealth-front-left-skirt](https://www.printables.com/model/1079037)                               |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
+| [fridge-door-stealth-front-right-skirt](https://www.printables.com/model/1079037)                              |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
+| [fridge-door-stealth-left-skirt-mesh](https://www.printables.com/model/1079037)                                |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
+| [fridge-door-stealth-right-skirt-mesh](https://www.printables.com/model/1079037)                               |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by [driftrotor]                             |
+| ~[Front_Skirt_A](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Front_Skirt_A_x1.STL)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| ~[Front_Skirt_B](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/Front_Skirt_B_x1.STL)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
+| ~[Logo_Insert](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Skirts/%5Ba%5D_Logo_Insert_x2.stl)~ |      ~2~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required as I plan on printing the Stealth Skirts mod |
 
 ### :negative_squared_cross_mark: Display
 
 I will print this using the [Multi-Colour Prints with a Single Nozzle](https://docs.vorondesign.com/community/howto/mikhail/multi-colour-prints-with-a-single-nozzle.html) guide. The main colour will be Orange with Accents in Black.
 
-| Item                                                                                                                        | Quantity | Material               | Size | Weight | Cost | Printed | Notes                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------------- |
-| [Display_Diffuser](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Bc%5D_Display_Diffuser_x1.STL)     | 1        | [BasicFil PET (Clear)] |      |        |      |   :x:   |
-| ~[Display_Faceplate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl)~ | ~1~      | [LDO ASA (Orange)]     |      |        |      |   :x:   | Not required, this is replaced by `Display_Faceplate-Stroke_Multibody` |
-| [Display_Faceplate-Stroke_Multibody](https://www.printables.com/model/380498/files)                                         | 1        | [LDO ASA (Orange)]     |      |        |      |   :x:   | This is a mod by [Panzarkatten]                                        |
-| ~[Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)~                   | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, this is replaced by multi-colour `Display Knob`          |
-| [Display Knob](https://www.printables.com/model/435414/files)                                                               | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a mod by [Jadecky3D]                                           |
-| ~[Display_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Left_x1.stl)~       | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, this is replaced by `display-mount-one-piece-updated`    |
-| ~[Display_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Right_x1.stl)~     | ~1~      | [LDO ABS (Black)]      |      |        |      |   :x:   | Not required, this is replaced by `display-mount-one-piece-updated`    |
-| [display-mount-one-piece-updated](https://www.printables.com/model/1079037)                                                 | 1        | [LDO ABS (Black)]      |      |        |      |   :x:   | This is a mod by [driftrotor]                                          |
+| Item                                                                                                                        | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------------------------------------- |
+| [Display_Diffuser](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Bc%5D_Display_Diffuser_x1.STL)     |        1 | [BasicFil PET (Clear)] |      |      |        |      |   :x:   |
+| ~[Display_Faceplate](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl)~ |      ~1~ | [LDO ASA (Orange)]     |      |      |        |      |   :x:   | Not required, this is replaced by `Display_Faceplate-Stroke_Multibody` |
+| [Display_Faceplate-Stroke_Multibody](https://www.printables.com/model/380498/files)                                         |        1 | [LDO ASA (Orange)]     |      |      |        |      |   :x:   | This is a mod by [Panzarkatten]                                        |
+| ~[Display_Knob](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Knob_x1.stl)~                   |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, this is replaced by multi-colour `Display Knob`          |
+| [Display Knob](https://www.printables.com/model/435414/files)                                                               |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a mod by [Jadecky3D]                                           |
+| ~[Display_Mount_Left](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Left_x1.stl)~       |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, this is replaced by `display-mount-one-piece-updated`    |
+| ~[Display_Mount_Right](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Display/Display_Mount_Right_x1.stl)~     |      ~1~ | [LDO ABS (Black)]      |      |      |        |      |   :x:   | Not required, this is replaced by `display-mount-one-piece-updated`    |
+| [display-mount-one-piece-updated](https://www.printables.com/model/1079037)                                                 |        1 | [LDO ABS (Black)]      |      |      |        |      |   :x:   | This is a mod by [driftrotor]                                          |
 
 ### :negative_squared_cross_mark: Picobilical Motor Panel
 
-| Item                                                                                                                                                       | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | --------------------------------------------------------- |
-| [Cable_Tie_Point](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Cable_Tie_Point.stl>)                  | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part                               |
-| [Cover_Plate_MMU](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/MMU%20(optional)/Cover_Plate_MMU.stl>) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part, Replaces `frame_cover_plate` |
-| ~[frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl)~                                          | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | This is a LDO Picobilical Part                            |
-| [Strain_Relief](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Strain_Relief.stl>)                      | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a `TULIP V2.0` Part, Replaces `frame_cover_plate` |
+| Item                                                                                                                                                       | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------- |
+| [Cable_Tie_Point](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Cable_Tie_Point.stl>)                  |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part                               |
+| [Cover_Plate_MMU](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/MMU%20(optional)/Cover_Plate_MMU.stl>) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part, Replaces `frame_cover_plate` |
+| ~[frame_cover_plate](https://github.com/MotorDynamicsLab/LDO-Picobilical/blob/master/STLs/frame_cover_plate.stl)~                                          |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a LDO Picobilical Part                            |
+| [Strain_Relief](<https://github.com/Amekyras/tulip/tree/main/STLs/OEM%20TULIP/Umbilicals%20(optional)/PicoBilical/Strain_Relief.stl>)                      |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a `TULIP V2.0` Part, Replaces `frame_cover_plate` |
 
 ### :negative_squared_cross_mark: Detachable Spool Holder
 
-| Item                                                                                                                              | Quantity | Material           | Size | Weight | Cost | Printed | Notes                |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | -------------------- |
-| [Spool_Holder](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder.stl)             | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `LDO` Part |
-| [Spool_Holder_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder_Mount.stl) | 1        | [LDO ABS (Black)]  |      |        |      |   :x:   | This is a `LDO` Part |
+| Item                                                                                                                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | -------------------- |
+| [Spool_Holder](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder.stl)             |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `LDO` Part |
+| [Spool_Holder_Mount](https://github.com/MotorDynamicsLab/LDOVoron0/blob/main/STLs/Detachable_Spool_Holder/Spool_Holder_Mount.stl) |        1 | [LDO ABS (Black)]  |      |      |        |      |   :x:   | This is a `LDO` Part |
 
 ### :negative_squared_cross_mark: Rear Panels
 
-| Item                                                                                                                               | Quantity | Material          | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                       | 2        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Rear_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Left_Clip_x1.stl)   | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Rear_Bottom_Right_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Right_Clip_x1.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Hinge_A_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Bottom_x1.stl)                   | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Hinge_B_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Bottom_x1.stl)                   | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                                               | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)                       |        2 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Rear_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Left_Clip_x1.stl)   |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Rear_Bottom_Right_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Rear_Bottom_Right_Clip_x1.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Hinge_A_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Bottom_x1.stl)                   |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Hinge_B_Bottom](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Bottom_x1.stl)                   |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Left Panel
 
-| Item                                                                                                                                             | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------- | ---- | ------ | ---- | :-----: | -------------------------------------------------------------- |
-| ~[Left_Bottom_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Front_Panel_Clip_x1.stl)~ | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_B` |
-| ~[Left_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Rear_Panel_Clip_x1.stl)~   | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_A` |
-| ~[Left_Top_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Front_Panel_Clip_x1.stl)~       | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_B`    |
-| ~[Left_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Rear_Panel_Clip_x1.stl)~         | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_A`    |
-| ~[Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)~                                   | ~4~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Middle`          |
-| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                             | ~4~ 3    | [LDO ABS (Black)] |      |        |      |   :x:   | 1 Not required as I plan on printing the Stealth Handles mod   |
-| [Panel_Clip_Corner_Bottom_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_A_x1.STL)           | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)           | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Top_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_A_x1.STL)                 | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)                 | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                                                             | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------- |
+| ~[Left_Bottom_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Front_Panel_Clip_x1.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_B` |
+| ~[Left_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Bottom_Rear_Panel_Clip_x1.stl)~   |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_A` |
+| ~[Left_Top_Front_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Front_Panel_Clip_x1.stl)~       |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_B`    |
+| ~[Left_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Left_Top_Rear_Panel_Clip_x1.stl)~         |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_A`    |
+| ~[Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)~                                   |      ~4~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Middle`          |
+| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                             |    ~4~ 3 | [LDO ABS (Black)] |      |      |        |      |   :x:   | 1 Not required as I plan on printing the Stealth Handles mod   |
+| [Panel_Clip_Corner_Bottom_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_A_x1.STL)           |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)           |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Top_A](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_A_x1.STL)                 |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)                 |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Right Panel
 
-| Item                                                                                                                                             | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------------------ |
-| ~[Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)~                                   | ~4~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Middle`              |
-| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                             | ~4~ 3    | [LDO ABS (Black)] |      |        |      |   :x:   | 1 Not required as I plan on printing the Stealth Handles mod       |
-| [Panel_Clip_Corner_Bottom_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_Hinge_x1.STL)   | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)           | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Top_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_Hinge_x1.STL)         | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)                 | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| ~[Right_Bottom_Front_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Front_Hinge_x1.stl)~         | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_Hinge` |
-| ~[Right_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Rear_Panel_Clip_x1.stl)~ | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_B`     |
-| ~[Right_Top_Left_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Left_Hinge_x1.stl)~                 | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_Hinge`    |
-| ~[Right_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Rear_Panel_Clip_x1.stl)~       | ~1~      | [LDO ABS (Black)] |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_B`        |
+| Item                                                                                                                                             | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------ |
+| ~[Middle_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Middle_Clip_x9.stl)~                                   |      ~4~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Middle`              |
+| [Panel_Clip_Middle](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Middle_x8.STL)                             |    ~4~ 3 | [LDO ABS (Black)] |      |      |        |      |   :x:   | 1 Not required as I plan on printing the Stealth Handles mod       |
+| [Panel_Clip_Corner_Bottom_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_Hinge_x1.STL)   |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Bottom_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Bottom_B_x2.STL)           |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Top_Hinge](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_Hinge_x1.STL)         |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [Panel_Clip_Corner_Top_B](https://github.com/timmit99/Voron_Zero_RGB_Side_Panels/blob/main/STL's/Panel_Clip_Corner_Top_B_x2.STL)                 |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| ~[Right_Bottom_Front_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Front_Hinge_x1.stl)~         |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_Hinge` |
+| ~[Right_Bottom_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Bottom_Rear_Panel_Clip_x1.stl)~ |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Bottom_B`     |
+| ~[Right_Top_Left_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Left_Hinge_x1.stl)~                 |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_Hinge`    |
+| ~[Right_Top_Rear_Panel_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Right_Top_Rear_Panel_Clip_x1.stl)~       |      ~1~ | [LDO ABS (Black)] |      |      |        |      |   :x:   | Not required, this is replaced by `Panel_Clip_Corner_Top_B`        |
 
 ### :negative_squared_cross_mark: Stealth Handles
 
-| Item                                                                                         | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                                             |
-| -------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------------------- |
-| [handle_a](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_a.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `Maple Leaf Makers` Part, may need to modify to fit RGB Side Panels mod |
-| [handle_b](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_b.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a `Maple Leaf Makers` Part, may need to modify to fit RGB Side Panels mod |
+| Item                                                                                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                             |
+| -------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------------------- |
+| [handle_a](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_a.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `Maple Leaf Makers` Part, may need to modify to fit RGB Side Panels mod |
+| [handle_b](https://github.com/MapleLeafMakers/V0_Stealth_Handles/blob/main/STL/handle_b.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a `Maple Leaf Makers` Part, may need to modify to fit RGB Side Panels mod |
 
 ### :negative_squared_cross_mark: Front Panel
 
-| Item                                                                                                                                     | Quantity | Material           | Size | Weight | Cost | Printed | Notes                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | ----------------------------------------------------------- |
-| ~[Door_Handle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Handle_x1.STL)~                           | ~1~      | [LDO ASA (Orange)] |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
-| ~[Door_Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Latch_x2.STL)~                             | ~2~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
-| ~[Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)~     | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
-| ~[Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl)~ | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
-| ~[Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)~           | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
-| ~[Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)~       | ~1~      | [LDO ABS (Black)]  |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| Item                                                                                                                                     | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------- |
+| ~[Door_Handle](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Handle_x1.STL)~                           |      ~1~ | [LDO ASA (Orange)] |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| ~[Door_Latch](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Door_Latch_x2.STL)~                             |      ~2~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| ~[Front_Bottom_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Left_Clip_x1.stl)~     |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| ~[Front_Bottom_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Bottom_Right_Hinge_x1.stl)~ |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| ~[Front_Top_Left_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Left_Clip_x1.stl)~           |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
+| ~[Front_Top_Right_Hinge](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Panel_Mounting/Front_Top_Right_Hinge_x1.stl)~       |      ~1~ | [LDO ABS (Black)]  |      |      |        |      |   :x:   | Not required as I plan on printing the Mini-Fridge Door mod |
 
 ## Extrusion Tophat
 
@@ -937,51 +937,51 @@ I will print this using the [Multi-Colour Prints with a Single Nozzle](https://d
 
 ### :negative_squared_cross_mark: Top Panel
 
-| Item                                                                                                 | Quantity | Material          | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Top_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Top_Clip_x4.stl) | 4        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                 | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TH_Top_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Top_Clip_x4.stl) |        4 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Front & Side Panels
 
-| Item                                                                                                                   | Quantity | Material          | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Lower_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_x3.stl)               | 3        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Lower_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_Mirror_x3.stl) | 3        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)                 | 3        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl)   | 3        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                                   | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TH_Lower_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_x3.stl)               |        3 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Lower_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Lower_Clip_Mirror_x3.stl) |        3 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)                 |        3 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl)   |        3 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Rear Panel
 
-| Item                                                                                                                 | Quantity | Material          | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Hinge_A_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Top_x1.stl)           | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Hinge_B_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Top_x1.stl)           | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)               | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
-| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   |
+| Item                                                                                                                 | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TH_Hinge_A_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_A_Top_x1.stl)           |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Hinge_B_Top](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Hinge_B_Top_x1.stl)           |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Side_Clip](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_x4.stl)               |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
+| [TH_Side_Clip_Mirror](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tophat/TH_Side_Clip_Mirror_x4.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Camera Mount
 
-| Item                                                                                              | Quantity | Material          | Size | Weight | Cost | Printed | Notes                                     |
-| ------------------------------------------------------------------------------------------------- | -------- | ----------------- | ---- | ------ | ---- | :-----: | ----------------------------------------- |
-| [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) | 1        | [LDO ABS (Black)] |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605` |
+| Item                                                                                              | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                     |
+| ------------------------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------- |
+| [picamera3stl](https://github.com/chirpy2605/voron/blob/main/V0/v0.2_Stuff/STLs/picamera3stl.stl) |        1 | [LDO ABS (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `chirpy2605` |
 
 ## Mini-Fridge Door
 
 ### :negative_squared_cross_mark: Door Handle
 
-| Item                                                                                                                                        | Quantity | Material           | Size | Weight | Cost | Printed | Notes                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------- |
-| [handle](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_handle%20RevD.stl)           | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
-| [inner_latch](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_inner_latch%20RevD.stl) | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
-| [latch_a](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_a%20-%20updated.stl)  | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
-| [latch_b](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_b%20-%20updated.stl)  | 1        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| Item                                                                                                                                        | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------- |
+| [handle](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_handle%20RevD.stl)           |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| [inner_latch](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_inner_latch%20RevD.stl) |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| [latch_a](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_a%20-%20updated.stl)  |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| [latch_b](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/door_handle/STLS/mini_fridge_latch_b%20-%20updated.stl)  |        1 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
 
 ### :negative_squared_cross_mark: Hinges
 
-| Item                                                                                                                                                 | Quantity | Material           | Size | Weight | Cost | Printed | Notes                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ---- | ------ | ---- | :-----: | --------------------------------- |
-| [bottom_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_bottom_hinge_left%20x2.stl) | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
-| [top_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_top_hinge_left%20x2.stl)       | 2        | [LDO ASA (Orange)] |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| Item                                                                                                                                                 | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------- |
+| [bottom_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_bottom_hinge_left%20x2.stl) |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
+| [top_hinge_left](https://github.com/TheVoronModder/MiniFridge/blob/main/mini_fringe_parts/left_hinge/STLS/mini_fridge_top_hinge_left%20x2.stl)       |        2 | [LDO ASA (Orange)] |      |      |        |      |   :x:   | This is a mod by `TheVoronModder` |
 
 ## Assembly Complete
 

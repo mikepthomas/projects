@@ -47,12 +47,12 @@ The top and bottom support plates get fixed to the side support plates making up
 #### Parts Used
 
 | Item                 | Quantity |
-| -------------------- | -------- |
-| Bottom support plate | 1        |
-| Top support plate    | 1        |
-| Side support plate   | 2        |
-| M3x18 Screw          | 12       |
-| M3 Nut               | 12       |
+| -------------------- | -------: |
+| Bottom support plate |        1 |
+| Top support plate    |        1 |
+| Side support plate   |        2 |
+| M3x18 Screw          |       12 |
+| M3 Nut               |       12 |
 
 ### :white_check_mark: Assembly Step 2
 
@@ -63,11 +63,11 @@ And finally the support plate lock plates tie them together.
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 1](#-assembly-step-1) | 1        |
-| Support plate lock plate    | 2        |
-| M3x18 Screw                 | 4        |
-| M3 Nut                      | 4        |
+| --------------------------- | -------: |
+| [Step 1](#-assembly-step-1) |        1 |
+| Support plate lock plate    |        2 |
+| M3x18 Screw                 |        4 |
+| M3 Nut                      |        4 |
 
 ## Y Axis
 
@@ -80,17 +80,17 @@ The Y axis motor is secured to the back plate by the Y axis motor fixed plate an
 #### Parts Used
 
 | Item                            | Quantity |
-| ------------------------------- | -------- |
-| Back plate                      | 1        |
-| Y axis motor                    | 1        |
-| Y axis motor support            | 1        |
-| Y axis motor fixed plate        | 1        |
-| Y axis Limit switch fixed plate | 1        |
-| Y axis Limit Switch C 70CM      | 1        |
-| M3x12 Screw                     | 4        |
-| M2x12 Screw                     | 2        |
-| M3x18 Screw                     | 4        |
-| M3 Nut                          | 4        |
+| ------------------------------- | -------: |
+| Back plate                      |        1 |
+| Y axis motor                    |        1 |
+| Y axis motor support            |        1 |
+| Y axis motor fixed plate        |        1 |
+| Y axis Limit switch fixed plate |        1 |
+| Y axis Limit Switch C 70CM      |        1 |
+| M3x12 Screw                     |        4 |
+| M2x12 Screw                     |        2 |
+| M3x18 Screw                     |        4 |
+| M3 Nut                          |        4 |
 
 ### :white_check_mark: Assembly Step 4
 
@@ -101,11 +101,11 @@ The back plate is then attached to the rear of the frame.
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 2](#-assembly-step-2) | 1        |
-| [Step 3](#-assembly-step-3) | 1        |
-| M3x18 Screw                 | 4        |
-| M3 Nut                      | 4        |
+| --------------------------- | -------: |
+| [Step 2](#-assembly-step-2) |        1 |
+| [Step 3](#-assembly-step-3) |        1 |
+| M3x18 Screw                 |        4 |
+| M3 Nut                      |        4 |
 
 ### :white_check_mark: Assembly Step 5
 
@@ -116,11 +116,11 @@ The Y axis bearing support is attached to the front plate.
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| Y axis belt bearing support | 1        |
-| Front plate                 | 1        |
-| M3x18 Screw                 | 2        |
-| M3 Nut                      | 2        |
+| --------------------------- | -------: |
+| Y axis belt bearing support |        1 |
+| Front plate                 |        1 |
+| M3x18 Screw                 |        2 |
+| M3 Nut                      |        2 |
 
 ### :white_check_mark: Assembly Step 6
 
@@ -131,12 +131,12 @@ The front plate is then attached to the main frame using the 400mm M8 threaded r
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 4](#-assembly-step-4) | 1        |
-| [Step 5](#-assembly-step-5) | 1        |
-| Threaded rod 400mm          | 2        |
-| M8 Nut                      | 12       |
-| M8 Spacer                   | 12       |
+| --------------------------- | -------: |
+| [Step 4](#-assembly-step-4) |        1 |
+| [Step 5](#-assembly-step-5) |        1 |
+| Threaded rod 400mm          |        2 |
+| M8 Nut                      |       12 |
+| M8 Spacer                   |       12 |
 
 ### :white_check_mark: Assembly Step 7
 
@@ -147,13 +147,13 @@ The front plate is then attached to the main frame using the 400mm M8 threaded r
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 6](#-assembly-step-6) | 1        |
-| Y axis Guide rod            | 2        |
-| Guide rod back up plate     | 4        |
-| Linear bearing              | 4        |
-| M3x18 Screw                 | 4        |
-| M3 Nut                      | 12       |
+| --------------------------- | -------: |
+| [Step 6](#-assembly-step-6) |        1 |
+| Y axis Guide rod            |        2 |
+| Guide rod back up plate     |        4 |
+| Linear bearing              |        4 |
+| M3x18 Screw                 |        4 |
+| M3 Nut                      |       12 |
 
 ## Heated Bed
 
@@ -169,10 +169,10 @@ Two Y axis fixation clamps are loosely screwed to the hot bed fixed aluminium pl
 #### Parts Used
 
 | Item                          | Quantity |
-| ----------------------------- | -------- |
-| Hot bed fixed aluminium plate | 1        |
-| Y axis belt fixation clamp    | 2        |
-| M4x14 Screw                   | 4        |
+| ----------------------------- | -------: |
+| Hot bed fixed aluminium plate |        1 |
+| Y axis belt fixation clamp    |        2 |
+| M4x14 Screw                   |        4 |
 
 ### :white_check_mark: Assembly Step 9
 
@@ -183,10 +183,10 @@ The hot bed aluminium plate is then attached to the linear bearing blocks.
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 7](#-assembly-step-7) | 1        |
-| [Step 8](#-assembly-step-8) | 1        |
-| M4x8 Screw                  | 16       |
+| --------------------------- | -------: |
+| [Step 7](#-assembly-step-7) |        1 |
+| [Step 8](#-assembly-step-8) |        1 |
+| M4x8 Screw                  |       16 |
 
 ### :white_check_mark: Assembly Step 10
 
@@ -197,8 +197,8 @@ The Y axis belt is then installed and the carriage is moved back and forth along
 #### Parts Used
 
 | Item | Quantity |
-| ---- | -------- |
-| Belt | 1        |
+| ---- | -------: |
+| Belt |        1 |
 
 ### :white_check_mark: Assembly Step 11
 
@@ -212,13 +212,13 @@ The heated bed is then attached to the hot bed aluminium plate with 4 springs an
 #### Parts Used
 
 | Item                        | Quantity |
-| --------------------------- | -------- |
-| [Step 9](#-assembly-step-9) | 1        |
-| Hot bed                     | 1        |
-| M3x30 Screw                 | 4        |
-| M3 Nut                      | 4        |
-| Spring                      | 4        |
-| M3 wing nut                 | 4        |
+| --------------------------- | -------: |
+| [Step 9](#-assembly-step-9) |        1 |
+| Hot bed                     |        1 |
+| M3x30 Screw                 |        4 |
+| M3 Nut                      |        4 |
+| Spring                      |        4 |
+| M3 wing nut                 |        4 |
 
 ## Z Axis
 
@@ -231,17 +231,17 @@ The Z axis motors are attached to the Z axis motor fixed plates and then attache
 #### Parts Used
 
 | Item                            | Quantity |
-| ------------------------------- | -------- |
-| [Step 10](#-assembly-step-10)   | 1        |
-| Z axis motor                    | 2        |
-| Z axis motor fixed plate        | 2        |
-| Z axis motor support plate      | 4        |
-| Z axis Limit switch fixed plate | 2        |
-| Z axis Limit switch A 20CM      | 1        |
-| M3x18 Screw                     | 10       |
-| M3 Nut                          | 12       |
-| M3x12 Screw                     | 8        |
-| M3x25 Screw                     | 2        |
+| ------------------------------- | -------: |
+| [Step 10](#-assembly-step-10)   |        1 |
+| Z axis motor                    |        2 |
+| Z axis motor fixed plate        |        2 |
+| Z axis motor support plate      |        4 |
+| Z axis Limit switch fixed plate |        2 |
+| Z axis Limit switch A 20CM      |        1 |
+| M3x18 Screw                     |       10 |
+| M3 Nut                          |       12 |
+| M3x12 Screw                     |        8 |
+| M3x25 Screw                     |        2 |
 
 ### :white_check_mark: Assembly Step 13 & 14
 
@@ -252,15 +252,15 @@ The Z axis nut supports are each added to the last two 380mm smooth rods and the
 #### Parts Used
 
 | Item                          | Quantity |
-| ----------------------------- | -------- |
-| [Step 11](#-assembly-step-11) | 1        |
-| [Step 12](#-assembly-step-12) | 1        |
-| Right Z axis nut support      | 1        |
-| Guide rod back up plate       | 2        |
-| Z axis Guide rod 380mm        | 2        |
-| M3x18 Screw                   | 2        |
-| M3 Nut                        | 2        |
-| M2.5x10 Screw                 | 2        |
+| ----------------------------- | -------: |
+| [Step 11](#-assembly-step-11) |        1 |
+| [Step 12](#-assembly-step-12) |        1 |
+| Right Z axis nut support      |        1 |
+| Guide rod back up plate       |        2 |
+| Z axis Guide rod 380mm        |        2 |
+| M3x18 Screw                   |        2 |
+| M3 Nut                        |        2 |
+| M2.5x10 Screw                 |        2 |
 
 ### :white_check_mark: Assembly Step 15
 
@@ -274,9 +274,9 @@ The two 345mm 8mm lead screws are then threaded through the nut supports and fix
 #### Parts Used
 
 | Item                              | Quantity |
-| --------------------------------- | -------- |
-| [Step 13](#-assembly-step-13--14) | 1        |
-| T type lead screw 345mm           | 2        |
+| --------------------------------- | -------: |
+| [Step 13](#-assembly-step-13--14) |        1 |
+| T type lead screw 345mm           |        2 |
 
 ## X Axis
 
@@ -289,10 +289,10 @@ The two 345mm 8mm lead screws are then threaded through the nut supports and fix
 #### Parts Used
 
 | Item                              | Quantity |
-| --------------------------------- | -------- |
-| [Step 14](#-assembly-step-13--14) | 1        |
-| X axis guide rod                  | 2        |
-| Linear bearing                    | 3        |
+| --------------------------------- | -------: |
+| [Step 14](#-assembly-step-13--14) |        1 |
+| X axis guide rod                  |        2 |
+| Linear bearing                    |        3 |
 
 ### :white_check_mark: Assembly Step 17 & 18
 
@@ -303,13 +303,13 @@ The M4x6 screw is removed from the bottom of the extruder assembly, The extruder
 #### Parts Used
 
 | Item                     | Quantity |
-| ------------------------ | -------- |
-| Extruder                 | 1        |
-| 40x40x10 Axial Fan (12V) | 1        |
-| 40x40x10 Heatsink        | 1        |
-| Fan cover                | 1        |
-| M3x45 Screw              | 2        |
-| M3 Spacer                | 6-8      |
+| ------------------------ | -------: |
+| Extruder                 |        1 |
+| 40x40x10 Axial Fan (12V) |        1 |
+| 40x40x10 Heatsink        |        1 |
+| Fan cover                |        1 |
+| M3x45 Screw              |        2 |
+| M3 Spacer                |      6-8 |
 
 ### :white_check_mark: Assembly Step 19
 
@@ -320,10 +320,10 @@ The X axis carriage is then attached to the X axis linear bearing blocks.
 #### Parts Used
 
 | Item                                                         | Quantity |
-| ------------------------------------------------------------ | -------- |
-| [Step 16](#-assembly-step-16)                                | 1        |
-| Black Aluminium taken from [Step 17](#-assembly-step-17--18) | 1        |
-| M4x8 Screw                                                   | 12       |
+| ------------------------------------------------------------ | -------: |
+| [Step 16](#-assembly-step-16)                                |        1 |
+| Black Aluminium taken from [Step 17](#-assembly-step-17--18) |        1 |
+| M4x8 Screw                                                   |       12 |
 
 ### :white_check_mark: Assembly Step 20
 
@@ -334,10 +334,10 @@ And the extruder is attached to the carriage.
 #### Parts Used
 
 | Item                                                    | Quantity |
-| ------------------------------------------------------- | -------- |
-| [Step 18](#-assembly-step-17--18)                       | 1        |
-| [Step 19](#-assembly-step-19)                           | 1        |
-| M4x6 Screw taken from [Step 17](#-assembly-step-17--18) | 1        |
+| ------------------------------------------------------- | -------: |
+| [Step 18](#-assembly-step-17--18)                       |        1 |
+| [Step 19](#-assembly-step-19)                           |        1 |
+| M4x6 Screw taken from [Step 17](#-assembly-step-17--18) |        1 |
 
 ### :white_check_mark: Assembly Step 21
 
@@ -348,11 +348,11 @@ The part cooling fan is fixed to the front of the carriage.
 #### Parts Used
 
 | Item                           | Quantity |
-| ------------------------------ | -------- |
-| [Step 20](#-assembly-step-20)  | 1        |
-| 50x50x15 Centrifugal Fan (12V) | 1        |
-| Printed fan duct               | 1        |
-| M3x18 Screw                    | 2        |
+| ------------------------------ | -------: |
+| [Step 20](#-assembly-step-20)  |        1 |
+| 50x50x15 Centrifugal Fan (12V) |        1 |
+| Printed fan duct               |        1 |
+| M3x18 Screw                    |        2 |
 
 ### :white_check_mark: Assembly Step 22
 
@@ -366,11 +366,11 @@ The X axis motor is attached to the left Z axis nut support.
 #### Parts Used
 
 | Item                     | Quantity |
-| ------------------------ | -------- |
-| X shaft motor            | 1        |
-| Left Z shaft nut support | 1        |
-| M3x20 Screw              | 4        |
-| M3 Spacer                | 4        |
+| ------------------------ | -------: |
+| X shaft motor            |        1 |
+| Left Z shaft nut support |        1 |
+| M3x20 Screw              |        4 |
+| M3 Spacer                |        4 |
 
 ### :white_check_mark: Assembly Step 23 & 24
 
@@ -385,11 +385,11 @@ The X axis belt is then installed and the carriage is moved back and forth along
 #### Parts Used
 
 | Item        | Quantity |
-| ----------- | -------- |
-| Belt        | 1        |
-| M3x18 Screw | 2        |
-| M3 Nut      | 4        |
-| Cable ties  | 4        |
+| ----------- | -------: |
+| Belt        |        1 |
+| M3x18 Screw |        2 |
+| M3 Nut      |        4 |
+| Cable ties  |        4 |
 
 ## Electronics
 
@@ -402,12 +402,12 @@ the LCD 2004 screen is installed into the frame sandwiched between the top suppo
 #### Parts Used
 
 | Item                | Quantity |
-| ------------------- | -------- |
-| LCD 2004 screen     | 1        |
-| Pillar washer M3x7  | 4        |
-| Screen baffle plate | 1        |
-| M3x30 Screw         | 4        |
-| M3 Nut              | 8        |
+| ------------------- | -------: |
+| LCD 2004 screen     |        1 |
+| Pillar washer M3x7  |        4 |
+| Screen baffle plate |        1 |
+| M3x30 Screw         |        4 |
+| M3 Nut              |        8 |
 
 ### :white_check_mark: Assembly Step 26 & 27
 
@@ -418,10 +418,10 @@ The 12V power supply is fixed into place on the right of the frame.
 #### Parts Used
 
 | Item                          | Quantity |
-| ----------------------------- | -------- |
-| [Step 25](#-assembly-step-25) | 1        |
-| Power Supply 12V              | 1        |
-| M3x12 Screw                   | 3        |
+| ----------------------------- | -------: |
+| [Step 25](#-assembly-step-25) |        1 |
+| Power Supply 12V              |        1 |
+| M3x12 Screw                   |        3 |
 
 ### :white_check_mark: Assembly Step 28
 
@@ -432,12 +432,12 @@ The control board is fixed into place on the left side of the frame.
 #### Parts Used
 
 | Item                          | Quantity |
-| ----------------------------- | -------- |
-| [Step 25](#-assembly-step-25) | 1        |
-| Mainboard                     | 1        |
-| M3x12 Screw                   | 4        |
-| M3 Nut                        | 4        |
-| Pillar washer M3x15           | 4        |
+| ----------------------------- | -------: |
+| [Step 25](#-assembly-step-25) |        1 |
+| Mainboard                     |        1 |
+| M3x12 Screw                   |        4 |
+| M3 Nut                        |        4 |
+| Pillar washer M3x15           |        4 |
 
 ### :white_check_mark: Assembly Step 29 & 30
 
@@ -448,22 +448,22 @@ The various wires are then plugged into the correct spots on the power supply an
 #### Parts Used
 
 | Item                     | Quantity |
-| ------------------------ | -------- |
-| Power supply wire        | 700mm    |
-| X motor wire             | 400mm    |
-| Y motor wire             | 400mm    |
-| Left Z motor wire        | 400mm    |
-| Right Z motor wire       | 900mm    |
-| X limit switch wire      | 550mm    |
-| Y limit switch wire      | 700mm    |
-| Z limit switch wire      | 200mm    |
-| Extruder motor wire      | 900mm    |
-| 4010 Fan wire            | 1100mm   |
-| 5015 Blower wire         | 1100mm   |
-| Heating pipe wire        | 1000mm   |
-| Extruder thermistor wire | 1000mm   |
-| Hotbed wire              | 900mm    |
-| Screen wire              | 500mm    |
+| ------------------------ | -------: |
+| Power supply wire        |    700mm |
+| X motor wire             |    400mm |
+| Y motor wire             |    400mm |
+| Left Z motor wire        |    400mm |
+| Right Z motor wire       |    900mm |
+| X limit switch wire      |    550mm |
+| Y limit switch wire      |    700mm |
+| Z limit switch wire      |    200mm |
+| Extruder motor wire      |    900mm |
+| 4010 Fan wire            |   1100mm |
+| 5015 Blower wire         |   1100mm |
+| Heating pipe wire        |   1000mm |
+| Extruder thermistor wire |   1000mm |
+| Hotbed wire              |    900mm |
+| Screen wire              |    500mm |
 
 ## Testing
 
