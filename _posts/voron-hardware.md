@@ -2,6 +2,7 @@
 title: Voron Hardware
 heading: Custom PCBs for Voron Printers
 date: 2026-07-03T16:52:58.045Z
+lastmod: 2026-07-05T14:11:39.596Z
 author: Mike Thomas
 description: Sourcing parts and assembling custom PCBs for Voron Printers.
 preview: /assets/blog/voron-hardware/voron-hardware-hero.jpg
@@ -32,34 +33,34 @@ Kit contains the `Quantity` needed for building 1 unit.
 ## PCB
 
 | Item                              | Quantity | Received | Notes |
-| --------------------------------- | -------- | -------- | ----- |
-| Afterburner Toolhead PCB (rev3.2) | 1        | 6        |
+| --------------------------------- | -------: | -------: | ----- |
+| Afterburner Toolhead PCB (rev3.2) |        1 |        6 |
 
 ## Connectors
 
 | Item                                                | Quantity | Received | Notes              |
-| --------------------------------------------------- | -------- | -------- | ------------------ |
-| 2 Pin JST-XH Header                                 | 4        | 20       | HEF, PCF, TH0, XES |
-| 3 Pin JST-XH Header                                 | 1        | 20       | ABL                |
-| 4 Pin JST-XH Header                                 | 1        | 20       | E-STEP             |
-| MicroFit3 Dual Row Connector (14 pin)               | 1        | 10       |
-| MicroFit3 Dual Row Right Angle Receptacle (14 pin)  | 1        | 10       | MCU                |
-| MicroFit3 Single Row Connector (2 pin)              | 1        | 10       |
-| MicroFit3 Single Row Right Angle Receptacle (2 pin) | 1        | 10       | HE0                |
+| --------------------------------------------------- | -------: | -------: | ------------------ |
+| 2 Pin JST-XH Header                                 |        4 |       20 | HEF, PCF, TH0, XES |
+| 3 Pin JST-XH Header                                 |        1 |       20 | ABL                |
+| 4 Pin JST-XH Header                                 |        1 |       20 | E-STEP             |
+| MicroFit3 Dual Row Connector (14 pin)               |        1 |       10 |
+| MicroFit3 Dual Row Right Angle Receptacle (14 pin)  |        1 |       10 | MCU                |
+| MicroFit3 Single Row Connector (2 pin)              |        1 |       10 |
+| MicroFit3 Single Row Right Angle Receptacle (2 pin) |        1 |       10 | HE0                |
 
 ## Diodes
 
 | Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Schottky Diode (BAT85) | 1        | 7        |
+| ---------------------- | -------: | -------: | ----- |
+| Schottky Diode (BAT85) |        1 |        7 |
 
 ## SMD Components
 
 | Item                 | Quantity | Received | Notes |
-| -------------------- | -------- | -------- | ----- |
-| 0805 LED             | 1        |          | D1    |
-| 0805 Resistor (1.5K) | 1        |          | R1    |
-| 0805 Thermistor      | 1        |          | CT    |
+| -------------------- | -------: | -------: | ----- |
+| 0805 LED             |        1 |          | D1    |
+| 0805 Resistor (1.5K) |        1 |          | R1    |
+| 0805 Thermistor      |        1 |          | CT    |
 
 # Afterburner Toolhead PCB (ERCF)
 
@@ -70,36 +71,36 @@ Kit contains the `Quantity` needed for building 1 unit.
 ## PCB
 
 | Item                            | Quantity | Received | Notes |
-| ------------------------------- | -------- | -------- | ----- |
-| Afterburner Toolhead PCB (ERCF) | 1        | 5        |
+| ------------------------------- | -------: | -------: | ----- |
+| Afterburner Toolhead PCB (ERCF) |        1 |        5 |
 
 ## Connectors
 
 | Item                                                | Quantity | Received | Notes              |
-| --------------------------------------------------- | -------- | -------- | ------------------ |
-| 2 Pin JST-XH Header                                 | 4        | 20       | HEF, PCF, TH0, XES |
-| 3 Pin JST-XH Header                                 | 2        | 20       | ABL, FS            |
-| 4 Pin JST-XH Header                                 | 1        | 20       | E-STEP             |
-| MicroFit3 Dual Row Connector (2 pin)                | 1        | 10       |
-| MicroFit3 Dual Row Right Angle Receptacle (2 pin)   | 1        | 10       |
-| MicroFit3 Dual Row Connector (14 pin)               | 1        | 10       |
-| MicroFit3 Dual Row Right Angle Receptacle (14 pin)  | 1        | 10       | MCU                |
-| MicroFit3 Single Row Connector (2 pin)              | 1        | 10       |
-| MicroFit3 Single Row Right Angle Receptacle (2 pin) | 1        | 10       | HE0                |
+| --------------------------------------------------- | -------: | -------: | ------------------ |
+| 2 Pin JST-XH Header                                 |        4 |       20 | HEF, PCF, TH0, XES |
+| 3 Pin JST-XH Header                                 |        2 |       20 | ABL, FS            |
+| 4 Pin JST-XH Header                                 |        1 |       20 | E-STEP             |
+| MicroFit3 Dual Row Connector (2 pin)                |        1 |       10 |
+| MicroFit3 Dual Row Right Angle Receptacle (2 pin)   |        1 |       10 |
+| MicroFit3 Dual Row Connector (14 pin)               |        1 |       10 |
+| MicroFit3 Dual Row Right Angle Receptacle (14 pin)  |        1 |       10 | MCU                |
+| MicroFit3 Single Row Connector (2 pin)              |        1 |       10 |
+| MicroFit3 Single Row Right Angle Receptacle (2 pin) |        1 |       10 | HE0                |
 
 ## Diodes
 
 | Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| Schottky Diode (BAT85) | 1        | 7        |
+| ---------------------- | -------: | -------: | ----- |
+| Schottky Diode (BAT85) |        1 |        7 |
 
 ## SMD Components
 
 | Item                 | Quantity | Received | Notes |
-| -------------------- | -------- | -------- | ----- |
-| 0805 LED             | 1        |          | D1    |
-| 0805 Resistor (1.5K) | 1        |          | R1    |
-| 0805 Thermistor      | 1        |          | CT    |
+| -------------------- | -------: | -------: | ----- |
+| 0805 LED             |        1 |          | D1    |
+| 0805 Resistor (1.5K) |        1 |          | R1    |
+| 0805 Thermistor      |        1 |          | CT    |
 
 # ERCF Easy BRD
 
@@ -114,8 +115,8 @@ Kit contains the `Quantity` needed for building 1 unit.
 ## PCB
 
 | Item                   | Quantity | Received | Notes |
-| ---------------------- | -------- | -------- | ----- |
-| ERCF Easy BRD v1.1 PCB | 1        | 10       |
+| ---------------------- | -------: | -------: | ----- |
+| ERCF Easy BRD v1.1 PCB |        1 |       10 |
 
 ## Capacitors
 
@@ -128,15 +129,15 @@ Kit contains the `Quantity` needed for building 1 unit.
 ## Connectors
 
 | Item                             | Quantity | Received | Notes          |
-| -------------------------------- | -------- | -------- | -------------- |
-| 3 Pin JST-XH Header              | 4        | 20       | J1, J2, J3, J4 |
-| 4 Pin JST-XH Header              | 2        | 20       | J6, J7         |
-| 7-pin female header              | 2        | 10       | U1             |
-| 8-pin female header              | 4        | 18       | U3, U4         |
-| 2-pin female header              | 2        | 20       | U3, U4         |
-| 5-pin male connector             | 1        |          | J6             |
-| Jumper Cap 2.54mm                | 2        |          | J6             |
-| KF301 Screw Terminal (5mm pitch) | 1        | 12       | J5             |
+| -------------------------------- | -------: | -------: | -------------- |
+| 3 Pin JST-XH Header              |        4 |       20 | J1, J2, J3, J4 |
+| 4 Pin JST-XH Header              |        2 |       20 | J6, J7         |
+| 7-pin female header              |        2 |       10 | U1             |
+| 8-pin female header              |        4 |       18 | U3, U4         |
+| 2-pin female header              |        2 |       20 | U3, U4         |
+| 5-pin male connector             |        1 |          | J6             |
+| Jumper Cap 2.54mm                |        2 |          | J6             |
+| KF301 Screw Terminal (5mm pitch) |        1 |       12 | J5             |
 
 ## Integrated Circuits
 
@@ -175,120 +176,157 @@ The reference numbers in the notes field refer to the parts required marked on t
 ## PCB
 
 | Item                     | Quantity | Received | Notes |
-| ------------------------ | -------- | -------- | ----- |
-| ~Klipper Fan Hat PCB v1~ | ~1~      | 5        |
-| Klipper Fan Hat PCB v2   | 1        | 10       |
+| ------------------------ | -------: | -------: | ----- |
+| ~Klipper Fan Hat PCB v1~ |      ~1~ |        5 |
+| Klipper Fan Hat PCB v2   |        1 |       10 |
 
 ## Fasteners
 
 | Item                | Quantity | Received | Notes                                              |
-| ------------------- | -------- | -------- | -------------------------------------------------- |
-| M2.5x6 BHCS         | 4        | 50       | To mount the hat to the Raspberry Pi               |
-| M2.5x14 BHCS        | 4        | 10       | To mount the Fan                                   |
-| M2.5 Nut            | 4        | 50       | To mount the Fan                                   |
-| M2.5 Brass Standoff | 4        | 16       | To stop the fan inputs shorting on the HDMI Socket |
+| ------------------- | -------: | -------: | -------------------------------------------------- |
+| M2.5x6 BHCS         |        4 |       50 | To mount the hat to the Raspberry Pi               |
+| M2.5x14 BHCS        |        4 |       10 | To mount the Fan                                   |
+| M2.5 Nut            |        4 |       50 | To mount the Fan                                   |
+| M2.5 Brass Standoff |        4 |       16 | To stop the fan inputs shorting on the HDMI Socket |
 
 ## Connectors
 
-| Item                              | Quantity | Received           | Notes                           |
-| --------------------------------- | -------- | ------------------ | ------------------------------- |
-| 2 Pin JST-XH Header               | 5        | 20                 | FAN1-FAN5                       |
-| 3 Pin JST-XH Header               | 1        | 20                 | J4                              |
-| 4 Pin JST-XH Header               | 1        | 20                 | J3                              |
-| 5 Pin JST-XH Header               | 1        | 20                 | J2                              |
-| 40 Pin Raspberry Pi Header        | 1        | 7                  | J8                              |
-| Dupont Pin Headers                | 41 Pins  | 10 x 40 pin strips | J7, JP1-JP5, WP1, GPIO20-GPIO25 |
-| Jumper Cap 2.54mm                 | 6        | 109                | JP1-JP5, WP1                    |
-| KF301 Screw Terminal (5mm pitch)  | 1        | 10                 | J1                              |
-| PCB Panel Mount Blade Fuse Holder | 1        | 10                 | F1                              |
+| Item                              | Quantity |           Received | Notes                           |
+| --------------------------------- | -------: | -----------------: | ------------------------------- |
+| 2 Pin JST-XH Header               |        5 |                 20 | FAN1-FAN5                       |
+| 3 Pin JST-XH Header               |        1 |                 20 | J4                              |
+| 4 Pin JST-XH Header               |        1 |                 20 | J3                              |
+| 5 Pin JST-XH Header               |        1 |                 20 | J2                              |
+| 40 Pin Raspberry Pi Header        |        1 |                  7 | J8                              |
+| Dupont Pin Headers                |  41 Pins | 10 x 40 pin strips | J7, JP1-JP5, WP1, GPIO20-GPIO25 |
+| Jumper Cap 2.54mm                 |        6 |                109 | JP1-JP5, WP1                    |
+| KF301 Screw Terminal (5mm pitch)  |        1 |                 10 | J1                              |
+| PCB Panel Mount Blade Fuse Holder |        1 |                 10 | F1                              |
 
 ## SMD Components
 
 | Item                                    | Quantity | Received | Notes                  |
-| --------------------------------------- | -------- | -------- | ---------------------- |
-| 100nF Capacitor (1206 Package)          | 1        | 20       | C1                     |
-| 100Ω Resistor (1206 Package)            | 5        | 123      | R7, R9, R11, R13, R15  |
-| 1kΩ Resistor (1206 Package)             | 1        | 127      | R1                     |
-| 3.9kΩ Resistor (1206 Package)           | 2        | 112      | R2-R3                  |
-| 4.7kΩ Resistor (1206 Package)           | 7        | 103      | R4, R17-R22            |
-| 10kΩ Resistor (1206 Package)            | 5        | 111      | R8, R10, R12, R14, R16 |
-| LED Red (1206 Package)                  | 7        | 105      | D1-D7                  |
-| IRLML6344-TRPBF Mosfet (SOT-23 Package) | 5        | 100      | Q1-Q5                  |
+| --------------------------------------- | -------: | -------: | ---------------------- |
+| 100nF Capacitor (1206 Package)          |        1 |       20 | C1                     |
+| 100Ω Resistor (1206 Package)            |        5 |      123 | R7, R9, R11, R13, R15  |
+| 1kΩ Resistor (1206 Package)             |        1 |      127 | R1                     |
+| 3.9kΩ Resistor (1206 Package)           |        2 |      112 | R2-R3                  |
+| 4.7kΩ Resistor (1206 Package)           |        7 |      103 | R4, R17-R22            |
+| 10kΩ Resistor (1206 Package)            |        5 |      111 | R8, R10, R12, R14, R16 |
+| LED Red (1206 Package)                  |        7 |      105 | D1-D7                  |
+| IRLML6344-TRPBF Mosfet (SOT-23 Package) |        5 |      100 | Q1-Q5                  |
 
 ## Misc
 
 | Item                       | Quantity | Received | Notes                                                                   |
-| -------------------------- | -------- | -------- | ----------------------------------------------------------------------- |
-| 2510 Axial Fan             | 1        | 2        |
-| CAT24C32 EEPROM            | 1        | 15       | U1                                                                      |
-| DIP-8 Socket               | 1        | 20       | Not required, but makes switching EEPROM modules out easier for testing |
-| DS18B20 Temperature Sensor | 1        | 15       |
+| -------------------------- | -------: | -------: | ----------------------------------------------------------------------- |
+| 2510 Axial Fan             |        1 |        2 |
+| CAT24C32 EEPROM            |        1 |       15 | U1                                                                      |
+| DIP-8 Socket               |        1 |       20 | Not required, but makes switching EEPROM modules out easier for testing |
+| DS18B20 Temperature Sensor |        1 |       15 |
 
 # Microswitch Endstop
 
 ## PCB
 
 | Item                    | Quantity | Received | Notes |
-| ----------------------- | -------- | -------- | ----- |
-| Microswitch Endstop PCB | 1        | 4        |
+| ----------------------- | -------: | -------: | ----- |
+| Microswitch Endstop PCB |        1 |        4 |
 
 ## Connectors
 
 | Item                            | Quantity | Received | Notes |
-| ------------------------------- | -------- | -------- | ----- |
-| 4 Pin JST-XH Right Angle Header | 1        | 20       | J1    |
+| ------------------------------- | -------: | -------: | ----- |
+| 4 Pin JST-XH Right Angle Header |        1 |       20 | J1    |
 
 ## Misc
 
 | Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Omron D2F-01L Micro Switch | 2        | 30       |
+| -------------------------- | -------: | -------: | ----- |
+| Omron D2F-01L Micro Switch |        2 |       30 |
 
 # Microswitch Z Endstop
 
 ## PCB
 
 | Item                      | Quantity | Received | Notes |
-| ------------------------- | -------- | -------- | ----- |
-| Microswitch Z Endstop PCB | 1        | 9        |
+| ------------------------- | -------: | -------: | ----- |
+| Microswitch Z Endstop PCB |        1 |        9 |
 
 ## Connectors
 
 | Item                            | Quantity | Received | Notes |
-| ------------------------------- | -------- | -------- | ----- |
-| 2 Pin JST-XH Right Angle Header | 1        | 20       | HE1   |
+| ------------------------------- | -------: | -------: | ----- |
+| 2 Pin JST-XH Right Angle Header |        1 |       20 | HE1   |
 
 ## Misc
 
 | Item                       | Quantity | Received | Notes |
-| -------------------------- | -------- | -------- | ----- |
-| Omron D2F-01L Micro Switch | 1        | 30       | SW1   |
+| -------------------------- | -------: | -------: | ----- |
+| Omron D2F-01L Micro Switch |        1 |       30 | SW1   |
+
+# Nano Display
+
+## PCB
+
+| Item             | Quantity | Received | Notes |
+| ---------------- | -------: | -------: | ----- |
+| Nano Display PCB |        1 |        5 |
+
+## Connectors
+
+| Item                  | Quantity | Received | Notes  |
+| --------------------- | -------: | -------: | ------ |
+| 10 Pin Display Header |        2 |        6 | J1, J2 |
+| 15-pin female header  |        2 |          | P1, P2 |
+
+#### Misc
+
+| Item         | Quantity | Received | Notes |
+| ------------ | -------: | -------: | ----- |
+| Arduino Nano |        1 |        1 |
+
+# SKR Mini E3 V1.2/2.0 Screen Adaptor
+
+## PCB
+
+| Item                                    | Quantity | Received | Notes |
+| --------------------------------------- | -------: | -------: | ----- |
+| SKR Mini E3 V1.2/2.0 Screen Adaptor PCB |        1 |        5 |
+
+## Connectors
+
+| Item                          | Quantity | Received | Notes  |
+| ----------------------------- | -------: | -------: | ------ |
+| 6-pin Dual Row female header  |        1 |        8 | J2     |
+| 10-pin Dual Row female header |        1 |          | J1     |
+| 10 Pin Display Header         |        2 |        6 | J3, J4 |
 
 # V0 Umbilical
 
 ## PCB
 
 | Item         | Quantity | Received | Notes |
-| ------------ | -------- | -------- | ----- |
-| Frame PCB    | 1        | 9        |
-| Toolhead PCB | 1        | 8        |
+| ------------ | -------: | -------: | ----- |
+| Frame PCB    |        1 |        9 |
+| Toolhead PCB |        1 |        8 |
 
 ## Frame PCB Connectors
 
 | Item                                   | Quantity | Received | Notes         |
-| -------------------------------------- | -------- | -------- | ------------- |
-| 2 Pin JST-XH Header                    | 5        | 20       | J3, J4, J6-J8 |
-| 3 Pin JST-XH Header                    | 2        | 20       | J9, J12       |
-| 4 Pin JST-XH Header                    | 3        | 20       | J2, J10, J11  |
-| KF301 Screw Terminal (5mm pitch)       | 1        | 10       | J5            |
-| MicroFit3 Dual Row Connector (14 pin)  | 1        | 10       |
-| MicroFit3 Dual Row Receptacle (14 pin) | 1        | 10       | J1            |
+| -------------------------------------- | -------: | -------: | ------------- |
+| 2 Pin JST-XH Header                    |        5 |       20 | J3, J4, J6-J8 |
+| 3 Pin JST-XH Header                    |        2 |       20 | J9, J12       |
+| 4 Pin JST-XH Header                    |        3 |       20 | J2, J10, J11  |
+| KF301 Screw Terminal (5mm pitch)       |        1 |       10 | J5            |
+| MicroFit3 Dual Row Connector (14 pin)  |        1 |       10 |
+| MicroFit3 Dual Row Receptacle (14 pin) |        1 |       10 | J1            |
 
 ## Toolhead PCB Connectors
 
 | Item                                               | Quantity | Received | Notes |
-| -------------------------------------------------- | -------- | -------- | ----- |
-| 2 Pin JST-XH Header                                | 6        | 20       | J3-J8 |
-| 4 Pin JST-XH Header                                | 1        | 20       | J2    |
-| MicroFit3 Dual Row Connector (14 pin)              | 1        | 10       |
-| MicroFit3 Dual Row Right Angle Receptacle (14 pin) | 1        | 10       | J1    |
+| -------------------------------------------------- | -------: | -------: | ----- |
+| 2 Pin JST-XH Header                                |        6 |       20 | J3-J8 |
+| 4 Pin JST-XH Header                                |        1 |       20 | J2    |
+| MicroFit3 Dual Row Connector (14 pin)              |        1 |       10 |
+| MicroFit3 Dual Row Right Angle Receptacle (14 pin) |        1 |       10 | J1    |
