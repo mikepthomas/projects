@@ -40,9 +40,9 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Assembly
 
 | Item                   | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Body][Vault Tec Girl] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Vault Tec Girl] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Body][Vault Tec Girl] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Vault STL Bundle
 
@@ -55,37 +55,37 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vault Gear Door
 
 | Item                                          | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------- | -------- | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [CONSOLE_PLATFORM][Vault Design Starter Pack] | 1        | [eSun ABS+ (Grey)]         |      |      |        |      |   :x:   |
-| [DOOR_CONSOLE][Vault Design Starter Pack]     | 1        | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
-| [DOOR_GENERATOR][Vault Design Starter Pack]   | 1        | [Amazon Basics PLA (Blue)] |      |      |        |      |   :x:   |
-| [DOOR_PARK][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
-| [GEAR_DOOR][Vault Design Starter Pack]        | 1        | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
-| [LEFT_WALL][Vault Design Starter Pack]        | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
-| [RIGHT_WALL][Vault Design Starter Pack]       | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
-| [WALL_CENTRE][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| --------------------------------------------- | -------: | -------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [CONSOLE_PLATFORM][Vault Design Starter Pack] |        1 | [eSun ABS+ (Grey)]         |      |      |        |      |   :x:   |
+| [DOOR_CONSOLE][Vault Design Starter Pack]     |        1 | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
+| [DOOR_GENERATOR][Vault Design Starter Pack]   |        1 | [Amazon Basics PLA (Blue)] |      |      |        |      |   :x:   |
+| [DOOR_PARK][Vault Design Starter Pack]        |        1 | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [GEAR_DOOR][Vault Design Starter Pack]        |        1 | [eSun ABS+ (Yellow)]       |      |      |        |      |   :x:   |
+| [LEFT_WALL][Vault Design Starter Pack]        |        1 | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [RIGHT_WALL][Vault Design Starter Pack]       |        1 | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
+| [WALL_CENTRE][Vault Design Starter Pack]      |        1 | [Tinmorry PLA (Grey)]      |      |      |        |      |   :x:   |
 
 ### Vertical Supports
 
 | Item                                             | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BASIC_ELBOW][Vault Design Starter Pack]         | 5        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [BASIC_SUPPORT][Vault Design Starter Pack]       | 6        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [BASIC_T_JUNCTION][Vault Design Starter Pack]    | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [INTERIOR_ELBOW][Vault Design Starter Pack]      | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BASIC_ELBOW][Vault Design Starter Pack]         |        5 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_SUPPORT][Vault Design Starter Pack]       |        6 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_T_JUNCTION][Vault Design Starter Pack]    |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_ELBOW][Vault Design Starter Pack]      |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [INTERIOR_SUPPORT][Vault Design Starter Pack]    |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [INTERIOR_T_JUNCTION][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_T_JUNCTION][Vault Design Starter Pack] |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [INTERIOR_X_JUNCTION][Vault Design Starter Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Walls
 
 | Item                                       | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BASIC_DOOR][Vault Design Starter Pack]    | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [BASIC_DOORWAY][Vault Design Starter Pack] | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [BASIC_WALL][Vault Design Starter Pack]    | 7        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [BASIC_WINDOW][Vault Design Starter Pack]  | 3        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [INTERIOR_WALL][Vault Design Starter Pack] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BASIC_DOOR][Vault Design Starter Pack]    |        3 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_DOORWAY][Vault Design Starter Pack] |        3 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_WALL][Vault Design Starter Pack]    |        7 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [BASIC_WINDOW][Vault Design Starter Pack]  |        3 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [INTERIOR_WALL][Vault Design Starter Pack] |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Walls Upgrade Pack
 
@@ -96,23 +96,23 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                       | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BREACHED_WALL][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BREACHED_WALL][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [COLLAPSED_WALL][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT1][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT2][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT3][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT4][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT5][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT1][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT2][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT3][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT4][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT5][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [WALL_VARIANT6][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [WALL_VARIANT7][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT8][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT9][Vault Walls Upgrade Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT10][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT8][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT9][Vault Walls Upgrade Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT10][Vault Walls Upgrade Pack] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [WALL_VARIANT11][Vault Walls Upgrade Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT12][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT13][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [WALL_VARIANT14][Vault Walls Upgrade Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT12][Vault Walls Upgrade Pack] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT13][Vault Walls Upgrade Pack] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [WALL_VARIANT14][Vault Walls Upgrade Pack] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Utility Walls
 
@@ -121,13 +121,13 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                            | Quantity | Material                         | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | -------------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [UTILITY_DOORWAY][Vault Walls Upgrade Pack]     | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
-| [UTILITY_LEFT_ELBOW][Vault Walls Upgrade Pack]  | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
-| [UTILITY_RIGHT_ELBOW][Vault Walls Upgrade Pack] | 2        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
-| [UTILITY_SUPPORT][Vault Walls Upgrade Pack]     | 4        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| ----------------------------------------------- | -------: | -------------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [UTILITY_DOORWAY][Vault Walls Upgrade Pack]     |        2 | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_LEFT_ELBOW][Vault Walls Upgrade Pack]  |        2 | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_RIGHT_ELBOW][Vault Walls Upgrade Pack] |        2 | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_SUPPORT][Vault Walls Upgrade Pack]     |        4 | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
 | [UTILITY_T_JUNCTION][Vault Walls Upgrade Pack]  |          | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
-| [UTILITY_WALL][Vault Walls Upgrade Pack]        | 6        | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
+| [UTILITY_WALL][Vault Walls Upgrade Pack]        |        6 | [Tinmorry PLA (Matte Brick Red)] |      |      |        |      |   :x:   |
 
 ## Vault Flooring Pack
 
@@ -138,24 +138,24 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                           | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Basic_Large_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Basic_Medium_Tile][Vault Flooring Pack]       | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Basic_Small_Tile_Double][Vault Flooring Pack] | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Basic_Small_Tile][Vault Flooring Pack]        | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Floor_Hatch_Large_Tile][Vault Flooring Pack]  | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| ---------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Basic_Large_Tile][Vault Flooring Pack]        |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Medium_Tile][Vault Flooring Pack]       |        2 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Small_Tile_Double][Vault Flooring Pack] |        2 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Basic_Small_Tile][Vault Flooring Pack]        |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Hatch_Large_Tile][Vault Flooring Pack]  |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
 | [Floor_Hatch_Medium_Tile][Vault Flooring Pack] |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Floor_Mat_Large_Tile][Vault Flooring Pack]    | 2        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Floor_Mat_Large_Tile][Vault Flooring Pack]    |        2 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
 | [Floor_Mat_Medium_Tile][Vault Flooring Pack]   |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
 | [Maintenance_Tile_A][Vault Flooring Pack]      |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Maintenance_Tile_B][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Micro_Tile_Double][Vault Flooring Pack]       | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Maintenance_Tile_B][Vault Flooring Pack]      |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Micro_Tile_Double][Vault Flooring Pack]       |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
 | [Micro_Tile][Vault Flooring Pack]              |          | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Rubble_Medium_Tile][Vault Flooring Pack]      | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Sheet_Scrap][Vault Flooring Pack]             | 2        | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
-| [Sign][Vault Flooring Pack]                    | 1        | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
-| [Striped_Medium_Tile][Vault Flooring Pack]     | 1        | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
-| [Traffic_Cone][Vault Flooring Pack]            | 2        | [eSun ABS+ (Orange)] |      |      |        |      |   :x:   |
+| [Rubble_Medium_Tile][Vault Flooring Pack]      |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Sheet_Scrap][Vault Flooring Pack]             |        2 | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
+| [Sign][Vault Flooring Pack]                    |        1 | [eSun PLA (Wood)]    |      |      |        |      |   :x:   |
+| [Striped_Medium_Tile][Vault Flooring Pack]     |        1 | [eSun ABS+ (Grey)]   |      |      |        |      |   :x:   |
+| [Traffic_Cone][Vault Flooring Pack]            |        2 | [eSun ABS+ (Orange)] |      |      |        |      |   :x:   |
 
 ### Utility Floor
 
@@ -164,11 +164,11 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Floor_Hatch_Utility_Corridor_A][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Floor_Hatch_Utility_Corridor_B][Vault Flooring Pack] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Utility_Corridor_Large][Vault Flooring Pack]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Utility_Corridor_Small][Vault Flooring Pack]         | 2        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Floor_Hatch_Utility_Corridor_A][Vault Flooring Pack] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Floor_Hatch_Utility_Corridor_B][Vault Flooring Pack] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Utility_Corridor_Large][Vault Flooring Pack]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Utility_Corridor_Small][Vault Flooring Pack]         |        2 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Atrium Floor Support
 
@@ -177,7 +177,7 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                              | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ------------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [SHORT_ATRIUM_FLOOR_SUPPORT][Vault Flooring Pack] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Atrium Pack
@@ -187,26 +187,26 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [ADAPTER_C1][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [ADAPTER_C2][Vault Atrium Pack]                 | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [DOUBLE_ELBOW_BALUSTRADE][Vault Atrium Pack]    | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [FLOOR_SUPPORT][Vault Atrium Pack]              | 7        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [LARGE_BALUSTRADE][Vault Atrium Pack]           | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [LEFT_ELBOW_BALUSTRADE][Vault Atrium Pack]      | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [MEDIUM_BALUSTRADE][Vault Atrium Pack]          | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [MINI_BALUSTRADE][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [MITRE_ADAPTER_A][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [MITRE_ADAPTER_B][Vault Atrium Pack]            | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [MITRE_FLOOR][Vault Atrium Pack]                | 4        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [RIGHT_ELBOW_BALUSTRADE][Vault Atrium Pack]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STAIR_HEIGHT_ADAPTER][Vault Atrium Pack]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STAIRCASE_LEFT_BALUSTRADE][Vault Atrium Pack]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STAIRCASE_RIGHT_BALUSTRADE][Vault Atrium Pack] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STAIRCASE][Vault Atrium Pack]                  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STRAIGHT_ADAPTER_A][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STRAIGHT_ADAPTER_B][Vault Atrium Pack]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [STRAIGHT_FLOOR][Vault Atrium Pack]             | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [ADAPTER_C1][Vault Atrium Pack]                 |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [ADAPTER_C2][Vault Atrium Pack]                 |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [DOUBLE_ELBOW_BALUSTRADE][Vault Atrium Pack]    |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [FLOOR_SUPPORT][Vault Atrium Pack]              |        7 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LARGE_BALUSTRADE][Vault Atrium Pack]           |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LEFT_ELBOW_BALUSTRADE][Vault Atrium Pack]      |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MEDIUM_BALUSTRADE][Vault Atrium Pack]          |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MINI_BALUSTRADE][Vault Atrium Pack]            |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_ADAPTER_A][Vault Atrium Pack]            |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_ADAPTER_B][Vault Atrium Pack]            |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [MITRE_FLOOR][Vault Atrium Pack]                |        4 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [RIGHT_ELBOW_BALUSTRADE][Vault Atrium Pack]     |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIR_HEIGHT_ADAPTER][Vault Atrium Pack]       |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE_LEFT_BALUSTRADE][Vault Atrium Pack]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE_RIGHT_BALUSTRADE][Vault Atrium Pack] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STAIRCASE][Vault Atrium Pack]                  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_ADAPTER_A][Vault Atrium Pack]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_ADAPTER_B][Vault Atrium Pack]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [STRAIGHT_FLOOR][Vault Atrium Pack]             |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Interior Scatter
 
@@ -217,20 +217,20 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bed][Vault Interior Themed Scatter]                   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bed][Vault Interior Themed Scatter]                   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Dresser][Vault Interior Themed Scatter]               | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Kitchen_Counter_Large][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Office_Chair][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shower_1][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shower_2][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shower_3][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shower_4][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Sofa][Vault Interior Themed Scatter]                  | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Dresser][Vault Interior Themed Scatter]               |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Kitchen_Counter_Large][Vault Interior Themed Scatter] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Office_Chair][Vault Interior Themed Scatter]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_1][Vault Interior Themed Scatter]              |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_2][Vault Interior Themed Scatter]              |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_3][Vault Interior Themed Scatter]              |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shower_4][Vault Interior Themed Scatter]              |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Sofa][Vault Interior Themed Scatter]                  |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Toilet_Seat_Down][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Toilet_Seat_Up][Vault Interior Themed Scatter]        | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [VaultTec_Air_Vent2][Vault Interior Themed Scatter]    | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Toilet_Seat_Up][Vault Interior Themed Scatter]        |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [VaultTec_Air_Vent2][Vault Interior Themed Scatter]    |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Utility Dressing
 
@@ -239,7 +239,7 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ------------------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Dryer][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
@@ -254,7 +254,7 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                                   | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------ | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ------------------------------------------------------ | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [Air_Con][Vault Interior Themed Scatter]               |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Chair][Vault Interior Themed Scatter]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Expresso_Machine][Vault Interior Themed Scatter]      |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
@@ -272,22 +272,22 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Air_Con][Vault Interior Themed Scatter]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Chair][Vault Interior Themed Scatter]              | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| --------------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Air_Con][Vault Interior Themed Scatter]            |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chair][Vault Interior Themed Scatter]              |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Console_1][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Console_2][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Console_3][Vault Interior Themed Scatter]          |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Console_4][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Console_5][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Console_6][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Console_7][Vault Interior Themed Scatter]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Fire_Control][Vault Interior Themed Scatter]       | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Generator1][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Generator2][Vault Interior Themed Scatter]         | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Generator3][Vault Interior Themed Scatter]         | 4        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Office_Chair][Vault Interior Themed Scatter]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shipping_Container][Vault Interior Themed Scatter] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_4][Vault Interior Themed Scatter]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_5][Vault Interior Themed Scatter]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_6][Vault Interior Themed Scatter]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Console_7][Vault Interior Themed Scatter]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Fire_Control][Vault Interior Themed Scatter]       |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator1][Vault Interior Themed Scatter]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator2][Vault Interior Themed Scatter]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Generator3][Vault Interior Themed Scatter]         |        4 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Office_Chair][Vault Interior Themed Scatter]       |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shipping_Container][Vault Interior Themed Scatter] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ## Vault Tech Office Bundle
 
@@ -302,7 +302,7 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                           | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| ---------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [HeavyDutyConsoles_A][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [HeavyDutyConsoles_B][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [HeavyDutyConsoles_C][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
@@ -314,15 +314,15 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [HiTecDrawer][Vault Tec Office Bundle]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [HiTecDrawer][Vault Tec Office Bundle]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Safe][Vault Tec Office Bundle]                 |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [TankerDesk_DrawerA][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [TankerDesk_DrawerB][Vault Tec Office Bundle]   | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [TankerDesk_Top][Vault Tec Office Bundle]       | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Terminal_Desktop][Vault Tec Office Bundle]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_DrawerA][Vault Tec Office Bundle]   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_DrawerB][Vault Tec Office Bundle]   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [TankerDesk_Top][Vault Tec Office Bundle]       |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Terminal_Desktop][Vault Tec Office Bundle]     |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Terminal_WallMounted][Vault Tec Office Bundle] |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [VaultLocker][Vault Tec Office Bundle]          | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [VaultLocker][Vault Tec Office Bundle]          |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ![Vault Tec Lockers](https://modiphius.net/cdn/shop/products/1-Painted-Shot-Fallout-Wasteland-Warfare-MUH051819_1280x.jpg)
 
@@ -331,15 +331,15 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Modular Shelving
 
 | Item                                          | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| --------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [BlankShelf][Vault Tec Office Bundle]         |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shelf A][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf A][Vault Tec Office Bundle]            |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Shelf B][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Shelf C][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Shelf D][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Shelf E][Vault Tec Office Bundle]            | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Shelf E][Vault Tec Office Bundle]            |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Shelf F][Vault Tec Office Bundle]            |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [ShortRackingSingle][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [ShortRackingSingle][Vault Tec Office Bundle] |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [TallRackingSingle][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Vault Tec Crates
@@ -349,11 +349,11 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                         | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Crate_01\_(Small)][Vault Tec Office Bundle] | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| -------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Crate_01\_(Small)][Vault Tec Office Bundle] |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Crate_02\_(Tall)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [Crate_03\_(Wide)][Vault Tec Office Bundle]  |          | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Crate_04\_(Big)][Vault Tec Office Bundle]   | 2        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Crate_04\_(Big)][Vault Tec Office Bundle]   |        2 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 # Example Layouts
 
@@ -366,19 +366,19 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vertical Supports
 
 | Item                | Quantity |
-| ------------------- | -------- |
-| BASIC_ELBOW         | 5        |
-| BASIC_SUPPORT       | 3        |
-| INTERIOR_T_JUNCTION | 2        |
+| ------------------- | -------: |
+| BASIC_ELBOW         |        5 |
+| BASIC_SUPPORT       |        3 |
+| INTERIOR_T_JUNCTION |        2 |
 
 ### Walls
 
 | Item          | Quantity |
-| ------------- | -------- |
-| BASIC_DOOR    | 1        |
-| BASIC_DOORWAY | 2        |
-| BASIC_WALL    | 7        |
-| BASIC_WINDOW  | 2        |
+| ------------- | -------: |
+| BASIC_DOOR    |        1 |
+| BASIC_DOORWAY |        2 |
+| BASIC_WALL    |        7 |
+| BASIC_WINDOW  |        2 |
 
 ## Vault Entrance
 
@@ -389,31 +389,31 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vault Gear Door
 
 | Item             | Quantity |
-| ---------------- | -------- |
-| CONSOLE_PLATFORM | 1        |
-| DOOR_CONSOLE     | 1        |
-| DOOR_GENERATOR   | 1        |
-| DOOR_PARK        | 1        |
-| GEAR_DOOR        | 1        |
-| LEFT_WALL        | 1        |
-| RIGHT_WALL       | 1        |
-| WALL_CENTRE      | 1        |
+| ---------------- | -------: |
+| CONSOLE_PLATFORM |        1 |
+| DOOR_CONSOLE     |        1 |
+| DOOR_GENERATOR   |        1 |
+| DOOR_PARK        |        1 |
+| GEAR_DOOR        |        1 |
+| LEFT_WALL        |        1 |
+| RIGHT_WALL       |        1 |
+| WALL_CENTRE      |        1 |
 
 ### Vertical Supports
 
 | Item          | Quantity |
-| ------------- | -------- |
-| BASIC_ELBOW   | 4        |
-| BASIC_SUPPORT | 6        |
+| ------------- | -------: |
+| BASIC_ELBOW   |        4 |
+| BASIC_SUPPORT |        6 |
 
 ### Walls
 
 | Item          | Quantity |
-| ------------- | -------- |
-| BASIC_DOOR    | 3        |
-| BASIC_DOORWAY | 3        |
-| BASIC_WALL    | 3        |
-| BASIC_WINDOW  | 3        |
+| ------------- | -------: |
+| BASIC_DOOR    |        3 |
+| BASIC_DOORWAY |        3 |
+| BASIC_WALL    |        3 |
+| BASIC_WINDOW  |        3 |
 
 ## Dorm Room
 
@@ -424,27 +424,27 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vertical Supports
 
 | Item                | Quantity |
-| ------------------- | -------- |
-| BASIC_ELBOW         | 5        |
-| BASIC_SUPPORT       | 3        |
-| BASIC_T_JUNCTION    | 1        |
-| INTERIOR_T_JUNCTION | 1        |
+| ------------------- | -------: |
+| BASIC_ELBOW         |        5 |
+| BASIC_SUPPORT       |        3 |
+| BASIC_T_JUNCTION    |        1 |
+| INTERIOR_T_JUNCTION |        1 |
 
 ### Walls
 
 | Item           | Quantity |
-| -------------- | -------- |
-| BASIC_DOOR     | 1        |
-| BASIC_DOORWAY  | 2        |
-| BASIC_WALL     | 1        |
-| BASIC_WINDOW   | 1        |
-| BREACHED_WALL  | 1        |
-| WALL_VARIANT1  | 1        |
-| WALL_VARIANT3  | 1        |
-| WALL_VARIANT9  | 1        |
-| WALL_VARIANT10 | 1        |
-| WALL_VARIANT13 | 1        |
-| WALL_VARIANT14 | 1        |
+| -------------- | -------: |
+| BASIC_DOOR     |        1 |
+| BASIC_DOORWAY  |        2 |
+| BASIC_WALL     |        1 |
+| BASIC_WINDOW   |        1 |
+| BREACHED_WALL  |        1 |
+| WALL_VARIANT1  |        1 |
+| WALL_VARIANT3  |        1 |
+| WALL_VARIANT9  |        1 |
+| WALL_VARIANT10 |        1 |
+| WALL_VARIANT13 |        1 |
+| WALL_VARIANT14 |        1 |
 
 ### Scatter
 
@@ -455,28 +455,28 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 #### Vault Interior Scatter
 
 | Item                  | Quantity |
-| --------------------- | -------- |
-| Bed                   | 1        |
-| Dresser               | 1        |
-| Kitchen_Counter_Large | 1        |
-| Office_Chair          | 1        |
-| Shower_1              | 1        |
-| Shower_2              | 1        |
-| Shower_3              | 1        |
-| Shower_4              | 1        |
-| Sofa                  | 2        |
-| Toilet_Seat_Up        | 1        |
-| VaultTec_Air_Vent2    | 1        |
+| --------------------- | -------: |
+| Bed                   |        1 |
+| Dresser               |        1 |
+| Kitchen_Counter_Large |        1 |
+| Office_Chair          |        1 |
+| Shower_1              |        1 |
+| Shower_2              |        1 |
+| Shower_3              |        1 |
+| Shower_4              |        1 |
+| Sofa                  |        2 |
+| Toilet_Seat_Up        |        1 |
+| VaultTec_Air_Vent2    |        1 |
 
 #### Vault Tech Office Bundle
 
 | Item               | Quantity |
-| ------------------ | -------- |
-| HiTecDrawer        | 1        |
-| TankerDesk_DrawerA | 1        |
-| TankerDesk_DrawerB | 1        |
-| TankerDesk_Top     | 1        |
-| Terminal_Desktop   | 1        |
+| ------------------ | -------: |
+| HiTecDrawer        |        1 |
+| TankerDesk_DrawerA |        1 |
+| TankerDesk_DrawerB |        1 |
+| TankerDesk_Top     |        1 |
+| Terminal_Desktop   |        1 |
 
 ## Reactor
 
@@ -487,28 +487,28 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vertical Supports
 
 | Item             | Quantity |
-| ---------------- | -------- |
-| BASIC_ELBOW      | 4        |
-| BASIC_SUPPORT    | 6        |
-| BASIC_T_JUNCTION | 2        |
-| INTERIOR_ELBOW   | 1        |
+| ---------------- | -------: |
+| BASIC_ELBOW      |        4 |
+| BASIC_SUPPORT    |        6 |
+| BASIC_T_JUNCTION |        2 |
+| INTERIOR_ELBOW   |        1 |
 
 ### Walls
 
 | Item           | Quantity |
-| -------------- | -------- |
-| BASIC_DOOR     | 2        |
-| BASIC_DOORWAY  | 3        |
-| BASIC_WALL     | 1        |
-| BASIC_WINDOW   | 2        |
-| INTERIOR_WALL  | 2        |
-| WALL_VARIANT2  | 1        |
-| WALL_VARIANT4  | 1        |
-| WALL_VARIANT5  | 1        |
-| WALL_VARIANT8  | 1        |
-| WALL_VARIANT12 | 1        |
-| WALL_VARIANT13 | 1        |
-| WALL_VARIANT14 | 1        |
+| -------------- | -------: |
+| BASIC_DOOR     |        2 |
+| BASIC_DOORWAY  |        3 |
+| BASIC_WALL     |        1 |
+| BASIC_WINDOW   |        2 |
+| INTERIOR_WALL  |        2 |
+| WALL_VARIANT2  |        1 |
+| WALL_VARIANT4  |        1 |
+| WALL_VARIANT5  |        1 |
+| WALL_VARIANT8  |        1 |
+| WALL_VARIANT12 |        1 |
+| WALL_VARIANT13 |        1 |
+| WALL_VARIANT14 |        1 |
 
 ### Floor
 
@@ -517,20 +517,20 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                    | Quantity |
-| ----------------------- | -------- |
-| Basic_Large_Tile        | 1        |
-| Basic_Medium_Tile       | 2        |
-| Basic_Small_Tile_Double | 2        |
-| Basic_Small_Tile        | 1        |
-| Floor_Hatch_Large_Tile  | 1        |
-| Floor_Mat_Large_Tile    | 2        |
-| Maintenance_Tile_B      | 1        |
-| Micro_Tile_Double       | 1        |
-| Rubble_Medium_Tile      | 1        |
-| Sheet_Scrap             | 2        |
-| Sign                    | 1        |
-| Striped_Medium_Tile     | 1        |
-| Traffic_Cone            | 2        |
+| ----------------------- | -------: |
+| Basic_Large_Tile        |        1 |
+| Basic_Medium_Tile       |        2 |
+| Basic_Small_Tile_Double |        2 |
+| Basic_Small_Tile        |        1 |
+| Floor_Hatch_Large_Tile  |        1 |
+| Floor_Mat_Large_Tile    |        2 |
+| Maintenance_Tile_B      |        1 |
+| Micro_Tile_Double       |        1 |
+| Rubble_Medium_Tile      |        1 |
+| Sheet_Scrap             |        2 |
+| Sign                    |        1 |
+| Striped_Medium_Tile     |        1 |
+| Traffic_Cone            |        2 |
 
 ### Scatter
 
@@ -541,30 +541,30 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 #### Vault Interior Scatter
 
 | Item               | Quantity |
-| ------------------ | -------- |
-| Air_Con            | 1        |
-| Chair              | 1        |
-| Console_4          | 1        |
-| Console_5          | 1        |
-| Console_6          | 1        |
-| Console_7          | 1        |
-| Fire_Control       | 2        |
-| Generator1         | 1        |
-| Generator2         | 1        |
-| Generator3         | 4        |
-| Office_Chair       | 1        |
-| Shipping_Container | 1        |
+| ------------------ | -------: |
+| Air_Con            |        1 |
+| Chair              |        1 |
+| Console_4          |        1 |
+| Console_5          |        1 |
+| Console_6          |        1 |
+| Console_7          |        1 |
+| Fire_Control       |        2 |
+| Generator1         |        1 |
+| Generator2         |        1 |
+| Generator3         |        4 |
+| Office_Chair       |        1 |
+| Shipping_Container |        1 |
 
 #### Vault Tech Office Bundle
 
 | Item               | Quantity |
-| ------------------ | -------- |
-| Crate_01\_(Small)  | 2        |
-| Crate_04\_(Big)    | 2        |
-| Shelf A            | 1        |
-| Shelf E            | 1        |
-| ShortRackingSingle | 2        |
-| VaultLocker        | 2        |
+| ------------------ | -------: |
+| Crate_01\_(Small)  |        2 |
+| Crate_04\_(Big)    |        2 |
+| Shelf A            |        1 |
+| Shelf E            |        1 |
+| ShortRackingSingle |        2 |
+| VaultLocker        |        2 |
 
 ## Utility Corridor
 
@@ -573,12 +573,12 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity |
-| ------------------- | -------- |
-| UTILITY_DOORWAY     | 2        |
-| UTILITY_LEFT_ELBOW  | 2        |
-| UTILITY_RIGHT_ELBOW | 2        |
-| UTILITY_SUPPORT     | 4        |
-| UTILITY_WALL        | 6        |
+| ------------------- | -------: |
+| UTILITY_DOORWAY     |        2 |
+| UTILITY_LEFT_ELBOW  |        2 |
+| UTILITY_RIGHT_ELBOW |        2 |
+| UTILITY_SUPPORT     |        4 |
+| UTILITY_WALL        |        6 |
 
 ### Floor
 
@@ -587,11 +587,11 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                           | Quantity |
-| ------------------------------ | -------- |
-| Floor_Hatch_Utility_Corridor_A | 1        |
-| Floor_Hatch_Utility_Corridor_B | 1        |
-| Utility_Corridor_Large         | 1        |
-| Utility_Corridor_Small         | 2        |
+| ------------------------------ | -------: |
+| Floor_Hatch_Utility_Corridor_A |        1 |
+| Floor_Hatch_Utility_Corridor_B |        1 |
+| Utility_Corridor_Large         |        1 |
+| Utility_Corridor_Small         |        2 |
 
 ## Atrium (Small)
 
@@ -604,40 +604,40 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 ### Vertical Supports
 
 | Item          | Quantity |
-| ------------- | -------- |
-| BASIC_ELBOW   | 4        |
-| BASIC_SUPPORT | 6        |
+| ------------- | -------: |
+| BASIC_ELBOW   |        4 |
+| BASIC_SUPPORT |        6 |
 
 ### Walls
 
 | Item         | Quantity |
-| ------------ | -------- |
-| BASIC_WALL   | 7        |
-| BASIC_WINDOW | 2        |
+| ------------ | -------: |
+| BASIC_WALL   |        7 |
+| BASIC_WINDOW |        2 |
 
 ### Vault Atrium Pack
 
 | Item                       | Quantity |
-| -------------------------- | -------- |
-| ADAPTER_C1                 | 2        |
-| ADAPTER_C2                 | 2        |
-| DOUBLE_ELBOW_BALUSTRADE    | 2        |
-| FLOOR_SUPPORT              | 7        |
-| LARGE_BALUSTRADE           | 2        |
-| LEFT_ELBOW_BALUSTRADE      | 1        |
-| MEDIUM_BALUSTRADE          | 2        |
-| MINI_BALUSTRADE            | 2        |
-| MITRE_ADAPTER_A            | 2        |
-| MITRE_ADAPTER_B            | 2        |
-| MITRE_FLOOR                | 4        |
-| RIGHT_ELBOW_BALUSTRADE     | 1        |
-| STAIR_HEIGHT_ADAPTER       | 1        |
-| STAIRCASE_LEFT_BALUSTRADE  | 1        |
-| STAIRCASE_RIGHT_BALUSTRADE | 1        |
-| STAIRCASE                  | 1        |
-| STRAIGHT_ADAPTER_A         | 1        |
-| STRAIGHT_ADAPTER_B         | 1        |
-| STRAIGHT_FLOOR             | 2        |
+| -------------------------- | -------: |
+| ADAPTER_C1                 |        2 |
+| ADAPTER_C2                 |        2 |
+| DOUBLE_ELBOW_BALUSTRADE    |        2 |
+| FLOOR_SUPPORT              |        7 |
+| LARGE_BALUSTRADE           |        2 |
+| LEFT_ELBOW_BALUSTRADE      |        1 |
+| MEDIUM_BALUSTRADE          |        2 |
+| MINI_BALUSTRADE            |        2 |
+| MITRE_ADAPTER_A            |        2 |
+| MITRE_ADAPTER_B            |        2 |
+| MITRE_FLOOR                |        4 |
+| RIGHT_ELBOW_BALUSTRADE     |        1 |
+| STAIR_HEIGHT_ADAPTER       |        1 |
+| STAIRCASE_LEFT_BALUSTRADE  |        1 |
+| STAIRCASE_RIGHT_BALUSTRADE |        1 |
+| STAIRCASE                  |        1 |
+| STRAIGHT_ADAPTER_A         |        1 |
+| STRAIGHT_ADAPTER_B         |        1 |
+| STRAIGHT_FLOOR             |        2 |
 
 ### First Floor
 
@@ -660,23 +660,23 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Body_Front][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Body_Rear][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Cage][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Center_Axel][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Fork][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Hydraulic_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Hydraulic_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Lift_Elevator][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rear_Axel_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rear_Axel_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rear_Wheel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Side_Mirror_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Side_Mirror_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Body_Front][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Body_Rear][Industrial Vehicles]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cage][Industrial Vehicles]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Center_Axel][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Fork][Industrial Vehicles]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_L][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_R][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lift_Elevator][Industrial Vehicles]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Axel_L][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Axel_R][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Side_Mirror_L][Industrial Vehicles]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Side_Mirror_R][Industrial Vehicles]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_L][Industrial Vehicles]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_R][Industrial Vehicles]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Forklift Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-293156_1280x.jpg)
 
@@ -689,21 +689,21 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                               | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Arm_R][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bucket][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Chassis][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Forks][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Hydraulic_L][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Hydraulic_R][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Lights_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Lights_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Mirror_L][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Mirror_R][Industrial Vehicles]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Track_L][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Track_R][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Turret][Industrial Vehicles]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Industrial Vehicles]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Arm_R][Industrial Vehicles]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bucket][Industrial Vehicles]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Chassis][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Forks][Industrial Vehicles]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_L][Industrial Vehicles] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Hydraulic_R][Industrial Vehicles] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lights_L][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Lights_R][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Mirror_L][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Mirror_R][Industrial Vehicles]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Track_L][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Track_R][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Turret][Industrial Vehicles]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Megaloader Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-691151_1280x.jpg)
 
@@ -716,15 +716,15 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Center][Industrial Vehicles]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Chassis][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Controls][Industrial Vehicles]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_L][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_R][Industrial Vehicles]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Center][Industrial Vehicles]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Chassis][Industrial Vehicles]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Controls][Industrial Vehicles]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front][Industrial Vehicles]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Seat][Industrial Vehicles]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_L][Industrial Vehicles]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_R][Industrial Vehicles]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Street Cleaner Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-965219_1280x.jpg)
 
@@ -737,17 +737,17 @@ There is a whole [Map Pack devoted to the Vault](https://modiphius.net/products/
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Back][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Front_Axel][Industrial Vehicles]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Front_Wheel_L][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Front_Wheel_R][Industrial Vehicles]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Front][Industrial Vehicles]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Gear_Shifter][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rear_Wheel_L][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rear_Wheel_R][Industrial Vehicles]   | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Seat][Industrial Vehicles]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Steering_Wheel][Industrial Vehicles] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Back][Industrial Vehicles]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Axel][Industrial Vehicles]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Wheel_L][Industrial Vehicles]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front_Wheel_R][Industrial Vehicles]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Front][Industrial Vehicles]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Gear_Shifter][Industrial Vehicles]   |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel_L][Industrial Vehicles]   |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Wheel_R][Industrial Vehicles]   |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Seat][Industrial Vehicles]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Industrial Vehicles] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ![Tractor Rear](https://modiphius.net/cdn/shop/files/fallout-terrain-print-at-home-industrial-vehicles-stl-fallout-wasteland-warfare-modiphius-entertainment-447551_1280x.jpg)
 

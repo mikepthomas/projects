@@ -146,33 +146,33 @@ The Getting Acclimated book explains further detail and has a few Tutorials so t
 
 This tutorial gets you used to the moving mechanics of the game by retrieving a 10mm Pistol from a crate.
 
-| Item                            | Quantity | Material          | Time | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------- | -------- | ----------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
-| [Wood Crate][Streets of Boston] | 1        | [eSun PLA (Wood)] | 12m  | 0.53m | 0.89g  | £0.03 |   :x:   |
+| Item                            | Quantity | Material          | Time |  Size | Weight |  Cost | Printed | Notes |
+| ------------------------------- | -------: | ----------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [Wood Crate][Streets of Boston] |        1 | [eSun PLA (Wood)] |  12m | 0.53m |  0.89g | £0.03 |   :x:   |
 
 ##### Tutorial 2: Shooting Range
 
 This tutorial gets you used to the shooting mechanics of the game by shooting cans with your new 10mm Pistol.
 
-| Item                                  | Quantity | Material             | Time | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------- | -------- | -------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
-| [Water Purified][Chems Meds and Food] | 5        | [eSun ABS+ (Silver)] | 2m   | 0.04m | 0.10g  | £0.01 |   :x:   |
+| Item                                  | Quantity | Material             | Time |  Size | Weight |  Cost | Printed | Notes |
+| ------------------------------------- | -------: | -------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [Water Purified][Chems Meds and Food] |        5 | [eSun ABS+ (Silver)] |   2m | 0.04m |  0.10g | £0.01 |   :x:   |
 
 ##### Tutorial 3: Weird Harvest
 
 This tutorial gets introduces melee mechanics of the game by destroying Mutfruit with a Baseball Bat.
 
-| Item                                 | Quantity | Material             | Time | Size  | Weight | Cost  | Printed | Notes |
-| ------------------------------------ | -------- | -------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
-| [Mutfruit Pile][Chems Meds and Food] | 5        | [eSun ABS+ (Purple)] | 15m  | 0.40m | 1.02g  | £0.02 |   :x:   |
+| Item                                 | Quantity | Material             | Time |  Size | Weight |  Cost | Printed | Notes |
+| ------------------------------------ | -------: | -------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [Mutfruit Pile][Chems Meds and Food] |        5 | [eSun ABS+ (Purple)] |  15m | 0.40m |  1.02g | £0.02 |   :x:   |
 
 ##### Tutorial 4: Solving the Rat Problem
 
 This tutorial brings together all that we have learned so far by using a Hunting Rifle to seal up some dangerous looking Mole Rat mounds.
 
-| Item                               | Quantity | Material            | Time | Size  | Weight | Cost  | Printed | Notes |
-| ---------------------------------- | -------- | ------------------- | ---- | ----- | ------ | ----- | :-----: | ----- |
-| [Slabs & Stones 4][Slabs & Stones] | 5        | [eSun ABS+ (Brown)] | 5m   | 0.16m | 0.40g  | £0.01 |   :x:   |
+| Item                               | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes |
+| ---------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [Slabs & Stones 4][Slabs & Stones] |        5 | [eSun ABS+ (Brown)] |   5m | 0.16m |  0.40g | £0.01 |   :x:   |
 
 ### Errata
 
@@ -212,9 +212,9 @@ This tutorial brings together all that we have learned so far by using a Hunting
 3D Printed box to hold all your [Nuka Cola Caps Set].
 
 | Item                     | Quantity | Material                     | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------ | -------- | ---------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom][Caps Stash Tub] | 1        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   |
-| [lid][Caps Stash Tub]    | 1        | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   |
+| ------------------------ | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [bottom][Caps Stash Tub] |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   |
+| [lid][Caps Stash Tub]    |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |   :x:   |
 
 [Caps Stash Tub]: https://www.thingiverse.com/thing:3140194/files
 
@@ -333,8 +333,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 ##### Big John’s Salvage Showdown
 
 | Item                                                | Quantity | Material | Time | Size | Weight | Cost | Printed | Released | Notes |
-| --------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
-| [Shipping_Container][Vault Interior Themed Scatter] | 20       |          |      |      |        |      |   :x:   |          |
+| --------------------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | -------- | ----- |
+| [Shipping_Container][Vault Interior Themed Scatter] |       20 |          |      |      |        |      |   :x:   |          |
 
 [Vault Interior Themed Scatter]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-vault-interior-themed-dressing-scatter-stl
 
@@ -366,8 +366,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 ##### The Shoot
 
 | Item                                               | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Released | Notes |
-| -------------------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | -------- | ----- |
-| [Nuka Cola Bottle (no label)][Chems Meds and Food] | 1        | [eSun ABS+ (Light Blue)] |      |      |        |      |   :x:   |          |
+| -------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | -------- | ----- |
+| [Nuka Cola Bottle (no label)][Chems Meds and Food] |        1 | [eSun ABS+ (Light Blue)] |      |      |        |      |   :x:   |          |
 
 ## Wave 2 - Raiders
 
@@ -598,15 +598,15 @@ This scenario was designed for using the `Crashed Vertibird`.
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [AltWing][Crashed Vertibird STL]      | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Engine][Crashed Vertibird STL]       | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [NonHandedFin][Crashed Vertibird STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Prop][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [REVISEDMain][Crashed Vertibird STL]  | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Rubble][Crashed Vertibird STL]       | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Tail][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Wing][Crashed Vertibird STL]         | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [AltWing][Crashed Vertibird STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Engine][Crashed Vertibird STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [NonHandedFin][Crashed Vertibird STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Prop][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [REVISEDMain][Crashed Vertibird STL]  |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Rubble][Crashed Vertibird STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Tail][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Wing][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 ### Settlement Mode
 
@@ -840,22 +840,22 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 These are 3D Printable inserts that work similar to the [Folded Box Inserts] that fit inside the [Two Player Starter Set] box to help organise it's contents.
 
 | Item                                 | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ---------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Big_Cards][Box Insert]              | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Small_Cards][Box Insert]            | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Deathclaw][Box Insert]              | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token1][Box Insert]                 | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token1Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token2][Box Insert]                 | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token2Lid][Box Insert]              | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token3][Box Insert]                 | 2        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token3-Lid][Box Insert]             | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Token4][Box Insert]                 | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Dice][Box Insert]                   | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Base30_Horizontal][Box Insert]      | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Base40Horizontal][Box Insert]       | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Base30_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
-| [Base40_Horizontal_Side][Box Insert] | 1        | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| ------------------------------------ | -------: | ---------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Big_Cards][Box Insert]              |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Small_Cards][Box Insert]            |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Deathclaw][Box Insert]              |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token1][Box Insert]                 |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token1Lid][Box Insert]              |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token2][Box Insert]                 |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token2Lid][Box Insert]              |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token3][Box Insert]                 |        2 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token3-Lid][Box Insert]             |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Token4][Box Insert]                 |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Dice][Box Insert]                   |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Base30_Horizontal][Box Insert]      |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Base40Horizontal][Box Insert]       |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Base30_Horizontal_Side][Box Insert] |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
+| [Base40_Horizontal_Side][Box Insert] |        1 | [Tinmorry PLA (Black)] |      |      |        |      |   :x:   |
 
 [Box Insert]: https://www.thingiverse.com/thing:3197502/files
 
@@ -987,15 +987,15 @@ This scenario was designed for using the `Robot Work Bench`.
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BackBase][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [ChainShaft][Robot Work Bench STL]    | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [HydraulicLift][Robot Work Bench STL] | 2        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [MAINPAD][Robot Work Bench STL]       | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingLEFT][Robot Work Bench STL]      | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingRIGHT][Robot Work Bench STL]     | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RobotArm][Robot Work Bench STL]      | 2        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Workstation][Robot Work Bench STL]   | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BackBase][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [ChainShaft][Robot Work Bench STL]    |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [HydraulicLift][Robot Work Bench STL] |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [MAINPAD][Robot Work Bench STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [RingLEFT][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [RingRIGHT][Robot Work Bench STL]     |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [RobotArm][Robot Work Bench STL]      |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Workstation][Robot Work Bench STL]   |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 #### The Zetan Incident
 
@@ -1006,10 +1006,10 @@ This scenario was designed for using the `Crashed UFO`.
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------- | -------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Body][Crashed UFO STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Fin][Crashed UFO STL]  | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Tail][Crashed UFO STL] | 1        | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| ----------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Body][Crashed UFO STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Fin][Crashed UFO STL]  |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| [Tail][Crashed UFO STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 ## Wave 5 - New Vegas Expansion
 
@@ -1774,29 +1774,29 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 Also one of the locations in [Map Pack 2: Wasteland Locales].
 
 | Item                           | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [bottom_part_1][Drumlin Diner] | 1        |          |      |      |        |      |   :x:   |
-| [bottom_part_2][Drumlin Diner] | 1        |          |      |      |        |      |   :x:   |
-| [top_part_1][Drumlin Diner]    | 1        |          |      |      |        |      |   :x:   |
-| [top_part_2][Drumlin Diner]    | 1        |          |      |      |        |      |   :x:   |
+| ------------------------------ | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [bottom_part_1][Drumlin Diner] |        1 |          |      |      |        |      |   :x:   |
+| [bottom_part_2][Drumlin Diner] |        1 |          |      |      |        |      |   :x:   |
+| [top_part_1][Drumlin Diner]    |        1 |          |      |      |        |      |   :x:   |
+| [top_part_2][Drumlin Diner]    |        1 |          |      |      |        |      |   :x:   |
 
 [Drumlin Diner]: https://www.thingiverse.com/thing:4080651/files
 
 ##### Sign
 
 | Item                                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [drumlin_diner_sign][Drumlin Diner Sign] | 1        |          |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [drumlin_diner_sign][Drumlin Diner Sign] |        1 |          |      |      |        |      |   :x:   |
 
 [Drumlin Diner Sign]: https://www.thingiverse.com/thing:3099945/files
 
 ##### Furniture
 
 | Item                     | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------ | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [seat][Diner Furniture]  | 1        |          |      |      |        |      |   :x:   |
-| [stool][Diner Furniture] | 1        |          |      |      |        |      |   :x:   |
-| [table][Diner Furniture] | 1        |          |      |      |        |      |   :x:   |
+| ------------------------ | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [seat][Diner Furniture]  |        1 |          |      |      |        |      |   :x:   |
+| [stool][Diner Furniture] |        1 |          |      |      |        |      |   :x:   |
+| [table][Diner Furniture] |        1 |          |      |      |        |      |   :x:   |
 
 [Diner Furniture]: https://www.thingiverse.com/thing:3132141/files
 

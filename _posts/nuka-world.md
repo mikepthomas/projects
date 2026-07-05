@@ -42,16 +42,16 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                              | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottle_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Bottle_Foot_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Foot_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Arm_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Arm_R][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Body][Bottle and Cappy]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Cappy_Leg_L][Bottle and Cappy]   | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bottle_Arm_L][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Arm_R][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Body][Bottle and Cappy]   |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Bottle_Foot_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Foot_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_L][Bottle and Cappy]   |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_R][Bottle and Cappy]   |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Body][Bottle and Cappy]    |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Cappy_Leg_L][Bottle and Cappy]   |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle and Cappy Laid Back
 
@@ -60,17 +60,17 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                             | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottle_Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Bottle_Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Bottle_Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Arm_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Arm_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Body][Bottle and Cappy]   | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Cappy_Leg_L][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Cappy_Leg_R][Bottle and Cappy]  | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| -------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bottle_Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Bottle_Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Bottle_Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_L][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Arm_R][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Body][Bottle and Cappy]   |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Cappy_Leg_L][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Cappy_Leg_R][Bottle and Cappy]  |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Pointing Left
 
@@ -79,12 +79,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Pointing Right
 
@@ -93,12 +93,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Bottle Waving
 
@@ -107,12 +107,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Pointing Left
 
@@ -121,12 +121,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Pointing Right
 
@@ -135,12 +135,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Sitting Waving
 
@@ -149,12 +149,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Cappy Waving
 
@@ -163,12 +163,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Arm_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Arm_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Body][Bottle and Cappy]  | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
-| [Leg_L][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Leg_R][Bottle and Cappy] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arm_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Arm_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Body][Bottle and Cappy]  |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| [Leg_L][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Leg_R][Bottle and Cappy] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 # Nuka Town, USA
 
@@ -185,10 +185,10 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cola Cars Arena]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Bottle Stand 2
 
@@ -197,11 +197,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_03][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cola Cars Arena]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_03][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Bottle Stand 3
 
@@ -210,10 +210,10 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cola Cars Arena]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Bottle_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cola Cars Arena]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_01][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Bottle_02][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Cola Cars
 
@@ -222,11 +222,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Cola_Car_01][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Cola_Car_02][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Cola_Car_03][Cola Cars Arena]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Steering_Wheel][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Cola_Car_01][Cola Cars Arena]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cola_Car_02][Cola Cars Arena]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Cola_Car_03][Cola Cars Arena]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Steering_Wheel][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Cola Car Display Stand
 
@@ -235,18 +235,18 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_01][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Base_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Car_01][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Car_02][Cola Cars Arena]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Letters][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Post_02][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Post_03][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Railing][Cola Cars Arena]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Sign][Cola Cars Arena]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [SteeringWheel_01][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [SteeringWheel_02][Cola Cars Arena] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base_01][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base_02][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Car_01][Cola Cars Arena]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Car_02][Cola Cars Arena]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Letters][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Post_02][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Post_03][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Railing][Cola Cars Arena]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Sign][Cola Cars Arena]             |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [SteeringWheel_01][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [SteeringWheel_02][Cola Cars Arena] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Dry Rock Gulch
 
@@ -261,30 +261,30 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Facade
 
 | Item                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Porch][Dry Rock Gulch Buildings]              | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchColumn_Broken][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchColumns][Dry Rock Gulch Buildings]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchRoof][Dry Rock Gulch Buildings]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]              |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumn_Broken][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]          |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                   | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_08A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| ~[Sign_08B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| -------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]        |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_08A][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ~[Sign_08B][Dry Rock Gulch Buildings]~ |      ~1~ | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 2 (Sherrif)
 
@@ -295,35 +295,35 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Balcony][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Railing_01][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Railing_02][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Railing_03][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Railing_04][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Balcony][Dry Rock Gulch Buildings]      |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Columns][Dry Rock Gulch Buildings]      |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_01][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_02][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_03][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Railing_04][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |       16 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 3 (General Store)
 
@@ -334,82 +334,82 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                   | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]        | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_07A][Dry Rock Gulch Buildings]   | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| ~[Sign_07B][Dry Rock Gulch Buildings]~ | ~1~      | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| -------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]        |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_07A][Dry Rock Gulch Buildings]   |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ~[Sign_07B][Dry Rock Gulch Buildings]~ |      ~1~ | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 4 (Barber & Dentist)
 
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchColumns][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchColumns][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 5 (Undertaker)
 
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_06][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_06][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 6 (Blacksmith)
 
@@ -420,81 +420,81 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Columns][Dry Rock Gulch Buildings]      | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Porch][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [PorchRoof][Dry Rock Gulch Buildings]    | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Columns][Dry Rock Gulch Buildings]      |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Porch][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [PorchRoof][Dry Rock Gulch Buildings]    |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 16       | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |       16 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [UpperWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [UpperWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 7 (Boarding - Shoeing)
 
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_04][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_04][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Building 8 (Gunsmith)
 
 #### Facade
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Facade_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Facade_Upper][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Facade_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Facade_Upper][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Signage
 
 | Item                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Peg][Dry Rock Gulch Buildings]     | 8        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Sign_05][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Peg][Dry Rock Gulch Buildings]     |        8 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Sign_05][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### U-Section
 
 | Item                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [LowerWall_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [LowerWall_03][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Roof][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ---------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [LowerWall_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [LowerWall_03][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Roof][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Windmill
 
@@ -503,18 +503,18 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------ | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Dry Rock Gulch Buildings]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Blades][Dry Rock Gulch Buildings]         | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Brace_Lower_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Brace_Lower_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Brace_Upper_01][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Brace_Upper_02][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [CenterPole][Dry Rock Gulch Buildings]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Platform_Lower][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Side_01][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Side_02][Dry Rock Gulch Buildings]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Upper_Platform][Dry Rock Gulch Buildings] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ------------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Dry Rock Gulch Buildings]           |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Blades][Dry Rock Gulch Buildings]         |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Lower_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Lower_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Upper_01][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Brace_Upper_02][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [CenterPole][Dry Rock Gulch Buildings]     |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Platform_Lower][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Side_01][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Side_02][Dry Rock Gulch Buildings]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Upper_Platform][Dry Rock Gulch Buildings] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ## Bundle
 
@@ -529,11 +529,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                    | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Ant][Ant Nests]        | ?        | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
-| [AntNest_01][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [AntNest_02][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [AntNest_03][Ant Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ----------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Ant][Ant Nests]        |        ? | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [AntNest_01][Ant Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [AntNest_02][Ant Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [AntNest_03][Ant Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Barrels, Crates and Coffins
 
@@ -542,16 +542,16 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BarrelsCratesCoffins_01][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_02][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_03_Base][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_03_Lamp][Barrels Crates and Coffins]     | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_03_LampPole][Barrels Crates and Coffins] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_04_A][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_04_B][Barrels Crates and Coffins]        | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_05][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [BarrelsCratesCoffins_06][Barrels Crates and Coffins]          | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| -------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BarrelsCratesCoffins_01][Barrels Crates and Coffins]          |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_02][Barrels Crates and Coffins]          |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_Base][Barrels Crates and Coffins]     |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_Lamp][Barrels Crates and Coffins]     |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_03_LampPole][Barrels Crates and Coffins] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_04_A][Barrels Crates and Coffins]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_04_B][Barrels Crates and Coffins]        |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_05][Barrels Crates and Coffins]          |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [BarrelsCratesCoffins_06][Barrels Crates and Coffins]          |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Cacti Stands
 
@@ -566,10 +566,10 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cacti Stands]      |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 2
 
@@ -578,11 +578,11 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cacti Stands]      |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_03][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 3
 
@@ -591,12 +591,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_02][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_03][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
-| [Cactii_04][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cacti Stands]      |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_02][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_03][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| [Cactii_04][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Cacti Stand 4
 
@@ -605,9 +605,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Cacti Stands]      | 1        | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
-| [Cactii_01][Cacti Stands] | 1        | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Cacti Stands]      |        1 | [eSun ABS+ (Brown)]      |      |      |        |      |   :x:   |
+| [Cactii_01][Cacti Stands] |        1 | [eSun ABS+ (Pine Green)] |      |      |        |      |   :x:   |
 
 ### Graveyard
 
@@ -616,21 +616,21 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                            | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Gravestone_A_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Gravestone_A][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Gravestone_B_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Gravestone_B][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Gravestone_C_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Gravestone_C][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Gravestone_D_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Gravestone_D][Graveyard]       | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Gravestone_E_Grave][Graveyard] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Gravestone_E][Graveyard]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Fence_01][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Fence_02][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Fence_03][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Fence_04][Graveyard]           | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Gravestone_A_Grave][Graveyard] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_A][Graveyard]       |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_B_Grave][Graveyard] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_B][Graveyard]       |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_C_Grave][Graveyard] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_C][Graveyard]       |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_D_Grave][Graveyard] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_D][Graveyard]       |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Gravestone_E_Grave][Graveyard] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Gravestone_E][Graveyard]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_01][Graveyard]           |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_02][Graveyard]           |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_03][Graveyard]           |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Fence_04][Graveyard]           |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Stingwing Nests
 
@@ -639,10 +639,10 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                                 | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Stingwing_Nest_01][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Stingwing_Nest_02][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Stingwing_Nest_03][Stingwing Nests] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| ------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Stingwing_Nest_01][Stingwing Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Stingwing_Nest_02][Stingwing Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Stingwing_Nest_03][Stingwing Nests] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 ### Wrecked Rollercoaster
 
@@ -651,15 +651,15 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                                  | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_A][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Base_B][Wrecked Rollercoaster]       | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Cart_01][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Cart_02][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Cart_02_Legs][Wrecked Rollercoaster] | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Cart_03][Wrecked Rollercoaster]      | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Peg][Wrecked Rollercoaster]          | 2        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
-| [Rail][Wrecked Rollercoaster]         | 1        | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| ------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base_A][Wrecked Rollercoaster]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Base_B][Wrecked Rollercoaster]       |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Cart_01][Wrecked Rollercoaster]      |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_02][Wrecked Rollercoaster]      |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_02_Legs][Wrecked Rollercoaster] |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Cart_03][Wrecked Rollercoaster]      |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Peg][Wrecked Rollercoaster]          |        2 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
+| [Rail][Wrecked Rollercoaster]         |        1 | [eSun ABS+ (Grey)]  |      |      |        |      |   :x:   |
 
 # Galactic Zone
 
@@ -672,12 +672,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                         | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Asteroid_01][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_02][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_03][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_04][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Asteroid_05][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ---------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Asteroid_01][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_02][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_03][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_04][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Asteroid_05][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Dead Alien Animatronics
 
@@ -686,14 +686,14 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2024 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                                    | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Alien_01_Base_Detailed][Galactic Zone] | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| ~[Alien_01_Base_Plain][Galactic Zone]~  | ~1~      | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Alien_01][Galactic Zone]               | 1        | [eSun ABS+ (Peak Green)] |      |      |        |      |   :x:   |
-| [Alien_02_Base][Galactic Zone]          | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Alien_02_Telescope][Galactic Zone]     | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Tech_Pod][Galactic Zone]               | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Telescope][Galactic Zone]              | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| --------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Alien_01_Base_Detailed][Galactic Zone] |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| ~[Alien_01_Base_Plain][Galactic Zone]~  |      ~1~ | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_01][Galactic Zone]               |        1 | [eSun ABS+ (Peak Green)] |      |      |        |      |   :x:   |
+| [Alien_02_Base][Galactic Zone]          |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Alien_02_Telescope][Galactic Zone]     |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Tech_Pod][Galactic Zone]               |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Telescope][Galactic Zone]              |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
 
 ### Nuka-Girl Rocket
 
@@ -704,33 +704,33 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Nuka-Girl Rocket
 
 | Item                       | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Galactic Zone]      | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Nuka_Girl][Galactic Zone] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Planet][Galactic Zone]    | 1        | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
-| [Rocket][Galactic Zone]    | 1        | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
+| -------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Galactic Zone]      |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Nuka_Girl][Galactic Zone] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Planet][Galactic Zone]    |        1 | [eSun ABS+ (Grey)]       |      |      |        |      |   :x:   |
+| [Rocket][Galactic Zone]    |        1 | [eSun ABS+ (Red)]        |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket
 
 | Item                                   | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Nuka_Cola_Rocket][Galactic Zone]      | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Nuka_Rocket_Trash_Can][Galactic Zone] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| -------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Nuka_Cola_Rocket][Galactic Zone]      |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Nuka_Rocket_Trash_Can][Galactic Zone] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Nuka-Rocket Kiddie Ride
 
 | Item                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Kiddie_Ride][Galactic Zone]      | 1        | [eSun ABS+ (Red)]  |      |      |        |      |   :x:   |
-| [Kiddie_Ride_Base][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Kiddie_Ride][Galactic Zone]      |        1 | [eSun ABS+ (Red)]  |      |      |        |      |   :x:   |
+| [Kiddie_Ride_Base][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Wrecked Nuka-Rocket Car
 
 | Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Handlebar][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rail][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| -------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Galactic Zone]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Handlebar][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rail][Galactic Zone]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Nuka-Globes
 
@@ -741,32 +741,32 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Globe 1
 
 | Item                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_01][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Base_02][Galactic Zone]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_01][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_02][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_03][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_04][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Column][Galactic Zone]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Fountain][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Bottom][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Stand][Galactic Zone]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Top][Galactic Zone]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rings][Galactic Zone]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base_01][Galactic Zone]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base_02][Galactic Zone]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Column][Galactic Zone]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Fountain][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Stand][Galactic Zone]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Galactic Zone]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Galactic Zone]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Globe 2
 
 | Item                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Galactic Zone]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_01][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_02][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_03][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_04][Galactic Zone]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Bottom][Galactic Zone] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Globe_Top][Galactic Zone]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rings][Galactic Zone]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Galactic Zone]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_01][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Galactic Zone]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Bottom][Galactic Zone] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Globe_Top][Galactic Zone]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rings][Galactic Zone]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Kiddie Kingdom
 
@@ -785,135 +785,135 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 #### Inner
 
 | Item                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Inner_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
-| [Inner_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| -------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Inner_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
+| [Inner_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Brown)] |      |      |        |      |   :x:   |
 
 #### Outer
 
 | Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Outer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Outer_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| -------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Outer_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Outer_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Rings
 
 #### Upper Ring
 
 | Item                            | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Upper_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Upper_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Upper_Ring_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Upper_Ring_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Middle Ring
 
 | Item                             | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Middle_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Middle_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Middle_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Middle_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| -------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Middle_Ring_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Middle_Ring_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Lower Ring
 
 | Item                            | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Lower_Ring_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Lower_Ring_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Lower_Ring_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Lower_Ring_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 #### Signs
 
 | Item                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Sign_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
-| [Sign_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Sign_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Sign_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### Rockets
 
 #### Rocket Arms
 
 | Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Rocket_Arm_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Rocket_Arm_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Rocket_Arm_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Rocket_Arm_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Rockets
 
 | Item                        | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Rocket_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Rocket_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| --------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Rocket_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Rocket_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ### Tower
 
 #### Braces
 
 | Item                       | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Brace_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_04][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_05][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_06][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_07][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Brace_08][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| -------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Brace_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_04][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_05][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_06][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_07][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Brace_08][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 #### Tower
 
 | Item                              | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Tower_01][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_02][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_03][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_04][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_05][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_06][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_07][Kiddie Kingdom]        | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_08_Bottom][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
-| [Tower_08_Top][Kiddie Kingdom]    | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Tower_01][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_02][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_03][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_04][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_05][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_06][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_07][Kiddie Kingdom]        |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_08_Bottom][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| [Tower_08_Top][Kiddie Kingdom]    |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ## Medallion Vendor
 
@@ -922,8 +922,8 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                               | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | ----------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Medallion_Vendor][Kiddie Kingdom] | 1        | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
+| ---------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Medallion_Vendor][Kiddie Kingdom] |        1 | [eSun ABS+ (Red)] |      |      |        |      |   :x:   |
 
 ## Sign Posts
 
@@ -934,33 +934,33 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 ### Poles
 
 | Item                     | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [2Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [4Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [6Slots][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Base][Kiddie Kingdom]   | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [2Slots][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [4Slots][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [6Slots][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Base][Kiddie Kingdom]   |        3 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top][Kiddie Kingdom]    |        3 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ### Signs
 
 | Item                                | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BATTLEZONE][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [EXIT][Kiddie Kingdom]              | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [FIRST_AID][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [FUNHOUSE][Kiddie Kingdom]          | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [GAMES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [GIFT_SHOP][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [INFORMATION][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [KING_KOLAS_CASTLE][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [NUKA_RACERS][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [NUKA-GALAXY][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [REFRESHMENTS][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [RESTROOMS][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [RIDES][Kiddie Kingdom]             | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [STAR_CONTROL][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [THEATER][Kiddie Kingdom]           | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [VAULT-TEC][Kiddie Kingdom]         | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BATTLEZONE][Kiddie Kingdom]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [EXIT][Kiddie Kingdom]              |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [FIRST_AID][Kiddie Kingdom]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [FUNHOUSE][Kiddie Kingdom]          |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [GAMES][Kiddie Kingdom]             |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [GIFT_SHOP][Kiddie Kingdom]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [INFORMATION][Kiddie Kingdom]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [KING_KOLAS_CASTLE][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [NUKA_RACERS][Kiddie Kingdom]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [NUKA-GALAXY][Kiddie Kingdom]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [REFRESHMENTS][Kiddie Kingdom]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [RESTROOMS][Kiddie Kingdom]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [RIDES][Kiddie Kingdom]             |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [STAR_CONTROL][Kiddie Kingdom]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [THEATER][Kiddie Kingdom]           |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [VAULT-TEC][Kiddie Kingdom]         |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Tea-Cups
 
@@ -969,14 +969,14 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                        | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Column][Kiddie Kingdom]    | 3        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Saucer_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Saucer_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Saucer_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [TeaCup_01][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [TeaCup_02][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [TeaCup_03][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| --------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Column][Kiddie Kingdom]    |        3 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Saucer_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_01][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_02][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [TeaCup_03][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Vendor Cart
 
@@ -985,17 +985,17 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes              |
-| ------------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ------------------ |
-| ~[Cart_01][Kiddie Kingdom]~     | ~1~      | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Plain              |
-| [Cart_02][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Nuka-World Branded |
-| [Dispenser][Kiddie Kingdom]     | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Ground][Kiddie Kingdom]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Shelves][Kiddie Kingdom]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Small_Wheels][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Umbrella_Pole][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Umbrella][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_01][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Wheel_02][Kiddie Kingdom]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ------------------ |
+| ~[Cart_01][Kiddie Kingdom]~     |      ~1~ | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Plain              |
+| [Cart_02][Kiddie Kingdom]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   | Nuka-World Branded |
+| [Dispenser][Kiddie Kingdom]     |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Ground][Kiddie Kingdom]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Shelves][Kiddie Kingdom]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Small_Wheels][Kiddie Kingdom]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Umbrella_Pole][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Umbrella][Kiddie Kingdom]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_01][Kiddie Kingdom]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Wheel_02][Kiddie Kingdom]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Wrecked Ferris Wheel Car
 
@@ -1004,12 +1004,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2023 [Modiphius Entertainment](https://modiphius.net)
 
 | Item                      | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Ground][Kiddie Kingdom]  | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Railing][Kiddie Kingdom] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Roof][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Sign][Kiddie Kingdom]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Kiddie Kingdom]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Ground][Kiddie Kingdom]  |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Railing][Kiddie Kingdom] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Roof][Kiddie Kingdom]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Sign][Kiddie Kingdom]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 # Parking Lot
 
@@ -1026,13 +1026,13 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Nuka-World Parking Lot]          | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [CenterColumn][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Columns][Nuka-World Parking Lot]       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Railing_Lower][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Railing_Upper][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
-| [Roof][Nuka-World Parking Lot]          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| --------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Nuka-World Parking Lot]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [CenterColumn][Nuka-World Parking Lot]  |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Columns][Nuka-World Parking Lot]       |        2 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Lower][Nuka-World Parking Lot] |        2 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Upper][Nuka-World Parking Lot] |        2 | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          |        1 | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ### Small
 
@@ -1041,12 +1041,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base_Full][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Columns][Nuka-World Parking Lot]       | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Railing_Lower][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Railing_Upper][Nuka-World Parking Lot] | 2        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
-| [Roof][Nuka-World Parking Lot]          | 1        | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| --------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base_Full][Nuka-World Parking Lot]     |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Columns][Nuka-World Parking Lot]       |        2 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Lower][Nuka-World Parking Lot] |        2 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Railing_Upper][Nuka-World Parking Lot] |        2 | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          |        1 | [eSun ABS+ (Grey)]    |      |      |        |      |   :x:   |
 
 ## Lamp Post
 
@@ -1057,12 +1057,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                               | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Banner][Nuka-World Parking Lot]   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Base][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [LampBase][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Pole][Nuka-World Parking Lot]     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Top][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| ---------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Banner][Nuka-World Parking Lot]   |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Base][Nuka-World Parking Lot]     |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LampBase][Nuka-World Parking Lot] |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Pole][Nuka-World Parking Lot]     |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Top][Nuka-World Parking Lot]      |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ### Single
 
@@ -1071,12 +1071,12 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                               | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Banner][Nuka-World Parking Lot]   | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Base][Nuka-World Parking Lot]     | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [LampBase][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Pole][Nuka-World Parking Lot]     | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [Top][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| ---------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Banner][Nuka-World Parking Lot]   |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Base][Nuka-World Parking Lot]     |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [LampBase][Nuka-World Parking Lot] |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Pole][Nuka-World Parking Lot]     |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [Top][Nuka-World Parking Lot]      |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Bench
 
@@ -1085,9 +1085,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                            | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Base][Nuka-World Parking Lot]  | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
-| [Bench][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| ------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Base][Nuka-World Parking Lot]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Bench][Nuka-World Parking Lot] |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
 
 ## Park Map
 
@@ -1096,15 +1096,15 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                             | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------ | -------- | ------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottom][Nuka-World Parking Lot]                 | 7        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_DryRockGulch][Nuka-World Parking Lot]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_GalacticZone][Nuka-World Parking Lot]       | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_KiddieKingdom][Nuka-World Parking Lot]      | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_NukaTownUSA][Nuka-World Parking Lot]        | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_ParkMap][Nuka-World Parking Lot]            | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_SafariAdventure][Nuka-World Parking Lot]    | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
-| [Top_WorldOfRefreshment][Nuka-World Parking Lot] | 1        | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| ------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bottom][Nuka-World Parking Lot]                 |        7 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_DryRockGulch][Nuka-World Parking Lot]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_GalacticZone][Nuka-World Parking Lot]       |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_KiddieKingdom][Nuka-World Parking Lot]      |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_NukaTownUSA][Nuka-World Parking Lot]        |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_ParkMap][Nuka-World Parking Lot]            |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_SafariAdventure][Nuka-World Parking Lot]    |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
+| [Top_WorldOfRefreshment][Nuka-World Parking Lot] |        1 | [eSun ABS+ (Grey)] |      |      |        |      |   :x:   |
 
 ## Trash Can
 
@@ -1115,9 +1115,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [TrashBin][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
-| [TrashPile][Nuka-World Parking Lot] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TrashBin][Nuka-World Parking Lot]  |        1 | [eSun ABS+ (Red)]     |      |      |        |      |   :x:   |
+| [TrashPile][Nuka-World Parking Lot] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 ### Trash Can 2
 
@@ -1126,9 +1126,9 @@ These parts are for the Fallout Wasteland Warfare [Nuka-World Rules Expansion](f
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | --------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [TrashBin][Nuka-World Parking Lot]  | 1        | [eSun ABS+ (Brown)]   |      |      |        |      |   :x:   |
-| [TrashPile][Nuka-World Parking Lot] | 1        | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TrashBin][Nuka-World Parking Lot]  |        1 | [eSun ABS+ (Brown)]   |      |      |        |      |   :x:   |
+| [TrashPile][Nuka-World Parking Lot] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
 # Vehicles
 
@@ -1144,27 +1144,27 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Back][Nuka-World Parking Lot]              | 1        |          |      |      |        |      |   :x:   |
-| [Bench][Nuka-World Parking Lot]             | 4        |          |      |      |        |      |   :x:   |
-| [Body_Peg][Nuka-World Parking Lot]          | 4        |          |      |      |        |      |   :x:   |
-| [Damaged_Roof_Back][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
-| [Damaged_Struts_02][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
-| [Damaged_Struts][Nuka-World Parking Lot]    | 1        |          |      |      |        |      |   :x:   |
-| [Damaged][Nuka-World Parking Lot]           | 1        |          |      |      |        |      |   :x:   |
-| [Door_Top][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
-| [Door][Nuka-World Parking Lot]              | 1        |          |      |      |        |      |   :x:   |
-| [Drivers_Chair][Nuka-World Parking Lot]     | 1        |          |      |      |        |      |   :x:   |
-| [Front_Bumper][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
-| [Front][Nuka-World Parking Lot]             | 1        |          |      |      |        |      |   :x:   |
-| [Mirror_L][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
-| [Mirror_R][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Back][Nuka-World Parking Lot]         | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Front][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Light_L][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Light_R][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
-| [Steering_Wheel][Nuka-World Parking Lot]    | 1        |          |      |      |        |      |   :x:   |
-| [Window][Nuka-World Parking Lot]            | 1        |          |      |      |        |      |   :x:   |
+| ------------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Back][Nuka-World Parking Lot]              |        1 |          |      |      |        |      |   :x:   |
+| [Bench][Nuka-World Parking Lot]             |        4 |          |      |      |        |      |   :x:   |
+| [Body_Peg][Nuka-World Parking Lot]          |        4 |          |      |      |        |      |   :x:   |
+| [Damaged_Roof_Back][Nuka-World Parking Lot] |        1 |          |      |      |        |      |   :x:   |
+| [Damaged_Struts_02][Nuka-World Parking Lot] |        1 |          |      |      |        |      |   :x:   |
+| [Damaged_Struts][Nuka-World Parking Lot]    |        1 |          |      |      |        |      |   :x:   |
+| [Damaged][Nuka-World Parking Lot]           |        1 |          |      |      |        |      |   :x:   |
+| [Door_Top][Nuka-World Parking Lot]          |        1 |          |      |      |        |      |   :x:   |
+| [Door][Nuka-World Parking Lot]              |        1 |          |      |      |        |      |   :x:   |
+| [Drivers_Chair][Nuka-World Parking Lot]     |        1 |          |      |      |        |      |   :x:   |
+| [Front_Bumper][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
+| [Front][Nuka-World Parking Lot]             |        1 |          |      |      |        |      |   :x:   |
+| [Mirror_L][Nuka-World Parking Lot]          |        1 |          |      |      |        |      |   :x:   |
+| [Mirror_R][Nuka-World Parking Lot]          |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Back][Nuka-World Parking Lot]         |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Front][Nuka-World Parking Lot]        |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Light_L][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Light_R][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
+| [Steering_Wheel][Nuka-World Parking Lot]    |        1 |          |      |      |        |      |   :x:   |
+| [Window][Nuka-World Parking Lot]            |        1 |          |      |      |        |      |   :x:   |
 
 ## Pickup Truck
 
@@ -1173,17 +1173,17 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bed][Nuka-World Parking Lot]           | 1        |          |      |      |        |      |   :x:   |
-| [Chassis][Nuka-World Parking Lot]       | 1        |          |      |      |        |      |   :x:   |
-| [Door_L][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
-| [Door_R][Nuka-World Parking Lot]        | 1        |          |      |      |        |      |   :x:   |
-| [Mirror_L][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
-| [Mirror_R][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
-| [Roof][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
-| [Seat][Nuka-World Parking Lot]          | 1        |          |      |      |        |      |   :x:   |
-| [SteeringWheel][Nuka-World Parking Lot] | 1        |          |      |      |        |      |   :x:   |
-| [TailGate][Nuka-World Parking Lot]      | 1        |          |      |      |        |      |   :x:   |
+| --------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bed][Nuka-World Parking Lot]           |        1 |          |      |      |        |      |   :x:   |
+| [Chassis][Nuka-World Parking Lot]       |        1 |          |      |      |        |      |   :x:   |
+| [Door_L][Nuka-World Parking Lot]        |        1 |          |      |      |        |      |   :x:   |
+| [Door_R][Nuka-World Parking Lot]        |        1 |          |      |      |        |      |   :x:   |
+| [Mirror_L][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
+| [Mirror_R][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
+| [Roof][Nuka-World Parking Lot]          |        1 |          |      |      |        |      |   :x:   |
+| [Seat][Nuka-World Parking Lot]          |        1 |          |      |      |        |      |   :x:   |
+| [SteeringWheel][Nuka-World Parking Lot] |        1 |          |      |      |        |      |   :x:   |
+| [TailGate][Nuka-World Parking Lot]      |        1 |          |      |      |        |      |   :x:   |
 
 ## Chryslus Rocket
 
@@ -1194,8 +1194,8 @@ The `Nuka world Parking Lot` comes with:
 ### Single Piece
 
 | Item                                                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Chryslus_Rocket_CONSOLIDATED_STLFile][Chryslus Rocket] | 1        |          |      |      |        |      |   :x:   |
+| ------------------------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Chryslus_Rocket_CONSOLIDATED_STLFile][Chryslus Rocket] |        1 |          |      |      |        |      |   :x:   |
 
 ## Corvega Coupe
 
@@ -1206,15 +1206,15 @@ The `Nuka world Parking Lot` comes with:
 ### Single Piece
 
 | Item                        | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [SOLIDCoupe][Corvega Coupe] | 1        |          |      |      |        |      |   :x:   |
+| --------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [SOLIDCoupe][Corvega Coupe] |        1 |          |      |      |        |      |   :x:   |
 
 ### Two Piece
 
 | Item                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottom][Corvega Coupe] | 1        |          |      |      |        |      |   :x:   |
-| [Top][Corvega Coupe]    | 1        |          |      |      |        |      |   :x:   |
+| ----------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bottom][Corvega Coupe] |        1 |          |      |      |        |      |   :x:   |
+| [Top][Corvega Coupe]    |        1 |          |      |      |        |      |   :x:   |
 
 ## Corvega Sedan
 
@@ -1225,16 +1225,16 @@ The `Nuka world Parking Lot` comes with:
 ### Single Piece
 
 | Item                      | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [INTACT][Corvega Sedan]   | 1        |          |      |      |        |      |   :x:   |
-| [NO_TIRES][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
+| ------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [INTACT][Corvega Sedan]   |        1 |          |      |      |        |      |   :x:   |
+| [NO_TIRES][Corvega Sedan] |        1 |          |      |      |        |      |   :x:   |
 
 ### Two Piece
 
 | Item                    | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Bottom][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
-| [Top][Corvega Sedan]    | 1        |          |      |      |        |      |   :x:   |
+| ----------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Bottom][Corvega Sedan] |        1 |          |      |      |        |      |   :x:   |
+| [Top][Corvega Sedan]    |        1 |          |      |      |        |      |   :x:   |
 
 ### Interior Detail
 
@@ -1243,21 +1243,21 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [4xRims][Corvega Sedan]           | 1        |          |      |      |        |      |   :x:   |
-| [4xTires][Corvega Sedan]          | 1        |          |      |      |        |      |   :x:   |
-| [Bottom-Piece][Corvega Sedan]     | 1        |          |      |      |        |      |   :x:   |
-| [Door-Back-Left][Corvega Sedan]   | 1        |          |      |      |        |      |   :x:   |
-| [Door-Back-Right][Corvega Sedan]  | 1        |          |      |      |        |      |   :x:   |
-| [Door-Front-Left][Corvega Sedan]  | 1        |          |      |      |        |      |   :x:   |
-| [Door-Front-Right][Corvega Sedan] | 1        |          |      |      |        |      |   :x:   |
-| [Interior][Corvega Sedan]         | 1        |          |      |      |        |      |   :x:   |
-| [Mirror-Left][Corvega Sedan]      | 1        |          |      |      |        |      |   :x:   |
-| [Mirror-Right][Corvega Sedan]     | 1        |          |      |      |        |      |   :x:   |
-| [Rim][Corvega Sedan]              | 4        |          |      |      |        |      |   :x:   |
-| [Tire][Corvega Sedan]             | 4        |          |      |      |        |      |   :x:   |
-| [Top-Piece][Corvega Sedan]        | 1        |          |      |      |        |      |   :x:   |
-| [Wheel][Corvega Sedan]            | 1        |          |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [4xRims][Corvega Sedan]           |        1 |          |      |      |        |      |   :x:   |
+| [4xTires][Corvega Sedan]          |        1 |          |      |      |        |      |   :x:   |
+| [Bottom-Piece][Corvega Sedan]     |        1 |          |      |      |        |      |   :x:   |
+| [Door-Back-Left][Corvega Sedan]   |        1 |          |      |      |        |      |   :x:   |
+| [Door-Back-Right][Corvega Sedan]  |        1 |          |      |      |        |      |   :x:   |
+| [Door-Front-Left][Corvega Sedan]  |        1 |          |      |      |        |      |   :x:   |
+| [Door-Front-Right][Corvega Sedan] |        1 |          |      |      |        |      |   :x:   |
+| [Interior][Corvega Sedan]         |        1 |          |      |      |        |      |   :x:   |
+| [Mirror-Left][Corvega Sedan]      |        1 |          |      |      |        |      |   :x:   |
+| [Mirror-Right][Corvega Sedan]     |        1 |          |      |      |        |      |   :x:   |
+| [Rim][Corvega Sedan]              |        4 |          |      |      |        |      |   :x:   |
+| [Tire][Corvega Sedan]             |        4 |          |      |      |        |      |   :x:   |
+| [Top-Piece][Corvega Sedan]        |        1 |          |      |      |        |      |   :x:   |
+| [Wheel][Corvega Sedan]            |        1 |          |      |      |        |      |   :x:   |
 
 ## Flatbed Truck
 
@@ -1270,35 +1270,35 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                              | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [BackEnd][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Body][Flatbed Truck]             | 1        |          |      |      |        |      |   :x:   |
-| [Bumper][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
-| [Dashboard][Flatbed Truck]        | 1        |          |      |      |        |      |   :x:   |
-| [Door_L][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
-| [Door_R][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
-| [Fender_L][Flatbed Truck]         | 1        |          |      |      |        |      |   :x:   |
-| [Fender_R][Flatbed Truck]         | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_Rear_01][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_Rear_02][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [Front_Suspension][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [Fuel_Tank_L][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
-| [Fuel_Tank_R][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
-| [Roof][Flatbed Truck]             | 1        |          |      |      |        |      |   :x:   |
-| [Seat_01][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Seat_02][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Side_Mirror_L][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Side_Mirror_R][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Steering_Wheel][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
-| [Step_L][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
-| [Step_R][Flatbed Truck]           | 1        |          |      |      |        |      |   :x:   |
-| [Tire_01][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Tire_02][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Tire_03][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Tire_04][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Tire_05][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
-| [Tire_06][Flatbed Truck]          | 1        |          |      |      |        |      |   :x:   |
+| --------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [BackEnd][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Body][Flatbed Truck]             |        1 |          |      |      |        |      |   :x:   |
+| [Bumper][Flatbed Truck]           |        1 |          |      |      |        |      |   :x:   |
+| [Dashboard][Flatbed Truck]        |        1 |          |      |      |        |      |   :x:   |
+| [Door_L][Flatbed Truck]           |        1 |          |      |      |        |      |   :x:   |
+| [Door_R][Flatbed Truck]           |        1 |          |      |      |        |      |   :x:   |
+| [Fender_L][Flatbed Truck]         |        1 |          |      |      |        |      |   :x:   |
+| [Fender_R][Flatbed Truck]         |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_Front][Flatbed Truck]   |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_Rear_01][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_Rear_02][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [Front_Suspension][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [Fuel_Tank_L][Flatbed Truck]      |        1 |          |      |      |        |      |   :x:   |
+| [Fuel_Tank_R][Flatbed Truck]      |        1 |          |      |      |        |      |   :x:   |
+| [Roof][Flatbed Truck]             |        1 |          |      |      |        |      |   :x:   |
+| [Seat_01][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Seat_02][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Side_Mirror_L][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Side_Mirror_R][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Steering_Wheel][Flatbed Truck]   |        1 |          |      |      |        |      |   :x:   |
+| [Step_L][Flatbed Truck]           |        1 |          |      |      |        |      |   :x:   |
+| [Step_R][Flatbed Truck]           |        1 |          |      |      |        |      |   :x:   |
+| [Tire_01][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Tire_02][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Tire_03][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Tire_04][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Tire_05][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
+| [Tire_06][Flatbed Truck]          |        1 |          |      |      |        |      |   :x:   |
 
 ### Truck Trailer
 
@@ -1309,25 +1309,25 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                          | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Axle_01][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
-| [Axle_02][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
-| [Body_BackEnd][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [Body_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
-| [Body_Middle][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_01][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_02][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
-| [Ladder_01][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Ladder_02][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [RollUpDoor][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
-| [Roof_BackEnd][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Front][Flatbed Truck]   | 1        |          |      |      |        |      |   :x:   |
-| [Roof_Middle][Flatbed Truck]  | 1        |          |      |      |        |      |   :x:   |
-| [Stand][Flatbed Truck]        | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_01][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_02][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_03][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_04][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
+| ----------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Axle_01][Flatbed Truck]      |        1 |          |      |      |        |      |   :x:   |
+| [Axle_02][Flatbed Truck]      |        1 |          |      |      |        |      |   :x:   |
+| [Body_BackEnd][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [Body_Front][Flatbed Truck]   |        1 |          |      |      |        |      |   :x:   |
+| [Body_Middle][Flatbed Truck]  |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_01][Flatbed Truck]  |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_02][Flatbed Truck]  |        1 |          |      |      |        |      |   :x:   |
+| [Ladder_01][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Ladder_02][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [RollUpDoor][Flatbed Truck]   |        1 |          |      |      |        |      |   :x:   |
+| [Roof_BackEnd][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Front][Flatbed Truck]   |        1 |          |      |      |        |      |   :x:   |
+| [Roof_Middle][Flatbed Truck]  |        1 |          |      |      |        |      |   :x:   |
+| [Stand][Flatbed Truck]        |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_01][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_02][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_03][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_04][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
 
 #### Flatbed
 
@@ -1336,20 +1336,20 @@ The `Nuka world Parking Lot` comes with:
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                         | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes |
-| ---------------------------- | -------- | -------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [Axle_01][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [Axle_02][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [BackEnd][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_01][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [FlatTire_02][Flatbed Truck] | 1        |          |      |      |        |      |   :x:   |
-| [Front][Flatbed Truck]       | 1        |          |      |      |        |      |   :x:   |
-| [Ladders][Flatbed Truck]     | 1        |          |      |      |        |      |   :x:   |
-| [Middle][Flatbed Truck]      | 1        |          |      |      |        |      |   :x:   |
-| [Stand][Flatbed Truck]       | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_01][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_02][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_03][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
-| [Wheel_04][Flatbed Truck]    | 1        |          |      |      |        |      |   :x:   |
+| ---------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Axle_01][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [Axle_02][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [BackEnd][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_01][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [FlatTire_02][Flatbed Truck] |        1 |          |      |      |        |      |   :x:   |
+| [Front][Flatbed Truck]       |        1 |          |      |      |        |      |   :x:   |
+| [Ladders][Flatbed Truck]     |        1 |          |      |      |        |      |   :x:   |
+| [Middle][Flatbed Truck]      |        1 |          |      |      |        |      |   :x:   |
+| [Stand][Flatbed Truck]       |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_01][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_02][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_03][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
+| [Wheel_04][Flatbed Truck]    |        1 |          |      |      |        |      |   :x:   |
 
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
