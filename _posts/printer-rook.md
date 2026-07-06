@@ -28,110 +28,108 @@ Sourcing and printing parts to assemble a [Rook 2020 MK2 3D Printer](https://www
 ## Printer Frame
 
 | Item                                  | Quantity | Received | Notes |
-| ------------------------------------- | -------- | -------- | ----- |
-| 200mm T-slot 2020 Aluminium Extrusion | 12       | 12       |       |
-| 2020 Aluminium Extrusion 3-way corner | 8        | 8        |       |
+| ------------------------------------- | -------: | -------: | ----- |
+| 200mm T-slot 2020 Aluminium Extrusion |       12 |       12 |
+| 2020 Aluminium Extrusion 3-way corner |        8 |        8 |
 
 ## Fasteners
 
 | Item               | Quantity | Received | Notes                          |
-| ------------------ | -------- | -------- | ------------------------------ |
-| M3x6               | 10       |          |                                |
-| M3x10              | 22       |          |                                |
-| M3x12              | 2        |          |                                |
-| M3x16              | 6        |          |                                |
-| M3x18              | 2        |          |                                |
-| M3x25              | 8        |          |                                |
-| M3 Threaded Insert | 100      |          | BOM specifies more than needed |
-| M5x8               | 35       |          |                                |
-| M5x16              | 12       |          |                                |
-| M5x25              | 4        |          |                                |
-| M5x30              | 2        |          |                                |
-| M5 T-nuts          | 35       |          |                                |
-| M5 Washers         | 16       |          |                                |
+| ------------------ | -------: | -------: | ------------------------------ |
+| M3x6               |       10 |          |
+| M3x10              |       22 |          |
+| M3x12              |        2 |          |
+| M3x16              |        6 |          |
+| M3x18              |        2 |          |
+| M3x25              |        8 |          |
+| M3 Threaded Insert |      100 |          | BOM specifies more than needed |
+| M5x8               |       35 |          |
+| M5x16              |       12 |          |
+| M5x25              |        4 |          |
+| M5x30              |        2 |          |
+| M5 T-nuts          |       35 |          |
+| M5 Washers         |       16 |          |
 
 ## Motion
 
 | Item                                 | Quantity | Received | Notes                                                                        |
-| ------------------------------------ | -------- | -------- | ---------------------------------------------------------------------------- |
-| Filament Extruder                    | 1        | 1        | Using original Anet A8 Extruder with M6 Bowden Coupler                       |
-| F695 Bearing                         | 12       | 16       |                                                                              |
-| GT2 20T Pulley (5mm ID 6mm W)        | 3        | 3        |                                                                              |
-| GT2 20T Toothed Idler (5mm ID 6mm W) | 3        | 3        | Using 3 of these instead of 6 F695 Bearings for gantry idlers and belted bed |
-| GT2 Open Belt LL-2GT-6 (6mm wide)    | 4m       | 4m       |                                                                              |
-| Linear Rail MGN9C 200mm              | 2        | 2        |                                                                              |
-| Linear Rail MGN9C 150mm              | 1        | 1        |                                                                              |
-| Linear Shaft 8x200mm                 | 4        | 4        |                                                                              |
-| LM8UU Linear Bearing                 | 2        | 2        |                                                                              |
+| ------------------------------------ | -------: | -------: | ---------------------------------------------------------------------------- |
+| Filament Extruder                    |        1 |        1 | Using original Anet A8 Extruder with M6 Bowden Coupler                       |
+| F695 Bearing                         |       12 |       16 |
+| GT2 20T Pulley (5mm ID 6mm W)        |        3 |        3 |
+| GT2 20T Toothed Idler (5mm ID 6mm W) |        3 |        3 | Using 3 of these instead of 6 F695 Bearings for gantry idlers and belted bed |
+| GT2 Open Belt LL-2GT-6 (6mm wide)    |       4m |       4m |
+| Linear Rail MGN9C 200mm              |        2 |        2 |
+| Linear Rail MGN9C 150mm              |        1 |        1 |
+| Linear Shaft 8x200mm                 |        4 |        4 |
+| LM8UU Linear Bearing                 |        2 |        2 |
 
 ## Print Bed
 
 | Item                                   | Quantity | Received | Notes |
-| -------------------------------------- | -------- | -------- | ----- |
-| MIC6 1/4" Plate - 120x120mm            | 1        | 1        |       |
-| Silicone DC 24V Heater 100x100mm 60W   | 1        | 1        |       |
-| PEI + 3M 468MP (200MP)                 | 1        | 1        |       |
-| Spring Steel Flex Buildplate 120x120mm | 1        | 1        |       |
-| Kirigami Bed Mount                     | 1        | 1        |       |
-| Yellow Die Spring - M3                 | 3        | 3        |       |
+| -------------------------------------- | -------: | -------: | ----- |
+| MIC6 1/4" Plate - 120x120mm            |        1 |        1 |
+| Silicone DC 24V Heater 100x100mm 60W   |        1 |        1 |
+| PEI + 3M 468MP (200MP)                 |        1 |        1 |
+| Spring Steel Flex Buildplate 120x120mm |        1 |        1 |
+| Kirigami Bed Mount                     |        1 |        1 |
+| Yellow Die Spring - M3                 |        3 |        3 |
 
 ## Electronics
 
 | Item                         | Quantity | Received | Notes                                                                    |
-| ---------------------------- | -------- | -------- | ------------------------------------------------------------------------ |
-| Nema 17 Stepper Motors       | 4        | 4        | Using original Anet A8 X/Y/Z1/Z2 Stepper Motors                          |
-| CR10 Style Hotend            | 1        | 1        |                                                                          |
-| Power Supply                 | 1        | 1        | Using original Anet A8 Power Supply                                      |
-| Raspberry Pi Zero            | 1        |          | Not required as I plan on using RepRap Firmware                          |
-| Mellow Fly E3 RRF            | 1        | 1        |                                                                          |
-| SPDT KW10 Limit Micro Switch | 1        | 1        |                                                                          |
-| V0 Simple Display            | 1        | 1        |                                                                          |
-| 30x30x10 Axial Fan           | 1        | 1        |                                                                          |
-| 40x40x10 Centrifugal Fan     | 2        | 2        | Using instead of 120x120x32 Centrifugal Fan for the the Rookery Toolhead |
+| ---------------------------- | -------: | -------: | ------------------------------------------------------------------------ |
+| Nema 17 Stepper Motors       |        4 |        4 | Using original Anet A8 X/Y/Z1/Z2 Stepper Motors                          |
+| CR10 Style Hotend            |        1 |        1 |
+| Power Supply                 |        1 |        1 | Using original Anet A8 Power Supply                                      |
+| Raspberry Pi Zero            |        1 |          | Not required as I plan on using RepRap Firmware                          |
+| Mellow Fly E3 RRF            |        1 |        1 |
+| SPDT KW10 Limit Micro Switch |        1 |        1 |
+| V0 Simple Display            |        1 |        1 |
+| 30x30x10 Axial Fan           |        1 |        1 |
+| 40x40x10 Centrifugal Fan     |        2 |        2 | Using instead of 120x120x32 Centrifugal Fan for the the Rookery Toolhead |
 
 # Printing Parts
 
-[primary]: printer-filament#esun-abs-pink 'Primary Color'
-
 ## Bed
 
-| Item                                                                          | Quantity | Material                    | Printed | Notes                                                                 |
-| ----------------------------------------------------------------------------- | -------- | --------------------------- | :-----: | --------------------------------------------------------------------- |
-| [KIRIGAMI BED MOUNT 8mm LEFT](https://www.printables.com/model/508389/files)  | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
-| [KIRIGAMI BED MOUNT 8mm RIGHT](https://www.printables.com/model/508389/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
-| [8mm ROD HOLDER TOP](https://www.printables.com/model/508389/files)           | 2        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
-| [8mm ROD HOLDER BOTTOM LEFT](https://www.printables.com/model/508389/files)   | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
-| [8mm ROD HOLDER BOTTOM RIGHT](https://www.printables.com/model/508389/files)  | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
+| Item                                                                          | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                 |
+| ----------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------- |
+| [KIRIGAMI BED MOUNT 8mm LEFT](https://www.printables.com/model/508389/files)  |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
+| [KIRIGAMI BED MOUNT 8mm RIGHT](https://www.printables.com/model/508389/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
+| [8mm ROD HOLDER TOP](https://www.printables.com/model/508389/files)           |        2 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
+| [8mm ROD HOLDER BOTTOM LEFT](https://www.printables.com/model/508389/files)   |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
+| [8mm ROD HOLDER BOTTOM RIGHT](https://www.printables.com/model/508389/files)  |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [SMA GTO](https://www.printables.com/@SMAGTO_965537) |
 
 ## Frame
 
-| Item                                                                  | Quantity | Material                    | Printed | Notes                                                                   |
-| --------------------------------------------------------------------- | -------- | --------------------------- | :-----: | ----------------------------------------------------------------------- |
-| [foot_Mount](https://www.printables.com/model/798733/files)           | 4        | [eSun ABS+ (Pink)][primary] |   :x:   |                                                                         |
-| [OPTIONAL_Foot_Spacer](https://www.printables.com/model/447255/files) | 4        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a Rook 2020 MK1 Part                                            |
-| [Front Left Idler](https://www.printables.com/model/966130/files)     | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [Front Right Idler](https://www.printables.com/model/966130/files)    | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [Left Motor Mount](https://www.printables.com/model/966130/files)     | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [Right Motor Mount](https://www.printables.com/model/966130/files)    | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [Front idler block](https://www.printables.com/model/966130/files)    | 2        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [Idler Riser](https://www.printables.com/model/966130/files)          | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
-| [90angle](https://www.printables.com/model/666819/files)              | 2        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| Item                                                                  | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                   |
+| --------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------------- |
+| [foot_Mount](https://www.printables.com/model/798733/files)           |        4 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
+| [OPTIONAL_Foot_Spacer](https://www.printables.com/model/447255/files) |        4 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a Rook 2020 MK1 Part                                            |
+| [Front Left Idler](https://www.printables.com/model/966130/files)     |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [Front Right Idler](https://www.printables.com/model/966130/files)    |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [Left Motor Mount](https://www.printables.com/model/966130/files)     |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [Right Motor Mount](https://www.printables.com/model/966130/files)    |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [Front idler block](https://www.printables.com/model/966130/files)    |        2 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [Idler Riser](https://www.printables.com/model/966130/files)          |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)          |
+| [90angle](https://www.printables.com/model/666819/files)              |        2 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
 
 ## Z Axis
 
-| Item                                                                                      | Quantity | Material                    | Printed | Notes |
-| ----------------------------------------------------------------------------------------- | -------- | --------------------------- | :-----: | ----- |
-| [optional_skirt_z-motor_no_gear_reduction](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   |       |
-| [Z_Endstop_adjustable](https://www.printables.com/model/798733/files)                     | 1        | [eSun ABS+ (Pink)][primary] |   :x:   |       |
-| [z_idler_mount](https://www.printables.com/model/798733/files)                            | 1        | [eSun ABS+ (Pink)][primary] |   :x:   |       |
+| Item                                                                                      | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [optional_skirt_z-motor_no_gear_reduction](https://www.printables.com/model/798733/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
+| [Z_Endstop_adjustable](https://www.printables.com/model/798733/files)                     |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
+| [z_idler_mount](https://www.printables.com/model/798733/files)                            |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
 
 ## Gantry
 
-| Item                                                               | Quantity | Material                    | Printed | Notes                                                                             |
-| ------------------------------------------------------------------ | -------- | --------------------------- | :-----: | --------------------------------------------------------------------------------- |
-| [XY Carriage Left](https://www.printables.com/model/966130/files)  | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)                    |
-| [XY Carriage Right](https://www.printables.com/model/966130/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)                    |
-| [belt_tie_v2](https://www.printables.com/model/389235/files)       | 2        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [kyledavis_351660](https://www.printables.com/@kyledavis_351660) |
+| Item                                                               | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                             |
+| ------------------------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------------------- |
+| [XY Carriage Left](https://www.printables.com/model/966130/files)  |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)                    |
+| [XY Carriage Right](https://www.printables.com/model/966130/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Aaron F](https://www.printables.com/@Geared)                    |
+| [belt_tie_v2](https://www.printables.com/model/389235/files)       |        2 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [kyledavis_351660](https://www.printables.com/@kyledavis_351660) |
 
 ### :white_check_mark: Linear Rails
 
@@ -143,34 +141,37 @@ I carefully removed the carriages from the rails and soaked them in Isopropyl al
 
 ## Toolhead
 
-| Item                                                                              | Quantity | Material                    | Printed | Notes                        |
-| --------------------------------------------------------------------------------- | -------- | --------------------------- | :-----: | ---------------------------- |
-| [Fan_Shroud_4010_Modded_Fan_Inlet](https://www.printables.com/model/447255/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a Rook 2020 MK1 Part |
-| [Rookery \_ Belt Cradle](https://www.printables.com/model/447255/files)           | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a Rook 2020 MK1 Part |
-| [Rookery_CR10_Key](https://www.printables.com/model/447255/files)                 | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a Rook 2020 MK1 Part |
+| Item                                                                              | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                        |
+| --------------------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ---------------------------- |
+| [Fan_Shroud_4010_Modded_Fan_Inlet](https://www.printables.com/model/447255/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a Rook 2020 MK1 Part |
+| [Rookery \_ Belt Cradle](https://www.printables.com/model/447255/files)           |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a Rook 2020 MK1 Part |
+| [Rookery_CR10_Key](https://www.printables.com/model/447255/files)                 |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a Rook 2020 MK1 Part |
 
 ## Side-mounted spool and Extruder
 
-| Item                                                            | Quantity | Material                    | Printed | Notes                                                                   |
-| --------------------------------------------------------------- | -------- | --------------------------- | :-----: | ----------------------------------------------------------------------- |
-| [Extruder-Mount](https://www.printables.com/model/510328/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
-| [Spool-holder](https://www.printables.com/model/488474/files)   | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| Item                                                            | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                   |
+| --------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------------- |
+| [Extruder-Mount](https://www.printables.com/model/510328/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| [Spool-holder](https://www.printables.com/model/488474/files)   |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
 
 ## Skirts
 
-| Item                                                                           | Quantity | Material                    | Printed | Notes |
-| ------------------------------------------------------------------------------ | -------- | --------------------------- | :-----: | ----- |
-| [Skirt](https://www.printables.com/model/798733/files)                         | 2        | [eSun ABS+ (Pink)][primary] |   :x:   |       |
-| [Optional_Skirt_30mm-fan_Mount](https://www.printables.com/model/798733/files) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   |       |
+| Item                                                                           | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------ | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Skirt](https://www.printables.com/model/798733/files)                         |        2 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
+| [Optional_Skirt_30mm-fan_Mount](https://www.printables.com/model/798733/files) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   |
 
 ## Panels
 
-| Item                                                                 | Quantity | Material                    | Printed | Notes                                                                   |
-| -------------------------------------------------------------------- | -------- | --------------------------- | :-----: | ----------------------------------------------------------------------- |
-| [Bottom panel-easy mount_1](https://www.printables.com/model/832916) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
-| [Bottom panel-easy mount_2](https://www.printables.com/model/832916) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
-| [Bottom panel-easy mount_3](https://www.printables.com/model/832916) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
-| [Bottom panel-easy mount_4](https://www.printables.com/model/832916) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
-| [Rook2020-BackPanel](https://www.printables.com/model/501946)        | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
-| [LRS-150-Case-Lid](https://www.printables.com/model/397744)          | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
-| [LRS-150-Case-Heat-Inserts](https://www.printables.com/model/397744) | 1        | [eSun ABS+ (Pink)][primary] |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
+| Item                                                                 | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes                                                                   |
+| -------------------------------------------------------------------- | -------: | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------------- |
+| [Bottom panel-easy mount_1](https://www.printables.com/model/832916) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| [Bottom panel-easy mount_2](https://www.printables.com/model/832916) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| [Bottom panel-easy mount_3](https://www.printables.com/model/832916) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| [Bottom panel-easy mount_4](https://www.printables.com/model/832916) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [Kanrog Creations](https://www.printables.com/@Kanrog) |
+| [Rook2020-BackPanel](https://www.printables.com/model/501946)        |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
+| [LRS-150-Case-Lid](https://www.printables.com/model/397744)          |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
+| [LRS-150-Case-Heat-Inserts](https://www.printables.com/model/397744) |        1 | [eSun ABS+ (Pink)] |      |      |        |      |   :x:   | This is a mod by [ImSteffe](https://www.printables.com/@ImSteffe)       |
+
+[Filament]: #
+[eSun ABS+ (Pink)]: printer-filament#esun-abs-pink 'Primary Color'
