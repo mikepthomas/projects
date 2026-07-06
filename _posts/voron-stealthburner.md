@@ -66,14 +66,14 @@ keywords:
 
 ## Cables
 
-| Item                                        | Quantity | Received | Notes                                                                                                                                            |
-| ------------------------------------------- | -------: | -------: | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ~MicroFit3 Male Pin~                        |      ~3~ |          | Not required~ as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
-| ~MicroFit3 Female Pin~                      |      ~3~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)  |
-| ~MicroFit3 Connector Receptacle 3 Position~ |      ~1~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)  |
-| ~MicroFit3 Connector Plug 3 Position~       |      ~1~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version)  |
-| ~30AWG PTFE Cable (3ft total)~              |      ~1~ |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                    |
-| ~24AWG PTFE Cable (30ft total)~             |      ~1~ |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                    |
+| Item                                        | Quantity | Received | Notes                                                                                                                                           |
+| ------------------------------------------- | -------: | -------: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~MicroFit3 Male Pin~                        |      ~3~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| ~MicroFit3 Female Pin~                      |      ~3~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| ~MicroFit3 Connector Receptacle 3 Position~ |      ~1~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| ~MicroFit3 Connector Plug 3 Position~       |      ~1~ |          | Not required as I will be using [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| ~30AWG PTFE Cable (3ft total)~              |      ~1~ |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
+| ~24AWG PTFE Cable (30ft total)~             |      ~1~ |          | Not required as I will be using [LDO Toolhead Cable](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-cable)                   |
 
 ## ADXL345 Sensor
 
