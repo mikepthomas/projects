@@ -34,75 +34,75 @@ The following list of parts are from the Bill of Materials (BOM) that can be fou
 ## Fasteners
 
 | Item                        | Quantity | Received | Notes                              |
-| --------------------------- | -------- | -------- | ---------------------------------- |
-| M2x10 Self-tapping Screw    | 4        | 4        | In LDO Voron PC Case Fasteners Kit |
-| M3x6 BHCS                   | 19       | 19       | In LDO Voron PC Case Fasteners Kit |
-| M3x6 Thumbscrews            | 7        | 7        | In LDO Voron PC Case Fasteners Kit |
-| M3x8 BHCS                   | 76       | 76       | In LDO Voron PC Case Fasteners Kit |
-| M3x8 SHCS                   | 87       | 87       | In LDO Voron PC Case Fasteners Kit |
-| M3x10 BHCS                  | 15       | 15       | In LDO Voron PC Case Fasteners Kit |
-| M3x16 BHCS                  | 8        | 8        | In LDO Voron PC Case Fasteners Kit |
-| M3x25 BHCS                  | 4        | 4        | In LDO Voron PC Case Fasteners Kit |
-| M3x35 BHCS                  | 8        | 8        | In LDO Voron PC Case Fasteners Kit |
-| M3x35 SHCS                  | 2        | 2        | In LDO Voron PC Case Fasteners Kit |
-| M3 Hammer Head T-nuts       | 47       | 47       | In LDO Voron PC Case Fasteners Kit |
-| M3 Post-install T-nut       | 57       | 57       | In LDO Voron PC Case Fasteners Kit |
-| M3 Threaded Insert (M3x5x4) | 111      | 111      | In LDO Voron PC Case Fasteners Kit |
-| M3 Washer                   | 49       | 49       | In LDO Voron PC Case Fasteners Kit |
-| M5x8 BHCS                   | 21       | 21       | In LDO Voron PC Case Fasteners Kit |
-| M5x10 BHCS                  | 10       | 10       | In LDO Voron PC Case Fasteners Kit |
-| M5x12 BHCS                  | 4        | 4        | In LDO Voron PC Case Fasteners Kit |
-| M5 Hexnut                   | 4        | 4        | In LDO Voron PC Case Fasteners Kit |
-| M5 Post-install T-nut       | 13       | 13       | In LDO Voron PC Case Fasteners Kit |
+| --------------------------- | -------: | -------: | ---------------------------------- |
+| M2x10 Self-tapping Screw    |        4 |        4 | In LDO Voron PC Case Fasteners Kit |
+| M3x6 BHCS                   |       19 |       19 | In LDO Voron PC Case Fasteners Kit |
+| M3x6 Thumbscrews            |        7 |        7 | In LDO Voron PC Case Fasteners Kit |
+| M3x8 BHCS                   |       76 |       76 | In LDO Voron PC Case Fasteners Kit |
+| M3x8 SHCS                   |       87 |       87 | In LDO Voron PC Case Fasteners Kit |
+| M3x10 BHCS                  |       15 |       15 | In LDO Voron PC Case Fasteners Kit |
+| M3x16 BHCS                  |        8 |        8 | In LDO Voron PC Case Fasteners Kit |
+| M3x25 BHCS                  |        4 |        4 | In LDO Voron PC Case Fasteners Kit |
+| M3x35 BHCS                  |        8 |        8 | In LDO Voron PC Case Fasteners Kit |
+| M3x35 SHCS                  |        2 |        2 | In LDO Voron PC Case Fasteners Kit |
+| M3 Hammer Head T-nuts       |       47 |       47 | In LDO Voron PC Case Fasteners Kit |
+| M3 Post-install T-nut       |       57 |       57 | In LDO Voron PC Case Fasteners Kit |
+| M3 Threaded Insert (M3x5x4) |      111 |      111 | In LDO Voron PC Case Fasteners Kit |
+| M3 Washer                   |       49 |       49 | In LDO Voron PC Case Fasteners Kit |
+| M5x8 BHCS                   |       21 |       21 | In LDO Voron PC Case Fasteners Kit |
+| M5x10 BHCS                  |       10 |       10 | In LDO Voron PC Case Fasteners Kit |
+| M5x12 BHCS                  |        4 |        4 | In LDO Voron PC Case Fasteners Kit |
+| M5 Hexnut                   |        4 |        4 | In LDO Voron PC Case Fasteners Kit |
+| M5 Post-install T-nut       |       13 |       13 | In LDO Voron PC Case Fasteners Kit |
 
 ## Electronics
 
 | Item                                 | Quantity | Received | Notes                                                 |
-| ------------------------------------ | -------- | -------- | ----------------------------------------------------- |
-| ~5mm LED (Red)~                      | ~2~      |          | Not required, I am using `VPC Front IO board` instead |
-| ~Cherry MX Key Switches (RGB style)~ | ~2~      |          | Not required, I am using `VPC Front IO board` instead |
-| Panel Mount USB Port                 | 2        |          |
+| ------------------------------------ | -------: | -------: | ----------------------------------------------------- |
+| ~5mm LED (Red)~                      |      ~2~ |          | Not required, I am using `VPC Front IO board` instead |
+| ~Cherry MX Key Switches (RGB style)~ |      ~2~ |          | Not required, I am using `VPC Front IO board` instead |
+| Panel Mount USB Port                 |        2 |          |
 
 ## Vibration Management
 
 | Item                            | Quantity | Received | Notes                             |
-| ------------------------------- | -------- | -------- | --------------------------------- |
-| Rubber Foot (1.5x.75", 38x19mm) | 4        | 4        | In LDO Voron PC Case Hardware Kit |
+| ------------------------------- | -------: | -------: | --------------------------------- |
+| Rubber Foot (1.5x.75", 38x19mm) |        4 |        4 | In LDO Voron PC Case Hardware Kit |
 
 ## Frame
 
 | Item                          | Quantity | Received | Notes                    |
-| ----------------------------- | -------- | -------- | ------------------------ |
-| Misumi HFSB5-2020-400-LCP-RCP | 4        | 4        | In LDO Voron PC Case Kit |
-| Misumi HFSB5-2020-400-TPW     | 4        | 4        | In LDO Voron PC Case Kit |
-| Misumi HFSB5-2020-200-TPW     | 4        | 4        | In LDO Voron PC Case Kit |
+| ----------------------------- | -------: | -------: | ------------------------ |
+| Misumi HFSB5-2020-400-LCP-RCP |        4 |        4 | In LDO Voron PC Case Kit |
+| Misumi HFSB5-2020-400-TPW     |        4 |        4 | In LDO Voron PC Case Kit |
+| Misumi HFSB5-2020-200-TPW     |        4 |        4 | In LDO Voron PC Case Kit |
 
 ## Misc
 
 | Item                             | Quantity | Received | Notes                             |
-| -------------------------------- | -------- | -------- | --------------------------------- |
-| Ø6x3mm Neodimium Magnet          | 30       | 30       | In LDO Voron PC Case Hardware Kit |
-| Single Sided Foam Tape 1mm Thick | 6.4m     | 6.4m     | In LDO Voron PC Case Hardware Kit |
-| 3M VHB Tape 5952                 | 1        | 1        | In LDO Voron PC Case Hardware Kit |
+| -------------------------------- | -------: | -------: | --------------------------------- |
+| Ø6x3mm Neodimium Magnet          |       30 |       30 | In LDO Voron PC Case Hardware Kit |
+| Single Sided Foam Tape 1mm Thick |     6.4m |     6.4m | In LDO Voron PC Case Hardware Kit |
+| 3M VHB Tape 5952                 |        1 |        1 | In LDO Voron PC Case Hardware Kit |
 
 ## Cables
 
 | Item                                          | Quantity | Received | Notes                             |
-| --------------------------------------------- | -------- | -------- | --------------------------------- |
-| 22-24AWG High-flex Wire                       | 1        | 1        |
-| Dupont Connector Kit                          | 1        | 1        |
-| JST XH Connector, 2 Position Female plus Pins | 6        | 6        | In LDO Voron PC Case Hardware Kit |
+| --------------------------------------------- | -------: | -------: | --------------------------------- |
+| 22-24AWG High-flex Wire                       |        1 |        1 |
+| Dupont Connector Kit                          |        1 |        1 |
+| JST XH Connector, 2 Position Female plus Pins |        6 |        6 | In LDO Voron PC Case Hardware Kit |
 
 ## Panels
 
 | Item                                                 | Quantity | Received | Notes                          |
-| ---------------------------------------------------- | -------- | -------- | ------------------------------ |
-| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel)  | 1        | 1        | In LDO Voron PC Case Panel Kit |
-| Acrylic Sheet Black - 430x230x3 mm (Bottom panel)    | 1        | 1        | In LDO Voron PC Case Panel Kit |
-| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel)    | 1        | 1        | In LDO Voron PC Case Panel Kit |
-| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel)   | 1        | 1        | In LDO Voron PC Case Panel Kit |
-| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)   | 1        | 1        | In LDO Voron PC Case Panel Kit |
-| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 2        | 2        | In LDO Voron PC Case Panel Kit |
+| ---------------------------------------------------- | -------: | -------: | ------------------------------ |
+| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel)  |        1 |        1 | In LDO Voron PC Case Panel Kit |
+| Acrylic Sheet Black - 430x230x3 mm (Bottom panel)    |        1 |        1 | In LDO Voron PC Case Panel Kit |
+| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel)    |        1 |        1 | In LDO Voron PC Case Panel Kit |
+| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel)   |        1 |        1 | In LDO Voron PC Case Panel Kit |
+| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)   |        1 |        1 | In LDO Voron PC Case Panel Kit |
+| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) |        2 |        2 | In LDO Voron PC Case Panel Kit |
 
 # Printing Parts
 
@@ -110,11 +110,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ## Tools
 
-| Item                                              | Quantity | Material            | Size | Weight | Cost | Printed | Notes                                     |
-| ------------------------------------------------- | -------- | ------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------- |
-| ~[Blind_Joint_Drilling_Jig_V1][Corvus ATX Tools]~ | ~1~      | [eSun ABS+ (Black)] |      |        |      |   :x:   | Not required, I brought my frame as a kit |
-| [Lower_Mid_Mobo_Spacer_Tool_V1][Corvus ATX Tools] | 1        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
-| [Top_Mid_Mobo_Spacer_Tool_V1][Corvus ATX Tools]   | 1        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
+| Item                                              | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                     |
+| ------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------- |
+| ~[Blind_Joint_Drilling_Jig_V1][Corvus ATX Tools]~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Not required, I brought my frame as a kit |
+| [Lower_Mid_Mobo_Spacer_Tool_V1][Corvus ATX Tools] |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Top_Mid_Mobo_Spacer_Tool_V1][Corvus ATX Tools]   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Tools]: https://www.printables.com/model/1428809/files#folder:model:Tools
 
@@ -129,11 +129,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                          | Quantity | Notes                   |
-| ----------------------------- | -------- | ----------------------- |
-| M5x8 BHCS                     | 16       | Trident uses M5x16 BHCS |
-| Misumi HFSB5-2020-400-LCP-RCP | 4        |
-| Misumi HFSB5-2020-400-TPW     | 4        |
-| Misumi HFSB5-2020-200-TPW     | 4        |
+| ----------------------------- | -------: | ----------------------- |
+| M5x8 BHCS                     |       16 | Trident uses M5x16 BHCS |
+| Misumi HFSB5-2020-400-LCP-RCP |        4 |
+| Misumi HFSB5-2020-400-TPW     |        4 |
+| Misumi HFSB5-2020-200-TPW     |        4 |
 
 ## Bottom Compartment
 
@@ -141,12 +141,12 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Feet
 
-| Item                             | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| -------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Foot_A][Corvus ATX Feet]        | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Foot_A_Accent][Corvus ATX Feet] | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Foot_B][Corvus ATX Feet]        | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Foot_B_Accent][Corvus ATX Feet] | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
+| Item                             | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Foot_A][Corvus ATX Feet]        |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Foot_A_Accent][Corvus ATX Feet] |        2 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Foot_B][Corvus ATX Feet]        |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Foot_B_Accent][Corvus ATX Feet] |        2 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Feet]: https://www.printables.com/model/1428809/files#folder:model:Feet
 
@@ -155,15 +155,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                            | Quantity | Notes                                         |
-| ------------------------------- | -------- | --------------------------------------------- |
-| M3x6 BHCS                       | 12       | Holds Accent to Foot                          |
-| M3x8 SHCS                       | 4        | Holds Foot to Frame                           |
-| M3 Post-install T-nut           | 4        | Holds Foot to Frame                           |
-| M5x8 BHCS                       | 4        | Holds Foot to Frame, Trident uses M5x10 BHCS  |
-| M5x12 BHCS                      | 4        | Holds Rubber to Foot, Trident uses M5x16 BHCS |
-| M5 Hexnut                       | 4        | Holds Rubber to Foot                          |
-| M5 Post-install T-nut           | 4        | Holds Foot to Frame                           |
-| Rubber Foot (1.5x.75", 38x19mm) | 4        |
+| ------------------------------- | -------: | --------------------------------------------- |
+| M3x6 BHCS                       |       12 | Holds Accent to Foot                          |
+| M3x8 SHCS                       |        4 | Holds Foot to Frame                           |
+| M3 Post-install T-nut           |        4 | Holds Foot to Frame                           |
+| M5x8 BHCS                       |        4 | Holds Foot to Frame, Trident uses M5x10 BHCS  |
+| M5x12 BHCS                      |        4 | Holds Rubber to Foot, Trident uses M5x16 BHCS |
+| M5 Hexnut                       |        4 | Holds Rubber to Foot                          |
+| M5 Post-install T-nut           |        4 | Holds Foot to Frame                           |
+| Rubber Foot (1.5x.75", 38x19mm) |        4 |
 
 ## Electronics
 
@@ -171,16 +171,16 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: PSU
 
-| Item                                               | Quantity | Material                 | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------- | -------- | ------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [PSU_Left_Front_Cleat][Corvus ATX Power Supply]    | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [PSU_Left_Rear_Cleat][Corvus ATX Power Supply]     | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [PSU_Mount_Left_140mm][Corvus ATX Power Supply]    | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| ~[PSU_Mount_Left_180mm][Corvus ATX Power Supply]~  | ~1~      | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| [PSU_Mount_Right_140mm][Corvus ATX Power Supply]   | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| ~[PSU_Mount_Right_180mm][Corvus ATX Power Supply]~ | ~1~      | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| [PSU_Right_Front_Cleat][Corvus ATX Power Supply]   | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [PSU_Right_Rear_Cleat][Corvus ATX Power Supply]    | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
+| Item                                               | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [PSU_Left_Front_Cleat][Corvus ATX Power Supply]    |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [PSU_Left_Rear_Cleat][Corvus ATX Power Supply]     |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [PSU_Mount_Left_140mm][Corvus ATX Power Supply]    |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ~[PSU_Mount_Left_180mm][Corvus ATX Power Supply]~  |      ~1~ | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [PSU_Mount_Right_140mm][Corvus ATX Power Supply]   |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| ~[PSU_Mount_Right_180mm][Corvus ATX Power Supply]~ |      ~1~ | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [PSU_Right_Front_Cleat][Corvus ATX Power Supply]   |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [PSU_Right_Rear_Cleat][Corvus ATX Power Supply]    |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
 
 [Corvus ATX Power Supply]: https://www.printables.com/model/1428809/files#folder:model:Power%20Supply
 
@@ -189,20 +189,20 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                     |
-| --------------------------- | -------- | ------------------------- |
-| M3x8 BHCS                   | 2        | Holds Cleats to Frame     |
-| M3x16 BHCS                  | 2        | Holds Cleats to Frame     |
-| M3x25 BHCS                  | 4        | Holds PSU Mount to Cleats |
-| M3 Post-install T-nut       | 4        | Holds Cleats to Frame     |
-| M3 Threaded Insert (M3x5x4) | 4        | For Cleats                |
+| --------------------------- | -------: | ------------------------- |
+| M3x8 BHCS                   |        2 | Holds Cleats to Frame     |
+| M3x16 BHCS                  |        2 | Holds Cleats to Frame     |
+| M3x25 BHCS                  |        4 | Holds PSU Mount to Cleats |
+| M3 Post-install T-nut       |        4 | Holds Cleats to Frame     |
+| M3 Threaded Insert (M3x5x4) |        4 | For Cleats                |
 
 ### :negative_squared_cross_mark: Motherboard
 
-| Item                                          | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                                            |
-| --------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------------------------------- |
-| ~[Mobo_Mount_Bottom][Corvus ATX Motherboard]~ | ~1~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
-| ~[Mobo_Mount_Side][Corvus ATX Motherboard]~   | ~1~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
-| [Mobo_Mount_Top][Corvus ATX Motherboard]      | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
+| Item                                          | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes                                                            |
+| --------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------------------------------- |
+| ~[Mobo_Mount_Bottom][Corvus ATX Motherboard]~ |      ~1~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
+| ~[Mobo_Mount_Side][Corvus ATX Motherboard]~   |      ~1~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Mounting` |
+| [Mobo_Mount_Top][Corvus ATX Motherboard]      |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Motherboard]: https://www.printables.com/model/1428809/files#folder:model:Motherboard
 
@@ -211,31 +211,31 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                             |
-| --------------------------- | -------- | --------------------------------- |
-| M3x8 BHCS                   | 9        | For Mounting Motherboard          |
-| M3 Threaded Insert (M3x5x4) | 12       | For Motherboard Mounts            |
-| M3 Washer                   | 9        | For Mounting Motherboard          |
-| M5x10 BHCS                  | 7        | Holds Motherboard Mounts to Frame |
-| M5 Post-install T-nut       | 7        | Holds Motherboard Mounts to Frame |
+| --------------------------- | -------: | --------------------------------- |
+| M3x8 BHCS                   |        9 | For Mounting Motherboard          |
+| M3 Threaded Insert (M3x5x4) |       12 | For Motherboard Mounts            |
+| M3 Washer                   |        9 | For Mounting Motherboard          |
+| M5x10 BHCS                  |        7 | Holds Motherboard Mounts to Frame |
+| M5 Post-install T-nut       |        7 | Holds Motherboard Mounts to Frame |
 
 ### :negative_squared_cross_mark: Universal Motherboard Mounting
 
-| Item                                                  | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Mobo Mount (Bottom)][Universal Motherboard Mounting] | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Mobo Mount (Side)][Universal Motherboard Mounting]   | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
+| Item                                                  | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Mobo Mount (Bottom)][Universal Motherboard Mounting] |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Mobo Mount (Side)][Universal Motherboard Mounting]   |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
 
 [Universal Motherboard Mounting]: https://www.printables.com/model/1444693/files
 
 ### :negative_squared_cross_mark: Rear Panels
 
-| Item                                             | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------ | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| ~[Expansion_Slots][Corvus ATX Rear Panels]~      | ~1~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Expansion_Slots_Hex][Corvus ATX Rear Panels]    | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [IO_Plate_Filler][Corvus ATX Rear Panels]        | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| ~[PCI_Blanking_Plate][Corvus ATX Rear Panels]~   | ~7~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [PCI_Blanking_Plate_Hex][Corvus ATX Rear Panels] | 7        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
+| Item                                             | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------ | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| ~[Expansion_Slots][Corvus ATX Rear Panels]~      |      ~1~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Expansion_Slots_Hex][Corvus ATX Rear Panels]    |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [IO_Plate_Filler][Corvus ATX Rear Panels]        |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| ~[PCI_Blanking_Plate][Corvus ATX Rear Panels]~   |      ~7~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [PCI_Blanking_Plate_Hex][Corvus ATX Rear Panels] |        7 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Rear Panels]: https://www.printables.com/model/1428809/files#folder:model:Rear%20Panels
 
@@ -244,31 +244,31 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                                     |
-| --------------------------- | -------- | ----------------------------------------- |
-| ~M3x6 BHCS~                 | ~7~      | Using Thumbscrews Instead                 |
-| M3x6 Thumbscrews            | 7        | For Expansion Slots                       |
-| M3x8 BHCS                   | 5        | Holds Expansion Slots & IO Panel to Frame |
-| M3 Post-install T-nut       | 5        | Holds Expansion Slots & IO Panel to Frame |
-| M3 Threaded Insert (M3x5x4) | 7        | For Expansion Slots                       |
-| M5x8 BHCS                   | 1        | Holds Expansion Slots to Frame            |
-| M5 Post-install T-nut       | 1        | Holds Expansion Slots to Frame            |
+| --------------------------- | -------: | ----------------------------------------- |
+| ~M3x6 BHCS~                 |      ~7~ | Using Thumbscrews Instead                 |
+| M3x6 Thumbscrews            |        7 | For Expansion Slots                       |
+| M3x8 BHCS                   |        5 | Holds Expansion Slots & IO Panel to Frame |
+| M3 Post-install T-nut       |        5 | Holds Expansion Slots & IO Panel to Frame |
+| M3 Threaded Insert (M3x5x4) |        7 | For Expansion Slots                       |
+| M5x8 BHCS                   |        1 | Holds Expansion Slots to Frame            |
+| M5 Post-install T-nut       |        1 | Holds Expansion Slots to Frame            |
 
 > [!WARNING]
 > Some of these parts are not required as I plan on using `Thumbscrews` instead.
 
 ### :negative_squared_cross_mark: Fans
 
-| Item                                                      | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [140_Fan_Grille][Corvus ATX Rear Panels]                  | 1        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
-| ~[60x15mm_Fan_Hider][Corvus ATX Rear Panels]~             | ~1~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [60x25mm_Fan_Hider][Corvus ATX Rear Panels]               | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Exhaust_Fan_Mount_Bottom][Corvus ATX Rear Panel Fillers] | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Exhaust_Fan_Mount_Top][Corvus ATX Rear Panel Fillers]    | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[PCI_Filler_Blank][Corvus ATX Rear Panel Fillers]~       | ~1~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
-| ~[PCI_Filler_Hex][Corvus ATX Rear Panel Fillers]~         | ~1~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
-| [PCI_Filler_Hex_60mm][Corvus ATX Rear Panel Fillers]      | 1        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
-| ~[PCI_Filler_Partial_Hex][Corvus ATX Rear Panel Fillers]~ | ~1~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+| Item                                                      | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [140_Fan_Grille][Corvus ATX Rear Panels]                  |        1 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
+| ~[60x15mm_Fan_Hider][Corvus ATX Rear Panels]~             |      ~1~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [60x25mm_Fan_Hider][Corvus ATX Rear Panels]               |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Exhaust_Fan_Mount_Bottom][Corvus ATX Rear Panel Fillers] |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Exhaust_Fan_Mount_Top][Corvus ATX Rear Panel Fillers]    |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[PCI_Filler_Blank][Corvus ATX Rear Panel Fillers]~       |      ~1~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
+| ~[PCI_Filler_Hex][Corvus ATX Rear Panel Fillers]~         |      ~1~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
+| [PCI_Filler_Hex_60mm][Corvus ATX Rear Panel Fillers]      |        1 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
+| ~[PCI_Filler_Partial_Hex][Corvus ATX Rear Panel Fillers]~ |      ~1~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
 
 [Corvus ATX Rear Panel Fillers]: https://www.printables.com/model/1428809/files#folder:model:Printable%20Rear%20Panel%20Fillers
 
@@ -277,15 +277,15 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                                      |
-| --------------------------- | -------- | ------------------------------------------ |
-| M3x8 BHCS                   | 2        | Holds PCI-e Filler Fan to Frame            |
-| M3x16 BHCS                  | 2        | Holds Exhaust Fan to Frame                 |
-| M3x35 BHCS                  | 8        | For Fan Grills                             |
-| M3 Post-install T-nut       | 4        | Holds Exhaust & PCI-e Filler Fans to Frame |
-| M3 Threaded Insert (M3x5x4) | 8        | For Fan Grills                             |
-| M3 Washer                   | 8        | For Fan Grills                             |
-| M5x10 BHCS                  | 1        | Holds Exhaust Fan to Frame                 |
-| M5 Post-install T-nut       | 1        | Holds Exhaust Fan to Frame                 |
+| --------------------------- | -------: | ------------------------------------------ |
+| M3x8 BHCS                   |        2 | Holds PCI-e Filler Fan to Frame            |
+| M3x16 BHCS                  |        2 | Holds Exhaust Fan to Frame                 |
+| M3x35 BHCS                  |        8 | For Fan Grills                             |
+| M3 Post-install T-nut       |        4 | Holds Exhaust & PCI-e Filler Fans to Frame |
+| M3 Threaded Insert (M3x5x4) |        8 | For Fan Grills                             |
+| M3 Washer                   |        8 | For Fan Grills                             |
+| M5x10 BHCS                  |        1 | Holds Exhaust Fan to Frame                 |
+| M5 Post-install T-nut       |        1 | Holds Exhaust Fan to Frame                 |
 
 ## Wiring
 
@@ -295,10 +295,10 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Hidden Cable Channel
 
-| Item                                                      | Quantity | Material                 | Size | Weight | Cost | Printed | Notes                                                                 |
-| --------------------------------------------------------- | -------- | ------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------- |
-| ~[Cable_Channel_Bottom][Corvus ATX Hidden Cable Channel]~ | ~1~      | [eSun ABS+ (Cold White)] |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Cable Channel` |
-| [Cable_Channel_Top][Corvus ATX Hidden Cable Channel]      | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
+| Item                                                      | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes                                                                 |
+| --------------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------- |
+| ~[Cable_Channel_Bottom][Corvus ATX Hidden Cable Channel]~ |      ~1~ | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   | Not required as I plan on using `Universal Motherboard Cable Channel` |
+| [Cable_Channel_Top][Corvus ATX Hidden Cable Channel]      |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Hidden Cable Channel]: https://www.printables.com/model/1428809/files#folder:model:Hidden%20Cable%20Channel
 
@@ -307,30 +307,30 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                                                      |
-| --------------------------- | -------- | ---------------------------------------------------------- |
-| M3x10 BHCS                  | 5        | Holds Bottom Cable Channel to Frame and Motherboard Mounts |
-| M3x16 BHCS                  | 2        | Holds Top Cable Channel to Motherboard Mounts              |
-| M3 Post-install T-nut       | 2        | Holds Bottom Cable Channel to Frame                        |
-| M3 Threaded Insert (M3x5x4) | 2        | For Bottom Cable Channel                                   |
+| --------------------------- | -------: | ---------------------------------------------------------- |
+| M3x10 BHCS                  |        5 | Holds Bottom Cable Channel to Frame and Motherboard Mounts |
+| M3x16 BHCS                  |        2 | Holds Top Cable Channel to Motherboard Mounts              |
+| M3 Post-install T-nut       |        2 | Holds Bottom Cable Channel to Frame                        |
+| M3 Threaded Insert (M3x5x4) |        2 | For Bottom Cable Channel                                   |
 
 ### :negative_squared_cross_mark: Universal Motherboard Cable Channel
 
-| Item                                                     | Quantity | Material                 | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------- | -------- | ------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Cable Channel (Bottom)][Universal Motherboard Mounting] | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
+| Item                                                     | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Cable Channel (Bottom)][Universal Motherboard Mounting] |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
 
 ### :negative_squared_cross_mark: Front Skirt
 
-| Item                                            | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                                 |
-| ----------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----------------------------------------------------- |
-| [Front_Button_Mount_PCB][Corvus ATX Skirts]     | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Front_Button_Mount_Plate][Corvus ATX Skirts]~ | ~1~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   | Not required, I am using `VPC Front IO board` instead |
-| [Front_Button_PCB_Spacer][Corvus ATX Skirts]    | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Front_LED_Mount_Block][Corvus ATX Skirts]~    | ~1~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   | Not required, I am using `VPC Front IO board` instead |
-| [Front_Skirt_Closed][Corvus ATX Skirts]         | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Front_Skirt_Open][Corvus ATX Skirts]~         | ~1~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Power_Button][Corvus ATX Skirts]               | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Reset_Button][Corvus ATX Skirts]               | 1        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+| Item                                            | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes                                                 |
+| ----------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------- |
+| [Front_Button_Mount_PCB][Corvus ATX Skirts]     |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Front_Button_Mount_Plate][Corvus ATX Skirts]~ |      ~1~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   | Not required, I am using `VPC Front IO board` instead |
+| [Front_Button_PCB_Spacer][Corvus ATX Skirts]    |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Front_LED_Mount_Block][Corvus ATX Skirts]~    |      ~1~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   | Not required, I am using `VPC Front IO board` instead |
+| [Front_Skirt_Closed][Corvus ATX Skirts]         |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Front_Skirt_Open][Corvus ATX Skirts]~         |      ~1~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Power_Button][Corvus ATX Skirts]               |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Reset_Button][Corvus ATX Skirts]               |        1 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
 
 [Corvus ATX Skirts]: https://www.printables.com/model/1428809/files#folder:model:Skirts
 
@@ -339,14 +339,14 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                         |
-| --------------------------- | -------- | ----------------------------- |
-| M2x10 Self-tapping Screw    | 4        | For Panel Mount USB Ports     |
-| M3x8 BHCS                   | 2        | Holds Skirt to IO Mount       |
-| M3x8 SHCS                   | 2        | Holds Skirt to Frame          |
-| ~M3x16 BHCS~                | ~2~      | For LED Mount Block           |
-| M3 Post-install T-nut       | 2        | Holds Skirt to Frame          |
-| M3 Threaded Insert (M3x5x4) | 4        | For Bottom Panel and IO Mount |
-| Panel Mount USB Port        | 2        |
+| --------------------------- | -------: | ----------------------------- |
+| M2x10 Self-tapping Screw    |        4 | For Panel Mount USB Ports     |
+| M3x8 BHCS                   |        2 | Holds Skirt to IO Mount       |
+| M3x8 SHCS                   |        2 | Holds Skirt to Frame          |
+| ~M3x16 BHCS~                |      ~2~ | For LED Mount Block           |
+| M3 Post-install T-nut       |        2 | Holds Skirt to Frame          |
+| M3 Threaded Insert (M3x5x4) |        4 | For Bottom Panel and IO Mount |
+| Panel Mount USB Port        |        2 |
 
 ## Skirts
 
@@ -354,41 +354,41 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Rear Skirts
 
-| Item                            | Quantity | Material            | Size | Weight | Cost | Printed | Notes |
-| ------------------------------- | -------- | ------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Rear_Skirt][Corvus ATX Skirts] | 1        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
+| Item                            | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Rear_Skirt][Corvus ATX Skirts] |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                |
-| --------------------------- | -------- | -------------------- |
-| M3x8 SHCS                   | 2        | Holds Skirt to Frame |
-| M3 Post-install T-nut       | 2        | Holds Skirt to Frame |
-| M3 Threaded Insert (M3x5x4) | 2        | For Bottom Panel     |
+| --------------------------- | -------: | -------------------- |
+| M3x8 SHCS                   |        2 | Holds Skirt to Frame |
+| M3 Post-install T-nut       |        2 | Holds Skirt to Frame |
+| M3 Threaded Insert (M3x5x4) |        2 | For Bottom Panel     |
 
 ### :negative_squared_cross_mark: Side Skirts
 
-| Item                                         | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Middle_Skirt_Logo_Inlay][Corvus ATX Skirts] | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Side_Skirt_A_Closed][Corvus ATX Skirts]     | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Side_Skirt_A_Open][Corvus ATX Skirts]~     | ~2~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Side_Skirt_B_Closed][Corvus ATX Skirts]     | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Side_Skirt_B_Open][Corvus ATX Skirts]~     | ~2~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| ~[Side_Skirt_Middle][Corvus ATX Skirts]~     | ~2~      | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [Side_Skirt_Middle_Inlay][Corvus ATX Skirts] | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
+| Item                                         | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Middle_Skirt_Logo_Inlay][Corvus ATX Skirts] |        2 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Side_Skirt_A_Closed][Corvus ATX Skirts]     |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Side_Skirt_A_Open][Corvus ATX Skirts]~     |      ~2~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Side_Skirt_B_Closed][Corvus ATX Skirts]     |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Side_Skirt_B_Open][Corvus ATX Skirts]~     |      ~2~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| ~[Side_Skirt_Middle][Corvus ATX Skirts]~     |      ~2~ | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Side_Skirt_Middle_Inlay][Corvus ATX Skirts] |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                |
-| --------------------------- | -------- | -------------------- |
-| M3x8 SHCS                   | 10       | Holds Skirt to Frame |
-| M3 Post-install T-nut       | 10       | Holds Skirt to Frame |
-| M3 Threaded Insert (M3x5x4) | 8        | For Bottom Panel     |
+| --------------------------- | -------: | -------------------- |
+| M3x8 SHCS                   |       10 | Holds Skirt to Frame |
+| M3 Post-install T-nut       |       10 | Holds Skirt to Frame |
+| M3 Threaded Insert (M3x5x4) |        8 | For Bottom Panel     |
 
 ## Panels
 
@@ -401,20 +401,20 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                                              | Quantity | Notes            |
-| ------------------------------------------------- | -------- | ---------------- |
-| Acrylic Sheet Black - 430x230x3 mm (Bottom panel) | 1        |
-| M3x8 BHCS                                         | 12       | For Bottom Panel |
-| M3 Washer                                         | 12       | For Bottom Panel |
+| ------------------------------------------------- | -------: | ---------------- |
+| Acrylic Sheet Black - 430x230x3 mm (Bottom panel) |        1 |
+| M3x8 BHCS                                         |       12 | For Bottom Panel |
+| M3 Washer                                         |       12 | For Bottom Panel |
 
 ### :negative_squared_cross_mark: Deck Panel
 
-| Item                                                | Quantity | Material            | Size | Weight | Cost | Printed | Notes                                                  |
-| --------------------------------------------------- | -------- | ------------------- | ---- | ------ | ---- | :-----: | ------------------------------------------------------ |
-| ~[Deck_Panel_Front][Corvus ATX Deck Panel]~         | ~1~      | [eSun ABS+ (Black)] |      |        |      |   :x:   | Not required, I have the `LDO Voron PC Case Panel Kit` |
-| ~[Deck_Panel_Rear][Corvus ATX Deck Panel]~          | ~1~      | [eSun ABS+ (Black)] |      |        |      |   :x:   | Not required, I have the `LDO Voron PC Case Panel Kit` |
-| [Deck_Support_Corner][Corvus ATX Deck Panel]        | 2        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
-| [Deck_Support_Corner_Mirror][Corvus ATX Deck Panel] | 2        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
-| [Deck_Support_Mid][Corvus ATX Deck Panel]           | 2        | [eSun ABS+ (Black)] |      |        |      |   :x:   |
+| Item                                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                                  |
+| --------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------ |
+| ~[Deck_Panel_Front][Corvus ATX Deck Panel]~         |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Not required, I have the `LDO Voron PC Case Panel Kit` |
+| ~[Deck_Panel_Rear][Corvus ATX Deck Panel]~          |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Not required, I have the `LDO Voron PC Case Panel Kit` |
+| [Deck_Support_Corner][Corvus ATX Deck Panel]        |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Deck_Support_Corner_Mirror][Corvus ATX Deck Panel] |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Deck_Support_Mid][Corvus ATX Deck Panel]           |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Deck Panel]: https://www.printables.com/model/1428809/files#folder:model:Deck%20Panel
 
@@ -423,11 +423,11 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 ##### Parts Needed
 
 | Item                                                | Quantity | Notes                              |
-| --------------------------------------------------- | -------- | ---------------------------------- |
-| Ø6x3mm Neodimium Magnet                             | ~16~ 8   |
-| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel) | 1        |
-| M3x10 BHCS                                          | 6        | Holds Deck Panel Supports to Frame |
-| M3 Post-install T-nut                               | 6        | Holds Deck Panel Supports to Frame |
+| --------------------------------------------------- | -------: | ---------------------------------- |
+| Ø6x3mm Neodimium Magnet                             |   ~16~ 8 |
+| Acrylic Sheet Black - 399.6x217.5x3 mm (Deck panel) |        1 |
+| M3x10 BHCS                                          |        6 | Holds Deck Panel Supports to Frame |
+| M3 Post-install T-nut                               |        6 | Holds Deck Panel Supports to Frame |
 
 > [!WARNING]
 > Some of these parts are not required as they are for the printed `Deck_Panel` parts.
@@ -436,13 +436,13 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
 
-| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~4~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
-| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 12       | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~4~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) |        4 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   |      ~4~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        |       12 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             |        4 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  |      ~4~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 [Corvus ATX Panel Mounting]: https://www.printables.com/model/1428809/files#folder:model:Panel%20Mounting
 
@@ -451,90 +451,90 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 ##### Parts Needed
 
 | Item                                               | Quantity | Notes           |
-| -------------------------------------------------- | -------- | --------------- |
-| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) | 1        |
-| ~M3x8 SHCS~                                        | ~12~     | For Panel Clips |
-| ~M3 Hammer Head T-nuts~                            | ~12~     | For Panel Clips |
-| Single Sided Foam Tape 1mm Thick                   | ?        |
+| -------------------------------------------------- | -------: | --------------- |
+| Acrylic Sheet Clear - 373.8x214x3 mm (Front panel) |        1 |
+| ~M3x8 SHCS~                                        |     ~12~ | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                            |     ~12~ | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                   |        ? |
 
 ### :negative_squared_cross_mark: Rear Panel
 
 I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
 
-| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 2        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~2~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
-| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 7        | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 3        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~3~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) |        2 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   |      ~2~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        |        7 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             |        3 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  |      ~3~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                                              | Quantity | Notes           |
-| ------------------------------------------------- | -------- | --------------- |
-| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) | 1        |
-| ~M3x8 SHCS~                                       | ~7~      | For Panel Clips |
-| ~M3 Hammer Head T-nuts~                           | ~7~      | For Panel Clips |
-| Single Sided Foam Tape 1mm Thick                  | ?        |
+| ------------------------------------------------- | -------: | --------------- |
+| Acrylic Sheet Clear - 373.8x151x3 mm (Rear panel) |        1 |
+| ~M3x8 SHCS~                                       |      ~7~ | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                           |      ~7~ | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                  |        ? |
 
 ### :negative_squared_cross_mark: Side Panel
 
 I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges).
 
-| Item                                                                                                                                                                                                                   | Quantity | Material                      | Size | Weight | Cost | Printed | Notes                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ---------------------------------------- |
-| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   | ~4~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
-| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        | 12       | [eSun ABS+ (Black)]           |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
-| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  | ~4~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
+| Item                                                                                                                                                                                                                   | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------------- |
+| [corner_lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/corner/STL/corner_lock_body_4.STL) |        4 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                   |      ~4~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   | This is replaced by `corner_lock_body_4` |
+| [key_asymmetric_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/STL/key_asymmetric_4.STL)        |       12 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| [lock_body_4](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/blob/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/single/STL/lock_body_4mm.STL)             |        4 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is a mod by `Annex-Engineering`     |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~                                                                                                                                                                  |      ~4~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   | This is replaced by `lock_body_4`        |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                                                 | Quantity | Notes           |
-| ---------------------------------------------------- | -------- | --------------- |
-| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) | 1        |
-| ~M3x8 SHCS~                                          | ~12~     | For Panel Clips |
-| ~M3 Hammer Head T-nuts~                              | ~12~     | For Panel Clips |
-| Single Sided Foam Tape 1mm Thick                     | ?        |
+| ---------------------------------------------------- | -------: | --------------- |
+| Acrylic Sheet Clear - 413x373x3 mm (Door/Side panel) |        1 |
+| ~M3x8 SHCS~                                          |     ~12~ | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                              |     ~12~ | For Panel Clips |
+| Single Sided Foam Tape 1mm Thick                     |        ? |
 
 ### :negative_squared_cross_mark: Top Panel
 
 > [!WARNING]
 > These parts are not required when installing the `Top Hat`.
 
-| Item                                                  | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~  | ~4~      | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~ | ~4~      | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
+| Item                                                  | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| ----------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| ~[Corner_Panel_Clip_4mm][Corvus ATX Panel Mounting]~  |      ~4~ | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| ~[Midspan_Panel_Clip_4mm][Corvus ATX Panel Mounting]~ |      ~4~ | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                                                 | Quantity | Notes           |
-| ---------------------------------------------------- | -------- | --------------- |
-| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ | ~1~      |
-| ~M3x8 SHCS~                                          | ~12~     | For Panel Clips |
-| ~M3 Hammer Head T-nuts~                              | ~12~     | For Panel Clips |
-| ~Single Sided Foam Tape 1mm Thick~                   | ~?~      |
+| ---------------------------------------------------- | -------: | --------------- |
+| ~Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel)~ |      ~1~ |
+| ~M3x8 SHCS~                                          |     ~12~ | For Panel Clips |
+| ~M3 Hammer Head T-nuts~                              |     ~12~ | For Panel Clips |
+| ~Single Sided Foam Tape 1mm Thick~                   |      ~?~ |
 
 ### :negative_squared_cross_mark: Top Hat
 
-| Item                                 | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------ | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [TH_Corner_Clip][Corvus ATX Top Hat] | 4        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [TH_Mid_Clip][Corvus ATX Top Hat]    | 4        | [eSun ABS+ (Cold White)]      |      |        |      |   :x:   |
-| [TH_Front_Rear][Corvus ATX Top Hat]  | 2        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [TH_Left_Front][Corvus ATX Top Hat]  | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [TH_Left_Rear][Corvus ATX Top Hat]   | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [TH_Right_Front][Corvus ATX Top Hat] | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
-| [TH_Right_Rear][Corvus ATX Top Hat]  | 1        | [eSun ABS+ (Black)]           |      |        |      |   :x:   |
+| Item                                 | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------ | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [TH_Corner_Clip][Corvus ATX Top Hat] |        4 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [TH_Mid_Clip][Corvus ATX Top Hat]    |        4 | [eSun ABS+ (Cold White)]      |      |      |        |      |   :x:   |
+| [TH_Front_Rear][Corvus ATX Top Hat]  |        2 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [TH_Left_Front][Corvus ATX Top Hat]  |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [TH_Left_Rear][Corvus ATX Top Hat]   |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [TH_Right_Front][Corvus ATX Top Hat] |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [TH_Right_Rear][Corvus ATX Top Hat]  |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
 
 [Corvus ATX Top Hat]: https://www.printables.com/model/1428809/files#folder:model:Top%20Hat%20(Optional)
 
@@ -543,25 +543,25 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 ##### Parts Needed
 
 | Item                                               | Quantity | Notes                                      |
-| -------------------------------------------------- | -------- | ------------------------------------------ |
-| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel) | 1        |
-| M3x8 BHCS                                          | 12       | Holds Top Hat parts together               |
-| M3x8 SHCS                                          | 30       | Holds Top Hat to Frame and For Panel Clips |
-| M3 Post-install T-nut                              | 18       | Holds Top Hat to Frame                     |
-| M3 Threaded Insert (M3x5x4)                        | 40       | For Panel Clips and Radiator Mounts        |
-| Single Sided Foam Tape 1mm Thick                   | ?        |
+| -------------------------------------------------- | -------: | ------------------------------------------ |
+| Acrylic Sheet Clear - 411.8x211.6x3 mm (Top panel) |        1 |
+| M3x8 BHCS                                          |       12 | Holds Top Hat parts together               |
+| M3x8 SHCS                                          |       30 | Holds Top Hat to Frame and For Panel Clips |
+| M3 Post-install T-nut                              |       18 | Holds Top Hat to Frame                     |
+| M3 Threaded Insert (M3x5x4)                        |       40 | For Panel Clips and Radiator Mounts        |
+| Single Sided Foam Tape 1mm Thick                   |        ? |
 
 ### :negative_squared_cross_mark: 360 Radiator Mount
 
 > [!NOTE]
 > I will not be using the Scoops and Filters from this as I will be using the Acrylic one in the `LDO Voron PC Case Panel Kit`.
 
-| Item                                                | Quantity | Material                      | Size | Weight | Cost | Printed | Notes |
-| --------------------------------------------------- | -------- | ----------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [Rad_Mount_Left_Front][Corvus ATX Radiator Mounts]  | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Rad_Mount_Left_Rear][Corvus ATX Radiator Mounts]   | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Rad_Mount_Right_Front][Corvus ATX Radiator Mounts] | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
-| [Rad_Mount_Right_Rear][Corvus ATX Radiator Mounts]  | 1        | [eSun ABS+ (Fire Engine Red)] |      |        |      |   :x:   |
+| Item                                                | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------- | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Rad_Mount_Left_Front][Corvus ATX Radiator Mounts]  |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Rad_Mount_Left_Rear][Corvus ATX Radiator Mounts]   |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Rad_Mount_Right_Front][Corvus ATX Radiator Mounts] |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [Rad_Mount_Right_Rear][Corvus ATX Radiator Mounts]  |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
 
 [Corvus ATX Radiator Mounts]: https://www.printables.com/model/1433672/files#folder:model:Radiator%20Mounts
 
@@ -570,48 +570,48 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 ##### Parts Needed
 
 | Item      | Quantity | Notes                            |
-| --------- | -------- | -------------------------------- |
-| M3x8 BHCS | 12       | Holds Radiator Mounts to Top Hat |
+| --------- | -------: | -------------------------------- |
+| M3x8 BHCS |       12 | Holds Radiator Mounts to Top Hat |
 
 ### :negative_squared_cross_mark: Door
 
-| Item                                              | Quantity | Material                 | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------- | -------- | ------------------------ | ---- | ------ | ---- | :-----: | ----- |
-| [Door_Hinge][Corvus ATX Panel Mounting]           | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [Door_Hinge_Multi][Corvus ATX Panel Mounting]     | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [Door_Hinge_3mm_Mount][Corvus ATX Panel Mounting] | 2        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [Door_Handle_Bottom][Corvus ATX Panel Mounting]   | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| [Door_Handle_Top][Corvus ATX Panel Mounting]      | 1        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| [Door_Latch_Bottom][Corvus ATX Panel Mounting]    | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
-| [Door_Latch_Top][Corvus ATX Panel Mounting]       | 1        | [eSun ABS+ (Black)]      |      |        |      |   :x:   |
+| Item                                              | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Door_Hinge][Corvus ATX Panel Mounting]           |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [Door_Hinge_Multi][Corvus ATX Panel Mounting]     |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [Door_Hinge_3mm_Mount][Corvus ATX Panel Mounting] |        2 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [Door_Handle_Bottom][Corvus ATX Panel Mounting]   |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Door_Handle_Top][Corvus ATX Panel Mounting]      |        1 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [Door_Latch_Bottom][Corvus ATX Panel Mounting]    |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
+| [Door_Latch_Top][Corvus ATX Panel Mounting]       |        1 | [eSun ABS+ (Black)]      |      |      |        |      |   :x:   |
 
 #### Assembly
 
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                             |
-| --------------------------- | -------- | --------------------------------- |
-| Ø6x3mm Neodimium Magnet     | 4        |
-| 3M VHB Tape 5952            | ?        |
-| M3x8 SHCS                   | 4        | Holds Hinges and Latches to Frame |
-| M3x35 SHCS                  | 2        | For Door Hinges                   |
-| M3 Hammer Head T-nuts       | 4        | Holds Hinges and Latches to Frame |
-| M3 Threaded Insert (M3x5x4) | 2        | For Bottom of Door Hinges         |
+| --------------------------- | -------: | --------------------------------- |
+| Ø6x3mm Neodimium Magnet     |        4 |
+| 3M VHB Tape 5952            |        ? |
+| M3x8 SHCS                   |        4 | Holds Hinges and Latches to Frame |
+| M3x35 SHCS                  |        2 | For Door Hinges                   |
+| M3 Hammer Head T-nuts       |        4 | Holds Hinges and Latches to Frame |
+| M3 Threaded Insert (M3x5x4) |        2 | For Bottom of Door Hinges         |
 
 ### :negative_squared_cross_mark: LDO Aluminum Handlebars
 
-| Item                                     | Quantity | Material            | Size  | Weight | Cost  | Printed | Notes                    |
-| ---------------------------------------- | -------- | ------------------- | ----- | ------ | ----- | :-----: | ------------------------ |
-| [handlebar_spacer][LDO Handlebar Spacer] | 4        | [eSun ABS+ (Black)] | 0.69m | 1.76g  | £0.03 |   :x:   | This is a `LDO 2.4` Part |
+| Item                                     | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes                    |
+| ---------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ------------------------ |
+| [handlebar_spacer][LDO Handlebar Spacer] |        4 | [eSun ABS+ (Black)] |      | 0.69m |  1.76g | £0.03 |   :x:   | This is a `LDO 2.4` Part |
 
 [LDO Handlebar Spacer]: https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/handlebar_spacer_x4.stl
 
 ### :negative_squared_cross_mark: Noctua Fan Grills
 
-| Item                                                                | Quantity | Material                 | Size | Weight | Cost | Printed | Notes                                                                             |
-| ------------------------------------------------------------------- | -------- | ------------------------ | ---- | ------ | ---- | :-----: | --------------------------------------------------------------------------------- |
-| [High-efficiency Noctua 120mm fan grill][Noctua 120mm Fan Grill]    | 3        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   |
-| [High-efficiency Noctua 140mm fan grill v2][Noctua 140mm Fan Grill] | 3        | [eSun ABS+ (Cold White)] |      |        |      |   :x:   | This is a mod by [SuperIntendent](https://www.printables.com/@ernestizze_1625778) |
+| Item                                                                | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes                                                                             |
+| ------------------------------------------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------------------- |
+| [High-efficiency Noctua 120mm fan grill][Noctua 120mm Fan Grill]    |        3 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   |
+| [High-efficiency Noctua 140mm fan grill v2][Noctua 140mm Fan Grill] |        3 | [eSun ABS+ (Cold White)] |      |      |        |      |   :x:   | This is a mod by [SuperIntendent](https://www.printables.com/@ernestizze_1625778) |
 
 [Noctua 120mm Fan Grill]: https://www.printables.com/model/1096961/files
 [Noctua 140mm Fan Grill]: https://www.printables.com/model/1098014/files
@@ -621,20 +621,20 @@ I have opted to upgrade the stock Panel Clips with [Annex Engineering Panel Clip
 ##### Parts Needed
 
 | Item                        | Quantity | Notes                                                            |
-| --------------------------- | -------- | ---------------------------------------------------------------- |
-| M3x8 BHCS                   | 20       | Holds Fan Grills to Panels                                       |
-| M3 Hexnut                   | 12       | For Top Panel Fan Grills, Not In LDO Voron PC Case Fasteners Kit |
-| M3 Threaded Insert (M3x5x4) | 8        | For Front Panel Fans                                             |
-| M3 Washer                   | 20       | Holds Fan Grills to Panels                                       |
+| --------------------------- | -------: | ---------------------------------------------------------------- |
+| M3x8 BHCS                   |       20 | Holds Fan Grills to Panels                                       |
+| M3 Hexnut                   |       12 | For Top Panel Fan Grills, Not In LDO Voron PC Case Fasteners Kit |
+| M3 Threaded Insert (M3x5x4) |        8 | For Front Panel Fans                                             |
+| M3 Washer                   |       20 | Holds Fan Grills to Panels                                       |
 
 ### Spare Fasteners
 
 | Item                        | Quantity | Notes |
-| --------------------------- | -------- | ----- |
-| M3x8 SHCS                   | 4        |
-| M3x10 BHCS                  | 4        |
-| M3 Threaded Insert (M3x5x4) | 14       |
-| M5x10 BHCS                  | 2        |
+| --------------------------- | -------: | ----- |
+| M3x8 SHCS                   |        4 |
+| M3x10 BHCS                  |        4 |
+| M3 Threaded Insert (M3x5x4) |       14 |
+| M5x10 BHCS                  |        2 |
 
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black 'Primary Color'
