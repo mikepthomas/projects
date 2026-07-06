@@ -98,10 +98,10 @@ This section was started as an excersise to understand how many Card Sleeves I w
 A printable slide top box to hold the all the Mini European size cards from the [Two Player Starter Set][Wave 1 Rules] and expansions.
 
 | Item                                | Quantity | Material                 | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------------------- | -------- | ------------------------ | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [EUROBOX_divider_V2][Card Box]      | 6        | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
-| [eurobox-top-v2-longer][Card Box]   | 1        | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
-| [euroboxv2_double_longer][Card Box] | 1        | [PrimaValue PLA (Black)] |      |      |        |      |   :x:   |
+| ----------------------------------- | -------: | ------------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [EUROBOX_divider_V2][Card Box]      |        6 | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
+| [eurobox-top-v2-longer][Card Box]   |        1 | [PrimaValue PLA (Red)]   |      |      |        |      |   :x:   |
+| [euroboxv2_double_longer][Card Box] |        1 | [PrimaValue PLA (Black)] |      |      |        |      |   :x:   |
 
 [Card Box]: https://www.thingiverse.com/thing:7139338/files
 
@@ -146,12 +146,12 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                                   | Quantity | Material | Cards                                         | Notes |
-| -------------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Field Scribe                           | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| Knight Patrol / Initiate               | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Knight Patrol (Blade) / Initiate Blade | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Lancer                                 | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Paladin](#paladin)                    | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| -------------------------------------- | -------: | -------- | --------------------------------------------- | ----- |
+| Field Scribe                           |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| Knight Patrol / Initiate               |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Knight Patrol (Blade) / Initiate Blade |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Lancer                                 |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Paladin](#paladin)                    |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
 
 #### Frontline Knights
 
@@ -160,9 +160,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                     | Quantity | Material | Cards                                   | Notes |
-| ------------------------ | -------- | -------- | --------------------------------------- | ----- |
-| Knight                   | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
-| Knight Patrol / Initiate | 3        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| ------------------------ | -------: | -------- | --------------------------------------- | ----- |
+| Knight                   |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Knight Patrol / Initiate |        3 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### Knight-Captain Cade & Paladin Danse
 
@@ -171,16 +171,16 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                            | Quantity | Material | Cards                                         | Notes |
-| ------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Eyebot                          | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
-| Knight-Captain Cade             | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Paladin Danse](#paladin-danse) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| ------------------------------- | -------: | -------- | --------------------------------------------- | ----- |
+| Eyebot                          |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]       |
+| Knight-Captain Cade             |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Paladin Danse](#paladin-danse) |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
 | Item                                  | Quantity | Material | Cards                                  | Notes |
-| ------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Aspirant Goddard](#aspirant-goddard) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules] |
+| ------------------------------------- | -------: | -------- | -------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard) |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 2
 
@@ -191,8 +191,8 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                        | Quantity | Material | Cards                       | Notes     |
-| --------------------------- | -------- | -------- | --------------------------- | --------- |
-| Liberty Prime (I, II & III) | 1        | Resin    | [Liberty Prime Cards :pdf:] | Legendary |
+| --------------------------- | -------: | -------- | --------------------------- | --------- |
+| Liberty Prime (I, II & III) |        1 | Resin    | [Liberty Prime Cards :pdf:] | Legendary |
 
 [Liberty Prime Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Cards_DIGITAL_002w.pdf
 
@@ -205,10 +205,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                        | Quantity | Material | Cards                                              | Notes |
-| --------------------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Lancer-Captain Kells        | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Elder Maxson                | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Elder Maxson (Power Armour) | 1        | Resin    |                                                    |
+| --------------------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Lancer-Captain Kells        |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Elder Maxson                |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Elder Maxson (Power Armour) |        1 | Resin    |                                                    |
 
 #### Order of the Shield
 
@@ -217,10 +217,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material | Cards                                              | Notes |
-| ------------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Field Scribe Shield | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Knight              | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]            |
-| Knight Tech         | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| ------------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Field Scribe Shield |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Knight              |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]            |
+| Knight Tech         |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 4
 
@@ -231,8 +231,8 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                  | Quantity | Material | Cards                                  | Notes |
-| ------------------------------------- | -------- | -------- | -------------------------------------- | ----- |
-| [Aspirant Goddard](#aspirant-goddard) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules] |
+| ------------------------------------- | -------: | -------- | -------------------------------------- | ----- |
+| [Aspirant Goddard](#aspirant-goddard) |        1 | Resin    | [Two Player Starter Set][Wave 1 Rules] |
 
 ### Wave 10
 
@@ -243,13 +243,13 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2025 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                   | Quantity | Material | Cards                                         | Notes                                                                             |
-| -------------------------------------- | -------- | -------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
-| Field Scribe                           | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Field Scribe 1 Assembly Guide :pdf:] [Field Scribe 2 Assembly Guide :pdf:]       |
-| Knight                                 | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Knight (T-60 B) Assembly Guide :pdf:]                                            |
-| Knight Patrol / Initiate               | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]                             |
-| Knight Patrol (Blade) / Initiate Blade | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]                             |
-| Lancer                                 | 2        | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Initiate/Lancer 1 Assembly Guide :pdf:] [Initiate/Lancer 2 Assembly Guide :pdf:] |
-| [Paladin](#paladin)                    | 1        | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Paladin (T-60 A) Assembly Guide :pdf:]                                           |
+| -------------------------------------- | -------: | -------- | --------------------------------------------- | --------------------------------------------------------------------------------- |
+| Field Scribe                           |        2 | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Field Scribe 1 Assembly Guide :pdf:] [Field Scribe 2 Assembly Guide :pdf:]       |
+| Knight                                 |        1 | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Knight (T-60 B) Assembly Guide :pdf:]                                            |
+| Knight Patrol / Initiate               |        1 | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 1) Assembly Guide :pdf:]                             |
+| Knight Patrol (Blade) / Initiate Blade |        1 | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Aspirant/Knight Patrol (HCA 2) Assembly Guide :pdf:]                             |
+| Lancer                                 |        2 | HIPS     | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Initiate/Lancer 1 Assembly Guide :pdf:] [Initiate/Lancer 2 Assembly Guide :pdf:] |
+| [Paladin](#paladin)                    |        1 | HIPS     | [Capital Rules Expansion][Wave 8 Rules]       | [Paladin (T-60 A) Assembly Guide :pdf:]                                           |
 
 [Paladin (T-60 A) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=10
 [Knight (T-60 B) Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf#page=12
@@ -394,10 +394,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item          | Quantity | Material | Cards                                            | Notes |
-| ------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Child of Atom | 4        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Disciple      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Preacher      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Child of Atom |        4 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Disciple      |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Preacher      |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 ## Creatures
 
@@ -431,9 +431,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                      | Quantity | Material | Cards                                            | Notes |
-| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| [Deathclaw](#deathclaw-1) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]           |
-| Young Deathclaw           | :x:      | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ------------------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| [Deathclaw](#deathclaw-1) |        1 | Resin    | [Two Player Starter Set][Wave 1 Rules]           |
+| Young Deathclaw           |      :x: | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Radscorpions
 
@@ -442,10 +442,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                            | Quantity | Material | Cards                                                         | Notes |
-| ------------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
-| Deathskull Radscorpion (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
-| Radscorpion                     | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
-| Young Radscorpion               | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| ------------------------------- | -------: | -------- | ------------------------------------------------------------- | ----- |
+| Deathskull Radscorpion (I & II) |        1 | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
+| Radscorpion                     |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
+| Young Radscorpion               |      :x: | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Two Player Starter Set
 
@@ -454,10 +454,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material | Cards                                            | Notes |
-| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Alien                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
-| [Deathclaw](#deathclaw-1) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
-| Young Deathclaw           | :x:      | PVC      | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ------------------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Alien                     |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
+| [Deathclaw](#deathclaw-1) |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]           |
+| Young Deathclaw           |      :x: | PVC      | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Wave 2
 
@@ -468,11 +468,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material | Cards                                            | Notes |
-| ------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Bloated Glowing One | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Feral Ghoul         | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
-| Putrid Glowing One  | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Weak Feral Ghoul    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ------------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Bloated Glowing One |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Feral Ghoul         |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
+| Putrid Glowing One  |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Weak Feral Ghoul    |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Wasteland Vermin
 
@@ -481,11 +481,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                        | Quantity | Material | Cards                                                         | Notes |
-| --------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
-| Glowing Radroach Swarm      | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
-| [Mole Rat](#molerats)       | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
-| [Rabid Mole Rat](#molerats) | 1        | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
-| [Radroach Swarm](#radroach) | 5        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
+| --------------------------- | -------: | -------- | ------------------------------------------------------------- | ----- |
+| Glowing Radroach Swarm      |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
+| [Mole Rat](#molerats)       |        2 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules]              |
+| [Rabid Mole Rat](#molerats) |        1 | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| [Radroach Swarm](#radroach) |        5 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
 
 ### Wave 4
 
@@ -496,10 +496,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material | Cards                                                         | Notes     |
-| -------------------- | -------- | -------- | ------------------------------------------------------------- | --------- |
-| Fog Crawler          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
-| Shipbreaker (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
-| Young Fog Crawler    | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| -------------------- | -------: | -------- | ------------------------------------------------------------- | --------- |
+| Fog Crawler          |      :x: | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Shipbreaker (I & II) |        1 | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
+| Young Fog Crawler    |      :x: | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Mirelurks
 
@@ -508,9 +508,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item               | Quantity | Material | Cards                                                         | Notes |
-| ------------------ | -------- | -------- | ------------------------------------------------------------- | ----- |
-| Mirelurk           | 1        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
-| Softshell Mirelurk | 1        | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| ------------------ | -------: | -------- | ------------------------------------------------------------- | ----- |
+| Mirelurk           |        1 | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Softshell Mirelurk |        1 | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Mirelurk Hunters
 
@@ -519,8 +519,8 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item            | Quantity | Material | Cards                                            | Notes |
-| --------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Mirelurk Hunter | 2        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| --------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Mirelurk Hunter |        2 | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
 
 #### Mirelurk Queen
 
@@ -529,12 +529,12 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                    | Quantity | Material | Cards                                                         | Notes     |
-| ----------------------- | -------- | -------- | ------------------------------------------------------------- | --------- |
-| Mirelurk Hatchlings     | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
-| Mirelurk Queen          | :x:      | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
-| Nukalurk Hatchlings     | 3        | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
-| Nukalurk Queen (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
-| Young Mirelurk Queen    | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| ----------------------- | -------: | -------- | ------------------------------------------------------------- | --------- |
+| Mirelurk Hatchlings     |      :x: | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Mirelurk Queen          |      :x: | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules]              |
+| Nukalurk Hatchlings     |        3 | Resin    | [Into the Wasteland][Wave 4 Rules]                            |
+| Nukalurk Queen (I & II) |        1 | Resin    | [Into the Wasteland][Wave 4 Rules]                            | Legendary |
+| Young Mirelurk Queen    |      :x: | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 ### Wave 6
 
@@ -545,9 +545,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item         | Quantity | Material | Cards                                            | Notes |
-| ------------ | -------- | -------- | ------------------------------------------------ | ----- |
-| Brahmin      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Pack Brahmin | 1        | Resin    |                                                  |
+| ------------ | -------: | -------- | ------------------------------------------------ | ----- |
+| Brahmin      |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Pack Brahmin |        1 | Resin    |                                                  |
 
 #### Deathclaw Matriarch
 
@@ -556,8 +556,8 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                         | Quantity | Material | Cards                                            | Notes     |
-| ---------------------------- | -------- | -------- | ------------------------------------------------ | --------- |
-| Deathclaw Matriarch (I & II) | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] | Legendary |
+| ---------------------------- | -------: | -------- | ------------------------------------------------ | --------- |
+| Deathclaw Matriarch (I & II) |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] | Legendary |
 
 #### Mongrel Scavenging Pack
 
@@ -566,10 +566,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                           | Quantity | Material | Cards                                            | Notes     |
-| ------------------------------ | -------- | -------- | ------------------------------------------------ | --------- |
-| Alpha Mongrel                  | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Alpha Glowing Mongrel (I & II) | 1        | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
-| Mongrel                        | 4        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ------------------------------ | -------: | -------- | ------------------------------------------------ | --------- |
+| Alpha Mongrel                  |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Alpha Glowing Mongrel (I & II) |        1 | Resin    | [Into the Wasteland][Wave 4 Rules]               | Legendary |
+| Mongrel                        |        4 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 #### Yao Guai Ambush
 
@@ -578,9 +578,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item             | Quantity | Material | Cards                                            | Notes |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Glowing Yao Guai | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Yao Guai         | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ---------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Glowing Yao Guai |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Yao Guai         |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 ### Wave 7
 
@@ -591,9 +591,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item             | Quantity | Material | Cards                                            | Notes |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Bloatfly         | 2        | Resin    | [Into the Wasteland][Wave 4 Rules]               |
-| Glowing Bloatfly | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ---------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Bloatfly         |        2 | Resin    | [Into the Wasteland][Wave 4 Rules]               |
+| Glowing Bloatfly |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 #### Blood Bugs
 
@@ -602,9 +602,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item             | Quantity | Material | Cards                                              | Notes |
-| ---------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Bloodbug         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Glowing Bloodbug | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ---------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Bloodbug         |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Glowing Bloodbug |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 #### Radstag Herd
 
@@ -613,9 +613,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item        | Quantity | Material | Cards                                              | Notes |
-| ----------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Radstag     | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Radstag Doe | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ----------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Radstag     |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Radstag Doe |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 #### Sting Wings
 
@@ -624,9 +624,9 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item              | Quantity | Material | Cards                                              | Notes |
-| ----------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Glowing Stingwing | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Stingwing         | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ----------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Glowing Stingwing |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Stingwing         |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Painting Guides
 
@@ -736,10 +736,10 @@ A printable slide top box to hold the all the Mini European size cards from the 
 #### Core Box
 
 | Item            | Quantity | Material | Cards                                   | Notes |
-| --------------- | -------- | -------- | --------------------------------------- | ----- |
-| Enclave Soldier | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
-| Tesla Soldier   | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
-| Warrant Officer | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| --------------- | -------: | -------- | --------------------------------------- | ----- |
+| Enclave Soldier |        2 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Tesla Soldier   |        2 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Warrant Officer |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### Frank Horrigan
 
@@ -748,14 +748,14 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                            | Quantity | Material | Cards                                   | Notes     |
-| ----------------------------------------------- | -------- | -------- | --------------------------------------- | --------- |
-| [Frank Horrigan (I, II & III)](#frank-horrigan) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] | Legendary |
+| ----------------------------------------------- | -------: | -------- | --------------------------------------- | --------- |
+| [Frank Horrigan (I, II & III)](#frank-horrigan) |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] | Legendary |
 
 #### Hellfire Set
 
 | Item             | Quantity | Material | Cards                                   | Notes |
-| ---------------- | -------- | -------- | --------------------------------------- | ----- |
-| Hellfire Trooper | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| ---------------- | -------: | -------- | --------------------------------------- | ----- |
+| Hellfire Trooper |        2 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### High Command
 
@@ -764,22 +764,22 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item               | Quantity | Material | Cards                                   | Notes |
-| ------------------ | -------- | -------- | --------------------------------------- | ----- |
-| Colonel Autumn     | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
-| Lieutenant         | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
-| Science Specialist | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| ------------------ | -------: | -------- | --------------------------------------- | ----- |
+| Colonel Autumn     |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Lieutenant         |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| Science Specialist |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### Soldier Set
 
 | Item            | Quantity | Material | Cards                                   | Notes |
-| --------------- | -------- | -------- | --------------------------------------- | ----- |
-| Enclave Soldier | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| --------------- | -------: | -------- | --------------------------------------- | ----- |
+| Enclave Soldier |        2 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 #### Tesla Set
 
 | Item          | Quantity | Material | Cards                                   | Notes |
-| ------------- | -------- | -------- | --------------------------------------- | ----- |
-| Tesla Soldier | 2        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| ------------- | -------: | -------- | --------------------------------------- | ----- |
+| Tesla Soldier |        2 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 ### Painting Guides
 
@@ -873,11 +873,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item             | Quantity | Material | Cards                                            | Notes |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Gunner Conscript | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Lieutenant Clint | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Sergeant Baker   | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Tessa            | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ---------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Gunner Conscript |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Lieutenant Clint |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Sergeant Baker   |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Tessa            |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 #### Core Box
 
@@ -886,11 +886,11 @@ A printable slide top box to hold the all the Mini European size cards from the 
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item             | Quantity | Material | Cards                                            | Notes |
-| ---------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Gunner Commander | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Gunner Conscript | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Gunner Private   | 2        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Gunner Sergeant  | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ---------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Gunner Commander |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Gunner Conscript |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Gunner Private   |        2 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Gunner Sergeant  |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 ## Institute
 
@@ -930,16 +930,16 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material | Cards                                              | Notes |
-| -------------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| A-2018               | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Battered Gen 1 Synth | 2        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Courser              | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Engineer             | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Gen 1 Synth          | 2        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Patroller            | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Scientist            | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Synth Infiltrator    | 2        | HIPS     |                                                    |
-| Trooper              | 1        | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| -------------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| A-2018               |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Battered Gen 1 Synth |        2 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Courser              |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Engineer             |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Gen 1 Synth          |        2 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Patroller            |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Scientist            |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Synth Infiltrator    |        2 | HIPS     |                                                    |
+| Trooper              |        1 | HIPS     | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 3
 
@@ -950,13 +950,13 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material | Cards                                              | Notes |
-| -------------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Battered Gen 1 Synth | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Courser              | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Gen 1 Synth          | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Patroller            | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Scientist            | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Trooper              | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| -------------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Battered Gen 1 Synth |        2 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Courser              |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Gen 1 Synth          |        2 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Patroller            |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Scientist            |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Trooper              |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 #### Covert Operations
 
@@ -965,10 +965,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Cards                                              | Notes |
-| ------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| A-2018        | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Conrad Kellog | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Z2-47         | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| ------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| A-2018        |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Conrad Kellog |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Z2-47         |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ## Leigon
 
@@ -995,30 +995,30 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 #### Core Box
 
 | Item              | Quantity | Material | Cards                                     | Notes |
-| ----------------- | -------- | -------- | ----------------------------------------- | ----- |
-| Centurion         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Legion Explorer   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Prime Legionary   | 3        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Recruit Legionary | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Veteran Decanus   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ----------------- | -------: | -------- | ----------------------------------------- | ----- |
+| Centurion         |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Legion Explorer   |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Prime Legionary   |        3 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Recruit Legionary |        2 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Veteran Decanus   |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Military Command
 
 | Item           | Quantity | Material | Cards                                     | Notes |
-| -------------- | -------- | -------- | ----------------------------------------- | ----- |
-| Legate Lanius  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Lucius         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Vulpes Inculta | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| -------------- | -------: | -------- | ----------------------------------------- | ----- |
+| Legate Lanius  |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Lucius         |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Vulpes Inculta |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Veteran Wave
 
 | Item             | Quantity | Material | Cards                                     | Notes |
-| ---------------- | -------- | -------- | ----------------------------------------- | ----- |
-| Hound Master     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Leigion Mongrel  | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Legionary Scout  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Praetorian Guard | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Vexillarius      | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ---------------- | -------: | -------- | ----------------------------------------- | ----- |
+| Hound Master     |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Leigion Mongrel  |        2 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Legionary Scout  |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Praetorian Guard |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Vexillarius      |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ## NCR
 
@@ -1046,12 +1046,12 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 #### Core Box
 
 | Item               | Quantity | Material | Cards                                     | Notes |
-| ------------------ | -------- | -------- | ----------------------------------------- | ----- |
-| NCR Heavy Trooper  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Patrol Ranger  | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Trooper        | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Trooper MP     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Veteran Ranger | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ------------------ | -------: | -------- | ----------------------------------------- | ----- |
+| NCR Heavy Trooper  |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Patrol Ranger  |        2 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper        |        2 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper MP     |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Veteran Ranger |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### NCR Ranger
 
@@ -1060,26 +1060,26 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Video © 2020 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item        | Quantity | Material | Cards                                     | Notes |
-| ----------- | -------- | -------- | ----------------------------------------- | ----- |
-| The Courier | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ----------- | -------: | -------- | ----------------------------------------- | ----- |
+| The Courier |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Ranger Patrol
 
 | Item                   | Quantity | Material | Cards                                     | Notes |
-| ---------------------- | -------- | -------- | ----------------------------------------- | ----- |
-| 1st Recon Sharpshooter | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Civilian Ranger    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Trooper            | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Trooper MP         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| NCR Veteran Ranger     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ---------------------- | -------: | -------- | ----------------------------------------- | ----- |
+| 1st Recon Sharpshooter |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Civilian Ranger    |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper            |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Trooper MP         |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| NCR Veteran Ranger     |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Top Brass
 
 | Item                | Quantity | Material | Cards                                     | Notes |
-| ------------------- | -------- | -------- | ----------------------------------------- | ----- |
-| Chief Hanlon        | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| General Lee Oliver  | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Lieutenant Gorobets | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ------------------- | -------: | -------- | ----------------------------------------- | ----- |
+| Chief Hanlon        |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| General Lee Oliver  |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Lieutenant Gorobets |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ## Nuka-World Gangs Raiders
 
@@ -1103,17 +1103,17 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item            | Quantity | Material | Cards                                      | Notes                                                  |
-| --------------- | -------- | -------- | ------------------------------------------ | ------------------------------------------------------ |
-| Butcher         | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Tormentor Assembly Guide :pdf:] (Center)      |
-| Pillager        | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Pillager/Psycho 2 Assembly Guide :pdf:] (Right)       |
-| Scaver          | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster/Waster 1 Assembly Guide :pdf:] (Right)         |
-| Scaver/Waster 2 | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Scaver/Waster 2 Assembly Guide] |
-| Survivalist     | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Scaver 2 Assembly Guide :pdf:] (Right)    |
-| Survivalist A   | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Survivalist A Assembly Guide]   |
-| Tormentor       | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Butcher 2 Assembly Guide :pdf:] (Center)    |
-| Veteran         | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Butcher 1 Assembly Guide :pdf:] (Left)        |
-| Waster          | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Faction Psycho 1 Assembly Guide :pdf:] (Left)         |
-| Waster A        | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Waster A Assembly Guide]        |
+| --------------- | -------: | -------- | ------------------------------------------ | ------------------------------------------------------ |
+| Butcher         |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Tormentor Assembly Guide :pdf:] (Center)      |
+| Pillager        |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Pillager/Psycho 2 Assembly Guide :pdf:] (Right)       |
+| Scaver          |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster/Waster 1 Assembly Guide :pdf:] (Right)         |
+| Scaver/Waster 2 |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Scaver/Waster 2 Assembly Guide] |
+| Survivalist     |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Scaver 2 Assembly Guide :pdf:] (Right)    |
+| Survivalist A   |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Survivalist A Assembly Guide]   |
+| Tormentor       |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Butcher 2 Assembly Guide :pdf:] (Center)    |
+| Veteran         |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Butcher 1 Assembly Guide :pdf:] (Left)        |
+| Waster          |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Faction Psycho 1 Assembly Guide :pdf:] (Left)         |
+| Waster A        |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Waster A Assembly Guide]        |
 
 [Butcher/Tormentor Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=13
 [Survivalist A Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fb70c735-73ad-4711-9474-2f67f9ecaeb3/Fallout_-Miniatures__The-Disciples__Assembly-Guide.pdf#page=14
@@ -1133,17 +1133,17 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item              | Quantity | Material | Cards                                      | Notes                                                    |
-| ----------------- | -------- | -------- | ------------------------------------------ | -------------------------------------------------------- |
-| Butcher           | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Boss Assembly Guide :pdf:] (Center)             |
-| Factions Psycho   | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Factions Psycho Assembly Guide]   |
-| Factions Scaver 1 | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Factions Scaver 1 Assembly Guide] |
-| Pillager          | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Pillager/Psycho 2 Assembly Guide :pdf:] (Left)          |
-| Scaver            | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Scaver/Waster 3 Assembly Guide :pdf:] (Left)            |
-| Survivalist       | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Scaver 2 Assembly Guide :pdf:] (Left)       |
-| Tormentor         | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Made Man 1 Assembly Guide :pdf:] (Right)      |
-| Veteran           | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Made Man 2 Assembly Guide :pdf:] (Left)         |
-| Waster            | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster/Waster 2 Assembly Guide :pdf:] (Right)           |
-| Waster/Scaver 1   | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Waster/Scaver 1 Assembly Guide]   |
+| ----------------- | -------: | -------- | ------------------------------------------ | -------------------------------------------------------- |
+| Butcher           |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Boss Assembly Guide :pdf:] (Center)             |
+| Factions Psycho   |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Factions Psycho Assembly Guide]   |
+| Factions Scaver 1 |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Factions Scaver 1 Assembly Guide] |
+| Pillager          |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Pillager/Psycho 2 Assembly Guide :pdf:] (Left)          |
+| Scaver            |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Scaver/Waster 3 Assembly Guide :pdf:] (Left)            |
+| Survivalist       |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Scaver 2 Assembly Guide :pdf:] (Left)       |
+| Tormentor         |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Made Man 1 Assembly Guide :pdf:] (Right)      |
+| Veteran           |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Made Man 2 Assembly Guide :pdf:] (Left)         |
+| Waster            |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster/Waster 2 Assembly Guide :pdf:] (Right)           |
+| Waster/Scaver 1   |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Waster/Scaver 1 Assembly Guide]   |
 
 [Butcher/Boss Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=13
 [Factions Psycho Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/538025ba-49c9-4db5-be8a-32f8fd5e1ae5/Fallout_-Miniatures__The-Operators__Assembly-Guide.pdf#page=14
@@ -1163,17 +1163,17 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2024 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                 | Quantity | Material | Cards                                      | Notes                                                       |
-| -------------------- | -------- | -------- | ------------------------------------------ | ----------------------------------------------------------- |
-| Butcher              | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Alpha Assembly Guide :pdf:] (Left)                 |
-| Pillager             | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Psycho/Pillager Assembly Guide :pdf:] (Right)              |
-| Psycho 1             | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Psycho 1 Assembly Guide]             |
-| Scaver               | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster 2/Scaver Assembly Guide :pdf:] (Right)              |
-| Scaver/Survivalist   | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Scaver/Survivalist Assembly Guide]   |
-| Survivalist          | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Psycho 2 Assembly Guide :pdf:] (Left)          |
-| Survivalist/Scaver 1 | 1        | HIPS     |                                            | [Assembly Guide :pdf:][Survivalist/Scaver 1 Assembly Guide] |
-| Tormentor            | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Top Dog Assembly Guide :pdf:] (Center)           |
-| Veteran              | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Top Dog Assembly Guide :pdf:] (Right)              |
-| Waster               | 1        | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster 1 Assembly Guide :pdf:] (Right)                     |
+| -------------------- | -------: | -------- | ------------------------------------------ | ----------------------------------------------------------- |
+| Butcher              |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Butcher/Alpha Assembly Guide :pdf:] (Left)                 |
+| Pillager             |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Psycho/Pillager Assembly Guide :pdf:] (Right)              |
+| Psycho 1             |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Psycho 1 Assembly Guide]             |
+| Scaver               |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster 2/Scaver Assembly Guide :pdf:] (Right)              |
+| Scaver/Survivalist   |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Scaver/Survivalist Assembly Guide]   |
+| Survivalist          |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Survivalist/Psycho 2 Assembly Guide :pdf:] (Left)          |
+| Survivalist/Scaver 1 |        1 | HIPS     |                                            | [Assembly Guide :pdf:][Survivalist/Scaver 1 Assembly Guide] |
+| Tormentor            |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Tormentor/Top Dog Assembly Guide :pdf:] (Center)           |
+| Veteran              |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Veteran/Top Dog Assembly Guide :pdf:] (Right)              |
+| Waster               |        1 | HIPS     | [Nuka-World Rules Expansion][Wave 9 Rules] | [Waster 1 Assembly Guide :pdf:] (Right)                     |
 
 [Butcher/Alpha Assembly Guide :pdf:]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=13
 [Survivalist/Scaver 1 Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2c9fff24-4933-4142-b80e-7ba9b0cec9ec/Fallout_-Miniatures__The-Pack__Assembly-Guide.pdf#page=14
@@ -1223,10 +1223,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item    | Quantity | Material | Cards                                            | Notes |
-| ------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Ack Ack | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Avery   | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Sinjin  | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Ack Ack |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Avery   |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Sinjin  |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Core Box
 
@@ -1235,11 +1235,11 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item              | Quantity | Material | Cards                                            | Notes |
-| ----------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Psycho            | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| [Raider](#raider) | 3        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Scavver           | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Veteran Raider    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ----------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Psycho            |        2 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| [Raider](#raider) |        3 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Scavver           |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Veteran Raider    |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 #### Raiders, Scavvers & Psychos
 
@@ -1248,10 +1248,10 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item           | Quantity | Material | Cards                                            | Notes |
-| -------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Psycho Outlaw  | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Raider Outlaw  | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
-| Scavver Outlaw | 2        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| -------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Psycho Outlaw  |        2 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Raider Outlaw  |        2 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| Scavver Outlaw |        2 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Wave 7
 
@@ -1262,11 +1262,11 @@ There are examples of How to paint Institute Synths and Konrad Kellogg in the [B
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item            | Quantity | Material | Cards                                              | Notes |
-| --------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Bedlam          | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Forged (Female) | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Forged (Male)   | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Slag            | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| --------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Bedlam          |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Forged (Female) |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Forged (Male)   |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Slag            |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Painting Guides
 
@@ -1360,13 +1360,13 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item           | Quantity | Material | Cards                                            | Notes |
-| -------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Desdemona      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Dr. Carrington | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Drummer Boy    | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Mister Tims    | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| P.A.M.         | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Tinker Tom     | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| -------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Desdemona      |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Dr. Carrington |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Drummer Boy    |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Mister Tims    |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| P.A.M.         |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Tinker Tom     |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 #### Operatives
 
@@ -1375,10 +1375,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item           | Quantity | Material | Cards                                            | Notes |
-| -------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Deacon         | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Glory          | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Railroad Heavy | 4        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| -------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Deacon         |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Glory          |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Railroad Heavy |        4 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 ## Robots
 
@@ -1411,11 +1411,11 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material | Cards                                          | Notes |
-| ------------------------- | -------- | -------- | ---------------------------------------------- | ----- |
-| Battered Assaultron       | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
-| Battered Protectron       | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
-| Assaultron                | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
-| [Protectron](#protectron) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
+| ------------------------- | -------: | -------- | ---------------------------------------------- | ----- |
+| Battered Assaultron       |        1 | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| Battered Protectron       |        1 | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| Assaultron                |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
+| [Protectron](#protectron) |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]  |
 
 #### Sentry Bot
 
@@ -1424,9 +1424,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                      | Quantity | Material | Cards                                          | Notes |
-| ------------------------- | -------- | -------- | ---------------------------------------------- | ----- |
-| Battered Sentry Bot       | :x:      | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
-| [Sentry Bot](#sentry-bot) | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules]        |
+| ------------------------- | -------: | -------- | ---------------------------------------------- | ----- |
+| Battered Sentry Bot       |      :x: | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| [Sentry Bot](#sentry-bot) |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules]        |
 
 ### Wave 3
 
@@ -1437,8 +1437,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Cards                                          | Notes |
-| ------------- | -------- | -------- | ---------------------------------------------- | ----- |
-| The Mechanist | 1        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| ------------- | -------: | -------- | ---------------------------------------------- | ----- |
+| The Mechanist |        1 | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
 
 ### Wave 4
 
@@ -1449,8 +1449,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item      | Quantity | Material | Cards                                          | Notes |
-| --------- | -------- | -------- | ---------------------------------------------- | ----- |
-| Robobrain | 2        | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
+| --------- | -------: | -------- | ---------------------------------------------- | ----- |
+| Robobrain |        2 | Resin    | [Automatron Card Expansion Pack][Wave 3 Rules] |
 
 ### Wave 5
 
@@ -1461,9 +1461,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                | Quantity | Material | Cards                                     | Notes |
-| ----------------------------------- | -------- | -------- | ----------------------------------------- | ----- |
-| [Securitron MK I](#securitron-mk-i) | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Securitron MK II                    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ----------------------------------- | -------: | -------- | ----------------------------------------- | ----- |
+| [Securitron MK I](#securitron-mk-i) |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Securitron MK II                    |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 6
 
@@ -1474,11 +1474,11 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item       | Quantity | Material | Cards                                            | Notes |
-| ---------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Curie      | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Miss Nanny | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Mr Gutsy   | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Mr Handy   | :x:      | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
+| ---------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Curie      |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Miss Nanny |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Mr Gutsy   |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Mr Handy   |      :x: | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]    |
 
 #### Protectron Workers
 
@@ -1487,10 +1487,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                      | Quantity | Material | Cards                                            | Notes |
-| ------------------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Police Protectron         | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Protectron Fire Brigadier | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
-| Utility Protectron        | 1        | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| ------------------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Police Protectron         |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Protectron Fire Brigadier |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
+| Utility Protectron        |        1 | Resin    | [The Commonwealth Rules Expansion][Wave 6 Rules] |
 
 ### Wave 9
 
@@ -1501,8 +1501,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2023 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item     | Quantity | Material | Cards                                      | Notes |
-| -------- | -------- | -------- | ------------------------------------------ | ----- |
-| N.I.R.A. | 1        | Resin    | [Nuka-World Rules Expansion][Wave 9 Rules] |
+| -------- | -------: | -------- | ------------------------------------------ | ----- |
+| N.I.R.A. |        1 | Resin    | [Nuka-World Rules Expansion][Wave 9 Rules] |
 
 ### Painting Guides
 
@@ -1636,9 +1636,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                         | Quantity | Material | Cards                                                         | Notes |
-| ---------------------------- | -------- | -------- | ------------------------------------------------------------- | ----- |
-| [Behemoth](#behemoth-1)      | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
-| [Weak Behemoth](#behemoth-1) | :x:      | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
+| ---------------------------- | -------: | -------- | ------------------------------------------------------------- | ----- |
+| [Behemoth](#behemoth-1)      |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules]                 |
+| [Weak Behemoth](#behemoth-1) |      :x: | Resin    | [Denizens of the Wasteland Card Expansion Pack][Wave 4 Rules] |
 
 #### Core Box
 
@@ -1647,12 +1647,12 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                          | Quantity | Material | Cards                                         | Notes             |
-| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| Brute                         | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
-| Master                        | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
-| Mutant Hound Fiend            | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Super Mutant](#super-mutant) | 3        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| ----------------------------- | -------: | -------- | --------------------------------------------- | ----------------- |
+| Brute                         |        1 | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Master                        |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Mutant Hound](#mutant-hound) |        1 | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Mutant Hound Fiend            |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Super Mutant](#super-mutant) |        3 | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
 
 #### Hammer
 
@@ -1661,9 +1661,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                          | Quantity | Material | Cards                                         | Notes             |
-| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| [Hammer](#hammer-1)           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Mutant Hound](#mutant-hound) | 1        | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| ----------------------------- | -------: | -------- | --------------------------------------------- | ----------------- |
+| [Hammer](#hammer-1)           |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Mutant Hound](#mutant-hound) |        1 | Resin    | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
 
 #### Suiciders
 
@@ -1672,18 +1672,18 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item     | Quantity | Material | Cards                                         | Notes |
-| -------- | -------- | -------- | --------------------------------------------- | ----- |
-| Suicider | 3        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| -------- | -------: | -------- | --------------------------------------------- | ----- |
+| Suicider |        3 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Two Player Starter Set
 
 | Item                          | Quantity | Material | Cards                                         | Notes             |
-| ----------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| [Aviator](#aviator)           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| Brute                         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| [Mutant Hound](#mutant-hound) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
-| Mutant Hound Fiend            | 1        | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Super Mutant](#super-mutant) | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| ----------------------------- | -------: | -------- | --------------------------------------------- | ----------------- |
+| [Aviator](#aviator)           |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| Brute                         |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| [Mutant Hound](#mutant-hound) |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Mutant Hound Fiend            |        1 | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Super Mutant](#super-mutant) |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 
 ### Wave 3
 
@@ -1694,9 +1694,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item     | Quantity | Material | Cards                                              | Notes |
-| -------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Fist     | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Overlord | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| -------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Fist     |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Overlord |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 #### Skirmishers
 
@@ -1705,8 +1705,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item       | Quantity | Material | Cards                                              | Notes |
-| ---------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Skirmisher | 3        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| ---------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Skirmisher |        3 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 5
 
@@ -1717,9 +1717,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item   | Quantity | Material | Cards                                     | Notes |
-| ------ | -------- | -------- | ----------------------------------------- | ----- |
-| Lily   | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Marcus | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ------ | -------: | -------- | ----------------------------------------- | ----- |
+| Lily   |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Marcus |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Nightkin
 
@@ -1728,8 +1728,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                    | Quantity | Material | Cards                                     | Notes |
-| ----------------------- | -------- | -------- | ----------------------------------------- | ----- |
-| [Nightkin](#nightkin-1) | 2        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ----------------------- | -------: | -------- | ----------------------------------------- | ----- |
+| [Nightkin](#nightkin-1) |        2 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Tabitha and Raul
 
@@ -1738,9 +1738,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item    | Quantity | Material | Cards                                     | Notes |
-| ------- | -------- | -------- | ----------------------------------------- | ----- |
-| Raul    | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Tabitha | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ------- | -------: | -------- | ----------------------------------------- | ----- |
+| Raul    |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Tabitha |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 6
 
@@ -1751,8 +1751,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item          | Quantity | Material | Cards                              | Notes     |
-| ------------- | -------- | -------- | ---------------------------------- | --------- |
-| Swan (I & II) | 1        | Resin    | [Commonwealth Rules][Wave 6 Rules] | Legendary |
+| ------------- | -------: | -------- | ---------------------------------- | --------- |
+| Swan (I & II) |        1 | Resin    | [Commonwealth Rules][Wave 6 Rules] | Legendary |
 
 ### Wave 7
 
@@ -1763,8 +1763,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item    | Quantity | Material | Cards                                              | Notes |
-| ------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Centaur | 2        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Centaur |        2 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Painting Guides
 
@@ -1975,10 +1975,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Cards                                         | Notes |
-| ------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Cait          | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Piper         | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| X6-88 Courser | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| ------------- | -------: | -------- | --------------------------------------------- | ----- |
+| Cait          |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Piper         |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| X6-88 Courser |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Core Box
 
@@ -1987,13 +1987,13 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item                              | Quantity | Material | Cards                                         | Notes |
-| --------------------------------- | -------- | -------- | --------------------------------------------- | ----- |
-| Mama Murphy                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| [Preston Garvey](#preston-garvey) | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Ronnie Shaw                       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Scavenger                         | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Settler](#settler)               | 2        | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
-| Sturges                           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| --------------------------------- | -------: | -------- | --------------------------------------------- | ----- |
+| Mama Murphy                       |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| [Preston Garvey](#preston-garvey) |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Ronnie Shaw                       |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Scavenger                         |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Settler](#settler)               |        2 | Resin    | [Two Player Starter Set][Wave 1 Rules]        |
+| Sturges                           |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Heroes of Sanctuary Hills
 
@@ -2002,10 +2002,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material | Cards                                         | Notes             |
-| ------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| Codsworth           | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Dogmeat Scout       | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
-| Sole Survivor Loner | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| ------------------- | -------: | -------- | --------------------------------------------- | ----------------- |
+| Codsworth           |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Dogmeat Scout       |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] | [Blog][Blog Dogs] |
+| Sole Survivor Loner |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
 
 #### Minutemen Posse
 
@@ -2014,9 +2014,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2018 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item               | Quantity | Material | Cards                                         | Notes |
-| ------------------ | -------- | -------- | --------------------------------------------- | ----- |
-| Minuteman (Female) | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
-| Minuteman (Male)   | 2        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| ------------------ | -------: | -------- | --------------------------------------------- | ----- |
+| Minuteman (Female) |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| Minuteman (Male)   |        2 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Nuka Girl
 
@@ -2025,20 +2025,20 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item      | Quantity | Material | Cards                                         | Notes |
-| --------- | -------- | -------- | --------------------------------------------- | ----- |
-| Nuka-Girl | 1        | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
+| --------- | -------: | -------- | --------------------------------------------- | ----- |
+| Nuka-Girl |        1 | Resin    | [Wave 1 Fundamentals Card Deck][Wave 4 Rules] |
 
 #### Two Player Starter Set
 
 | Item                                    | Quantity | Material | Cards                                         | Notes             |
-| --------------------------------------- | -------- | -------- | --------------------------------------------- | ----------------- |
-| [Dog](#dogmeat)                         | :x:      | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
-| [Dogmeat](#dogmeat)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
-| Enslaved Tech                           | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| Scavenger                               | 1        | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
-| [Settler](#settler)                     | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| [Sole Survivor](#sole-survivor)         | 1        | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
-| [Sole Survivor Day One](#sole-survivor) | :x:      | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| --------------------------------------- | -------: | -------- | --------------------------------------------- | ----------------- |
+| [Dog](#dogmeat)                         |      :x: | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] | [Blog][Blog Dogs] |
+| [Dogmeat](#dogmeat)                     |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        | [Blog][Blog Dogs] |
+| Enslaved Tech                           |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| Scavenger                               |        1 | PVC      | [Wave 1 Fundamentals Card Deck][Wave 1 Rules] |
+| [Settler](#settler)                     |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| [Sole Survivor](#sole-survivor)         |        1 | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
+| [Sole Survivor Day One](#sole-survivor) |      :x: | PVC      | [Two Player Starter Set][Wave 1 Rules]        |
 
 ### Wave 2
 
@@ -2049,9 +2049,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                                 | Quantity | Material | Cards                                            | Notes             |
-| ------------------------------------ | -------- | -------- | ------------------------------------------------ | ----------------- |
-| Dogmeat Guard Dog                    | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] | [Blog][Blog Dogs] |
-| [Sole Survivor Tech](#x-01-survivor) | 1        | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
+| ------------------------------------ | -------: | -------- | ------------------------------------------------ | ----------------- |
+| Dogmeat Guard Dog                    |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] | [Blog][Blog Dogs] |
+| [Sole Survivor Tech](#x-01-survivor) |        1 | Resin    | [Raiders Wave Expansion Card Pack][Wave 2 Rules] |
 
 ### Wave 3
 
@@ -2062,10 +2062,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item           | Quantity | Material | Cards                                              | Notes |
-| -------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Hancock        | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Nick Valentine | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Strong         | 1        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| -------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Hancock        |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Nick Valentine |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Strong         |        1 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 #### Vault Personnel
 
@@ -2074,9 +2074,9 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                   | Quantity | Material | Cards                                              | Notes |
-| ---------------------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Vault Dweller          | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
-| Vault Security Officer | 2        | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| ---------------------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Vault Dweller          |        2 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
+| Vault Security Officer |        2 | Resin    | [Institute Wave Expansion Card Pack][Wave 3 Rules] |
 
 ### Wave 4
 
@@ -2087,8 +2087,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item          | Quantity | Material | Cards                                            | Notes |
-| ------------- | -------- | -------- | ------------------------------------------------ | ----- |
-| Lorenzo Cabot | 1        | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
+| ------------- | -------: | -------- | ------------------------------------------------ | ----- |
+| Lorenzo Cabot |        1 | Resin    | [Enclave Wave Card Expansion Pack][Wave 4 Rules] |
 
 ### Wave 5
 
@@ -2099,10 +2099,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2021 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item          | Quantity | Material | Cards                                     | Notes |
-| ------------- | -------- | -------- | ----------------------------------------- | ----- |
-| Arcade Gannon | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Boone         | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| [Cass](#cass) | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| ------------- | -------: | -------- | ----------------------------------------- | ----- |
+| Arcade Gannon |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Boone         |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| [Cass](#cass) |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 #### Ed-E, Rex and Veronica
 
@@ -2111,10 +2111,10 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item     | Quantity | Material | Cards                                     | Notes             |
-| -------- | -------- | -------- | ----------------------------------------- | ----------------- |
-| Ed-E     | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
-| Rex      | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] | [Blog][Blog Dogs] |
-| Veronica | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| -------- | -------: | -------- | ----------------------------------------- | ----------------- |
+| Ed-E     |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| Rex      |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] | [Blog][Blog Dogs] |
+| Veronica |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 7
 
@@ -2125,8 +2125,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item       | Quantity | Material | Cards                                              | Notes |
-| ---------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Jake Finch | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ---------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Jake Finch |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ### Wave 8
 
@@ -2137,8 +2137,8 @@ There are some examples of paint colours that can be used in the `Painting the R
 > Image © 2023 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item         | Quantity | Material | Cards                                   | Notes |
-| ------------ | -------- | -------- | --------------------------------------- | ----- |
-| Rosa Meitner | 1        | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
+| ------------ | -------: | -------- | --------------------------------------- | ----- |
+| Rosa Meitner |        1 | Resin    | [Capital Rules Expansion][Wave 8 Rules] |
 
 ### Painting Guides
 
@@ -2424,13 +2424,13 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 > Video © 2022 [Modiphius](https://www.youtube.com/@Modiphius)
 
 | Item        | Quantity | Material | Cards                                              | Notes |
-| ----------- | -------- | -------- | -------------------------------------------------- | ----- |
-| Arlen Glass | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Deirdre     | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Ghoul       | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Holly       | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Jones       | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
-| Wiseman     | 1        | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| ----------- | -------: | -------- | -------------------------------------------------- | ----- |
+| Arlen Glass |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Deirdre     |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Ghoul       |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Holly       |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Jones       |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
+| Wiseman     |        1 | Resin    | [Forged in the Fire Rules Expansion][Wave 7 Rules] |
 
 ## Unaligned
 
@@ -2443,8 +2443,8 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material | Cards | Notes |
-| ------------------- | -------- | -------- | ----- | ----- |
-| Mysterious Stranger | 1        | Resin    |       |
+| ------------------- | -------: | -------- | ----- | ----- |
+| Mysterious Stranger |        1 | Resin    |       |
 
 ### Wave 5
 
@@ -2455,8 +2455,8 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item           | Quantity | Material | Cards                                     | Notes |
-| -------------- | -------- | -------- | ----------------------------------------- | ----- |
-| The Burned Man | 1        | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
+| -------------- | -------: | -------- | ----------------------------------------- | ----- |
+| The Burned Man |        1 | Resin    | [New Vegas Rules Expansion][Wave 5 Rules] |
 
 ### Wave 6
 
@@ -2467,8 +2467,8 @@ The X-01 Survivor comes with 3 heads that you can choose from to use:
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
 
 | Item                | Quantity | Material | Cards                              | Notes |
-| ------------------- | -------- | -------- | ---------------------------------- | ----- |
-| [Grognak](#grognak) | 1        | Resin    | [Commonwealth Rules][Wave 6 Rules] |
+| ------------------- | -------: | -------- | ---------------------------------- | ----- |
+| [Grognak](#grognak) |        1 | Resin    | [Commonwealth Rules][Wave 6 Rules] |
 
 ### Painting Guides
 

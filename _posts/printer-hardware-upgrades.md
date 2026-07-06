@@ -33,11 +33,11 @@ The design also includes a pocket to house the [BTT EEPROM module](#eeprom) howe
 
 ![Using Fusion 360 to design a mount for the control board](/assets/blog/printer-hardware-upgrades/design.jpg)
 
-| Item                                                                                                                                                                                                      | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
-| [Anet A8 Electronics Case (No Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(No%20Access%20Holes).stl>)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 25.74m | 76.77g | £1.52 | :heavy_check_mark: |       |
-| [Anet A8 Electronics Case (With Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(With%20Access%20Holes).stl>) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        |        |       |        :x:         |       |
-| [Anet A8 Electronics Case Top](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20Top.stl)                                       | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 24.22m | 72.24g | £1.43 | :heavy_check_mark: |       |
+| Item                                                                                                                                                                                                      | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
+| [Anet A8 Electronics Case (No Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(No%20Access%20Holes).stl>)     |        1 | [PrimaValue PLA (Dark Grey)] |      | 25.74m | 76.77g | £1.52 | :heavy_check_mark: |
+| [Anet A8 Electronics Case (With Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(With%20Access%20Holes).stl>) |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         |
+| [Anet A8 Electronics Case Top](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20Top.stl)                                       |        1 | [PrimaValue PLA (Dark Grey)] |      | 24.22m | 72.24g | £1.43 | :heavy_check_mark: |
 
 > [!NOTE]
 > Adapted from [Anet A8 Electronics Case](printer-printed-upgrades#anet-a8-electronics-case) by `FqFKrazz`
@@ -188,10 +188,10 @@ In `Marlin/Configuration_adv.h` Update:
 
 ## TFT24 Case
 
-| Item                                                                  | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes                                                                   |
-| --------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----------------------------------------------------------------------- |
-| [TFT24_AnetA8_Base](https://www.thingiverse.com/thing:4651132/files)  | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 16.47m | 49.11g | £0.97 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
-| [TFT24_AnetA8_Cover](https://www.thingiverse.com/thing:4651132/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 3.99m  | 11.90g | £0.24 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
+| Item                                                                  | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                                   |
+| --------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------- |
+| [TFT24_AnetA8_Base](https://www.thingiverse.com/thing:4651132/files)  |        1 | [PrimaValue PLA (Dark Grey)] |      | 16.47m | 49.11g | £0.97 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
+| [TFT24_AnetA8_Cover](https://www.thingiverse.com/thing:4651132/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |  3.99m | 11.90g | £0.24 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
 
 I used this design to locate the new display in the same place as the original, to cover up the holes at the top of the frame. I may replace this at a later date with a blanking plate and relocate the screen somewhere else as this one blocks the gantry at about a height of 200mm and therefore I have lost approximately 40mm of Z travel.
 
@@ -354,10 +354,10 @@ In `Marlin/Configuration_adv.h` Enable:
 
 [BigTreeTech Smart Filament Sensor V1.0](https://raw.githubusercontent.com/bigtreetech/smart-filament-detection-module/master/V1.0/manual/smart%20filament%20sensor%20module%20manual201125.pdf)
 
-| Item                                                                                            | Quantity | Material                                                                | Size  | Weight | Cost  |      Printed       | Notes                                                                     |
-| ----------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: | ------------------------------------------------------------------------- |
-| [Mount_BTT_smart_filament_sensor_V1](https://www.thingiverse.com/thing:4640216/files)           | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 4.41m | 13.14g | £0.26 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
-| [Support_Smart_Filament_Sensor_without_arm_v1](https://www.thingiverse.com/thing:4640216/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 3.75m | 11.19g | £0.22 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
+| Item                                                                                            | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                     |
+| ----------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
+| [Mount_BTT_smart_filament_sensor_V1](https://www.thingiverse.com/thing:4640216/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      | 4.41m | 13.14g | £0.26 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
+| [Support_Smart_Filament_Sensor_without_arm_v1](https://www.thingiverse.com/thing:4640216/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 3.75m | 11.19g | £0.22 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
 
 I used the original design with the arms as the updated design without the arms was too loose and would not hold the sensor in an upright position.
 
@@ -377,9 +377,9 @@ In `Marlin/Configuration.h` Update:
 
 [BigTreeTech Relay V1.2](https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-Relay-V1.2/master/BIGTREETECH%20Relay%20V1.2/BIGTREETECH%20Relay%20V1.2/Relay%20V1.2-Operating%20Instruction.pdf)
 
-| Item                                                                                                                                          | Quantity | Material                                                                | Size   | Weight | Cost  |      Printed       | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: | ----- |
-| [Anet A8 Relay Mount](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | 23.75m | 70.84g | £1.40 | :heavy_check_mark: |       |
+| Item                                                                                                                                          | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
+| [Anet A8 Relay Mount](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl) |        1 | [PrimaValue PLA (Dark Grey)] |      | 23.75m | 70.84g | £1.40 | :heavy_check_mark: |
 
 > [!NOTE]
 > Adapted from [PSU Cover Remix](printer-printed-upgrades#psu-cover-remix) by `MakerDan55`
@@ -479,28 +479,32 @@ I have purchased parts to install the [ANET A8 E3DV6 BMG Direct Drive X Carriage
 ## Motion
 
 | Item             | Quantity | Received | Notes |
-| ---------------- | -------- | -------- | ----- |
-| BMG Extruder Kit | 1        | 1        |       |
+| ---------------- | -------: | -------: | ----- |
+| BMG Extruder Kit |        1 |        1 |
 
 ## Electronics
 
 | Item                           | Quantity | Received | Notes                              |
-| ------------------------------ | -------- | -------- | ---------------------------------- |
-| 3D Touch                       | 1        | 1        |                                    |
-| 50x50x15 Centrifugal Fan (12V) | 1        | 1        |                                    |
-| 40x40x10 Axial Fan (12V)       | 1        | 1        |                                    |
-| E3D V6 Bowden Hotend Kit (12V) | 1        | 1        |                                    |
-| NEMA17 Motor                   | 1        | 1        | Using stock Anet A8 Extruder Motor |
+| ------------------------------ | -------: | -------: | ---------------------------------- |
+| 3D Touch                       |        1 |        1 |
+| 50x50x15 Centrifugal Fan (12V) |        1 |        1 |
+| 40x40x10 Axial Fan (12V)       |        1 |        1 |
+| E3D V6 Bowden Hotend Kit (12V) |        1 |        1 |
+| NEMA17 Motor                   |        1 |        1 | Using stock Anet A8 Extruder Motor |
 
 ## Printed Parts
 
-| Item                                                                   | Quantity | Material                                                                | Printed | Notes                          |
-| ---------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :-----: | ------------------------------ |
-| [StepperBMG_holder](https://www.thingiverse.com/thing:4271258/files)   | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   | Version with Cable Chain Mount |
-| [BLtouch_support](https://www.thingiverse.com/thing:3807114/files)     | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                |
-| [Fan_holder](https://www.thingiverse.com/thing:3807114/files)          | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                |
-| [Baseplate_BMG](https://www.thingiverse.com/thing:3807114/files)       | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                |
-| [Mistral_V2.1a_Leo_N](https://www.thingiverse.com/thing:2121279/files) | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                |
-| [E3D_Fan_Duct](https://www.thingiverse.com/thing:929326/files)         | 1        | [PrimaValue ABS (Dark Grey)](printer-filament#primavalue-abs-dark-grey) |   :x:   |                                |
+| Item                                                                   | Quantity | Material                     | Time | Size | Weight | Cost | Printed | Notes                          |
+| ---------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------ |
+| [StepperBMG_holder](https://www.thingiverse.com/thing:4271258/files)   |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   | Version with Cable Chain Mount |
+| [BLtouch_support](https://www.thingiverse.com/thing:3807114/files)     |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Fan_holder](https://www.thingiverse.com/thing:3807114/files)          |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Baseplate_BMG](https://www.thingiverse.com/thing:3807114/files)       |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Mistral_V2.1a_Leo_N](https://www.thingiverse.com/thing:2121279/files) |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [E3D_Fan_Duct](https://www.thingiverse.com/thing:929326/files)         |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
 
 ![The obligatory Benchy](/assets/blog/printer-hardware-upgrades/benchy.jpg)
+
+[Filament]: #
+[PrimaValue ABS (Dark Grey)]: printer-filament#primavalue-abs-dark-grey
+[PrimaValue PLA (Dark Grey)]: printer-filament#primavalue-pla-dark-grey

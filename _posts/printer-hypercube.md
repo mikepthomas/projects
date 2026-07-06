@@ -84,11 +84,11 @@ The kit I purchased also comes with the extrusions to build the electronics case
 
 To start off with I will not be deviating too far from the Anet Evolution. I will be printing the Belt clamp with belt tensioners from that and [eventually plan to upgrade the toolhead in the future](printer-hardware-upgrades#bmg-direct-drive).
 
-| Item                                                                       | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
-| -------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 8.82m | 30.77g | £0.62 | :heavy_check_mark: |
-| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        | 2        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 0.59m | 2.05g  | £0.04 | :heavy_check_mark: |
-| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        | 4        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 0.08m | 0.29g  | £0.01 | :heavy_check_mark: |
+| Item                                                                       | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------- | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) |        1 | [Tinmorry PETG (Black)]    |      | 8.82m | 30.77g | £0.62 | :heavy_check_mark: |
+| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        |        2 | [Amazon Basics PETG (Red)] |      | 0.59m |  2.05g | £0.04 | :heavy_check_mark: |
+| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        |        4 | [Amazon Basics PETG (Red)] |      | 0.08m |  0.29g | £0.01 | :heavy_check_mark: |
 
 There is also an adapter plate, [Hypercube Afterburner adapter intergration remix](https://www.thingiverse.com/thing:5156654) that may work to mount an Afterburner on the guide rails.
 
@@ -96,11 +96,11 @@ There is also an adapter plate, [Hypercube Afterburner adapter intergration remi
 
 I have chosen to [replace the stock Y carriages with a remixed version](https://www.thingiverse.com/thing:2907433) by [osvalijr](https://www.thingiverse.com/osvalijr) as I prefer the modularity of them and it will allow me to print the bearing blocks in a different accent colour.
 
-| Item                                                                   | Quantity | Material                                                            | Size   | Weight | Cost  |      Printed       |
-| ---------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: |
-| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) | 2        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 12.99m | 45.30g | £0.87 | :heavy_check_mark: |
-| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 1.64m  | 5.71g  | £0.11 | :heavy_check_mark: |
-| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) | 4        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 1.57m  | 5.30g  | £0.11 | :heavy_check_mark: |
+| Item                                                                   | Quantity | Material                   | Time |   Size | Weight |  Cost |      Printed       | Notes |
+| ---------------------------------------------------------------------- | -------: | -------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
+| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) |        2 | [Amazon Basics PETG (Red)] |      | 12.99m | 45.30g | £0.87 | :heavy_check_mark: |
+| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) |        2 | [Tinmorry PETG (Black)]    |      |  1.64m |  5.71g | £0.11 | :heavy_check_mark: |
+| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) |        4 | [Tinmorry PETG (Black)]    |      |  1.57m |  5.30g | £0.11 | :heavy_check_mark: |
 
 As I have a slightly longer Y axis compared to the Anet Evolution, I have redesigned some parts to allow me to use Y Guide rods that are 20mm too short for the frame.
 
@@ -108,10 +108,10 @@ I remixed the Belt Idlers from the [reinforced ones](https://www.thingiverse.com
 
 ![Belt Idlers with extended Y clamps](/assets/blog/printer-hypercube/belt-idlers.png)
 
-| Item                                                                                                                    | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
-| ----------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [XY Idler Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Idlers/XY%20Idler%20Left.stl)   | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 9.63m | 33.58g | £0.64 | :heavy_check_mark: |
-| [XY Idler Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Idlers/XY%20Idler%20Right.stl) | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 9.60m | 33.48g | £0.64 | :heavy_check_mark: |
+| Item                                                                                                                    | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [XY Idler Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Idlers/XY%20Idler%20Left.stl)   |        1 | [Amazon Basics PETG (Red)] |      | 9.63m | 33.58g | £0.64 | :heavy_check_mark: |
+| [XY Idler Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Idlers/XY%20Idler%20Right.stl) |        1 | [Amazon Basics PETG (Red)] |      | 9.60m | 33.48g | £0.64 | :heavy_check_mark: |
 
 I remixed the XY Motor brackets from the ones from the Anet Evolution (Nut Remix) to extend the Y rod clamps by 10mm, this including the extra on the Idlers should make up the 20mm I have short on my Y axis guide rods.
 
@@ -119,12 +119,12 @@ To support the Y motor, I want to add a [Y Motor support bracket](https://www.th
 
 ![Y motor suport bracket with extended Y clamps](/assets/blog/printer-hypercube/y-motor-support-bracket.png)
 
-| Item                                                                                                                                                         | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [XY Stepper Mount - Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20XY%20Motor%20Mounts/XY%20Stepper%20Mount%20-%20Left.stl)   | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 8.51m | 29.69g | £0.57 | :heavy_check_mark: |
-| [XY Stepper Mount - Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20XY%20Motor%20Mounts/XY%20Stepper%20Mount%20-%20Right.stl) | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 8.51m | 29.69g | £0.57 | :heavy_check_mark: |
-| [Motor Brace Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Motor%20Brace/Motor%20Brace%20Left.stl)                           | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 5.50m | 19.19g | £0.38 | :heavy_check_mark: |
-| [Motor Brace Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Motor%20Brace/Motor%20Brace%20Right.stl)                         | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 5.50m | 19.19g | £0.38 | :heavy_check_mark: |
+| Item                                                                                                                                                         | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [XY Stepper Mount - Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20XY%20Motor%20Mounts/XY%20Stepper%20Mount%20-%20Left.stl)   |        1 | [Amazon Basics PETG (Red)] |      | 8.51m | 29.69g | £0.57 | :heavy_check_mark: |
+| [XY Stepper Mount - Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20XY%20Motor%20Mounts/XY%20Stepper%20Mount%20-%20Right.stl) |        1 | [Amazon Basics PETG (Red)] |      | 8.51m | 29.69g | £0.57 | :heavy_check_mark: |
+| [Motor Brace Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Motor%20Brace/Motor%20Brace%20Left.stl)                           |        1 | [Tinmorry PETG (Black)]    |      | 5.50m | 19.19g | £0.38 | :heavy_check_mark: |
+| [Motor Brace Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Motor%20Brace/Motor%20Brace%20Right.stl)                         |        1 | [Tinmorry PETG (Black)]    |      | 5.50m | 19.19g | £0.38 | :heavy_check_mark: |
 
 If there is too much flex from the printed parts I will replace the stainless steel guide rods with some 8mm carbon fiber rods. I can then easilly cut these to the exact size required with a Dremel and have the added benefit of making the gantry lighter.
 
@@ -136,29 +136,29 @@ I have designed a holder for the bearing to sit on top of the couplers inspired 
 
 ![Part to add a bearing to support the lead screws](/assets/blog/printer-hypercube/z-motor-bearing-support.png)
 
-| Item                                                                                                                                   | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [2_Z_Motor_Mount](https://www.thingiverse.com/thing:2786292/files)                                                                     | 2        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 6.64m | 23.14g | £0.44 | :heavy_check_mark: |
-| [Z Motor Bearing](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Motor%20Bearing/Z%20Motor%20Bearing.stl) | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 6.76m | 23.57g | £0.47 | :heavy_check_mark: |
+| Item                                                                                                                                   | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [2_Z_Motor_Mount](https://www.thingiverse.com/thing:2786292/files)                                                                     |        2 | [Amazon Basics PETG (Red)] |      | 6.64m | 23.14g | £0.44 | :heavy_check_mark: |
+| [Z Motor Bearing](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Motor%20Bearing/Z%20Motor%20Bearing.stl) |        2 | [Tinmorry PETG (Black)]    |      | 6.76m | 23.57g | £0.47 | :heavy_check_mark: |
 
 I have printed [Z Axis anti wobble](https://www.thingiverse.com/thing:2907460) by [osvalijr](https://www.thingiverse.com/osvalijr) to support the top of the lead screw.
 
-| Item                                                                        | Quantity | Material                                                            | Size  | Weight | Cost  |      Printed       |
-| --------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| ~[1x_Right_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~ | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
-| ~[1x_left_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~  | 1        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
+| Item                                                                        | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------- | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| ~[1x_Right_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~ |        1 | [Amazon Basics PETG (Red)] |      | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
+| ~[1x_left_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~  |        1 | [Amazon Basics PETG (Red)] |      | 6.27m | 21.87g | £0.42 | :heavy_check_mark: |
 
 > [!CAUTION]
 > I am not fitting these as they are based on the top Z guide rod clamps that are too tall to fit on the Voron frame. I may remix them into the shorter bottom clamps at a later stage so that they will fit.
 
 I have remixed the Z Rail Arms to recess the screw head so that I can use socket head screws instead of button head screws.
 
-| Item                                                                                                                                                  | Quantity | Material                                                      | Size  | Weight | Cost  |      Printed       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [Z Rail Arm Bottom Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Left.stl)   | ~2~ 4    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.09m | 10.78g | £0.22 | :heavy_check_mark: |
-| [Z Rail Arm Bottom Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Right.stl) | ~2~ 4    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.09m | 10.78g | £0.22 | :heavy_check_mark: |
-| ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
-| ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     | 2        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
+| Item                                                                                                                                                  | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [Z Rail Arm Bottom Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Left.stl)   |    ~2~ 4 | [Tinmorry PETG (Black)] |      | 3.09m | 10.78g | £0.22 | :heavy_check_mark: |
+| [Z Rail Arm Bottom Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Right.stl) |    ~2~ 4 | [Tinmorry PETG (Black)] |      | 3.09m | 10.78g | £0.22 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       |        2 | [Tinmorry PETG (Black)] |      | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     |        2 | [Tinmorry PETG (Black)] |      | 5.75m | 20.06g | £0.40 | :heavy_check_mark: |
 
 > [!CAUTION]
 > I am using another set of bottom mounts for the top as the top Z guide rod clamps are too tall to fit on the Voron frame.
@@ -169,11 +169,11 @@ The bearing clamps to mount the bed carriage to the Z axis are from the Anet Evo
 
 ![Clamp to secure the Z-Axis bearings](/assets/blog/printer-hypercube/z-bearing-fixer.png)
 
-| Item                                                                                                                                               | Quantity | Material                                                            | Size   | Weight | Cost  |      Printed       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ------ | ------ | ----- | :----------------: |
-| [2_Z_Axis_Holder](https://www.thingiverse.com/thing:2786292/files)                                                                                 | 4        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black)       | 10.97m | 38.26g | £0.76 | :heavy_check_mark: |
-| [Z Bearing Fixer](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Bearing%20Fixer/Hypercube%20Z%20Bearing%20Fixer.stl) | 4        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 4.30m  | 15.00g | £0.29 | :heavy_check_mark: |
-| [2_Z_Nut_Braket](https://www.thingiverse.com/thing:2786292/files)                                                                                  | 2        | [Amazon Basics PETG (Red)](printer-filament#amazon-basics-petg-red) | 5.37m  | 18.72g | £0.36 | :heavy_check_mark: |
+| Item                                                                                                                                               | Quantity | Material                   | Time |   Size | Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
+| [2_Z_Axis_Holder](https://www.thingiverse.com/thing:2786292/files)                                                                                 |        4 | [Tinmorry PETG (Black)]    |      | 10.97m | 38.26g | £0.76 | :heavy_check_mark: |
+| [Z Bearing Fixer](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Bearing%20Fixer/Hypercube%20Z%20Bearing%20Fixer.stl) |        4 | [Amazon Basics PETG (Red)] |      |  4.30m | 15.00g | £0.29 | :heavy_check_mark: |
+| [2_Z_Nut_Braket](https://www.thingiverse.com/thing:2786292/files)                                                                                  |        2 | [Amazon Basics PETG (Red)] |      |  5.37m | 18.72g | £0.36 | :heavy_check_mark: |
 
 When the bed frame is assembled I will measure the difference between the bed and the frame and create some Bed Mounts remixed from something like the [Anet Evolution Printerbed Holder](https://www.thingiverse.com/thing:3351036).
 
@@ -183,12 +183,12 @@ I have added some M3 nut traps to the Z Rail Arms. I have also printed 2 additio
 
 ![Stock rail arms with added m3 nut traps](/assets/blog/printer-hypercube/z-rail-arms.png)
 
-| Item                                                                                                                                                  | Quantity | Material                                                      | Size  | Weight | Cost  |      Printed       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | ----- | ------ | ----- | :----------------: |
-| [Z Rail Arm Bottom Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Left.stl)   | ~1~ 2    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.11m | 9.5g   | £0.18 | :heavy_check_mark: |
-| [Z Rail Arm Bottom Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Right.stl) | ~1~ 2    | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 3.11m | 9.49g  | £0.18 | :heavy_check_mark: |
-| ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.92m | 18.09g | £0.35 | :heavy_check_mark: |
-| ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     | 1        | [Tinmorry PETG (Black)](printer-filament#tinmorry-petg-black) | 5.92m | 18.08g | £0.35 | :heavy_check_mark: |
+| Item                                                                                                                                                  | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [Z Rail Arm Bottom Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Left.stl)   |    ~1~ 2 | [Tinmorry PETG (Black)] |      | 3.11m |   9.5g | £0.18 | :heavy_check_mark: |
+| [Z Rail Arm Bottom Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Bottom%20Right.stl) |    ~1~ 2 | [Tinmorry PETG (Black)] |      | 3.11m |  9.49g | £0.18 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Left](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Left.stl)~       |        1 | [Tinmorry PETG (Black)] |      | 5.92m | 18.09g | £0.35 | :heavy_check_mark: |
+| ~[Z Rail Arm Top Right](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Rail%20Arm/Z%20Rail%20Arm%20Top%20Right.stl)~     |        1 | [Tinmorry PETG (Black)] |      | 5.92m | 18.08g | £0.35 | :heavy_check_mark: |
 
 # Case
 
@@ -210,4 +210,8 @@ The Anet A8 uses a 12V power supply however modern 3D printers opt to use 24V as
 
 # Rebuild the Anet A8
 
-Once I have upgraded everything to this point I should have all the original parts left over to rebuild it back into the original frame... or maybe reuse them to build a Voron Legacy? ;)
+Once I have upgraded everything to this point I should have all the original parts left over to rebuild it back into the original frame... or maybe reuse them to build a Voron Legacy? :wink:
+
+[Filament]: #
+[Amazon Basics PETG (Red)]: printer-filament#amazon-basics-petg-red
+[Tinmorry PETG (Black)]: printer-filament#tinmorry-petg-black

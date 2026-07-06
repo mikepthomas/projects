@@ -23,7 +23,7 @@ keywords:
 
 # Intro
 
-Printing an [Out of Marbles](https://outofmarbles.com/) Marble Machine desk toy.
+Printing an [Out of Marbles](https://outofmarbles.com) Marble Machine desk toy.
 
 # Bucket Lift
 
@@ -31,30 +31,33 @@ Printing an [Out of Marbles](https://outofmarbles.com/) Marble Machine desk toy.
 
 ## Sourcing Parts
 
-All parts were sourced from the [Official Motorized Hardware Kit](https://outofmarbles.com/products/hardware-kits).
-
 | Item                    | Quantity | Received | Notes |
-| ----------------------- | -------- | -------- | ----- |
-| 7.144mm Marbles         | 50       | 50       |       |
-| N20 DC 3V, 15 RPM Motor | 1        | 1        |       |
-| Battery holder          | 1        | 1        |       |
-| Metal On/Off Switch     | 1        | 1        |       |
-| Super Glue              | 1        | 1        |       |
+| ----------------------- | -------: | -------: | ----- |
+| 7.144mm Marbles         |       50 |       50 |
+| N20 DC 3V, 15 RPM Motor |        1 |        1 |
+| Battery holder          |        1 |        1 |
+| Metal On/Off Switch     |        1 |        1 |
+| Super Glue              |        1 |        1 |
+
+> [!NOTE]
+> All parts were sourced from the [Official Motorized Hardware Kit](https://outofmarbles.com/products/hardware-kits).
 
 ## Printing Parts
 
 ![Installing the Chain, Marble Buckets and Gears](/assets/blog/marble-machine/chain-marble-bucket.jpg)
 
-| Item                | Quantity | Material                                              |      Printed       | Notes |
-| ------------------- | -------- | ----------------------------------------------------- | :----------------: | ----- |
-| Axle                | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Base                | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)   | :heavy_check_mark: |       |
-| Battery Cover Base  | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)   | :heavy_check_mark: |       |
-| Chain Marble Bucket | 8        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Gear Idle           | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Gear Motor          | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Logo                | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Offloading Ramp     | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)   | :heavy_check_mark: |       |
+| Item                               | Quantity | Material            | Time | Size | Weight | Cost |      Printed       | Notes |
+| ---------------------------------- | -------- | ------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [Axle][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Base][Bucket Lift]                | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
+| [Battery Cover Base][Bucket Lift]  | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
+| [Chain Marble Bucket][Bucket Lift] | 8        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Gear Idle][Bucket Lift]           | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Gear Motor][Bucket Lift]          | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Logo][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Offloading Ramp][Bucket Lift]     | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
+
+[Bucket Lift]: https://outofmarbles.com/products/bucket-lift
 
 # Triple Twister Module
 
@@ -62,18 +65,26 @@ All parts were sourced from the [Official Motorized Hardware Kit](https://outofm
 
 ## Printing Parts
 
-| Item           | Quantity | Material                                              |      Printed       | Notes |
-| -------------- | -------- | ----------------------------------------------------- | :----------------: | ----- |
-| Base           | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)   | :heavy_check_mark: |       |
-| Top            | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| Triple Twister | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
+| Item                   | Quantity | Material            | Time | Size | Weight | Cost |      Printed       | Notes |
+| ---------------------- | -------- | ------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [Base][Triple Twister] | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
+| [Top][Triple Twister]  | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [Triple Twister]       | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+
+[Triple Twister]: https://outofmarbles.com/products/triple-twister
 
 # Circular Marble Tray
 
-| Item                                                               | Quantity | Material                                            | Printed | Notes |
-| ------------------------------------------------------------------ | -------- | --------------------------------------------------- | :-----: | ----- |
-| [Marble_Tray](https://www.thingiverse.com/thing:5135034/files)     | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black) |   :x:   |       |
-| [Marble_Tray_Lid](https://www.thingiverse.com/thing:5135034/files) | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-Black) |   :x:   |       |
+| Item                                    | Quantity | Material           | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------- | -------- | ------------------ | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Marble_Tray][Circular Marble Tray]     | 1        | [Ziro PLA (Black)] |      |      |        |      |   :x:   |       |
+| [Marble_Tray_Lid][Circular Marble Tray] | 1        | [Ziro PLA (Black)] |      |      |        |      |   :x:   |       |
+
+[Circular Marble Tray]: https://www.thingiverse.com/thing:5135034/files
 
 > [!TIP]
 > Coloured Text can be achieved by making a Filament Change (M600) at layer 7.
+
+[Filament]: #
+[Ziro PLA (Black)]: printer-filament#ziro-pla-black
+[Ziro PLA (Yellow)]: printer-filament#ziro-pla-yellow

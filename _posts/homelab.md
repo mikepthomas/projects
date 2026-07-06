@@ -38,19 +38,19 @@ As I have an interest in 3D printing I originally wanted to create my rack using
 
 ## 3D Printed Mini Rack (Mod10)
 
-| Item                                                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [1U_40mm_Fans](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)                  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [8_Port_Keystone](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)               | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Crossmembers](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)            | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [Feet](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                    | 4        | [Ziro TPU (Black)](printer-filament#ziro-tpu-black)  |      |        |      |   :x:   |
-| [Front_Back_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Handle](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                  | 2        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Lid_Solid](https://www.printables.com/model/1225275/files#folder:model:Lids)                                  | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Lid_Vented](https://www.printables.com/model/1225275/files#folder:model:Lids)                                 | 1        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Mid_Modular_Sections_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure) | 2        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [Side_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                      | 8        | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| [Top_Bottom_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)           | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
+| Item                                                                                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------- | -------- | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [1U_40mm_Fans](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)                  | 1        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [8_Port_Keystone](https://www.printables.com/model/1225275/files#folder:model:Blanking%20Plates)               | 1        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Crossmembers](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)            | 4        | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Feet](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                    | 4        | [Ziro TPU (Black)]  |      |      |        |      |   :x:   |
+| [Front_Back_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                | 8        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Handle](https://www.printables.com/model/1225275/files#folder:model:Add-Ons)                                  | 2        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Lid_Solid](https://www.printables.com/model/1225275/files#folder:model:Lids)                                  | 1        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Lid_Vented](https://www.printables.com/model/1225275/files#folder:model:Lids)                                 | 1        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Mid_Modular_Sections_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure) | 2        | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Side_Connectors](https://www.printables.com/model/1225275/files#folder:model:Connectors)                      | 8        | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| [Top_Bottom_2U](https://www.printables.com/model/1225275/files#folder:model:Main%20Body%20Structure)           | 4        | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 ## Tecmojo 10" Desktop Mini Rack
 
@@ -70,27 +70,27 @@ How I have filled the rack units are as follows:
 
 ## Mini PC Rack Shelf
 
-| Item                                                                                | Quantity | Material                                         | Size | Weight | Cost | Printed | Notes                                                                                        |
-| ----------------------------------------------------------------------------------- | -------- | ------------------------------------------------ | ---- | ------ | ---- | :-----: | -------------------------------------------------------------------------------------------- |
-| ~[Lenovo Thinkcentre Tiny 1U Rack Mount](https://www.printables.com/model/1040412)~ | ~5~      | [eSun ABS+ (Red)](printer-filament#esun-abs-red) |      |        |      |   :x:   | Replaced by [DeskPi RackMate 10" Mini PC Rack Shelf](https://www.amazon.co.uk/dp/B0FN44R7F2) |
+| Item                                                                                | Quantity | Material          | Time | Size | Weight | Cost | Printed | Notes                                                                                        |
+| ----------------------------------------------------------------------------------- | -------: | ----------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------------------------------- |
+| ~[Lenovo Thinkcentre Tiny 1U Rack Mount](https://www.printables.com/model/1040412)~ |      ~5~ | [eSun ABS+ (Red)] |      |      |        |      |   :x:   | Replaced by [DeskPi RackMate 10" Mini PC Rack Shelf](https://www.amazon.co.uk/dp/B0FN44R7F2) |
 
 ## Network Switch Rack Mount
 
-| Item                                                                                      | Quantity | Material                                             | Size   | Weight  | Cost  | Printed | Notes                                                             |
-| ----------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------- | ------ | ------- | ----- | :-----: | ----------------------------------------------------------------- |
-| ~[TP-Link TL-SG105-M2 2.5G 10-inch Rack Mount](https://www.printables.com/model/1479309)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) | 49.67m | 126.64g | £2.07 |   :x:   | For [TP-Link TL-SG105-M2](https://www.amazon.co.uk/dp/B08SWPLGXF) |
+| Item                                                                                      | Quantity | Material            | Time |   Size |  Weight |  Cost | Printed | Notes                                                             |
+| ----------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | -----: | ------: | ----: | :-----: | ----------------------------------------------------------------- |
+| ~[TP-Link TL-SG105-M2 2.5G 10-inch Rack Mount](https://www.printables.com/model/1479309)~ |      ~1~ | [eSun ABS+ (Black)] |      | 49.67m | 126.64g | £2.07 |   :x:   | For [TP-Link TL-SG105-M2](https://www.amazon.co.uk/dp/B08SWPLGXF) |
 
 ## Raspberry Pi Cluster
 
-| Item                                                                           | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| ~[10" - 1U - 3 RPI - Base](https://www.printables.com/model/952392)~           | ~2~      | [eSun ABS+ (Red)](printer-filament#esun-abs-red)     |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 4 - Left](https://www.printables.com/model/952392)~   | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 4 - Middle](https://www.printables.com/model/952392)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 4 - Right](https://www.printables.com/model/952392)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 5 - Left](https://www.printables.com/model/952392)~   | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 5 - Middle](https://www.printables.com/model/952392)~ | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| ~[10" - 1U - 3 RPI - RPI 5 - Right](https://www.printables.com/model/952392)~  | ~1~      | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
+| Item                                                                           | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| ~[10" - 1U - 3 RPI - Base](https://www.printables.com/model/952392)~           |      ~2~ | [eSun ABS+ (Red)]   |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 4 - Left](https://www.printables.com/model/952392)~   |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 4 - Middle](https://www.printables.com/model/952392)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 4 - Right](https://www.printables.com/model/952392)~  |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 5 - Left](https://www.printables.com/model/952392)~   |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 5 - Middle](https://www.printables.com/model/952392)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| ~[10" - 1U - 3 RPI - RPI 5 - Right](https://www.printables.com/model/952392)~  |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 ### Current
 
@@ -128,25 +128,25 @@ I have the Full set of [Computer Accessories](https://tarlin-capsule.jp/product/
 
 There is also a 3D Printable version that should be compatible available on Maker world by [Made In Japan](https://makerworld.com/en/@Made_In_Japan):
 
-| Item                                                       | Quantity | Material                                             | Size | Weight | Cost | Printed | Notes |
-| ---------------------------------------------------------- | -------- | ---------------------------------------------------- | ---- | ------ | ---- | :-----: | ----- |
-| [corner](https://makerworld.com/en/models/661495)          | 8        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [dell face plate](https://makerworld.com/en/models/662580) | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [dell r510b](https://makerworld.com/en/models/662580)      | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [middle bar](https://makerworld.com/en/models/661495)      | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [shelf](https://makerworld.com/en/models/661495)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw power](https://makerworld.com/en/models/662580)        | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 1](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 2](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 2.1](https://makerworld.com/en/models/661495)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 2u](https://makerworld.com/en/models/661495)           | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 2u power](https://makerworld.com/en/models/662580)     | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 3](https://makerworld.com/en/models/661495)            | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [sw 3.1](https://makerworld.com/en/models/661495)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [top](https://makerworld.com/en/models/661495)             | 4        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [ups bb](https://makerworld.com/en/models/662580)          | 1        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [wire long](https://makerworld.com/en/models/661495)       | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
-| [wire short](https://makerworld.com/en/models/661495)      | ?        | [eSun ABS+ (Black)](printer-filament#esun-abs-black) |      |        |      |   :x:   |
+| Item                                                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [corner](https://makerworld.com/en/models/661495)          |        8 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [dell face plate](https://makerworld.com/en/models/662580) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [dell r510b](https://makerworld.com/en/models/662580)      |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [middle bar](https://makerworld.com/en/models/661495)      |        4 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [shelf](https://makerworld.com/en/models/661495)           |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw power](https://makerworld.com/en/models/662580)        |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 1](https://makerworld.com/en/models/661495)            |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 2](https://makerworld.com/en/models/661495)            |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 2.1](https://makerworld.com/en/models/661495)          |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 2u](https://makerworld.com/en/models/661495)           |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 2u power](https://makerworld.com/en/models/662580)     |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 3](https://makerworld.com/en/models/661495)            |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [sw 3.1](https://makerworld.com/en/models/661495)          |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [top](https://makerworld.com/en/models/661495)             |        4 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [ups bb](https://makerworld.com/en/models/662580)          |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [wire long](https://makerworld.com/en/models/661495)       |        ? | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [wire short](https://makerworld.com/en/models/661495)      |        ? | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 # Keyboard, Video, and Mouse Switch (KVM)
 
@@ -166,9 +166,9 @@ It also used to be used to run a handful of Docker containers, however, since ma
 
 ## Backups and Media
 
-| Item                             | CPU                      | Memory                                | Case                                             | Storage                              | OS                                              | Hostname | Notes                                      |
-| -------------------------------- | ------------------------ | ------------------------------------- | ------------------------------------------------ | ------------------------------------ | ----------------------------------------------- | -------- | ------------------------------------------ |
-| MSI H310M PRO-M2 PLUS for £43.39 | Intel i7-8700 for £57.90 | 32GB Corsair Vengeance 3000MHz £37.99 | Stone Small Factor case with 250W PSU for £14.12 | 2TB 2.5" Western Digital Blue £30.00 | [Proxmox VE (8.4.16)](https://www.proxmox.com/) | larry    | Generic PCIe SATA 3.0 Expansion Card £7.50 |
+| Item                             | CPU                      | Memory                                | Case                                             | Storage                              | OS                                             | Hostname | Notes                                      |
+| -------------------------------- | ------------------------ | ------------------------------------- | ------------------------------------------------ | ------------------------------------ | ---------------------------------------------- | -------- | ------------------------------------------ |
+| MSI H310M PRO-M2 PLUS for £43.39 | Intel i7-8700 for £57.90 | 32GB Corsair Vengeance 3000MHz £37.99 | Stone Small Factor case with 250W PSU for £14.12 | 2TB 2.5" Western Digital Blue £30.00 | [Proxmox VE (8.4.16)](https://www.proxmox.com) | larry    | Generic PCIe SATA 3.0 Expansion Card £7.50 |
 
 # Flight Tracker
 
@@ -208,3 +208,8 @@ Eventually I upgraded the bulbs to hue colour changing ones to allow me to sync 
 ![Beat Saber in front of a green screen](/assets/blog/homelab/beat-saber.jpg)
 
 An early example of what the video looked like after composition.
+
+[Filament]: #
+[eSun ABS+ (Black)]: printer-filament#esun-abs-black
+[eSun ABS+ (Red)]: printer-filament#esun-abs-red
+[Ziro TPU (Black)]: printer-filament#ziro-tpu-black

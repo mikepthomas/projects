@@ -26,20 +26,20 @@ keywords:
 
 ![Cable Clips to hold the cable out of the way for the Vive Headset](/assets/blog/knick-knacks/vive-cable-clips.jpg)
 
-| Item                                                                                     | Quantity | Material                                                                |      Printed       | Notes |
-| ---------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :----------------: | ----- |
-| [vive_delux_audio_strap_cable_clip](https://www.thingiverse.com/thing:2403709/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | :heavy_check_mark: |       |
-| [vive_delux_audio_strap_cable_clip_cap](https://www.thingiverse.com/thing:2403709/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | :heavy_check_mark: |       |
-| [HTC_Vive_Deluxe_Headstrap_Cord_Lock](https://www.thingiverse.com/thing:2573611/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | :heavy_check_mark: |       |
+| Item                                                                                     | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
+| ---------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [vive_delux_audio_strap_cable_clip](https://www.thingiverse.com/thing:2403709/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [vive_delux_audio_strap_cable_clip_cap](https://www.thingiverse.com/thing:2403709/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [HTC_Vive_Deluxe_Headstrap_Cord_Lock](https://www.thingiverse.com/thing:2573611/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
 
 # Vive Controller Protector
 
 ![Showing off the print quality of the Anet A8](/assets/blog/knick-knacks/vive-controller-protector-print.jpg)
 
-| Item                                                                             | Quantity | Material                                                      |      Printed       | Notes |
-| -------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :----------------: | ----- |
-| [Vive_Controller_Bumper_Top](https://www.thingiverse.com/thing:3311543/files)    | 2        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
-| [Vive_Controller_Bumper_Bottom](https://www.thingiverse.com/thing:3311543/files) | 2        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
+| Item                                                                             | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [Vive_Controller_Bumper_Top](https://www.thingiverse.com/thing:3311543/files)    |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [Vive_Controller_Bumper_Bottom](https://www.thingiverse.com/thing:3311543/files) |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
 
 ![Plastic protector to help stop damage from using controllers in VR](/assets/blog/knick-knacks/vive-controller-protector.jpg)
 
@@ -47,11 +47,11 @@ keywords:
 
 ![Printing the Vive Controller Holder](/assets/blog/knick-knacks/vive-controller-holder-printing.jpg)
 
-| Item                                                                                   | Quantity | Material                                                      |      Printed       | Notes |
-| -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :----------------: | ----- |
-| [holder](https://www.thingiverse.com/thing:2859339/files)                              | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
-| [insert](https://www.thingiverse.com/thing:2634474/files)                              | 2        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
-| [holder_for_dual_vive_charging_stand](https://www.thingiverse.com/thing:1638580/files) | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
+| Item                                                                                   | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [holder](https://www.thingiverse.com/thing:2859339/files)                              |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [insert](https://www.thingiverse.com/thing:2634474/files)                              |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [holder_for_dual_vive_charging_stand](https://www.thingiverse.com/thing:1638580/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
 
 ![Stand to hold the controllers for my VR Setup](/assets/blog/knick-knacks/vive-controller-holder-complete.jpg)
 
@@ -59,28 +59,28 @@ keywords:
 
 ![Box to hold 2 Camera Batteries and 2 SD Cards](/assets/blog/knick-knacks/camera-battery-holder.jpg)
 
-| Item                                                                 | Quantity | Material                                                      |      Printed       | Notes |
-| -------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :----------------: | ----- |
-| [battery_sd_bottom](https://www.thingiverse.com/thing:2784522/files) | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
-| [battery_sd_cover](https://www.thingiverse.com/thing:2784522/files)  | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
+| Item                                                                 | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [battery_sd_bottom](https://www.thingiverse.com/thing:2784522/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [battery_sd_cover](https://www.thingiverse.com/thing:2784522/files)  |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
 
 # Bullet Bill
 
 ![Bullet Bill Prop](/assets/blog/knick-knacks/bullet-bill.jpg)
 
-| Item                                                                                       | Quantity | Material                                                    |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------- | :----------------: | ----- |
-| [endcap-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)          | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)         | :heavy_check_mark: |       |
-| [eye-pupil-left-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)         | :heavy_check_mark: |       |
-| [eye-pupil-right-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743) | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)         | :heavy_check_mark: |       |
-| [eye-white-left-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  | 1        | Anet A8 Sample PLA Filament (White)                         | :heavy_check_mark: |       |
-| [eye-white-right-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743) | 1        | Anet A8 Sample PLA Filament (White)                         | :heavy_check_mark: |       |
-| [mainbody-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)        | 1        | [Ziro PLA (Black)](printer-filament#ziro-pla-black)         | :heavy_check_mark: |       |
-| [red-insert-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)      | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | :heavy_check_mark: |       |
-| [use-support-lowerteeth](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  | 1        | Anet A8 Sample PLA Filament (White)                         | :heavy_check_mark: |       |
-| [use-support-upperteeth](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  | 1        | Anet A8 Sample PLA Filament (White)                         | :heavy_check_mark: |       |
-| [bulletStandOuter](https://www.thingiverse.com/thing:3051559/files)                        | 1        |                                                             |        :x:         |       |
-| [bulletStandInner](https://www.thingiverse.com/thing:3051559/files)                        | 1        |                                                             |        :x:         |       |
+| Item                                                                                       | Quantity | Material                   | Time | Size | Weight | Cost |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------ | -------: | -------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [endcap-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)          |        1 | [Ziro PLA (Black)]         |      |      |        |      | :heavy_check_mark: |
+| [eye-pupil-left-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  |        1 | [Ziro PLA (Black)]         |      |      |        |      | :heavy_check_mark: |
+| [eye-pupil-right-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743) |        1 | [Ziro PLA (Black)]         |      |      |        |      | :heavy_check_mark: |
+| [eye-white-left-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  |        1 | Anet A8 Sample PLA (White) |      |      |        |      | :heavy_check_mark: |
+| [eye-white-right-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743) |        1 | Anet A8 Sample PLA (White) |      |      |        |      | :heavy_check_mark: |
+| [mainbody-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)        |        1 | [Ziro PLA (Black)]         |      |      |        |      | :heavy_check_mark: |
+| [red-insert-forge3d](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)      |        1 | [PrimaValue PLA (Red)]     |      |      |        |      | :heavy_check_mark: |
+| [use-support-lowerteeth](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  |        1 | Anet A8 Sample PLA (White) |      |      |        |      | :heavy_check_mark: |
+| [use-support-upperteeth](https://www.myminifactory.com/object/3d-print-bullet-bill-26743)  |        1 | Anet A8 Sample PLA (White) |      |      |        |      | :heavy_check_mark: |
+| [bulletStandOuter](https://www.thingiverse.com/thing:3051559/files)                        |        1 |                            |      |      |        |      |        :x:         |
+| [bulletStandInner](https://www.thingiverse.com/thing:3051559/files)                        |        1 |                            |      |      |        |      |        :x:         |
 
 # Giant Lego Man
 
@@ -94,67 +94,67 @@ Here you can see the size difference between the giant Lego man and a regular Le
 
 ![Giant Lego Man Arm](/assets/blog/knick-knacks/lego-man-arm.jpg)
 
-| Item                                                                    | Quantity | Material                                                    |      Printed       | Notes |
-| ----------------------------------------------------------------------- | -------- | ----------------------------------------------------------- | :----------------: | ----- |
-| [lego_figure\_\_body](https://www.thingiverse.com/thing:2936306/files)  | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | :heavy_check_mark: |       |
-| [lego_figure_left_arm](https://www.thingiverse.com/thing:2936306/files) | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | :heavy_check_mark: |       |
-| [right_arm](https://www.thingiverse.com/thing:2936306/files)            | 1        | [PrimaValue PLA (Red)](printer-filament#primavalue-pla-red) | :heavy_check_mark: |       |
+| Item                                                                    | Quantity | Material               | Time | Size | Weight | Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------- | -------: | ---------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [lego_figure\_\_body](https://www.thingiverse.com/thing:2936306/files)  |        1 | [PrimaValue PLA (Red)] |      |      |        |      | :heavy_check_mark: |
+| [lego_figure_left_arm](https://www.thingiverse.com/thing:2936306/files) |        1 | [PrimaValue PLA (Red)] |      |      |        |      | :heavy_check_mark: |
+| [right_arm](https://www.thingiverse.com/thing:2936306/files)            |        1 | [PrimaValue PLA (Red)] |      |      |        |      | :heavy_check_mark: |
 
 ## Legs
 
 ![Almost Completed Giant Lego Man](/assets/blog/knick-knacks/lego-man-almost-complete.jpg)
 
-| Item                                                                    | Quantity | Material                                                      |      Printed       | Notes |
-| ----------------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :----------------: | ----- |
-| [leg_figure_connector](https://www.thingiverse.com/thing:2936306/files) | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
-| [lego_figure_legs](https://www.thingiverse.com/thing:2936306/files)     | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
+| Item                                                                    | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [leg_figure_connector](https://www.thingiverse.com/thing:2936306/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [lego_figure_legs](https://www.thingiverse.com/thing:2936306/files)     |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
 
 ## Extremities
 
 ![Adding the Head and Arms](/assets/blog/knick-knacks/lego-man-complete.jpg)
 
-| Item                                                                | Quantity | Material                                              |      Printed       | Notes |
-| ------------------------------------------------------------------- | -------- | ----------------------------------------------------- | :----------------: | ----- |
-| [lego_figure_hand](https://www.thingiverse.com/thing:2936306/files) | 2        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
-| [lego_figure_head](https://www.thingiverse.com/thing:2936306/files) | 1        | [Ziro PLA (Yellow)](printer-filament#ziro-pla-yellow) | :heavy_check_mark: |       |
+| Item                                                                | Quantity | Material            | Time | Size | Weight | Cost |      Printed       | Notes |
+| ------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [lego_figure_hand](https://www.thingiverse.com/thing:2936306/files) |        2 | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| [lego_figure_head](https://www.thingiverse.com/thing:2936306/files) |        1 | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
 
 # Benchy
 
 ![Wave to display a benchy boat](/assets/blog/knick-knacks/benchy-wave.jpg)
 
-| Item                                                           | Quantity | Material                                                      |      Printed       | Notes |
-| -------------------------------------------------------------- | -------- | ------------------------------------------------------------- | :----------------: | ----- |
-| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) | 1        | [PrimaValue PLA (Blue)](printer-filament#primavalue-pla-blue) | :heavy_check_mark: |       |
+| Item                                                           | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
 
 # Plane Kit
 
 ![Print-in-place aeroplane kit](/assets/blog/knick-knacks/plane-kit.jpg)
 
-| Item                                                              | Quantity | Material                                                                |      Printed       | Notes |
-| ----------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- | :----------------: | ----- |
-| [EF_Typhoon_kit](https://www.thingiverse.com/thing:4594490/files) | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
-| [F16_kit](https://www.thingiverse.com/thing:4462185/files)        | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
-| [F22_Kit](https://www.thingiverse.com/thing:4630680/files)        | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
-| [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) | :heavy_check_mark: |       |
-| [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
-| [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   | 1        | [PrimaValue PLA (Dark Grey)](printer-filament#primavalue-pla-dark-grey) |        :x:         |       |
+| Item                                                              | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
+| ----------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [EF_Typhoon_kit](https://www.thingiverse.com/thing:4594490/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
+| [F16_kit](https://www.thingiverse.com/thing:4462185/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
+| [F22_Kit](https://www.thingiverse.com/thing:4630680/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
+| [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
+| [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 
 # Ikea Skådis Wall Spacers
 
 I have some of these peg boards holding my tools on the wall in my shed, however the stock spacers are too short to reach the wall due to the wooden beams.
 I will need to check the actual distance to the wall before printing.
 
-| Item                                                                               | Quantity | Material                                                 | Printed | Notes        |
-| ---------------------------------------------------------------------------------- | -------- | -------------------------------------------------------- | :-----: | ------------ |
-| [Ikea*Skådis_wall_spacer*-\_50mm](https://www.thingiverse.com/thing:3053161/files) | 2        | [eSun ABS+ (Natural)](printer-filament#esun-abs-natural) |   :x:   | 50mm version |
+| Item                                                                               | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes        |
+| ---------------------------------------------------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ------------ |
+| [Ikea*Skådis_wall_spacer*-\_50mm](https://www.thingiverse.com/thing:3053161/files) |        2 | [eSun ABS+ (Natural)] |      |      |        |      |   :x:   | 50mm version |
 
 # Dirty Dozen Puzzle
 
 An interesting puzzle that uses 12 of the same pieces to make a cool grid shape. will probably print in eSun ABS+ as I have multiple colours and I think it would look great with each piece in a different colour.
 
-| Item                                                                  | Quantity | Material  | Printed | Notes |
-| --------------------------------------------------------------------- | -------- | --------- | :-----: | ----- |
-| [Dirty_Dozen_Puzzle](https://www.thingiverse.com/thing:3811073/files) | 12       | eSun ABS+ |   :x:   |       |
+| Item                                                                  | Quantity | Material  | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------------------------------------------------------- | -------: | --------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Dirty_Dozen_Puzzle](https://www.thingiverse.com/thing:3811073/files) |       12 | eSun ABS+ |      |      |        |      |   :x:   |
 
 # Torque Wrench Handle
 
@@ -165,14 +165,22 @@ Small torque wrench to tighten 3D Printer nozzles. There are multiple versions a
 # Sourcing Parts
 
 | Item                  | Quantity | Received | Notes |
-| --------------------- | -------- | -------- | ----- |
-| Bitholder with Magnet | 1        | 1        |       |
-| Adapter ¼" to ¼"      | 1        | 1        |       |
+| --------------------- | -------: | -------: | ----- |
+| Bitholder with Magnet |        1 |        1 |
+| Adapter ¼" to ¼"      |        1 |        1 |
 
 # Printing Parts
 
-| Item                                                            | Quantity | Material | Printed | Notes         |
-| --------------------------------------------------------------- | -------- | -------- | :-----: | ------------- |
-| [Torque_Cap](https://www.thingiverse.com/thing:2613057/files)   | 1        |          |   :x:   | 2.5Nm version |
-| [Torque_Case](https://www.thingiverse.com/thing:2613057/files)  | 1        |          |   :x:   | 2.5Nm version |
-| [Torque_Rotor](https://www.thingiverse.com/thing:2613057/files) | 1        |          |   :x:   | 2.5Nm version |
+| Item                                                            | Quantity | Material | Time | Size | Weight | Cost | Printed | Notes         |
+| --------------------------------------------------------------- | -------: | -------- | ---: | ---: | -----: | ---: | :-----: | ------------- |
+| [Torque_Cap](https://www.thingiverse.com/thing:2613057/files)   |        1 |          |      |      |        |      |   :x:   | 2.5Nm version |
+| [Torque_Case](https://www.thingiverse.com/thing:2613057/files)  |        1 |          |      |      |        |      |   :x:   | 2.5Nm version |
+| [Torque_Rotor](https://www.thingiverse.com/thing:2613057/files) |        1 |          |      |      |        |      |   :x:   | 2.5Nm version |
+
+[Filament]: #
+[eSun ABS+ (Natural)]: printer-filament#esun-abs-natural
+[PrimaValue PLA (Blue)]: printer-filament#primavalue-pla-blue
+[PrimaValue PLA (Dark Grey)]: printer-filament#primavalue-pla-dark-grey
+[PrimaValue PLA (Red)]: printer-filament#primavalue-pla-red
+[Ziro PLA (Black)]: printer-filament#ziro-pla-black
+[Ziro PLA (Yellow)]: printer-filament#ziro-pla-yellow
