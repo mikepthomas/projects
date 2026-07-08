@@ -113,24 +113,24 @@ I have recently won another Ebay auction for £42.26 that contained 2 X230s and 
 ### Big X220
 
 | Item        | Type | Full Charge Capacity | Cycle Count |
-| ----------- | ---- | -------------------- | ----------- |
-| 1ZJBF22E2KF | 29++ | 10.81 Wh             | 329         |
-| 1ZJBF24J0L8 | 29++ | 77.49 Wh             | 85          |
-| 1ZKFT27R43W | 44++ | 68.87 Wh             | 511         |
+| ----------- | ---- | -------------------: | ----------: |
+| 1ZJBF22E2KF | 29++ |             10.81 Wh |         329 |
+| 1ZJBF24J0L8 | 29++ |             77.49 Wh |          85 |
+| 1ZKFT27R43W | 44++ |             68.87 Wh |         511 |
 
 ### Small X220
 
 | Item        | Type | Full Charge Capacity | Cycle Count |
-| ----------- | ---- | -------------------- | ----------- |
-| 1ZJRJ17650D | 29+  | 54.75 Wh             | 94          |
-| 1ZKFS2541BX | 44+  | 38.81 Wh             | 102         |
+| ----------- | ---- | -------------------: | ----------: |
+| 1ZJRJ17650D | 29+  |             54.75 Wh |          94 |
+| 1ZKFS2541BX | 44+  |             38.81 Wh |         102 |
 
 ### Small X230
 
 | Item        | Type | Full Charge Capacity | Cycle Count |
-| ----------- | ---- | -------------------- | ----------- |
-| 1ZS1333DB9A | 44+  | 53 Wh                | 136         |
-| 1ZS133AWAP9 | 44+  | 58.41 Wh             | 234         |
+| ----------- | ---- | -------------------: | ----------: |
+| 1ZS1333DB9A | 44+  |                53 Wh |         136 |
+| 1ZS133AWAP9 | 44+  |             58.41 Wh |         234 |
 
 ## Spares
 
