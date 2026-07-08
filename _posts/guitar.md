@@ -52,9 +52,9 @@ All the parts required to assemble the guitar have been purchased from Amazon. T
 
 ## Attaching Neck
 
-| Item                                                                       | Quantity | Material               |    Time |   Size |  Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------- | -------: | ---------------------- | ------: | -----: | ------: | ----: | :----------------: | ----- |
-| [upper_center_dovetailed](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 14h 57m | 73.77m | 220.01g | £5.30 | :heavy_check_mark: |
+| Item                                                                       | Quantity | Material               |   Time |   Size |  Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------- | -------: | ---------------------- | -----: | -----: | ------: | ----: | :----------------: | ----- |
+| [upper_center_dovetailed](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 14h57m | 73.77m | 220.01g | £5.30 | :heavy_check_mark: |
 
 ![First Part Attached (Front)](/assets/blog/guitar/03-first-part-front.jpg)
 
@@ -66,11 +66,11 @@ The parts were printed using a 1mm nozzle on my Anet A8 3D Printer. This is the 
 
 ![Second Part Attached](/assets/blog/guitar/05-second-part.jpg)
 
-| Item                                                                                  | Quantity | Material               |    Time |   Size |  Weight |  Cost |      Printed       | Notes |
-| ------------------------------------------------------------------------------------- | -------: | ---------------------- | ------: | -----: | ------: | ----: | :----------------: | ----- |
-| [upper_center_pc_2_dovetailed](https://www.thingiverse.com/thing:1241278/files)       |        1 | [PrimaValue PLA (Red)] | 10h 22m | 45.70m | 136.29g | £3.28 | :heavy_check_mark: |
-| [bottom_center_upper_blind_dovetail](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 17h 20m | 74.32m | 221.27g | £5.54 | :heavy_check_mark: |
-| [bottom_center_lower_blind_dovetail](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 12h 54m | 70.29m | 209.64g | £5.05 | :heavy_check_mark: |
+| Item                                                                                  | Quantity | Material               |   Time |   Size |  Weight |  Cost |      Printed       | Notes |
+| ------------------------------------------------------------------------------------- | -------: | ---------------------- | -----: | -----: | ------: | ----: | :----------------: | ----- |
+| [upper_center_pc_2_dovetailed](https://www.thingiverse.com/thing:1241278/files)       |        1 | [PrimaValue PLA (Red)] | 10h22m | 45.70m | 136.29g | £3.28 | :heavy_check_mark: |
+| [bottom_center_upper_blind_dovetail](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 17h20m | 74.32m | 221.27g | £5.54 | :heavy_check_mark: |
+| [bottom_center_lower_blind_dovetail](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 12h54m | 70.29m | 209.64g | £5.05 | :heavy_check_mark: |
 
 ![Adding Tremolo Spring Bracket](/assets/blog/guitar/06-tension-springs.jpg)
 
@@ -90,12 +90,12 @@ And finished off with an end cap.
 
 ![Printing sides to the guitar](/assets/blog/guitar/10-sides.jpg)
 
-| Item                                                                       | Quantity | Material               |    Time |   Size |  Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------- | -------: | ---------------------- | ------: | -----: | ------: | ----: | :----------------: | ----- |
-| [bottom_left_no_initials](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 18h 03m | 95.29m | 284.22g | £6.85 | :heavy_check_mark: |
-| [bottom_right](https://www.thingiverse.com/thing:1241278/files)            |        1 | [PrimaValue PLA (Red)] | 13h 38m | 68.26m | 136.29g | £4.90 | :heavy_check_mark: |
-| [upper_left_edit](https://www.thingiverse.com/thing:1241278/files)         |        1 | [PrimaValue PLA (Red)] | 15h 19m | 77.20m | 230.26g | £5.55 | :heavy_check_mark: |
-| [upper_right](https://www.thingiverse.com/thing:1241278/files)             |        1 | [PrimaValue PLA (Red)] |  8h 37m | 45.49m | 135.67g | £3.27 | :heavy_check_mark: |
+| Item                                                                       | Quantity | Material               |   Time |   Size |  Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------- | -------: | ---------------------- | -----: | -----: | ------: | ----: | :----------------: | ----- |
+| [bottom_left_no_initials](https://www.thingiverse.com/thing:1241278/files) |        1 | [PrimaValue PLA (Red)] | 18h03m | 95.29m | 284.22g | £6.85 | :heavy_check_mark: |
+| [bottom_right](https://www.thingiverse.com/thing:1241278/files)            |        1 | [PrimaValue PLA (Red)] | 13h38m | 68.26m | 136.29g | £4.90 | :heavy_check_mark: |
+| [upper_left_edit](https://www.thingiverse.com/thing:1241278/files)         |        1 | [PrimaValue PLA (Red)] | 15h19m | 77.20m | 230.26g | £5.55 | :heavy_check_mark: |
+| [upper_right](https://www.thingiverse.com/thing:1241278/files)             |        1 | [PrimaValue PLA (Red)] |  8h37m | 45.49m | 135.67g | £3.27 | :heavy_check_mark: |
 
 ![Installing the Right Side](/assets/blog/guitar/11-sides-install.jpg)
 

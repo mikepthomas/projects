@@ -34,21 +34,21 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                        | Quantity | Material                         |   Time |   Size | Weight |  Cost |      Printed       | Notes |
-| --------------------------- | -------: | -------------------------------- | -----: | -----: | -----: | ----: | :----------------: | ----- |
-| [Back_Wall_A][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 4h 09m | 13.76m | 41.05g | £0.94 | :heavy_check_mark: |
-| [Back_Wall_B][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 7h 26m | 24.27m | 72.40g | £1.66 | :heavy_check_mark: |
-| [Front_Window_A][Preserved] |        1 | [PrimaValue PLA (Dark Grey)]     | 4h 37m | 14.80m | 44.14g | £0.87 | :heavy_check_mark: |
-| [Front_Window_B][Preserved] |        1 | [PrimaValue PLA (Dark Grey)]     | 5h 56m | 17.01m | 50.75g | £1.00 | :heavy_check_mark: |
-| [Inner_Corner_A][Preserved] |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h 45m | 10.03m | 29.91g | £0.69 | :heavy_check_mark: |
-| [Inner_Corner_B][Preserved] |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h 55m | 10.66m | 31.79g | £0.73 | :heavy_check_mark: |
-| [Inner_Wall_A][Preserved]   |        1 | [Tinmorry PLA (Matte Brick Red)] | 3h 35m | 12.75m | 28.02g | £0.87 | :heavy_check_mark: |
-| [Inner_Wall_B][Preserved]   |        2 | [Tinmorry PLA (Matte Brick Red)] | 3h 22m | 10.95m | 32.67g | £0.75 | :heavy_check_mark: |
-| [Left_Wall_A][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h 25m |  6.57m | 19.58g | £0.45 | :heavy_check_mark: |
-| [Left_Wall_B][Preserved]    |        2 | [Tinmorry PLA (Matte Brick Red)] | 7h 32m | 23.29m | 69.48g | £1.60 | :heavy_check_mark: |
-| [Outer_Corner][Preserved]   |        4 | [Tinmorry PLA (Matte Brick Red)] | 2h 41m |  8.80m | 26.25g | £0.60 | :heavy_check_mark: |
-| [Right_Wall_A][Preserved]   |        1 | [Tinmorry PLA (Matte Brick Red)] | 4h 17m | 12.32m | 36.75g | £0.84 | :heavy_check_mark: |
-| [Right_Wall_B][Preserved]   |        2 | [Tinmorry PLA (Matte Brick Red)] | 4h 44m | 14.75m | 43.99g | £1.01 | :heavy_check_mark: |
+| Item                        | Quantity | Material                         |  Time |   Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------- | -------: | -------------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
+| [Back_Wall_A][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 4h09m | 13.76m | 41.05g | £0.94 | :heavy_check_mark: |
+| [Back_Wall_B][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 7h26m | 24.27m | 72.40g | £1.66 | :heavy_check_mark: |
+| [Front_Window_A][Preserved] |        1 | [PrimaValue PLA (Dark Grey)]     | 4h37m | 14.80m | 44.14g | £0.87 | :heavy_check_mark: |
+| [Front_Window_B][Preserved] |        1 | [PrimaValue PLA (Dark Grey)]     | 5h56m | 17.01m | 50.75g | £1.00 | :heavy_check_mark: |
+| [Inner_Corner_A][Preserved] |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h45m | 10.03m | 29.91g | £0.69 | :heavy_check_mark: |
+| [Inner_Corner_B][Preserved] |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h55m | 10.66m | 31.79g | £0.73 | :heavy_check_mark: |
+| [Inner_Wall_A][Preserved]   |        1 | [Tinmorry PLA (Matte Brick Red)] | 3h35m | 12.75m | 28.02g | £0.87 | :heavy_check_mark: |
+| [Inner_Wall_B][Preserved]   |        2 | [Tinmorry PLA (Matte Brick Red)] | 3h22m | 10.95m | 32.67g | £0.75 | :heavy_check_mark: |
+| [Left_Wall_A][Preserved]    |        1 | [Tinmorry PLA (Matte Brick Red)] | 2h25m |  6.57m | 19.58g | £0.45 | :heavy_check_mark: |
+| [Left_Wall_B][Preserved]    |        2 | [Tinmorry PLA (Matte Brick Red)] | 7h32m | 23.29m | 69.48g | £1.60 | :heavy_check_mark: |
+| [Outer_Corner][Preserved]   |        4 | [Tinmorry PLA (Matte Brick Red)] | 2h41m |  8.80m | 26.25g | £0.60 | :heavy_check_mark: |
+| [Right_Wall_A][Preserved]   |        1 | [Tinmorry PLA (Matte Brick Red)] | 4h17m | 12.32m | 36.75g | £0.84 | :heavy_check_mark: |
+| [Right_Wall_B][Preserved]   |        2 | [Tinmorry PLA (Matte Brick Red)] | 4h44m | 14.75m | 43.99g | £1.01 | :heavy_check_mark: |
 
 #### Doors
 
@@ -69,40 +69,40 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 ### Garage
 
-| Item                        | Quantity | Material              |   Time |  Size | Weight |  Cost |      Printed       | Notes |
-| --------------------------- | -------: | --------------------- | -----: | ----: | -----: | ----: | :----------------: | ----- |
-| [ConcreteFloor1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 50m | 8.71m | 25.98g | £0.60 | :heavy_check_mark: |
-| [ConcreteFloor2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 43m | 8.35m | 24.91g | £0.57 | :heavy_check_mark: |
-| [ConcreteFloor3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 43m | 8.28m | 24.69g | £0.57 | :heavy_check_mark: |
+| Item                        | Quantity | Material              |  Time |  Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------- | -------: | --------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
+| [ConcreteFloor1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h50m | 8.71m | 25.98g | £0.60 | :heavy_check_mark: |
+| [ConcreteFloor2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h43m | 8.35m | 24.91g | £0.57 | :heavy_check_mark: |
+| [ConcreteFloor3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h43m | 8.28m | 24.69g | £0.57 | :heavy_check_mark: |
 
 ### Interior
 
-| Item                         | Quantity | Material              |   Time |   Size | Weight |  Cost |      Printed       | Notes                              |
-| ---------------------------- | -------: | --------------------- | -----: | -----: | -----: | ----: | :----------------: | ---------------------------------- |
-| [CleanTiles1][Preserved]     |        1 | [Tinmorry PLA (Grey)] |        |        |        |       |        :x:         | Printing `ScatteredTiles1` instead |
-| [CleanTiles2][Preserved]     |        1 | [Tinmorry PLA (Grey)] |        |        |        |       |        :x:         | Printing `ScatteredTiles2` instead |
-| [CleanTiles3][Preserved]     |        1 | [Tinmorry PLA (Grey)] |        |        |        |       |        :x:         | Printing `ScatteredTiles3` instead |
-| [CleanTiles4][Preserved]     |        1 | [Tinmorry PLA (Grey)] |        |        |        |       |        :x:         | Printing `ScatteredTiles4` instead |
-| [CleanTiles5][Preserved]     |        1 | [Tinmorry PLA (Grey)] |        |        |        |       |        :x:         | Printing `ScatteredTiles5` instead |
-| [ScatteredTiles1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h 47m |  9.94m | 29.64g | £0.68 | :heavy_check_mark: |
-| [ScatteredTiles2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 56m |  7.65m | 22.81g | £0.52 | :heavy_check_mark: |
-| [ScatteredTiles3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h 06m |  8.24m | 24.58g | £0.57 | :heavy_check_mark: |
-| [ScatteredTiles4][Preserved] |        1 | [Tinmorry PLA (Grey)] | 4h 33m | 12.06m | 35.98g | £0.83 | :heavy_check_mark: |
-| [ScatteredTiles5][Preserved] |        1 | [Tinmorry PLA (Grey)] | 4h 06m | 10.68m | 31.86g | £0.73 | :heavy_check_mark: |
+| Item                         | Quantity | Material              |  Time |   Size | Weight |  Cost |      Printed       | Notes                              |
+| ---------------------------- | -------: | --------------------- | ----: | -----: | -----: | ----: | :----------------: | ---------------------------------- |
+| [CleanTiles1][Preserved]     |        1 | [Tinmorry PLA (Grey)] |       |        |        |       |        :x:         | Printing `ScatteredTiles1` instead |
+| [CleanTiles2][Preserved]     |        1 | [Tinmorry PLA (Grey)] |       |        |        |       |        :x:         | Printing `ScatteredTiles2` instead |
+| [CleanTiles3][Preserved]     |        1 | [Tinmorry PLA (Grey)] |       |        |        |       |        :x:         | Printing `ScatteredTiles3` instead |
+| [CleanTiles4][Preserved]     |        1 | [Tinmorry PLA (Grey)] |       |        |        |       |        :x:         | Printing `ScatteredTiles4` instead |
+| [CleanTiles5][Preserved]     |        1 | [Tinmorry PLA (Grey)] |       |        |        |       |        :x:         | Printing `ScatteredTiles5` instead |
+| [ScatteredTiles1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h47m |  9.94m | 29.64g | £0.68 | :heavy_check_mark: |
+| [ScatteredTiles2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h56m |  7.65m | 22.81g | £0.52 | :heavy_check_mark: |
+| [ScatteredTiles3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h06m |  8.24m | 24.58g | £0.57 | :heavy_check_mark: |
+| [ScatteredTiles4][Preserved] |        1 | [Tinmorry PLA (Grey)] | 4h33m | 12.06m | 35.98g | £0.83 | :heavy_check_mark: |
+| [ScatteredTiles5][Preserved] |        1 | [Tinmorry PLA (Grey)] | 4h06m | 10.68m | 31.86g | £0.73 | :heavy_check_mark: |
 
 ### Outer
 
-| Item                      | Quantity | Material              |   Time |   Size | Weight |  Cost |      Printed       | Notes |
-| ------------------------- | -------: | --------------------- | -----: | -----: | -----: | ----: | :----------------: | ----- |
-| [OuterPaving1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 20m |  7.60m | 22.66g | £0.52 | :heavy_check_mark: |
-| [OuterPaving2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 16m |  7.44m | 22.20g | £0.51 | :heavy_check_mark: |
-| [OuterPaving3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h 39m | 12.14m | 36.22g | £0.83 | :heavy_check_mark: |
-| [OuterPaving4][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h 57m | 12.31m | 36.71g | £0.84 | :heavy_check_mark: |
-| [OuterPaving5][Preserved] |        1 | [Tinmorry PLA (Grey)] | 1h 57m |  6.18m | 18.42g | £0.42 | :heavy_check_mark: |
-| [OuterPaving6][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h 33m | 11.66m | 34.79g | £0.80 | :heavy_check_mark: |
-| [OuterPaving7][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 35m |  8.48m | 25.29g | £0.58 | :heavy_check_mark: |
-| [OuterPaving8][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h 18m |  7.57m | 22.58g | £0.52 | :heavy_check_mark: |
-| [PumpPaving][Preserved]   |        1 | [Tinmorry PLA (Grey)] | 4h 03m | 13.23m | 39.46g | £0.91 | :heavy_check_mark: |
+| Item                      | Quantity | Material              |  Time |   Size | Weight |  Cost |      Printed       | Notes |
+| ------------------------- | -------: | --------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
+| [OuterPaving1][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h20m |  7.60m | 22.66g | £0.52 | :heavy_check_mark: |
+| [OuterPaving2][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h16m |  7.44m | 22.20g | £0.51 | :heavy_check_mark: |
+| [OuterPaving3][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h39m | 12.14m | 36.22g | £0.83 | :heavy_check_mark: |
+| [OuterPaving4][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h57m | 12.31m | 36.71g | £0.84 | :heavy_check_mark: |
+| [OuterPaving5][Preserved] |        1 | [Tinmorry PLA (Grey)] | 1h57m |  6.18m | 18.42g | £0.42 | :heavy_check_mark: |
+| [OuterPaving6][Preserved] |        1 | [Tinmorry PLA (Grey)] | 3h33m | 11.66m | 34.79g | £0.80 | :heavy_check_mark: |
+| [OuterPaving7][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h35m |  8.48m | 25.29g | £0.58 | :heavy_check_mark: |
+| [OuterPaving8][Preserved] |        1 | [Tinmorry PLA (Grey)] | 2h18m |  7.57m | 22.58g | £0.52 | :heavy_check_mark: |
+| [PumpPaving][Preserved]   |        1 | [Tinmorry PLA (Grey)] | 4h03m | 13.23m | 39.46g | £0.91 | :heavy_check_mark: |
 
 ![Red Rocket Floor](/assets/blog/red-rocket/floor.jpg)
 
@@ -112,24 +112,24 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                           | Quantity | Material                     |    Time |   Size |  Weight |  Cost |      Printed       | Notes |
-| ------------------------------ | -------: | ---------------------------- | ------: | -----: | ------: | ----: | :----------------: | ----- |
-| [RoofA][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 17h 19m | 68.06m | 203.00g | £4.02 | :heavy_check_mark: |
-| [RoofB][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 19h 53m | 78.73m | 234.83g | £4.65 | :heavy_check_mark: |
-| [RoofC][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 13h 11m | 52.79m | 157.45g | £3.12 | :heavy_check_mark: |
-| [RoofD][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 18h 56m | 73.90m | 220.41g | £4.36 | :heavy_check_mark: |
-| [OptionalShopFront][Preserved] |        1 | [PrimaValue PLA (Dark Grey)] |  1h 59m |  7.72m |  23.02g | £0.46 | :heavy_check_mark: |
+| Item                           | Quantity | Material                     |   Time |   Size |  Weight |  Cost |      Printed       | Notes |
+| ------------------------------ | -------: | ---------------------------- | -----: | -----: | ------: | ----: | :----------------: | ----- |
+| [RoofA][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 17h19m | 68.06m | 203.00g | £4.02 | :heavy_check_mark: |
+| [RoofB][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 19h53m | 78.73m | 234.83g | £4.65 | :heavy_check_mark: |
+| [RoofC][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 13h11m | 52.79m | 157.45g | £3.12 | :heavy_check_mark: |
+| [RoofD][Preserved]             |        1 | [PrimaValue PLA (Dark Grey)] | 18h56m | 73.90m | 220.41g | £4.36 | :heavy_check_mark: |
+| [OptionalShopFront][Preserved] |        1 | [PrimaValue PLA (Dark Grey)] |  1h59m |  7.72m |  23.02g | £0.46 | :heavy_check_mark: |
 
 ![Red Rocket Roof](/assets/blog/red-rocket/roof.jpg)
 
 ### Signage
 
-| Item                   | Quantity | Material               |   Time |   Size | Weight |  Cost |      Printed       | Notes                                                                                                                   |
-| ---------------------- | -------: | ---------------------- | -----: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
-| [SignageA1][Preserved] |        1 | [PrimaValue PLA (Red)] | 2h 19m |  6.31m | 18.82g | £0.45 | :heavy_check_mark: |
-| [SignageA2][Preserved] |        1 | [PrimaValue PLA (Red)] | 3h 47m | 11.23m | 33.48g | £0.81 | :heavy_check_mark: | This would be difficult to print as-is, therefore I cut the front off flat, and printed the front of the `c` separately |
-| [SignageB1][Preserved] |        1 | [PrimaValue PLA (Red)] |        |        |        |       |        :x:         |
-| [SignageB2][Preserved] |        1 | [PrimaValue PLA (Red)] |        |        |        |       |        :x:         |
+| Item                   | Quantity | Material               |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                                                                                   |
+| ---------------------- | -------: | ---------------------- | ----: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| [SignageA1][Preserved] |        1 | [PrimaValue PLA (Red)] | 2h19m |  6.31m | 18.82g | £0.45 | :heavy_check_mark: |
+| [SignageA2][Preserved] |        1 | [PrimaValue PLA (Red)] | 3h47m | 11.23m | 33.48g | £0.81 | :heavy_check_mark: | This would be difficult to print as-is, therefore I cut the front off flat, and printed the front of the `c` separately |
+| [SignageB1][Preserved] |        1 | [PrimaValue PLA (Red)] |       |        |        |       |        :x:         |
+| [SignageB2][Preserved] |        1 | [PrimaValue PLA (Red)] |       |        |        |       |        :x:         |
 
 ## Canopy
 
@@ -160,17 +160,17 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                            | Quantity | Material                     |   Time |  Size | Weight |  Cost |      Printed       | Notes                                                                                 |
-| ------------------------------- | -------: | ---------------------------- | -----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------------------- |
-| [Cart][Preserved]               |        1 | [PrimaValue PLA (Dark Grey)] |        |       |        |       |        :x:         |
-| [Diagnostic_Cart][Preserved]    |        1 | [Ziro PLA (Yellow)]          |        |       |        |       |        :x:         |
-| [GasPump][Preserved]            |        2 | [PrimaValue PLA (Red)]       |    49m | 1.41m |  4.22g | £0.10 | :heavy_check_mark: | I will replace these with the [Streets of Boston](#streets-of-boston) version instead |
-| [Tool_Chest][Preserved]         |        1 | [PrimaValue PLA (Red)]       | 1h 06m | 2.06m |  6.15g | £0.15 | :heavy_check_mark: |
-| [Tool_Rack][Preserved]          |        1 | [PrimaValue PLA (Dark Grey)] |        |       |        |       |        :x:         |
-| [Workshop_Cabinet_1][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |        |       |        |       |        :x:         |
-| [Workshop_Cabinet_2][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |        |       |        |       |        :x:         |
-| [Workshop_Cabinet_3][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |        |       |        |       |        :x:         |
-| [Workshop_Cabinet_4][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |        |       |        |       |        :x:         |
+| Item                            | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                                                 |
+| ------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------------------- |
+| [Cart][Preserved]               |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [Diagnostic_Cart][Preserved]    |        1 | [Ziro PLA (Yellow)]          |       |       |        |       |        :x:         |
+| [GasPump][Preserved]            |        2 | [PrimaValue PLA (Red)]       |   49m | 1.41m |  4.22g | £0.10 | :heavy_check_mark: | I will replace these with the [Streets of Boston](#streets-of-boston) version instead |
+| [Tool_Chest][Preserved]         |        1 | [PrimaValue PLA (Red)]       | 1h06m | 2.06m |  6.15g | £0.15 | :heavy_check_mark: |
+| [Tool_Rack][Preserved]          |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [Workshop_Cabinet_1][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |       |       |        |       |        :x:         |
+| [Workshop_Cabinet_2][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |       |       |        |       |        :x:         |
+| [Workshop_Cabinet_3][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |       |       |        |       |        :x:         |
+| [Workshop_Cabinet_4][Preserved] |        1 | [Amazon Basics PLA (Blue)]   |       |       |        |       |        :x:         |
 
 ### Nuka Cola Machine
 
