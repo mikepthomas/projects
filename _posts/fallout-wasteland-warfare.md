@@ -178,7 +178,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item           | Purchased | Digital                      |     Downloaded     | Released                                | Notes |
 | -------------- | :-------: | ---------------------------- | :----------------: | --------------------------------------- | ----- |
-| Errata (v1.0)  |           |                              |        :x:         |                                         |
+| Errata (v1.0)  |           |                              |        :x:         | August 2018                             |
 | Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018                            |
 | Errata (v3.0)  |           |                              | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27]       |
 | Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
