@@ -34,7 +34,7 @@ This was a required upgrade as the original Anet A8 fan duct started to melt.
 
 | Item                                                                              | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes                                                           |
 | --------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------- |
-| [Semi-Circular_Anet_A8_Fan_Duct](https://www.thingiverse.com/thing:1954001/files) |        1 | [eSun ABS+ (Black)] |      | 1.86m |  4.74g | £0.08 | :heavy_check_mark: | This is a mod by [lokster](https://www.thingiverse.com/lokster) |
+| [Semi-Circular_Anet_A8_Fan_Duct](https://www.thingiverse.com/thing:1954001/files) |        1 | [eSun ABS+ (Black)] |  55m | 1.86m |  4.75g | £0.08 | :heavy_check_mark: | This is a mod by [lokster](https://www.thingiverse.com/lokster) |
 
 ## Anet A8 Extruder Button
 
@@ -42,15 +42,15 @@ To feed and remove the filament from the printer you have to press down quite ha
 
 | Item                                                                       | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                           |
 | -------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------- |
-| [anet_a8_extruder_button](https://www.thingiverse.com/thing:2182276/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 1.30m |  3.31g | £0.06 | :heavy_check_mark: | This is a mod by [TabLeft](https://www.thingiverse.com/TabLeft) |
+| [anet_a8_extruder_button](https://www.thingiverse.com/thing:2182276/files) |        1 | [PrimaValue PLA (Dark Grey)] |  32m | 1.32m |  3.95g | £0.08 | :heavy_check_mark: | This is a mod by [TabLeft](https://www.thingiverse.com/TabLeft) |
 
 ## Anet A8 T corner
 
 ![Anet A8 T corner](/assets/blog/printer-printed-upgrades/t-corner.jpg)
 
-| Item                                                             | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
-| ---------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
-| [Refuerzo_en_T](https://www.thingiverse.com/thing:1672959/files) |        2 | [PrimaValue PLA (Dark Grey)] |      | 2.88m |  7.34g | £0.14 | :heavy_check_mark: | This is a mod by [Electrico](https://www.thingiverse.com/Electrico) |
+| Item                                                             | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
+| ---------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
+| [Refuerzo_en_T](https://www.thingiverse.com/thing:1672959/files) |        2 | [PrimaValue PLA (Dark Grey)] | 1h06m | 2.94m |  8.77g | £0.17 | :heavy_check_mark: | This is a mod by [Electrico](https://www.thingiverse.com/Electrico) |
 
 > [!WARNING]
 > This didn't stiffen up the frame as much as I would like... to improve print quality, it was replaced by the [Hulk Frame Brace for the Anet A8](#hulk-frame-brace-for-the-anet-a8).
@@ -65,17 +65,17 @@ To feed and remove the filament from the printer you have to press down quite ha
 
 A tool holder to conveniently hold the allen keys and screwdrivers that came with the kit, on the left side of the frame.
 
-| Item                                                              | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                 |
-| ----------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
-| [my_tool_holder](https://www.thingiverse.com/thing:2072360/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 4.51m | 11.50g | £0.22 | :heavy_check_mark: | This is a mod by [ArcanePath](https://www.thingiverse.com/ArcanePath) |
+| Item                                                              | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                                 |
+| ----------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
+| [my_tool_holder](https://www.thingiverse.com/thing:2072360/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h34m | 4.61m | 13.74g | £0.27 | :heavy_check_mark: | This is a mod by [ArcanePath](https://www.thingiverse.com/ArcanePath) |
 
 ## Anet A8: Tool Holder 2 (Right side)
 
 A tool holder to hold the spanner and side-cutters that came with the kit, on the right side of the frame.
 
-| Item                                                         | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                 |
-| ------------------------------------------------------------ | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
-| [my_tool_2](https://www.thingiverse.com/thing:2086689/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 5.25m | 13.39g | £0.25 | :heavy_check_mark: | This is a mod by [ArcanePath](https://www.thingiverse.com/ArcanePath) |
+| Item                                                         | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                                 |
+| ------------------------------------------------------------ | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
+| [my_tool_2](https://www.thingiverse.com/thing:2086689/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h39m | 5.00m | 14.93g | £0.30 | :heavy_check_mark: | This is a mod by [ArcanePath](https://www.thingiverse.com/ArcanePath) |
 
 ## Anet A8 Anti Z-Wobble
 
@@ -83,8 +83,8 @@ I fitted these to help stop the Z axis lead screws from wobbling at the top of t
 
 | Item                                                                   | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
 | ---------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [Anti_Z-Wobble_Left](https://www.thingiverse.com/thing:2436455/files)  |        1 | [PrimaValue PLA (Dark Grey)] |      | 1.84m |  4.69g | £0.09 | :heavy_check_mark: | This is a mod by [Tissat](https://www.thingiverse.com/Tissat) |
-| [Anti_Z-Wobble_Right](https://www.thingiverse.com/thing:2436455/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 1.85m |  4.71g | £0.09 | :heavy_check_mark: | This is a mod by [Tissat](https://www.thingiverse.com/Tissat) |
+| [Anti_Z-Wobble_Left](https://www.thingiverse.com/thing:2436455/files)  |        1 | [PrimaValue PLA (Dark Grey)] |  35m | 1.88m |  5.60g | £0.11 | :heavy_check_mark: | This is a mod by [Tissat](https://www.thingiverse.com/Tissat) |
+| [Anti_Z-Wobble_Right](https://www.thingiverse.com/thing:2436455/files) |        1 | [PrimaValue PLA (Dark Grey)] |  36m | 1.89m |  5.62g | £0.11 | :heavy_check_mark: | This is a mod by [Tissat](https://www.thingiverse.com/Tissat) |
 
 ## Anet A8 - M8 Nut Cap
 
@@ -92,15 +92,15 @@ Covers the unsightly M8 nuts at the front of the frame.
 
 | Item                                                       | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                 |
 | ---------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
-| [Nut_Cap](https://www.thingiverse.com/thing:2357524/files) |        2 | [PrimaValue PLA (Dark Grey)] |      | 0.40m |  1.02g | £0.02 | :heavy_check_mark: | This is a mod by [Puddlefist](https://www.thingiverse.com/Puddlefist) |
+| [Nut_Cap](https://www.thingiverse.com/thing:2357524/files) |        2 | [PrimaValue PLA (Dark Grey)] |  12m | 0.41m |  1.21g | £0.02 | :heavy_check_mark: | This is a mod by [Puddlefist](https://www.thingiverse.com/Puddlefist) |
 
 ## Anet A8 X axis belt holder
 
 The stock way of attaching the belts is by folding the belt around some long screws on the back of the carriage and holding the ends together with cable ties. This makes attaching and adjusting the belt to the priner a little easier, as you no longer need to have the cable ties.
 
-| Item                                                             | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                     |
-| ---------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
-| [x_belt_holder](https://www.thingiverse.com/thing:1666094/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 3.04m |  7.75g | £0.15 | :heavy_check_mark: | This is a mod by [kennethjiang](https://www.thingiverse.com/kennethjiang) |
+| Item                                                             | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                                     |
+| ---------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
+| [x_belt_holder](https://www.thingiverse.com/thing:1666094/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h16m | 3.10m |  9.25g | £0.18 | :heavy_check_mark: | This is a mod by [kennethjiang](https://www.thingiverse.com/kennethjiang) |
 
 ## Anet A8 USB Holder
 
@@ -108,7 +108,7 @@ A little holder for the Micro SD adapter that came with the kit. I mounted this 
 
 | Item                                                             | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                           |
 | ---------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | --------------------------------------------------------------- |
-| [USB_Holder_v2](https://www.thingiverse.com/thing:2051881/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 1.36m |  3.46g | £0.07 | :heavy_check_mark: | This is a mod by [bonezzz](https://www.thingiverse.com/bonezzz) |
+| [USB_Holder_v2](https://www.thingiverse.com/thing:2051881/files) |        1 | [PrimaValue PLA (Dark Grey)] |  34m | 1.59m |  4.74g | £0.09 | :heavy_check_mark: | This is a mod by [bonezzz](https://www.thingiverse.com/bonezzz) |
 
 # Electronics Upgrades
 
@@ -120,9 +120,9 @@ A little holder for the Micro SD adapter that came with the kit. I mounted this 
 
 This allows me mount an [SD Card Extender](https://www.amazon.co.uk/gp/product/B01C8CUDIQ) to move the SD card slot from the rear of the printer, to the front, to be able to easily insert and remove the SD card.
 
-| Item                                                                                            | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
-| ----------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
-| [Micro_SD_Card_Cable_Holder_with_Card_Storage](https://www.thingiverse.com/thing:2527250/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 6.32m | 16.12g | £0.31 | :heavy_check_mark: | This is a mod by [amrus2011](https://www.thingiverse.com/amrus2011) |
+| Item                                                                                            | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
+| ----------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
+| [Micro_SD_Card_Cable_Holder_with_Card_Storage](https://www.thingiverse.com/thing:2527250/files) |        1 | [PrimaValue PLA (Dark Grey)] | 2h27m | 7.04m | 21.01g | £0.42 | :heavy_check_mark: | This is a mod by [amrus2011](https://www.thingiverse.com/amrus2011) |
 
 ## Anet A8 Electronics Case
 
@@ -136,76 +136,76 @@ The case, once installed really tidied up the printer's wires and made it easier
 
 ![Anet A8 Electronics Case Before and After](/assets/blog/printer-printed-upgrades/electronics-case-before-after.jpg)
 
-| Item                                                                                    | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                             |
-| --------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
-| [ElectronicsCase_Bottom_Lid](https://www.thingiverse.com/thing:2670756/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      |  9.00m | 22.96g | £0.44 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_Bottom_LargeMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_Bottom_SmallMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      | 25.84m | 65.88g | £1.25 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopBig_Lid](https://www.thingiverse.com/thing:2670756/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      |  6.09m | 15.53g | £0.29 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopBig_LargeMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopBig_SmallMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      | 21.30m | 54.30g | £1.03 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopSmall_Lid](https://www.thingiverse.com/thing:2670756/files)         |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopSmall_LargeMosfet](https://www.thingiverse.com/thing:2670756/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [ElectronicsCase_TopSmall_NoMosfet](https://www.thingiverse.com/thing:2670756/files)    |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [Reset_Button_Pin_20mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |      |  0.22m |  0.56g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [Reset_Button_Pin_21mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |      |  0.23m |  0.58g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
-| [Reset_Button_Pin_22mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |      |  0.24m |  0.61g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| Item                                                                                    | Quantity | Material                     |   Time |    Size | Weight |  Cost |      Printed       | Notes                                                             |
+| --------------------------------------------------------------------------------------- | -------: | ---------------------------- | -----: | ------: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
+| [ElectronicsCase_Bottom_Lid](https://www.thingiverse.com/thing:2670756/files)           |        1 | [PrimaValue PLA (Dark Grey)] |  2h48m |   8.40m | 25.05g | £0.50 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_Bottom_LargeMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |        |         |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_Bottom_SmallMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] | 15h43m |  26.94m | 80.35g | £1.59 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopBig_Lid](https://www.thingiverse.com/thing:2670756/files)           |        1 | [PrimaValue PLA (Dark Grey)] |  1h52m |   5.73m | 17.09g | £0.34 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopBig_LargeMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] |        |         |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopBig_SmallMosfet](https://www.thingiverse.com/thing:2670756/files)   |        1 | [PrimaValue PLA (Dark Grey)] | 13h18m | 22.325m | 66.36g | £1.31 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopSmall_Lid](https://www.thingiverse.com/thing:2670756/files)         |        1 | [PrimaValue PLA (Dark Grey)] |        |         |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopSmall_LargeMosfet](https://www.thingiverse.com/thing:2670756/files) |        1 | [PrimaValue PLA (Dark Grey)] |        |         |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [ElectronicsCase_TopSmall_NoMosfet](https://www.thingiverse.com/thing:2670756/files)    |        1 | [PrimaValue PLA (Dark Grey)] |        |         |        |       |        :x:         | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [Reset_Button_Pin_20mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |    09m |   0.22m |  0.66g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [Reset_Button_Pin_21mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |    09m |   0.23m |  0.70g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
+| [Reset_Button_Pin_22mm](https://www.thingiverse.com/thing:2670756/files)                |        1 | [PrimaValue PLA (Dark Grey)] |    09m |   0.25m |  0.73g | £0.01 | :heavy_check_mark: | This is a mod by [FqFKrazz](https://www.thingiverse.com/FqFKrazz) |
 
 ## Anet A8 30A PSU Adapter
 
 The bolt pattern to mount the stock 20A power supply is different to the upgraded 30A supply, this adapter plate allows mounting the new supply without drilling new holes.
 
-| Item                                                           | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
-| -------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
-| [PSU_Bracket](https://www.thingiverse.com/thing:2423368/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 4.87m | 12.42g | £0.24 | :heavy_check_mark: | This is a mod by [David_en8](https://www.thingiverse.com/David_en8) |
+| Item                                                           | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
+| -------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
+| [PSU_Bracket](https://www.thingiverse.com/thing:2423368/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h49m | 5.04m | 15.04g | £0.30 | :heavy_check_mark: | This is a mod by [David_en8](https://www.thingiverse.com/David_en8) |
 
 ## PSU Cover Remix
 
 The printer doesn't have an on/off switch, this PSU cover allows you to fit a fused socket with a switch and also covers the live mains terminals on the power supply for safety.
 
-| Item                                                                     | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                                 |
-| ------------------------------------------------------------------------ | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
-| [PSU_Cover_Plate_Remix](https://www.thingiverse.com/thing:3344502/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 16.12m | 41.09g | £0.78 | :heavy_check_mark: | This is a mod by [MakerDan55](https://www.thingiverse.com/MakerDan55) |
+| Item                                                                     | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                                 |
+| ------------------------------------------------------------------------ | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | --------------------------------------------------------------------- |
+| [PSU_Cover_Plate_Remix](https://www.thingiverse.com/thing:3344502/files) |        1 | [PrimaValue PLA (Dark Grey)] | 4h17m | 16.48m | 49.16g | £0.97 | :heavy_check_mark: | This is a mod by [MakerDan55](https://www.thingiverse.com/MakerDan55) |
 
 ## Rear Anet A8 mount for Raspberry Pi B with camera
 
 This mounts a Raspberry Pi to the rear of the frame behind the LCD, it also has a mount for a Raspberry Pi camera, to be used with [OctoPrint](https://octoprint.org/)
 
-| Item                                                           | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                         |
-| -------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [pi_upper](https://www.thingiverse.com/thing:2133010/files)    |        1 | [PrimaValue PLA (Dark Grey)] |      |  5.61m | 16.73g | £0.33 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
-| [pi_lower](https://www.thingiverse.com/thing:2133010/files)    |        1 | [PrimaValue PLA (Dark Grey)] |      | 11.93m | 35.58g | £0.70 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
-| [link](https://www.thingiverse.com/thing:2185490/files)        |        2 | [PrimaValue PLA (Dark Grey)] |      |  0.30m |  0.90g | £0.02 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
-| [CameraBack](https://www.thingiverse.com/thing:2133010/files)  |        1 | [PrimaValue PLA (Dark Grey)] |      |  0.81m |  2.43g | £0.05 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
-| [CameraFront](https://www.thingiverse.com/thing:2133010/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |  1.74m |  5.20g | £0.10 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
+| Item                                                           | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                         |
+| -------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
+| [pi_upper](https://www.thingiverse.com/thing:2133010/files)    |        1 | [PrimaValue PLA (Dark Grey)] | 2h02m |  5.61m | 16.72g | £0.33 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
+| [pi_lower](https://www.thingiverse.com/thing:2133010/files)    |        1 | [PrimaValue PLA (Dark Grey)] | 3h48m | 11.95m | 35.64g | £0.71 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
+| [link](https://www.thingiverse.com/thing:2185490/files)        |        2 | [PrimaValue PLA (Dark Grey)] |   07m |  0.30m |  0.90g | £0.02 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
+| [CameraBack](https://www.thingiverse.com/thing:2133010/files)  |        1 | [PrimaValue PLA (Dark Grey)] |   19m |  0.81m |  2.43g | £0.05 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
+| [CameraFront](https://www.thingiverse.com/thing:2133010/files) |        1 | [PrimaValue PLA (Dark Grey)] |   41m |  1.76m |  5.26g | £0.10 | :heavy_check_mark: | This is a mod by [Bma801](https://www.thingiverse.com/Bma801) |
 
 It is for the original Raspberry Pi B, which eventually became too slow to run the latest OctoPrint and was replaced with the [new Raspberry Pi 3B+ version](#rear-anet-a8-lcd-mount-for-raspberry-pi-3-with-camera)
 
 ## Rear Anet A8 LCD mount for Raspberry Pi 3 with camera
 
-| Item                                                               | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                                     |
-| ------------------------------------------------------------------ | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
-| [boitier_pi](https://www.thingiverse.com/thing:3017821/files)      |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
-| [couvercle_pi](https://www.thingiverse.com/thing:3017821/files)    |        1 | [PrimaValue PLA (Dark Grey)] |      |  2.59m | 10.70g | £0.21 | :heavy_check_mark: | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
-| [Pi_Cam_Only](https://www.thingiverse.com/thing:3033378/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      | 15.24m | 45.44g | £0.90 | :heavy_check_mark: | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Bowden_Only](https://www.thingiverse.com/thing:3033378/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Pi_Cam_Bowden](https://www.thingiverse.com/thing:3033378/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Pi_Cam_Bowden_B](https://www.thingiverse.com/thing:3033378/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
-| [Bowden_Only_B](https://www.thingiverse.com/thing:3033378/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| Item                                                               | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                                     |
+| ------------------------------------------------------------------ | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
+| [boitier_pi](https://www.thingiverse.com/thing:3017821/files)      |        1 | [PrimaValue PLA (Dark Grey)] |       |        |        |       |        :x:         | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
+| [couvercle_pi](https://www.thingiverse.com/thing:3017821/files)    |        1 | [PrimaValue PLA (Dark Grey)] | 1h25m |  3.59m | 10.70g | £0.21 | :heavy_check_mark: | This is a mod by [Samfire54](https://www.thingiverse.com/Samfire54)       |
+| [Pi_Cam_Only](https://www.thingiverse.com/thing:3033378/files)     |        1 | [PrimaValue PLA (Dark Grey)] | 4h47m | 15.34m | 45.75g | £0.91 | :heavy_check_mark: | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Bowden_Only](https://www.thingiverse.com/thing:3033378/files)     |        1 | [PrimaValue PLA (Dark Grey)] |       |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Pi_Cam_Bowden](https://www.thingiverse.com/thing:3033378/files)   |        1 | [PrimaValue PLA (Dark Grey)] |       |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Pi_Cam_Bowden_B](https://www.thingiverse.com/thing:3033378/files) |        1 | [PrimaValue PLA (Dark Grey)] |       |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
+| [Bowden_Only_B](https://www.thingiverse.com/thing:3033378/files)   |        1 | [PrimaValue PLA (Dark Grey)] |       |        |        |       |        :x:         | This is a mod by [sh0tybumbati](https://www.thingiverse.com/sh0tybumbati) |
 
 > [!NOTE]
 > The parts needed for the camera are the same as the [Raspberry Pi 1 Version](#rear-anet-a8-mount-for-raspberry-pi-b-with-camera).
 
 ## Anet A8 LED strip mount under X axis
 
-| Item                                                                  | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
-| --------------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
-| [led_strip_holder_1](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] |      | 3.07m | 10.70g | £0.21 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [led_strip_holder_2](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] |      | 3.44m | 12.00g | £0.24 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       |        1 | [Tinmorry PETG (White)] |      |       |        |       |        :x:         | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [left_bracket_2](https://www.thingiverse.com/thing:2206024/files)     |        1 | [Tinmorry PETG (White)] |      | 0.41m |  1.44g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [right_bracket](https://www.thingiverse.com/thing:2206024/files)      |    ~1~ 2 | [Tinmorry PETG (White)] |      | 1.59m |  5.56g | £0.11 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
-| [right_bracket_2](https://www.thingiverse.com/thing:2206024/files)    |        1 | [Tinmorry PETG (White)] |      | 0.41m |  1.43g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| Item                                                                  | Quantity | Material                |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                               |
+| --------------------------------------------------------------------- | -------: | ----------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------- |
+| [led_strip_holder_1](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] |   55m | 3.07m |  9.15g | £0.18 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [led_strip_holder_2](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] | 1h01m | 3.44m | 10.26g | £0.20 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       |        1 | [Tinmorry PETG (White)] |       |       |        |       |        :x:         | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [left_bracket_2](https://www.thingiverse.com/thing:2206024/files)     |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [right_bracket](https://www.thingiverse.com/thing:2206024/files)      |    ~1~ 2 | [Tinmorry PETG (White)] |   43m | 1.64m |  4.88g | £0.10 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
+| [right_bracket_2](https://www.thingiverse.com/thing:2206024/files)    |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish](https://www.thingiverse.com/chzdanish) |
 
 > [!NOTE]
 > I did not print the `left_bracket` as it has the arm that is not required, therefore I printed a mirrored version of the `right_bracket` to replace it.
@@ -214,11 +214,11 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 
 | Item                                                          | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
 | ------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [OpticCover](https://www.thingiverse.com/thing:2873216/files) |        2 | [Tinmorry PETG (White)] |      | 1.13m |  3.96g | £0.08 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
-| [OptiXA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |      | 2.00m |  6.99g | £0.14 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
-| [OptiXB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |      | 1.51m |  5.27g | £0.11 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
-| [OptiYA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |      | 1.25m |  4.36g | £0.09 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
-| [OptiYB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |      | 1.16m |  4.05g | £0.08 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
+| [OpticCover](https://www.thingiverse.com/thing:2873216/files) |        2 | [Tinmorry PETG (White)] |  33m | 1.15m |  3.42g | £0.07 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
+| [OptiXA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  48m | 2.01m |  5.98g | £0.12 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
+| [OptiXB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  30m | 1.51m |  4.51g | £0.09 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
+| [OptiYA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  36m | 1.25m |  3.73g | £0.07 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
+| [OptiYB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  25m | 1.16m |  3.46g | £0.07 | :heavy_check_mark: | This is a mod by [dhench](https://www.thingiverse.com/dhench) |
 
 > [!NOTE]
 > I used some black paint on the end of `OptiXA` and `OptiYA` to stop light from bleeding through the white plastic.
@@ -233,26 +233,26 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 
 Stiffens up the top of the frame. Leo_N's version did not fit my printer.
 
-| Item                                                                                        | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
-| [Anet_A8_Top_L_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 16.97m | 50.62g | £1.00 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
-| [Anet_A8_Top_R_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 17.13m | 51.08g | £1.01 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
+| Item                                                                                        | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
+| [Anet_A8_Top_L_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) |        1 | [PrimaValue PLA (Dark Grey)] | 4h41m | 16.97m | 50.62g | £1.00 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
+| [Anet_A8_Top_R_Bracket_Leo_remix_by_kftof](https://www.thingiverse.com/thing:2780855/files) |        1 | [PrimaValue PLA (Dark Grey)] | 4h47m | 17.13m | 51.08g | £1.01 | :heavy_check_mark: | This is a mod by [kftof](https://www.thingiverse.com/kftof) |
 
 ## Hulk Frame Brace for the Anet A8
 
 Stiffens up the frame to reduce ripples in the print related to the X carriage moving from side to side.
 
-| Item                                                                                 | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------ | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
-| [Hulk_Left_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)    |        1 | [PrimaValue PLA (Dark Grey)] |      | 5.54m | 16.54g | £0.33 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Left_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Left_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files)  |        1 | [PrimaValue PLA (Dark Grey)] |      | 8.57m | 25.55g | £0.51 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      | 5.84m | 17.41g | £0.34 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)          |        1 | [PrimaValue PLA (Dark Grey)] |      |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_Right_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 8.55m | 25.50g | £0.50 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_1mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    |        2 | [PrimaValue PLA (Dark Grey)] |      | 0.07m |  0.20g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_1.5mm_Plate](https://www.thingiverse.com/thing:2189694/files)                  |        2 | [PrimaValue PLA (Dark Grey)] |      | 0.09m |  0.27g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
-| [Hulk_2mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    |        2 | [PrimaValue PLA (Dark Grey)] |      | 0.12m |  0.37g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| Item                                                                                 | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------ | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
+| [Hulk_Left_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)    |        1 | [PrimaValue PLA (Dark Grey)] | 1h45m | 5.54m | 16.54g | £0.33 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Left_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)           |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Left_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files)  |        1 | [PrimaValue PLA (Dark Grey)] | 2h17m | 8.60m | 25.64g | £0.51 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Bottom_Support_Leo_N](https://www.thingiverse.com/thing:2189694/files)   |        1 | [PrimaValue PLA (Dark Grey)] | 1h49m | 5.84m | 17.41g | £0.34 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Top_Arm_Leo_N](https://www.thingiverse.com/thing:2189694/files)          |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_Right_Top_Arm_wBracket_Leo_N](https://www.thingiverse.com/thing:2189694/files) |        1 | [PrimaValue PLA (Dark Grey)] | 2h16m | 8.55m | 25.50g | £0.50 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_1mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    |        2 | [PrimaValue PLA (Dark Grey)] |   02m | 0.07m |  0.20g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_1.5mm_Plate](https://www.thingiverse.com/thing:2189694/files)                  |        2 | [PrimaValue PLA (Dark Grey)] |   03m | 0.09m |  0.27g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
+| [Hulk_2mm_Plate](https://www.thingiverse.com/thing:2189694/files)                    |        2 | [PrimaValue PLA (Dark Grey)] |   04m | 0.12m |  0.37g | £0.01 | :heavy_check_mark: | This is a mod by [Leo_N](https://www.thingiverse.com/Leo_N) |
 
 > [!NOTE]
 > I printed the versions `wBracket` as I am using [Anet A8 Brackets to Reduce X-Axis Motion](#anet-a8-brackets-to-reduce-x-axis-motion).
@@ -261,18 +261,18 @@ Stiffens up the frame to reduce ripples in the print related to the X carriage m
 
 Supports the weight of the X-axis and carriage through the bottom of the Z stepper motors.
 
-| Item                                                                      | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
-| ------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [Anet_A8_Z_stepperV5_DX](https://www.thingiverse.com/thing:2010468/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 7.81m | 23.28g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
-| [Anet_A8_Z_stepperV5_SX](https://www.thingiverse.com/thing:2010468/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 7.75m | 23.13g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
+| Item                                                                      | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
+| ------------------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
+| [Anet_A8_Z_stepperV5_DX](https://www.thingiverse.com/thing:2010468/files) |        1 | [PrimaValue PLA (Dark Grey)] | 2h00m | 7.82m | 23.33g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
+| [Anet_A8_Z_stepperV5_SX](https://www.thingiverse.com/thing:2010468/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h55m | 7.75m | 23.13g | £0.46 | :heavy_check_mark: | This is a mod by [ugge75](https://www.thingiverse.com/ugge75) |
 
 ## Frame brace for Anet A8
 
 Stiffens up the front of the frame allowing the belt to be tightened without bending the acrylic frame.
 
-| Item                                                                | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                             |
-| ------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
-| [AnetA8FrontBrace](https://www.thingiverse.com/thing:3016461/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 29.64m | 88.40g | £1.75 | :heavy_check_mark: | This is a mod by [3DMagicm](https://www.thingiverse.com/3DMagicm) |
+| Item                                                                | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                             |
+| ------------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
+| [AnetA8FrontBrace](https://www.thingiverse.com/thing:3016461/files) |        1 | [PrimaValue PLA (Dark Grey)] | 7h59m | 29.72m | 88.65g | £1.76 | :heavy_check_mark: | This is a mod by [3DMagicm](https://www.thingiverse.com/3DMagicm) |
 
 > [!NOTE]
 > The original was by [Simhopp](https://www.thingiverse.com/Simhopp) however it is no longer available, this is the closest to the design I printed.
@@ -281,9 +281,9 @@ Stiffens up the front of the frame allowing the belt to be tightened without ben
 
 Rear frame brace with integrated mount for the Y Motor. Stiffens up the space between the bottom parts of the frame allowing the belt to be tightened without bending the acrylic frame.
 
-| Item                                                     | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                         |
-| -------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [Brace](https://www.thingiverse.com/thing:2350830/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 54.28m | 161.89 | £3.21 | :heavy_check_mark: | This is a mod by [ykimhi](https://www.thingiverse.com/ykimhi) |
+| Item                                                     | Quantity | Material                     |   Time |   Size | Weight |  Cost |      Printed       | Notes                                                         |
+| -------------------------------------------------------- | -------: | ---------------------------- | -----: | -----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
+| [Brace](https://www.thingiverse.com/thing:2350830/files) |        1 | [PrimaValue PLA (Dark Grey)] | 15h14m | 54.28m | 161.89 | £3.21 | :heavy_check_mark: | This is a mod by [ykimhi](https://www.thingiverse.com/ykimhi) |
 
 ## Anet A8 filament guide
 
@@ -291,7 +291,7 @@ I added this filament guide to stop the filament rubbing against the frame whils
 
 | Item                                                                 | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                     |
 | -------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
-| [Filament_Guide_V1](https://www.thingiverse.com/thing:1840645/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 0.76m |  2.26g | £0.04 | :heavy_check_mark: | This is a mod by [DRPrinting3D](https://www.thingiverse.com/DRPrinting3D) |
+| [Filament_Guide_V1](https://www.thingiverse.com/thing:1840645/files) |        1 | [PrimaValue PLA (Dark Grey)] |  27m | 0.76m |  2.26g | £0.04 | :heavy_check_mark: | This is a mod by [DRPrinting3D](https://www.thingiverse.com/DRPrinting3D) |
 
 # Motion Upgrades
 
@@ -301,9 +301,9 @@ I added this filament guide to stop the filament rubbing against the frame whils
 
 Belt tensioner to allow fine adjustment of the X-Axis belt.
 
-| Item                                                                | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                             |
-| ------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
-| [x_belt_tensioner](https://www.thingiverse.com/thing:1683070/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 5.40m | 16.10g | £0.32 | :heavy_check_mark: | This is a mod by [freemark](https://www.thingiverse.com/freemark) |
+| Item                                                                | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                             |
+| ------------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
+| [x_belt_tensioner](https://www.thingiverse.com/thing:1683070/files) |        1 | [PrimaValue PLA (Dark Grey)] | 2h14m | 5.40m | 16.10g | £0.32 | :heavy_check_mark: | This is a mod by [freemark](https://www.thingiverse.com/freemark) |
 
 > [!WARNING]
 > This has been replaced with a [version that can accept a GT2 pulley with teeth](#anet-a8-x-belt-tensioner-for-gt2-pulley).
@@ -317,13 +317,13 @@ Belt tensioner to allow fine adjustment of the Y-Axis belt.
 > [!NOTE]
 > I printed the medium sized screw as I was not sure of the size I needed therefore I could print a larger or smaller one if needed.
 
-| Item                                                                | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
-| ------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
-| [plate](https://www.thingiverse.com/thing:2149867/files)            |        1 | [PrimaValue PLA (Dark Grey)] |      | 1.34m |  4.00g | £0.08 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw](https://www.thingiverse.com/thing:2149867/files)            |        1 | [PrimaValue PLA (Dark Grey)] |      |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw2](https://www.thingiverse.com/thing:2149867/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      | 0.96m |  2.87g | £0.06 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [screw_large](https://www.thingiverse.com/thing:2149867/files)      |        1 | [PrimaValue PLA (Dark Grey)] |      |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
-| [y_belt_tensioner](https://www.thingiverse.com/thing:2149867/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 4.61m | 13.75g | £0.27 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| Item                                                                | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                         |
+| ------------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------- |
+| [plate](https://www.thingiverse.com/thing:2149867/files)            |        1 | [PrimaValue PLA (Dark Grey)] |   20m | 1.34m |  4.00g | £0.08 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw](https://www.thingiverse.com/thing:2149867/files)            |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw2](https://www.thingiverse.com/thing:2149867/files)           |        1 | [PrimaValue PLA (Dark Grey)] |   30m | 0.96m |  2.87g | £0.06 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [screw_large](https://www.thingiverse.com/thing:2149867/files)      |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
+| [y_belt_tensioner](https://www.thingiverse.com/thing:2149867/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h23m | 4.61m | 13.75g | £0.27 | :heavy_check_mark: | This is a mod by [CH35C0](https://www.thingiverse.com/CH35C0) |
 
 > [!WARNING]
 > This has been replaced with a [version that can accept a GT2 pulley with teeth](#anet-a8-y-belt-tensioner-for-toothed-idler).
@@ -334,26 +334,26 @@ Belt tensioner to allow fine adjustment of the Y-Axis belt.
 
 | Item                                                           | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                             |
 | -------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------- |
-| [idlerpulley](https://www.thingiverse.com/thing:2144338/files) |        2 | [PrimaValue PLA (Dark Grey)] |      | 0.11m |  0.33g | £0.01 | :heavy_check_mark: | This is a mod by [j0ker31m](https://www.thingiverse.com/j0ker31m) |
+| [idlerpulley](https://www.thingiverse.com/thing:2144338/files) |        2 | [PrimaValue PLA (Dark Grey)] |  04m | 0.11m |  0.33g | £0.01 | :heavy_check_mark: | This is a mod by [j0ker31m](https://www.thingiverse.com/j0ker31m) |
 
 > [!WARNING]
 > These were replaced by M3 16 tooth GT2 pulleys when they eventually broke down and cracked mid print causing the print to fail.
 
 ## Anet A8 X-belt tensioner for GT2 pulley
 
-| Item                                                                   | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                   |
-| ---------------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------- |
-| [x_belt_tensioner](https://www.thingiverse.com/thing:2745367/files)    |        1 | [Tinmorry PETG (White)] |      |       |        |       |        :x:         | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
-| [x_belt_tensioner_20](https://www.thingiverse.com/thing:2745367/files) |        1 | [Tinmorry PETG (White)] |      | 3.84m | 13.39g | £0.27 | :heavy_check_mark: | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
+| Item                                                                   | Quantity | Material                |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                                   |
+| ---------------------------------------------------------------------- | -------: | ----------------------- | ----: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------- |
+| [x_belt_tensioner](https://www.thingiverse.com/thing:2745367/files)    |        1 | [Tinmorry PETG (White)] |       |       |        |       |        :x:         | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
+| [x_belt_tensioner_20](https://www.thingiverse.com/thing:2745367/files) |        1 | [Tinmorry PETG (White)] | 1h32m | 3.54m | 12.35g | £0.25 | :heavy_check_mark: | This is a mod by [Kommander92](https://www.thingiverse.com/Kommander92) |
 
 ## Anet A8 Y belt tensioner for toothed idler
 
 ![Updated Y-Axis Belt Tensioner](/assets/blog/printer-printed-upgrades/y-belt-tensioner-updated.jpg)
 
-| Item                                                                                       | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                                                       |
-| ------------------------------------------------------------------------------------------ | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
-| [Y_belt_tensioner_for_toothed_idler](https://www.thingiverse.com/thing:2341663/files)      |        1 | [Tinmorry PETG (White)] |      | 4.60m | 16.06g | £0.32 | :heavy_check_mark: | This is a mod by [musta](https://www.thingiverse.com/musta) |
-| [Y_belt_tensioner_for_toothed_idler_11mm](https://www.thingiverse.com/thing:2341663/files) |        1 | [Tinmorry PETG (White)] |      |       |        |       |        :x:         | This is a mod by [musta](https://www.thingiverse.com/musta) |
+| Item                                                                                       | Quantity | Material                |  Time |  Size | Weight |  Cost |      Printed       | Notes                                                       |
+| ------------------------------------------------------------------------------------------ | -------: | ----------------------- | ----: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------- |
+| [Y_belt_tensioner_for_toothed_idler](https://www.thingiverse.com/thing:2341663/files)      |        1 | [Tinmorry PETG (White)] | 1h22m | 4.60m | 16.06g | £0.32 | :heavy_check_mark: | This is a mod by [musta](https://www.thingiverse.com/musta) |
+| [Y_belt_tensioner_for_toothed_idler_11mm](https://www.thingiverse.com/thing:2341663/files) |        1 | [Tinmorry PETG (White)] |       |       |        |       |        :x:         | This is a mod by [musta](https://www.thingiverse.com/musta) |
 
 ## Anet A8 lightweight and unobtrusive X-axis cable chain
 
