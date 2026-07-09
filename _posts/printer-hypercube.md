@@ -84,11 +84,11 @@ The kit I purchased also comes with the extrusions to build the electronics case
 
 To start off with I will not be deviating too far from the Anet Evolution. I will be printing the Belt clamp with belt tensioners from that and [eventually plan to upgrade the toolhead in the future](printer-hardware-upgrades#bmg-direct-drive).
 
-| Item                                                                       | Quantity | Material                   | Time |  Size | Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------- | -------: | -------------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
-| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) |        1 | [Tinmorry PETG (Black)]    |      | 8.82m | 30.77g | £0.62 | :heavy_check_mark: |
-| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        |        2 | [Amazon Basics PETG (Red)] |      | 0.59m |  2.05g | £0.04 | :heavy_check_mark: |
-| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        |        4 | [Amazon Basics PETG (Red)] |      | 0.08m |  0.29g | £0.01 | :heavy_check_mark: |
+| Item                                                                       | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
+| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) |        1 | [Tinmorry PETG (Black)]    | 2h58m | 9.06m | 31.59g | £0.63 | :heavy_check_mark: |
+| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        |        2 | [Amazon Basics PETG (Red)] |   16m | 0.59m |  1.81g | £0.03 | :heavy_check_mark: |
+| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        |        4 | [Amazon Basics PETG (Red)] |   03m | 0.08m |  0.25g | £0.01 | :heavy_check_mark: |
 
 There is also an adapter plate, [Hypercube Afterburner adapter intergration remix](https://www.thingiverse.com/thing:5156654) that may work to mount an Afterburner on the guide rails.
 
@@ -96,11 +96,11 @@ There is also an adapter plate, [Hypercube Afterburner adapter intergration remi
 
 I have chosen to [replace the stock Y carriages with a remixed version](https://www.thingiverse.com/thing:2907433) by [osvalijr](https://www.thingiverse.com/osvalijr) as I prefer the modularity of them and it will allow me to print the bearing blocks in a different accent colour.
 
-| Item                                                                   | Quantity | Material                   | Time |   Size | Weight |  Cost |      Printed       | Notes |
-| ---------------------------------------------------------------------- | -------: | -------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
-| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) |        2 | [Amazon Basics PETG (Red)] |      | 12.99m | 45.30g | £0.87 | :heavy_check_mark: |
-| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) |        2 | [Tinmorry PETG (Black)]    |      |  1.64m |  5.71g | £0.11 | :heavy_check_mark: |
-| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) |        4 | [Tinmorry PETG (Black)]    |      |  1.57m |  5.30g | £0.11 | :heavy_check_mark: |
+| Item                                                                   | Quantity | Material                   |  Time |   Size | Weight |  Cost |      Printed       | Notes |
+| ---------------------------------------------------------------------- | -------: | -------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
+| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) |        2 | [Amazon Basics PETG (Red)] | 3h38m | 12.58m | 38.43g | £0.74 | :heavy_check_mark: |
+| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) |        2 | [Tinmorry PETG (Black)]    |   37m |  1.71m |  5.95g | £0.12 | :heavy_check_mark: |
+| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) |        4 | [Tinmorry PETG (Black)]    |   44m |  1.67m |  5.84g | £0.12 | :heavy_check_mark: |
 
 As I have a slightly longer Y axis compared to the Anet Evolution, I have redesigned some parts to allow me to use Y Guide rods that are 20mm too short for the frame.
 
