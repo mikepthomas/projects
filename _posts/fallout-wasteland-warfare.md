@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-06-26T15:47:36.393Z
+lastmod: 2026-07-10T11:23:32.890Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1620,6 +1620,24 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
+#### In Sheeps Clothing
+
+| Item                      | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Pylon Ambush Scenic Set] |    :x:    |         |            | [March 2025] |
+
+[Pylon Ambush Scenic Set]: https://modiphius.net/products/fallout-miniatures-pylon-ambush-scenic-set
+
+#### Stoic Defenders
+
+| Item                                        | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Brotherhood of Steel: Appalachian Command] |    :x:    |         |            | [April 2025] |
+| [Cryptids: Grafton Monster]                 |    :x:    |         |            | [April 2025] |
+
+[Brotherhood of Steel: Appalachian Command]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-appalachian-command
+[Cryptids: Grafton Monster]: https://modiphius.net/products/fallout-miniatures-cryptids-grafton-monster
+
 #### Scorched Plague
 
 [Fallout: Miniatures Reveal - Wave 10, Part 2 Video](https://www.youtube-nocookie.com/embed/6wadIOkHYtM?start=2354)
@@ -2324,6 +2342,18 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
 
+## Battle for Hoover Dam
+
+[State of the Wasteland]: https://modiphius.net/blogs/news/what-was-shown-during-the-state-of-the-wasteland
+
+### Items
+
+| Item                                  | Purchased | Digital | Downloaded | Pre-Release                           | Notes |
+| ------------------------------------- | :-------: | ------- | :--------: | ------------------------------------- | ----- |
+| Battle for Hoover Dam Starter Set     |    :x:    |         |            | [No date set][State of the Wasteland] |
+| ┝ Caesar's Legion: Core Box (Plastic) |    :x:    |         |            | [No date set][State of the Wasteland] |
+| ┕ NCR: Core Box (Plastic)             |    :x:    |         |            | [No date set][State of the Wasteland] |
+
 ## Miniatures
 
 | Item                            |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
@@ -2396,10 +2426,30 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Items
 
-| Item                                | Purchased | Digital | Downloaded | Pre-Release  | Notes |
-| ----------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| Into the Wasteland Solo Starter Set |    :x:    |         |            | [March 2026] |
-| Warband Starter Set                 |    :x:    |         |            | [March 2026] |
+### Starter Sets
+
+| Item                                | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
+| ----------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
+| Into the Wasteland Solo Starter Set |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┕ Dogmeat                           |    :x:    |         |            | [Q4 2026][State of the Wasteland] | Promo |
+| Warband Starter Set                 |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┝ The Mutt                          |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┝ The Ravager                       |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┕ Vault Dweller In T-45             |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+
+### Rules
+
+| Item                | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
+| ------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
+| Campaign Handbook   |    :x:    |         |            | [Q3 2027][State of the Wasteland] |
+| Unit Reference Book |    :x:    |         |            | [Q1 2027][State of the Wasteland] |
+
+### Miniatures
+
+| Item                        | Purchased | Digital | Downloaded | Released                          | Notes |
+| --------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
+| Female Vault Dweller Heroes |    :x:    |         |    :x:     | [Q4 2026][State of the Wasteland] |
+| Male Vault Dweller Heroes   |    :x:    |         |    :x:     | [Q4 2026][State of the Wasteland] |
 
 [Filament]: #
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
