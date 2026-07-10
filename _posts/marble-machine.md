@@ -40,22 +40,22 @@ Printing an [Out of Marbles](https://outofmarbles.com) Marble Machine desk toy.
 | Super Glue              |        1 |        1 |
 
 > [!NOTE]
-> All parts were sourced from the [Official Motorized Hardware Kit](https://outofmarbles.com/products/hardware-kits).
+> All parts were sourced from the [Official Motorized Hardware Kit](https://outofmarbles.com/products/hardware-kit-for-stl-files).
 
 ## Printing Parts
 
 ![Installing the Chain, Marble Buckets and Gears](/assets/blog/marble-machine/chain-marble-bucket.jpg)
 
-| Item                               | Quantity | Material            | Time | Size | Weight | Cost |      Printed       | Notes |
-| ---------------------------------- | -------- | ------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [Axle][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Base][Bucket Lift]                | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
-| [Battery Cover Base][Bucket Lift]  | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
-| [Chain Marble Bucket][Bucket Lift] | 8        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Gear Idle][Bucket Lift]           | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Gear Motor][Bucket Lift]          | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Logo][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Offloading Ramp][Bucket Lift]     | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
+| Item                               | Quantity | Material            |   Time |   Size |  Weight |  Cost |      Printed       | Notes       |
+| ---------------------------------- | -------- | ------------------- | -----: | -----: | ------: | ----: | :----------------: | ----------- |
+| [Axle][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |    25m |  0.68m |   2.02g | £0.04 | :heavy_check_mark: | Version 1.1 |
+| [Base][Bucket Lift]                | 1        | [Ziro PLA (Black)]  | 20h33m | 91.55m | 273.05g | £4.37 | :heavy_check_mark: | Version 1.1 |
+| [Battery Cover Base][Bucket Lift]  | 1        | [Ziro PLA (Black)]  |    39m |  1.84m |   5.48g | £0.09 | :heavy_check_mark: | Version 1.1 |
+| [Chain Marble Bucket][Bucket Lift] | 8        | [Ziro PLA (Yellow)] |    50m |  1.99m |   5.93g | £0.11 | :heavy_check_mark: | Version 1.1 |
+| [Gear Idle][Bucket Lift]           | 1        | [Ziro PLA (Yellow)] |    51m |  1.84m |   5.49g | £0.10 | :heavy_check_mark: | Version 1.1 |
+| [Gear Motor][Bucket Lift]          | 1        | [Ziro PLA (Yellow)] |    44m |  1.62m |   4.84g | £0.09 | :heavy_check_mark: | Version 1.1 |
+| [Logo][Bucket Lift]                | 1        | [Ziro PLA (Yellow)] |    30m |  1.20m |   3.58g | £0.06 | :heavy_check_mark: | Version 1.1 |
+| [Offloading Ramp][Bucket Lift]     | 1        | [Ziro PLA (Black)]  |  1h17m |  2.99m |   8.91g | £0.14 | :heavy_check_mark: | Version 1.1 |
 
 [Bucket Lift]: https://outofmarbles.com/products/bucket-lift
 
@@ -65,11 +65,11 @@ Printing an [Out of Marbles](https://outofmarbles.com) Marble Machine desk toy.
 
 ## Printing Parts
 
-| Item                   | Quantity | Material            | Time | Size | Weight | Cost |      Printed       | Notes |
-| ---------------------- | -------- | ------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [Base][Triple Twister] | 1        | [Ziro PLA (Black)]  |      |      |        |      | :heavy_check_mark: |
-| [Top][Triple Twister]  | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
-| [Triple Twister]       | 1        | [Ziro PLA (Yellow)] |      |      |        |      | :heavy_check_mark: |
+| Item                   | Quantity | Material            |  Time |   Size | Weight |  Cost |      Printed       | Notes       |
+| ---------------------- | -------- | ------------------- | ----: | -----: | -----: | ----: | :----------------: | ----------- |
+| [Base][Triple Twister] | 1        | [Ziro PLA (Black)]  | 5h24m | 18.47m | 55.08g | £0.88 | :heavy_check_mark: | Version 1.0 |
+| [Top][Triple Twister]  | 1        | [Ziro PLA (Yellow)] | 3h29m | 12.27m | 36.59g | £0.66 | :heavy_check_mark: | Version 1.0 |
+| [Triple Twister]       | 1        | [Ziro PLA (Yellow)] | 9h49m | 32.48m | 96.86g | £1.74 | :heavy_check_mark: | Version 1.0 |
 
 [Triple Twister]: https://outofmarbles.com/products/triple-twister
 
