@@ -84,27 +84,27 @@ The kit I purchased also comes with the extrusions to build the electronics case
 
 To start off with I will not be deviating too far from the Anet Evolution. I will be printing the Belt clamp with belt tensioners from that and [eventually plan to upgrade the toolhead in the future](printer-hardware-upgrades#bmg-direct-drive).
 
-| Item                                                                       | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
-| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) |        1 | [Tinmorry PETG (Black)]    | 2h58m | 9.06m | 31.59g | £0.63 | :heavy_check_mark: |
-| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        |        2 | [Amazon Basics PETG (Red)] |   16m | 0.59m |  1.81g | £0.03 | :heavy_check_mark: |
-| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        |        4 | [Amazon Basics PETG (Red)] |   03m | 0.08m |  0.25g | £0.01 | :heavy_check_mark: |
+| Item                                                                       | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes                          |
+| -------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------ |
+| [1_Carriage_X_NewVersion](https://www.thingiverse.com/thing:2786292/files) |        1 | [Tinmorry PETG (Black)]    | 2h58m | 9.06m | 31.59g | £0.63 | :heavy_check_mark: | This is a design by [dbrandao] |
+| [2_Belt_Clamp.stl](https://www.thingiverse.com/thing:2786292/files)        |        2 | [Amazon Basics PETG (Red)] |   16m | 0.59m |  1.81g | £0.03 | :heavy_check_mark: | This is a design by [dbrandao] |
+| [4_Belt_Tensioner](https://www.thingiverse.com/thing:2786292/files)        |        4 | [Amazon Basics PETG (Red)] |   03m | 0.08m |  0.25g | £0.01 | :heavy_check_mark: | This is a design by [dbrandao] |
 
 There is also an adapter plate, [Hypercube Afterburner adapter intergration remix](https://www.thingiverse.com/thing:5156654) that may work to mount an Afterburner on the guide rails.
 
 # Y Axis
 
-I have chosen to [replace the stock Y carriages with a remixed version](https://www.thingiverse.com/thing:2907433) by [osvalijr](https://www.thingiverse.com/osvalijr) as I prefer the modularity of them and it will allow me to print the bearing blocks in a different accent colour.
+I have chosen to [replace the stock Y carriages with a remixed version](https://www.thingiverse.com/thing:2907433) by [osvalijr] as I prefer the modularity of them and it will allow me to print the bearing blocks in a different accent colour.
 
-| Item                                                                   | Quantity | Material                   |  Time |   Size | Weight |  Cost |      Printed       | Notes |
-| ---------------------------------------------------------------------- | -------: | -------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
-| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) |        2 | [Amazon Basics PETG (Red)] | 3h38m | 12.58m | 38.43g | £0.74 | :heavy_check_mark: |
-| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) |        2 | [Tinmorry PETG (Black)]    |   37m |  1.71m |  5.95g | £0.12 | :heavy_check_mark: |
-| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) |        4 | [Tinmorry PETG (Black)]    |   44m |  1.67m |  5.84g | £0.12 | :heavy_check_mark: |
+| Item                                                                   | Quantity | Material                   |  Time |   Size | Weight |  Cost |      Printed       | Notes                       |
+| ---------------------------------------------------------------------- | -------: | -------------------------- | ----: | -----: | -----: | ----: | :----------------: | --------------------------- |
+| [1x_Conjunto_Y_Corpo](https://www.thingiverse.com/thing:2907433/files) |        2 | [Amazon Basics PETG (Red)] | 3h38m | 12.58m | 38.43g | £0.74 | :heavy_check_mark: | This is a mod by [osvalijr] |
+| [1x_Conjunto_Y_Trava](https://www.thingiverse.com/thing:2907433/files) |        2 | [Tinmorry PETG (Black)]    |   37m |  1.71m |  5.95g | £0.12 | :heavy_check_mark: | This is a mod by [osvalijr] |
+| [2x_Conjunto_Y_Bucha](https://www.thingiverse.com/thing:2907433/files) |        4 | [Tinmorry PETG (Black)]    |   44m |  1.67m |  5.84g | £0.12 | :heavy_check_mark: | This is a mod by [osvalijr] |
 
 As I have a slightly longer Y axis compared to the Anet Evolution, I have redesigned some parts to allow me to use Y Guide rods that are 20mm too short for the frame.
 
-I remixed the Belt Idlers from the [reinforced ones](https://www.thingiverse.com/thing:3853322) by [yoloswagersaurus](https://www.thingiverse.com/yoloswagersaurus) I extended the Y rod clamps by 13mm to make the full width of the Y clamps 25mm.
+I remixed the Belt Idlers from the [reinforced ones](https://www.thingiverse.com/thing:3853322) by [yoloswagersaurus] I extended the Y rod clamps by 13mm to make the full width of the Y clamps 25mm.
 
 ![Belt Idlers with extended Y clamps](/assets/blog/printer-hypercube/belt-idlers.png)
 
@@ -132,21 +132,21 @@ If there is too much flex from the printed parts I will replace the stainless st
 
 As I will be using standard Nema 17 motors, with separate lead screws, connected with the stock flexible couplers, I want to support the lead screw with standard 608 bearings.
 
-I have designed a holder for the bearing to sit on top of the couplers inspired by the [Z Axis Motor With Bearing Holder](https://www.thingiverse.com/thing:2780754) by [butchja](https://www.thingiverse.com/butchja)
+I have designed a holder for the bearing to sit on top of the couplers inspired by the [Z Axis Motor With Bearing Holder](https://www.thingiverse.com/thing:2780754) by [butchja]
 
 ![Part to add a bearing to support the lead screws](/assets/blog/printer-hypercube/z-motor-bearing-support.png)
 
-| Item                                                                                                                                   | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
-| [2_Z_Motor_Mount](https://www.thingiverse.com/thing:2786292/files)                                                                     |        2 | [Amazon Basics PETG (Red)] | 2h02m | 6.68m | 20.41g | £0.39 | :heavy_check_mark: |
+| Item                                                                                                                                   | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes                          |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------ |
+| [2_Z_Motor_Mount](https://www.thingiverse.com/thing:2786292/files)                                                                     |        2 | [Amazon Basics PETG (Red)] | 2h02m | 6.68m | 20.41g | £0.39 | :heavy_check_mark: | This is a design by [dbrandao] |
 | [Z Motor Bearing](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Motor%20Bearing/Z%20Motor%20Bearing.stl) |        2 | [Tinmorry PETG (Black)]    | 3h10m | 7.64m | 26.66g | £0.53 | :heavy_check_mark: |
 
-I have printed [Z Axis anti wobble](https://www.thingiverse.com/thing:2907460) by [osvalijr](https://www.thingiverse.com/osvalijr) to support the top of the lead screw.
+I have printed [Z Axis anti wobble](https://www.thingiverse.com/thing:2907460) by [osvalijr] to support the top of the lead screw.
 
-| Item                                                                        | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes |
-| --------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
-| ~[1x_Right_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~ |        1 | [Amazon Basics PETG (Red)] | 2h05m | 6.53m | 19.96g | £0.38 | :heavy_check_mark: |
-| ~[1x_left_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~  |        1 | [Amazon Basics PETG (Red)] | 2h05m | 6.54m | 19.98g | £0.38 | :heavy_check_mark: |
+| Item                                                                        | Quantity | Material                   |  Time |  Size | Weight |  Cost |      Printed       | Notes                       |
+| --------------------------------------------------------------------------- | -------: | -------------------------- | ----: | ----: | -----: | ----: | :----------------: | --------------------------- |
+| ~[1x_Right_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~ |        1 | [Amazon Basics PETG (Red)] | 2h05m | 6.53m | 19.96g | £0.38 | :heavy_check_mark: | This is a mod by [osvalijr] |
+| ~[1x_left_Z_Wooble_608z](https://www.thingiverse.com/thing:2907460/files)~  |        1 | [Amazon Basics PETG (Red)] | 2h05m | 6.54m | 19.98g | £0.38 | :heavy_check_mark: | This is a mod by [osvalijr] |
 
 > [!CAUTION]
 > I am not fitting these as they are based on the top Z guide rod clamps that are too tall to fit on the Voron frame. I may remix them into the shorter bottom clamps at a later stage so that they will fit.
@@ -169,15 +169,15 @@ I have remixed the original Z Rail Arms to add some M3 nut traps, to recess the 
 
 # Bed Mounting
 
-The bearing clamps to mount the bed carriage to the Z axis are from the Anet Evolution however, as I am using [Igus DryLin RJ4JP 01-08 Bearings](https://www.igus.com/product/990). The bearings are not as snug in the holders as the stainless steel ones. Therefore, I took inspiration from [this Z Bearing Fixer](https://www.thingiverse.com/thing:3095514) by [Budiman7x](https://www.thingiverse.com/Budiman7x) and redesigned them to fit my smaller 8mm guide rods.
+The bearing clamps to mount the bed carriage to the Z axis are from the Anet Evolution however, as I am using [Igus DryLin RJ4JP 01-08 Bearings](https://www.igus.com/product/990). The bearings are not as snug in the holders as the stainless steel ones. Therefore, I took inspiration from [this Z Bearing Fixer](https://www.thingiverse.com/thing:3095514) by [Budiman7x] and redesigned them to fit my smaller 8mm guide rods.
 
 ![Clamp to secure the Z-Axis bearings](/assets/blog/printer-hypercube/z-bearing-fixer.png)
 
-| Item                                                                                                                                               | Quantity | Material                   |  Time |   Size | Weight |  Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
-| [2_Z_Axis_Holder](https://www.thingiverse.com/thing:2786292/files)                                                                                 |        4 | [Tinmorry PETG (Black)]    | 3h22m | 11.66m | 40.66g | £0.81 | :heavy_check_mark: |
+| Item                                                                                                                                               | Quantity | Material                   |  Time |   Size | Weight |  Cost |      Printed       | Notes                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------------- | ----: | -----: | -----: | ----: | :----------------: | ------------------------------ |
+| [2_Z_Axis_Holder](https://www.thingiverse.com/thing:2786292/files)                                                                                 |        4 | [Tinmorry PETG (Black)]    | 3h22m | 11.66m | 40.66g | £0.81 | :heavy_check_mark: | This is a design by [dbrandao] |
 | [Z Bearing Fixer](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Hypercube%20Z%20Bearing%20Fixer/Hypercube%20Z%20Bearing%20Fixer.stl) |        4 | [Amazon Basics PETG (Red)] | 1h13m |  4.55m | 13.89g | £0.27 | :heavy_check_mark: |
-| [2_Z_Nut_Braket](https://www.thingiverse.com/thing:2786292/files)                                                                                  |        2 | [Amazon Basics PETG (Red)] | 1h34m |  5.46m | 16.68g | £0.32 | :heavy_check_mark: |
+| [2_Z_Nut_Braket](https://www.thingiverse.com/thing:2786292/files)                                                                                  |        2 | [Amazon Basics PETG (Red)] | 1h34m |  5.46m | 16.68g | £0.32 | :heavy_check_mark: | This is a design by [dbrandao] |
 
 When the bed frame is assembled I will measure the difference between the bed and the frame and create some Bed Mounts remixed from something like the [Anet Evolution Printerbed Holder](https://www.thingiverse.com/thing:3351036).
 
@@ -206,3 +206,9 @@ Once I have upgraded everything to this point I should have all the original par
 [Filament]: #
 [Amazon Basics PETG (Red)]: printer-filament#amazon-basics-petg-red
 [Tinmorry PETG (Black)]: printer-filament#tinmorry-petg-black
+[Thingyverse]: #
+[Budiman7x]: https://www.thingiverse.com/Budiman7x
+[butchja]: https://www.thingiverse.com/butchja
+[dbrandao]: https://www.thingiverse.com/dbrandao
+[osvalijr]: https://www.thingiverse.com/osvalijr
+[yoloswagersaurus]: https://www.thingiverse.com/yoloswagersaurus
