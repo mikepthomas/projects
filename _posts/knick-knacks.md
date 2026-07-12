@@ -26,20 +26,28 @@ keywords:
 
 ![Cable Clips to hold the cable out of the way for the Vive Headset](/assets/blog/knick-knacks/vive-cable-clips.jpg)
 
-| Item                                                                                     | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
-| ---------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [vive_delux_audio_strap_cable_clip](https://www.thingiverse.com/thing:2403709/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
-| [vive_delux_audio_strap_cable_clip_cap](https://www.thingiverse.com/thing:2403709/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
-| [HTC_Vive_Deluxe_Headstrap_Cord_Lock](https://www.thingiverse.com/thing:2573611/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| Item                                                     | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [HTC_Vive_Deluxe_Headstrap_Cord_Lock][Vive Cord Lock]    |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [vive_delux_audio_strap_cable_clip][Vive Cable Clip]     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [vive_delux_audio_strap_cable_clip_cap][Vive Cable Clip] |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+
+[Vive Cable Clip]: https://www.thingiverse.com/thing:2403709/files
+[Vive Cord Lock]: https://www.thingiverse.com/thing:2573611/files
 
 # Vive Controller Protector
 
 ![Showing off the print quality of the Anet A8](/assets/blog/knick-knacks/vive-controller-protector-print.jpg)
 
-| Item                                                                             | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [Vive_Controller_Bumper_Top](https://www.thingiverse.com/thing:3311543/files)    |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
-| [Vive_Controller_Bumper_Bottom](https://www.thingiverse.com/thing:3311543/files) |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| Item                                                       | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes                                          |
+| ---------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ---------------------------------------------- |
+| [Bolt][Bolt and Nut for Vive Controller Protector]         |        2 | [PrimaValue PLA (Blue)] |      |      |        |      |        :x:         | Not required as I will be using metal hardware |
+| [Nut][Bolt and Nut for Vive Controller Protector]          |        2 | [PrimaValue PLA (Blue)] |      |      |        |      |        :x:         | Not required as I will be using metal hardware |
+| [Vive_Controller_Bumper_Bottom][Vive Controller Protector] |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [Vive_Controller_Bumper_Top][Vive Controller Protector]    |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+
+[Bolt and Nut for Vive Controller Protector]: https://www.thingiverse.com/thing:2713178
+[Vive Controller Protector]: https://archive.org/details/thingiverse-1959237
 
 ![Plastic protector to help stop damage from using controllers in VR](/assets/blog/knick-knacks/vive-controller-protector.jpg)
 
@@ -47,11 +55,15 @@ keywords:
 
 ![Printing the Vive Controller Holder](/assets/blog/knick-knacks/vive-controller-holder-printing.jpg)
 
-| Item                                                                                   | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
-| -------------------------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [holder](https://www.thingiverse.com/thing:2859339/files)                              |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
-| [insert](https://www.thingiverse.com/thing:2634474/files)                              |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
-| [holder_for_dual_vive_charging_stand](https://www.thingiverse.com/thing:1638580/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| Item                                                                | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
+| ------------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [holder][Vive Controller Stand]                                     |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [holder_for_dual_vive_charging_stand][Vive Controller Stand Holder] |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| [insert][Vive Controller Stand Insert]                              |        2 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+
+[Vive Controller Stand]: https://www.thingiverse.com/thing:1540715/files
+[Vive Controller Stand Holder]: https://www.thingiverse.com/thing:1638580/files
+[Vive Controller Stand Insert]: https://www.thingiverse.com/thing:2634474/files
 
 ![Stand to hold the controllers for my VR Setup](/assets/blog/knick-knacks/vive-controller-holder-complete.jpg)
 
