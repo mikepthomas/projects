@@ -149,9 +149,10 @@ Here you can see the size difference between the giant Lego man and a regular Le
 
 ![Wave to display a benchy boat](/assets/blog/knick-knacks/benchy-wave.jpg)
 
-| Item                                                           | Quantity | Material                | Time | Size | Weight | Cost |      Printed       | Notes |
-| -------------------------------------------------------------- | -------: | ----------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) |        1 | [PrimaValue PLA (Blue)] |      |      |        |      | :heavy_check_mark: |
+| Item                                                           | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
+| -------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
+| [3DBenchy](https://www.thingiverse.com/thing:763622/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) |        1 | [PrimaValue PLA (Blue)]      |      |      |        |      | :heavy_check_mark: |
 
 # Plane Kit
 
@@ -163,6 +164,7 @@ Here you can see the size difference between the giant Lego man and a regular Le
 | [F16_kit](https://www.thingiverse.com/thing:4462185/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 | [F22_Kit](https://www.thingiverse.com/thing:4630680/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 | [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
+| [HawkT1_Kit](https://www.thingiverse.com/thing:4979417/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 | [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 | [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
 
