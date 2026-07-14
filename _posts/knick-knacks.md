@@ -149,24 +149,24 @@ Here you can see the size difference between the giant Lego man and a regular Le
 
 ![Wave to display a benchy boat](/assets/blog/knick-knacks/benchy-wave.jpg)
 
-| Item                                                           | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
-| -------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [3DBenchy](https://www.thingiverse.com/thing:763622/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
-| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) |        1 | [PrimaValue PLA (Blue)]      |      |      |        |      | :heavy_check_mark: |
+| Item                                                           | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes |
+| -------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
+| [3DBenchy](https://www.thingiverse.com/thing:763622/files)     |        1 | [PrimaValue PLA (Dark Grey)] | 1h51m |  4.74m | 14.14g | £0.28 | :heavy_check_mark: |
+| [Benchy-Wave](https://www.thingiverse.com/thing:3002446/files) |        1 | [PrimaValue PLA (Blue)]      | 4h42m | 16.35m | 48.77g | £0.87 | :heavy_check_mark: |
 
 # Plane Kit
 
 ![Print-in-place aeroplane kit](/assets/blog/knick-knacks/plane-kit.jpg)
 
-| Item                                                              | Quantity | Material                     | Time | Size | Weight | Cost |      Printed       | Notes |
-| ----------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :----------------: | ----- |
-| [EF_Typhoon_kit](https://www.thingiverse.com/thing:4594490/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
-| [F16_kit](https://www.thingiverse.com/thing:4462185/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
-| [F22_Kit](https://www.thingiverse.com/thing:4630680/files)        |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
-| [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      | :heavy_check_mark: |
-| [HawkT1_Kit](https://www.thingiverse.com/thing:4979417/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
-| [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
-| [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   |        1 | [PrimaValue PLA (Dark Grey)] |      |      |        |      |        :x:         |
+| Item                                                              | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ----------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
+| [EF_Typhoon_kit](https://www.thingiverse.com/thing:4594490/files) |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [F16_kit](https://www.thingiverse.com/thing:4462185/files)        |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [F22_Kit](https://www.thingiverse.com/thing:4630680/files)        |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [F-35_Kit](https://www.thingiverse.com/thing:4865673/files)       |        1 | [PrimaValue PLA (Dark Grey)] | 1h05m | 3.07m |  9.15g | £0.18 | :heavy_check_mark: |
+| [HawkT1_Kit](https://www.thingiverse.com/thing:4979417/files)     |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [MIG-29_kit](https://www.thingiverse.com/thing:4052455/files)     |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
+| [spitfire_kit](https://www.thingiverse.com/thing:4562591/files)   |        1 | [PrimaValue PLA (Dark Grey)] |       |       |        |       |        :x:         |
 
 # Ikea Skådis Wall Spacers
 
