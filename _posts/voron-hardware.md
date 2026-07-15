@@ -26,6 +26,8 @@ keywords:
 
 # Afterburner Toolhead PCB (rev3.2)
 
+![Bare Afterburner Toolhead PCB (rev3.2) PCB](/assets/blog/voron-hardware/afterburner-toolhead-pcb-rev-3.2.jpg)
+
 I purchased the PCB only, I sourced the rest of the parts for the kit myself.
 
 Kit contains the `Quantity` needed for building 1 unit.
@@ -63,6 +65,8 @@ Kit contains the `Quantity` needed for building 1 unit.
 | 0805 Thermistor      |        1 |          | CT    |
 
 # Afterburner Toolhead PCB (ERCF)
+
+![Bare Afterburner Toolhead PCB (ERCF) PCB](/assets/blog/voron-hardware/afterburner-toolhead-pcb-ercf.jpg)
 
 I purchased the PCB only, I sourced the rest of the parts for the kit myself.
 
@@ -103,6 +107,8 @@ Kit contains the `Quantity` needed for building 1 unit.
 | 0805 Thermistor      |        1 |          | CT    |
 
 # ERCF Easy BRD
+
+![Bare ERCF Easy BRD PCB](/assets/blog/voron-hardware/ercf-easy-brd.jpg)
 
 | Item                                                      | Case               | Flashed with                                          | Notes                                    |
 | --------------------------------------------------------- | ------------------ | ----------------------------------------------------- | ---------------------------------------- |
@@ -227,6 +233,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 # Microswitch Endstop
 
+![Bare Microswitch Endstop PCB](/assets/blog/voron-hardware/microswitch-endstop.jpg)
+
 ## PCB
 
 | Item                    | Quantity | Received | Notes |
@@ -246,6 +254,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 | Omron D2F-01L Micro Switch |        2 |       30 |
 
 # Microswitch Z Endstop
+
+![Bare Microswitch Z Endstop PCB](/assets/blog/voron-hardware/microswitch-z-endstop.jpg)
 
 ## PCB
 
@@ -267,6 +277,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 # Nano Display
 
+![Bare Nano Display PCB](/assets/blog/voron-hardware/nano-display.jpg)
+
 ## PCB
 
 | Item             | Quantity | Received | Notes |
@@ -287,6 +299,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 | Arduino Nano |        1 |        1 |
 
 # SKR Mini E3 V1.2/2.0 Screen Adaptor
+
+![Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB](/assets/blog/voron-hardware/skr-mini-e3-v1.2-2.0-screen-adaptor.jpg)
 
 ## PCB
 

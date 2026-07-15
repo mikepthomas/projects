@@ -1497,6 +1497,46 @@
           "voron-hardware-hero.jpg": {
             "alt": "Board designed to add additional functionality to a Printer running Klipper firmware",
             "title": "Voron Hardware Hero"
+          },
+          "afterburner-toolhead-pcb-rev-3.2.jpg": {
+            "title": "Afterburner Toolhead PCB (rev3.2)",
+            "caption": "",
+            "alt": "Bare Afterburner Toolhead PCB (rev3.2) PCB"
+          },
+          "afterburner-toolhead-pcb-ercf.jpg": {
+            "title": "Afterburner Toolhead PCB (ERCF)",
+            "caption": "",
+            "alt": "Bare Afterburner Toolhead PCB (ERCF) PCB"
+          },
+          "ercf-easy-brd.jpg": {
+            "title": "ERCF Easy BRD",
+            "caption": "",
+            "alt": "Bare ERCF Easy BRD PCB"
+          },
+          "microswitch-endstop.jpg": {
+            "title": "Microswitch Endstop",
+            "caption": "",
+            "alt": "Bare Microswitch Endstop PCB"
+          },
+          "microswitch-z-endstop.jpg": {
+            "title": "Microswitch Z Endstop",
+            "caption": "",
+            "alt": "Bare Microswitch Z Endstop PCB"
+          },
+          "nano-display.jpg": {
+            "title": "Nano Display",
+            "caption": "",
+            "alt": "Bare Nano Display PCB"
+          },
+          "pt100-stick.jpg": {
+            "title": "PT100 Stick",
+            "caption": "",
+            "alt": "Assembled LDO PT100 Stick"
+          },
+          "skr-mini-e3-v1.2-2.0-screen-adaptor.jpg": {
+            "title": "SKR Mini E3 V1.2/2.0 Screen Adaptor",
+            "caption": "",
+            "alt": "Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB"
           }
         },
         "voron-m4": {
