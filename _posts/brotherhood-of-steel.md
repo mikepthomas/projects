@@ -15,6 +15,7 @@ categories:
   - Wargaming
 keywords:
   - Brotherhood of Steel
+lastmod: 2026-07-16T10:48:16.643Z
 ---
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
@@ -339,9 +340,33 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 | [WHEELS_LEFT][Pre-war APC]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 | [WHEELS_RIGHT][Pre-war APC] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
 
+## Tank
+
+![Tank Dimensions](https://modiphius.net/cdn/shop/products/FO_Tank_Dimensions_1280x.jpg)
+
+> Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                             | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Cannon][Tank]                   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chassis_HeatSinkExposed][Tank]  |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Chassis_HeatSinkShielded][Tank] |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Front_Track_Guard_L][Tank]      |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Front_Track_Guard_R][Tank]      |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Rail_1][Tank]                   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Rail_2][Tank]                   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Track_Guard_L][Tank]       |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Rear_Track_Guard_R][Tank]       |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Track_Back_Left][Tank]          |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Track_Back_Right][Tank]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Track_Front_Left][Tank]         |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Track_Front_Right][Tank]        |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+| [Turret][Tank]                   |        1 | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   |
+
 [Filament]: #
 [Tinmorry PLA (Grey)]: printer-filament#tinmorry-pla-grey
 [Related Links]: #
 [BoS Encampment]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
+[Tank]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-tank-stl

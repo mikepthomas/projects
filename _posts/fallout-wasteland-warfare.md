@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-07-10T11:23:32.890Z
+lastmod: 2026-07-16T10:45:31.788Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -747,13 +747,13 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                      | Purchased | Digital                        |     Downloaded     | Released       | Notes |
-| ------------------------- | :-------: | ------------------------------ | :----------------: | -------------- | ----- |
-| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird]  | :heavy_check_mark: | April 2020     |
-| Pre-war APC               |           | [Buy :zip:][Pre-war APC]       | :heavy_check_mark: | November 2020  |
-| [Settlement Work Benches] |    :x:    |                                |                    | August 2020    |
-| Streets of Boston         |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2020    |
-| Tank                      |           | [Buy :zip:][Tank]              |        :x:         | September 2020 |
+| Item                      | Purchased | Digital                        |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | ------------------------------ | :----------------: | ------------- | ----- |
+| Parked Vertibird          |           | [Buy :zip:][Parked Vertibird]  | :heavy_check_mark: | April 2020    |
+| Pre-war APC               |           | [Buy :zip:][Pre-war APC]       | :heavy_check_mark: | November 2020 |
+| [Settlement Work Benches] |    :x:    |                                |                    | August 2020   |
+| Streets of Boston         |           | [Buy :zip:][Streets of Boston] | :heavy_check_mark: | August 2020   |
+| Tank                      |           | [Buy :zip:][Tank]              | :heavy_check_mark: | March 2021    |
 
 [Parked Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-parked-vertibird-stl
 [Pre-war APC]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-pre-war-apc
@@ -1235,7 +1235,7 @@ Wave 6 introduces new factions, the `Children of Atom`, `Gunners` and the `Railr
 
 | Item                                |     Purchased      | Digital                                            |     Downloaded     | Released     | Notes                                        |
 | ----------------------------------- | :----------------: | -------------------------------------------------- | :----------------: | ------------ | -------------------------------------------- |
-| [Astoundingly Awesome Tales Vol. 1] | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales Vol. 1 PDF] |        :x:         | [May 2022]   |
+| [Astoundingly Awesome Tales Vol. 1] | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales Vol. 1 PDF] | :heavy_check_mark: | [May 2022]   |
 | Into the Vault                      |                    | [Buy :pdf:][Into The Vault]                        | :heavy_check_mark: | [July 2022]  | Rules to create the [Vault-Tec Vault](vault) |
 | [The Commonwealth Rules Expansion]  | :heavy_check_mark: |                                                    |                    | [April 2022] |
 
@@ -1515,7 +1515,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 | Item                              |     Purchased      | Digital                                        |     Downloaded     | Released       | Notes |
 | --------------------------------- | :----------------: | ---------------------------------------------- | :----------------: | -------------- | ----- |
-| Astoundingly Awesome Tales Vol. 2 |                    | [Buy :pdf:][Astoundingly Awesome Tales Vol. 2] |        :x:         | June 2024      |
+| Astoundingly Awesome Tales Vol. 2 |                    | [Buy :pdf:][Astoundingly Awesome Tales Vol. 2] | :heavy_check_mark: | June 2024      |
 | [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023] |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
