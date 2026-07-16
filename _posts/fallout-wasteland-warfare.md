@@ -1513,12 +1513,18 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 ### Rules
 
-| Item                              |     Purchased      | Digital                                        |     Downloaded     | Released       | Notes |
-| --------------------------------- | :----------------: | ---------------------------------------------- | :----------------: | -------------- | ----- |
-| Astoundingly Awesome Tales Vol. 2 |                    | [Buy :pdf:][Astoundingly Awesome Tales Vol. 2] | :heavy_check_mark: | June 2024      |
-| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023] |
+| Item                              |     Purchased      | Digital                                        |     Downloaded     | Released        | Notes |
+| --------------------------------- | :----------------: | ---------------------------------------------- | :----------------: | --------------- | ----- |
+| Astoundingly Awesome Tales Vol. 2 |                    | [Buy :pdf:][Astoundingly Awesome Tales Vol. 2] | :heavy_check_mark: | June 2024       |
+| ┝ Error! System Malfunction       |                    | [Free :pdf:][Error System Malfunction]         | :heavy_check_mark: | September 2023  |
+| ┝ Oh, a Hunting We Shall Go!      |                    | [Free :pdf:][Hunting We Shall Go]              | :heavy_check_mark: | October 2023    |
+| ┕ Cappy in a Haystack             |                    | [Free :pdf:][Cappy in a Haystack]              | :heavy_check_mark: | [November 2023] |
+| [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023]  |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
+[Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
+[Hunting We Shall Go]: https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf
+[Cappy in a Haystack]: https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf
 [Nuka-World Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-expansion
 [Nuka-World Rules Expansion PDF]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-world-rules-pdf
 
@@ -1549,18 +1555,6 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Cola-Cars Arena]: https://modiphius.net/products/fallout-terrain-print-at-home-cola-cars-arena
 [Galactic Zone]: https://modiphius.net/products/fallout-terrain-print-at-home-galactic-zone-space-adventure
 [Kiddie Kingdom]: https://modiphius.net/products/fallout-wasteland-warfare-print-at-home-kiddie-kingdom
-
-### Scenarios
-
-| Item                       | Purchased | Digital                                |     Downloaded     | Released        | Notes |
-| -------------------------- | :-------: | -------------------------------------- | :----------------: | --------------- | ----- |
-| Error! System Malfunction  |           | [Free :pdf:][Error System Malfunction] | :heavy_check_mark: | September 2023  |
-| Oh, a Hunting We Shall Go! |           | [Free :pdf:][Hunting We Shall Go]      | :heavy_check_mark: | October 2023    |
-| Cappy in a Haystack        |           | [Free :pdf:][Cappy in a Haystack]      | :heavy_check_mark: | [November 2023] |
-
-[Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
-[Hunting We Shall Go]: https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf
-[Cappy in a Haystack]: https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf
 
 ## Wave 10 - The Wilds of Appalachia Expansion
 
