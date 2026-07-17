@@ -356,8 +356,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ## PCB
 
-| Item         | Quantity | Received | Notes |
-| ------------ | -------: | -------: | ----- |
+| Item                        | Quantity | Received | Notes |
+| --------------------------- | -------: | -------: | ----- |
 | [V0 Umbilical Frame] PCB    |        1 |        9 |
 | [V0 Umbilical Toolhead] PCB |        1 |        8 |
 
