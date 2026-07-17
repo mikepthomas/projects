@@ -1537,6 +1537,26 @@
             "title": "SKR Mini E3 V1.2/2.0 Screen Adaptor",
             "caption": "",
             "alt": "Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB"
+          },
+          "ercf-easy-brd-assembled.jpg": {
+            "title": "ERCF Easy BRD Assembled",
+            "caption": "",
+            "alt": "Fully Assembled ERCF Easy BRD 1.1"
+          },
+          "v0-umbilical.jpeg": {
+            "title": "V0 Umbilical",
+            "caption": "",
+            "alt": "Bare V0 Umbilical PCBs"
+          },
+          "v0-umbilical-assembled.jpg": {
+            "title": "V0 Umbilical Assembled",
+            "caption": "",
+            "alt": "Fully Assembled V0 Umbilical"
+          },
+          "carabiner.jpg": {
+            "title": "Carabiner",
+            "caption": "",
+            "alt": "Bare Carabiner PCB"
           }
         },
         "voron-m4": {
