@@ -1699,7 +1699,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | [Dogmeat Painter's Bust]     |        :x:         |         |            | [June 2026]     |
 | [Nate Painter's Bust]        |        :x:         |         |            | [June 2026]     |
 | Nora Painter's Bust          |        :x:         |         |            | [June 2026]     |
-| [NCR Ranger Painter's Bust]  |        :x:         |         |            | [December 2025] |
+| [NCR Ranger Painter's Bust]  | :heavy_check_mark: |         |            | [December 2025] |
 | Paladin Danse Painter's Bust |        :x:         |         |            | [June 2026]     |
 | [T-60 Painter's Bust]        | :heavy_check_mark: |         |            | [December 2025] |
 
