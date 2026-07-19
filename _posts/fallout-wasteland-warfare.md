@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-07-16T10:45:31.788Z
+lastmod: 2026-07-19T18:40:30.293Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -242,11 +242,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 [The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the main `Brotherhood of Steel` sets in addition to the [Two Player Starter Set].
 
-| Item                                                        | Purchased | Digital | Downloaded | Released   | Notes                                                  |
-| ----------------------------------------------------------- | :-------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
-| [Brotherhood of Steel: Core Box]                            |    :x:    |         |            | April 2019 | Updated version in the [Battle for Boston Starter Set] |
-| [Brotherhood of Steel: Frontline Knights]                   |    :x:    |         |            | April 2019 |
-| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |    :x:    |         |            | April 2019 |
+| Item                                                        |     Purchased      | Digital | Downloaded | Released   | Notes                                                  |
+| ----------------------------------------------------------- | :----------------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
+| [Brotherhood of Steel: Core Box]                            | :heavy_check_mark: |         |            | April 2019 | Updated version in the [Battle for Boston Starter Set] |
+| [Brotherhood of Steel: Frontline Knights]                   |        :x:         |         |            | April 2019 |
+| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |        :x:         |         |            | April 2019 |
 
 [Brotherhood of Steel: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
 [Brotherhood of Steel: Frontline Knights]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-frontline-knights
@@ -452,12 +452,12 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 #### Creatures
 
-| Item                               | Purchased | Digital | Downloaded | Released      | Notes                                                     |
-| ---------------------------------- | :-------: | ------- | :--------: | ------------- | --------------------------------------------------------- |
-| [Creatures: Ghouls]                |    :x:    |         |            | November 2019 |
-| [Creatures: Mole Rats]             |    :x:    |         |            | November 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
-| [Creatures: Putrid & Glowing Ones] |    :x:    |         |            | November 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
-| [Creatures: Wasteland Vermin]      |    :x:    |         |            | November 2019 |
+| Item                               |     Purchased      | Digital | Downloaded | Released      | Notes                                                     |
+| ---------------------------------- | :----------------: | ------- | :--------: | ------------- | --------------------------------------------------------- |
+| [Creatures: Ghouls]                | :heavy_check_mark: |         |            | November 2019 |
+| [Creatures: Mole Rats]             |        :x:         |         |            | November 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
+| [Creatures: Putrid & Glowing Ones] |        :x:         |         |            | November 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
+| [Creatures: Wasteland Vermin]      | :heavy_check_mark: |         |            | November 2019 |
 
 [Creatures: Ghouls]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-ghouls
 [Creatures: Mole Rats]: https://web.archive.org/web/20241014234127/https://modiphius.net/products/fallout-wasteland-warfare-creatures-mole-rats
@@ -871,7 +871,7 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 | [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021][YT April 2021] |
 | [Super Mutant: Aviator]               |        :x:         |                         |                    | October 2020                |
 | [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020]             | Promo |
-| [Unaligned: T-45 Power Armour]        |        :x:         |                         |                    | [December 2020]             |
+| [Unaligned: T-45 Power Armour]        | :heavy_check_mark: |                         |                    | [December 2020]             |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
 [Robobrain Cards :pdf:]: https://cdn.shopify.com/s/files/1/0225/4035/files/robobrain_card_web-download.pdf
@@ -1361,12 +1361,12 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 
 #### Creatures
 
-| Item                      | Purchased | Digital | Downloaded | Released        | Notes |
-| ------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
-| [Creatures: Bloatflies]   |    :x:    |         |            | [January 2023]  |
-| [Creatures: Blood Bugs]   |    :x:    |         |            | [November 2022] |
-| [Creatures: Radstag Herd] |    :x:    |         |            | [January 2023]  |
-| [Creatures: Stingwings]   |    :x:    |         |            | [November 2022] |
+| Item                      |     Purchased      | Digital | Downloaded | Released        | Notes |
+| ------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Creatures: Bloatflies]   |        :x:         |         |            | [January 2023]  |
+| [Creatures: Blood Bugs]   | :heavy_check_mark: |         |            | [November 2022] |
+| [Creatures: Radstag Herd] |        :x:         |         |            | [January 2023]  |
+| [Creatures: Stingwings]   |        :x:         |         |            | [November 2022] |
 
 [Creatures: Bloatflies]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-bloatflies
 [Creatures: Blood Bugs]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-blood-bugs
@@ -1448,15 +1448,15 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 
 #### Brotherhood of Steel
 
-| Item                                      | Purchased | Digital | Downloaded | Released     | Notes |
-| ----------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [Brotherhood of Steel: Citadel Command]   |    :x:    |         |            | [May 2023]   |
-| [Brotherhood of Steel: Combat Patrol]     |    :x:    |         |            | [April 2023] |
-| [Brotherhood of Steel: Heavy Armor (T45)] |    :x:    |         |            | [April 2023] |
+| Item                                     | Purchased | Digital | Downloaded | Released     | Notes |
+| ---------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Brotherhood of Steel: Citadel Command]  |    :x:    |         |            | [May 2023]   |
+| [Brotherhood of Steel: Combat Patrol]    |    :x:    |         |            | [April 2023] |
+| [Brotherhood of Steel: T-45 Heavy Armor] |    :x:    |         |            | [April 2023] |
 
 [Brotherhood of Steel: Citadel Command]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-citadel-command
 [Brotherhood of Steel: Combat Patrol]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-combat-patrol
-[Brotherhood of Steel: Heavy Armor (T45)]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
+[Brotherhood of Steel: T-45 Heavy Armor]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-heavy-armor-t45
 
 #### Enclave
 
@@ -1473,7 +1473,7 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 | Item                                  |     Purchased      | Digital | Downloaded | Released     | Notes                                  |
 | ------------------------------------- | :----------------: | ------- | :--------: | ------------ | -------------------------------------- |
 | [Survivors: Capital Companions]       |        :x:         |         |            | [July 2023]  |
-| [Survivors: Reilly's Rangers]         |        :x:         |         |            | [June 2023]  | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Survivors: Reilly's Rangers]         | :heavy_check_mark: |         |            | [June 2023]  | [Roleplaying Game NPC Pack](#npc-pack) |
 | [Survivors: Rosa Meitner]             | :heavy_check_mark: |         |            | [April 2023] | Promo                                  |
 | [Survivors: Washington Personalities] |        :x:         |         |            | [July 2023]  |
 
