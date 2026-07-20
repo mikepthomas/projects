@@ -17,6 +17,8 @@ related:
   - /projects/red-rocket
   - /projects/sanctuary-hills
   - /projects/vault
+external:
+  - https://www.falloutwastelandwarfare.wiki
 draft: false
 tags:
   - Fallout Wasteland Warfare
