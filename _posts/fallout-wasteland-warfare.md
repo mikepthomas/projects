@@ -1534,17 +1534,27 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 | Item                          |     Purchased      | Digital | Downloaded | Released                            | Notes |
 | ----------------------------- | :----------------: | ------- | :--------: | ----------------------------------- | ----- |
-| [Raiders: Disciples Leaders]  |        :x:         |         |            | [October 2023]                      |
-| [Raiders: Operators Bosses]   |        :x:         |         |            | [October 2023]                      |
-| [Raiders: The Pack Top Dogs]  |        :x:         |         |            | [October 2023]                      |
 | [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            | [September 2023][YT September 2023] | Promo |
 | [Unaligned: X-01 Power Armor] |        :x:         |         |            | [May 2024][YT May 2024]             |
 
-[Raiders: Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
-[Raiders: Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
-[Raiders: The Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
 [Robots: N.I.R.A.]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo
 [Unaligned: X-01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
+
+#### Raiders
+
+| Item                          | Purchased | Digital | Downloaded | Released        | Notes |
+| ----------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
+| [Raiders: Disciples Leaders]  |    :x:    |         |            | [October 2023]  |
+| [Raiders: Operators Bosses]   |    :x:    |         |            | [October 2023]  |
+| [Raiders: Pack Top Dogs]      |    :x:    |         |            | [October 2023]  |
+| [Raiders: Park Overlords]     |    :x:    |         |            | [November 2023] |
+| [Raiders: Park Personalities] |    :x:    |         |            | [November 2023] |
+
+[Raiders: Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
+[Raiders: Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
+[Raiders: Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
+[Raiders: Park Overlords]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-overlords
+[Raiders: Park Personalities]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-park-personalities
 
 ### Scatter
 
