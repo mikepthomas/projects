@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-07-19T18:40:30.293Z
+lastmod: 2026-07-22T12:54:43.248Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2070,6 +2070,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 4] | :heavy_check_mark: | [February 2024][YT February 2024] |
 | [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                           |                    |                                   | Only available as bonus in physical book |
 | Issue No. 6 - Into the Abyss                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                       |
+| Issue No. 7 - One Last Visit                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 7] |        :x:         | July 2026                         |
 
 [Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf
@@ -2077,6 +2078,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Astoundingly Awesome Tales 3]: https://modiphius.net/products/fallout-the-roleplaying-game-showdown-in-skull-canyon-pdf
 [Astoundingly Awesome Tales 4]: https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf
 [Astoundingly Awesome Tales 6]: https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf
+[Astoundingly Awesome Tales 7]: https://modiphius.net/products/fallout-the-rpg-adventure-7-one-last-visit-pdf
 
 ### Character Sheets
 
