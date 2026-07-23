@@ -338,8 +338,8 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 I purchased this already assembled.
 
-| Item               | Quantity | Received | Notes |
-| ------------------ | -------: | -------: | ----- |
+| Item              | Quantity | Received | Notes |
+| ----------------- | -------: | -------: | ----- |
 | [LDO PT100 Stick] |        1 |        4 |
 
 [LDO PT100 Stick]: https://www.onetwo3d.co.uk/product/ldo-pt100-stick
