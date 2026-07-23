@@ -332,6 +332,18 @@ The reference numbers in the notes field refer to the parts required marked on t
 | ------------ | -------: | -------: | ----- |
 | Arduino Nano |        1 |        1 |
 
+# PT100 Stick
+
+![Assembled LDO PT100 Stick](/assets/blog/voron-hardware/pt100-stick.jpg)
+
+I purchased this already assembled.
+
+| Item               | Quantity | Received | Notes |
+| ------------------ | -------: | -------: | ----- |
+| [LDO PT100 Stick] |        1 |        4 |
+
+[LDO PT100 Stick]: https://www.onetwo3d.co.uk/product/ldo-pt100-stick
+
 # SKR Mini E3 V1.2/2.0 Screen Adaptor
 
 ![Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB](/assets/blog/voron-hardware/skr-mini-e3-v1.2-2.0-screen-adaptor.jpg)
