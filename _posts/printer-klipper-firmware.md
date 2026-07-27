@@ -2,7 +2,7 @@
 title: Klipper Firmware
 heading: Configuring the software to run a 3D Printer
 date: 2025-08-29T22:45:11.067Z
-lastmod: 2025-09-04T21:19:32.286Z
+lastmod: 2026-07-27T17:32:25.971Z
 author: Mike Thomas
 description: Configuring MainsailOS with all the software to run Klipper on my 3D Printer.
 preview: /assets/blog/printer-klipper-firmware/klipper-firmware-hero.jpg
@@ -771,6 +771,66 @@ make KCONFIG_CONFIG=config.mmb_can_1.0_klipper -j4
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
+
+## Octopus v1.1
+
+### Klipper Firmware Configuration
+
+#### USB
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.octopus_1.1_usb
+```
+
+Set the following configuration:
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32F446)  --->
+    Bootloader offset (32KiB bootloader)  --->
+    Clock Reference (12 MHz crystal)  --->
+    Communication interface (USB (on PA11/PA12))  --->
+    USB ids  --->
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config and Build:
+
+```sh
+cp config.octopus_1.1_usb ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.octopus_1.1_usb -j4
+```
+
+#### Flash
+
+For the initial flash we need to copy the file to a micro sd card.
+The easiest way to do this is to copy `out/klipper.bin` to the klipper config directory:
+
+```sh
+cp out/klipper.bin ../printer_data/config/
+```
+
+You can then:
+
+1. Download it to your local machine from the Mainsail web interface.
+2. Copy the `klipper.bin` file to the root of the Micro SD card.
+3. Rename `klipper.bin` to `firmware.bin`.
+4. Eject the Micro SD card from the PC.
+5. Disconnect the power to the MCU.
+6. Insert the Micro SD card into the slot on the MCU.
+7. Power on the MCU.
+8. Check the firmware has flashed, file on the SD card will change to `firmware.cur`, if succesful.
+
+> [!IMPORTANT]
+> If the file is not named `firmware.bin`, the firmware will not be updated.
 
 ## Picobilical
 

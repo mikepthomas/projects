@@ -97,6 +97,12 @@ export default function ColorKlipper(children: ReactNode) {
           <Menu>    Clock Reference (8 MHz crystal)  ---&gt;</Menu>
         </Background>
       );
+    case '    Clock Reference (12 MHz crystal)  --->\n':
+      return (
+        <Background>
+          <Menu>    Clock Reference (12 MHz crystal)  ---&gt;</Menu>
+        </Background>
+      );
     case '    Clock Reference (Internal clock)  --->\n':
       return (
         <Background>
