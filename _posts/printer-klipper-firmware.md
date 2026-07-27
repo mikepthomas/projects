@@ -319,7 +319,7 @@ sudo apt install bossa-cli
 sudo bossac -i -d -p /dev/ttyACM0 -e -w -v -R --offset=0x2000 out/klipper.bin
 ```
 
-## EBB SB2240 CAN V1.0
+## EBB SB2240 CAN v1.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md).
 
@@ -445,7 +445,7 @@ make KCONFIG_CONFIG=config.sb2240_klipper flash FLASH_DEVICE=/dev/serial/by-id/u
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-## EBB36 V1.0
+## EBB36 v1.0
 
 Get the most up to date info on the [official page](<https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.0%20(STM32F072)/EBB36%20CAN%20V1.0>).
 
@@ -511,7 +511,7 @@ make KCONFIG_CONFIG=config.ebb36_1.0_klipper flash FLASH_DEVICE=/dev/serial/by-i
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-## EBB42 V1.1
+## EBB42 v1.1
 
 Get the most up to date info on the [official page](<https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.1%20and%20V1.2%20(STM32G0B1)/EBB42%20CAN%20V1.1%20and%20V1.2>).
 
@@ -654,7 +654,7 @@ make KCONFIG_CONFIG=config.klipper_expander -j4
 make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
 ```
 
-## MMB CAN V1.0
+## MMB CAN v1.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/MMB).
 
@@ -862,7 +862,7 @@ make KCONFIG_CONFIG=config.picobilical -j4
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
 
-## PITB V1.0
+## PITB v1.0
 
 Get the most up to date info on the [official page](https://github.com/kageurufu/PITB/tree/main/firmware).
 
@@ -1163,7 +1163,7 @@ sudo service klipper stop
 sudo service klipper start
 ```
 
-## SKR Mini E3 V2.0
+## SKR Mini E3 v2.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware).
 
