@@ -33,11 +33,11 @@ The design also includes a pocket to house the [BTT EEPROM module](#eeprom) howe
 
 ![Using Fusion 360 to design a mount for the control board](/assets/blog/printer-hardware-upgrades/design.jpg)
 
-| Item                                                                                                                                                                                                      | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
-| [Anet A8 Electronics Case (No Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(No%20Access%20Holes).stl>)     |        1 | [PrimaValue PLA (Dark Grey)] |      | 25.74m | 76.77g | £1.52 | :heavy_check_mark: |
-| [Anet A8 Electronics Case (With Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(With%20Access%20Holes).stl>) |        1 | [PrimaValue PLA (Dark Grey)] |      |        |        |       |        :x:         |
-| [Anet A8 Electronics Case Top](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20Top.stl)                                       |        1 | [PrimaValue PLA (Dark Grey)] |      | 24.22m | 72.24g | £1.43 | :heavy_check_mark: |
+| Item                                                                                                                                                                                                      | Quantity | Material                     |   Time |   Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | -----: | -----: | -----: | ----: | :----------------: | ----- |
+| [Anet A8 Electronics Case (No Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(No%20Access%20Holes).stl>)     |        1 | [PrimaValue PLA (Dark Grey)] | 14h22m | 25.77m | 76.85g | £1.52 | :heavy_check_mark: |
+| [Anet A8 Electronics Case (With Access Holes)](<https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20(With%20Access%20Holes).stl>) |        1 | [PrimaValue PLA (Dark Grey)] |        |        |        |       |        :x:         |
+| [Anet A8 Electronics Case Top](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Electronics%20Case/Anet%20A8%20Electronics%20Case%20Top.stl)                                       |        1 | [PrimaValue PLA (Dark Grey)] | 13h30m | 24.25m | 72.33g | £1.43 | :heavy_check_mark: |
 
 > [!NOTE]
 > Adapted from [Anet A8 Electronics Case](printer-printed-upgrades#anet-a8-electronics-case) by `FqFKrazz`
@@ -188,10 +188,10 @@ In `Marlin/Configuration_adv.h` Update:
 
 ## TFT24 Case
 
-| Item                                                                  | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes                                                                   |
-| --------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------- |
-| [TFT24_AnetA8_Base](https://www.thingiverse.com/thing:4651132/files)  |        1 | [PrimaValue PLA (Dark Grey)] |      | 16.47m | 49.11g | £0.97 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
-| [TFT24_AnetA8_Cover](https://www.thingiverse.com/thing:4651132/files) |        1 | [PrimaValue PLA (Dark Grey)] |      |  3.99m | 11.90g | £0.24 | :heavy_check_mark: | This is a mod by [joeleonardo](https://www.thingiverse.com/joeleonardo) |
+| Item                                                                  | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes                          |
+| --------------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ------------------------------ |
+| [TFT24_AnetA8_Base](https://www.thingiverse.com/thing:4651132/files)  |        1 | [PrimaValue PLA (Dark Grey)] | 4h44m | 16.47m | 49.11g | £0.97 | :heavy_check_mark: | This is a mod by [joeleonardo] |
+| [TFT24_AnetA8_Cover](https://www.thingiverse.com/thing:4651132/files) |        1 | [PrimaValue PLA (Dark Grey)] | 1h13m |  4.00m | 11.92g | £0.24 | :heavy_check_mark: | This is a mod by [joeleonardo] |
 
 I used this design to locate the new display in the same place as the original, to cover up the holes at the top of the frame. I may replace this at a later date with a blanking plate and relocate the screen somewhere else as this one blocks the gantry at about a height of 200mm and therefore I have lost approximately 40mm of Z travel.
 
@@ -354,10 +354,10 @@ In `Marlin/Configuration_adv.h` Enable:
 
 [BigTreeTech Smart Filament Sensor V1.0](https://raw.githubusercontent.com/bigtreetech/smart-filament-detection-module/master/V1.0/manual/smart%20filament%20sensor%20module%20manual201125.pdf)
 
-| Item                                                                                            | Quantity | Material                     | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                     |
-| ----------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------------------------------------------------------- |
-| [Mount_BTT_smart_filament_sensor_V1](https://www.thingiverse.com/thing:4640216/files)           |        1 | [PrimaValue PLA (Dark Grey)] |      | 4.41m | 13.14g | £0.26 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
-| [Support_Smart_Filament_Sensor_without_arm_v1](https://www.thingiverse.com/thing:4640216/files) |        1 | [PrimaValue PLA (Dark Grey)] |      | 3.75m | 11.19g | £0.22 | :heavy_check_mark: | This is a mod by [StonehengeFR](https://www.thingiverse.com/StonehengeFR) |
+| Item                                                                                              | Quantity | Material                     |  Time |  Size | Weight |  Cost |      Printed       | Notes                           |
+| ------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ----: | ----: | -----: | ----: | :----------------: | ------------------------------- |
+| [Mount_BTT_smart_filament_sensor_V1](https://www.thingiverse.com/thing:4640216/files)             |        1 | [PrimaValue PLA (Dark Grey)] | 1h20m | 4.41m | 13.14g | £0.26 | :heavy_check_mark: | This is a mod by [StonehengeFR] |
+| ~[Support_Smart_Filament_Sensor_without_arm_v1](https://www.thingiverse.com/thing:4640216/files)~ |      ~1~ | [PrimaValue PLA (Dark Grey)] | 1h09m | 3.75m | 11.19g | £0.22 | :heavy_check_mark: | This is a mod by [StonehengeFR] |
 
 I used the original design with the arms as the updated design without the arms was too loose and would not hold the sensor in an upright position.
 
@@ -377,9 +377,9 @@ In `Marlin/Configuration.h` Update:
 
 [BigTreeTech Relay V1.2](https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-Relay-V1.2/master/BIGTREETECH%20Relay%20V1.2/BIGTREETECH%20Relay%20V1.2/Relay%20V1.2-Operating%20Instruction.pdf)
 
-| Item                                                                                                                                          | Quantity | Material                     | Time |   Size | Weight |  Cost |      Printed       | Notes |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ---: | -----: | -----: | ----: | :----------------: | ----- |
-| [Anet A8 Relay Mount](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl) |        1 | [PrimaValue PLA (Dark Grey)] |      | 23.75m | 70.84g | £1.40 | :heavy_check_mark: |
+| Item                                                                                                                                          | Quantity | Material                     |  Time |   Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ---------------------------- | ----: | -----: | -----: | ----: | :----------------: | ----- |
+| [Anet A8 Relay Mount](https://github.com/mikepthomas/3dprinting/blob/main/Designs/Anet%20A8%20Relay%20Mount%20/Anet%20A8%20Relay%20Mount.stl) |        1 | [PrimaValue PLA (Dark Grey)] | 6h46m | 22.84m | 68.13g | £1.35 | :heavy_check_mark: |
 
 > [!NOTE]
 > Adapted from [PSU Cover Remix](printer-printed-upgrades#psu-cover-remix) by `MakerDan55`
@@ -424,7 +424,19 @@ To make the movement of the printer smoother I decided to replace the stock meta
 
 ![Neopixel LED Strip](/assets/blog/printer-hardware-upgrades/led-strip.jpg)
 
-I [followed this guide](https://www.makenprint.uk/3d-printing/3d-printing-guides/skr-v1-4-adding-neopixel-leds/) to add 20 Neopixel LED lights to the bottom of the X gantry. This also required the DCDC Power adapter to allow higher power draw from the main board.
+I [followed this guide](https://www.makenprint.uk/3d-printing/3d-printing-guides/skr-v1-4-adding-neopixel-leds) to add 20 Neopixel LED lights to the bottom of the X gantry. This also required the DCDC Power adapter to allow higher power draw from the main board.
+
+| Item                                                                  | Quantity | Material                |  Time |  Size | Weight |  Cost |      Printed       | Notes                        |
+| --------------------------------------------------------------------- | -------: | ----------------------- | ----: | ----: | -----: | ----: | :----------------: | ---------------------------- |
+| [led_strip_holder_1](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] |   55m | 3.07m |  9.15g | £0.18 | :heavy_check_mark: | This is a mod by [chzdanish] |
+| [led_strip_holder_2](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] | 1h01m | 3.44m | 10.26g | £0.20 | :heavy_check_mark: | This is a mod by [chzdanish] |
+| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       |        1 | [Tinmorry PETG (White)] |       |       |        |       |        :x:         | This is a mod by [chzdanish] |
+| [left_bracket_2](https://www.thingiverse.com/thing:2206024/files)     |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish] |
+| [right_bracket](https://www.thingiverse.com/thing:2206024/files)      |    ~1~ 2 | [Tinmorry PETG (White)] |   43m | 1.64m |  4.88g | £0.10 | :heavy_check_mark: | This is a mod by [chzdanish] |
+| [right_bracket_2](https://www.thingiverse.com/thing:2206024/files)    |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish] |
+
+> [!NOTE]
+> I did not print the `left_bracket` as it has the arm that is not required, therefore I printed a mirrored version of the `right_bracket` to replace it.
 
 ## Firmware
 
@@ -443,6 +455,17 @@ In `Marlin/Configuration.h` Update:
 ![Optical Endstop installed on X Axis](/assets/blog/printer-hardware-upgrades/optical-endstop.jpg)
 
 The stock clicky switches are only rated to a certain number of presses before they fail. I wanted to try out optical endstops to replace the clicky switches to stop any extra stresses of the gantry constantly hitting the frame.
+
+| Item                                                            | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                               |
+| --------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------------------------------------------------------------- |
+| ~[OpticCover](https://www.thingiverse.com/thing:2873216/files)~ |      ~2~ | [Tinmorry PETG (White)] |  33m | 1.15m |  3.42g | £0.07 | :heavy_check_mark: | This is a mod by [dhench], I removed these as they collided with the frame at max Z |
+| [OptiXA](https://www.thingiverse.com/thing:2873216/files)       |        1 | [Tinmorry PETG (White)] |  48m | 2.01m |  5.98g | £0.12 | :heavy_check_mark: | This is a mod by [dhench]                                                           |
+| [OptiXB](https://www.thingiverse.com/thing:2873216/files)       |        1 | [Tinmorry PETG (White)] |  30m | 1.51m |  4.51g | £0.09 | :heavy_check_mark: | This is a mod by [dhench]                                                           |
+| [OptiYA](https://www.thingiverse.com/thing:2873216/files)       |        1 | [Tinmorry PETG (White)] |  36m | 1.25m |  3.73g | £0.07 | :heavy_check_mark: | This is a mod by [dhench]                                                           |
+| [OptiYB](https://www.thingiverse.com/thing:2873216/files)       |        1 | [Tinmorry PETG (White)] |  25m | 1.16m |  3.46g | £0.07 | :heavy_check_mark: | This is a mod by [dhench]                                                           |
+
+> [!NOTE]
+> I used some black paint on the end of `OptiXA` and `OptiYA` to stop light from bleeding through the white plastic.
 
 # 0.9 Degree Motors
 
@@ -508,3 +531,9 @@ I have purchased parts to install the [ANET A8 E3DV6 BMG Direct Drive X Carriage
 [Filament]: #
 [PrimaValue ABS (Dark Grey)]: printer-filament#primavalue-abs-dark-grey
 [PrimaValue PLA (Dark Grey)]: printer-filament#primavalue-pla-dark-grey
+[Tinmorry PETG (White)]: printer-filament#tinmorry-petg-white
+[Thingyverse]: #
+[chzdanish]: https://www.thingiverse.com/chzdanish
+[dhench]: https://www.thingiverse.com/dhench
+[joeleonardo]: https://www.thingiverse.com/joeleonardo
+[StonehengeFR]: https://www.thingiverse.com/StonehengeFR

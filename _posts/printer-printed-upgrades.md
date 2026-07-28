@@ -196,33 +196,6 @@ It is for the original Raspberry Pi B, which eventually became too slow to run t
 > [!NOTE]
 > The parts needed for the camera are the same as the [Raspberry Pi 1 Version](#rear-anet-a8-mount-for-raspberry-pi-b-with-camera).
 
-## Anet A8 LED strip mount under X axis
-
-| Item                                                                  | Quantity | Material                |  Time |  Size | Weight |  Cost |      Printed       | Notes                        |
-| --------------------------------------------------------------------- | -------: | ----------------------- | ----: | ----: | -----: | ----: | :----------------: | ---------------------------- |
-| [led_strip_holder_1](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] |   55m | 3.07m |  9.15g | £0.18 | :heavy_check_mark: | This is a mod by [chzdanish] |
-| [led_strip_holder_2](https://www.thingiverse.com/thing:2206024/files) |        1 | [Tinmorry PETG (White)] | 1h01m | 3.44m | 10.26g | £0.20 | :heavy_check_mark: | This is a mod by [chzdanish] |
-| [left_bracket](https://www.thingiverse.com/thing:2206024/files)       |        1 | [Tinmorry PETG (White)] |       |       |        |       |        :x:         | This is a mod by [chzdanish] |
-| [left_bracket_2](https://www.thingiverse.com/thing:2206024/files)     |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish] |
-| [right_bracket](https://www.thingiverse.com/thing:2206024/files)      |    ~1~ 2 | [Tinmorry PETG (White)] |   43m | 1.64m |  4.88g | £0.10 | :heavy_check_mark: | This is a mod by [chzdanish] |
-| [right_bracket_2](https://www.thingiverse.com/thing:2206024/files)    |        1 | [Tinmorry PETG (White)] |   18m | 0.50m |  1.48g | £0.03 | :heavy_check_mark: | This is a mod by [chzdanish] |
-
-> [!NOTE]
-> I did not print the `left_bracket` as it has the arm that is not required, therefore I printed a mirrored version of the `right_bracket` to replace it.
-
-## Anet A8 Optical Endstop Mounts and Targets
-
-| Item                                                          | Quantity | Material                | Time |  Size | Weight |  Cost |      Printed       | Notes                     |
-| ------------------------------------------------------------- | -------: | ----------------------- | ---: | ----: | -----: | ----: | :----------------: | ------------------------- |
-| [OpticCover](https://www.thingiverse.com/thing:2873216/files) |        2 | [Tinmorry PETG (White)] |  33m | 1.15m |  3.42g | £0.07 | :heavy_check_mark: | This is a mod by [dhench] |
-| [OptiXA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  48m | 2.01m |  5.98g | £0.12 | :heavy_check_mark: | This is a mod by [dhench] |
-| [OptiXB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  30m | 1.51m |  4.51g | £0.09 | :heavy_check_mark: | This is a mod by [dhench] |
-| [OptiYA](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  36m | 1.25m |  3.73g | £0.07 | :heavy_check_mark: | This is a mod by [dhench] |
-| [OptiYB](https://www.thingiverse.com/thing:2873216/files)     |        1 | [Tinmorry PETG (White)] |  25m | 1.16m |  3.46g | £0.07 | :heavy_check_mark: | This is a mod by [dhench] |
-
-> [!NOTE]
-> I used some black paint on the end of `OptiXA` and `OptiYA` to stop light from bleeding through the white plastic.
-
 # Frame Bracing
 
 ![Frame Bracing](/assets/blog/printer-printed-upgrades/frame-brace.jpg)
@@ -510,10 +483,8 @@ I have [remixed them to make them slightly thicker around the screw holes and mo
 [Bma801]: https://www.thingiverse.com/Bma801
 [bonezzz]: https://www.thingiverse.com/bonezzz
 [CH35C0]: https://www.thingiverse.com/CH35C0
-[chzdanish]: https://www.thingiverse.com/chzdanish
 [Cnsltyrdr]: https://www.thingiverse.com/Cnsltyrdr
 [David_en8]: https://www.thingiverse.com/David_en8
-[dhench]: https://www.thingiverse.com/dhench
 [DRPrinting3D]: https://www.thingiverse.com/DRPrinting3D
 [Electrico]: https://www.thingiverse.com/Electrico
 [FqFKrazz]: https://www.thingiverse.com/FqFKrazz
