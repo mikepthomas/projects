@@ -292,13 +292,13 @@ All primary parts will be printed in LDO ABS and accent parts in LDO ASA. The Vo
 | --------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----------------------------- |
 | [Bearing_Press_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Bearing_Press_Tool_x1.stl>) |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
 | [Frame_Jig](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Frame_Jig_x1.stl>)                   |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
-| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                       |        2 | [eSun ABS+ (Black)] |      | 0.64m |  1.64g | £0.03 | :heavy_check_mark: |
+| [MGN7_Rail_Guide](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/MGN7_Rail_Guide_x2.STL)                       |        2 | [eSun ABS+ (Black)] |  19m | 0.63m |  1.59g | £0.03 | :heavy_check_mark: |
 | ~[NeoPixel_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/NeoPixel_Soldering_Jig.stl)~   |      ~1~ | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a mod by [chirpy2605] |
 | [Pin_Jig_Bottom](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Bottom.stl>)            |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
 | [Pin_Jig_Top](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pin_Jig_Top.stl>)                  |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
 | [Pully_Tool](<https://github.com/Amekyras/tulip/blob/main/STLs/OEM%20TULIP/Tools%20(optional)/Pulley_Tool_x1.stl>)                |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a `TULIP V2.0` Part   |
 | [Sequin_Soldering_Jig](https://github.com/chirpy2605/voron/blob/main/V0/Dragon_Burner/STLs/v0.2/Sequin_Soldering_Jig.stl)         |        1 | [eSun ABS+ (Black)] |      |       |        |       |        :x:         | This is a mod by [chirpy2605] |
-| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                         |        1 | [eSun ABS+ (Black)] |      | 1.56m |  3.97g | £0.07 | :heavy_check_mark: |
+| [Swiss_Army_Jig](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/STLs/Tools/Swiss_Army_Jig_x1.STL)                         |        1 | [eSun ABS+ (Black)] |  35m | 1.47m |  3.75g | £0.06 | :heavy_check_mark: |
 
 ## Frame
 
