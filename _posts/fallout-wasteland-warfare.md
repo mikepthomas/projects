@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-07-25T10:34:45.583Z
+lastmod: 2026-07-31T18:59:08.686Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1685,6 +1685,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [April 2026]: https://modiphius.net/blogs/news/fallout-friday-april-24
 [May 2026]: https://modiphius.net/blogs/news/fallout-friday-may-22
 [June 2026]: https://modiphius.net/blogs/news/fallout-friday-june-26
+[July 2026]: https://modiphius.net/blogs/news/fallout-friday-july-31
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -2331,10 +2332,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle)
 
-| Item                                         |     Purchased      | Digital                                         |     Downloaded     | Pre-Release     | Notes                           |
+| Item                                         |     Purchased      | Digital                                         |     Downloaded     | Released        | Notes                           |
 | -------------------------------------------- | :----------------: | ----------------------------------------------- | :----------------: | --------------- | ------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference] | :heavy_check_mark: | [February 2026] |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                 |                    | [February 2026] | Promo                           |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference] | :heavy_check_mark: | [July 2026]     |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                 |                    | [July 2026]     | Promo                           |
 | ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]      | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]        |
 | ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                 |                    | [February 2026] | [Dice Set][Institute: Dice Set] |
 | [Minutemen: Core Box (Plastic)]              |        :x:         |                                                 |                    | [February 2026] | [Dice Set][Minutemen: Dice Set] |
