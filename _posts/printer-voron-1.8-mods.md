@@ -516,30 +516,6 @@ The coroplast on the bottom of the printer is not that well supported so this ju
 | M3x6 BHCS             |        4 |
 | M3x6 SHCS             |        4 |
 
-## Klipper Expander
-
-PCB to expand the ports that can be used for fans and neopixels. I already have RGB neopixel strips and will need an assitional neopixel header as the Stealthburner LEDs I have purchased are incompatible with the strips as they are RGBW.
-There are three different mounts, one vertical, one horizontal and one for DIN rail.
-
-| Item                                                                                                                                                  | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
-| [KlipperExpander_HorizontalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_HorizontalMount.STL) |        1 | [eSun ABS+ (Black)] |  34m | 1.50m |  3.83g | £0.06 | :heavy_check_mark: |       |
-| [KlipperExpander_RailMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_RailMount.stl)             |        1 |                     |      |       |        |       |        :x:         |       |
-| [KlipperExpander_VerticalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_VerticalMount.STL)     |        1 |                     |      |       |        |       |        :x:         |       |
-
-### :wrench: Assembly
-
-![Timmit99's Klipper Expander PCB](/assets/blog/printer-voron-1.8-mods/klipper-expander.jpg 'Klipper Expander')
-
-I have printed the horizontal mount as I am planning on mounting the Klipper Expander on the bottom of the rear electronics compartment.
-
-#### Parts Used
-
-| Item                  | Quantity |
-| --------------------- | -------: |
-| M3 Hammer Head T-nuts |        2 |
-| M3x8 SHCS             |        4 |
-
 ## Mesh Skirts
 
 These mesh skirts were made using the method decribed in [Eddie the Engineer's Youtube Video](https://www.youtube.com/watch?v=K6sHfXldK4k).

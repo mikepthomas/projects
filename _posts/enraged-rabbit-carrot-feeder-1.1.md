@@ -35,7 +35,7 @@ I purchased an already built, 9 channel [Enraged Rabbit Carrot Feeder](https://g
 
 | Item                              | Quantity | Received | Notes                             |
 | --------------------------------- | -------: | -------: | --------------------------------- |
-| ERCF EASY BRD                     |        1 |        1 |
+| [ERCF Easy BRD]                   |        1 |        1 |
 | NEMA14 Motor 14HS11-1004S         |        1 |        1 | Oukeda Motor OK35STH34-1254A      |
 | NEMA17 Motor 17HS08-1004S         |        1 |        1 | Oukeda Motor OK42STH20-104A-XH400 |
 | TowerPro MG90S servo              |        1 |        1 |
@@ -267,6 +267,9 @@ Quantities are for 1 Patch. I should have enough parts for 2 patches.
 
 The chain is smaller on the ERCF than the chain for the Voron build. I am not expecting to have any chain left over (especially as I am going to print Z chain) and rather than buying some more chain I will try [printing it instead](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/Printable_drag_chain).
 
-## Easy BRD
+## ERCF Easy BRD
 
-The SKR 1.4 Turbo does not have enough Stepper Motor Drivers to run the ERCF, thw [Easy BRD](https://github.com/Tircown/ERCF-easy-brd) is a board specifically designed to run the Carrot Feeder as a secondary MCU.
+The SKR 1.4 Turbo does not have enough Stepper Motor Drivers to run the ERCF, the [ERCF Easy BRD] is a board specifically designed to run the Carrot Feeder as a secondary MCU.
+
+[Related Links]: #
+[ERCF Easy BRD]: voron-hardware#ercf-easy-brd

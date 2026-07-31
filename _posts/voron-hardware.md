@@ -2,7 +2,7 @@
 title: Voron Hardware
 heading: Custom PCBs for Voron Printers
 date: 2026-07-03T16:52:58.045Z
-lastmod: 2026-07-17T10:45:16.955Z
+lastmod: 2026-07-31T13:14:38.022Z
 author: Mike Thomas
 description: Sourcing parts and assembling custom PCBs for Voron Printers.
 preview: /assets/blog/voron-hardware/voron-hardware-hero.jpg
@@ -29,17 +29,19 @@ keywords:
 
 ![Bare Afterburner Toolhead PCB (rev3.2) PCB](/assets/blog/voron-hardware/afterburner-toolhead-pcb-rev-3.2.jpg)
 
+## Sourcing Parts
+
 I purchased the PCB only, I sourced the rest of the parts for the kit myself.
 
 Kit contains the `Quantity` needed for building 1 unit.
 
-## PCB
+### PCB
 
 | Item                                | Quantity | Received | Notes |
 | ----------------------------------- | -------: | -------: | ----- |
 | [Afterburner Toolhead PCB] (rev3.2) |        1 |        6 |
 
-## Connectors
+### Connectors
 
 | Item                                                | Quantity | Received | Notes              |
 | --------------------------------------------------- | -------: | -------: | ------------------ |
@@ -51,13 +53,13 @@ Kit contains the `Quantity` needed for building 1 unit.
 | MicroFit3 Single Row Connector (2 pin)              |        1 |       10 |
 | MicroFit3 Single Row Right Angle Receptacle (2 pin) |        1 |       10 | HE0                |
 
-## Diodes
+### Diodes
 
 | Item                   | Quantity | Received | Notes |
 | ---------------------- | -------: | -------: | ----- |
 | Schottky Diode (BAT85) |        1 |        7 |
 
-## SMD Components
+### SMD Components
 
 | Item                 | Quantity | Received | Notes |
 | -------------------- | -------: | -------: | ----- |
@@ -69,17 +71,19 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ![Bare Afterburner Toolhead PCB (ERCF) PCB](/assets/blog/voron-hardware/afterburner-toolhead-pcb-ercf.jpg)
 
+## Sourcing Parts
+
 I purchased the PCB only, I sourced the rest of the parts for the kit myself.
 
 Kit contains the `Quantity` needed for building 1 unit.
 
-## PCB
+### PCB
 
 | Item                              | Quantity | Received | Notes |
 | --------------------------------- | -------: | -------: | ----- |
 | [Afterburner Toolhead PCB] (ERCF) |        1 |        5 |
 
-## Connectors
+### Connectors
 
 | Item                                                | Quantity | Received | Notes              |
 | --------------------------------------------------- | -------: | -------: | ------------------ |
@@ -93,13 +97,13 @@ Kit contains the `Quantity` needed for building 1 unit.
 | MicroFit3 Single Row Connector (2 pin)              |        1 |       10 |
 | MicroFit3 Single Row Right Angle Receptacle (2 pin) |        1 |       10 | HE0                |
 
-## Diodes
+### Diodes
 
 | Item                   | Quantity | Received | Notes |
 | ---------------------- | -------: | -------: | ----- |
 | Schottky Diode (BAT85) |        1 |        7 |
 
-## SMD Components
+### SMD Components
 
 | Item                 | Quantity | Received | Notes |
 | -------------------- | -------: | -------: | ----- |
@@ -111,13 +115,15 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ![Bare Carabiner PCB](/assets/blog/voron-hardware/carabiner.jpg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item                   | Quantity | Received | Notes |
 | ---------------------- | -------: | -------: | ----- |
 | [Carabiner] β0.2.3 PCB |        1 |       11 |
 
-## Connectors
+### Connectors
 
 | Item                                               | Quantity | Received | Notes                   |
 | -------------------------------------------------- | -------: | -------: | ----------------------- |
@@ -128,7 +134,7 @@ Kit contains the `Quantity` needed for building 1 unit.
 | MicroFit3 Dual Row Connector (16 pin)              |        1 |          |
 | MicroFit3 Dual Row Right Angle Receptacle (16 pin) |        1 |          |
 
-## Diodes
+### Diodes
 
 | Item                   | Quantity | Received | Notes |
 | ---------------------- | -------: | -------: | ----- |
@@ -138,21 +144,19 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ![Bare ERCF Easy BRD PCB](/assets/blog/voron-hardware/ercf-easy-brd.jpg)
 
-| Item            | Case               | Flashed with                                          | Notes                                    |
-| --------------- | ------------------ | ----------------------------------------------------- | ---------------------------------------- |
-| [ERCF Easy BRD] | [AM8](printer-am8) | [Klipper Firmware](printer-klipper-firmware#easy-brd) | by [Tircown](https://github.com/Tircown) |
+## Sourcing Parts
 
 I purchased the PCB only, I sourced the rest of the parts for the kit myself.
 
 Kit contains the `Quantity` needed for building 1 unit.
 
-## PCB
+### PCB
 
-| Item                   | Quantity | Received | Notes |
-| ---------------------- | -------: | -------: | ----- |
-| ERCF Easy BRD v1.1 PCB |        1 |       10 |
+| Item                     | Quantity | Received | Notes                                                                                                           |
+| ------------------------ | -------: | -------: | --------------------------------------------------------------------------------------------------------------- |
+| [ERCF Easy BRD] v1.1 PCB |        1 |       10 | This board will be used for the [6 channel Enraged Rabbit Carrot Feeder V1.1](enraged-rabbit-carrot-feeder-1.1) |
 
-## Capacitors
+### Capacitors
 
 | Item                           | Quantity | Received | Notes  |
 | ------------------------------ | -------: | -------: | ------ |
@@ -160,7 +164,7 @@ Kit contains the `Quantity` needed for building 1 unit.
 | Ceramic Capacitor (0.33uF)     |        1 |        5 | C1     |
 | Electrolytic Capacitor (100uF) |        2 |       10 | C3, C4 |
 
-## Connectors
+### Connectors
 
 | Item                             | Quantity | Received | Notes          |
 | -------------------------------- | -------: | -------: | -------------- |
@@ -173,52 +177,193 @@ Kit contains the `Quantity` needed for building 1 unit.
 | Jumper Cap 2.54mm                |        2 |          | J6             |
 | KF301 Screw Terminal (5mm pitch) |        1 |       12 | J5             |
 
-## Integrated Circuits
+### Integrated Circuits
 
 | Item                   | Quantity | Received | Notes |
 | ---------------------- | -------: | -------: | ----- |
 | 5V Regulator (L7805CV) |        1 |       10 | U2    |
 | TO-220 Heatsink        |        1 |       10 | U2    |
 
-## Misc
+### Misc
 
 | Item                         | Quantity | Received | Notes  |
 | ---------------------------- | -------: | -------: | ------ |
 | Seeeduino XIAO               |        1 |        2 | U1     |
 | TMC2209 Stepper Motor Driver |        2 |          | U3, U4 |
 
-## Resistors
+### Resistors
 
 | Item                      | Quantity | Received | Notes          |
 | ------------------------- | -------: | -------: | -------------- |
 | Metal Film resistor (10K) |        4 |        8 | R1, R2, R3, R4 |
 
+## Assembly
+
 ![Fully Assembled ERCF Easy BRD 1.1](/assets/blog/voron-hardware/ercf-easy-brd-assembled.jpg)
+
+## Flashing
+
+Get the most up to date info on the [official page](https://github.com/Tircown/ERCF-easy-brd).
+
+### Klipper Firmware Configuration
+
+#### USB
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.easy_brd
+```
+
+Set the following configuration:
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (SAMC21/SAMD21/SAMD51/SAME5x)  --->
+    Processor model (SAMD21G18)  --->
+    Bootloader offset (8KiB bootloader)  --->
+    Clock Reference (Internal clock)  --->
+    Communication interface (USB)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.easy_brd ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.easy_brd -j4
+sudo apt install bossa-cli
+sudo bossac -i -d -p /dev/ttyACM0 -e -w -v -R --offset=0x2000 out/klipper.bin
+```
 
 # Klipper Expander
 
-![Fully Assembled Klipper Expander](/assets/blog/voron-hardware/voron-hardware-hero.jpg)
+![Timmit99's Klipper Expander PCB](/assets/blog/voron-hardware/klipper-expander.jpg 'Klipper Expander')
+
+| Item               | Quantity | Received | Notes                                                                    |
+| ------------------ | -------: | -------: | ------------------------------------------------------------------------ |
+| [Klipper Expander] |        1 |        1 | This board is used to control fans on the [Voron 1.8](printer-voron-1.8) |
+
+PCB to expand the ports that can be used for fans and neopixels. I already have RGB neopixel strips and will need an additional neopixel header as the Stealthburner LEDs I have purchased are incompatible with the strips as they are RGBW.
+
+## Printing Parts
+
+There are three different mounts, one vertical, one horizontal and one for DIN rail.
+
+| Item                                                                                                                                                  | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [KlipperExpander_HorizontalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_HorizontalMount.STL) |        1 | [eSun ABS+ (Black)] |  34m | 1.50m |  3.83g | £0.06 | :heavy_check_mark: |       |
+| [KlipperExpander_RailMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_RailMount.stl)             |        1 |                     |      |       |        |       |        :x:         |       |
+| [KlipperExpander_VerticalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_VerticalMount.STL)     |        1 |                     |      |       |        |       |        :x:         |       |
+
+I have printed the horizontal mount as I am planning on mounting the Klipper Expander on the bottom of the rear electronics compartment of the [Voron 1.8](printer-voron-1.8).
+
+## Assembly
 
 I purchased this already assembled.
 
-| Item               | Case                           | Flashed with                                                  | Notes                                      |
-| ------------------ | ------------------------------ | ------------------------------------------------------------- | ------------------------------------------ |
-| [Klipper Expander] | [Voron 1.8](printer-voron-1.8) | [Klipper Firmware](printer-klipper-firmware#klipper-expander) | by [timmit99](https://github.com/timmit99) |
+### Parts Used
+
+| Item                  | Quantity |
+| --------------------- | -------: |
+| M3 Hammer Head T-nuts |        2 |
+| M3x8 SHCS             |        4 |
+
+## Flashing
+
+Get the most up to date info on the [official page](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/Documentation/Setup_and_Flashing_Guide.md).
+
+### Klipper Firmware Configuration
+
+#### USB
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.klipper_expander
+```
+
+Set the following configuration:
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[*] Enable extra low-level configuration options
+    Micro-controller Architecture (STMicroelectronics STM32)  --->
+    Processor model (STM32F042)  --->
+    Bootloader offset (No bootloader)  --->
+    Clock Reference (Internal clock)  --->
+    Communication interface (USB (on PA9/PA10))  --->
+    USB ids  --->
+    Optional features (to reduce code size)  --->
+[*] Optimize stepper code for 'step on both edges'
+()  GPIO pins to set at micro-controller startup
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+As the firmware is too large to fit in the supplied flash, we also need to disable some features:
+
+```
+(Top) → Optional features (to reduce code size)
+                         Klipper Firmware Configuration
+[*] Support micro-controller based ADC (analog to digital)
+[*] Support communicating with external chips via SPI bus
+[*]     Support software based SPI "bit-banging"
+[*] Support communicating with external chips via I2C bus
+[*]     Support software based I2C "bit-banging"
+[*] Support GPIO based button reading
+[ ] Support Trinamic stepper motor driver UART communication
+[*] Support 'neopixel' type LED control
+[*] Support measuring fan tachometer GPIO pins
+    *** LCD chips ***
+[*] Support ST7920 LCD display
+[*] Support HD44780 LCD display
+    *** Accelerometer chips ***
+[*] Support adxl accelerometers
+[*] Support lis2dw and lis3dh 3-axis accelerometers
+[*] Support MPU accelerometers
+[*] Support ICM20948 accelerometer
+    *** External ADC type chips ***
+[*] Support thermocouple MAX sensors
+[*] Support HX711 and HX717 ADC chips
+[*] Support ADS 1220 ADC chip
+    *** Other external sensor chips ***
+[ ] Support ldc1612 eddy current sensor
+[ ] Support angle sensors
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Install the boot jumper and reset the board to put the board into DFU mode.
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.klipper_expander ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.klipper_expander -j4
+make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
+```
 
 # Klipper Fan Hat
 
 ![Holding a Klipper Fan Hat PCB](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-in-hand.jpg)
 
+## Sourcing Parts
+
 The reference numbers in the notes field refer to the parts required marked on the silkscreen and [can be seen in the interactive BOM](https://klipper-fan-hat.mikethomas.info/).
 
-## PCB
+### PCB
 
 | Item                       | Quantity | Received | Notes |
 | -------------------------- | -------: | -------: | ----- |
 | ~[Klipper Fan Hat PCB v1]~ |      ~1~ |        5 |
 | [Klipper Fan Hat PCB v2]   |        1 |       10 |
 
-## Fasteners
+### Fasteners
 
 | Item                | Quantity | Received | Notes                                              |
 | ------------------- | -------: | -------: | -------------------------------------------------- |
@@ -227,7 +372,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | M2.5 Nut            |        4 |       50 | To mount the Fan                                   |
 | M2.5 Brass Standoff |        4 |       16 | To stop the fan inputs shorting on the HDMI Socket |
 
-## Connectors
+### Connectors
 
 | Item                              | Quantity |           Received | Notes                           |
 | --------------------------------- | -------: | -----------------: | ------------------------------- |
@@ -241,7 +386,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | KF301 Screw Terminal (5mm pitch)  |        1 |                 10 | J1                              |
 | PCB Panel Mount Blade Fuse Holder |        1 |                 10 | F1                              |
 
-## SMD Components
+### SMD Components
 
 | Item                                    | Quantity | Received | Notes                  |
 | --------------------------------------- | -------: | -------: | ---------------------- |
@@ -254,7 +399,7 @@ The reference numbers in the notes field refer to the parts required marked on t
 | LED Red (1206 Package)                  |        7 |      105 | D1-D7                  |
 | IRLML6344-TRPBF Mosfet (SOT-23 Package) |        5 |      100 | Q1-Q5                  |
 
-## Misc
+### Misc
 
 | Item                       | Quantity | Received | Notes                                                                   |
 | -------------------------- | -------: | -------: | ----------------------------------------------------------------------- |
@@ -263,25 +408,29 @@ The reference numbers in the notes field refer to the parts required marked on t
 | DIP-8 Socket               |        1 |       20 | Not required, but makes switching EEPROM modules out easier for testing |
 | DS18B20 Temperature Sensor |        1 |       15 |
 
+## Assembly
+
 ![An assembled Klipper Fan Hat](/assets/blog/printer-klipper-fan-hat/klipper-fan-hat-assembled.jpg)
 
 # Microswitch Endstop
 
 ![Bare Microswitch Endstop PCB](/assets/blog/voron-hardware/microswitch-endstop.jpg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item                      | Quantity | Received | Notes |
 | ------------------------- | -------: | -------: | ----- |
 | [Microswitch Endstop] PCB |        1 |        4 |
 
-## Connectors
+### Connectors
 
 | Item                            | Quantity | Received | Notes |
 | ------------------------------- | -------: | -------: | ----- |
 | 4 Pin JST-XH Right Angle Header |        1 |       20 | J1    |
 
-## Misc
+### Misc
 
 | Item                       | Quantity | Received | Notes |
 | -------------------------- | -------: | -------: | ----- |
@@ -291,19 +440,21 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ![Bare Microswitch Z Endstop PCB](/assets/blog/voron-hardware/microswitch-z-endstop.jpg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item                        | Quantity | Received | Notes |
 | --------------------------- | -------: | -------: | ----- |
 | [Microswitch Z Endstop] PCB |        1 |        9 |
 
-## Connectors
+### Connectors
 
 | Item                            | Quantity | Received | Notes |
 | ------------------------------- | -------: | -------: | ----- |
 | 2 Pin JST-XH Right Angle Header |        1 |       20 | HE1   |
 
-## Misc
+### Misc
 
 | Item                       | Quantity | Received | Notes |
 | -------------------------- | -------: | -------: | ----- |
@@ -313,20 +464,22 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ![Bare Nano Display PCB](/assets/blog/voron-hardware/nano-display.jpg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item               | Quantity | Received | Notes |
 | ------------------ | -------: | -------: | ----- |
 | [Nano Display] PCB |        1 |        5 |
 
-## Connectors
+### Connectors
 
 | Item                  | Quantity | Received | Notes  |
 | --------------------- | -------: | -------: | ------ |
 | 10 Pin Display Header |        2 |        6 | J1, J2 |
 | 15-pin female header  |        2 |          | P1, P2 |
 
-#### Misc
+### Misc
 
 | Item         | Quantity | Received | Notes |
 | ------------ | -------: | -------: | ----- |
@@ -336,25 +489,29 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ![Assembled LDO PT100 Stick](/assets/blog/voron-hardware/pt100-stick.jpg)
 
-I purchased this already assembled.
-
 | Item              | Quantity | Received | Notes |
 | ----------------- | -------: | -------: | ----- |
 | [LDO PT100 Stick] |        1 |        4 |
 
 [LDO PT100 Stick]: https://www.onetwo3d.co.uk/product/ldo-pt100-stick?wlr_ref=REF-ULH-QWV
 
+## Assembly
+
+I purchased this already assembled.
+
 # SKR Mini E3 V1.2/2.0 Screen Adaptor
 
 ![Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB](/assets/blog/voron-hardware/skr-mini-e3-v1.2-2.0-screen-adaptor.jpg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item                                      | Quantity | Received | Notes |
 | ----------------------------------------- | -------: | -------: | ----- |
 | [SKR Mini E3 V1.2/2.0 Screen Adaptor] PCB |        1 |        5 |
 
-## Connectors
+### Connectors
 
 | Item                          | Quantity | Received | Notes  |
 | ----------------------------- | -------: | -------: | ------ |
@@ -366,14 +523,16 @@ I purchased this already assembled.
 
 ![Bare V0 Umbilical PCBs](/assets/blog/voron-hardware/v0-umbilical.jpeg)
 
-## PCB
+## Sourcing Parts
+
+### PCB
 
 | Item                        | Quantity | Received | Notes |
 | --------------------------- | -------: | -------: | ----- |
 | [V0 Umbilical Frame] PCB    |        1 |        9 |
 | [V0 Umbilical Toolhead] PCB |        1 |        8 |
 
-## Frame PCB Connectors
+### Frame PCB Connectors
 
 | Item                                   | Quantity | Received | Notes         |
 | -------------------------------------- | -------: | -------: | ------------- |
@@ -384,7 +543,7 @@ I purchased this already assembled.
 | MicroFit3 Dual Row Connector (14 pin)  |        1 |       10 |
 | MicroFit3 Dual Row Receptacle (14 pin) |        1 |       10 | J1            |
 
-## Toolhead PCB Connectors
+### Toolhead PCB Connectors
 
 | Item                                               | Quantity | Received | Notes |
 | -------------------------------------------------- | -------: | -------: | ----- |
@@ -395,6 +554,8 @@ I purchased this already assembled.
 
 ![Fully Assembled V0 Umbilical](/assets/blog/voron-hardware/v0-umbilical-assembled.jpg)
 
+[Filament]: #
+[eSun ABS+ (Black)]: printer-filament#esun-abs-black
 [Related Links]: #
 [Afterburner Toolhead PCB]: https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB
 [Carabiner]: https://github.com/Annex-Engineering/Carabiner-Docs/tree/main/carabiner-classic

@@ -279,46 +279,6 @@ make KCONFIG_CONFIG=config.arduino_uno -j4
 make KCONFIG_CONFIG=config.arduino_uno flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0
 ```
 
-## Easy BRD
-
-Get the most up to date info on the [official page](https://github.com/Tircown/ERCF-easy-brd).
-
-This board will be used for the [6 channel Enraged Rabbit Carrot Feeder V1.1](enraged-rabbit-carrot-feeder-1.1).
-
-### Klipper Firmware Configuration
-
-#### USB
-
-```sh
-cd ~/klipper/
-make clean
-make menuconfig KCONFIG_CONFIG=config.easy_brd
-```
-
-Set the following configuration:
-
-```
-(Top)
-                         Klipper Firmware Configuration
-[ ] Enable extra low-level configuration options
-    Micro-controller Architecture (SAMC21/SAMD21/SAMD51/SAME5x)  --->
-    Processor model (SAMD21G18)  --->
-    Bootloader offset (8KiB bootloader)  --->
-    Clock Reference (Internal clock)  --->
-    Communication interface (USB)  --->
-[Space/Enter] Toggle/enter      [?] Help            [/] Search
-[Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-Backup config, Build and Flash to the board:
-
-```sh
-cp config.easy_brd ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.easy_brd -j4
-sudo apt install bossa-cli
-sudo bossac -i -d -p /dev/ttyACM0 -e -w -v -R --offset=0x2000 out/klipper.bin
-```
-
 ## EBB SB2240 CAN v1.0
 
 Get the most up to date info on the [official page](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md).
@@ -574,84 +534,6 @@ make KCONFIG_CONFIG=config.ebb42_1.1_klipper flash FLASH_DEVICE=/dev/serial/by-i
 ()  GPIO pins to set at micro-controller startup
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-## Klipper Expander
-
-Get the most up to date info on the [official page](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/Documentation/Setup_and_Flashing_Guide.md).
-
-This board is used to control fans on the [Voron 1.8](printer-voron-1.8).
-
-### Klipper Firmware Configuration
-
-#### USB
-
-```sh
-cd ~/klipper/
-make clean
-make menuconfig KCONFIG_CONFIG=config.klipper_expander
-```
-
-Set the following configuration:
-
-```
-(Top)
-                         Klipper Firmware Configuration
-[*] Enable extra low-level configuration options
-    Micro-controller Architecture (STMicroelectronics STM32)  --->
-    Processor model (STM32F042)  --->
-    Bootloader offset (No bootloader)  --->
-    Clock Reference (Internal clock)  --->
-    Communication interface (USB (on PA9/PA10))  --->
-    USB ids  --->
-    Optional features (to reduce code size)  --->
-[*] Optimize stepper code for 'step on both edges'
-()  GPIO pins to set at micro-controller startup
-[Space/Enter] Toggle/enter      [?] Help            [/] Search
-[Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-As the firmware is too large to fit in the supplied flash, we also need to disable some features:
-
-```
-(Top) → Optional features (to reduce code size)
-                         Klipper Firmware Configuration
-[*] Support micro-controller based ADC (analog to digital)
-[*] Support communicating with external chips via SPI bus
-[*]     Support software based SPI "bit-banging"
-[*] Support communicating with external chips via I2C bus
-[*]     Support software based I2C "bit-banging"
-[*] Support GPIO based button reading
-[ ] Support Trinamic stepper motor driver UART communication
-[*] Support 'neopixel' type LED control
-[*] Support measuring fan tachometer GPIO pins
-    *** LCD chips ***
-[*] Support ST7920 LCD display
-[*] Support HD44780 LCD display
-    *** Accelerometer chips ***
-[*] Support adxl accelerometers
-[*] Support lis2dw and lis3dh 3-axis accelerometers
-[*] Support MPU accelerometers
-[*] Support ICM20948 accelerometer
-    *** External ADC type chips ***
-[*] Support thermocouple MAX sensors
-[*] Support HX711 and HX717 ADC chips
-[*] Support ADS 1220 ADC chip
-    *** Other external sensor chips ***
-[ ] Support ldc1612 eddy current sensor
-[ ] Support angle sensors
-[Space/Enter] Toggle/enter      [?] Help            [/] Search
-[Q] Quit (prompts for save)     [ESC] Leave menu
-```
-
-Install the boot jumper and reset the board to put the board into DFU mode.
-
-Backup config, Build and Flash to the board:
-
-```sh
-cp config.klipper_expander ../printer_data/config/Firmware/
-make KCONFIG_CONFIG=config.klipper_expander -j4
-make KCONFIG_CONFIG=config.klipper_expander flash FLASH_DEVICE=0483:df11
 ```
 
 ## MMB CAN v1.0

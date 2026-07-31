@@ -1253,10 +1253,6 @@
           "deck-panel-support-clips.jpg": {
             "alt": "Decorative clips to hold in the deck panel",
             "title": "Deck Panel Support Clips"
-          },
-          "klipper-expander.jpg": {
-            "alt": "Timmit99's Klipper Expander PCB",
-            "title": "Klipper Expander"
           }
         },
         "printer-voron-2.4": {
@@ -1557,6 +1553,10 @@
             "title": "Carabiner",
             "caption": "",
             "alt": "Bare Carabiner PCB"
+          },
+          "klipper-expander.jpg": {
+            "alt": "Timmit99's Klipper Expander PCB",
+            "title": "Klipper Expander"
           }
         },
         "voron-m4": {

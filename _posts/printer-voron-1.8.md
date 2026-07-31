@@ -871,7 +871,7 @@ I have also purchased the [BTT EXP-MOT motor expansion module](https://github.co
 
 The [Electronics Compartment](#electronics-compartment) has a couple of parts to rest the elecronics panel on called `panel_holder`s I have replaced these with the front handles from the 2.2 to enable me to move the printer about a little easier and to also keep a little bit of space behind the printer to allow the electronics compartment fan to breathe.
 
-I also plan on installing the [Klipper Expander](printer-voron-1.8-mods#klipper-expander) in the space at the bottom of the electronics compartment just above the handle shown.
+I also plan on installing the [Klipper Expander](voron-hardware#klipper-expander) in the space at the bottom of the electronics compartment just above the handle shown.
 
 ![3D printed locks to hold on the back panel](/assets/blog/printer-voron-1.8/rear-panel-locks.jpg 'Rear Panel Locks')
 
