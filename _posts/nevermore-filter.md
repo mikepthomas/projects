@@ -24,7 +24,7 @@ keywords:
 
 Very large filter to recirculate the air inside the chamber so no heat is lost while filtering.
 
-[Carbon refill is available from here](https://www.onetwo3d.co.uk/product/nevermore-carbon-refill-xl/).
+[Carbon refill is available from here](https://www.onetwo3d.co.uk/product/nevermore-carbon-refill-xl?wlr_ref=REF-ULH-QWV).
 
 This version will be used on the [Voron 2.4](printer-voron-2.4)
 
@@ -77,12 +77,12 @@ This version will be used on the [Voron 2.4](printer-voron-2.4)
 
 ### V2 Upgrade Parts
 
-| Item                         | Quantity | Received | Notes                                                                                                          |
-| ---------------------------- | -------: | -------: | -------------------------------------------------------------------------------------------------------------- |
-| 7-bit neopixel hinge display |        1 |        1 | [Nevermore Stealthmax V2 LED Ring](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-led-ring/)       |
-| FT90M Servo                  |        1 |        1 | [Nevermore Stealthmax V2 Servo](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-servo/)             |
-| TopFan MX7020GBH2            |        1 |        1 | [Nevermore StealthMax V2 Fan](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-fan/)                 |
-| Nevermore H14 HEPA           |        1 |        1 | [Nevermore Stealthmax V2 HEPA Filter](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-hepa-filter/) |
+| Item                         | Quantity | Received | Notes                                                                                                                             |
+| ---------------------------- | -------: | -------: | --------------------------------------------------------------------------------------------------------------------------------- |
+| 7-bit neopixel hinge display |        1 |        1 | [Nevermore Stealthmax V2 LED Ring](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-led-ring?wlr_ref=REF-ULH-QWV)       |
+| FT90M Servo                  |        1 |        1 | [Nevermore Stealthmax V2 Servo](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-servo?wlr_ref=REF-ULH-QWV)             |
+| TopFan MX7020GBH2            |        1 |        1 | [Nevermore StealthMax V2 Fan](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-fan?wlr_ref=REF-ULH-QWV)                 |
+| Nevermore H14 HEPA           |        1 |        1 | [Nevermore Stealthmax V2 HEPA Filter](https://www.onetwo3d.co.uk/product/nevermore-stealthmax-v2-hepa-filter?wlr_ref=REF-ULH-QWV) |
 
 ## Printing Parts (V1)
 
@@ -236,7 +236,7 @@ Dual colour Carbon Basket Lid and Pico Access Latch can be achieved with a filam
 
 The V6 no longer requires you to cut up the fans like you used to have to do with the V5.
 
-[Carbon refill is available from here](https://www.onetwo3d.co.uk/product/nevermore3d-carbon/).
+[Carbon refill is available from here](https://www.onetwo3d.co.uk/product/nevermore3d-carbon?wlr_ref=REF-ULH-QWV).
 
 This version will be used on the [Voron 1.8](printer-voron-1.8).
 

@@ -57,12 +57,12 @@ keywords:
 
 ## Electronics
 
-| Item                                         | Quantity | Received | Notes                                                                                                                                 |
-| -------------------------------------------- | -------: | -------: | ------------------------------------------------------------------------------------------------------------------------------------- |
-| NeoPixel RGBW Mini Button PCB                |        3 |        3 | [Linneo Rainbow Barf LED Harness](https://www.onetwo3d.co.uk/product/linneo-stealthburner-rainbow-barf-2x-rgbw-led-harness-internal/) |
-| NEMA14 36mm pancake Motor with 10 tooth gear |        1 |        1 | LDO-36STH20-1004AHG                                                                                                                   |
-| 50x50x15 Centrifugal Fan                     |        1 |        1 | GDSTime Fan                                                                                                                           |
-| 40x40x10 Axial Fan                           |        1 |        1 | GDSTime Fan                                                                                                                           |
+| Item                                         | Quantity | Received | Notes                                                                                                                                                    |
+| -------------------------------------------- | -------: | -------: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NeoPixel RGBW Mini Button PCB                |        3 |        3 | [Linneo Rainbow Barf LED Harness](https://www.onetwo3d.co.uk/product/linneo-stealthburner-rainbow-barf-2x-rgbw-led-harness-internal?wlr_ref=REF-ULH-QWV) |
+| NEMA14 36mm pancake Motor with 10 tooth gear |        1 |        1 | LDO-36STH20-1004AHG                                                                                                                                      |
+| 50x50x15 Centrifugal Fan                     |        1 |        1 | GDSTime Fan                                                                                                                                              |
+| 40x40x10 Axial Fan                           |        1 |        1 | GDSTime Fan                                                                                                                                              |
 
 ## Cables
 
@@ -187,9 +187,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: ADXL345 Mount
 
-| Item                                                                                                                                        | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------------------ |
-| [adxl_mount](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_ldo_15mm_c_c.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | For [LDO Input Shaper Kit](https://www.onetwo3d.co.uk/product/ldo-input-shaper-kit/) |
+| Item                                                                                                                                        | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------------------------------------- |
+| [adxl_mount](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_ldo_15mm_c_c.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | For [LDO Input Shaper Kit](https://www.onetwo3d.co.uk/product/ldo-input-shaper-kit?wlr_ref=REF-ULH-QWV) |
 | [adxl_washer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_washer_x2.stl)         |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
 ## X Carriage

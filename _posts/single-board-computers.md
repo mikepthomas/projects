@@ -2287,7 +2287,7 @@ For further information, please refer to https://pinout.xyz/
 [Cluster Hat Case]: https://thepihut.com/products/cluster-hat-case 'Cluster HAT Case v3.0'
 [Flirc Aluminium Pi 3 Case]: https://thepihut.com/products/flirc-raspberry-pi-3-b-case 'FLIRC Raspberry Pi 3 Case'
 [Flirc Aluminium Pi 4 Case]: https://thepihut.com/products/flirc-raspberry-pi-4-case 'FLIRC Raspberry Pi 4 Case'
-[LDO Raspberry Pi Zero USB Expander PCB]: https://www.onetwo3d.co.uk/product/ldo-raspberry-pi-zero-usb-expander-pcb 'LDO Raspberry Pi Zero USB Expander PCB'
+[LDO Raspberry Pi Zero USB Expander PCB]: https://www.onetwo3d.co.uk/product/ldo-raspberry-pi-zero-usb-expander-pcb?wlr_ref=REF-ULH-QWV 'LDO Raspberry Pi Zero USB Expander PCB'
 [ModMyPi VESA-Pi+ Model A+ Case]: https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-3-model-a-vesa-case-assembly-guide 'Raspberry Pi 3 Model A+ VESA Case Assembly Guide'
 [Official Raspberry Pi 4 Case]: https://www.raspberrypi.com/products/raspberry-pi-4-case 'Raspberry Pi 4 Case'
 [Official Raspberry Pi 5 Case]: https://www.raspberrypi.com/products/raspberry-pi-5-case 'Raspberry Pi Case for Raspberry Pi 5'

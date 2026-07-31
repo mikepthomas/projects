@@ -342,7 +342,7 @@ I purchased this already assembled.
 | ----------------- | -------: | -------: | ----- |
 | [LDO PT100 Stick] |        1 |        4 |
 
-[LDO PT100 Stick]: https://www.onetwo3d.co.uk/product/ldo-pt100-stick
+[LDO PT100 Stick]: https://www.onetwo3d.co.uk/product/ldo-pt100-stick?wlr_ref=REF-ULH-QWV
 
 # SKR Mini E3 V1.2/2.0 Screen Adaptor
 

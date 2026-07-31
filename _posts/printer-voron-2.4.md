@@ -106,7 +106,7 @@ The Motion Components are Bearings, Gears, and Pulleys that the moving parts of 
 >
 > All other parts except for the `BMG Extruder Components Kit` are either from the [Powge 2.4r2 Motion Kit] or the [LDO CNC AWD Kit].
 
-[LDO CNC AWD Kit]: https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit 'LDO Voron AWD (All-Wheel-Drive) Upgrade Kit from OneTwo3D'
+[LDO CNC AWD Kit]: https://www.onetwo3d.co.uk/product/ldo-voron-awd-all-wheel-drive-upgrade-kit?wlr_ref=REF-ULH-QWV 'LDO Voron AWD (All-Wheel-Drive) Upgrade Kit from OneTwo3D'
 [Powge 2.4r2 Motion Kit]: https://www.aliexpress.com/item/4000937359753.html 'Powge Voron 2.4 R2 Motion Kit from Ali Express'
 
 ## Electronics
@@ -149,11 +149,11 @@ These are all the Electrical components that make the Printer work such as Circu
 [BigTreeTech Smart Filament Sensor V2.0]: https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor 'BigTreeTech Smart Filament Sensor V2.0'
 [ChaoticLab CNC Tap]: https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298 'Chaoticlab CNC Voron Tap V2.0'
 [Inlet Power Socket IEC320 C14]: https://www.amazon.co.uk/dp/B0BVRF249S 'POFET Power Supply Socket with Fuse for 3D Printer from Amazon'
-[LDO Speedy Power HT Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
-[LDO SwitchWire Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
+[LDO Speedy Power HT Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor?wlr_ref=REF-ULH-QWV 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
+[LDO SwitchWire Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac?wlr_ref=REF-ULH-QWV 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
 [LDO Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
 [Mellow Fly Super8 V1.0]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
-[Omron G3NA-210B-UTU]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr 'Omron Solid State relay (SSR) from OneTwo3D'
+[Omron G3NA-210B-UTU]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr?wlr_ref=REF-ULH-QWV 'Omron Solid State relay (SSR) from OneTwo3D'
 
 ## Vibration Management
 
@@ -182,7 +182,7 @@ The metal skeleton all the rest of the parts are attached to.
 | DIN 3 Rails (35mm W) - 415mm                    |        2 |        2 | 400mm |
 
 > [!NOTE]
-> All parts except from the `DIN 3 Rails` are from the [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo 'LDO Voron 2.4 Frame Set from OneTwo3D').
+> All parts except from the `DIN 3 Rails` are from the [LDO V2.4 300 Frame Kit](https://www.onetwo3d.co.uk/product/voron-2-4-frame-set-ldo?wlr_ref=REF-ULH-QWV 'LDO Voron 2.4 Frame Set from OneTwo3D').
 
 ## Misc
 
@@ -275,8 +275,8 @@ The Mains powered Heated Print Bed components.
 | Keenovo Silicone AC Heater w/ thermistor - 250x250mm (450W) |        1 |        1 | [Keenovo 150 220V 400W]                        |
 | Adhesive Magnetic Sheet - 12"x12"                           |        1 |        1 | Came with `Energetic Spring Steel Sheet`       |
 
-[Keenovo 150 220V 400W]: https://www.onetwo3d.co.uk/product/keenovo-heater-pads 'Keenovo Heater Pad for Voron Printers from OneTwo3D'
-[Mandela Rose Works Non-Magnetic Plate]: https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic 'Mandala Rose Works ultra-flat Voron 2.4 Bed (non-magnetic) from OneTwo3D'
+[Keenovo 150 220V 400W]: https://www.onetwo3d.co.uk/product/keenovo-heater-pads?wlr_ref=REF-ULH-QWV 'Keenovo Heater Pad for Voron Printers from OneTwo3D'
+[Mandela Rose Works Non-Magnetic Plate]: https://www.onetwo3d.co.uk/product/mandala-rose-works-ultra-flat-voron-2-4-trident-bed-magnetic-non-magnetic?wlr_ref=REF-ULH-QWV 'Mandala Rose Works ultra-flat Voron 2.4 Bed (non-magnetic) from OneTwo3D'
 
 # Printing Parts
 
@@ -783,7 +783,7 @@ The screw on the front of the idler moves the tensioner forwards and backwards, 
 
 ### :white_check_mark: Right XY Joint
 
-I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers).
+I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers?wlr_ref=REF-ULH-QWV).
 
 | Item                                                                                                                                             | Quantity | Material            |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------- | ----: | -----: | -----: | ----: | :----------------: | --------------------------------------------------------- |
@@ -815,7 +815,7 @@ I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https
 
 ### :white_check_mark: Left XY Joint
 
-I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers).
+I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https://www.onetwo3d.co.uk/product/vitalii3d-cnc-xy-joints-for-voron-printers?wlr_ref=REF-ULH-QWV).
 
 | Item                                                                                                                                           | Quantity | Material            |  Time |   Size | Weight |  Cost |      Printed       | Notes                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ----: | -----: | -----: | ----: | :----------------: | -------------------------------------------------------- |
@@ -896,7 +896,7 @@ I have opted to upgrade the stock XY Joints with [Vitalii3D CNC XY Joints](https
 
 ### :white_check_mark: Z Bearing Blocks
 
-I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinforced Gantry Mounts](https://www.onetwo3d.co.uk/product/re-enforced-gantry-mounts-for-voron-2-4/).
+I have opted to upgrade the stock Z Bearing Blocks with [Annex Engineering Reinforced Gantry Mounts](https://www.onetwo3d.co.uk/product/re-enforced-gantry-mounts-for-voron-2-4?wlr_ref=REF-ULH-QWV).
 
 ![Annex Engineering Reinforced Gantry Mounts](/assets/blog/printer-voron-2.4/reinforced-gantry-mounts.jpg 'Reinforced Gantry Mounts')
 
@@ -1177,7 +1177,7 @@ The Z Endstop is not used when using `Tap`. [The instructions in the main Voron-
 
 ### :white_check_mark: X/Y Endstop
 
-I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/product/voron-2-4-microswitch-xy-endstop-pcb/) for the X/Y endstops as I am more familliar with physical switches in my other machines. I will potentially experiment with Hall Effect Switches or Sensorless Homing once I have the machine up and running.
+I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/product/voron-2-4-microswitch-xy-endstop-pcb?wlr_ref=REF-ULH-QWV) for the X/Y endstops as I am more familliar with physical switches in my other machines. I will potentially experiment with Hall Effect Switches or Sensorless Homing once I have the machine up and running.
 
 ![Endstop pod for X/Y Endstop PCB](/assets/blog/printer-voron-2.4/xy-endstop-pcb.jpg 'X/Y Endstop PCB')
 

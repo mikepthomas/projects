@@ -150,31 +150,31 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 ![An LDO Motors V1/2 HT Motor Kit](/assets/blog/printer-voron-1.8/ldo-motors.jpg 'LDO Motors')
 
-| Item                                 | Quantity | Received | Notes                                                                                                                                    |
-| ------------------------------------ | -------: | -------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| NEMA17 Motor 17HS19-2004S            |        2 |        2 | Ordered some [larger ones than that are in the LDO Voron V1/V2 HT Motor Kit](https://www.onetwo3d.co.uk/product/ldo-42sth48-2004mahvrn/) |
+| Item                                 | Quantity | Received | Notes                                                                                                                                                             |
+| ------------------------------------ | -------: | -------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NEMA17 Motor 17HS19-2004S            |        2 |        2 | Ordered some [larger ones to replace the ones in the LDO Voron V1/V2 HT Motor Kit](https://www.onetwo3d.co.uk/product/ldo-42sth48-2004mahvrn?wlr_ref=REF-ULH-QWV) |
 | SPDT KW10 Limit Micro Switch         |        3 |       30 |
-| PL-08N Inductive Probe               |        1 |        1 | Purchased an Omron TL-Q5MC2. Going to replace with [Klicky Probe](printer-voron-1.8-mods#klicky-probe)                                   |
+| PL-08N Inductive Probe               |        1 |        1 | Purchased an Omron TL-Q5MC2. Going to replace with [Klicky Probe](printer-voron-1.8-mods#klicky-probe)                                                            |
 | E3D V6 Bowden Hotend Kit (24V)       |        1 |        1 |
-| 40x40x20 Centrifugal Fan (24V)       |        1 |        1 | GDSTime Fan                                                                                                                              |
-| 40x40x10 Axial Fan (24V)             |        1 |        1 | GDSTime Fan                                                                                                                              |
+| 40x40x20 Centrifugal Fan (24V)       |        1 |        1 | GDSTime Fan                                                                                                                                                       |
+| 40x40x10 Axial Fan (24V)             |        1 |        1 | GDSTime Fan                                                                                                                                                       |
 | Mini 12864 Display                   |        1 |        1 |
 | Inlet Power Socket IEC320 C14        |        1 |        1 |
-| Keystone CAT6 Insert (Optional)      |        1 |        2 | 1 Ethernet and 1 USB                                                                                                                     |
-| 60x60x20 Fan (24V)                   |        2 |        2 | GDSTime Fans                                                                                                                             |
-| BigTreeTech SKR 1.4                  |        1 |        1 | I have the Turbo version                                                                                                                 |
+| Keystone CAT6 Insert (Optional)      |        1 |        2 | 1 Ethernet and 1 USB                                                                                                                                              |
+| 60x60x20 Fan (24V)                   |        2 |        2 | GDSTime Fans                                                                                                                                                      |
+| BigTreeTech SKR 1.4                  |        1 |        1 | I have the Turbo version                                                                                                                                          |
 | TMC2209 Stepper Motor Driver         |        5 |        5 |
 | USB Cable A-male B-male              |        1 |        1 |
-| Raspberry Pi 4                       |        1 |        1 | 4GB RAM Version                                                                                                                          |
+| Raspberry Pi 4                       |        1 |        1 | 4GB RAM Version                                                                                                                                                   |
 | Mean Well LRS-200-24 PSU             |        1 |        1 |
 | Mean Well RS-25-5 PSU                |        1 |        1 |
 | Omron G3A-210B-DC5 SSR               |        1 |        1 |
 | DIN Rail Mount Bracket for G3A SSR   |        1 |        1 |
-| ~BAT85 Diode~                        |      ~1~ |        7 | Not required as I have purched the ERCF toolhead board which has the BAT85 Diode integrated.                                             |
+| ~BAT85 Diode~                        |      ~1~ |        7 | Not required as I have purched the ERCF toolhead board which has the BAT85 Diode integrated.                                                                      |
 | C13 Power Cord                       |        1 |        3 |
 | Thermal Fuse (120C)                  |        1 |        5 |
-| NEMA17 Motor 17HS08-1004S            |        1 |        1 | In LDO Voron V1/V2 HT Motor Kit                                                                                                          |
-| NEMA17 TR8x4 300mm Linear Stepper    |        2 |        2 | In LDO V1 Z Motor Kit                                                                                                                    |
+| NEMA17 Motor 17HS08-1004S            |        1 |        1 | In LDO Voron V1/V2 HT Motor Kit                                                                                                                                   |
+| NEMA17 TR8x4 300mm Linear Stepper    |        2 |        2 | In LDO V1 Z Motor Kit                                                                                                                                             |
 | BigTreeTech Smart Filament Sensor V1 |        2 |        2 |
 
 ## Panels
@@ -183,18 +183,20 @@ I have looked into a few different options for a new frame for my 3D Printer and
 
 > Image © 2020 [Voron Design](https://www.vorondesign.com)
 
-| Item                                 | Quantity | Received | Notes                                                                                                                                                                            |
-| ------------------------------------ | -------: | -------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coroplast Sheet - 420x420x4 mm       |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 435x435x4 mm       |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 198x434x4 mm       |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 246x434x4 mm       |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 236x415x4 mm       |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 242x46x4 mm        |        2 |        2 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Coroplast Sheet - 419x66x4 mm        |        1 |        1 | Brought [5 A1 3mm sheets](https://www.amazon.co.uk/gp/product/B016EMNWS4) to cut to size and [1mm foam tape](https://www.amazon.co.uk/gp/product/B076WTFWS5) to avoid vibrations |
-| Acrylic Sheet Clear - 217x444x2.5 mm |        2 |        2 | 3mm thickness                                                                                                                                                                    |
-| Acrylic Sheet Clear - 434x444x2.5 mm |        2 |        2 | 3mm thickness                                                                                                                                                                    |
-| Acrylic Sheet Clear - 434x434x2.5 mm |        1 |        1 | 3mm thickness                                                                                                                                                                    |
+| Item                                 | Quantity | Received | Notes                                                                            |
+| ------------------------------------ | -------: | -------: | -------------------------------------------------------------------------------- |
+| Coroplast Sheet - 420x420x4 mm       |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 435x435x4 mm       |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 198x434x4 mm       |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 246x434x4 mm       |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 236x415x4 mm       |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 242x46x4 mm        |        2 |        2 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Coroplast Sheet - 419x66x4 mm        |        1 |        1 | Brought 5 [A1 3mm Sheets] to cut to size and [1mm Foam Tape] to avoid vibrations |
+| Acrylic Sheet Clear - 217x444x2.5 mm |        2 |        2 | 3mm thickness for Doors                                                          |
+| Acrylic Sheet Clear - 434x444x2.5 mm |        2 |        2 | 3mm thickness for Sides                                                          |
+| Acrylic Sheet Clear - 434x434x2.5 mm |        1 |        1 | 3mm thickness for Top                                                            |
+
+[A1 3mm Sheets]: https://www.amazon.co.uk/gp/product/B016EMNWS4
 
 ## Misc
 
@@ -207,9 +209,11 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | Loctite Blue Threadlocker Stick      |        1 |        1 |
 | Mobil EP2 Grease                     |        1 |        1 |
 | Tesa Wire Loom Harness Tape          |        1 |        1 |
-| 1mm Foam Tape                        |        1 |        1 |
+| [1mm Foam Tape]                      |        1 |        1 |
 | 6x3mm Neodimium Magnet               |        8 |       41 |
 | PTFE Tube (4mm OD 3mm ID) - 1m       |        1 |        1 |
+
+[1mm Foam Tape]: https://www.amazon.co.uk/gp/product/B076WTFWS5
 
 # Assembling The Frame
 
@@ -294,7 +298,7 @@ The lower A drive was the first time I have tried to print with ABS. The upper w
 | NEMA17 Motor 17HS19-2004S     |        2 |
 
 > [!NOTE]
-> I will upgrade these motors to [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac) for both A and B Drives.
+> I will upgrade these motors to [LDO Speedy Power Motors](https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth48-2504ac?wlr_ref=REF-ULH-QWV) for both A and B Drives.
 
 ### :wrench: Front Idlers
 

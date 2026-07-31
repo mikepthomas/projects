@@ -290,9 +290,9 @@ The SKR 1.4 Turbo only has 1 controllable fan header, I have purchased a few [mo
 
 Will make moving the printer around a little easier when assembled.
 
-| Item                                                                                                                             | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [sturdy_handles](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/jeoje/Sturdy_Handles/STL/sturdy_handles.stl) |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `jeoje`. Not required as replacing with [LDO Carry Handles](https://www.onetwo3d.co.uk/product/ldo-carry-handles/) |
+| Item                                                                                                                             | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [sturdy_handles](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/jeoje/Sturdy_Handles/STL/sturdy_handles.stl) |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | This is a Voron Users mod by `jeoje`. Not required as replacing with [LDO Carry Handles](https://www.onetwo3d.co.uk/product/ldo-carry-handles?wlr_ref=REF-ULH-QWV) |
 
 ### :negative_squared_cross_mark: Assembly
 

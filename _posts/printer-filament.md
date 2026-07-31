@@ -227,9 +227,9 @@ I usually print LDO ABS with a hotend temperature of 255°C and a bed temperatur
 
 This filament will be used to print the main parts for the [Voron 0.2][Voron 0.2].
 
-|                            Color                             | Hotend Temp | Bed Temp | Filament Profile                                                                | Slicer Profile | Purchased From                                                              | Avg Cost | KGs Purchased | Notes |
-| :----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------- | -------: | ------------: | ----- |
-| ![#2D2926 {20x20}](https://placehold.co/1/2D2926/2D2926.png) | 255         | 100      | [3dfilamentprofiles.com](https://3dfilamentprofiles.com/filament/details/11476) |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-abs-filament-1kg-1-75mm/) |   £15.95 |             1 |
+|                            Color                             | Hotend Temp | Bed Temp | Filament Profile                                                                | Slicer Profile | Purchased From                                                                                 | Avg Cost | KGs Purchased | Notes |
+| :----------------------------------------------------------: | ----------- | -------- | ------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------- | -------: | ------------: | ----- |
+| ![#2D2926 {20x20}](https://placehold.co/1/2D2926/2D2926.png) | 255         | 100      | [3dfilamentprofiles.com](https://3dfilamentprofiles.com/filament/details/11476) |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-abs-filament-1kg-1-75mm?wlr_ref=REF-ULH-QWV) |   £15.95 |             1 |
 
 ## ASA
 
@@ -239,9 +239,9 @@ I usually print LDO ASA with a hotend temperature of 255°C and a bed temperatur
 
 This filament will be used to print the accent parts for the [Voron 0.2][Voron 0.2].
 
-|                            Color                             | Hotend Temp | Bed Temp | Filament Profile | Slicer Profile | Purchased From                                                              | Avg Cost | KGs Purchased | Notes |
-| :----------------------------------------------------------: | ----------- | -------- | ---------------- | -------------- | --------------------------------------------------------------------------- | -------: | ------------: | ----- |
-| ![#F93822 {20x20}](https://placehold.co/1/F93822/F93822.png) | 255         | 100      |                  |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-asa-filament-1kg-1-75mm/) |   £18.10 |             1 |
+|                            Color                             | Hotend Temp | Bed Temp | Filament Profile | Slicer Profile | Purchased From                                                                                 | Avg Cost | KGs Purchased | Notes |
+| :----------------------------------------------------------: | ----------- | -------- | ---------------- | -------------- | ---------------------------------------------------------------------------------------------- | -------: | ------------: | ----- |
+| ![#F93822 {20x20}](https://placehold.co/1/F93822/F93822.png) | 255         | 100      |                  |                | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-asa-filament-1kg-1-75mm?wlr_ref=REF-ULH-QWV) |   £18.10 |             1 |
 
 # Polymaker
 
