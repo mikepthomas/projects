@@ -1961,10 +1961,10 @@ For further information, please refer to https://pinout.xyz/
 
 ### Branded
 
-| Item                 | Case                                                                     | Flashed with       | Notes                 |
-| -------------------- | ------------------------------------------------------------------------ | ------------------ | --------------------- |
-| Pimoroni Badger 2040 | [Case for Pimoroni Badger 2040](https://www.printables.com/model/549103) | [Badger OS]        | In original packaging |
-| Datanoise Pico ADK   | Eurorack Module                                                          | [PicoADK Firmware] | In original packaging |
+| Item                 | Case                                                                           | Flashed with       | Notes                 |
+| -------------------- | ------------------------------------------------------------------------------ | ------------------ | --------------------- |
+| Pimoroni Badger 2040 | [Case for Pimoroni Badger 2040](https://www.printables.com/model/549103/files) | [Badger OS]        | In original packaging |
+| Datanoise Pico ADK   | Eurorack Module                                                                | [PicoADK Firmware] | In original packaging |
 
 ```
 ╭───────────────────────────────────────── Raspberry Pi Pico Pinout ─────────────────────────────────────────╮
