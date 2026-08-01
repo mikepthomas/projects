@@ -523,15 +523,14 @@ As the firmware is too large to fit in the supplied flash, we also need to disab
 ```
 (Top) → Optional features (to reduce code size)
                          Klipper Firmware Configuration
-[ ] Support micro-controller based ADC (analog to digital)
+[*] Support micro-controller based ADC (analog to digital)
 [*] Support communicating with external chips via SPI bus
 [*]     Support software based SPI "bit-banging"
-[*] Support communicating with external chips via I2C bus
-[*]     Support software based I2C "bit-banging"
+[ ] Support communicating with external chips via I2C bus
 [ ] Support hardware PWM (pulse width modulation)
 [*] Support GPIO based button reading
 [ ] Support Trinamic stepper motor driver UART communication
-[ ] Support 'neopixel' type LED control
+[*] Support 'neopixel' type LED control
 [ ] Support measuring fan tachometer GPIO pins
     *** LCD chips ***
 [*] Support ST7920 LCD display
@@ -540,16 +539,15 @@ As the firmware is too large to fit in the supplied flash, we also need to disab
 [ ] Support adxl accelerometers
 [ ] Support lis2dw and lis3dh 3-axis accelerometers
 [ ] Support BMI160 accelerometer
-[ ] Support MPU accelerometers
-[ ] Support ICM20948 accelerometer
     *** External ADC type chips ***
 [ ] Support thermocouple MAX sensors
 [ ] Support HX711 and HX717 ADC chips
 [ ] Support ADS 131M02/M04 ADC chips
 [ ] Support ADS 1220 ADC chip
     *** Other external sensor chips ***
-[ ] Support ldc1612 eddy current sensor
 [ ] Support angle sensors
+    *** Other features ***
+[ ] Support for homing/probing events using analog sensors
 [Space/Enter] Toggle/enter      [?] Help            [/] Search
 [Q] Quit (prompts for save)     [ESC] Leave menu
 ```
