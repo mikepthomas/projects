@@ -245,6 +245,13 @@ export default function ColorKlipper(children: ReactNode) {
       );
 
     // Optional features Menu
+    case '[ ] Support micro-controller based ADC (analog to digital)\n':
+      return (
+        <Background>
+          [ ] Support micro-controller based ADC (analog to digital)
+          <Menu> </Menu>
+        </Background>
+      );
     case '[*] Support micro-controller based ADC (analog to digital)\n':
       return (
         <Background>
@@ -286,6 +293,12 @@ export default function ColorKlipper(children: ReactNode) {
       return (
         <Background>
           <Menu>[*]     Support software based I2C "bit-banging"</Menu>
+        </Background>
+      );
+    case '[ ] Support hardware PWM (pulse width modulation)\n':
+      return (
+        <Background>
+          <Menu>[ ] Support hardware PWM (pulse width modulation)</Menu>
         </Background>
       );
     case '[*] Support hardware PWM (pulse width modulation)\n':
@@ -356,10 +369,22 @@ export default function ColorKlipper(children: ReactNode) {
           <Menu>    *** Accelerometer chips ***</Menu>
         </Background>
       );
+    case '[ ] Support adxl accelerometers\n':
+      return (
+        <Background>
+          <Menu>[ ] Support adxl accelerometers</Menu>
+        </Background>
+      );
     case '[*] Support adxl accelerometers\n':
       return (
         <Background>
           <Menu>[*] Support adxl accelerometers</Menu>
+        </Background>
+      );
+    case '[ ] Support lis2dw and lis3dh 3-axis accelerometers\n':
+      return (
+        <Background>
+          <Menu>[ ] Support lis2dw and lis3dh 3-axis accelerometers</Menu>
         </Background>
       );
     case '[*] Support lis2dw and lis3dh 3-axis accelerometers\n':
@@ -368,10 +393,34 @@ export default function ColorKlipper(children: ReactNode) {
           <Menu>[*] Support lis2dw and lis3dh 3-axis accelerometers</Menu>
         </Background>
       );
+    case '[ ] Support BMI160 accelerometer\n':
+      return (
+        <Background>
+          <Menu>[ ] Support BMI160 accelerometer</Menu>
+        </Background>
+      );
+    case '[*] Support BMI160 accelerometer\n':
+      return (
+        <Background>
+          <Menu>[*] Support BMI160 accelerometer</Menu>
+        </Background>
+      );
+    case '[ ] Support MPU accelerometers\n':
+      return (
+        <Background>
+          <Menu>[ ] Support MPU accelerometers</Menu>
+        </Background>
+      );
     case '[*] Support MPU accelerometers\n':
       return (
         <Background>
           <Menu>[*] Support MPU accelerometers</Menu>
+        </Background>
+      );
+    case '[ ] Support ICM20948 accelerometer\n':
+      return (
+        <Background>
+          <Menu>[ ] Support ICM20948 accelerometer</Menu>
         </Background>
       );
     case '[*] Support ICM20948 accelerometer\n':
@@ -384,6 +433,12 @@ export default function ColorKlipper(children: ReactNode) {
       return (
         <Background>
           <Menu>    *** External ADC type chips ***</Menu>
+        </Background>
+      );
+    case '[ ] Support thermocouple MAX sensors\n':
+      return (
+        <Background>
+          <Menu>[ ] Support thermocouple MAX sensors</Menu>
         </Background>
       );
     case '[*] Support thermocouple MAX sensors\n':
@@ -402,6 +457,24 @@ export default function ColorKlipper(children: ReactNode) {
       return (
         <Background>
           <Menu>[*] Support HX711 and HX717 ADC chips</Menu>
+        </Background>
+      );
+    case '[ ] Support ADS 131M02/M04 ADC chips\n':
+      return (
+        <Background>
+          <Menu>[ ] Support ADS 131M02/M04 ADC chips</Menu>
+        </Background>
+      );
+    case '[*] Support ADS 131M02/M04 ADC chips\n':
+      return (
+        <Background>
+          <Menu>[*] Support ADS 131M02/M04 ADC chips</Menu>
+        </Background>
+      );
+    case '[ ] Support ADS 1220 ADC chip\n':
+      return (
+        <Background>
+          <Menu>[ ] Support ADS 1220 ADC chip</Menu>
         </Background>
       );
     case '[*] Support ADS 1220 ADC chip\n':

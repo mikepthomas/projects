@@ -2,7 +2,7 @@
 title: Voron Hardware
 heading: Custom PCBs for Voron Printers
 date: 2026-07-03T16:52:58.045Z
-lastmod: 2026-07-31T13:14:38.022Z
+lastmod: 2026-08-01T12:03:22.582Z
 author: Mike Thomas
 description: Sourcing parts and assembling custom PCBs for Voron Printers.
 preview: /assets/blog/voron-hardware/voron-hardware-hero.jpg
@@ -255,9 +255,9 @@ There are three different mounts, one vertical, one horizontal and one for DIN r
 
 | Item                                                                                                                                                  | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
-| [KlipperExpander_HorizontalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_HorizontalMount.STL) |        1 | [eSun ABS+ (Black)] |  34m | 1.50m |  3.83g | £0.06 | :heavy_check_mark: |       |
-| [KlipperExpander_RailMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_RailMount.stl)             |        1 |                     |      |       |        |       |        :x:         |       |
-| [KlipperExpander_VerticalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_VerticalMount.STL)     |        1 |                     |      |       |        |       |        :x:         |       |
+| [KlipperExpander_HorizontalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_HorizontalMount.STL) |        1 | [eSun ABS+ (Black)] |  34m | 1.50m |  3.83g | £0.06 | :heavy_check_mark: |
+| [KlipperExpander_RailMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_RailMount.stl)             |        1 |                     |      |       |        |       |        :x:         |
+| [KlipperExpander_VerticalMount](https://github.com/VoronDesign/Voron-Hardware/blob/master/Klipper_Expander/CAD/KlipperExpander_VerticalMount.STL)     |        1 |                     |      |       |        |       |        :x:         |
 
 I have printed the horizontal mount as I am planning on mounting the Klipper Expander on the bottom of the rear electronics compartment of the [Voron 1.8](printer-voron-1.8).
 
@@ -484,6 +484,83 @@ The reference numbers in the notes field refer to the parts required marked on t
 | Item         | Quantity | Received | Notes |
 | ------------ | -------: | -------: | ----- |
 | Arduino Nano |        1 |        1 |
+
+## Printing Parts
+
+| Item                                                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arduino DIN mount - Box](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [Arduino DIN mount - Lid](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [rs25_psu_bracket_clip](https://www.printables.com/model/319298/files)   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+
+## Flashing
+
+### Klipper Firmware Configuration
+
+#### USB
+
+```sh
+cd ~/klipper/
+make clean
+make menuconfig KCONFIG_CONFIG=config.arduino_nano
+```
+
+Set the following configuration:
+
+```
+(Top)
+                         Klipper Firmware Configuration
+[ ] Enable extra low-level configuration options
+    Micro-controller Architecture (Atmega AVR)  --->
+    Processor model (atmega328p)  --->
+    Optional features (to reduce code size)  --->
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+As the firmware is too large to fit in the supplied flash, we also need to disable some features:
+
+```
+(Top) → Optional features (to reduce code size)
+                         Klipper Firmware Configuration
+[ ] Support micro-controller based ADC (analog to digital)
+[*] Support communicating with external chips via SPI bus
+[*]     Support software based SPI "bit-banging"
+[*] Support communicating with external chips via I2C bus
+[*]     Support software based I2C "bit-banging"
+[ ] Support hardware PWM (pulse width modulation)
+[*] Support GPIO based button reading
+[ ] Support Trinamic stepper motor driver UART communication
+[ ] Support 'neopixel' type LED control
+[ ] Support measuring fan tachometer GPIO pins
+    *** LCD chips ***
+[*] Support ST7920 LCD display
+[*] Support HD44780 LCD display
+    *** Accelerometer chips ***
+[ ] Support adxl accelerometers
+[ ] Support lis2dw and lis3dh 3-axis accelerometers
+[ ] Support BMI160 accelerometer
+[ ] Support MPU accelerometers
+[ ] Support ICM20948 accelerometer
+    *** External ADC type chips ***
+[ ] Support thermocouple MAX sensors
+[ ] Support HX711 and HX717 ADC chips
+[ ] Support ADS 131M02/M04 ADC chips
+[ ] Support ADS 1220 ADC chip
+    *** Other external sensor chips ***
+[ ] Support ldc1612 eddy current sensor
+[ ] Support angle sensors
+[Space/Enter] Toggle/enter      [?] Help            [/] Search
+[Q] Quit (prompts for save)     [ESC] Leave menu
+```
+
+Backup config, Build and Flash to the board:
+
+```sh
+cp config.arduino_nano ../printer_data/config/Firmware/
+make KCONFIG_CONFIG=config.arduino_nano -j4
+make KCONFIG_CONFIG=config.arduino_nano flash FLASH_DEVICE=/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
+```
 
 # PT100 Stick
 
