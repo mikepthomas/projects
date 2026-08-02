@@ -111,6 +111,24 @@ Kit contains the `Quantity` needed for building 1 unit.
 | 0805 Resistor (1.5K) |        1 |          | R1    |
 | 0805 Thermistor      |        1 |          | CT    |
 
+## Printing Parts
+
+| Item                                                                                                                                                                          | Quantity | Material                      | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------- | ---: | ----: | -----: | ----: | :----------------: | -------------------------------------------------------------------------------- |
+| [pcb_spacer](https://github.com/VoronDesign/Voron-Hardware/blob/master/Afterburner_Toolhead_PCB/STLs/Clockwork/pcb_spacer.stl)                                                |        1 | [eSun ABS+ (Fire Engine Red)] |  06m | 0.15m |  0.39g | £0.01 | :heavy_check_mark: | Afterburner Toolhead PCB Part                                                    |
+| [pcb_cover](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover-r1.stl)                             |        1 | [eSun ABS+ (Fire Engine Red)] |      |       |        |       |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
+| [pcb_cover_clip-on_mount](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover_clip-on_mount-r1.stl) |        1 | [eSun ABS+ (Fire Engine Red)] |      |       |        |       |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
+
+## Assembly
+
+#### Parts Needed
+
+| Item                              | Quantity |
+| --------------------------------- | -------: |
+| [Afterburner Toolhead PCB] (ERCF) |        1 |
+| M3x8 SHCS                         |        2 |
+| M3 Nylon Washer                   |        2 |
+
 # Carabiner
 
 ![Bare Carabiner PCB](/assets/blog/voron-hardware/carabiner.jpg)
@@ -196,6 +214,12 @@ Kit contains the `Quantity` needed for building 1 unit.
 | Item                      | Quantity | Received | Notes          |
 | ------------------------- | -------: | -------: | -------------- |
 | Metal Film resistor (10K) |        4 |        8 | R1, R2, R3, R4 |
+
+## Printing Parts
+
+| Item                                                                                                                                          | Quantity | Material            |  Time |  Size | Weight |  Cost |      Printed       | Notes |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ----: | ----: | -----: | ----: | :----------------: | ----- |
+| [ercf_easy_brd bracket bottom](https://github.com/Tircown/ERCF-easy-brd/blob/main/mods/Bottom%20bracket/ercf_easy_brd%20bracket%20bottom.stl) |        1 | [eSun ABS+ (Black)] | 1h14m | 3.37m |  8.60g | £0.14 | :heavy_check_mark: |
 
 ## Assembly
 
@@ -487,11 +511,11 @@ The reference numbers in the notes field refer to the parts required marked on t
 
 ## Printing Parts
 
-| Item                                                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [Arduino DIN mount - Box](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
-| [Arduino DIN mount - Lid](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
-| [rs25_psu_bracket_clip](https://www.printables.com/model/319298/files)   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| Item                                                                     | Quantity | Material                      | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------ | -------: | ----------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Arduino DIN mount - Box](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
+| [Arduino DIN mount - Lid](https://www.printables.com/model/319298/files) |        1 | [eSun ABS+ (Fire Engine Red)] |      |      |        |      |   :x:   |
+| [rs25_psu_bracket_clip](https://www.printables.com/model/319298/files)   |        1 | [eSun ABS+ (Black)]           |      |      |        |      |   :x:   |
 
 ## Flashing
 
@@ -631,6 +655,7 @@ I purchased this already assembled.
 
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
+[eSun ABS+ (Fire Engine Red)]: printer-filament#esun-abs-fire-engine-red
 [Related Links]: #
 [Afterburner Toolhead PCB]: https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB
 [Carabiner]: https://github.com/Annex-Engineering/Carabiner-Docs/tree/main/carabiner-classic

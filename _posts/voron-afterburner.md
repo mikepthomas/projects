@@ -74,11 +74,11 @@ keywords:
 
 ## Toolhead PCB
 
-| Item                           | Quantity | Received | Notes |
-| ------------------------------ | -------: | -------: | ----- |
-| ERCF Afterburner Tool-Head PCB |        1 |        1 |
-| M3x8 SHCS                      |        2 |        2 |
-| M3 Nylon Washer                |        2 |        2 |
+| Item                              | Quantity | Received | Notes |
+| --------------------------------- | -------: | -------: | ----- |
+| [Afterburner Toolhead PCB (ERCF)] |        1 |        1 |
+| M3x8 SHCS                         |        2 |        2 |
+| M3 Nylon Washer                   |        2 |        2 |
 
 ## Dual Bowden
 
@@ -174,6 +174,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 #### Assembly
 
+![Clockwork 1 extruder installed](/assets/blog/voron-afterburner/clockwork-installed.jpg)
+
 ##### Parts Needed
 
 | Item               | Quantity |
@@ -210,6 +212,8 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :white_check_mark: Assembly
 
+![Afterburner Toolhead Assembled](/assets/blog/voron-afterburner/afterburner-hero.jpg 'Afterburner Assembled')
+
 #### Parts Needed
 
 | Item                           | Quantity |
@@ -219,26 +223,6 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | M3x30 SHCS                     |        2 |
 | 40x40x20 Centrifugal Fan (24V) |        1 |
 | 40x40x10 Axial Fan (24V)       |        1 |
-
-## Toolhead PCB
-
-| Item                                                                                                                                                                          | Quantity | Material                      | Time |  Size | Weight |  Cost |      Printed       | Notes                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------- | ---: | ----: | -----: | ----: | :----------------: | -------------------------------------------------------------------------------- |
-| [pcb_spacer](https://github.com/VoronDesign/Voron-Hardware/blob/master/Afterburner_Toolhead_PCB/STLs/Clockwork/pcb_spacer.stl)                                                |        1 | [eSun ABS+ (Fire Engine Red)] |  06m | 0.15m |  0.39g | £0.01 | :heavy_check_mark: | Afterburner Toolhead PCB Part                                                    |
-| [pcb_cover](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover-r1.stl)                             |        1 | [eSun ABS+ (Fire Engine Red)] |      |       |        |       |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
-| [pcb_cover_clip-on_mount](https://github.com/wile-e1/VoronUsers/blob/sb_cw1_pcb_cover/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/sb_cw1_pcb_cover_clip-on_mount-r1.stl) |        1 | [eSun ABS+ (Fire Engine Red)] |      |       |        |       |        :x:         | This a User mod for the ERCF Toolhead PCB by wile-e1 that fits the StealthBurner |
-
-### :white_check_mark: Assembly
-
-![Clockwork 1 extruder installed](/assets/blog/voron-afterburner/clockwork-installed.jpg)
-
-#### Parts Needed
-
-| Item                           | Quantity |
-| ------------------------------ | -------: |
-| ERCF Afterburner Tool-Head PCB |        1 |
-| M3x8 SHCS                      |        2 |
-| M3 Nylon Washer                |        2 |
 
 ## Dual Bowden
 
@@ -260,3 +244,5 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black
 [eSun ABS+ (Fire Engine Red)]: printer-filament#esun-abs-fire-engine-red
+[Related Links]: #
+[Afterburner Toolhead PCB (ERCF)]: voron-hardware#afterburner-toolhead-pcb-ercf
