@@ -50,7 +50,7 @@ Fasteners are the parts needed to hold the 3D printed parts together and to the 
 | M5 1mm Shim                 |       42 |       46 | In LDO Voron V2.4 Premium Hardware Kit |
 | M4x6 BHCS                   |        7 |        9 | In LDO Voron V2.4 Premium Hardware Kit |
 | M4 Knurled Nut (DIN 466-B)  |        4 |        4 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3x8 SHCS                   |      180 |      190 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x8 SHCS                   |      173 |      190 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x6 FHCS                   |        8 |       51 |
 | M3x6 BHCS                   |       11 |       16 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x50 SHCS                  |        2 |          | See [StealthBurner] BOM                |
@@ -63,7 +63,7 @@ Fasteners are the parts needed to hold the 3D printed parts together and to the 
 | M3x10 FHCS                  |        4 |       55 |
 | M3 Washer                   |        4 |        3 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3 Threaded Insert (M3x5x4) |      110 |       95 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3 Post-install T-nut       |       96 |      124 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3 Post-install T-nut       |       89 |      124 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3 Hexnut                   |        6 |       12 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3 Hammer Head T-nuts       |       60 |       65 | In LDO Voron V2.4 Premium Hardware Kit |
 | M2x10 Self-tapping Screw    |       18 |       18 | In LDO Voron V2.4 Premium Hardware Kit |
