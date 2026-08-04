@@ -444,7 +444,7 @@ I found, at least with the parts in my Powge Motion Kit, that positioning the pu
 ![One of the Z motors installed to the Z Drive](/assets/blog/printer-voron-2.4/z-motor-installed.jpg 'Z Motor Installed')
 
 > [!NOTE]
-> The LDO wiring guide that I am following for the electronics mentions [The motor should be installed in a way so that the connector faces outwards towards the skirts](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c).
+> I am following the [LDO wiring guide for the electronics](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c) which mentions "The motor should be installed in a way so that the connector faces outwards towards the skirts".
 > As I am using [LDO SwitchWire Motors] which are 8mm shorter than the ones in the LDO kit, I have mounted them the same way as in the official manual.
 > However, they will likely need to be turned another 90° so the connector faces upwards towards the deck so that the power supply and PiPlate skirt can fit.
 
