@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-07-31T18:59:08.686Z
+lastmod: 2026-08-10T11:14:28.747Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2419,15 +2419,16 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Development
 
-| Date       | Blog                                           |
-| ---------- | ---------------------------------------------- |
-| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?              |
-| 02/04/2026 | [Dev Blog #2]: Ways To Play                    |
-| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?           |
-| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland? |
-| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)      |
-| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)      |
-| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?   |
+| Date       | Blog                                                   |
+| ---------- | ------------------------------------------------------ |
+| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                      |
+| 02/04/2026 | [Dev Blog #2]: Ways To Play                            |
+| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                   |
+| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?         |
+| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)              |
+| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)              |
+| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?           |
+| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition? |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2436,6 +2437,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #5]: https://modiphius.net/blogs/news/dev-blog-5-the-new-ai-system-part-1
 [Dev Blog #6]: https://modiphius.net/blogs/news/dev-blog-6-the-new-ai-system-part-2
 [Dev Blog #7]: hhttps://modiphius.net/blogs/news/dev-blog-7-what-components-have-changed
+[Dev Blog #8]: https://modiphius.net/blogs/news/dev-blog-8-how-do-weapons-work-in-the-new-edition
 
 ## Items
 
@@ -2459,10 +2461,10 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ### Miniatures
 
-| Item                        | Purchased | Digital | Downloaded | Released                          | Notes |
+| Item                        | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
 | --------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| Female Vault Dweller Heroes |    :x:    |         |    :x:     | [Q4 2026][State of the Wasteland] |
-| Male Vault Dweller Heroes   |    :x:    |         |    :x:     | [Q4 2026][State of the Wasteland] |
+| Female Vault Dweller Heroes |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| Male Vault Dweller Heroes   |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
 
 [Filament]: #
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
