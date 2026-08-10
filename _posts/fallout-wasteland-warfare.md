@@ -2319,10 +2319,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]      | :heavy_check_mark: | [July 2026]     |
 | ┝ Robert MacCready                           | :heavy_check_mark: |                                                      |                    | [July 2026]     | Promo                               |
 | ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]           | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]            |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide]     |                    | [February 2026] | [Dice Set][Institute: Dice Set]     |
-| [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide]     |                    | [February 2026] | [Dice Set][Minutemen: Dice Set]     |
-| [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]      |                    | [February 2026] | [Dice Set][Railroad: Dice Set]      |
-| [Super Mutants: Core Box (Plastic)]          |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide] |                    | [February 2026] | [Dice Set][Super Mutants: Dice Set] |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide]     | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set]     |
+| [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide]     | :heavy_check_mark: | [February 2026] | [Dice Set][Minutemen: Dice Set]     |
+| [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]      | :heavy_check_mark: | [February 2026] | [Dice Set][Railroad: Dice Set]      |
+| [Super Mutants: Core Box (Plastic)]          |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Super Mutants: Dice Set] |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
