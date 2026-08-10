@@ -1626,24 +1626,6 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
-#### In Sheeps Clothing
-
-| Item                      | Purchased | Digital | Downloaded | Released     | Notes |
-| ------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [Pylon Ambush Scenic Set] |    :x:    |         |            | [March 2025] |
-
-[Pylon Ambush Scenic Set]: https://modiphius.net/products/fallout-miniatures-pylon-ambush-scenic-set
-
-#### Stoic Defenders
-
-| Item                                        | Purchased | Digital | Downloaded | Released     | Notes |
-| ------------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [Brotherhood of Steel: Appalachian Command] |    :x:    |         |            | [April 2025] |
-| [Cryptids: Grafton Monster]                 |    :x:    |         |            | [April 2025] |
-
-[Brotherhood of Steel: Appalachian Command]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-appalachian-command
-[Cryptids: Grafton Monster]: https://modiphius.net/products/fallout-miniatures-cryptids-grafton-monster
-
 #### Scorched Plague
 
 [Fallout: Miniatures Reveal - Wave 10, Part 2 Video](https://www.youtube-nocookie.com/embed/6wadIOkHYtM?start=2354)
@@ -2332,26 +2314,33 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle)
 
-| Item                                         |     Purchased      | Digital                                         |     Downloaded     | Released        | Notes                           |
-| -------------------------------------------- | :----------------: | ----------------------------------------------- | :----------------: | --------------- | ------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference] | :heavy_check_mark: | [July 2026]     |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                 |                    | [July 2026]     | Promo                           |
-| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]      | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]        |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: |                                                 |                    | [February 2026] | [Dice Set][Institute: Dice Set] |
-| [Minutemen: Core Box (Plastic)]              |        :x:         |                                                 |                    | [February 2026] | [Dice Set][Minutemen: Dice Set] |
-| [Railroad: Core Box (Plastic)]               |        :x:         |                                                 |                    | [February 2026] | [Dice Set][Railroad: Dice Set]  |
+| Item                                         |     Purchased      | Digital                                              |     Downloaded     | Released        | Notes                               |
+| -------------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------- | ----------------------------------- |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]      | :heavy_check_mark: | [July 2026]     |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                      |                    | [July 2026]     | Promo                               |
+| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]           | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]            |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide]     |                    | [February 2026] | [Dice Set][Institute: Dice Set]     |
+| [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide]     |                    | [February 2026] | [Dice Set][Minutemen: Dice Set]     |
+| [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]      |                    | [February 2026] | [Dice Set][Railroad: Dice Set]      |
+| [Super Mutants: Core Box (Plastic)]          |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide] |                    | [February 2026] | [Dice Set][Super Mutants: Dice Set] |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
 [BoS Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-brotherhood-of-steel
 [Brotherhood of Steel: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
+[Institute Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/d039a1fb-4ec1-43b7-b8d5-0f4a5a4469d6/FalloutFactions-InstituteCore-AssemblyGuide-Digital.pdf
 [Institute: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-institute-core-box-plastic
 [Institute: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-institute
+[Minutemen Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a0b697b9-2233-4bc0-96e0-c6a05ae5b7f5/FalloutFactions-MinutemenCore-AssemblyGuide-Digital.pdf
 [Minutemen: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-minutemen-core-box-plastic
 [Minutemen: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-minutemen
+[Railroad Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/eddfb6d9-ae57-4322-bacc-46b673d759da/FalloutFactions-RailroadCore-AssemblyGuide-Digital.pdf
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
+[Super Mutants Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/90459297-8488-451f-a4b0-e40cdefa6efd/FalloutFactions-SuperMutantsCore-AssemblyGuide-Digital.pdf
+[Super Mutants: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-super-mutants-core-set-plastic
+[Super Mutants: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-super-mutants
 
 ## Battle for Hoover Dam
 
