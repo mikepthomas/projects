@@ -2312,17 +2312,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Items
 
-[Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle)
+The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-factions-complete-bundle) contains the following items:
 
-| Item                                         |     Purchased      | Digital                                              |     Downloaded     | Released        | Notes                               |
-| -------------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------- | ----------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]      | :heavy_check_mark: | [July 2026]     |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                      |                    | [July 2026]     | Promo                               |
-| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]           | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]            |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide]     | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set]     |
-| [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide]     | :heavy_check_mark: | [February 2026] | [Dice Set][Minutemen: Dice Set]     |
-| [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]      | :heavy_check_mark: | [February 2026] | [Dice Set][Railroad: Dice Set]      |
-| [Super Mutants: Core Box (Plastic)]          |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Super Mutants: Dice Set] |
+| Item                                         |     Purchased      | Digital                                          |     Downloaded     | Released        | Notes                           |
+| -------------------------------------------- | :----------------: | ------------------------------------------------ | :----------------: | --------------- | ------------------------------- |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]  | :heavy_check_mark: | [July 2026]     |
+| ┝ Robert MacCready                           | :heavy_check_mark: |                                                  |                    | [July 2026]     | Promo                           |
+| ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]       | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]        |
+| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set] |
+| [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Minutemen: Dice Set] |
+| [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]  | :heavy_check_mark: | [February 2026] | [Dice Set][Railroad: Dice Set]  |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
@@ -2338,9 +2337,6 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Railroad Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/eddfb6d9-ae57-4322-bacc-46b673d759da/FalloutFactions-RailroadCore-AssemblyGuide-Digital.pdf
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
-[Super Mutants Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/90459297-8488-451f-a4b0-e40cdefa6efd/FalloutFactions-SuperMutantsCore-AssemblyGuide-Digital.pdf
-[Super Mutants: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-super-mutants-core-set-plastic
-[Super Mutants: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-super-mutants
 
 ## Battle for Hoover Dam
 
@@ -2356,11 +2352,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Miniatures
 
-| Item                            |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
-| ------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
-| [Wasteland Raiders: Core Box]   | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box] |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                                |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
+| ----------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
+| [Super Mutants: Core Box (Plastic)] |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide]        | :heavy_check_mark: | [February 2026]  | [Dice Set][Super Mutants: Dice Set]       |
+| [Wasteland Raiders: Core Box]       | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box]     |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
 
+[Super Mutants Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/90459297-8488-451f-a4b0-e40cdefa6efd/FalloutFactions-SuperMutantsCore-AssemblyGuide-Digital.pdf
+[Super Mutants: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-super-mutants-core-set-plastic
+[Super Mutants: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-super-mutants
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
 [Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
 [Wasteland Raiders: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-raiders
