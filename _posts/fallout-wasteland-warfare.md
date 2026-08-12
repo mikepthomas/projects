@@ -2352,20 +2352,20 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 
 ## Miniatures
 
-| Item                                |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
-| ----------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
-| [Super Mutants: Core Box (Plastic)] |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide]        | :heavy_check_mark: | [February 2026]  | [Dice Set][Super Mutants: Dice Set]       |
-| [Wasteland Raiders: Core Box]       | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box]     |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
+| Item                                      |     Purchased      | Digital                                                     |     Downloaded     | Released         | Notes                                     |
+| ----------------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
+| [Super Mutants: Core Box (Plastic)]       |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide]        | :heavy_check_mark: | [February 2026]  | [Dice Set][Super Mutants: Dice Set]       |
+| [Wasteland Raiders: Core Box (Plastic)]   | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
+| [Wasteland Survivors: Core Box (Plastic)] |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Super Mutants Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/90459297-8488-451f-a4b0-e40cdefa6efd/FalloutFactions-SuperMutantsCore-AssemblyGuide-Digital.pdf
 [Super Mutants: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-super-mutants-core-set-plastic
 [Super Mutants: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-super-mutants
 [Wasteland Raiders: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/fa101f1e-7740-46f9-9eb0-4e3d96f8fff1/Fallout-Miniatures-Wasteland-Raiders-Assembly-Guide.pdf
-[Wasteland Raiders: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
+[Wasteland Raiders: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-wasteland-raiders-core-box-plastic
 [Wasteland Raiders: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-raiders
 [Wasteland Survivors: Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e4509eec-07e6-4cee-a105-76454dac5db7/FO_Miniatures_Wasteland-Survivors_Assembly-Guide.pdf
-[Wasteland Survivors: Core Box]: https://modiphius.net/products/fallout-miniatures-wasteland-survivors-core-set-plastic
+[Wasteland Survivors: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-wasteland-survivors-core-set-plastic
 [Wasteland Survivors: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-wasteland-survivors
 
 # Fallout: Wasteland Wanderer
