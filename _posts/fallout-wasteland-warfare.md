@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-10T11:14:28.747Z
+lastmod: 2026-08-13T15:14:36.147Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2432,14 +2432,22 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ### Starter Sets
 
-| Item                                | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
-| ----------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| Into the Wasteland Solo Starter Set |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┕ Dogmeat                           |    :x:    |         |            | [Q4 2026][State of the Wasteland] | Promo |
-| Warband Starter Set                 |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┝ The Mutt                          |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┝ The Ravager                       |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┕ Vault Dweller In T-45             |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| Item                                    | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
+| --------------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
+| [Into the Wasteland: Solo Starter Set]  |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┝ Dogmeat with Goggles                  |    :x:    |         |            | [Q4 2026][State of the Wasteland] | Promo |
+| ┕ [Male Vault Dweller Heroes (Plastic)] |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| [Female Vault Dweller Heroes (Plastic)] |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| [Warbands Starter Set]                  |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┝ [The Ravager & The Mutt]              |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| ┕ [Sole Survivor in T-45 Power Armor]   |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+
+[Female Vault Dweller Heroes (Plastic)]: https://modiphius.net/products/fallout-miniatures-female-hero-vault-dwellers-plastic
+[Into the Wasteland: Solo Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-starter-set-dogmeat-with-goggles
+[Male Vault Dweller Heroes (Plastic)]: https://modiphius.net/products/fallout-miniatures-male-hero-vault-dwellers-plastic
+[Sole Survivor in T-45 Power Armor]: https://modiphius.net/products/fallout-miniatures-sole-survivor-in-t-45-power-armor
+[The Ravager & The Mutt]: https://modiphius.net/products/fallout-miniatures-the-ravager-the-mutt
+[Warbands Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-warband-starter-set
 
 ### Rules
 
@@ -2447,13 +2455,6 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | ------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
 | Campaign Handbook   |    :x:    |         |            | [Q3 2027][State of the Wasteland] |
 | Unit Reference Book |    :x:    |         |            | [Q1 2027][State of the Wasteland] |
-
-### Miniatures
-
-| Item                        | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
-| --------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| Female Vault Dweller Heroes |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| Male Vault Dweller Heroes   |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
 
 [Filament]: #
 [eSun ABS+ (Brown)]: printer-filament#esun-abs-brown
