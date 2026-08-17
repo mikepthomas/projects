@@ -2,7 +2,7 @@
 title: AM8 Switchwire
 heading: Upgrading the Anet A8 to an AM8 Switchwire
 date: 2022-05-28
-lastmod: 2025-07-04T15:47:04.144Z
+lastmod: 2026-08-17T21:53:06.834Z
 author: Mike Thomas
 description: The AM8 is a drop in replacement for the frame on the Anet A8. However I will be upgrading to a metal frame with CoreXZ kinematics using the AM8 Switchwire mod.
 preview: /assets/blog/printer-am8/printer-am8-hero.jpg
@@ -61,31 +61,32 @@ I am currently planning to upgrade the flimsy acrylic to a sturdy metal frame wi
 
 ## Electronics
 
-I have an extra SKR Pico that I received when I purchased a Formbot [Voron 0.2](printer-voron-0.2) kit.
+The [AM8 Switchwire Mod](https://github.com/maximilian-foerg/AM8-Switchwire-Mod) docs suggest using a Bigtreetech SKR mini E3 V2 to control the printer.
 
-It will be flashed with [Klipper Firmware](https://www.klipper3d.org/) as the Pico does not support Marlin.
-The SKR Pico has 4 integrated stepper motors which will be enough to run the Switchwire mod's the 2 XZ stepper motors, the Y Stepper and the Extruder.
+It will be flashed with [Marlin](https://marlinfw.org) to start with but I may eventually upgrade to [Klipper Firmware](https://www.klipper3d.org) to unlock extra print speed.
+The SKR mini E3 has 4 integrated stepper motors which will be enough to run the Switchwire mod's the 2 XZ stepper motors, the Y Stepper and the Extruder.
 
 | Item                                 | Quantity | Received | Notes                                                                         |
 | ------------------------------------ | -------: | -------: | ----------------------------------------------------------------------------- |
 | 40x40x20 Centrifugal Fan (12V)       |        1 |        1 | Only required when upgrading to the Afterburner                               |
 | 40x40x10 Axial Fan (12V)             |        1 |        1 | Only required when upgrading to the Afterburner                               |
 | E3D V6 Bowden Hotend Kit (12V)       |        1 |          | Will use the Anet A8 Extruder to start                                        |
-| Mini 12864 Display                   |        1 |        1 | Will not work with the SKR Pico                                               |
+| Mini 12864 Display                   |        1 |        1 |
 | NEMA17 Motor 17HS15-1504S1           |        3 |        3 |
 | NEMA17 Motor 17HS08-1004S            |        1 |        1 |
 | Omron TL-Q5MC2 - NPN Inductive Probe |        1 |        1 | Only required when upgrading to the Afterburner                               |
-| SKR Pico                             |        1 |        1 |
+| SKR mini E3 V2                       |        1 |        1 |
 | SKR 1.4                              |        1 |        1 | From the Anet A8 after [upgrading the electronics](printer-hardware-upgrades) |
 | Raspberry Pi 3                       |        1 |        1 |
 
 ## Frame
 
 Since upgrading to PrusaSlicer, I have pushed my printing speeds to the limit of what stock Anet A8 acrylic frame can cope with.
-
 I have [stiffened the frame as much as I can with 3D printed upgrades](printer-printed-upgrades#frame-bracing) however, the frame really could do with a metal frame to print faster.
 
-I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but instead decided to build a complete Voron 1.8. As [The Canuck Creator](https://www.youtube.com/channel/UCmV40QWkVeRs_nAvEOE_P-g) says 2 printers are 1 and 1 printer is none, therefore I would like to keep at least one working printer before heavilly modifing a working one.
+I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but instead decided to build a complete [Voron 1.8](printer-voron-1.8).
+
+As [The Canuck Creator](https://www.youtube.com/channel/UCmV40QWkVeRs_nAvEOE_P-g) says 2 printers are 1 and 1 printer is none, therefore I would like to keep at least one working printer before heavilly modifing a working one.
 
 During my research for the [Hypercube](printer-hypercube), I ruled out the AM8 due to the cost of the frame, however the frame I settled on was an [ALTRAX frame that I have imported from Poland](https://hobby-store.pl/en/frame-kits-for-3d-printers/altrax-anet-am8-3d-printer-frame.html) for £30.55 plus postage which I thought was resonable.
 
@@ -112,7 +113,30 @@ When trying to fit the support plate the original frame, I found out that the be
 | --------------------------- | -------: | -------: | ----- |
 | Aluminium Bed Support Plate |        1 |        1 |
 
+## Linear Rails
+
+I purchased a job lot of random 3D printing related items on eBay which just happened to contain some 2020 extrusions that were the exact size required to add some linear rails to the AM8 frame.
+
+I will use some of the 3D printed parts from the [MGN12 mod BLV Project](blvprojects.com/blv-mgn12-mod-3d-printer) to mount the buildplate on the linear rails instead of using linear rods from the Anet A8.
+
+| Item                     | Quantity | Received | Notes          |
+| ------------------------ | -------: | -------: | -------------- |
+| Linear Rail MGN12H 380mm |        2 |        2 | Medium Preload |
+| MGN12H Block             |        2 |        2 | Medium Preload |
+| Misumi HFS5-2020-340     |        2 |        2 |
+
 # Printing Parts
+
+## BLV MGN12 Mod
+
+Parts to mount the buildplate on MGN12 linear rails.
+
+| Item                                                                   | Quantity | Material                     | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------- | -------: | ---------------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [Adapter_back_left](https://www.thingiverse.com/thing:2567757/files)   |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Adapter_back_right](https://www.thingiverse.com/thing:2567757/files)  |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Adapter_front_left](https://www.thingiverse.com/thing:2567757/files)  |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
+| [Adapter_front_right](https://www.thingiverse.com/thing:2567757/files) |        1 | [PrimaValue ABS (Dark Grey)] |      |      |        |      |   :x:   |
 
 ## Original AM8 Parts
 
