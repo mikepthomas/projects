@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-16T09:14:49.691Z
+lastmod: 2026-08-18T19:50:10.697Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -256,17 +256,30 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 #### Creatures
 
+![Creatures: Core Box](https://cdn.shopify.com/s/files/1/0225/4035/products/Fallout_CreaturesSetHero_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+The [Creatures: Core Box] contains the following items:
+
 | Item                      |     Purchased      | Digital | Downloaded | Released   | Notes                                                     |
 | ------------------------- | :----------------: | ------- | :--------: | ---------- | --------------------------------------------------------- |
 | [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |
-| Creatures: Feral Ghouls   |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
+| Creatures: Feral Ghouls   | :heavy_check_mark: |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
 | Creatures: Radroaches     |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
 | [Creatures: Radscorpions] |        :x:         |         |            | April 2019 | [Legendary (Deathskull Radscorpion)][Into the Wasteland]  |
 
+[Creatures: Core Box]: https://web.archive.org/web/20190819114627/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-wasteland-creatures-core-box
 [Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
 [Creatures: Radscorpions]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-radscorpions
 
 #### Robots
+
+![Robots: Core Box](https://cdn.shopify.com/s/files/1/0225/4035/products/Fallout_RobotsSetHero_1280x.jpg)
+
+> Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
+
+The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot] and a Mr Handy:
 
 | Item                            | Purchased | Digital | Downloaded | Released   | Notes                                                           |
 | ------------------------------- | :-------: | ------- | :--------: | ---------- | --------------------------------------------------------------- |
@@ -274,6 +287,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | [Robots: Protectron and Eyebot] |    :x:    |         |            | April 2019 | Discontinued, Repacked into [Robots: Assaultrons & Protectrons] |
 
 [Robots: Assaultrons]: https://web.archive.org/web/20190721192339/https://www.modiphius.net/products/fallout-wasteland-warfare-robots-assaultrons
+[Robots: Core Box]: https://web.archive.org/web/20190825210213/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-robots-core-box
 [Robots: Protectron and Eyebot]: https://web.archive.org/web/20190718030506/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-robots-protectron-and-eyebot
 
 #### Super Mutants
@@ -344,7 +358,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                            | Purchased | Digital                                                                                                       |     Downloaded     | Released   | Notes                                        |
 | ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | -------------------------------------------- |
-| SCP-012-111: Steel-Clad Manhunt |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-012-111: Steel-Clad Manhunt |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Robots: Core Box]              |
 | SCP-013-111: Protectron Parade! |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Protectron and Eyebot] |
 | SCP-014-111: Deadly Run         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Sentry Bot]            |
 | SCP-015-111: Target Locked      |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Assaultrons]           |
@@ -353,7 +367,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 | Item                                  | Purchased | Digital                                                                                                          |     Downloaded     | Released   | Notes                                      |
 | ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ------------------------------------------ |
-| SCP-016-111: Hunters of the Wasteland |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 |
+| SCP-016-111: Hunters of the Wasteland |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Core Box]         |
 | SCP-017-111: Old Gullet's Deathtrap   |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Deathclaw]        |
 | SCP-018-111: DC Metro Raid            |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Ghouls]           |
 | SCP-019-111: Chemtest Pit             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Radscorpions]     |
@@ -442,8 +456,8 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 | Item                                  |     Purchased      | Digital                     |     Downloaded     | Released                            | Notes        |
 | ------------------------------------- | :----------------: | --------------------------- | :----------------: | ----------------------------------- | ------------ |
 | [Brotherhood of Steel: Liberty Prime] | :heavy_check_mark: | [Liberty Prime Cards :pdf:] | :heavy_check_mark: | [August 2019][PR 06/08/19]          | Legendary    |
-| [Glowing Ghouls]                      |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
-| [Stealth Boy Coursers]                |        :x:         |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
+| [Glowing Ghouls]                      | :heavy_check_mark: |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
+| [Stealth Boy Coursers]                | :heavy_check_mark: |                             |                    | [June 2019][DEVELOPMENT BLOG #26]   | GenCon Promo |
 | [Survivors: X-01 Survivor & Dogmeat]  | :heavy_check_mark: |                             |                    | [October 2019][DEVELOPMENT BLOG #7] |
 
 [Brotherhood of Steel: Liberty Prime]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-liberty-prime
@@ -1625,6 +1639,24 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
+
+#### In Sheeps Clothing
+
+| Item                      | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Pylon Ambush Scenic Set] |    :x:    |         |            | [March 2025] |
+
+[Pylon Ambush Scenic Set]: https://modiphius.net/products/fallout-miniatures-pylon-ambush-scenic-set
+
+#### Stoic Defenders
+
+| Item                                        | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
+| [Brotherhood of Steel: Appalachian Command] |    :x:    |         |            | [April 2025] |
+| [Cryptids: Grafton Monster]                 |    :x:    |         |            | [April 2025] |
+
+[Brotherhood of Steel: Appalachian Command]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-appalachian-command
+[Cryptids: Grafton Monster]: https://modiphius.net/products/fallout-miniatures-cryptids-grafton-monster
 
 #### Scorched Plague
 
