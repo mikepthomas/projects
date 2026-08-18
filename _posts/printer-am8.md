@@ -84,7 +84,7 @@ The SKR mini E3 has 4 integrated stepper motors which will be enough to run the 
 Since upgrading to PrusaSlicer, I have pushed my printing speeds to the limit of what stock Anet A8 acrylic frame can cope with.
 I have [stiffened the frame as much as I can with 3D printed upgrades](printer-printed-upgrades#frame-bracing) however, the frame really could do with a metal frame to print faster.
 
-I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but instead decided to build a complete [Voron 1.8](printer-voron-1.8).
+I had originally intended to migrate from the Anet A8's acrylic frame to a CoreXY [Hypercube](printer-hypercube) style printer but decided to build a complete [Voron 1.8](printer-voron-1.8) instead.
 
 As [The Canuck Creator](https://www.youtube.com/channel/UCmV40QWkVeRs_nAvEOE_P-g) says 2 printers are 1 and 1 printer is none, therefore I would like to keep at least one working printer before heavilly modifing a working one.
 
@@ -92,13 +92,42 @@ During my research for the [Hypercube](printer-hypercube), I ruled out the AM8 d
 
 After purchasing the frame, I found a [project on Reddit](https://www.reddit.com/r/AnetA8/comments/rvt3zt) to convert the Anet A8 to a CoreXZ style printer similar to the [Voron Switchwire](https://vorondesign.com/voron_switchwire).
 
-| Item                 | Quantity | Received | Notes                                                   |
-| -------------------- | -------: | -------: | ------------------------------------------------------- |
-| Misumi HFS5-2040-340 |        2 |        2 | Side extrusions for the Y axis                          |
-| Misumi HFS5-2040-313 |        3 |        3 | Front, back, and cross member at the top of the Z axis. |
-| Misumi HFS5-2040-440 |        2 |        2 | Vertical Z extrusions                                   |
+### :negative_squared_cross_mark: Main Frame
 
-## Buildplate
+#### Assembly
+
+##### Parts Needed
+
+| Item                  | Quantity | Notes                                                   |
+| --------------------- | -------: | ------------------------------------------------------- |
+| M5 Post-install T-nut |        4 |
+| M5x10 BHCS            |        4 |
+| M5x16 BHCS            |       12 |
+| Misumi HFS5-2040-340  |        2 | Side extrusions for the Y axis                          |
+| Misumi HFS5-2040-313  |        3 | Front, back, and cross member at the top of the Z axis. |
+| Misumi HFS5-2040-440  |        2 | Vertical Z extrusions                                   |
+
+It is a good idea to build the frame on a flat surface. I will use a large pane of glass to endure the edges of the extrusions were completely square whilst tightening up the bolts of the blind joints.
+
+### :negative_squared_cross_mark: Bed Extrusions
+
+I purchased a job lot of random 3D printing related items on eBay which just happened to contain some 2020 extrusions that were the exact size required to add some linear rails to the AM8 frame.
+
+I will use some of the 3D printed parts from the [MGN12 mod BLV Project](blvprojects.com/blv-mgn12-mod-3d-printer) to mount the buildplate on the linear rails instead of using linear rods from the Anet A8.
+
+#### Assembly
+
+##### Parts Needed
+
+| Item                     | Quantity | Notes          |
+| ------------------------ | -------: | -------------- |
+| M5 Post-install T-nut    |        8 |
+| M5x10 BHCS               |        8 |
+| MGN12H Linear Rail 380mm |        2 | Medium Preload |
+| MGN12H Block             |        2 | Medium Preload |
+| Misumi HFS5-2020-340     |        2 |
+
+### :negative_squared_cross_mark: Buildplate
 
 I have purchased a one piece Aluminium support plate to replace the stock Anet A8 steel 3 piece design, mainly for aesthetics.
 
@@ -109,21 +138,13 @@ You can download the clamp from my [3D Printing GitHub repository](https://githu
 
 When trying to fit the support plate the original frame, I found out that the bearing holders actually sit about 2mm further apart than the stock 3 piece plate. Therefore it did not fit the acrylic frame and will need to upgrade to the aluminium frame before fitting it.
 
-| Item                        | Quantity | Received | Notes |
-| --------------------------- | -------: | -------: | ----- |
-| Aluminium Bed Support Plate |        1 |        1 |
+#### Assembly
 
-## Linear Rails
+##### Parts Needed
 
-I purchased a job lot of random 3D printing related items on eBay which just happened to contain some 2020 extrusions that were the exact size required to add some linear rails to the AM8 frame.
-
-I will use some of the 3D printed parts from the [MGN12 mod BLV Project](blvprojects.com/blv-mgn12-mod-3d-printer) to mount the buildplate on the linear rails instead of using linear rods from the Anet A8.
-
-| Item                     | Quantity | Received | Notes          |
-| ------------------------ | -------: | -------: | -------------- |
-| Linear Rail MGN12H 380mm |        2 |        2 | Medium Preload |
-| MGN12H Block             |        2 |        2 | Medium Preload |
-| Misumi HFS5-2020-340     |        2 |        2 |
+| Item                        | Quantity | Notes |
+| --------------------------- | -------: | ----- |
+| Aluminium Bed Support Plate |        1 |
 
 # Printing Parts
 
