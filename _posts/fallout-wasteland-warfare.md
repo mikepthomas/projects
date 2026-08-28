@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-28T18:03:23.541Z
+lastmod: 2026-08-28T18:49:52.408Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2231,16 +2231,18 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                 |     Purchased      | Digital                           |     Downloaded     | Released                  | Notes |
-| -------------------- | :----------------: | --------------------------------- | :----------------: | ------------------------- | ----- |
-| [Rulebook]           | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]         | :heavy_check_mark: | [March 2025]              |
-| ┕ [King of the Park] | :heavy_check_mark: |                                   |                    |                           | Promo |
-| [Crew Folio]         | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]       | :heavy_check_mark: | [January 2026]            |
-| ┕ [Rogue Knight]     | :heavy_check_mark: |                                   |                    | [May 2026]                | Promo |
-| Spooktober Rules     |                    | [Free :zip:][Spooktober Rules]    | :heavy_check_mark: | October 2024              |
-| Spooktober 2 Rules   |                    | [Free :pdf:][Spooktober 2 Rules]  | :heavy_check_mark: | October 2025              |
-| C.O.M.P. Kit (v1.0)  |                    | [Free :pdf:][C.O.M.P. Kit (v1.0)] | :heavy_check_mark: | November 2024             |
-| C.O.M.P. Kit (v2.0)  |                    | [Free :pdf:][C.O.M.P. Kit (v2.0)] | :heavy_check_mark: | [May 2026][Factions COMP] |
+| Item                                  |     Purchased      | Digital                           |     Downloaded     | Released                        | Notes |
+| ------------------------------------- | :----------------: | --------------------------------- | :----------------: | ------------------------------- | ----- |
+| [Rulebook]                            | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]         | :heavy_check_mark: | [March 2025]                    |
+| ┕ [King of the Park]                  | :heavy_check_mark: |                                   |                    |                                 | Promo |
+| [Crew Folio]                          | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]       | :heavy_check_mark: | [January 2026]                  |
+| ┕ [Rogue Knight]                      | :heavy_check_mark: |                                   |                    | [May 2026]                      | Promo |
+| C.O.M.P. Kit (v1.0)                   |                    | [Free :pdf:][C.O.M.P. Kit (v1.0)] | :heavy_check_mark: | November 2024                   |
+| C.O.M.P. Kit (v2.0)                   |                    | [Free :pdf:][C.O.M.P. Kit (v2.0)] | :heavy_check_mark: | [May 2026][Factions COMP]       |
+| Fallout Factions - Organized Play Kit | :heavy_check_mark: |                                   |                    | [January 2025][YT January 2025] |
+| ┕ [RedEye]                            | :heavy_check_mark: |                                   |                    | [January 2025][YT January 2025] | Promo |
+| Spooktober Rules                      |                    | [Free :zip:][Spooktober Rules]    | :heavy_check_mark: | October 2024                    |
+| Spooktober 2 Rules                    |                    | [Free :pdf:][Spooktober 2 Rules]  | :heavy_check_mark: | October 2025                    |
 
 [C.O.M.P. Kit (V1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
 [C.O.M.P. Kit (v2.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a121fd18-f7ff-4040-9367-75d3e5538552/FF-COMPKit-2026-M2.pdf
@@ -2249,6 +2251,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
 [Crew Folio PDF]: https://modiphius.net/products/fallout-factions-crew-folio-pdf
 [King of the Park]: https://modiphius.net/products/fallout-miniatures-king-of-the-park-limited-run
+[RedEye]: https://modiphius.net/products/fallout-miniatures-redeye
 [Rogue Knight]: https://modiphius.net/products/fallout-miniatures-the-rogue-knight
 [Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
 [Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
@@ -2531,3 +2534,4 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [YT March 2024]: https://www.youtube.com/watch?v=a7N0BMJVZmc
 [YT April 2024]: https://www.youtube.com/watch?v=y_6PEtwGq80
 [YT May 2024]: https://www.youtube.com/watch?v=Vg8Sq0_AWkI&t=71s
+[YT January 2025]: https://www.youtube.com/watch?v=aysNZrbYihg&t=115s
