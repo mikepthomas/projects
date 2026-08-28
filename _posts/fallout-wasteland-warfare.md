@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-28T12:24:54.784Z
+lastmod: 2026-08-28T18:03:23.541Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -298,11 +298,11 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 
 [The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main `Super Mutant` sets in addition to the [Two Player Starter Set].
 
-| Item                       | Purchased | Digital | Downloaded | Released                                  | Notes |
-| -------------------------- | :-------: | ------- | :--------: | ----------------------------------------- | ----- |
-| [Super Mutants: Core Box]  |    :x:    |         |            | April 2019                                |
-| [Super Mutants: Hammer]    |    :x:    |         |            | April 2019                                |
-| [Super Mutants: Suiciders] |    :x:    |         |            | [April 2019][Blog: Super Mutant Suicider] |
+| Item                       |     Purchased      | Digital | Downloaded | Released                                  | Notes |
+| -------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
+| [Super Mutants: Core Box]  | :heavy_check_mark: |         |            | April 2019                                |
+| [Super Mutants: Hammer]    |        :x:         |         |            | April 2019                                |
+| [Super Mutants: Suiciders] |        :x:         |         |            | [April 2019][Blog: Super Mutant Suicider] |
 
 [Super Mutants: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
 [Super Mutants: Hammer]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-hammer
@@ -1700,6 +1700,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [May 2026]: https://modiphius.net/blogs/news/fallout-friday-may-22
 [June 2026]: https://modiphius.net/blogs/news/fallout-friday-june-26
 [July 2026]: https://modiphius.net/blogs/news/fallout-friday-july-31
+[August 2026]: https://modiphius.net/blogs/news/fallout-friday-august-28
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -2178,9 +2179,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Setting Guide
 
-| Item                      | Purchased | Digital                                  | Downloaded | Pre-Release  | Notes |
-| ------------------------- | :-------: | ---------------------------------------- | :--------: | ------------ | ----- |
-| [New Vegas Setting Guide] |    :x:    | [Buy :pdf:][New Vegas Setting Guide PDF] |    :x:     | [April 2026] |
+| Item                      | Purchased | Digital                                  | Downloaded | Released      | Notes |
+| ------------------------- | :-------: | ---------------------------------------- | :--------: | ------------- | ----- |
+| [New Vegas Setting Guide] |    :x:    | [Buy :pdf:][New Vegas Setting Guide PDF] |    :x:     | [August 2026] |
 
 [New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
 [New Vegas Setting Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide-pdf
@@ -2453,6 +2454,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?   |
 | 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition? |
 | 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?    |
+| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?        |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2464,6 +2466,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #8]: https://modiphius.net/blogs/news/dev-blog-8-how-do-weapons-work-in-the-new-edition
 [Dev Blog #9]: https://modiphius.net/blogs/news/dev-blog-9-how-does-stealth-work-in-the-new-edition
 [Dev Blog #10]: https://modiphius.net/blogs/news/dev-blog-10-how-do-perks-work-in-the-new-edition
+[Dev Blog #11]: https://modiphius.net/blogs/news/dev-blog-11-what-are-mods-in-the-new-edition
 
 ## Items
 
