@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-22T08:56:00.607Z
+lastmod: 2026-08-28T12:24:54.784Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2178,11 +2178,12 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Setting Guide
 
-| Item                      | Purchased | Digital | Downloaded | Pre-Release  | Notes |
-| ------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [New Vegas Setting Guide] |    :x:    |         |            | [April 2026] |
+| Item                      | Purchased | Digital                                  | Downloaded | Pre-Release  | Notes |
+| ------------------------- | :-------: | ---------------------------------------- | :--------: | ------------ | ----- |
+| [New Vegas Setting Guide] |    :x:    | [Buy :pdf:][New Vegas Setting Guide PDF] |    :x:     | [April 2026] |
 
 [New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
+[New Vegas Setting Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide-pdf
 
 # Fallout: Factions
 
