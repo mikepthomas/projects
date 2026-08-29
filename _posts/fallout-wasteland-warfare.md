@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-28T18:49:52.408Z
+lastmod: 2026-08-28T22:09:51.144Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -267,7 +267,7 @@ The [Creatures: Core Box] contains the following items:
 | [Creatures: Deathclaw]    | :heavy_check_mark: |         |            | April 2019 |
 | Creatures: Feral Ghouls   | :heavy_check_mark: |         |            | April 2019 | Discontinued, Repacked into [Creatures: Ghouls]           |
 | Creatures: Radroaches     |        :x:         |         |            | April 2019 | Discontinued, Repacked into [Creatures: Wasteland Vermin] |
-| [Creatures: Radscorpions] |        :x:         |         |            | April 2019 | [Legendary (Deathskull Radscorpion)][Into the Wasteland]  |
+| [Creatures: Radscorpions] | :heavy_check_mark: |         |            | April 2019 | [Legendary (Deathskull Radscorpion)][Into the Wasteland]  |
 
 [Creatures: Core Box]: https://web.archive.org/web/20190819114627/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-wasteland-creatures-core-box
 [Creatures: Deathclaw]: https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-deathclaw-2019
