@@ -838,8 +838,8 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
-[Into the Wasteland]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
-[Into the Wasteland PDF]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
+[Into the Wasteland]: https://web.archive.org/web/20260131063816/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
+[Into the Wasteland PDF]: https://web.archive.org/web/20250818204559/https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 [Wave 1 Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
 
 ### Accessories
