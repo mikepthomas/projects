@@ -1095,7 +1095,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 | Item                 |     Purchased      | Digital | Downloaded | Released                                  | Notes |
 | -------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
 | [NCR: Core Box]      | :heavy_check_mark: |         |            | [May 2021][Blog: New California Republic] |
-| [NCR: Ranger]        |        :x:         |         |            | [September 2020][Blog: Mojave Expansion]  | Promo |
+| [NCR: Ranger]        | :heavy_check_mark: |         |            | [September 2020][Blog: Mojave Expansion]  | Promo |
 | [NCR: Ranger Patrol] | :heavy_check_mark: |         |            | [July 2021]                               |
 | [NCR: Top Brass]     | :heavy_check_mark: |         |            | [June 2021]                               |
 
