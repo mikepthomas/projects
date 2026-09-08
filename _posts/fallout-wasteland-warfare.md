@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-08-28T22:09:51.144Z
+lastmod: 2026-09-08T14:46:13.017Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -838,8 +838,8 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
-[Into the Wasteland]: https://web.archive.org/web/20260131063816/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
-[Into the Wasteland PDF]: https://web.archive.org/web/20250818204559/https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
+[Into the Wasteland]: https://web.archive.org/web/20230121191038/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
+[Into the Wasteland PDF]: https://web.archive.org/web/20201113170211/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 [Wave 1 Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
 
 ### Accessories
@@ -1701,6 +1701,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [June 2026]: https://modiphius.net/blogs/news/fallout-friday-june-26
 [July 2026]: https://modiphius.net/blogs/news/fallout-friday-july-31
 [August 2026]: https://modiphius.net/blogs/news/fallout-friday-august-28
+[September 2026]: https://modiphius.net/blogs/news/fallout-friday-september-4
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -2445,19 +2446,20 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Development
 
-| Date       | Blog                                                     |
-| ---------- | -------------------------------------------------------- |
-| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                        |
-| 02/04/2026 | [Dev Blog #2]: Ways To Play                              |
-| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                     |
-| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?           |
-| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                |
-| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                |
-| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?             |
-| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?   |
-| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition? |
-| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?    |
-| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?        |
+| Date       | Blog                                                                           |
+| ---------- | ------------------------------------------------------------------------------ |
+| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                                              |
+| 02/04/2026 | [Dev Blog #2]: Ways To Play                                                    |
+| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                                           |
+| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?                                 |
+| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                                      |
+| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                                      |
+| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?                                   |
+| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?                         |
+| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition?                       |
+| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                          |
+| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                              |
+| 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare? |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2470,6 +2472,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #9]: https://modiphius.net/blogs/news/dev-blog-9-how-does-stealth-work-in-the-new-edition
 [Dev Blog #10]: https://modiphius.net/blogs/news/dev-blog-10-how-do-perks-work-in-the-new-edition
 [Dev Blog #11]: https://modiphius.net/blogs/news/dev-blog-11-what-are-mods-in-the-new-edition
+[Dev Blog #12]: https://modiphius.net/blogs/news/dev-blog-12-what-changes-in-the-new-edition-of-fallout-wasteland-warfare
 
 ## Items
 
