@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-09-08T14:46:13.017Z
+lastmod: 2026-09-11T16:25:50.420Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2355,13 +2355,15 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 | Item                                         |     Purchased      | Digital                                          |     Downloaded     | Released        | Notes                           |
 | -------------------------------------------- | :----------------: | ------------------------------------------------ | :----------------: | --------------- | ------------------------------- |
 | [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]  | :heavy_check_mark: | [July 2026]     |
-| ┝ Robert MacCready                           | :heavy_check_mark: |                                                  |                    | [July 2026]     | Promo                           |
+| ┝ Battle for Boston Rulebook                 | :heavy_check_mark: | [Buy :pdf:][Battle for Boston Rulebook PDF]      | :heavy_check_mark: | September 2026  |
 | ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]       | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]        |
-| ┕ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set] |
+| ┝ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set] |
+| ┕ Robert MacCready                           | :heavy_check_mark: |                                                  |                    | [July 2026]     | Promo                           |
 | [Minutemen: Core Box (Plastic)]              |        :x:         | [Assembly Guide :pdf:][Minutemen Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Minutemen: Dice Set] |
 | [Railroad: Core Box (Plastic)]               |        :x:         | [Assembly Guide :pdf:][Railroad Assembly Guide]  | :heavy_check_mark: | [February 2026] | [Dice Set][Railroad: Dice Set]  |
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
+[Battle for Boston Rulebook PDF]: https://modiphius.net/products/fallout-factions-battle-for-boston-rulebook-pdf
 [Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
 [BoS Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-brotherhood-of-steel
@@ -2460,6 +2462,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                          |
 | 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                              |
 | 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare? |
+| 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                         |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2473,6 +2476,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #10]: https://modiphius.net/blogs/news/dev-blog-10-how-do-perks-work-in-the-new-edition
 [Dev Blog #11]: https://modiphius.net/blogs/news/dev-blog-11-what-are-mods-in-the-new-edition
 [Dev Blog #12]: https://modiphius.net/blogs/news/dev-blog-12-what-changes-in-the-new-edition-of-fallout-wasteland-warfare
+[Dev Blog #13]: https://modiphius.net/blogs/news/dev-blog-13-how-do-i-find-new-gear-for-my-warband
 
 ## Items
 
