@@ -184,7 +184,12 @@ table thead {
   }
 
   &.highlight-line {
-    background-color: rgba(var(--#{$prefix}warning-rgb), 0.15);
+    background: linear-gradient(
+      90deg,
+      rgba(var(--#{$prefix}warning-rgb), 0.15) 0%,
+      rgba(var(--#{$prefix}warning-rgb), 0.15) 75%,
+      transparent 100%
+    );
   }
 
   &.inserted {
