@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2025-11-24T21:11:47.828Z
+lastmod: 2026-09-15T16:04:44.226Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -1099,11 +1099,11 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi 4B rev 1.4
 
-| Item                    | Revision | RAM | Case                                 | Power Supply                                   | Storage                     | OS                                                     | Hostname | Notes                                                                                                    |
-| ----------------------- | -------- | --- | ------------------------------------ | ---------------------------------------------- | --------------------------- | ------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
-| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
-| Raspberry Pi 4B rev 1.4 | d03114   | 8GB | [Tecmojo 1U Rack Mount SBC Shelf]    | [Official Raspberry Pi 4 Power Supply] (White) | 128GB MicroSD (Integral)    | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL] | cbridge  | Boxed with [8086.net Cluster Hat] v2.4 and [8086.net CDC Serial Adapter]                                 |
+| Item                    | Revision | RAM | Case                                                                | Power Supply                                   | Storage                     | OS                                                     | Hostname | Notes                                                                                                    |
+| ----------------------- | -------- | --- | ------------------------------------------------------------------- | ---------------------------------------------- | --------------------------- | ------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------- |
+| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
+| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
+| Raspberry Pi 4B rev 1.4 | d03114   | 8GB | [Tecmojo 1U Rack Mount SBC Shelf]                                   | [Official Raspberry Pi 4 Power Supply] (White) | 128GB MicroSD (Integral)    | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL] | cbridge  | Boxed with [8086.net Cluster Hat] v2.4 and [8086.net CDC Serial Adapter]                                 |
 
 #### Benchmarks
 
@@ -1244,13 +1244,6 @@ TR03 TAP (3) (4) TR02 TAP
 
 For further information, please refer to https://pinout.xyz/
 ```
-
-### Raspberry Pi 4B (Unknown)
-
-| Item            | Revision | RAM | Case                        | Power Supply | Storage | OS  | Hostname | Notes            |
-| --------------- | -------- | --- | --------------------------- | ------------ | ------- | --- | -------- | ---------------- |
-| Raspberry Pi 4B | Unknown  | 4GB | [Flirc Aluminium Pi 4 Case] |              |         |     |          | Boxed (Unopened) |
-| Raspberry Pi 4B | Unknown  | 4GB | [Flirc Aluminium Pi 4 Case] |              |         |     |          | Boxed (Unopened) |
 
 ## Raspberry Pi 5
 
