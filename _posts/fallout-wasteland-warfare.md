@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-09-11T16:25:50.420Z
+lastmod: 2026-09-17T22:34:00.884Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -321,7 +321,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | [Survivors: Boston Companions]         | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #2] |
 | [Survivors: Core Box]                  | :heavy_check_mark: |         |            | April 2019                        | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
 | [Survivors: Heroes of Sanctuary Hills] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #6] | Contains Miniatures related to [Sanctuary Hills](sanctuary-hills) |
-| [Survivors: Minutemen Posse]           |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #5] | Updated version for the [Battle for Boston](#battle-for-boston)   |
+| [Survivors: Minutemen Posse]           | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #5] | Updated version for the [Battle for Boston](#battle-for-boston)   |
 
 [Survivors: Boston Companions]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-boston-companions
 [Survivors: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-core-box
@@ -1126,10 +1126,10 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Survivors
 
-| Item                                      | Purchased | Digital | Downloaded | Released       | Notes |
-| ----------------------------------------- | :-------: | ------- | :--------: | -------------- | ----- |
-| [Mojave Companions: Ed-E, Rex & Veronica] |    :x:    |         |            | [October 2021] |
-| [Mojave Companions: Boone, Arcade & Cass] |    :x:    |         |            | [October 2021] |
+| Item                                      |     Purchased      | Digital | Downloaded | Released       | Notes |
+| ----------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
+| [Mojave Companions: Ed-E, Rex & Veronica] | :heavy_check_mark: |         |            | [October 2021] |
+| [Mojave Companions: Boone, Arcade & Cass] | :heavy_check_mark: |         |            | [October 2021] |
 
 [Mojave Companions: Ed-E, Rex & Veronica]: https://modiphius.net/products/fallout-wasteland-warfare-ed-e-rex-and-veronica
 [Mojave Companions: Boone, Arcade & Cass]: https://modiphius.net/products/fallout-wasteland-warfare-boone-arcade-and-cass
@@ -2087,7 +2087,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Issue No. 4 - Hunted!][Astoundingly Awesome Tales 1-5]                    | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales 4] | :heavy_check_mark: | [February 2024][YT February 2024] |
 | [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                           |                    |                                   | Only available as bonus in physical book |
 | Issue No. 6 - Into the Abyss                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                       |
-| Issue No. 7 - One Last Visit                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 7] |        :x:         | July 2026                         |
+| Issue No. 7 - One Last Visit                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 7] | :heavy_check_mark: | July 2026                         |
 
 [Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf
@@ -2482,27 +2482,31 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ### Into the Wasteland
 
-| Item                                    | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
-| --------------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| [Into the Wasteland: Solo Starter Set]  |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┝ Dogmeat with Goggles                  |    :x:    |         |            | [Q4 2026][State of the Wasteland] | Promo |
-| ┕ [Male Vault Dweller Heroes (Plastic)] |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| [Female Vault Dweller Heroes (Plastic)] |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| Item                                    |     Purchased      | Digital                                           |     Downloaded     | Pre-Release                       | Notes |
+| --------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------------------------------- | ----- |
+| [Into the Wasteland Starter Set]        | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] |
+| ┝ Into the Wasteland Quickstart Guide   | :heavy_check_mark: | [Free :pdf:][Into the Wasteland Quickstart Guide] | :heavy_check_mark: | [September 2026]                  |
+| ┝ Dogmeat with Goggles                  | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] | Promo |
+| ┕ [Male Vault Dweller Heroes (Plastic)] | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] |
+| [Female Vault Dweller Heroes (Plastic)] |        :x:         |                                                   |                    | [Q4 2026][State of the Wasteland] |
 
 [Female Vault Dweller Heroes (Plastic)]: https://modiphius.net/products/fallout-miniatures-female-hero-vault-dwellers-plastic
-[Into the Wasteland: Solo Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-starter-set-dogmeat-with-goggles
+[Into the Wasteland Quickstart Guide]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-quickstart-pdf
+[Into the Wasteland Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-starter-set-dogmeat-with-goggles
 [Male Vault Dweller Heroes (Plastic)]: https://modiphius.net/products/fallout-miniatures-male-hero-vault-dwellers-plastic
 
 ### Warbands
 
-| Item                                  | Purchased | Digital | Downloaded | Pre-Release                       | Notes |
-| ------------------------------------- | :-------: | ------- | :--------: | --------------------------------- | ----- |
-| [Warbands Starter Set]                |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┝ [The Ravager & The Mutt]            |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
-| ┕ [Sole Survivor in T-45 Power Armor] |    :x:    |         |            | [Q4 2026][State of the Wasteland] |
+| Item                                  | Purchased | Digital                                 |     Downloaded     | Pre-Release                       | Notes |
+| ------------------------------------- | :-------: | --------------------------------------- | :----------------: | --------------------------------- | ----- |
+| [Warbands Starter Set]                |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
+| ┝ Warbands Quickstart Guide           |    :x:    | [Free :pdf:][Warbands Quickstart Guide] | :heavy_check_mark: | [September 2026]                  |
+| ┝ [The Ravager & The Mutt]            |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
+| ┕ [Sole Survivor in T-45 Power Armor] |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
 
 [Sole Survivor in T-45 Power Armor]: https://modiphius.net/products/fallout-miniatures-sole-survivor-in-t-45-power-armor
 [The Ravager & The Mutt]: https://modiphius.net/products/fallout-miniatures-the-ravager-the-mutt
+[Warbands Quickstart Guide]: https://modiphius.net/products/fallout-wasteland-warfare-warbands-quickstart-pdf
 [Warbands Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-warband-starter-set
 
 ### Rules
