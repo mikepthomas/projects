@@ -1937,24 +1937,24 @@ For further information, please refer to https://pinout.xyz/
 
 ### Pico
 
-| Item                                 | Case                                                                                                     | Flashed with      | Notes                               |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------- |
-| Raspberry Pi Bare Chip RP2040        |                                                                                                          |                   | In pick & place component packaging |
-| Raspberry Pi Pico                    |                                                                                                          |                   | In pick & place component packaging |
-| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico 3V Relay](https://shop.sb-components.co.uk/products/pico-3v-relay-hat)               |                   | In anti-static bag                  |
-| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Motor Driver](https://shop.sb-components.co.uk/products/pico-motor-driver)           |                   | In anti-static bag                  |
-| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
-| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
-| Raspberry Pi Pico H                  | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
-| Raspberry Pi Pico H                  | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                    | [PiPicoMacroKeys] |
+| Item                                 | Case                                                                                                                  | Flashed with      | Notes                               |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------- |
+| Raspberry Pi Bare Chip RP2040        |                                                                                                                       |                   | In pick & place component packaging |
+| Raspberry Pi Pico                    |                                                                                                                       |                   | In pick & place component packaging |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico 3V Relay](https://shop.sb-components.co.uk/products/pico-3v-relay-hat)                            |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Motor Driver](https://shop.sb-components.co.uk/products/pico-motor-driver)                        |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion)              |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Raspberry Pi HAT Expansion](https://shop.sb-components.co.uk/products/raspberry-pi-pico-hat-expansion) |                   | In anti-static bag                  |
+| Raspberry Pi Pico H                  | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                                 | [PiPicoMacroKeys] | In anti-static bag                  |
+| Raspberry Pi Pico H                  | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits)           | [MicroPython]     | Boxed                               |
 
 ### Pico W
 
-| Item                 | Case                                                                                                        | Flashed with           | Notes                               |
-| -------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------- |
-| Raspberry Pi Pico W  |                                                                                                             |                        | In pick & place component packaging |
-| Raspberry Pi Pico W  | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller] | In pick & place component packaging |
-| Raspberry Pi Pico WH | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [ESPHome]              | Boxed                               |
+| Item                 | Case                                                          | Flashed with           | Notes                               |
+| -------------------- | ------------------------------------------------------------- | ---------------------- | ----------------------------------- |
+| Raspberry Pi Pico W  |                                                               |                        | In pick & place component packaging |
+| Raspberry Pi Pico W  | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax) | [Nevermore Controller] | In pick & place component packaging |
+| Raspberry Pi Pico WH |                                                               | [ESPHome]              | Boxed                               |
 
 ### Pico 2
 
