@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2026-09-15T16:04:44.226Z
+lastmod: 2026-09-17T23:25:17.418Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -109,19 +109,21 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 ## Branded
 
-| Item                                                                                                                       | Case                                                                                                        | Flashed with                                                                                                       | Hostname          | Notes                                                               |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------- |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-1 | Original Ai-Thinker AT Firmware 0.9.5                               |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-2 | Original Ai-Thinker AT Firmware 0.9.5                               |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-3 | Original Ai-Thinker AT Firmware 0.9.5                               |
-| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                                                    | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-4 | Original Ai-Thinker AT Firmware 0.9.5                               |
-| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4                                                                                        | [ESPHome]                                                                                                          | anet-a8           |
-| [BigTreeTech ESP-01s](https://biqu.equipment/collections/expansion-board/products/esp-01s-wifi-module-esp8266-for-skr-pro) | BigTreeTech SKR V1.4 Turbo                                                                                  | [ESP3D](https://github.com/luc-github/ESP3D)                                                                       |                   |
-| [Cytron ESP-01s](https://www.cytron.io/p-esp-01-wifi-serial-transceiver-module-esp8266)                                    | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [Cytron ESP-01S AT Firmware](https://github.com/CytronTechnologies/esp-at-binaries)                                |                   |
-| [M5StampS3](https://docs.m5stack.com/en/core/stamps3)                                                                      | [M5Stack Cardputer](https://docs.m5stack.com/en/core/Cardputer)                                             |                                                                                                                    |                   |
-| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-1 | [Assembled, currently testing](solar-wifi-weather-station#assembly) |
-| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-2 |
-| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                                                    | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-3 |
+| Item                                                                                    | Case                                                                                                        | Flashed with                                                                                                       | Hostname          | Notes                                                               |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------- |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                 | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-1 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                 | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-2 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                 | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-3 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| [Ai-Thinker ESP-01](https://docs.ai-thinker.com/en/esp8266/spec/esp_01)                 | [Wifi Arduino 85](https://github.com/armtronix/Wifi-Arduino-85)                                             | [Wifi Arduino 85 ESPHome](https://github.com/mikepthomas/Wifi-Arduino-85/blob/master/ESPHome/wifi-arduino-85.yaml) | armtronix-relay-4 | Original Ai-Thinker AT Firmware 0.9.5                               |
+| BigTreeTech ESP-01s                                                                     | BigTreeTech SKR V1.4                                                                                        | [ESPHome]                                                                                                          | anet-a8           |
+| BigTreeTech ESP-01s                                                                     | BigTreeTech SKR V1.4 Turbo                                                                                  | [ESP3D](https://github.com/luc-github/ESP3D)                                                                       |                   |
+| [BigTreeTech ESP8266](https://biqu.equipment/products/bigtreetech-esp8266)              | BigTreeTech Octopus V1.1                                                                                    |                                                                                                                    |                   |
+| [Cytron ESP-01s](https://www.cytron.io/p-esp-01-wifi-serial-transceiver-module-esp8266) | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [Cytron ESP-01S AT Firmware](https://github.com/CytronTechnologies/esp-at-binaries)                                |                   |
+| [M5 Stamp-S3](https://docs.m5stack.com/en/core/stamps3)                                 | [M5Stack Cardputer](https://docs.m5stack.com/en/core/Cardputer)                                             |                                                                                                                    |                   |
+| [M5 Stamp-S3A](https://docs.m5stack.com/en/core/Stamp-S3A)                              | [M5Stack Cardputer-Adv](https://docs.m5stack.com/en/core/Cardputer-Adv)                                     | [Meshtastic](https://docs.m5stack.com/en/guide/lora/meshtastic/cardputer_mesh_kit#flashing-firmware)               |                   | With [Cap LoRa-1262](https://docs.m5stack.com/en/cap/Cap_LoRa-1262) |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                 | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-1 | [Assembled, currently testing](solar-wifi-weather-station#assembly) |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                 | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-2 |
+| [Wemos D1 Mini Pro](https://www.wemos.cc/en/latest/d1/d1_mini_pro.html)                 | [Solar Wifi Weather Station](solar-wifi-weather-station)                                                    | [ESPHome]                                                                                                          | weather-station-3 |
 
 ## Generic
 
@@ -1933,24 +1935,41 @@ For further information, please refer to https://pinout.xyz/
 
 ![Board designed for tinkering using a Pi Pico](/assets/blog/single-board-computers/maker-pi-pico.jpg)
 
-### Original
+### Pico
 
-| Item                          | Case                                                                                                        | Flashed with           | Notes                 |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------- |
-| Raspberry Pi Pico             |                                                                                                             |                        | In original packaging |
-| Raspberry Pi Pico             | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                       | [PiPicoMacroKeys]      | With soldered headers |
-| Raspberry Pi Pico             | [SB Components Pico 3V Relay](https://shop.sb-components.co.uk/products/pico-3v-relay-hat)                  |                        | In original packaging |
-| Raspberry Pi Pico             | [SB Components Pico Motor Driver](https://shop.sb-components.co.uk/products/pico-motor-driver)              |                        | In original packaging |
-| Raspberry Pi Pico             | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion)    |                        | In original packaging |
-| Raspberry Pi Pico H           |                                                                                                             |                        | In original packaging |
-| Raspberry Pi Pico H           | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [MicroPython]          |
-| Raspberry Pi Pico W           |                                                                                                             |                        | In original packaging |
-| Raspberry Pi Pico W           | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller] |
-| Raspberry Pi Pico WH          |                                                                                                             | [ESPHome]              | Boxed                 |
-| Raspberry Pi Pico 2           |                                                                                                             |                        | In original packaging |
-| Raspberry Pi Pico 2           |                                                                                                             |                        |
-| Raspberry Pi Pico 2W          |                                                                                                             |                        | In original packaging |
-| Raspberry Pi RP2040 Bare Chip |                                                                                                             |                        | In original packaging |
+| Item                                 | Case                                                                                                     | Flashed with      | Notes                               |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------- |
+| Raspberry Pi Bare Chip RP2040        |                                                                                                          |                   | In pick & place component packaging |
+| Raspberry Pi Pico                    |                                                                                                          |                   | In pick & place component packaging |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico 3V Relay](https://shop.sb-components.co.uk/products/pico-3v-relay-hat)               |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Motor Driver](https://shop.sb-components.co.uk/products/pico-motor-driver)           |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
+| Raspberry Pi Pico (Soldered Headers) | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
+| Raspberry Pi Pico H                  | [SB Components Pico Zero Expansion Board](https://shop.sb-components.co.uk/products/pico-zero-expansion) |                   | In anti-static bag                  |
+| Raspberry Pi Pico H                  | [Macro Pi](https://www.thingiverse.com/thing:5817044)                                                    | [PiPicoMacroKeys] |
+
+### Pico W
+
+| Item                 | Case                                                                                                        | Flashed with           | Notes                               |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------- |
+| Raspberry Pi Pico W  |                                                                                                             |                        | In pick & place component packaging |
+| Raspberry Pi Pico W  | [Nevermore StealthMax](nevermore-filter#nevermore-stealthmax)                                               | [Nevermore Controller] | In pick & place component packaging |
+| Raspberry Pi Pico WH | [Maker Pi Pico](https://www.cytron.io/p-maker-pi-pico-simplifying-raspberry-pi-pico-for-beginners-and-kits) | [ESPHome]              | Boxed                               |
+
+### Pico 2
+
+| Item                  | Case | Flashed with | Notes                               |
+| --------------------- | ---- | ------------ | ----------------------------------- |
+| Raspberry Pi Pico 2   |      |              | In pick & place component packaging |
+| Raspberry Pi Pico 2   |      |              | In anti-static bag                  |
+| Raspberry Pi Pico 2 H |      |              | Boxed                               |
+
+### Pico 2 W
+
+| Item                   | Case | Flashed with | Notes                               |
+| ---------------------- | ---- | ------------ | ----------------------------------- |
+| Raspberry Pi Pico 2 W  |      |              | In pick & place component packaging |
+| Raspberry Pi Pico 2 WH |      |              | Boxed                               |
 
 ### Branded
 
@@ -2248,9 +2267,11 @@ For further information, please refer to https://pinout.xyz/
 
 # STMicroelectronics
 
-| Item          | Case | Flashed with | Hostname | Notes                                                                                                                                                      |
-| ------------- | ---- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| STM32F103C8T6 |      |              |          | [Received this as part of a bundle](https://www.amazon.co.uk/dp/B09KP9BF9Q) when purchasing an ST-Link to re-flash the bootloader of [Fly RRF E3](#mellow) |
+| Item                                                                                                                         | Case                                          | Flashed with       | Hostname | Notes                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STM32F103C8T6                                                                                                                |                                               |                    |          | [Received this as part of a bundle](https://www.amazon.co.uk/dp/B09KP9BF9Q) when purchasing an ST-Link to re-flash the bootloader of [Fly RRF E3](#mellow) |
+| [Seeed Studio XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) | [ERCF Easy BRD](voron-hardware#ercf-easy-brd) | [Klipper Firmware] |          |
+| [Seeed Studio XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) | [ERCF Easy BRD](voron-hardware#ercf-easy-brd) | [Klipper Firmware] |          |
 
 # Teensy
 
