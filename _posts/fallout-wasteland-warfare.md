@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-09-17T22:34:00.884Z
+lastmod: 2026-09-18T16:53:06.951Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -114,6 +114,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | [Two Player Starter Set] | :heavy_check_mark: |                                  |                    | [April 2019][DEVELOPMENT BLOG #1] |
 | ┝ Cards                  | :heavy_check_mark: | [Free :pdf:][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Dice & Rulers          | :heavy_check_mark: | [Free :pdf:][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
+| ┝ Errata (v1.0)          | :heavy_check_mark: |                                  |        :x:         | August 2018                       | Physical version included in `Two Player Starter Set`          |
 | ┝ Getting Acclimated     | :heavy_check_mark: | [Free :pdf:][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Rules of Play          | :heavy_check_mark: | [Free :pdf:][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Campaign Book          | :heavy_check_mark: | [Buy :pdf:][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
@@ -175,27 +176,6 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                               | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes |
 | ---------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
 | [Slabs & Stones 4][Slabs & Stones] |        5 | [eSun ABS+ (Brown)] |   5m | 0.16m |  0.40g | £0.01 |   :x:   |
-
-### Errata
-
-| Item           | Purchased | Digital                      |     Downloaded     | Released                                | Notes |
-| -------------- | :-------: | ---------------------------- | :----------------: | --------------------------------------- | ----- |
-| Errata (v1.0)  |           |                              |        :x:         | August 2018                             |
-| Errata (v2.0)  |           | [Free :pdf:][Errata (v2.0)]  | :heavy_check_mark: | October 2018                            |
-| Errata (v3.0)  |           |                              | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27]       |
-| Errata (v4.0)  |           | [Free :pdf:][Errata (v4.0)]  | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
-| Errata (v5.0)  |           |                              |        :x:         | [November 2020]                         |
-| Errata (v6.0)  |           | [Free :pdf:][Errata (v6.0)]  | :heavy_check_mark: | June 2022                               |
-| Errata (v7.0)  |           |                              |        :x:         |                                         |
-| Errata (v8.0)  |           | [Free :pdf:][Errata (v8.0)]  | :heavy_check_mark: | April 2023                              |
-| Errata (v9.0)  |           |                              | :heavy_check_mark: | October 2023                            |
-| Errata (v10.0) |           | [Free :pdf:][Errata (v10.0)] | :heavy_check_mark: | [April 2024]                            |
-
-[Errata (v2.0)]: https://web.archive.org/web/20191123170504/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_errata_faq_v.2.0_download.pdf
-[Errata (v4.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_rules_of_play_errata_faq_v4.0.pdf
-[Errata (v6.0)]: https://web.archive.org/web/20230207222448/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_ERR-003_FAQ-003_CDV-001_Rules_of_Play_Errata_FAQ_Card_Versions_v6.0_002w.pdf?v=1667396837
-[Errata (v8.0)]: https://web.archive.org/web/20230602025850/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v8.pdf?v=1682523440
-[Errata (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v10.0.pdf
 
 ### Accessories
 
@@ -332,19 +312,19 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 
 #### Fallout Wasteland Warfare Box
 
-| Item                                     | Purchased | Digital                                                                                                      |     Downloaded     | Released   | Notes                                                                    |
-| ---------------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------- | ------------------------------------------------------------------------ |
-| SCP-001-111: Ad Victorium                |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Core Box]                            |
-| SCP-002-111: Big John’s Salvage Showdown |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]                                   |
-| SCP-003-111: Quest for Knowledge         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                                       |
-| SCP-004-111: Radio Tower Takeover        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
-| SCP-005-111: Flip's Revenge              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
-| SCP-006-111: Sanctuary Hills Sweep       |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
-| SCP-007-111: Psychotrip                  |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
-| SCP-008-111: The Jury Street Colossus    |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
-| SCP-009-111: Midwest Encounter           |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
-| SCP-010-111: Benny's Request             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
-| SCP-011-111: Atomic Sprint!              |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Suiciders]                                  |
+| Item                                     |     Purchased      | Digital                                                                                                      |     Downloaded     | Released   | Notes                                                                    |
+| ---------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------------------------ | :----------------: | ---------- | ------------------------------------------------------------------------ |
+| SCP-001-111: Ad Victorium                | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Core Box]                            |
+| SCP-002-111: Big John’s Salvage Showdown | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]                                   |
+| SCP-003-111: Quest for Knowledge         |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                                       |
+| SCP-004-111: Radio Tower Takeover        |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
+| SCP-005-111: Flip's Revenge              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
+| SCP-006-111: Sanctuary Hills Sweep       |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
+| SCP-007-111: Psychotrip                  |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
+| SCP-008-111: The Jury Street Colossus    |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
+| SCP-009-111: Midwest Encounter           |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
+| SCP-010-111: Benny's Request             |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
+| SCP-011-111: Atomic Sprint!              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Suiciders]                                  |
 
 ##### Big John’s Salvage Showdown
 
@@ -358,26 +338,26 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 
 | Item                            | Purchased | Digital                                                                                                       |     Downloaded     | Released   | Notes                                        |
 | ------------------------------- | :-------: | ------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | -------------------------------------------- |
-| SCP-012-111: Steel-Clad Manhunt |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Robots: Core Box]              |
-| SCP-013-111: Protectron Parade! |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Protectron and Eyebot] |
-| SCP-014-111: Deadly Run         |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Sentry Bot]            |
-| SCP-015-111: Target Locked      |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Assaultrons]           |
+| SCP-012-111: Steel-Clad Manhunt |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Robots: Core Box]              |
+| SCP-013-111: Protectron Parade! |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Protectron and Eyebot] |
+| SCP-014-111: Deadly Run         |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Sentry Bot]            |
+| SCP-015-111: Target Locked      |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_robots_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Robots: Assaultrons]           |
 
 #### Creatures
 
 | Item                                  | Purchased | Digital                                                                                                          |     Downloaded     | Released   | Notes                                      |
 | ------------------------------------- | :-------: | ---------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- | ------------------------------------------ |
-| SCP-016-111: Hunters of the Wasteland |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Core Box]         |
-| SCP-017-111: Old Gullet's Deathtrap   |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Deathclaw]        |
-| SCP-018-111: DC Metro Raid            |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Ghouls]           |
-| SCP-019-111: Chemtest Pit             |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Radscorpions]     |
-| SCP-020-111: Den of Pestilence        |           | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Wasteland Vermin] |
+| SCP-016-111: Hunters of the Wasteland |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf)        | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Core Box]         |
+| SCP-017-111: Old Gullet's Deathtrap   |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=3) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Deathclaw]        |
+| SCP-018-111: DC Metro Raid            |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=5) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Ghouls]           |
+| SCP-019-111: Chemtest Pit             |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=7) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Radscorpions]     |
+| SCP-020-111: Den of Pestilence        |    :x:    | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_creatures_download.pdf#page=9) | :heavy_check_mark: | April 2019 | Scenario for [Creatures: Wasteland Vermin] |
 
 #### Promo
 
 | Item                   | Purchased | Digital                                                                                                           |     Downloaded     | Released                   | Notes                         |
 | ---------------------- | :-------: | ----------------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------- | ----------------------------- |
-| SCP-021-111: The Shoot |           | [Read on Reddit :reddit:](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | [August 2019][PR 12/08/19] | Scenario for [Nuka Cola Girl] |
+| SCP-021-111: The Shoot |    :x:    | [Read on Reddit :reddit:](https://www.reddit.com/r/wastelandwarfare/comments/187lh55/the_shoot_nukagirl_scenario) | :heavy_check_mark: | [August 2019][PR 12/08/19] | Scenario for [Nuka Cola Girl] |
 
 ##### The Shoot
 
@@ -429,9 +409,11 @@ These `Development Blogs` cover Wave 2 and [Fallout: Wasteland Warfare Roleplayi
 
 | Item                               |     Purchased      | Digital                               |     Downloaded     | Released                                   | Notes |
 | ---------------------------------- | :----------------: | ------------------------------------- | :----------------: | ------------------------------------------ | ----- |
+| Errata (v2.0)                      |                    | [Free :pdf:][Errata (v2.0)]           | :heavy_check_mark: | October 2018                               |
 | Liberty Prime Expansion            |                    | [Free :pdf:][Liberty Prime Expansion] | :heavy_check_mark: | [February 2022]                            |
 | [Raiders Wave Expansion Card Pack] | :heavy_check_mark: |                                       |                    | [August 2019][Blog: The Raiders are here!] |
 
+[Errata (v2.0)]: https://web.archive.org/web/20191123170504/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_errata_faq_v.2.0_download.pdf
 [Liberty Prime Expansion]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Liberty_Prime_Rules_DIGITAL_004w.pdf
 [Raiders Wave Expansion Card Pack]: https://modiphius.net/products/wasteland-warfare-raiders-wave-expansion-card-pack
 
@@ -677,6 +659,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | ------------------------------------- | :----------------: | --------------------------------------------- | :----------------: | ---------------------------------------------- | ---------------------------- |
 | [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules :pdf:][Automatron Player Rules] | :heavy_check_mark: | [February 2020][Blog: Make Your Own Robot]     | [Blog: How To Automatron]    |
 | Caught in the Crossfire Campaign book |                    | [Buy :pdf:][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
+| Errata (v3.0)                         |                    |                                               | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27]              |
 | [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                               |                    | [December 2019][Blog: Downloads Update]        | [Blog: How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
@@ -829,15 +812,17 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 ### Rules
 
-| Item                                            |     Purchased      | Digital                             |     Downloaded     | Released        | Notes |
-| ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | --------------- | ----- |
-| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | [November 2020] |
-| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | [November 2020] |
-| [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020] |
-| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | [November 2020] |
+| Item                                            |     Purchased      | Digital                             |     Downloaded     | Released                                | Notes |
+| ----------------------------------------------- | :----------------: | ----------------------------------- | :----------------: | --------------------------------------- | ----- |
+| [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | [November 2020]                         |
+| [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | [November 2020]                         |
+| Errata (v4.0)                                   |                    | [Free :pdf:][Errata (v4.0)]         | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
+| [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020]                         |
+| [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | [November 2020]                         |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
+[Errata (v4.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_rules_of_play_errata_faq_v4.0.pdf
 [Into the Wasteland]: https://web.archive.org/web/20230121191038/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://web.archive.org/web/20201113170211/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 [Wave 1 Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
@@ -1057,6 +1042,7 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 | Item                        |     Purchased      | Digital                                             |     Downloaded     | Released                           | Notes                                                         |
 | --------------------------- | :----------------: | --------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------- |
+| Errata (v5.0)               |                    |                                                     |        :x:         | [November 2020]                    |
 | [New Vegas Rules Expansion] | :heavy_check_mark: | [Missing Doctor's Bag Card :pdf:][Doctors Bag Card] | :heavy_check_mark: | [May 2021][Blog: Mojave Expansion] | Physical `Doctor's Bag` card included in `Commonwealth Rules` |
 
 [Doctors Bag Card]: https://cdn.shopify.com/s/files/1/0225/4035/files/chem_doctorsbag_card_newvegas.pdf
@@ -1252,11 +1238,13 @@ Wave 6 introduces new factions, the `Children of Atom`, `Gunners` and the `Railr
 | Item                                |     Purchased      | Digital                                            |     Downloaded     | Released     | Notes                                        |
 | ----------------------------------- | :----------------: | -------------------------------------------------- | :----------------: | ------------ | -------------------------------------------- |
 | [Astoundingly Awesome Tales Vol. 1] | :heavy_check_mark: | [Buy :pdf:][Astoundingly Awesome Tales Vol. 1 PDF] | :heavy_check_mark: | [May 2022]   |
+| Errata (v6.0)                       |                    | [Free :pdf:][Errata (v6.0)]                        | :heavy_check_mark: | June 2022    |
 | Into the Vault                      |                    | [Buy :pdf:][Into The Vault]                        | :heavy_check_mark: | [July 2022]  | Rules to create the [Vault-Tec Vault](vault) |
 | [The Commonwealth Rules Expansion]  | :heavy_check_mark: |                                                    |                    | [April 2022] |
 
 [Astoundingly Awesome Tales Vol. 1]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1
 [Astoundingly Awesome Tales Vol. 1 PDF]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-chapter-1-pdf
+[Errata (v6.0)]: https://web.archive.org/web/20230207222448/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_ERR-003_FAQ-003_CDV-001_Rules_of_Play_Errata_FAQ_Card_Versions_v6.0_002w.pdf?v=1667396837
 [Into The Vault]: https://modiphius.net/products/fallout-wasteland-warfare-into-the-vault-pdf
 [The Commonwealth Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-the-commonwealth-rules-expansion
 
@@ -1355,6 +1343,7 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 
 | Item                                 |     Purchased      | Digital                                |     Downloaded     | Released        | Notes |
 | ------------------------------------ | :----------------: | -------------------------------------- | :----------------: | --------------- | ----- |
+| Errata (v7.0)                        |                    |                                        |        :x:         |                 |
 | [Forged in the Fire Rules Expansion] | :heavy_check_mark: |                                        |                    | [November 2022] |
 | Homestead Rules Expansion            |                    | [Buy :pdf:][Homestead Rules Expansion] | :heavy_check_mark: | [October 2022]  |
 
@@ -1454,11 +1443,13 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 
 ### Rules
 
-| Item                      |     Purchased      | Digital | Downloaded | Released     | Notes |
-| ------------------------- | :----------------: | ------- | :--------: | ------------ | ----- |
-| [Capital Rules Expansion] | :heavy_check_mark: |         |            | [April 2023] |
+| Item                      |     Purchased      | Digital                     |     Downloaded     | Released     | Notes |
+| ------------------------- | :----------------: | --------------------------- | :----------------: | ------------ | ----- |
+| [Capital Rules Expansion] | :heavy_check_mark: |                             |                    | [April 2023] |
+| Errata (v8.0)             |                    | [Free :pdf:][Errata (v8.0)] | :heavy_check_mark: | April 2023   |
 
 [Capital Rules Expansion]: https://modiphius.net/products/fallout-wasteland-warfare-capital-rules-expansion
+[Errata (v8.0)]: https://web.archive.org/web/20230602025850/https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v8.pdf?v=1682523440
 
 ### Miniatures
 
@@ -1535,6 +1526,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | ┝ Error! System Malfunction       |                    | [Free :pdf:][Error System Malfunction]         | :heavy_check_mark: | September 2023  |
 | ┝ Oh, a Hunting We Shall Go!      |                    | [Free :pdf:][Hunting We Shall Go]              | :heavy_check_mark: | October 2023    |
 | ┕ Cappy in a Haystack             |                    | [Free :pdf:][Cappy in a Haystack]              | :heavy_check_mark: | [November 2023] |
+| Errata (v9.0)                     |                    |                                                | :heavy_check_mark: | October 2023    |
 | [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023]  |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
@@ -1605,6 +1597,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 | Item                                        |     Purchased      | Digital                                                                                |     Downloaded     | Released         | Notes |
 | ------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------- | :----------------: | ---------------- | ----- |
+| Errata (v10.0)                              |                    | [Free :pdf:][Errata (v10.0)]                                                           | :heavy_check_mark: | [April 2024]     |
 | [Mr. Fuzzy and The Ghoulish Remnants Rules] | :heavy_check_mark: | [Free :zip:](https://drive.google.com/drive/folders/14A4a74mljaEUSMn3n9AOpI-Y80kPvADN) | :heavy_check_mark: | [June 2024]      |
 | [The Dawn of the Mothman Rules]             |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1xPnidk7BGULxEtw1o4Z4TiQRi4Ft52Zk) | :heavy_check_mark: | [July 2024]      |
 | [The Crater and The Foundation Rules]       |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1R7rOvUw9HlfPTSe0LVGcsbZIeKaeieSP) | :heavy_check_mark: | [August 2024]    |
@@ -1617,6 +1610,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | [Stoic Defenders Rules]                     |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1jlIDlITOPZXFZrzkC5dqts3xgqy7_sfS) | :heavy_check_mark: | [April 2025]     |
 | [Scorched Plague Rules]                     |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/17QVIhUR70QPvMruQyX2ZBbqd8KLuj7MZ) | :heavy_check_mark: | [May 2025]       |
 
+[Errata (v10.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/FWW_Errata_FAQ_Card_Versions_v10.0.pdf
 [Catching Floaters Rules]: https://connect.forgefire.games/products/catching-floaters-card-pack
 [Hungry Hills! Rules]: https://connect.forgefire.games/products/hungry-hills-rules-packet-card-pack
 [In Sheeps Clothing Rules]: https://connect.forgefire.games/products/in-sheeps-clothing-card-pack
@@ -1640,12 +1634,34 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
+#### Catching Floaters
+
+| Item                     | Purchased | Digital | Downloaded | Released       | Notes |
+| ------------------------ | :-------: | ------- | :--------: | -------------- | ----- |
+| [Creatures: Radtoads]    |    :x:    |         |            | [January 2025] |
+| [Super Mutant: Floaters] |    :x:    |         |            | [January 2025] |
+
+[Creatures: Radtoads]: https://modiphius.net/products/fallout-miniatures-creatures-radtoads
+[Super Mutant: Floaters]: https://modiphius.net/products/fallout-miniatures-super-mutant-floaters
+
+#### Wasteland Wildlife
+
+| Item                      | Purchased | Digital | Downloaded | Released        | Notes |
+| ------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
+| [Cryptids: Megasloth]     |    :x:    |         |            | [February 2025] |
+| [Cryptids: Snallygasters] |    :x:    |         |            | [February 2025] |
+
+[Cryptids: Megasloth]: https://modiphius.net/products/fallout-miniatures-cryptids-megasloth
+[Cryptids: Snallygasters]: https://modiphius.net/products/fallout-miniatures-cryptids-snallygasters
+
 #### In Sheeps Clothing
 
-| Item                      | Purchased | Digital | Downloaded | Released     | Notes |
-| ------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [Pylon Ambush Scenic Set] |    :x:    |         |            | [March 2025] |
+| Item                      | Purchased | Digital | Downloaded | Released     | Notes     |
+| ------------------------- | :-------: | ------- | :--------: | ------------ | --------- |
+| [Cryptids: Sheepsquatch]  |    :x:    |         |            | [March 2025] | Legendary |
+| [Pylon Ambush Scenic Set] |    :x:    |         |            | [March 2025] | Legendary |
 
+[Cryptids: Sheepsquatch]: https://modiphius.net/products/fallout-miniatures-cryptids-sheepsquatch
 [Pylon Ambush Scenic Set]: https://modiphius.net/products/fallout-miniatures-pylon-ambush-scenic-set
 
 #### Stoic Defenders
@@ -2463,6 +2479,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                              |
 | 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare? |
 | 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                         |
+| 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                           |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2477,16 +2494,17 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #11]: https://modiphius.net/blogs/news/dev-blog-11-what-are-mods-in-the-new-edition
 [Dev Blog #12]: https://modiphius.net/blogs/news/dev-blog-12-what-changes-in-the-new-edition-of-fallout-wasteland-warfare
 [Dev Blog #13]: https://modiphius.net/blogs/news/dev-blog-13-how-do-i-find-new-gear-for-my-warband
+[Dev Blog #14]: https://modiphius.net/blogs/news/dev-blog-14-what-is-battle-mode
 
 ## Items
 
 ### Into the Wasteland
 
-| Item                                    |     Purchased      | Digital                                           |     Downloaded     | Pre-Release                       | Notes |
-| --------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------------------------------- | ----- |
+| Item                                    |     Purchased      | Digital                                           |     Downloaded     | Pre-Release                       | Notes                                                         |
+| --------------------------------------- | :----------------: | ------------------------------------------------- | :----------------: | --------------------------------- | ------------------------------------------------------------- |
 | [Into the Wasteland Starter Set]        | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] |
-| ┝ Into the Wasteland Quickstart Guide   | :heavy_check_mark: | [Free :pdf:][Into the Wasteland Quickstart Guide] | :heavy_check_mark: | [September 2026]                  |
-| ┝ Dogmeat with Goggles                  | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] | Promo |
+| ┝ Into the Wasteland Quickstart Guide   | :heavy_check_mark: | [Free :pdf:][Into the Wasteland Quickstart Guide] | :heavy_check_mark: | [September 2026]                  | Physical version included in `Into the Wasteland Starter Set` |
+| ┝ Dogmeat with Goggles                  | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] | Promo                                                         |
 | ┕ [Male Vault Dweller Heroes (Plastic)] | :heavy_check_mark: |                                                   |                    | [Q4 2026][State of the Wasteland] |
 | [Female Vault Dweller Heroes (Plastic)] |        :x:         |                                                   |                    | [Q4 2026][State of the Wasteland] |
 
@@ -2497,10 +2515,10 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ### Warbands
 
-| Item                                  | Purchased | Digital                                 |     Downloaded     | Pre-Release                       | Notes |
-| ------------------------------------- | :-------: | --------------------------------------- | :----------------: | --------------------------------- | ----- |
+| Item                                  | Purchased | Digital                                 |     Downloaded     | Pre-Release                       | Notes                                               |
+| ------------------------------------- | :-------: | --------------------------------------- | :----------------: | --------------------------------- | --------------------------------------------------- |
 | [Warbands Starter Set]                |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
-| ┝ Warbands Quickstart Guide           |    :x:    | [Free :pdf:][Warbands Quickstart Guide] | :heavy_check_mark: | [September 2026]                  |
+| ┝ Warbands Quickstart Guide           |    :x:    | [Free :pdf:][Warbands Quickstart Guide] | :heavy_check_mark: | [September 2026]                  | Physical version included in `Warbands Starter Set` |
 | ┝ [The Ravager & The Mutt]            |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
 | ┕ [Sole Survivor in T-45 Power Armor] |    :x:    |                                         |                    | [Q4 2026][State of the Wasteland] |
 
