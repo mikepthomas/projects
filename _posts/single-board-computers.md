@@ -1962,14 +1962,14 @@ For further information, please refer to https://pinout.xyz/
 | --------------------- | ---- | ------------ | ----------------------------------- |
 | Raspberry Pi Pico 2   |      |              | In pick & place component packaging |
 | Raspberry Pi Pico 2   |      |              | In anti-static bag                  |
-| Raspberry Pi Pico 2 H |      |              | Boxed                               |
+| Raspberry Pi Pico 2 H |      |              | In anti-static bag                  |
 
 ### Pico 2 W
 
 | Item                   | Case | Flashed with | Notes                               |
 | ---------------------- | ---- | ------------ | ----------------------------------- |
 | Raspberry Pi Pico 2 W  |      |              | In pick & place component packaging |
-| Raspberry Pi Pico 2 WH |      |              | Boxed                               |
+| Raspberry Pi Pico 2 WH |      |              | In anti-static bag                  |
 
 ### Branded
 
