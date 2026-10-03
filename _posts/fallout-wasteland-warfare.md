@@ -1558,6 +1558,8 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 #### Raiders
 
+`The Disciples`, `The Operators`, and `The Pack` Core Boxes are listed as part of [Fallout Factions: Battle for Nuka-World](#battle-for-nuka-world).
+
 | Item                          | Purchased | Digital | Downloaded | Released        | Notes |
 | ----------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
 | [Raiders: Disciples Leaders]  |    :x:    |         |            | [October 2023]  |
