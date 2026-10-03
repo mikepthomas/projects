@@ -2507,6 +2507,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare? |
 | 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                         |
 | 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                           |
+| 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?      |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2522,6 +2523,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #12]: https://modiphius.net/blogs/news/dev-blog-12-what-changes-in-the-new-edition-of-fallout-wasteland-warfare
 [Dev Blog #13]: https://modiphius.net/blogs/news/dev-blog-13-how-do-i-find-new-gear-for-my-warband
 [Dev Blog #14]: https://modiphius.net/blogs/news/dev-blog-14-what-is-battle-mode
+[Dev Blog #15]: https://modiphius.net/blogs/news/dev-blog-15-how-does-the-campaign-work-in-fallout-wasteland-warfare
 
 ## Items
 
