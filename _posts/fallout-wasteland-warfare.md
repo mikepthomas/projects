@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-09-18T16:53:06.951Z
+lastmod: 2026-10-03T13:21:08.297Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -710,7 +710,7 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 | Item                           |     Purchased      | Digital | Downloaded | Released                                        | Notes                                                  |
 | ------------------------------ | :----------------: | ------- | :--------: | ----------------------------------------------- | ------------------------------------------------------ |
-| [Institute: Core Box]          |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
+| [Institute: Core Box]          | :heavy_check_mark: |         |            | [December 2019][Blog: Whats In Boxes Institute] | Updated version in the [Battle for Boston Starter Set] |
 | [Institute: Covert Operations] |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] |
 | [Institute: Synths]            |        :x:         |         |            | [December 2019][Blog: Whats In Boxes Institute] |
 | [The Mechanist]                | :heavy_check_mark: |         |            | [December 2019][Blog: Downloads Update]         | Promo                                                  |
