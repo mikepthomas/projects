@@ -1742,6 +1742,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [July 2026]: https://modiphius.net/blogs/news/fallout-friday-july-31
 [August 2026]: https://modiphius.net/blogs/news/fallout-friday-august-28
 [September 2026]: https://modiphius.net/blogs/news/fallout-friday-september-4
+[October 2026]: https://modiphius.net/blogs/news/fallout-friday-october-2
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -1763,14 +1764,16 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 ### Accessories
 
-| Item                         |     Purchased      | Digital | Downloaded | Released        | Notes |
-| ---------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [Dogmeat Painter's Bust]     |        :x:         |         |            | [June 2026]     |
-| [Nate Painter's Bust]        |        :x:         |         |            | [June 2026]     |
-| Nora Painter's Bust          |        :x:         |         |            | [June 2026]     |
-| [NCR Ranger Painter's Bust]  | :heavy_check_mark: |         |            | [December 2025] |
-| Paladin Danse Painter's Bust |        :x:         |         |            | [June 2026]     |
-| [T-60 Painter's Bust]        | :heavy_check_mark: |         |            | [December 2025] |
+| Item                          |     Purchased      | Digital | Downloaded | Released        | Notes |
+| ----------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Dogmeat Painter's Bust]      |        :x:         |         |            | [June 2026]     |
+| [Nate Painter's Bust]         |        :x:         |         |            | [June 2026]     |
+| Nora Painter's Bust           |        :x:         |         |            | [June 2026]     |
+| [NCR Ranger Painter's Bust]   | :heavy_check_mark: |         |            | [December 2025] |
+| Paladin Danse Painter's Bust  |        :x:         |         |            | [June 2026]     |
+| Piper Wright Painter's Bust   |        :x:         |         |            | [October 2026]  |
+| Preston Garvey Painter's Bust |        :x:         |         |            | [October 2026]  |
+| [T-60 Painter's Bust]         | :heavy_check_mark: |         |            | [December 2025] |
 
 [Dogmeat Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-dogmeat
 [Nate Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-nate
