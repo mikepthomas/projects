@@ -1538,13 +1538,23 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 ### Miniatures
 
-| Item                          |     Purchased      | Digital | Downloaded | Released                            | Notes |
-| ----------------------------- | :----------------: | ------- | :--------: | ----------------------------------- | ----- |
-| [Robots: N.I.R.A.]            | :heavy_check_mark: |         |            | [September 2023][YT September 2023] | Promo |
-| [Unaligned: X-01 Power Armor] |        :x:         |         |            | [May 2024][YT May 2024]             |
+| Item                          | Purchased | Digital | Downloaded | Released                | Notes |
+| ----------------------------- | :-------: | ------- | :--------: | ----------------------- | ----- |
+| [Unaligned: X-01 Power Armor] |    :x:    |         |            | [May 2024][YT May 2024] |
 
-[Robots: N.I.R.A.]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo
 [Unaligned: X-01 Power Armor]: https://modiphius.net/products/fallout-wasteland-warfare-unaligned-x-01-power-armor
+
+### Creatures
+
+| Item                       | Purchased | Digital | Downloaded | Released        | Notes |
+| -------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
+| [Creatures: Gatorclaw]     |    :x:    |         |            | [March 2024]    |
+| [Creatures: Nukalurks]     |    :x:    |         |            | [February 2024] |
+| [Creatures: Nukalurk King] |    :x:    |         |            | [February 2024] |
+
+[Creatures: Gatorclaw]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-gatorclaw
+[Creatures: Nukalurks]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-nukalurks
+[Creatures: Nukalurk King]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-nukalurk-king
 
 #### Raiders
 
@@ -1561,6 +1571,20 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Raiders: Pack Top Dogs]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-pack-top-dogs
 [Raiders: Park Overlords]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-overlords
 [Raiders: Park Personalities]: https://modiphius.net/products/fallout-wasteland-warfare-survivors-park-personalities
+
+#### Robots
+
+| Item                              |     Purchased      | Digital | Downloaded | Released                            | Notes |
+| --------------------------------- | :----------------: | ------- | :--------: | ----------------------------------- | ----- |
+| [Robots: Eyebots]                 |        :x:         |         |            | [March 2024]                        |
+| [Robots: N.I.R.A.]                | :heavy_check_mark: |         |            | [September 2023][YT September 2023] | Promo |
+| [Robots: Space Sentry]            |        :x:         |         |            | [April 2024]                        |
+| [Robots: Starlight Theatre Staff] |        :x:         |         |            | [April 2024]                        |
+
+[Robots: Eyebots]: https://modiphius.net/products/fallout-wasteland-warfare-robots-eyebots
+[Robots: N.I.R.A.]: https://modiphius.net/products/fallout-wasteland-warfare-nira-promo
+[Robots: Space Sentry]: https://modiphius.net/products/fallout-wasteland-warfare-robots-space-sentry
+[Robots: Starlight Theatre Staff]: https://modiphius.net/products/fallout-wasteland-warfare-robots-starlight-theatre-staff
 
 ### Scatter
 
