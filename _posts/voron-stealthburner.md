@@ -135,16 +135,18 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Chain Anchor
 
-| Item                                                                                                                | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes         |
-| ------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ------------- |
-| [chain_anchor](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_3hole.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | 3Hole Version |
+| Item                                                                                                                  | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes            |
+| --------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------- |
+| ~[chain_anchor](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_3hole.stl)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | 3Hole Version    |
+| [chain_anchor_tilted](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_chain_anchor_tilted.stl)   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Nitehawk Version |
 
 ### :negative_squared_cross_mark: Cable Cover
 
-| Item                                                                                                              | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes   |
-| ----------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ------- |
-| [pcb_spacer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/%5Ba%5D_pcb_spacer.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
-| [cable_door](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/cable_door_for_pcb.stl) |        1 | [eSun ABS+ (Black)]  |      |      |        |      |   :x:   | For PCB |
+| Item                                                                                                                | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes            |
+| ------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------- |
+| [pcb_spacer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/%5Ba%5D_pcb_spacer.stl)   |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+| ~[cable_door](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/cable_door_for_pcb.stl)~ |      ~1~ | [eSun ABS+ (Black)]  |      |      |        |      |   :x:   | For PCB          |
+| [captive_pcb_cover](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_captive_pcb_cover.stl)     |        1 | [eSun ABS+ (Black)]  |      |      |        |      |   :x:   | Nitehawk Version |
 
 ## Tool Cartridge
 

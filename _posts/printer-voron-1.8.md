@@ -170,7 +170,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 | Mean Well RS-25-5 PSU                |        1 |        1 |
 | Omron G3A-210B-DC5 SSR               |        1 |        1 |
 | DIN Rail Mount Bracket for G3A SSR   |        1 |        1 |
-| ~BAT85 Diode~                        |      ~1~ |        7 | Not required as I have an [Afterburner Toolhead PCB (ERCF)] which has the BAT85 Diode integrated                 |
+| ~BAT85 Diode~                        |      ~1~ |        7 | Not required as [Afterburner Toolhead PCB (ERCF)] and [LDO Toolhead PCB] has the BAT85 Diode integrated          |
 | C13 Power Cord                       |        1 |        3 |
 | Thermal Fuse (120C)                  |        1 |        5 |
 | NEMA17 Motor 17HS08-1004S            |        1 |        1 | In `LDO Voron V1/V2 HT Motor Kit`                                                                                |
@@ -182,6 +182,7 @@ I have looked into a few different options for a new frame for my 3D Printer and
 [GDSTime 4020 Blower Fan]: http://www.gdstime.com/list_45/68.html
 [GDSTime 6020 Axial Fans]: http://www.gdstime.com/pro1/78.html
 [LDO 42STH48-2004MAH(VRN) Stepper Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2004mahvrn?wlr_ref=REF-ULH-QWV
+[LDO Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
 
 ## Panels
 
@@ -609,6 +610,8 @@ As I am using the Trident A/B Drive Units, I have had to move the Y Endstop to t
 I have applied some Super Lube PTFE grease to the silicone cables inside the cable chains and anchored the cables at each end with cable ties using the chain wire anchors from the Trident r1 update.
 As I am using multi coloured cables I have also added a bit of cable sleeving over the bare wires between the chains and into the rear electronics compartment these are also held in place with the cable ties at the end of the cable chains, and do not run through the chain.
 
+I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/voron/toolhead_harness) which contains PTFE coated wire to replace the silicone wiring harness I made when it eventually breaks.
+
 ##### X Axis Chain
 
 | Item                         | Quantity |
@@ -664,6 +667,15 @@ As I am using multi coloured cables I have also added a bit of cable sleeving ov
 | 24AWG PTFE Cable (Yellow)           |   2200mm |
 | JST XH Connector Plug 3 Position    |        1 |
 | MicroFit3 Connector Plug 3 Position |        1 |
+
+### :negative_squared_cross_mark: LDO Toolhead Breakout PCB Bracket
+
+A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector from the toolhead to separate connectors making it a little easier to connect to the MCU.
+
+| Item                                                                                                                            | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
+| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) |        1 | [eSun ABS+ (Black)] |  36m | 1.46m |  3.72g | £0.06 | :heavy_check_mark: |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                        |        1 | [eSun ABS+ (Black)] |  45m | 1.99m |  5.06g | £0.08 | :heavy_check_mark: |
 
 ### :white_check_mark: Wire Management
 

@@ -137,9 +137,9 @@ These are all the Electrical components that make the Printer work such as Circu
 | ~Inductive Probe (See sourcing guide)~                |      ~1~ |      ~1~ | I will be installing [ChaoticLab CNC Tap] instead                                    |
 | Hotend Kit (24V)                                      |        1 |          | V6 Heatsink and Bi-Metal Heatbreak                                                   |
 | DIN Rail Mount Bracket for G3A SSR                    |        1 |        1 |
-| Controller with 7+ Stepper outputs                    |        1 |        1 | [Mellow Fly Super8 V1.0]                                                             |
+| Controller with 7+ Stepper outputs                    |        1 |        1 | [Mellow Fly Super8 V1.3]                                                             |
 | C13 Power Cord                                        |        1 |        1 |
-| ~BAT85 Diode~                                         |      ~1~ |        7 | Comes installed on [LDO Toolhead PCB]                                                |
+| ~BAT85 Diode~                                         |      ~1~ |        7 | Not required with [LDO Nitehawk v2.0]                                                |
 | 60x60x20 Fan (24V)                                    |        3 |        2 | AFB0624HD Delta Fans, 1 Not required as I am building [Nevermore StealthMax] instead |
 | ~40x40x20 Centrifugal Fan (24V)~                      |      ~1~ |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
 | ~40x40x10 Axial Fan (24V)~                            |      ~1~ |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
@@ -149,10 +149,10 @@ These are all the Electrical components that make the Printer work such as Circu
 [BigTreeTech Smart Filament Sensor V2.0]: https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor 'BigTreeTech Smart Filament Sensor V2.0'
 [ChaoticLab CNC Tap]: https://www.chaoticlab.com/products/cnc-voron-tap?variant=40494842675298 'Chaoticlab CNC Voron Tap V2.0'
 [Inlet Power Socket IEC320 C14]: https://www.amazon.co.uk/dp/B0BVRF249S 'POFET Power Supply Socket with Fuse for 3D Printer from Amazon'
+[LDO Nitehawk v2.0]: https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2 'LDO Nitehawk SB Toolboard V2'
 [LDO Speedy Power HT Motors]: https://www.onetwo3d.co.uk/product/ldo-42sth48-2504-s35-stepper-motor?wlr_ref=REF-ULH-QWV 'LDO 42STH48-2504AH(S35) Stepper Motor from OneTwo3D'
 [LDO SwitchWire Motors]: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-42sth40-1684ac?wlr_ref=REF-ULH-QWV 'LDO Stepper Motor (42STH40-1684AC) from OneTwo3D'
-[LDO Toolhead PCB]: https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version 'LDO Toolhead Wiring Kit Toolhead PCB (Stealthburner Version)'
-[Mellow Fly Super8 V1.0]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.0'
+[Mellow Fly Super8 V1.3]: https://mellow-3d.github.io/fly_super8.html 'Mellow Fly Super8 V1.3'
 [Omron G3NA-210B-UTU]: https://www.onetwo3d.co.uk/product/omron-g3na-210b-utu-solid-state-relay-ssr?wlr_ref=REF-ULH-QWV 'Omron Solid State relay (SSR) from OneTwo3D'
 
 ## Vibration Management
@@ -231,7 +231,7 @@ The Wiring and Connectors required to connect them all of the Electronics togeth
 | Female Spade Crimp Terminal (18-22AWG, .250", 6.35mm)          |        7 |        7 |
 | Crimp Ferrule Kit (covering sizes 24AWG to 18AWG)              |        1 |        1 |
 | Connector kit matching your controller choice (usually JST-XH) |        1 |        1 |
-| ~22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)~     |      ~1~ |          | Using LDO Toolhead Cable instead                     |
+| ~22-24AWG High-flex Wire (min 19 strand)(250ft/76m total)~     |      ~1~ |          | Using [LDO Nitehawk v2.0] instead                    |
 | 20AWG High-flex Wire (10ft/3m total)                           |        1 |        1 | In various colours                                   |
 | 18AWG Wire (10ft/3m total)                                     |        1 |        1 | Salvaged from a MacBook Power Supply Mains Cable     |
 | 10x15 Generic Cable Chain (495mm)                              |        1 |        1 | [Veekaft Brand], 10x15 open, to insert cables easier |
@@ -1079,7 +1079,7 @@ The 24V PSU is used to power the main MCU, Motors and Hotend.
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
-The only Controller Board that I own with more than 5 stepper driver sockets is the [Mellow Fly Super8 V1.0](https://mellow-3d.github.io/fly_super8.html).
+The only Controller Board that I own with more than 5 stepper driver sockets is the [Mellow Fly Super8 V1.3].
 
 I did contemplate using my [BigTreeTech SKR 1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)
 with the optional [EXP-MOT](https://biqu.equipment/products/btt-rrf-wifi-v1-0-module-driver-expansion-module-for-skr-v1-4-1-4-turbo-skr-v1-3-3d-printer-part) module
@@ -1113,14 +1113,12 @@ The Solid State Relay is used to control the Mains powered bed from the Controll
 | M4x6 BHCS                          |        2 |
 | Omron G3A-210B-DC5 SSR             |        1 |
 
-### :negative_squared_cross_mark: LDO Toolhead Breakout PCB Bracket
+### :negative_squared_cross_mark: LDO Nitehawk USB Adapter Mount
 
-A bracket to hold the LDO Breakout PCB, the PCB converts the 14 pin connector from the toolhead to separate connectors making it a little easier to connect to the MCU.
-
-| Item                                                                                                                            | Quantity | Material            | Time |  Size | Weight |  Cost |      Printed       | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :----------------: | ----- |
-| [toolhead_breakout_pcb_bracket](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/toolhead_breakout_pcb_bracket.stl) |        1 | [eSun ABS+ (Black)] |  36m | 1.46m |  3.72g | £0.06 | :heavy_check_mark: |
-| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                        |        1 | [eSun ABS+ (Black)] |  45m | 1.99m |  5.06g | £0.08 | :heavy_check_mark: |
+| Item                                                                                                        | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes |
+| ----------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [usb_adapter_mount](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/usb_adapter_mount.stl) |        1 | [eSun ABS+ (Black)] |      |       |        |       |   :x:   |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                    |        1 | [eSun ABS+ (Black)] |  45m | 1.99m |  5.06g | £0.08 |   :x:   |
 
 #### Assembly
 
@@ -1225,8 +1223,6 @@ I have chosen to use a [Microswitch X/Y Endstop PCB](https://www.onetwo3d.co.uk/
 ![Image of the Voron 2.4 Wiring](/assets/blog/printer-voron-2.4/voron-design/wiring.jpg 'Wiring')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
-
-I have purchased the [LDO Toolhead Wiring Kit](https://docs.ldomotors.com/en/voron/toolhead_harness) for convienience, instead of creating my own harness from scratch like I did for my [Voron 1.8].
 
 ### :negative_squared_cross_mark: Z Cable Chain
 

@@ -158,10 +158,10 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 # LDO Motors
 
-| Item                                                                   | Case                           | Flashed with       | Notes |
-| ---------------------------------------------------------------------- | ------------------------------ | ------------------ | ----- |
-| [Nitehawk v2.0](https://docs.ldomotors.com/en/Toolboard/nitehawk-sb)   | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware] |
-| [Picobilical](https://docs.ldomotors.com/en/voron/voron01/Picobilical) | [Voron 0.2](printer-voron-0.2) | [Klipper Firmware] |
+| Item                                                                    | Case                           | Flashed with       | Notes |
+| ----------------------------------------------------------------------- | ------------------------------ | ------------------ | ----- |
+| [Nitehawk v2.0](https://docs.ldomotors.com/en/Toolboard/nitehawk-sb-v2) | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware] |
+| [Picobilical](https://docs.ldomotors.com/en/voron/voron01/Picobilical)  | [Voron 0.2](printer-voron-0.2) | [Klipper Firmware] |
 
 # Mellow
 
