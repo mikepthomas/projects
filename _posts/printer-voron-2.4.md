@@ -1115,10 +1115,10 @@ The Solid State Relay is used to control the Mains powered bed from the Controll
 
 ### :negative_squared_cross_mark: LDO Nitehawk USB Adapter Mount
 
-| Item                                                                                                        | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes |
-| ----------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
-| [usb_adapter_mount](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/usb_adapter_mount.stl) |        1 | [eSun ABS+ (Black)] |      |       |        |       |   :x:   |
-| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                    |        1 | [eSun ABS+ (Black)] |  45m | 1.99m |  5.06g | £0.08 |   :x:   |
+| Item                                                                                                                         | Quantity | Material            | Time |  Size | Weight |  Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ----: | -----: | ----: | :-----: | ----- |
+| [usb_adapter_mount](https://github.com/MotorDynamicsLab/Nitehawk-SB-V2/blob/master/STLs/usb_adapter_mount_partial_cover.stl) |        1 | [eSun ABS+ (Black)] |      |       |        |       |   :x:   |
+| [din_clip](https://github.com/VoronDesign/Voron-Parts/blob/main/DIN_Mounts/din_clip.stl)                                     |        1 | [eSun ABS+ (Black)] |  45m | 1.99m |  5.06g | £0.08 |   :x:   |
 
 #### Assembly
 
