@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2026-09-17T23:25:17.418Z
+lastmod: 2026-10-04T09:57:29.452Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -28,7 +28,7 @@ keywords:
 
 # Intro
 
-This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
+This page was created mainly for me to keep track of all of the 3D printer control boards, Microcontrolers and Single Board Computers that I own, where I am using them, and what I am currently using them for.
 
 # Arduino
 
@@ -77,30 +77,32 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 ## Mainboards
 
-| Item                                                                                                                                                                                                      | Case                           | Storage               | Flashed with       | Notes                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------------------- | ------------------ | ------------------------------------- |
-| [BigTreeTech SKR V1.4](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3) | [Anet A8](printer)             | 8GB MicroSD (Sandisk) | [Marlin Firmware]  | 3D printer Mainboard based on LPC1768 |
-| [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/collections/control-board/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                                                 | [Voron 1.8](printer-voron-1.8) |                       | [Klipper Firmware] | 3D printer Mainboard based on LPC1769 |
-| [BigTreeTech SKR Mini E3 V2.0](https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-integrated-tmc2209-uart-for-ender-4)                                                     |                                |                       | [Klipper Firmware] |
-| [BigTreeTech SKR Pico](https://bttwiki.com/SKR%20Pico.html)                                                                                                                                               | [Voron 0.2](printer-voron-0.2) |                       | [Klipper Firmware] | 3D printer Mainboard based on RP2040  |
-| [BigTreeTech SKR Pico](https://bttwiki.com/SKR%20Pico.html)                                                                                                                                               |                                |                       | [Klipper Firmware] | 3D printer Mainboard based on RP2040  |
+| Item                                                                                                                                                  | Case                           | Storage               | Flashed with       | Notes                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------------------- | ------------------ | ------------------------------------- |
+| [BigTreeTech Octopus V1.1](https://biqu.equipment/products/bigtreetech-octopus-v1-1)                                                                  |                                |                       |                    | 3D printer Mainboard based on F446    |
+| [BigTreeTech SKR V1.4](https://global.bttwiki.com/SKR%20V1.4.html)                                                                                    |                                |                       |                    | 3D printer Mainboard based on LPC1768 |
+| [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                       | [Anet A8](printer)             | 8GB MicroSD (Sandisk) | [Marlin Firmware]  | 3D printer Mainboard based on LPC1769 |
+| [BigTreeTech SKR V1.4 Turbo](https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board)                                       | [Voron 1.8](printer-voron-1.8) |                       | [Klipper Firmware] | 3D printer Mainboard based on LPC1769 |
+| [BigTreeTech SKR Mini E3 V2.0](https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-integrated-tmc2209-uart-for-ender-4) |                                |                       | [Klipper Firmware] |
+| [BigTreeTech SKR Pico](https://global.bttwiki.com/SKR%20Pico.html)                                                                                    | [Voron 0.2](printer-voron-0.2) |                       | [Klipper Firmware] | 3D printer Mainboard based on RP2040  |
+| [BigTreeTech SKR Pico](https://global.bttwiki.com/SKR%20Pico.html)                                                                                    |                                |                       | [Klipper Firmware] | 3D printer Mainboard based on RP2040  |
 
 ## Canbus Boards
 
-| Item                                                                                | Case                                                                                      | Storage | Flashed with                                                                                                    | Notes                                                            |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [BigTreeTech EBB36 CAN V1.0](https://bttwiki.com/EBB%2036%20CAN.html)               |                                                                                           |         | [Klipper Firmware]                                                                                              |
-| [BigTreeTech EBB42 CAN V1.1](https://bttwiki.com/EBB%2042%20CAN.html)               | [Polyformer](printer-polyformer)                                                          |         | [Alexware](<https://github.com/Reiten966/Polyformer/tree/main/Electronics/EBB42%20%2B%20Alexware%20(PF%20Kit)>) |
-| [BigTreeTech EBB SB2240 CAN V1.1](https://bttwiki.com/EBB%202240%202209%20CAN.html) | [Voron 2.4](printer-voron-2.4)                                                            |         | [Klipper Firmware]                                                                                              |
-| [BigTreeTech MMB CAN V1.0](https://bttwiki.com/MMB%20CAN%20V1.0.html)               | [Enraged Rabbit Cotton Tail](enraged-rabbit-carrot-feeder-2.0#enraged-rabbit-cotton-tail) |         | [Klipper Firmware]                                                                                              | With 4 [EZ2209](https://bttwiki.com/EZ2209.html)s                |
-| [BigTreeTech U2C V1.1](https://docs.meteyou.wtf/btt-u2c-v1.x/)                      |                                                                                           |         | [CandleLight Firmware](https://github.com/candle-usb/candleLight_fw)                                            | CANBUS adapter to communicate with CAN Enabled 3D printer boards |
-| [BigTreeTech U2C V2.1](https://docs.meteyou.wtf/btt-u2c-v2.x/)                      |                                                                                           |         | [BTT CandleLight Firmware](https://github.com/bigtreetech/candleLight_fw/tree/stm32g0_support)                  | CANBUS adapter to communicate with CAN Enabled 3D printer boards |
+| Item                                                                                       | Case                                                                                      | Storage | Flashed with                                                                                                    | Notes                                                            |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [BigTreeTech EBB36 CAN V1.0](https://global.bttwiki.com/EBB%2036%20CAN.html)               |                                                                                           |         | [Klipper Firmware]                                                                                              |
+| [BigTreeTech EBB42 CAN V1.1](https://global.bttwiki.com/EBB%2042%20CAN.html)               | [Polyformer](printer-polyformer)                                                          |         | [Alexware](<https://github.com/Reiten966/Polyformer/tree/main/Electronics/EBB42%20%2B%20Alexware%20(PF%20Kit)>) |
+| [BigTreeTech EBB SB2240 CAN V1.1](https://global.bttwiki.com/EBB%202240%202209%20CAN.html) | [Voron 1.8](printer-voron-1.8)                                                            |         | [Klipper Firmware]                                                                                              |
+| [BigTreeTech MMB CAN V1.0](https://global.bttwiki.com/MMB%20CAN%20V1.0.html)               | [Enraged Rabbit Cotton Tail](enraged-rabbit-carrot-feeder-2.0#enraged-rabbit-cotton-tail) |         | [Klipper Firmware]                                                                                              | With 4 [EZ2209](https://bttwiki.com/EZ2209.html)s                |
+| [BigTreeTech U2C V1.1](https://docs.meteyou.wtf/btt-u2c-v1.x/)                             |                                                                                           |         | [CandleLight Firmware](https://github.com/candle-usb/candleLight_fw)                                            | CANBUS adapter to communicate with CAN Enabled 3D printer boards |
+| [BigTreeTech U2C V2.1](https://docs.meteyou.wtf/btt-u2c-v2.x/)                             |                                                                                           |         | [BTT CandleLight Firmware](https://github.com/bigtreetech/candleLight_fw/tree/stm32g0_support)                  | CANBUS adapter to communicate with CAN Enabled 3D printer boards |
 
 ## Auxillary Boards
 
 | Item                                                                           | Case                           | Storage | Flashed with                                                                       | Notes                                                                    |
 | ------------------------------------------------------------------------------ | ------------------------------ | ------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [BigTreeTech Knomi V1.0](https://bttwiki.com/KNOMI.html)                       | [Voron 2.4](printer-voron-2.4) |         | [Knomi Firmware](https://github.com/bigtreetech/KNOMI/tree/master/KNOMI1/Firmware) |
+| [BigTreeTech Knomi V1.0](https://global.bttwiki.com/KNOMI.html)                | [Voron 2.4](printer-voron-2.4) |         | [Knomi Firmware](https://github.com/bigtreetech/KNOMI/tree/master/KNOMI1/Firmware) |
 | [BigTreeTech Pi V1.2](https://biqu.equipment/products/bigtreetech-btt-pi-v1-2) |                                |         | [CB1](https://github.com/bigtreetech/CB1)                                          | With [U2C v1.0 CAN Adapter Module](https://docs.meteyou.wtf/btt-pi-u2c/) |
 
 # Espressif
@@ -141,9 +143,10 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 ![A small 3D Printer mainboard with some big stepper drivers ](/assets/blog/single-board-computers/party-in-the-back.jpg)
 
-| Item                                          | Case                           | Flashed with       | Notes                                                                   |
-| --------------------------------------------- | ------------------------------ | ------------------ | ----------------------------------------------------------------------- |
-| [PITB](https://github.com/FYSETC/FYSETC-PITB) | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware] | 3D printer Expansion board based on RP2040 with 2 large TMC5160 Drivers |
+| Item                                               | Case                           | Flashed with       | Notes                                                                   |
+| -------------------------------------------------- | ------------------------------ | ------------------ | ----------------------------------------------------------------------- |
+| [PITB v1.0](https://github.com/FYSETC/FYSETC-PITB) | [Voron 1.8](printer-voron-1.8) | [Klipper Firmware] | 3D printer Expansion board based on RP2040 with 2 large TMC5160 Drivers |
+| [PITB v1.0](https://github.com/FYSETC/FYSETC-PITB) | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware] | 3D printer Expansion board based on RP2040 with 2 large TMC5160 Drivers |
 
 # Hardkernel
 
@@ -157,6 +160,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 | Item                                                                   | Case                           | Flashed with       | Notes |
 | ---------------------------------------------------------------------- | ------------------------------ | ------------------ | ----- |
+| [Nitehawk v2.0](https://docs.ldomotors.com/en/Toolboard/nitehawk-sb)   | [Voron 2.4](printer-voron-2.4) | [Klipper Firmware] |
 | [Picobilical](https://docs.ldomotors.com/en/voron/voron01/Picobilical) | [Voron 0.2](printer-voron-0.2) | [Klipper Firmware] |
 
 # Mellow
@@ -165,10 +169,11 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 
 Mellow make mainboards to control 3D printers.
 
-| Item                                                       | Case                           | Storage               | Flashed with                                    | Notes                                      |
-| ---------------------------------------------------------- | ------------------------------ | --------------------- | ----------------------------------------------- | ------------------------------------------ |
-| [Fly RRF E3](https://github.com/Mellow-3D/FLY-RRF-E3)      | [Rook 2020](printer-rook)      | 8GB MicroSD (Generic) | [RepRapFirmware](https://teamgloomy.github.io/) | With 4 Mellow Fly TMC2225 stepper drivers  |
-| [Fly Super 8](https://mellow-3d.github.io/fly_super8.html) | [Voron 2.4](printer-voron-2.4) | 8GB MicroSD (Generic) | [Klipper Firmware]                              | With 12 Mellow Fly TMC2130 stepper drivers |
+| Item                                                            | Case                           | Storage               | Flashed with                                    | Notes                                     |
+| --------------------------------------------------------------- | ------------------------------ | --------------------- | ----------------------------------------------- | ----------------------------------------- |
+| [Fly RRF E3](https://github.com/Mellow-3D/FLY-RRF-E3)           | [Rook 2020](printer-rook)      | 8GB MicroSD (Generic) | [RepRapFirmware](https://teamgloomy.github.io/) | With 4 Mellow Fly TMC2225 stepper drivers |
+| [Fly Super 8 v1.0](https://mellow-3d.github.io/fly_super8.html) |                                |                       | [Klipper Firmware]                              | With 6 Mellow Fly TMC2130 stepper drivers |
+| [Fly Super 8 v1.3](https://mellow-3d.github.io/fly_super8.html) | [Voron 2.4](printer-voron-2.4) | 8GB MicroSD (Generic) | [Klipper Firmware]                              | With 6 Mellow Fly TMC2130 stepper drivers |
 
 # Next Thing Co
 
