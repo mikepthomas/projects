@@ -137,7 +137,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | ESP-01s             | Relay Module          | [ESPHome]                        | relay    |
 | ESP-01s             | RGB LED Module        | [WLED](https://install.wled.me/) |          |
 | ESP-32 Cam          | ESP32 CAM MB          | [ESPHome]                        | camera   |
-| ESP-32 Dev Kit C V4 | ESP32 Expansion Board |                                  |          |
+| ESP-32 Dev Kit C V4 | ESP32 Expansion Board | [ESP-SDR]                                 |          |
 
 # Fysetc
 
@@ -2327,6 +2327,7 @@ For further information, please refer to https://pinout.xyz/
 [ArduinoISP]: https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP
 [Badger OS]: https://github.com/pimoroni/badger2040
 [ESPHome]: https://esphome.io
+[ESP-SDR]: https://espargos.net/espsdr
 [Klipper Firmware]: https://www.klipper3d.org
 [MainsailOS]: https://docs-os.mainsail.xyz
 [Marlin Firmware]: https://marlinfw.org
