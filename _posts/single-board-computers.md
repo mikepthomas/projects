@@ -137,7 +137,7 @@ BigTreeTech make mainboards to control 3D printers. :duck:
 | ESP-01s             | Relay Module          | [ESPHome]                        | relay    |
 | ESP-01s             | RGB LED Module        | [WLED](https://install.wled.me/) |          |
 | ESP-32 Cam          | ESP32 CAM MB          | [ESPHome]                        | camera   |
-| ESP-32 Dev Kit C V4 | ESP32 Expansion Board | [ESP-SDR]                                 |          |
+| ESP-32 Dev Kit C V4 | ESP32 Expansion Board | [ESP-SDR]                        |          |
 
 # Fysetc
 
