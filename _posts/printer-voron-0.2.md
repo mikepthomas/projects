@@ -564,10 +564,10 @@ The benefit for the A/B Idlers this is that belt tension is applied through an M
 
 ##### Parts Used
 
-| Item | Quantity |
-| ------------------------------- | --------| |
-| ~M3x12 BHCS~ | ~4~ |
-| ~T8x8 Anti-backlash Flange Nut~ | ~1~ |
+| Item                            | Quantity |
+| ------------------------------- | -------- |
+| ~M3x12 BHCS~                    | ~4~      |
+| ~T8x8 Anti-backlash Flange Nut~ | ~1~      |
 
 > [!CAUTION]
 > These parts are not required when using the [LDO Kirigami Bed].
