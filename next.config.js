@@ -35,7 +35,21 @@ const nextConfig = {
      *
      * @see https://nextjs.org/docs/messages/large-page-data
      */
-    largePageDataBytes: 224 * 1000,
+    largePageDataBytes: 224 * 1024,
+  },
+
+  sassOptions: {
+    /**
+     * Silence deprecation warnings until Bootstrap is upgraded
+     *
+     * @see https://sass-lang.com/documentation/js-api/interfaces/options/#silenceDeprecations
+     */
+    silenceDeprecations: [
+      'color-functions',
+      'global-builtin',
+      'if-function',
+      'import',
+    ],
   },
 };
 
