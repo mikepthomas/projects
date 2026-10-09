@@ -1660,6 +1660,18 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Creatures: Ghoulish Remnants]: https://modiphius.net/products/fallout-miniatures-creatures-ghoulish-remnants
 [Mr Fuzzy]: https://modiphius.net/products/fallout-miniatures-mr-fuzzy-promo
 
+#### The Dawn of the Mothman
+
+| Item                                   | Purchased | Digital | Downloaded | Released    | Notes |
+| -------------------------------------- | :-------: | ------- | :--------: | ----------- | ----- |
+| [Cult of the Mothman: Clergy]          |    :x:    |         |            | [July 2024] |
+| [Cult of the Mothman: Followers]       |    :x:    |         |            | [July 2024] |
+| [Cult of the Mothman: Mothman Eclipse] |    :x:    |         |            | [July 2024] |
+
+[Cult of the Mothman: Clergy]: https://modiphius.net/products/fallout-miniatures-cult-of-the-mothman-clergy
+[Cult of the Mothman: Followers]: https://modiphius.net/products/fallout-miniatures-cult-of-the-mothman-followers
+[Cult of the Mothman: Mothman Eclipse]: https://modiphius.net/products/fallout-miniatures-cult-of-the-mothman-mothman-eclipse
+
 #### Catching Floaters
 
 | Item                     | Purchased | Digital | Downloaded | Released       | Notes |
