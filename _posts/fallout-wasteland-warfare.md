@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-03T13:21:08.297Z
+lastmod: 2026-10-09T18:02:46.652Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1766,20 +1766,22 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 ### Accessories
 
-| Item                          |     Purchased      | Digital | Downloaded | Released        | Notes |
-| ----------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [Dogmeat Painter's Bust]      |        :x:         |         |            | [June 2026]     |
-| [Nate Painter's Bust]         |        :x:         |         |            | [June 2026]     |
-| Nora Painter's Bust           |        :x:         |         |            | [June 2026]     |
-| [NCR Ranger Painter's Bust]   | :heavy_check_mark: |         |            | [December 2025] |
-| Paladin Danse Painter's Bust  |        :x:         |         |            | [June 2026]     |
-| Piper Wright Painter's Bust   |        :x:         |         |            | [October 2026]  |
-| Preston Garvey Painter's Bust |        :x:         |         |            | [October 2026]  |
-| [T-60 Painter's Bust]         | :heavy_check_mark: |         |            | [December 2025] |
+| Item                            |     Purchased      | Digital | Downloaded | Released        | Notes |
+| ------------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Dogmeat Painter's Bust]        |        :x:         |         |            | [June 2026]     |
+| [Nate Painter's Bust]           |        :x:         |         |            | [June 2026]     |
+| Nora Painter's Bust             |        :x:         |         |            | [June 2026]     |
+| [NCR Ranger Painter's Bust]     | :heavy_check_mark: |         |            | [December 2025] |
+| Paladin Danse Painter's Bust    |        :x:         |         |            | [June 2026]     |
+| [Piper Wright Painter's Bust]   |        :x:         |         |            | [October 2026]  |
+| [Preston Garvey Painter's Bust] |        :x:         |         |            | [October 2026]  |
+| [T-60 Painter's Bust]           | :heavy_check_mark: |         |            | [December 2025] |
 
 [Dogmeat Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-dogmeat
 [Nate Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-nate
 [NCR Ranger Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-ncr-ranger
+[Piper Wright Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-piper-wright
+[Preston Garvey Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-preston-garvey
 [T-60 Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-t-60
 
 ### Miniatures
@@ -2510,6 +2512,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                         |
 | 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                           |
 | 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?      |
+| 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?             |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2526,6 +2529,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #13]: https://modiphius.net/blogs/news/dev-blog-13-how-do-i-find-new-gear-for-my-warband
 [Dev Blog #14]: https://modiphius.net/blogs/news/dev-blog-14-what-is-battle-mode
 [Dev Blog #15]: https://modiphius.net/blogs/news/dev-blog-15-how-does-the-campaign-work-in-fallout-wasteland-warfare
+[Dev Blog #16]: https://modiphius.net/blogs/news/dev-diary-16-how-does-armor-work-in-fallout-wasteland-warfare
 
 ## Items
 
