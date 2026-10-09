@@ -1808,6 +1808,40 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Commercial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-commercial-vehicles
 [Industrial Vehicles]: https://modiphius.net/products/fallout-terrain-print-at-home-industrial-vehicles-stl
 
+#### Downtown Boston Scenic Bases
+
+| Item                         | Purchased | Digital                                   | Downloaded | Released   | Notes |
+| ---------------------------- | :-------: | ----------------------------------------- | :--------: | ---------- | ----- |
+| Downtown Boston Scenic Bases |           | [Buy :zip:][Downtown Boston Scenic Bases] |    :x:     | [May 2026] |
+
+[Downtown Boston Scenic Bases]: https://www.myminifactory.com/object/823361
+
+#### Vault-Tec Scenic Bases
+
+| Item                          | Purchased | Digital                             | Downloaded | Released     | Notes |
+| ----------------------------- | :-------: | ----------------------------------- | :--------: | ------------ | ----- |
+| [30mm Vault-Tec Scenic Bases] |    :x:    | [Buy :zip:][Vault-Tec Scenic Bases] |    :x:     | [March 2026] |
+| [40mm Vault-Tec Scenic Bases] |    :x:    | [Buy :zip:][Vault-Tec Scenic Bases] |    :x:     | [March 2026] |
+| [50mm Vault-Tec Scenic Bases] |    :x:    | [Buy :zip:][Vault-Tec Scenic Bases] |    :x:     | [March 2026] |
+
+[Vault-Tec Scenic Bases]: https://www.myminifactory.com/object/823360
+[30mm Vault-Tec Scenic Bases]: https://modiphius.net/products/fallout-miniatures-30mm-vault-tec-scenic-bases
+[40mm Vault-Tec Scenic Bases]: https://modiphius.net/products/fallout-miniatures-40mm-vault-tec-scenic-bases
+[50mm Vault-Tec Scenic Bases]: https://modiphius.net/products/fallout-miniatures-50mm-vault-tec-scenic-bases
+
+#### Wasteland Scenic Bases
+
+| Item                          | Purchased | Digital                             | Downloaded | Released        | Notes |
+| ----------------------------- | :-------: | ----------------------------------- | :--------: | --------------- | ----- |
+| [30mm Wasteland Scenic Bases] |    :x:    | [Buy :zip:][Wasteland Scenic Bases] |    :x:     | [February 2026] |
+| [40mm Wasteland Scenic Bases] |    :x:    | [Buy :zip:][Wasteland Scenic Bases] |    :x:     | [February 2026] |
+| [50mm Wasteland Scenic Bases] |    :x:    | [Buy :zip:][Wasteland Scenic Bases] |    :x:     | [February 2026] |
+
+[Wasteland Scenic Bases]: https://www.myminifactory.com/object/766086
+[30mm Wasteland Scenic Bases]: https://modiphius.net/products/fallout-miniatures-30mm-wasteland-scenic-bases
+[40mm Wasteland Scenic Bases]: https://modiphius.net/products/fallout-miniatures-40mm-wasteland-scenic-bases
+[50mm Wasteland Scenic Bases]: https://modiphius.net/products/fallout-miniatures-50mm-wasteland-scenic-bases
+
 ## Amazon TV Sets
 
 ### Rules
