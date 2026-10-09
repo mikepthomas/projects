@@ -396,6 +396,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Turn Table Bearing
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-turntable-lazy-susan-base-stl-rotating-tabletop-terrain-add-on-m)
+
 ![Spool Tower - Turn Table Bearing](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/turn-table-bearing/susan_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -434,6 +436,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 | weapon_rack      |        1 |          |      |      |        |      |   :x:   |
 
 #### Wooden Bridge, Stairs and Ladder
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-wooden-access-kit-stl-modular-bridge-stairs-ladder-fantasy-sp)
 
 ![Fantasy Spool Tower: Wooden Bridge, Stairs and Ladder](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/wooden-bridge-stairs-and-ladder/fantasty-pack.jpg)
 
@@ -478,6 +482,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Ale House
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-ale-house-stl-fantasy-tavern-inn-terrain-modular-fantasy-pub-s)
+
 ![Fantasy Spool Tower: Ale House](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/ale-house/pub_3_2_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -496,6 +502,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 | wood_beam        |        1 |          |      |      |        |      |   :x:   |
 
 ### Castle Ramparts
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-castle-ramparts-stl-upcycled-fantasy-tabletop-terrain-modular-cast)
 
 ![Fantasy Spool Tower: Castle Ramparts](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/castle-ramparts/spool18_1.jpg)
 
@@ -517,6 +525,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Gothic Tower
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-gothic-cathedral-stl-modular-tabletop-shrine-church-terrain-mo)
 
 ![Fantasy Spool Tower: Gothic Tower](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/gothic-tower/goth2_2_1.jpg)
 
@@ -564,6 +574,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Observatory
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-observatory-stl-sci-fi-steampunk-tabletop-terrain-spool-tower)
+
 ![Fantasy Spool Tower: Observatory](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/observatory/observatory.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -583,6 +595,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Timber Framed Treehouse
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-tree-house-stl-fantasy-wargaming-rpg-terrain-modular-tree-hous)
 
 ![Fantasy Spool Tower: Timber Framed Treehouse](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/timber-framed-treehouse/spool19.jpg)
 
@@ -641,6 +655,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Treehouse Dice Tower
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-forest-treehouse-dice-tower-construction-set-stl-wargaming-scene)
+
 ![Fantasy Spool Tower: Treehouse Dice Tower](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/treehouse-dice-tower/tree4_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -660,6 +676,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Wizards Dice Tower
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-wizard-tower-dice-tower-tabletop-terrain-stl-3d-printable-upcycl)
 
 ![Fantasy Spool Tower: Wizards Dice Tower](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/fantasy/wizards-dice-tower/wizard_test4.jpg)
 
@@ -687,6 +705,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 #### Clip on Fence Panels
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-clip-on-fences-expansion-pack-stl-modular-terrain-upcycled-filam)
+
 ![Sci-Fi Spool Tower: Clip on Fence Panels](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/clip-on-fence-panels/fences_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -711,6 +731,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 #### Elevator
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-elevator-stl-push-fit-glueless-industrial-lift-scaffold-scenery)
+
 ![Sci-Fi Spool Tower: Elevator](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/elevator/elevator_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -734,6 +756,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 #### Metal Bridge
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-industrial-bridges-walkways-expansion-stl-tabletop-terrain-sci)
 
 ![Sci-Fi Spool Tower: Metal Bridge](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/metal-bridge/bridges3.jpg)
 
@@ -773,6 +797,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 #### Metal Ladder
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-metal-ladders-stl-modular-curved-stairs-safety-railings-sci-fi)
+
 ![Sci-Fi Spool Tower: Metal Ladder](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/metal-ladder/ladder0003.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -798,6 +824,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 | steps    |        1 |          |      |      |        |      |   :x:   |
 
 #### Metal Ramp
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-metal-walkways-ramps-stl-upcycled-sci-fi-tabletop-terrain-modula)
 
 ![Sci-Fi Spool Tower: Metal Ramp](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/metal-ramp/ramps_1.jpg)
 
@@ -849,6 +877,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 #### Metal Stairs
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-industrial-stair-expansion-kit-stl-modular-scenery-upcycled-fila)
+
 ![Sci-Fi Spool Tower: Metal Stairs](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/metal-stairs/stairs02_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -894,6 +924,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 #### Waste Material Scatter
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-greebles-detail-accessories-pack-stl-sci-fi-tabletop-terrain-upg)
 
 ![Sci-Fi Spool Tower: Waste Material Scatter](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/waste-material-scatter/greeblie1.jpg)
 
@@ -959,6 +991,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Cryo Pods
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-cryo-pods-stl-sci-fi-stasis-chamber-medical-bay-terrain-modula)
+
 ![Sci-Fi Spool Tower: Cryo Pods](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/cryo-pods/spool9_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -968,6 +1002,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 | cryo pod |        6 |          |      |      |        |      |   :x:   |
 
 ### Derelict Warehouse
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-warehouse-stl-sci-fi-post-apocalyptic-industrial-terrain-modul)
 
 ![Sci-Fi Spool Tower: Derelict Warehouse](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/derelict-warehouse/warehouse_1.jpg)
 
@@ -995,6 +1031,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Future Bar
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-cyberpunk-future-bar-stl-upcycled-sci-fi-cantina-bar-conversion)
+
 ![Sci-Fi Spool Tower: Future Bar Warehouse](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/future-bar/bar_image_new1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1013,6 +1051,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Lazer Prison
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-lazer-prison-stl-modular-sci-fi-tabletop-cell-block-conversion-spo)
+
 ![Sci-Fi Spool Tower: Lazer Prison](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/lazer-prison/lazer-prison.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1029,6 +1069,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Outrage Agitator
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-outrage-agitator-mind-washing-facility-stl-sci-fi-propagandist-spo)
+
 ![Sci-Fi Spool Tower: Outrage Agitator](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/outrage-agitator/outrage_1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1043,6 +1085,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Planetary Defence Gun
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-planetary-defence-cannon-stl-sci-fi-wargaming-terrain-spool-towe)
 
 ![Sci-Fi Spool Tower: Planetary Defence Gun](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/planetary-defence-gun/planet_defence_1.jpg)
 
@@ -1084,6 +1128,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Power Plant
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-power-generator-stl-sci-fi-industrial-plasma-reactor-modular-sci)
+
 ![Sci-Fi Spool Tower: Power Plant](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/power-plant/spool1.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1120,6 +1166,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Radar Dice Tower
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-satellite-dish-dice-tower-stl-sci-fi-comms-array-terrain-satelli)
+
 ![Sci-Fi Spool Tower: Radar Dice Tower](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/radar-dice-tower/dice.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1145,6 +1193,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Shop Fronts and Kiosks
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-shops-and-kiosks-stl-sci-fi-wargaming-rpg-terrain-modular-sci)
 
 ![Sci-Fi Spool Tower: Shop Fronts and Kiosks](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/shop-fronts-and-kiosks/shop_4_1_1.jpg)
 
@@ -1172,6 +1222,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
 
 ### Silo
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-industrial-silo-stl-modular-sci-fi-refinery-terrain-sci-fi-stora)
 
 ![Sci-Fi Spool Tower: Silo](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/silo/spool8.jpg)
 
@@ -1201,6 +1253,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 
 ### Temporal Displacement Agitator
 
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-temporal-displacement-agitator-stl-sci-fi-time-portal-terrain-te)
+
 ![Sci-Fi Spool Tower: Temporal Displacement Agitator](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/temporal-displacement-agitator/empty_3d_printer_spools.jpg)
 
 > Image © 2020 [Digital Taxidermy](https://www.digitaltaxidermy.co.uk)
@@ -1215,6 +1269,8 @@ Each section can hold 4 bottles, I will be printing 8 sections for 2 layers, whi
 | side_thing     |        4 |          |      |      |        |      |   :x:   |
 
 ### Video Gaming Arcade
+
+[Available separately on Cults 3D](https://cults3d.com/en/3d-model/game/spool-tower-cyberpunk-arcade-stl-upcycled-sci-fi-tabletop-terrain-sci-fi-gamin)
 
 ![Sci-Fi Spool Tower: Video Gaming Arcade](/assets/blog/printer-spool-tower/digital-taxidermy/spool-tower-1/sci-fi/video-gaming-arcade/arcade_1.jpg)
 
