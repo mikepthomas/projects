@@ -56,7 +56,7 @@ export default function ProjectCard(props: Props) {
           target={props.target}
           className={cn(styles['zoom'], 'card-link')}
         >
-          <CardImg src={props.image} />
+          <CardImg src={props.image} alt={props.name} />
         </Link>
       ) : null}
       <CardBody>
