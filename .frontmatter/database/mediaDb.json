@@ -3,84 +3,214 @@
     "assets": {
       "blog": {
         "3d-lab-print-piper-cub": {
-          "piper-cub-hero.png": {
-            "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
-            "alt": "3D LabPrint Piper Cub",
-            "title": "Piper Cub Hero"
-          },
           "3d-labprint": {
-            "wings.png": {
-              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
-              "alt": "Assembly instructions for Wings",
-              "title": "Wings"
-            },
             "body.png": {
-              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
               "alt": "Assembly instructions for Body",
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
               "title": "Body"
             },
-            "tail.png": {
+            "floats.png": {
+              "alt": "Assembly instructions for Floats",
               "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
+              "title": "Floats"
+            },
+            "tail.png": {
               "alt": "Assembly instructions for Tail",
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
               "title": "Tail"
             },
             "wheels.png": {
-              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
               "alt": "Assembly instructions for Wheels",
+              "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
               "title": "Wheels"
             },
-            "floats.png": {
+            "wings.png": {
+              "alt": "Assembly instructions for Wings",
               "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
-              "alt": "Assembly instructions for Floats",
-              "title": "Floats"
+              "title": "Wings"
             }
+          },
+          "piper-cub-hero.png": {
+            "alt": "3D LabPrint Piper Cub",
+            "caption": "Image © 2022 [3D LabPrint](https://3dlabprint.com)",
+            "title": "Piper Cub Hero"
+          }
+        },
+        "3d-sets-accessories": {
+          "3d-sets-accessories-hero.jpg": {
+            "alt": "Parts to build a 3D Sets Car Hauler Trailer",
+            "title": "3D Sets Accessories Hero"
+          }
+        },
+        "3d-sets-landy": {
+          "3d-sets-landy-hero.jpg": {
+            "alt": "Parts to build a 3D Sets Landy remote controlled car",
+            "title": "3D Sets Landy Hero"
+          }
+        },
+        "brotherhood-of-steel": {
+          "brotherhood-of-steel-hero.jpg": {
+            "alt": "3D render of the Brotherhood of Steel Encampment",
+            "caption": "Image © 2022 [Modiphius Entertainment](https://modiphius.net)",
+            "title": "Brotherhood of Steel Hero"
+          }
+        },
+        "cameras": {
+          "box-brownie-closed.jpg": {
+            "alt": "No. 2 Brownie Model F is a little rough around the edges",
+            "title": "Box Brownie Closed"
+          },
+          "box-brownie-open.jpg": {
+            "alt": "No. 2 Brownie Model F Open",
+            "title": "Box Brownie Open"
+          },
+          "cameras-hero.jpg": {
+            "alt": "My collection of Cameras",
+            "title": "Cameras Hero"
+          },
+          "chemicals.jpg": {
+            "alt": "Film developing chemicals",
+            "title": "Chemicals"
+          },
+          "cosina-csl.jpg": {
+            "alt": "A Cosina CSL Film Camera",
+            "title": "Cosina CSL"
+          },
+          "cosina-csr.jpg": {
+            "alt": "A Cosina CSR Film Camera",
+            "title": "Cosina CSR"
+          },
+          "developed-film.jpg": {
+            "alt": "Developed film hanging up to dry",
+            "title": "Developed Film"
+          },
+          "developing.jpg": {
+            "alt": "Tools for developing Black and White film",
+            "title": "Developing"
+          },
+          "industar-50-2.jpg": {
+            "alt": "An Industar-50-2 Lens",
+            "title": "Industar-50-2"
+          },
+          "kodak-closed.jpg": {
+            "alt": "No. 1 Pocket Kodak Jr folds up quite small",
+            "title": "Kodak Closed"
+          },
+          "kodak-film.jpg": {
+            "alt": "Some developed 35mm colour film",
+            "title": "Kodak Film"
+          },
+          "kodak-open.jpg": {
+            "alt": "No. 1 Pocket Kodak Jr ready to take pictures",
+            "title": "Kodak Open"
+          },
+          "lomochrome-film.jpg": {
+            "alt": "A roll of 35mm Film",
+            "title": "Lomochrome Film"
+          },
+          "minolta-xg-m-on-film.jpg": {
+            "alt": "Film photograph of my Minolta XG-M",
+            "caption": "This photo was taken on my [Nikon F-801](#f-801)",
+            "title": "Minolta XG-M On Film"
+          },
+          "minolta-xg-m.jpg": {
+            "alt": "A great charity shop find",
+            "title": "Minolta XG-M"
+          },
+          "nikon-cameras.jpg": {
+            "alt": "My Nikon cameras with some accessories",
+            "title": "Nikon Cameras"
+          },
+          "nikon-d3100-lens-extended.jpg": {
+            "alt": "Nikon D3100 with a Tamaron lens fully extended",
+            "title": "Nikon D3100 Lens Extended"
+          },
+          "nikon-d7000-back.jpg": {
+            "alt": "Screen on the back of a Nikon D7000",
+            "title": "Nikon D7000 Back"
+          },
+          "nikon-d7000-screen.jpg": {
+            "alt": "Screen on the top of a Nikon D7000",
+            "title": "Nikon D7000 Screen"
+          },
+          "nikon-f-801-on-film.jpg": {
+            "alt": "Film photograph of my Nikon F-801",
+            "caption": "This photo was taken on my [Minolta XG-M](#xg-m)",
+            "title": "Nikon F-801 On Film"
+          },
+          "nikon-f-801.jpg": {
+            "alt": "A Nikon F-801 Film Camera",
+            "title": "Nikon F-801"
+          },
+          "praktica-bc-1.jpg": {
+            "alt": "A Praktica BC 1 Film Camera",
+            "title": "Praktica BC 1"
+          },
+          "repaired-lens-scratched.jpg": {
+            "alt": "Deep scratches on the side of a lens",
+            "title": "Repaired Lens Scratched"
+          },
+          "tripod.jpg": {
+            "alt": "Digital Camera on a Tripod",
+            "title": "Tripod"
+          },
+          "zenit-e.jpg": {
+            "alt": "A Zenit-E Film Camera",
+            "title": "Zenit-E"
+          }
+        },
+        "corvus-atx": {
+          "corvus-hero.jpg": {
+            "alt": "LDO Kits to build a Corvus ATX PC Case",
+            "caption": "",
+            "title": "Corvus Hero"
+          },
+          "electronics.png": {
+            "alt": "3D render of the Corvus ATX Electronics",
+            "caption": "",
+            "title": "Electronics"
+          },
+          "feet.png": {
+            "alt": "3D render of the Corvus ATX Feet",
+            "caption": "",
+            "title": "Feet"
+          },
+          "frame.png": {
+            "alt": "3D render of the Corvus ATX Frame",
+            "caption": "",
+            "title": "Frame"
+          },
+          "panels.png": {
+            "alt": "3D render of the Corvus ATX Panels",
+            "caption": "",
+            "title": "Panels"
+          },
+          "skirts.png": {
+            "alt": "3D render of the Corvus ATX Skirts",
+            "caption": "",
+            "title": "Skirts"
+          }
+        },
+        "enraged-rabbit-carrot-feeder-1.1": {
+          "enraged-rabbit-carrot-feeder-1.1-hero.jpg": {
+            "alt": "An assembled Enraged Rabbit Carrot Feeder V1.1",
+            "title": "Enraged Rabbit Carrot Feeder 1.1 Hero"
+          },
+          "enraged-rabbit-carrot-patch.jpg": {
+            "alt": "An assembled Enraged Rabbit Carrot Patch",
+            "title": "Enraged Rabbit Carrot Patch"
+          }
+        },
+        "enraged-rabbit-carrot-feeder-2.0": {
+          "enraged-rabbit-carrot-feeder-2.0-hero.jpg": {
+            "alt": "A box of bits to assemble an Enraged Rabbit Carrot Feeder",
+            "title": "Enraged Rabbit Carrot Feeder 2.0 Hero"
           }
         },
         "eurorack-modular-synth": {
-          "eurorack-hero.jpg": {
-            "alt": "Soldering components onto the Sequencer PCB",
-            "title": "Eurorack Hero"
-          },
-          "keystep-pro.jpg": {
-            "alt": "A KeyStep Pro in its original box",
-            "title": "KeyStep Pro"
-          },
           "diy-eurorack-case.jpg": {
             "alt": "Fully Assembled DIY Eurorack Case",
             "title": "DIY Eurorack Case"
-          },
-          "tuna-socks.jpg": {
-            "title": "Tuna Socks",
-            "caption": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
-            "alt": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\""
-          },
-          "mornsun-power-supply.jpg": {
-            "alt": "Fully Assembled Power Supply PCB",
-            "title": "Mornsun Power Supply"
-          },
-          "sequencer-assembled.jpg": {
-            "alt": "Components soldered to the Sequencer PCB",
-            "title": "Sequencer Assembled"
-          },
-          "sequencer-installed.jpg": {
-            "alt": "Sequencer Installed in the Case",
-            "title": "Sequencer Installed"
-          },
-          "vco-assembled.jpg": {
-            "alt": "Components soldered to the VCO PCB",
-            "title": "VCO Assembled"
-          },
-          "vco-installed.jpg": {
-            "alt": "VCO Installed in the Case",
-            "title": "VCO Installed"
-          },
-          "vcf-assembled.jpg": {
-            "alt": "Components soldered to the VCF PCB",
-            "title": "VCF Assembled"
-          },
-          "vcf-installed.jpg": {
-            "alt": "VCF Installed in the Case",
-            "title": "VCF Installed"
           },
           "envelope-assembled.jpg": {
             "alt": "Components soldered to the Envelope PCB",
@@ -90,6 +220,39 @@
             "alt": "Envelope Installed in the Case",
             "title": "Envelope Installed"
           },
+          "eurorack-hero.jpg": {
+            "alt": "Soldering components onto the Sequencer PCB",
+            "title": "Eurorack Hero"
+          },
+          "keystep-pro.jpg": {
+            "alt": "A KeyStep Pro in its original box",
+            "title": "KeyStep Pro"
+          },
+          "mornsun-power-supply.jpg": {
+            "alt": "Fully Assembled Power Supply PCB",
+            "title": "Mornsun Power Supply"
+          },
+          "output-mixer-assembled.jpg": {
+            "alt": "Components soldered to the Output Mixer PCB",
+            "title": "Output Mixer Assembled"
+          },
+          "output-mixer-installed.jpg": {
+            "alt": "Output Mixer Installed in the Case",
+            "title": "Output Mixer Installed"
+          },
+          "sequencer-assembled.jpg": {
+            "alt": "Components soldered to the Sequencer PCB",
+            "title": "Sequencer Assembled"
+          },
+          "sequencer-installed.jpg": {
+            "alt": "Sequencer Installed in the Case",
+            "title": "Sequencer Installed"
+          },
+          "tuna-socks.jpg": {
+            "alt": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
+            "caption": "Introducing Sooty and Susie to the Erica Synths mascot \"Tuna The Cat\"",
+            "title": "Tuna Socks"
+          },
           "vca-assembled.jpg": {
             "alt": "Components soldered to the VCA PCB",
             "title": "VCA Assembled"
@@ -98,143 +261,401 @@
             "alt": "VCA Installed in the Case",
             "title": "VCA Installed"
           },
-          "output-mixer-installed.jpg": {
-            "title": "Output Mixer Installed",
-            "alt": "Output Mixer Installed in the Case"
+          "vcf-assembled.jpg": {
+            "alt": "Components soldered to the VCF PCB",
+            "title": "VCF Assembled"
           },
-          "output-mixer-assembled.jpg": {
-            "title": "Output Mixer Assembled",
-            "alt": "Components soldered to the Output Mixer PCB"
+          "vcf-installed.jpg": {
+            "alt": "VCF Installed in the Case",
+            "title": "VCF Installed"
+          },
+          "vco-assembled.jpg": {
+            "alt": "Components soldered to the VCO PCB",
+            "title": "VCO Assembled"
+          },
+          "vco-installed.jpg": {
+            "alt": "VCO Installed in the Case",
+            "title": "VCO Installed"
           }
         },
-        "printer-am8": {
-          "printer-am8-hero.jpg": {
-            "alt": "3D Printer frame in a bashed up box",
-            "title": "AM8 Printer Hero Image"
+        "guitar": {
+          "01-sourcing-parts.jpg": {
+            "alt": "Sourcing Main Components",
+            "title": "Sourcing Parts"
+          },
+          "02-finished-sourcing.jpg": {
+            "alt": "Sourcing Smaller Parts",
+            "title": "Finished Sourcing"
+          },
+          "03-first-part-front.jpg": {
+            "alt": "First Part Attached (Front)",
+            "title": "First Part Front"
+          },
+          "04-first-part-rear.jpg": {
+            "alt": "First Part Attached (Rear)",
+            "title": "First Part Rear"
+          },
+          "05-second-part.jpg": {
+            "alt": "Second Part Attached",
+            "title": "Second Part"
+          },
+          "06-tension-springs.jpg": {
+            "alt": "Adding Tremolo Spring Bracket",
+            "title": "Tension Springs"
+          },
+          "07-third-part-back.jpg": {
+            "alt": "Third Part Attached (Rear)",
+            "title": "Third Part Back"
+          },
+          "08-third-part-front.jpg": {
+            "alt": "Third Part Attached (Front)",
+            "title": "Third Part Front"
+          },
+          "09-full-length.jpg": {
+            "alt": "The Full Length of the Guitar",
+            "title": "Full Length"
+          },
+          "10-sides.jpg": {
+            "alt": "Printing sides to the guitar",
+            "title": "Sides"
+          },
+          "11-sides-install.jpg": {
+            "alt": "Installing the Right Side",
+            "title": "Sides Install"
+          },
+          "12-almost-there.jpg": {
+            "alt": "Broken Part when Installing the Left Side",
+            "title": "Almost There"
+          },
+          "13-sides-clamping.jpg": {
+            "alt": "Cracked Dove Tail",
+            "title": "Sides Clamping"
+          },
+          "14-body-finished.jpg": {
+            "alt": "Body Assembled",
+            "title": "Body Finished"
+          },
+          "15-electronics.jpg": {
+            "alt": "Adding the Electronics",
+            "title": "Electronics"
+          },
+          "16-rear-cover.jpg": {
+            "alt": "Designed a Rear Cover",
+            "title": "Rear Cover"
+          },
+          "17-finished.jpg": {
+            "alt": "All Finished",
+            "title": "Finished"
+          },
+          "guitar-hero.jpg": {
+            "alt": "Guitar Fully Assembled",
+            "title": "Guitar Hero"
           }
         },
-        "printer-enclosure": {
-          "enclosure-hero.jpg": {
-            "alt": "Lack Table 3D Printer Enclosure",
-            "title": "3D Printer Enclosure Hero"
+        "homelab": {
+          "beat-saber.jpg": {
+            "alt": "Beat Saber in front of a green screen",
+            "title": "Beat Saber"
           },
-          "lack-table-one.jpg": {
-            "alt": "Assembling Lack Tables",
-            "title": "Lack Table One"
+          "flight-tracker.jpg": {
+            "alt": "FlightAware setup for tracking aircraft",
+            "title": "Flight Tracker"
           },
-          "lack-table-two.jpg": {
-            "alt": "Attaching the 3D Printed Risers",
-            "title": "Lack Table Two"
+          "gaming-pc.jpg": {
+            "alt": "My water cooled gaming PC",
+            "title": "Gaming PC"
           },
-          "assembled.jpg": {
-            "alt": "Lack Table Enclosure Assembled",
-            "title": "Assembled"
+          "homelab-hero.jpg": {
+            "alt": "The off bunch of machines I run my homelab from",
+            "title": "Homelab Hero"
           },
-          "cat-approved.jpg": {
-            "alt": "Enclosure - Cat Approved",
-            "title": "Cat Approved"
+          "lighting.jpg": {
+            "alt": "Lighting and Camera setup to record myself in front of the green screen",
+            "title": "Lighting"
           },
-          "temporary-abs-enclosure.jpg": {
-            "alt": "Temporary Setup for Printing ABS",
-            "title": "Temporary ABS Enclosure"
+          "mini-minirack.jpg": {
+            "alt": "Japanese \"Gatcha\" Mini Server Rack",
+            "caption": "",
+            "title": "Mini Minirack"
           },
-          "filament.jpg": {
-            "alt": "I may have a filament purchasing problem",
-            "title": "Filament"
+          "odroid-cloudshell2.jpg": {
+            "alt": "NAS based on an Odroid XU4",
+            "title": "Odroid CloudShell 2"
           },
-          "new-ikea-ivar.jpg": {
-            "alt": "New Enclosure built using Ikea Ivar cabinet",
-            "title": "New Ikea Ivar"
+          "pikvm.jpg": {
+            "alt": "A Raspberry Pi powered KVM Switch",
+            "title": "PiKVM"
           },
-          "hinges.jpg": { "alt": "3D Printed Hinges", "title": "Hinges" },
-          "carbon-filter-exhaust.jpg": {
-            "alt": "Voron Carbon Exhaust Filter",
-            "title": "Carbon Filter Exhaust"
+          "raspberry-pi-2-cluster.jpg": {
+            "alt": "My original Raspberry Pi cluster",
+            "title": "Raspberry Pi 2 Cluster"
+          },
+          "raspberry-pi-3-cluster.jpg": {
+            "alt": "Previous Raspberry Pi cluster for Docker Swarm",
+            "title": "Raspberry Pi 3 Cluster"
+          },
+          "raspberry-pi-zero-cluster.jpg": {
+            "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
+            "title": "Raspberry Pi Zero Cluster"
+          },
+          "vr-room-mk1.jpg": {
+            "alt": "The first iteration of the VR Room",
+            "title": "VR Room MK1"
+          },
+          "vr-room-mk2.jpeg": {
+            "alt": "Getting a larger green screen to be able to record further away",
+            "title": "VR Room MK2"
+          },
+          "vr-room-mk3.jpg": {
+            "alt": "The final iteration of the VR room",
+            "title": "VR Room MK3"
           }
         },
-        "printer-failures": {
-          "printer-failures-hero.jpg": {
-            "alt": "Broken cable chain held together with cable ties",
-            "title": "3D Printer Failures Hero"
+        "horology": {
+          "clipping-dial.jpg": {
+            "alt": "Clipping the pegs off the back of the dial to fit the movement",
+            "title": "Clipping Dial"
           },
-          "first-print.jpg": {
-            "alt": "My first ever print",
-            "title": "First Print"
+          "dial-installed.jpg": {
+            "alt": "Installing the Dial onto the Movement",
+            "title": "Dial Installed"
           },
-          "cable-chain.jpg": {
-            "alt": "Cables not fitting in cable chain",
-            "title": "Cable Chain"
+          "hands-installed.jpg": {
+            "alt": "Installing the Hands onto the Dial",
+            "title": "Hands Installed"
           },
-          "fan-duct-melted.jpg": {
-            "alt": "Hot nozzle through fan duct",
-            "title": "Fan Duct Melted"
+          "watch-complete.jpg": {
+            "alt": "The Completed Watch",
+            "title": "Watch Complete"
           },
-          "cooling-fan-broken.jpg": {
-            "alt": "Allen key in cooling fan",
-            "title": "Cooling Fan Broken"
+          "watch-hero.jpg": {
+            "alt": "Assembled watch on Case Cushion",
+            "title": "Watch Hero"
           },
-          "cooling-fan-noctua.jpg": {
-            "alt": "Replacement Noctua fan",
-            "title": "Cooling Fan Noctua"
+          "watch-parts.jpg": {
+            "alt": "A collection of tools for watchmaking",
+            "title": "Watch Parts"
+          }
+        },
+        "knick-knacks": {
+          "benchy-wave.jpg": {
+            "alt": "Wave to display a benchy boat",
+            "title": "Benchy Wave"
           },
-          "heater-wire-wear.jpg": {
-            "alt": "Heater wire worn through",
-            "title": "Heater Wire Wear"
+          "bullet-bill.jpg": {
+            "alt": "Bullet Bill Prop",
+            "title": "Bullet Bill"
           },
-          "cable-chain-melted.jpg": {
-            "alt": "Cable chain melted by new heater",
-            "title": "Cable Chain Melted"
+          "camera-battery-holder.jpg": {
+            "alt": "Box to hold 2 Camera Batteries and 2 SD Cards",
+            "title": "Camera Battery Holder"
           },
-          "cable-chain-weakened.jpg": {
-            "alt": "Weakened cable chain from movement",
-            "title": "Cable Chain Weakened"
+          "knick-knacks-hero.jpg": {
+            "alt": "Printing a Giant Lego Man for my Lego Collection",
+            "title": "Knick Knacks Hero"
           },
-          "worn-belt.jpg": {
-            "alt": "X Axis belt worn through",
-            "title": "Worn Belt"
+          "lego-man-almost-complete.jpg": {
+            "alt": "Almost Completed Giant Lego Man",
+            "title": "Lego Man Almost Complete"
           },
-          "broken-probe-wire.jpg": {
-            "alt": "3D Touch wired snapped due to movement",
-            "title": "Broken Probe Wire"
+          "lego-man-arm.jpg": {
+            "alt": "Giant Lego Man Arm",
+            "title": "Lego Man Arm"
           },
-          "bearing-failure.jpg": {
-            "alt": "Bearings Failed in cheap idlers",
-            "title": "Bearing Failure"
+          "lego-man-complete.jpg": {
+            "alt": "Adding the Head and Arms",
+            "title": "Lego Man Complete"
           },
-          "fan-duct-deformed.jpg": {
-            "alt": "Fan Duct Deformed printing ABS",
-            "title": "Fan Duct Deformed"
+          "lego-man-torso.jpg": {
+            "alt": "Comparison with an actual Lego man torso",
+            "title": "Lego Man Torso"
           },
-          "broken-cable-ends.jpg": {
-            "alt": "Multiple broken pieces whilst trying to make cables",
-            "title": "Broken Cable Ends"
+          "plane-kit.jpg": {
+            "alt": "Print-in-place aeroplane kit",
+            "title": "Plane Kit"
           },
-          "cables-complete.jpg": {
-            "alt": "Finally managed to make the cables without breaking the ends",
-            "title": "Cables Complete"
+          "vive-cable-clips.jpg": {
+            "alt": "Cable Clips to hold the cable out of the way for the Vive Headset",
+            "title": "Vive Cable Clips"
           },
-          "led-strip-deformed.jpg": {
-            "title": "LED Strip Deformed",
-            "alt": "LED Strip Deformed printing ABS"
+          "vive-controller-holder-complete.jpg": {
+            "alt": "Stand to hold the controllers for my VR Setup",
+            "title": "Vive Controller Holder Complete"
           },
-          "overheating-extruder-motor.jpg": {
-            "title": "Overheating Extruder Motor",
-            "alt": "Overheating extruder motor deforming PLA printed extruder chain mount"
+          "vive-controller-holder-printing.jpg": {
+            "alt": "Printing the Vive Controller Holder",
+            "title": "Vive Controller Holder Printing"
           },
-          "extruder-chain-mount-deformed.jpg": {
-            "title": "Extruder Chain Mount Deformed",
-            "alt": "Extruder Chain Mount deformed from the heat of the motor"
+          "vive-controller-protector-print.jpg": {
+            "alt": "Showing off the print quality of the Anet A8",
+            "title": "Vive Controller Protector Print"
           },
-          "extruder-chain-mount-in-abs.jpg": {
-            "title": "Extruder Chain Mount In ABS",
-            "alt": "Refitted ABS Printed Chain Mount"
+          "vive-controller-protector.jpg": {
+            "alt": "Plastic protector to help stop damage from using controllers in VR",
+            "title": "Vive Controller Protector"
+          }
+        },
+        "macro-pi": {
+          "macro-pi-hero.jpg": {
+            "alt": "A bunch of components needed to build a Macro Pi",
+            "title": "Macro Pi Hero"
+          }
+        },
+        "marble-machine": {
+          "chain-marble-bucket.jpg": {
+            "alt": "Installing the Chain, Marble Buckets and Gears",
+            "title": "Chain Marble Bucket"
+          },
+          "marble-machine-assembled.jpg": {
+            "alt": "The Out of Marbles, marble machine fully assembled",
+            "title": "Marble Machine Assembled"
+          },
+          "marble-machine-base.jpg": {
+            "alt": "Electronics installed into the base of the marble machine",
+            "title": "Marble Machine Base"
+          },
+          "marble-machine-hero.jpg": {
+            "alt": "Base of the marble machine that has just finished printing",
+            "title": "Marble Machine Hero"
+          }
+        },
+        "nevermore-filter": {
+          "nevermore-filter-hero.jpg": {
+            "alt": "Parts to build a Nevermore Filter",
+            "title": "Nevermore Filter Hero"
+          }
+        },
+        "openrc-f1": {
+          "chassis-assembly.jpg": {
+            "alt": "Testing the layout of the electronics",
+            "title": "Chassis Assembly"
+          },
+          "complete.jpg": {
+            "alt": "OpenRC F1 Body Installed",
+            "title": "Complete"
+          },
+          "electronics-box-assembled.jpg": {
+            "alt": "Electronics added into the printed box",
+            "title": "Electronics Box Assembled"
+          },
+          "electronics-box-installed.jpg": {
+            "alt": "The Electronics box installed in the car",
+            "title": "Electronics Box Installed"
+          },
+          "electronics-box-layout.jpg": {
+            "alt": "Designing a box to hold the electronics",
+            "title": "Electronics Box Layout"
+          },
+          "front-bom-assembly.jpg": {
+            "alt": "Front End Assembled",
+            "title": "Front BOM Assembly"
+          },
+          "front-tyres.jpg": {
+            "alt": "Printed TPU Tyres",
+            "title": "Front Tyres"
+          },
+          "openrc-hero.jpg": {
+            "alt": "OpenRC F1 Complete",
+            "title": "OpenRC Hero"
+          },
+          "rear-axle-assembly.jpg": {
+            "alt": "Rear End Assembled",
+            "title": "Rear Axle Assembly"
+          },
+          "rear-wheel-assembly.jpg": {
+            "alt": "Printed Rear Axle",
+            "title": "Rear Wheel Assembly"
+          },
+          "tamiya-f104-tyres.jpg": {
+            "alt": "Installing some proper rubber RC car tyres",
+            "title": "Tamiya F104 Tyres"
+          },
+          "tyres-split.jpg": {
+            "alt": "The TPU Tyres are quite hard to print",
+            "title": "Tyres Split"
+          }
+        },
+        "openrc-mini-quad": {
+          "almost-finished.jpg": {
+            "alt": "Test Fitting the Battery",
+            "title": "Almost Finished"
+          },
+          "flight-stack.jpg": {
+            "alt": "Installing the ESC",
+            "title": "Flight Stack"
+          },
+          "mini-quad-hero.jpg": {
+            "alt": "Mini Quad Fully Assembled",
+            "title": "Mini Quad Hero"
+          },
+          "mini-quad-parts.jpg": {
+            "alt": "Parts to build a OpenRC FPV Mini Quad",
+            "title": "Mini Quad Parts"
+          },
+          "motors.jpg": {
+            "alt": "Installing the Motors",
+            "title": "Motors"
+          },
+          "props-on.jpg": {
+            "alt": "Danger! Props are installed on the motor",
+            "title": "Props On"
+          },
+          "top-deck.jpg": {
+            "alt": "Installing the Top Deck",
+            "title": "Top Deck"
+          }
+        },
+        "openrc-truggy": {
+          "differential-housing-assembly-complete.jpg": {
+            "alt": "Metal gears in 3D printed differentials",
+            "title": "Differential Housing Assembly Complete"
+          },
+          "openrc": {
+            "chassis-assembly.png": {
+              "alt": "Exploded diagram of the Chassis Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Chassis Assembly"
+            },
+            "differential-housing-assembly.png": {
+              "alt": "Exploded diagram of the Differential Housing Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Differential Housing Assembly"
+            },
+            "front-assembly.png": {
+              "alt": "Exploded diagram of the Front Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Front Assembly"
+            },
+            "front-c-hub-assembly.png": {
+              "alt": "Exploded diagram of the Front C-Hub Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Front C-Hub Assembly"
+            },
+            "rear-assembly.png": {
+              "alt": "Exploded diagram of the Rear Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Rear Assembly"
+            },
+            "steering-assembly.png": {
+              "alt": "Exploded diagram of the Steering Assembly",
+              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
+              "title": "Steering Assembly"
+            }
+          },
+          "rear-assembly-assembled.jpg": {
+            "alt": "Laying out the drivechain",
+            "title": "Rear Assembly Assembled"
+          },
+          "truggy-complete.jpg": {
+            "alt": "OpenRC Truggy Completed",
+            "title": "Truggy Complete"
+          },
+          "truggy-hero.jpg": {
+            "alt": "Partially assembled OpenRC Truggy",
+            "title": "Truggy Hero"
           }
         },
         "printer": {
-          "printer-hero.jpg": {
-            "alt": "Stock Anet A8, fully assembled",
-            "title": "3D Printer Hero"
-          },
           "01-before-assembly.jpg": {
             "alt": "An unassembled Anet A8 in original packaging",
             "title": "Before Assembly"
@@ -355,108 +776,175 @@
             "alt": "First ever print on the printer; a Benchy boat",
             "title": "First Print"
           },
-          "safety-upgrades.jpg": {
-            "alt": "Goodies to upgrade the printer",
-            "title": "Safety Upgrades"
-          },
           "auto-level-sensor.jpg": {
             "alt": "Auto Level Sensor Installed",
             "title": "Auto Level Sensor"
+          },
+          "printer-hero.jpg": {
+            "alt": "Stock Anet A8, fully assembled",
+            "title": "3D Printer Hero"
+          },
+          "safety-upgrades.jpg": {
+            "alt": "Goodies to upgrade the printer",
+            "title": "Safety Upgrades"
           }
         },
-        "printer-printed-upgrades": {
-          "printed-items.jpg": {
-            "alt": "All the upgrades from one spool of filament",
-            "title": "3D Printed Upgrades"
+        "printer-am8": {
+          "printer-am8-hero.jpg": {
+            "alt": "3D Printer frame in a bashed up box",
+            "title": "AM8 Printer Hero Image"
+          }
+        },
+        "printer-enclosure": {
+          "assembled.jpg": {
+            "alt": "Lack Table Enclosure Assembled",
+            "title": "Assembled"
           },
-          "original-fan-duct.jpg": {
-            "alt": "Original Anet A8 Fan Duct",
-            "title": "Original Fan Duct"
+          "carbon-filter-exhaust.jpg": {
+            "alt": "Voron Carbon Exhaust Filter",
+            "title": "Carbon Filter Exhaust"
           },
-          "semi-circular-fan-duct.jpg": {
-            "alt": "Semi-Circular Anet A8 Fan Duct",
-            "title": "Semi-Circular Fan Duct"
+          "cat-approved.jpg": {
+            "alt": "Enclosure - Cat Approved",
+            "title": "Cat Approved"
           },
-          "t-corner.jpg": { "alt": "Anet A8 T corner", "title": "T corner" },
-          "t-corner-installed.jpg": {
-            "alt": "Anet A8 T corner installed",
-            "title": "T corner installed"
+          "enclosure-hero.jpg": {
+            "alt": "Lack Table 3D Printer Enclosure",
+            "title": "3D Printer Enclosure Hero"
           },
-          "cosmetic-upgrades.jpg": {
-            "alt": "Some printed cosmetic Upgrades",
-            "title": "Cosmetic Upgrades"
+          "filament.jpg": {
+            "alt": "I may have a filament purchasing problem",
+            "title": "Filament"
           },
-          "electronics-upgrades.jpg": {
-            "alt": "Parts to update the printer electronics",
-            "title": "Electronics Upgrades"
+          "hinges.jpg": {
+            "alt": "3D Printed Hinges",
+            "title": "Hinges"
           },
-          "sd-card-extender.jpg": {
-            "alt": "Relocating the SD card socket",
-            "title": "SD Card Extender"
+          "lack-table-one.jpg": {
+            "alt": "Assembling Lack Tables",
+            "title": "Lack Table One"
           },
-          "electronics-case.jpg": {
-            "alt": "Anet A8 Electronics Case",
-            "title": "Electronics Case"
+          "lack-table-two.jpg": {
+            "alt": "Attaching the 3D Printed Risers",
+            "title": "Lack Table Two"
           },
-          "mosfet.jpg": {
-            "alt": "Anet A8 Electronics Case Mosfet",
-            "title": "Mosfet"
+          "new-ikea-ivar.jpg": {
+            "alt": "New Enclosure built using Ikea Ivar cabinet",
+            "title": "New Ikea Ivar"
           },
-          "electronics-case-before-after.jpg": {
-            "alt": "Anet A8 Electronics Case Before and After",
-            "title": "Electronics Case Before and After"
+          "temporary-abs-enclosure.jpg": {
+            "alt": "Temporary Setup for Printing ABS",
+            "title": "Temporary ABS Enclosure"
+          }
+        },
+        "printer-failures": {
+          "bearing-failure.jpg": {
+            "alt": "Bearings Failed in cheap idlers",
+            "title": "Bearing Failure"
           },
-          "frame-brace.jpg": { "alt": "Frame Bracing", "title": "Frame Brace" },
-          "x-axis-brackets.jpg": {
-            "alt": "Brackets to stiffen the top of the frame",
-            "title": "X-Axis Brackets"
+          "broken-cable-ends.jpg": {
+            "alt": "Multiple broken pieces whilst trying to make cables",
+            "title": "Broken Cable Ends"
           },
-          "motion-upgrades.jpg": {
-            "alt": "Upgrades for the motion system",
-            "title": "Motion Upgrades"
+          "broken-probe-wire.jpg": {
+            "alt": "3D Touch wired snapped due to movement",
+            "title": "Broken Probe Wire"
           },
-          "y-belt-tensioner.jpg": {
-            "alt": "Y-Axis Belt Tensioner",
-            "title": "Y Belt Tensioner"
+          "cable-chain-melted.jpg": {
+            "alt": "Cable chain melted by new heater",
+            "title": "Cable Chain Melted"
           },
-          "y-belt-tensioner-updated.jpg": {
-            "alt": "Updated Y-Axis Belt Tensioner",
-            "title": "Y Belt Tensioner Updated"
+          "cable-chain-weakened.jpg": {
+            "alt": "Weakened cable chain from movement",
+            "title": "Cable Chain Weakened"
           },
-          "x-axis-chain.jpg": {
-            "alt": "X-Axis Drag Chain",
-            "title": "X-Axis Chain"
+          "cable-chain.jpg": {
+            "alt": "Cables not fitting in cable chain",
+            "title": "Cable Chain"
           },
-          "x-axis-chain-updated.jpg": {
-            "alt": "Updated X-Axis Chain",
-            "title": "X-Axis Chain Updated"
+          "cables-complete.jpg": {
+            "alt": "Finally managed to make the cables without breaking the ends",
+            "title": "Cables Complete"
           },
-          "extruder-upgrades.jpg": {
-            "alt": "Bed levelling upgrades",
-            "title": "Extruder Upgrades"
+          "cooling-fan-broken.jpg": {
+            "alt": "Allen key in cooling fan",
+            "title": "Cooling Fan Broken"
           },
-          "bed-upgrades.jpg": {
-            "alt": "Parts to upgrade the bed",
-            "title": "Bed Upgrades"
+          "cooling-fan-noctua.jpg": {
+            "alt": "Replacement Noctua fan",
+            "title": "Cooling Fan Noctua"
+          },
+          "extruder-chain-mount-deformed.jpg": {
+            "alt": "Extruder Chain Mount deformed from the heat of the motor",
+            "title": "Extruder Chain Mount Deformed"
+          },
+          "extruder-chain-mount-in-abs.jpg": {
+            "alt": "Refitted ABS Printed Chain Mount",
+            "title": "Extruder Chain Mount In ABS"
+          },
+          "fan-duct-deformed.jpg": {
+            "alt": "Fan Duct Deformed printing ABS",
+            "title": "Fan Duct Deformed"
+          },
+          "fan-duct-melted.jpg": {
+            "alt": "Hot nozzle through fan duct",
+            "title": "Fan Duct Melted"
+          },
+          "first-print.jpg": {
+            "alt": "My first ever print",
+            "title": "First Print"
+          },
+          "heater-wire-wear.jpg": {
+            "alt": "Heater wire worn through",
+            "title": "Heater Wire Wear"
+          },
+          "led-strip-deformed.jpg": {
+            "alt": "LED Strip Deformed printing ABS",
+            "title": "LED Strip Deformed"
+          },
+          "overheating-extruder-motor.jpg": {
+            "alt": "Overheating extruder motor deforming PLA printed extruder chain mount",
+            "title": "Overheating Extruder Motor"
+          },
+          "printer-failures-hero.jpg": {
+            "alt": "Broken cable chain held together with cable ties",
+            "title": "3D Printer Failures Hero"
+          },
+          "worn-belt.jpg": {
+            "alt": "X Axis belt worn through",
+            "title": "Worn Belt"
+          }
+        },
+        "printer-filament": {
+          "filament-hero.jpg": {
+            "alt": "A stack of some 3D Printer filament",
+            "title": "3D Printer Filament Hero"
           }
         },
         "printer-hardware-upgrades": {
-          "skr-upgrade-hero.jpg": {
-            "alt": "Testing the firmware with Pronterface",
-            "title": "Hardware Upgrades Hero"
+          "adhesive-removed.jpg": {
+            "alt": "Finally removed the baked on adhesive",
+            "title": "Adhesive Removed"
+          },
+          "baked-on-adhesive.jpg": {
+            "alt": "Heat + adhesive = bad time",
+            "title": "Baked On Adhesive"
+          },
+          "benchy.jpg": {
+            "alt": "The obligatory Benchy",
+            "title": "Benchy"
+          },
+          "design.jpg": {
+            "alt": "Using Fusion 360 to design a mount for the control board",
+            "title": "Design"
           },
           "designing-case.jpg": {
             "alt": "Designing a case for the new control board",
             "title": "Designing Case"
           },
-          "wiring.jpg": {
-            "alt": "Making adaptor wires for the existing cables",
-            "title": "Wiring"
-          },
-          "benchy.jpg": { "alt": "The obligatory Benchy", "title": "Benchy" },
-          "design.jpg": {
-            "alt": "Using Fusion 360 to design a mount for the control board",
-            "title": "Design"
+          "drylin-bearings.jpg": {
+            "alt": "Rebuilding the X-Axis to install Drylin Bearings",
+            "title": "Drylin Bearings"
           },
           "electronics-case.jpg": {
             "alt": "Before mounting the new electronics case",
@@ -466,21 +954,9 @@
             "alt": "Marlin firmware for the BTT SKR 1.4 on an Anet A8",
             "title": "Firmware"
           },
-          "tft-mount.jpg": {
-            "alt": "TFT24 mounted to the printer",
-            "title": "TFT Mount"
-          },
-          "smart-filament-sensor.jpg": {
-            "alt": "Smart filament sensor amongst a few other upgrades",
-            "title": "Smart Filament Sensor"
-          },
-          "relay-mount.jpg": {
-            "alt": "The Relay board installed in the power supply mount",
-            "title": "Relay Mount"
-          },
-          "silicone-bed-mounts.jpg": {
-            "alt": "Hard Silicone Bed Mounts",
-            "title": "Silicone Bed Mounts"
+          "ldo-motor-installed.jpg": {
+            "alt": "LDO X Motor",
+            "title": "LDO Motor Installed"
           },
           "led-strip.jpg": {
             "alt": "Neopixel LED Strip",
@@ -490,84 +966,811 @@
             "alt": "Optical Endstop installed on X Axis",
             "title": "Optical Endstop"
           },
-          "ldo-motor-installed.jpg": {
-            "alt": "LDO X Motor",
-            "title": "LDO Motor Installed"
+          "pei-flex-plate.jpg": {
+            "alt": "PEI Flex Plate installed",
+            "title": "PEI Flex Plate"
+          },
+          "relay-mount.jpg": {
+            "alt": "The Relay board installed in the power supply mount",
+            "title": "Relay Mount"
+          },
+          "silicone-bed-mounts.jpg": {
+            "alt": "Hard Silicone Bed Mounts",
+            "title": "Silicone Bed Mounts"
+          },
+          "skr-upgrade-hero.jpg": {
+            "alt": "Testing the firmware with Pronterface",
+            "title": "Hardware Upgrades Hero"
+          },
+          "smart-filament-sensor.jpg": {
+            "alt": "Smart filament sensor amongst a few other upgrades",
+            "title": "Smart Filament Sensor"
+          },
+          "tft-mount.jpg": {
+            "alt": "TFT24 mounted to the printer",
+            "title": "TFT Mount"
           },
           "vfas-in-print.jpg": {
             "alt": "Vertical Fine Artifacts shown on a printed part",
             "title": "VFAs in print"
           },
-          "drylin-bearings.jpg": {
-            "alt": "Rebuilding the X-Axis to install Drylin Bearings",
-            "title": "Drylin Bearings"
-          },
-          "baked-on-adhesive.jpg": {
-            "alt": "Heat + adhesive = bad time",
-            "title": "Baked On Adhesive"
-          },
-          "adhesive-removed.jpg": {
-            "alt": "Finally removed the baked on adhesive",
-            "title": "Adhesive Removed"
-          },
-          "pei-flex-plate.jpg": {
-            "alt": "PEI Flex Plate installed",
-            "title": "PEI Flex Plate"
+          "wiring.jpg": {
+            "alt": "Making adaptor wires for the existing cables",
+            "title": "Wiring"
           }
         },
-        "printer-filament": {
-          "filament-hero.jpg": {
-            "alt": "A stack of some 3D Printer filament",
-            "title": "3D Printer Filament Hero"
+        "printer-hypercube": {
+          "belt-idlers.png": {
+            "alt": "Belt Idlers with extended Y clamps",
+            "title": "Belt Idlers"
+          },
+          "hypercube-hero.jpg": {
+            "alt": "Printed parts for Hypercube",
+            "title": "Hypercube Hero"
+          },
+          "y-motor-support-bracket.png": {
+            "alt": "Y motor suport bracket with extended Y clamps",
+            "title": "Y Motor Suport Bracket"
+          },
+          "z-bearing-fixer.png": {
+            "alt": "Clamp to secure the Z-Axis bearings",
+            "title": "Z Bearing Fixer"
+          },
+          "z-motor-bearing-support.png": {
+            "alt": "Part to add a bearing to support the lead screws",
+            "title": "Z Motor Bearing Support"
+          },
+          "z-rail-arms.png": {
+            "alt": "Stock rail arms with added m3 nut traps",
+            "title": "Z Rail Arms"
           }
         },
         "printer-klipper-fan-hat": {
-          "klipper-fan-hat-hero.jpg": {
-            "alt": "An unassembled Klipper Fan Hat with some electronic components",
-            "title": "Klipper Fan Hat Hero"
+          "1-wire-temp-sensor.jpg": {
+            "alt": "Testing a 1-wire temperature sensor",
+            "title": "1 Wire Temperature Sensor"
           },
-          "klipper-fan-hat-front.jpg": {
-            "alt": "3D render of the front of the Klipper Fan Hat",
-            "title": "Klipper Fan Hat Front"
-          },
-          "klipper-fan-hat-back.jpg": {
-            "alt": "3D render of the back of the Klipper Fan Hat",
-            "title": "Klipper Fan Hat Back"
-          },
-          "klipper-fan-hat-in-hand.jpg": {
-            "alt": "Holding a Klipper Fan Hat PCB",
-            "title": "Klipper Fan Hat In Hand"
+          "eeprom-connection-to-rpi.jpg": {
+            "alt": "Flashing an EEPROM with a Raspberry Pi",
+            "title": "EEPROM Connection to RPi"
           },
           "klipper-fan-hat-assembled.jpg": {
             "alt": "An assembled Klipper Fan Hat",
             "title": "Klipper Fan Hat Assembled"
           },
-          "klipper-fan-hat-testing.jpg": {
-            "alt": "Testing the Klipper Fan Hat",
-            "title": "Klipper Fan Hat Testing"
+          "klipper-fan-hat-back.jpg": {
+            "alt": "3D render of the back of the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Back"
           },
-          "1-wire-temp-sensor.jpg": {
-            "alt": "Testing a 1-wire temperature sensor",
-            "title": "1 Wire Temperature Sensor"
+          "klipper-fan-hat-front.jpg": {
+            "alt": "3D render of the front of the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Front"
+          },
+          "klipper-fan-hat-hero.jpg": {
+            "alt": "An unassembled Klipper Fan Hat with some electronic components",
+            "title": "Klipper Fan Hat Hero"
+          },
+          "klipper-fan-hat-in-hand.jpg": {
+            "alt": "Holding a Klipper Fan Hat PCB",
+            "title": "Klipper Fan Hat In Hand"
           },
           "klipper-fan-hat-rotary-encoder.jpg": {
             "alt": "Testing a rotary encoder",
             "title": "Klipper Fan Hat Rotary Encoder"
           },
+          "klipper-fan-hat-testing.jpg": {
+            "alt": "Testing the Klipper Fan Hat",
+            "title": "Klipper Fan Hat Testing"
+          },
           "klipper-fan-hat-version-2.jpg": {
             "alt": "Holding Version 2 of the PCB",
             "title": "Klipper Fan Hat Version 2"
+          }
+        },
+        "printer-klipper-firmware": {
+          "klipper-firmware-hero.jpg": {
+            "alt": "Klipper MOTD screenshot",
+            "title": "Klipper Firmware Hero"
+          }
+        },
+        "printer-polyformer": {
+          "polyformer-hero.jpg": {
+            "alt": "An Assembled Polyformer",
+            "caption": "Image © 2022 [Reiten Design](https://www.reiten.design)",
+            "title": "Polyformer Hero"
+          }
+        },
+        "printer-printed-upgrades": {
+          "bed-upgrades.jpg": {
+            "alt": "Parts to upgrade the bed",
+            "title": "Bed Upgrades"
           },
-          "eeprom-connection-to-rpi.jpg": {
-            "alt": "Flashing an EEPROM with a Raspberry Pi",
-            "title": "EEPROM Connection to RPi"
+          "cosmetic-upgrades.jpg": {
+            "alt": "Some printed cosmetic Upgrades",
+            "title": "Cosmetic Upgrades"
+          },
+          "electronics-case-before-after.jpg": {
+            "alt": "Anet A8 Electronics Case Before and After",
+            "title": "Electronics Case Before and After"
+          },
+          "electronics-case.jpg": {
+            "alt": "Anet A8 Electronics Case",
+            "title": "Electronics Case"
+          },
+          "electronics-upgrades.jpg": {
+            "alt": "Parts to update the printer electronics",
+            "title": "Electronics Upgrades"
+          },
+          "extruder-upgrades.jpg": {
+            "alt": "Bed levelling upgrades",
+            "title": "Extruder Upgrades"
+          },
+          "frame-brace.jpg": {
+            "alt": "Frame Bracing",
+            "title": "Frame Brace"
+          },
+          "mosfet.jpg": {
+            "alt": "Anet A8 Electronics Case Mosfet",
+            "title": "Mosfet"
+          },
+          "motion-upgrades.jpg": {
+            "alt": "Upgrades for the motion system",
+            "title": "Motion Upgrades"
+          },
+          "original-fan-duct.jpg": {
+            "alt": "Original Anet A8 Fan Duct",
+            "title": "Original Fan Duct"
+          },
+          "printed-items.jpg": {
+            "alt": "All the upgrades from one spool of filament",
+            "title": "3D Printed Upgrades"
+          },
+          "sd-card-extender.jpg": {
+            "alt": "Relocating the SD card socket",
+            "title": "SD Card Extender"
+          },
+          "semi-circular-fan-duct.jpg": {
+            "alt": "Semi-Circular Anet A8 Fan Duct",
+            "title": "Semi-Circular Fan Duct"
+          },
+          "t-corner-installed.jpg": {
+            "alt": "Anet A8 T corner installed",
+            "title": "T corner installed"
+          },
+          "t-corner.jpg": {
+            "alt": "Anet A8 T corner",
+            "title": "T corner"
+          },
+          "x-axis-brackets.jpg": {
+            "alt": "Brackets to stiffen the top of the frame",
+            "title": "X-Axis Brackets"
+          },
+          "x-axis-chain-updated.jpg": {
+            "alt": "Updated X-Axis Chain",
+            "title": "X-Axis Chain Updated"
+          },
+          "x-axis-chain.jpg": {
+            "alt": "X-Axis Drag Chain",
+            "title": "X-Axis Chain"
+          },
+          "y-belt-tensioner-updated.jpg": {
+            "alt": "Updated Y-Axis Belt Tensioner",
+            "title": "Y Belt Tensioner Updated"
+          },
+          "y-belt-tensioner.jpg": {
+            "alt": "Y-Axis Belt Tensioner",
+            "title": "Y Belt Tensioner"
+          }
+        },
+        "printer-rook": {
+          "bearings-assembled.jpg": {
+            "alt": "Bearings assembled and ready for installation",
+            "title": "Bearings Assembled"
+          },
+          "rook-2020-frame.jpg": {
+            "alt": "Assembled Rook 2020 Printer frame",
+            "title": "Rook 2020 Frame"
+          }
+        },
+        "printer-voron-0.2": {
+          "bearings-assembled.jpg": {
+            "alt": "Bearings assembled and ready for installation",
+            "title": "Bearings Assembled"
+          },
+          "bearings-cleaning.jpg": {
+            "alt": "Cleaning the bearings with IPA",
+            "title": "Bearings Cleaning"
+          },
+          "voron-0.2-hero.jpg": {
+            "alt": "Parts to build a Voron 0.2 3D Printer",
+            "title": "Voron 0.2 Hero"
+          },
+          "voron-design": {
+            "a-b-belts.jpg": {
+              "alt": "3D render of the Voron 0.2 A/B Belts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Belts"
+            },
+            "a-b-drives.jpg": {
+              "alt": "3D render of the Voron 0.2 A/B Drives",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Drives"
+            },
+            "a-b-idlers.jpg": {
+              "alt": "3D render of the Voron 0.2 A/B Idlers",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Idlers"
+            },
+            "assembly-complete.jpg": {
+              "alt": "3D Render of the Voron 0.2 Complete",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Assembly Complete"
+            },
+            "electronics-and-wiring.jpg": {
+              "alt": "3D render of the Voron 0.2 Electronics & Wiring",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Electronics and Wiring"
+            },
+            "extrusion-tophat.jpg": {
+              "alt": "3D render of the Voron 0.2 Extrusion Tophat",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Extrusion Tophat"
+            },
+            "frame.jpg": {
+              "alt": "3D render of the Voron 0.2 Frame",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Frame"
+            },
+            "print-bed.jpg": {
+              "alt": "3D render of the Voron 0.2 ",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Print Bed"
+            },
+            "print-head.jpg": {
+              "alt": "3D render of the Voron 0.2 Print Head",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Print Head"
+            },
+            "skirts-and-panels.jpg": {
+              "alt": "3D render of the Voron 0.2 Skirts & Panels",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Skirts and Panels"
+            },
+            "x-axis.jpg": {
+              "alt": "3D render of the Voron 0.2 X-Axis",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "X-Axis"
+            },
+            "z-axis.jpg": {
+              "alt": "3D render of the Voron 0.2 Z-Axis",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Z-Axis"
+            }
+          }
+        },
+        "printer-voron-1.8": {
+          "a-drive-abs-tuning.jpg": {
+            "alt": "An A Drive Unit printed in ABS with different settings",
+            "title": "A Drive ABS Tuning"
+          },
+          "ab-drive-complete.jpg": {
+            "alt": "Voron Trident AB Drive Units complete",
+            "title": "A/B Drive Complete"
+          },
+          "bearings-assembled.jpg": {
+            "alt": "Bearings assembled and ready for installation",
+            "title": "Bearings Assembled"
+          },
+          "bearings-cleaning.jpg": {
+            "alt": "Cleaning the bearings with IPA",
+            "title": "Bearings Cleaning"
+          },
+          "bed-frame-assembled.jpg": {
+            "alt": "The Assembled Bed Frame",
+            "title": "Bed Frame Assembled"
+          },
+          "bed-installed.jpg": {
+            "alt": "Bed installed in the frame of the printer",
+            "title": "Bed Installed"
+          },
+          "bed-mount.jpg": {
+            "alt": "My modified Bed Mount for my non-standard bed",
+            "title": "Bed Mount"
+          },
+          "belts-installed.jpg": {
+            "alt": "Belts routed and Installed",
+            "title": "Belts Installed"
+          },
+          "bottom-compartment-electronics.jpg": {
+            "alt": "High voltage electronics are installed in the bottom",
+            "title": "Bottom Compartment Electronics"
+          },
+          "bottom-panel.jpg": {
+            "alt": "Steve Builds would approve, I've fitted the bottom panel",
+            "title": "Bottom Panel"
+          },
+          "cable-chains.jpg": {
+            "alt": "Routing the wires to the toolhead using Cable Chains",
+            "title": "Cable Chains"
+          },
+          "clamping-door-hinges.jpg": {
+            "alt": "Door Hinges that do not require VHB Tape",
+            "title": "Clamping Door Hinges"
+          },
+          "controller-fan-mount.jpg": {
+            "alt": "A Fan to cool the electronics",
+            "title": "Controller Fan Mount"
+          },
+          "corner-cable-cover-rear.jpg": {
+            "alt": "Rear of the Corner Cable Covers showing holes to route the cables",
+            "title": "Corner Cable Cover Rear"
+          },
+          "corner-cable-cover.jpg": {
+            "alt": "The Corner Cable Cover Mod to hide LED Strip cables around the corner extrusions",
+            "title": "Corner Cable Cover"
+          },
+          "deck-panel-support-clips.jpg": {
+            "alt": "Decorative clips to hold in the deck panel",
+            "title": "Deck Panel Support Clips"
+          },
+          "din-rail-installed.jpg": {
+            "alt": "Single DIN Rail installed in the bottom of the printer",
+            "title": "DIN Rail Installed"
+          },
+          "display-mount-flat.jpg": {
+            "alt": "Display Mount Folded Flat out of the way",
+            "title": "Display Mount Flat"
+          },
+          "display-mount-installed.jpg": {
+            "alt": "The Display Mount installed on the printer",
+            "title": "Display Mount Installed"
+          },
+          "display-mount.jpg": {
+            "alt": "Display Mount that can be tilted for a better view",
+            "title": "Display Mount"
+          },
+          "electronics-panel-installed.jpg": {
+            "alt": "The panel to cover the electronics is installed",
+            "title": "Electronics Panel Installed"
+          },
+          "exhaust-filter.jpg": {
+            "alt": "An enclosure to hold a filter",
+            "title": "Exhaust Filter"
+          },
+          "exhaust-mount-side-entry.jpg": {
+            "alt": "Modified Exhaust filter with multiple PTFE entry points",
+            "title": "Exhaust Mount Side Entry"
+          },
+          "front-idlers-complete.jpg": {
+            "alt": "Voron Trident Front Idlers",
+            "title": "Front Idlers Complete"
+          },
+          "heater-installed.jpg": {
+            "alt": "The Bed Heater installed and sealed with RTV",
+            "title": "Heater Installed"
+          },
+          "klicky-probe.jpg": {
+            "alt": "Klicky Probe installed on the printer",
+            "title": "Klicky Probe"
+          },
+          "ldo-motors.jpg": {
+            "alt": "An LDO Motors V1/2 HT Motor Kit",
+            "title": "LDO Motors"
+          },
+          "linear-rails-installed.jpg": {
+            "alt": "Installed the front idlers and linear rails",
+            "title": "Linear Rails Installed"
+          },
+          "magnetic-grill-cover-removed.jpg": {
+            "alt": "Cover removed to allow ventilation",
+            "title": "Magnetic Grill Cover Removed"
+          },
+          "magnetic-grill-cover.jpg": {
+            "alt": "Cover to hold in chamber temperature whilst printing",
+            "title": "Magnetic Grill Cover"
+          },
+          "mosfet-mounts.jpg": {
+            "alt": "Mount to hold 4 External Mosfets",
+            "title": "Mosfet Mounts"
+          },
+          "power-skirt.jpg": {
+            "alt": "Power switch and keystone jacks added to the skirt",
+            "title": "Power Skirt"
+          },
+          "print-bed-parts.jpg": {
+            "alt": "Individual parts for the heated print bed",
+            "title": "Print Bed Parts"
+          },
+          "rear-crossbar-installed.jpg": {
+            "alt": "Installed the rear crossbar",
+            "title": "Rear Crossbar Installed"
+          },
+          "rear-din-rails.jpg": {
+            "alt": "Two DIN Rails are installed in the Rear Electronics Enclosure",
+            "title": "Rear DIN Rails"
+          },
+          "rear-electronics-enclosure.jpg": {
+            "alt": "The V1.8 has a separate enclosure for the low voltage electronics",
+            "title": "Rear Electronics Enclosure"
+          },
+          "rear-handles.jpg": {
+            "alt": "Electronics Panel Holder replaced by handles",
+            "title": "Rear Handles"
+          },
+          "rear-panel-locks.jpg": {
+            "alt": "3D printed locks to hold on the back panel",
+            "title": "Rear Panel Locks"
+          },
+          "sexbolt-z-endstop.jpg": {
+            "alt": "Z endstop based on a PCB",
+            "title": "Sexbolt Z Endstop"
+          },
+          "skirts-installed.jpg": {
+            "alt": "Skirts Installed on the bottom of the printer",
+            "title": "Skirts Installed"
+          },
+          "spool-holders.jpg": {
+            "alt": "Spool Holders with Red PTFE guides",
+            "title": "Spool Holders"
+          },
+          "voron-design": {
+            "ab-drive.jpg": {
+              "alt": "3D render of the Voron Trident r2 A/B Drive Units",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Drive Units"
+            },
+            "bed-frame.jpg": {
+              "alt": "3D render of the Voron 1.8 Bed Frame",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Bed Frame"
+            },
+            "belt-path.jpg": {
+              "alt": "3D render of the Voron 1.8 Belt Path",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Belt Path"
+            },
+            "electronics-compartment.jpg": {
+              "alt": "3D render of the Voron 1.8 Electronics Compartment",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Electronics Compartment"
+            },
+            "electronics.jpg": {
+              "alt": "3D render of the Voron 1.8 Electronics",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Electronics"
+            },
+            "frame.jpg": {
+              "alt": "3D render of the Voron 1.8 Frame",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Frame"
+            },
+            "front-idlers.jpg": {
+              "alt": "3D render of the Voron Trident r2 Front Idlers",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
+              "title": "Front Idlers"
+            },
+            "gantry.jpg": {
+              "alt": "3D render of the Voron 1.8 Gantry",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Gantry"
+            },
+            "panels.jpg": {
+              "alt": "3D render of the Voron 1.8 Panels",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Panels"
+            },
+            "print-bed-and-wire-path.jpg": {
+              "alt": "3D render of the Voron 1.8 Print Bed and Wire Path",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Print Bed and Wire Path"
+            },
+            "rear-panel-and-exhaust.jpg": {
+              "alt": "3D render of the Voron 1.8 Rear Panel and Exhaust",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Rear Panel and Exhaust"
+            },
+            "skirts-and-bottom-compartment.jpg": {
+              "alt": "3D render of the Voron 1.8 Skirts and Bottom Compartment",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Skirts and Bottom Compartment"
+            },
+            "x-axis.jpg": {
+              "alt": "3D render of the Voron 1.8 X Axis",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "X-Axis"
+            },
+            "z-axis.jpg": {
+              "alt": "3D render of the Voron 1.8 Z Axis",
+              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
+              "title": "Z-Axis"
+            }
+          },
+          "voron-frame-assembled.jpg": {
+            "alt": "LDO Motors Frame Kit Assembled",
+            "title": "Voron Frame Assembled"
+          },
+          "voron-frame.jpg": {
+            "alt": "Starting assembly of the frame",
+            "title": "Voron Frame"
+          },
+          "voron-hero.jpg": {
+            "alt": "A partially assembled Voron 1.8 3D Printer",
+            "title": "Voron Hero"
+          },
+          "wago-mounts.jpg": {
+            "alt": "Wago Mounts to make wiring up the printer electronics easier",
+            "title": "Wago Mounts"
+          },
+          "x-carriage-assembled.jpg": {
+            "alt": "X Carriage Installed and Gantry added to frame",
+            "title": "X Carriage Assembled"
+          },
+          "xy-joints-assembled.jpg": {
+            "alt": "X/Y Joints and Linear rails assembled on the Gantry",
+            "title": "X/Y Joints Assembled"
+          },
+          "y-endstop.jpg": {
+            "alt": "Y endstop attached to the frame",
+            "title": "Y Endstop"
+          },
+          "z-axis-assembled.jpg": {
+            "alt": "The Z-Axis fully assembled",
+            "title": "Z Axis Assembled"
+          }
+        },
+        "printer-voron-1.8-mods": {},
+        "printer-voron-2.4": {
+          "a-drive.jpg": {
+            "alt": "A Drive Assembled",
+            "title": "A Drive"
+          },
+          "a-idler.jpg": {
+            "alt": "The A Idler and Belt Tentioner for the Flying Gantry",
+            "title": "A Idler"
+          },
+          "adding-threaded-inserts.jpg": {
+            "alt": "Using a soldering iron to add heatset inserts to 3D printed parts",
+            "title": "Adding Threaded Inserts"
+          },
+          "assembling-the-frame.jpg": {
+            "alt": "Using a flat glass surface to keep the frame square during assembly",
+            "title": "Assembling The Frame"
+          },
+          "assembling-z-drives.jpg": {
+            "alt": "Putting together the parts for the belts in the Z-Drives",
+            "title": "Assembling Z-Drives"
+          },
+          "b-drive.jpg": {
+            "alt": "B Drive Assembled",
+            "title": "B Drive"
+          },
+          "b-idler.jpg": {
+            "alt": "The B Idler and Belt Tentioner for the Flying Gantry",
+            "title": "B Idler"
+          },
+          "bearings-assembled.jpg": {
+            "alt": "Bearings assembled and ready for installation",
+            "title": "Bearings Assembled"
+          },
+          "bearings-cleaning.jpg": {
+            "alt": "Cleaning the bearings with IPA",
+            "title": "Bearings Cleaning"
+          },
+          "bed-extrusions.jpg": {
+            "alt": "Adding the Angle Corner Connectors to the Bed Extrusions",
+            "title": "Bed Extrusions"
+          },
+          "deck-panel-support.jpg": {
+            "alt": "Adding support clips to the deck panel",
+            "title": "Deck Panel Support"
+          },
+          "deck-panel.jpg": {
+            "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions",
+            "title": "Deck Panel"
+          },
+          "eyedlers.jpg": {
+            "alt": "Z Idlers assembled",
+            "title": "EYEdlers"
+          },
+          "heated-bed-wagos.jpg": {
+            "alt": "Wago Holder to make removal of the heated bed easier",
+            "title": "Heated Bed Wagos"
+          },
+          "ldo-hardware-kit.jpg": {
+            "alt": "A big ol' bag of nuts n' bolts",
+            "title": "LDO Hardware Kit"
+          },
+          "piplate-skirt.jpg": {
+            "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap",
+            "title": "PiPlate Skirt"
+          },
+          "power-inlet.jpg": {
+            "alt": "Power Inlet Skirt with both main and accent colours achieved with a filament swap",
+            "title": "Power Inlet"
+          },
+          "preparing-the-parts-and-tools.jpg": {
+            "alt": "Getting all the parts and tools together to build the frame",
+            "title": "Preparing the Parts and Tools"
+          },
+          "rear-gantry-extrusion.jpg": {
+            "alt": "A and B drives attached to the rear gantry extrusion",
+            "title": "Rear Gantry Extrusion"
+          },
+          "reinforced-gantry-mounts-installed.jpg": {
+            "alt": "Annex Enginnering Reinforced Gantry Mounts installed in the printer",
+            "title": "Reinforced Gantry Mounts Installed"
+          },
+          "reinforced-gantry-mounts.jpg": {
+            "alt": "Annex Engineering Reinforced Gantry Mounts",
+            "title": "Reinforced Gantry Mounts"
+          },
+          "square-frame-washers.jpg": {
+            "alt": "Square frame nuts to help stop extrusions from twisting",
+            "title": "Square Frame Washers"
+          },
+          "titanium-backers.jpg": {
+            "alt": "Titanium Backers Installed on the gantry",
+            "title": "Titanium Backers"
+          },
+          "two-tone-rear-skirt.jpg": {
+            "alt": "Rear Skirt with both main and accent colours achieved with a filament swap",
+            "title": "Two-tone Rear Skirt"
+          },
+          "voron-design": {
+            "a-b-belts.jpg": {
+              "alt": "3D render of the Voron 2.4 A/B Belts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Belts"
+            },
+            "a-b-drives-and-idlers.jpg": {
+              "alt": "3D render of the Voron 2.4 A/B Drives and Idlers",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "A/B Drives and Idlers"
+            },
+            "controller-board.jpg": {
+              "alt": "3D render of the Voron 2.4 Controller Board",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Controller Board"
+            },
+            "electronics.jpg": {
+              "alt": "3D render of the Voron 2.4 Electronics",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Electronics"
+            },
+            "fasteners.jpg": {
+              "alt": "Description of the types of fasteners",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Fasteners"
+            },
+            "frame.jpg": {
+              "alt": "3D render of the Voron 2.4 Frame",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Frame"
+            },
+            "gantry.jpg": {
+              "alt": "3D render of the Voron 2.4 Gantry",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Gantry"
+            },
+            "motion.jpg": {
+              "alt": "Description of the types of motion components",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Motion"
+            },
+            "panels.jpg": {
+              "alt": "3D render of the Voron 2.4 Panels",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Panels"
+            },
+            "print-bed.jpg": {
+              "alt": "3D render of the Voron 2.4 Print Bed",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Print Bed"
+            },
+            "skirts.jpg": {
+              "alt": "3D render of the Voron 2.4 Skirts",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Skirts"
+            },
+            "wiring.jpg": {
+              "alt": "Image of the Voron 2.4 Wiring",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Wiring"
+            },
+            "z-axis.jpg": {
+              "alt": "3D render of the Voron 2.4 Z Axis",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Z Axis"
+            },
+            "z-drives.jpg": {
+              "alt": "3D render of the Voron 2.4 Z Drives",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Z Drives"
+            }
+          },
+          "voron-hero.jpg": {
+            "alt": "LDO 2.4 Frame Assembled",
+            "title": "Voron Hero"
+          },
+          "x-axis-installed.jpg": {
+            "alt": "X-Axis installed onto the gantry",
+            "title": "X-Axis Installed"
+          },
+          "xy-endstop-pcb.jpg": {
+            "alt": "Endstop pod for X/Y Endstop PCB",
+            "title": "X/Y Endstop PCB"
+          },
+          "xy-joint-left.jpg": {
+            "alt": "Left X/Y Joint Assembled",
+            "title": "X/Y Joint (Left)"
+          },
+          "xy-joint-right.jpg": {
+            "alt": "Right X/Y Joint Assembled",
+            "title": "X/Y Joint (Right)"
+          },
+          "y-axis-assembly.jpg": {
+            "alt": "Y rails and A/B idlers attached to the gantry",
+            "title": "Y-Axis Assembly"
+          },
+          "z-belt-clips.jpg": {
+            "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties",
+            "title": "Z Belt Clips"
+          },
+          "z-belts-installed.jpg": {
+            "alt": "Z Belts installed in the printer",
+            "title": "Z Belts Installed"
+          },
+          "z-belts-prep.jpg": {
+            "alt": "Using Zip Ties to support the gantry whilst installing the belts",
+            "title": "Z Belts Prep"
+          },
+          "z-drives-installed.jpg": {
+            "alt": "The Z Drives and feet installed on the printer",
+            "title": "Z Drives Installed"
+          },
+          "z-idlers-installed.jpg": {
+            "alt": "The Z Idlers installed into the top extrustions of the printer",
+            "title": "Z Idlers Installed"
+          },
+          "z-motor-installed.jpg": {
+            "alt": "One of the Z motors installed to the Z Drive",
+            "title": "Z Motor Installed"
+          },
+          "z-rails-installed.jpg": {
+            "alt": "Z Axis linear rails installed on the frame",
+            "title": "Z Rails Installed"
+          }
+        },
+        "red-rocket": {
+          "fallout-wasteland-warefare.jpg": {
+            "alt": "Fallout: Wasteland Warefare with the Roleplaying Game expansion",
+            "title": "Fallout: Wasteland Warefare"
+          },
+          "floor.jpg": {
+            "alt": "Red Rocket Floor",
+            "title": "Floor"
+          },
+          "red-rocket-hero.jpg": {
+            "alt": "Red Rocket Truck Stop main building with roof on",
+            "title": "Red Rocket Hero"
+          },
+          "roof.jpg": {
+            "alt": "Red Rocket Roof",
+            "title": "Roof"
+          },
+          "walls.jpg": {
+            "alt": "Red Rocket Walls",
+            "title": "Walls"
+          }
+        },
+        "sanctuary-hills": {
+          "sanctuary-hills-house-hero.jpg": {
+            "alt": "3D render of the Sanctuary Hills House from Fallout 4",
+            "caption": "Image © 2020 [Modiphius Entertainment](https://modiphius.net)",
+            "title": "Sanctuary Hills House Hero"
           }
         },
         "single-board-computers": {
-          "single-board-computers-hero.jpg": {
-            "alt": "Raspberry Pis are used for tinkering",
-            "title": "Raspberry Pi Hero"
-          },
           "arduino-robot.jpg": {
             "alt": "An Arduino Tracked Robot",
             "title": "Arduino Robot"
@@ -580,1284 +1783,71 @@
             "alt": "BigTreeTech Pi with Rubber Duck",
             "title": "BigTreeTech Pi"
           },
-          "chip.jpg": { "alt": "$9 Bag of Chip", "title": "Chip" },
-          "raspberry-pi-1.jpg": {
-            "alt": "OCR Education Kit for Raspberry Pi",
-            "title": "Raspberry Pi 1"
-          },
-          "original-raspberry-pi-1.jpg": {
-            "alt": "My Original Raspberry Pi 1",
-            "title": "Original Raspberry Pi 1"
-          },
-          "pi400.jpg": {
-            "alt": "My Raspberry Pi 400 setup on my desk",
-            "title": "Pi 400"
+          "chip.jpg": {
+            "alt": "$9 Bag of Chip",
+            "title": "Chip"
           },
           "maker-pi-pico.jpg": {
             "alt": "Board designed for tinkering using a Pi Pico",
             "title": "Maker Pi Pico"
           },
+          "mellow-boards.jpg": {
+            "alt": "3D Printer mainboards made by Mellow",
+            "title": "Mellow Boards"
+          },
+          "original-raspberry-pi-1.jpg": {
+            "alt": "My Original Raspberry Pi 1",
+            "title": "Original Raspberry Pi 1"
+          },
+          "party-in-the-back.jpg": {
+            "alt": "A small 3D Printer mainboard with some big stepper drivers ",
+            "title": "Party In The Back"
+          },
+          "pi400.jpg": {
+            "alt": "My Raspberry Pi 400 setup on my desk",
+            "title": "Pi 400"
+          },
+          "raspberry-pi-1.jpg": {
+            "alt": "OCR Education Kit for Raspberry Pi",
+            "title": "Raspberry Pi 1"
+          },
           "raspberry-pi-5.jpg": {
             "alt": "The latest addition to my Raspberry Pi collection",
             "title": "Raspberry Pi 5"
+          },
+          "single-board-computers-hero.jpg": {
+            "alt": "Raspberry Pis are used for tinkering",
+            "title": "Raspberry Pi Hero"
           },
           "teensy-audio-guestbook.jpg": {
             "alt": "Retro telephone used as a guestbook at my wedding",
             "title": "Teensy Audio Guestbook"
           },
-          "mellow-boards.jpg": {
-            "title": "Mellow Boards",
-            "alt": "3D Printer mainboards made by Mellow"
-          },
-          "party-in-the-back.jpg": {
-            "title": "Party In The Back",
-            "alt": "A small 3D Printer mainboard with some big stepper drivers "
-          },
           "wifi-arduino-85.jpg": {
-            "title": "Wifi Arduino 85",
-            "alt": "A Relay board with a ATtiny85 and an ESP-01"
-          }
-        },
-        "macro-pi": {
-          "macro-pi-hero.jpg": {
-            "alt": "A bunch of components needed to build a Macro Pi",
-            "title": "Macro Pi Hero"
+            "alt": "A Relay board with a ATtiny85 and an ESP-01",
+            "title": "Wifi Arduino 85"
           }
         },
         "solar-wifi-weather-station": {
-          "solar-wifi-weather-station-hero.jpg": {
-            "alt": "Some PCBs and sensors for the weather station",
-            "title": "Solar Wifi Weather Station Hero"
-          },
           "solar-wifi-weather-station-assembled.jpg": {
             "alt": "A Fully assembled Solar Wifi Weather Station V2.0 PCB",
             "title": "Solar Wifi Weather Station Assembled"
+          },
+          "solar-wifi-weather-station-hero.jpg": {
+            "alt": "Some PCBs and sensors for the weather station",
+            "title": "Solar Wifi Weather Station Hero"
           }
         },
-        "printer-rook": {
-          "rook-2020-frame.jpg": {
-            "alt": "Assembled Rook 2020 Printer frame",
-            "title": "Rook 2020 Frame"
-          },
-          "bearings-assembled.jpg": {
-            "title": "Bearings Assembled",
-            "alt": "Bearings assembled and ready for installation"
-          }
-        },
-        "printer-hypercube": {
-          "hypercube-hero.jpg": {
-            "alt": "Printed parts for Hypercube",
-            "title": "Hypercube Hero"
-          },
-          "belt-idlers.png": {
-            "alt": "Belt Idlers with extended Y clamps",
-            "title": "Belt Idlers"
-          },
-          "y-motor-support-bracket.png": {
-            "alt": "Y motor suport bracket with extended Y clamps",
-            "title": "Y Motor Suport Bracket"
-          },
-          "z-motor-bearing-support.png": {
-            "alt": "Part to add a bearing to support the lead screws",
-            "title": "Z Motor Bearing Support"
-          },
-          "z-bearing-fixer.png": {
-            "alt": "Clamp to secure the Z-Axis bearings",
-            "title": "Z Bearing Fixer"
-          },
-          "z-rail-arms.png": {
-            "alt": "Stock rail arms with added m3 nut traps",
-            "title": "Z Rail Arms"
-          }
-        },
-        "guitar": {
-          "guitar-hero.jpg": {
-            "alt": "Guitar Fully Assembled",
-            "title": "Guitar Hero"
-          },
-          "01-sourcing-parts.jpg": {
-            "alt": "Sourcing Main Components",
-            "title": "Sourcing Parts"
-          },
-          "02-finished-sourcing.jpg": {
-            "alt": "Sourcing Smaller Parts",
-            "title": "Finished Sourcing"
-          },
-          "03-first-part-front.jpg": {
-            "alt": "First Part Attached (Front)",
-            "title": "First Part Front"
-          },
-          "04-first-part-rear.jpg": {
-            "alt": "First Part Attached (Rear)",
-            "title": "First Part Rear"
-          },
-          "05-second-part.jpg": {
-            "alt": "Second Part Attached",
-            "title": "Second Part"
-          },
-          "06-tension-springs.jpg": {
-            "alt": "Adding Tremolo Spring Bracket",
-            "title": "Tension Springs"
-          },
-          "07-third-part-back.jpg": {
-            "alt": "Third Part Attached (Rear)",
-            "title": "Third Part Back"
-          },
-          "08-third-part-front.jpg": {
-            "alt": "Third Part Attached (Front)",
-            "title": "Third Part Front"
-          },
-          "09-full-length.jpg": {
-            "alt": "The Full Length of the Guitar",
-            "title": "Full Length"
-          },
-          "10-sides.jpg": {
-            "alt": "Printing sides to the guitar",
-            "title": "Sides"
-          },
-          "11-sides-install.jpg": {
-            "alt": "Installing the Right Side",
-            "title": "Sides Install"
-          },
-          "12-almost-there.jpg": {
-            "alt": "Broken Part when Installing the Left Side",
-            "title": "Almost There"
-          },
-          "13-sides-clamping.jpg": {
-            "alt": "Cracked Dove Tail",
-            "title": "Sides Clamping"
-          },
-          "14-body-finished.jpg": {
-            "alt": "Body Assembled",
-            "title": "Body Finished"
-          },
-          "15-electronics.jpg": {
-            "alt": "Adding the Electronics",
-            "title": "Electronics"
-          },
-          "16-rear-cover.jpg": {
-            "alt": "Designed a Rear Cover",
-            "title": "Rear Cover"
-          },
-          "17-finished.jpg": { "alt": "All Finished", "title": "Finished" }
-        },
-        "openrc-f1": {
-          "openrc-hero.jpg": {
-            "alt": "OpenRC F1 Complete",
-            "title": "OpenRC Hero"
-          },
-          "front-tyres.jpg": {
-            "alt": "Printed TPU Tyres",
-            "title": "Front Tyres"
-          },
-          "front-bom-assembly.jpg": {
-            "alt": "Front End Assembled",
-            "title": "Front BOM Assembly"
-          },
-          "rear-wheel-assembly.jpg": {
-            "alt": "Printed Rear Axle",
-            "title": "Rear Wheel Assembly"
-          },
-          "rear-axle-assembly.jpg": {
-            "alt": "Rear End Assembled",
-            "title": "Rear Axle Assembly"
-          },
-          "chassis-assembly.jpg": {
-            "alt": "Testing the layout of the electronics",
-            "title": "Chassis Assembly"
-          },
-          "complete.jpg": {
-            "alt": "OpenRC F1 Body Installed",
-            "title": "Complete"
-          },
-          "tamiya-f104-tyres.jpg": {
-            "alt": "Installing some proper rubber RC car tyres",
-            "title": "Tamiya F104 Tyres"
-          },
-          "tyres-split.jpg": {
-            "alt": "The TPU Tyres are quite hard to print",
-            "title": "Tyres Split"
-          },
-          "electronics-box-layout.jpg": {
-            "alt": "Designing a box to hold the electronics",
-            "title": "Electronics Box Layout"
-          },
-          "electronics-box-assembled.jpg": {
-            "alt": "Electronics added into the printed box",
-            "title": "Electronics Box Assembled"
-          },
-          "electronics-box-installed.jpg": {
-            "alt": "The Electronics box installed in the car",
-            "title": "Electronics Box Installed"
-          }
-        },
-        "openrc-mini-quad": {
-          "mini-quad-hero.jpg": {
-            "alt": "Mini Quad Fully Assembled",
-            "title": "Mini Quad Hero"
-          },
-          "mini-quad-parts.jpg": {
-            "alt": "Parts to build a OpenRC FPV Mini Quad",
-            "title": "Mini Quad Parts"
-          },
-          "flight-stack.jpg": {
-            "alt": "Installing the ESC",
-            "title": "Flight Stack"
-          },
-          "motors.jpg": { "alt": "Installing the Motors", "title": "Motors" },
-          "top-deck.jpg": {
-            "alt": "Installing the Top Deck",
-            "title": "Top Deck"
-          },
-          "almost-finished.jpg": {
-            "alt": "Test Fitting the Battery",
-            "title": "Almost Finished"
-          },
-          "props-on.jpg": {
-            "alt": "Danger! Props are installed on the motor",
-            "title": "Props On"
-          }
-        },
-        "openrc-truggy": {
-          "truggy-hero.jpg": {
-            "alt": "Partially assembled OpenRC Truggy",
-            "title": "Truggy Hero"
-          },
-          "openrc": {
-            "front-c-hub-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Front C-Hub Assembly",
-              "title": "Front C-Hub Assembly"
-            },
-            "differential-housing-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Differential Housing Assembly",
-              "title": "Differential Housing Assembly"
-            },
-            "front-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Front Assembly",
-              "title": "Front Assembly"
-            },
-            "rear-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Rear Assembly",
-              "title": "Rear Assembly"
-            },
-            "steering-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Steering Assembly",
-              "title": "Steering Assembly"
-            },
-            "chassis-assembly.png": {
-              "caption": "Image © 2013 [Daniel Norée](https://danielnoree.com)",
-              "alt": "Exploded diagram of the Chassis Assembly",
-              "title": "Chassis Assembly"
-            }
-          },
-          "differential-housing-assembly-complete.jpg": {
-            "alt": "Metal gears in 3D printed differentials",
-            "title": "Differential Housing Assembly Complete"
-          },
-          "rear-assembly-assembled.jpg": {
-            "alt": "Laying out the drivechain",
-            "title": "Rear Assembly Assembled"
-          },
-          "truggy-complete.jpg": {
-            "alt": "OpenRC Truggy Completed",
-            "title": "Truggy Complete"
-          }
-        },
-        "red-rocket": {
-          "red-rocket-hero.jpg": {
-            "alt": "Red Rocket Truck Stop main building with roof on",
-            "title": "Red Rocket Hero"
-          },
-          "walls.jpg": { "alt": "Red Rocket Walls", "title": "Walls" },
-          "floor.jpg": { "alt": "Red Rocket Floor", "title": "Floor" },
-          "roof.jpg": { "alt": "Red Rocket Roof", "title": "Roof" },
-          "fallout-wasteland-warefare.jpg": {
-            "alt": "Fallout: Wasteland Warefare with the Roleplaying Game expansion",
-            "title": "Fallout: Wasteland Warefare"
-          }
-        },
-        "sanctuary-hills": {
-          "sanctuary-hills-house-hero.jpg": {
-            "caption": "Image © 2020 [Modiphius Entertainment](https://modiphius.net)",
-            "alt": "3D render of the Sanctuary Hills House from Fallout 4",
-            "title": "Sanctuary Hills House Hero"
-          }
-        },
-        "3d-sets-accessories": {
-          "3d-sets-accessories-hero.jpg": {
-            "alt": "Parts to build a 3D Sets Car Hauler Trailer",
-            "title": "3D Sets Accessories Hero"
-          }
-        },
-        "3d-sets-landy": {
-          "3d-sets-landy-hero.jpg": {
-            "alt": "Parts to build a 3D Sets Landy remote controlled car",
-            "title": "3D Sets Landy Hero"
-          }
-        },
-        "printer-polyformer": {
-          "polyformer-hero.jpg": {
-            "caption": "Image © 2022 [Reiten Design](https://www.reiten.design)",
-            "alt": "An Assembled Polyformer",
-            "title": "Polyformer Hero"
-          }
-        },
-        "printer-voron-0.2": {
-          "voron-0.2-hero.jpg": {
-            "alt": "Parts to build a Voron 0.2 3D Printer",
-            "title": "Voron 0.2 Hero"
-          },
-          "voron-design": {
-            "frame.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Frame",
-              "title": "Frame"
-            },
-            "a-b-drives.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 A/B Drives",
-              "title": "A/B Drives"
-            },
-            "a-b-idlers.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 A/B Idlers",
-              "title": "A/B Idlers"
-            },
-            "z-axis.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Z-Axis",
-              "title": "Z-Axis"
-            },
-            "x-axis.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 X-Axis",
-              "title": "X-Axis"
-            },
-            "a-b-belts.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 A/B Belts",
-              "title": "A/B Belts"
-            },
-            "print-bed.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 ",
-              "title": "Print Bed"
-            },
-            "print-head.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Print Head",
-              "title": "Print Head"
-            },
-            "electronics-and-wiring.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Electronics & Wiring",
-              "title": "Electronics and Wiring"
-            },
-            "skirts-and-panels.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Skirts & Panels",
-              "title": "Skirts and Panels"
-            },
-            "extrusion-tophat.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 0.2 Extrusion Tophat",
-              "title": "Extrusion Tophat"
-            },
-            "assembly-complete.jpg": {
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D Render of the Voron 0.2 Complete",
-              "title": "Assembly Complete"
-            }
-          },
-          "bearings-cleaning.jpg": {
-            "title": "Bearings Cleaning",
-            "alt": "Cleaning the bearings with IPA"
-          },
-          "bearings-assembled.jpg": {
-            "title": "Bearings Assembled",
-            "alt": "Bearings assembled and ready for installation"
-          }
-        },
-        "printer-voron-1.8": {
-          "voron-hero.jpg": {
-            "alt": "A partially assembled Voron 1.8 3D Printer",
-            "title": "Voron Hero"
-          },
-          "voron-design": {
-            "frame.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Frame",
-              "title": "Frame"
-            },
-            "belt-path.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Belt Path",
-              "title": "Belt Path"
-            },
-            "print-bed-and-wire-path.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Print Bed and Wire Path",
-              "title": "Print Bed and Wire Path"
-            },
-            "panels.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Panels",
-              "title": "Panels"
-            },
-            "gantry.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Gantry",
-              "title": "Gantry"
-            },
-            "ab-drive.jpg": {
-              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron Trident r2 A/B Drive Units",
-              "title": "A/B Drive Units"
-            },
-            "front-idlers.jpg": {
-              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron Trident r2 Front Idlers",
-              "title": "Front Idlers"
-            },
-            "z-axis.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Z Axis",
-              "title": "Z-Axis"
-            },
-            "bed-frame.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Bed Frame",
-              "title": "Bed Frame"
-            },
-            "x-axis.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 X Axis",
-              "title": "X-Axis"
-            },
-            "skirts-and-bottom-compartment.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Skirts and Bottom Compartment",
-              "title": "Skirts and Bottom Compartment"
-            },
-            "electronics-compartment.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Electronics Compartment",
-              "title": "Electronics Compartment"
-            },
-            "electronics.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Electronics",
-              "title": "Electronics"
-            },
-            "rear-panel-and-exhaust.jpg": {
-              "caption": "Image © 2020 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 1.8 Rear Panel and Exhaust",
-              "title": "Rear Panel and Exhaust"
-            }
-          },
-          "voron-frame.jpg": {
-            "alt": "Starting assembly of the frame",
-            "title": "Voron Frame"
-          },
-          "ldo-motors.jpg": {
-            "alt": "An LDO Motors V1/2 HT Motor Kit",
-            "title": "LDO Motors"
-          },
-          "voron-frame-assembled.jpg": {
-            "alt": "LDO Motors Frame Kit Assembled",
-            "title": "Voron Frame Assembled"
-          },
-          "a-drive-abs-tuning.jpg": {
-            "alt": "An A Drive Unit printed in ABS with different settings",
-            "title": "A Drive ABS Tuning"
-          },
-          "ab-drive-complete.jpg": {
-            "alt": "Voron Trident AB Drive Units complete",
-            "title": "A/B Drive Complete"
-          },
-          "front-idlers-complete.jpg": {
-            "alt": "Voron Trident Front Idlers",
-            "title": "Front Idlers Complete"
-          },
-          "rear-crossbar-installed.jpg": {
-            "alt": "Installed the rear crossbar",
-            "title": "Rear Crossbar Installed"
-          },
-          "bearings-cleaning.jpg": {
-            "alt": "Cleaning the bearings with IPA",
-            "title": "Bearings Cleaning"
-          },
-          "bearings-assembled.jpg": {
-            "alt": "Bearings assembled and ready for installation",
-            "title": "Bearings Assembled"
-          },
-          "linear-rails-installed.jpg": {
-            "alt": "Installed the front idlers and linear rails",
-            "title": "Linear Rails Installed"
-          },
-          "bed-frame-assembled.jpg": {
-            "alt": "The Assembled Bed Frame",
-            "title": "Bed Frame Assembled"
-          },
-          "z-axis-assembled.jpg": {
-            "alt": "The Z-Axis fully assembled",
-            "title": "Z Axis Assembled"
-          },
-          "xy-joints-assembled.jpg": {
-            "alt": "X/Y Joints and Linear rails assembled on the Gantry",
-            "title": "X/Y Joints Assembled"
-          },
-          "x-carriage-assembled.jpg": {
-            "alt": "X Carriage Installed and Gantry added to frame",
-            "title": "X Carriage Assembled"
-          },
-          "belts-installed.jpg": {
-            "alt": "Belts routed and Installed",
-            "title": "Belts Installed"
-          },
-          "y-endstop.jpg": {
-            "alt": "Y endstop attached to the frame",
-            "title": "Y Endstop"
-          },
-          "cable-chains.jpg": {
-            "alt": "Routing the wires to the toolhead using Cable Chains",
-            "title": "Cable Chains"
-          },
-          "power-skirt.jpg": {
-            "alt": "Power switch and keystone jacks added to the skirt",
-            "title": "Power Skirt"
-          },
-          "skirts-installed.jpg": {
-            "alt": "Skirts Installed on the bottom of the printer",
-            "title": "Skirts Installed"
-          },
-          "din-rail-installed.jpg": {
-            "alt": "Single DIN Rail installed in the bottom of the printer",
-            "title": "DIN Rail Installed"
-          },
-          "bottom-compartment-electronics.jpg": {
-            "alt": "High voltage electronics are installed in the bottom",
-            "title": "Bottom Compartment Electronics"
-          },
-          "rear-electronics-enclosure.jpg": {
-            "alt": "The V1.8 has a separate enclosure for the low voltage electronics",
-            "title": "Rear Electronics Enclosure"
-          },
-          "rear-din-rails.jpg": {
-            "alt": "Two DIN Rails are installed in the Rear Electronics Enclosure",
-            "title": "Rear DIN Rails"
-          },
-          "controller-fan-mount.jpg": {
-            "alt": "A Fan to cool the electronics",
-            "title": "Controller Fan Mount"
-          },
-          "rear-handles.jpg": {
-            "alt": "Electronics Panel Holder replaced by handles",
-            "title": "Rear Handles"
-          },
-          "electronics-panel-installed.jpg": {
-            "alt": "The panel to cover the electronics is installed",
-            "title": "Electronics Panel Installed"
-          },
-          "exhaust-filter.jpg": {
-            "alt": "An enclosure to hold a filter",
-            "title": "Exhaust Filter"
-          },
-          "print-bed-parts.jpg": {
-            "alt": "Individual parts for the heated print bed",
-            "title": "Print Bed Parts"
-          },
-          "heater-installed.jpg": {
-            "alt": "The Bed Heater installed and sealed with RTV",
-            "title": "Heater Installed"
-          },
-          "bed-installed.jpg": {
-            "alt": "Bed installed in the frame of the printer",
-            "title": "Bed Installed"
-          },
-          "bed-mount.jpg": {
-            "alt": "My modified Bed Mount for my non-standard bed",
-            "title": "Bed Mount"
-          },
-          "bottom-panel.jpg": {
-            "alt": "Steve Builds would approve, I've fitted the bottom panel",
-            "title": "Bottom Panel"
-          },
-          "spool-holders.jpg": {
-            "alt": "Spool Holders with Red PTFE guides",
-            "title": "Spool Holders"
-          },
-          "rear-panel-locks.jpg": {
-            "alt": "3D printed locks to hold on the back panel",
-            "title": "Rear Panel Locks"
-          }
-        },
-        "printer-voron-1.8-mods": {
-          "corner-cable-cover.jpg": {
-            "alt": "The Corner Cable Cover Mod to hide LED Strip cables around the corner extrusions",
-            "title": "Corner Cable Cover"
-          },
-          "exhaust-mount-side-entry.jpg": {
-            "alt": "Modified Exhaust filter with multiple PTFE entry points",
-            "title": "Exhaust Mount Side Entry"
-          },
-          "clamping-door-hinges.jpg": {
-            "alt": "Door Hinges that do not require VHB Tape",
-            "title": "Clamping Door Hinges"
-          },
-          "magnetic-grill-cover.jpg": {
-            "alt": "Cover to hold in chamber temperature whilst printing",
-            "title": "Magnetic Grill Cover"
-          },
-          "magnetic-grill-cover-removed.jpg": {
-            "alt": "Cover removed to allow ventilation",
-            "title": "Magnetic Grill Cover Removed"
-          },
-          "sexbolt-z-endstop.jpg": {
-            "alt": "Z endstop based on a PCB",
-            "title": "Sexbolt Z Endstop"
-          },
-          "display-mount.jpg": {
-            "alt": "Display Mount that can be tilted for a better view",
-            "title": "Display Mount"
-          },
-          "display-mount-installed.jpg": {
-            "alt": "The Display Mount installed on the printer",
-            "title": "Display Mount Installed"
-          },
-          "display-mount-flat.jpg": {
-            "alt": "Display Mount Folded Flat out of the way",
-            "title": "Display Mount Flat"
-          },
-          "mosfet-mounts.jpg": {
-            "alt": "Mount to hold 4 External Mosfets",
-            "title": "Mosfet Mounts"
-          },
-          "klicky-probe.jpg": {
-            "alt": "Klicky Probe installed on the printer",
-            "title": "Klicky Probe"
-          },
-          "wago-mounts.jpg": {
-            "alt": "Wago Mounts to make wiring up the printer electronics easier",
-            "title": "Wago Mounts"
-          },
-          "corner-cable-cover-rear.jpg": {
-            "alt": "Rear of the Corner Cable Covers showing holes to route the cables",
-            "title": "Corner Cable Cover Rear"
-          },
-          "deck-panel-support-clips.jpg": {
-            "alt": "Decorative clips to hold in the deck panel",
-            "title": "Deck Panel Support Clips"
-          }
-        },
-        "printer-voron-2.4": {
-          "voron-design": {
-            "a-b-belts.jpg": {
-              "title": "A/B Belts",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 A/B Belts"
-            },
-            "a-b-drives-and-idlers.jpg": {
-              "title": "A/B Drives and Idlers",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 A/B Drives and Idlers"
-            },
-            "controller-board.jpg": {
-              "title": "Controller Board",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Controller Board"
-            },
-            "electronics.jpg": {
-              "title": "Electronics",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Electronics"
-            },
-            "frame.jpg": {
-              "title": "Frame",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Frame"
-            },
-            "gantry.jpg": {
-              "title": "Gantry",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Gantry"
-            },
-            "panels.jpg": {
-              "title": "Panels",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Panels"
-            },
-            "print-bed.jpg": {
-              "title": "Print Bed",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Print Bed"
-            },
-            "skirts.jpg": {
-              "title": "Skirts",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Skirts"
-            },
-            "wiring.jpg": {
-              "title": "Wiring",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Image of the Voron 2.4 Wiring"
-            },
-            "z-axis.jpg": {
-              "title": "Z Axis",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Z Axis"
-            },
-            "z-drives.jpg": {
-              "title": "Z Drives",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron 2.4 Z Drives"
-            },
-            "fasteners.jpg": {
-              "title": "Fasteners",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Description of the types of fasteners"
-            },
-            "motion.jpg": {
-              "title": "Motion",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "Description of the types of motion components"
-            }
-          },
-          "voron-hero.jpg": {
-            "title": "Voron Hero",
-            "alt": "LDO 2.4 Frame Assembled"
-          },
-          "ldo-hardware-kit.jpg": {
-            "title": "LDO Hardware Kit",
-            "alt": "A big ol' bag of nuts n' bolts"
-          },
-          "assembling-the-frame.jpg": {
-            "title": "Assembling The Frame",
-            "alt": "Using a flat glass surface to keep the frame square during assembly"
-          },
-          "bed-extrusions.jpg": {
-            "title": "Bed Extrusions",
-            "alt": "Adding the Angle Corner Connectors to the Bed Extrusions"
-          },
-          "preparing-the-parts-and-tools.jpg": {
-            "title": "Preparing the Parts and Tools",
-            "alt": "Getting all the parts and tools together to build the frame"
-          },
-          "square-frame-washers.jpg": {
-            "title": "Square Frame Washers",
-            "alt": "Square frame nuts to help stop extrusions from twisting"
-          },
-          "bearings-cleaning.jpg": {
-            "title": "Bearings Cleaning",
-            "alt": "Cleaning the bearings with IPA"
-          },
-          "bearings-assembled.jpg": {
-            "title": "Bearings Assembled",
-            "alt": "Bearings assembled and ready for installation"
-          },
-          "z-rails-installed.jpg": {
-            "title": "Z Rails Installed",
-            "alt": "Z Axis linear rails installed on the frame"
-          },
-          "deck-panel-support.jpg": {
-            "title": "Deck Panel Support",
-            "alt": "Adding support clips to the deck panel"
-          },
-          "deck-panel.jpg": {
-            "title": "Deck Panel",
-            "alt": "Installing the Deck Panel with DIN Rails parallel to the Bed Extrusions"
-          },
-          "adding-threaded-inserts.jpg": {
-            "title": "Adding Threaded Inserts",
-            "alt": "Using a soldering iron to add heatset inserts to 3D printed parts"
-          },
-          "assembling-z-drives.jpg": {
-            "title": "Assembling Z-Drives",
-            "alt": "Putting together the parts for the belts in the Z-Drives"
-          },
-          "eyedlers.jpg": { "title": "EYEdlers", "alt": "Z Idlers assembled" },
-          "z-drives-installed.jpg": {
-            "title": "Z Drives Installed",
-            "alt": "The Z Drives and feet installed on the printer"
-          },
-          "z-motor-installed.jpg": {
-            "title": "Z Motor Installed",
-            "alt": "One of the Z motors installed to the Z Drive"
-          },
-          "z-idlers-installed.jpg": {
-            "title": "Z Idlers Installed",
-            "alt": "The Z Idlers installed into the top extrustions of the printer"
-          },
-          "a-idler.jpg": {
-            "title": "A Idler",
-            "alt": "The A Idler and Belt Tentioner for the Flying Gantry"
-          },
-          "b-idler.jpg": {
-            "title": "B Idler",
-            "alt": "The B Idler and Belt Tentioner for the Flying Gantry"
-          },
-          "a-drive.jpg": { "title": "A Drive", "alt": "A Drive Assembled" },
-          "b-drive.jpg": { "title": "B Drive", "alt": "B Drive Assembled" },
-          "xy-joint-right.jpg": {
-            "title": "X/Y Joint (Right)",
-            "alt": "Right X/Y Joint Assembled"
-          },
-          "xy-joint-left.jpg": {
-            "title": "X/Y Joint (Left)",
-            "alt": "Left X/Y Joint Assembled"
-          },
-          "rear-gantry-extrusion.jpg": {
-            "title": "Rear Gantry Extrusion",
-            "alt": "A and B drives attached to the rear gantry extrusion"
-          },
-          "y-axis-assembly.jpg": {
-            "title": "Y-Axis Assembly",
-            "alt": "Y rails and A/B idlers attached to the gantry"
-          },
-          "x-axis-installed.jpg": {
-            "title": "X-Axis Installed",
-            "alt": "X-Axis installed onto the gantry"
-          },
-          "titanium-backers.jpg": {
-            "title": "Titanium Backers",
-            "alt": "Titanium Backers Installed on the gantry"
-          },
-          "heated-bed-wagos.jpg": {
-            "title": "Heated Bed Wagos",
-            "alt": "Wago Holder to make removal of the heated bed easier"
-          },
-          "xy-endstop-pcb.jpg": {
-            "title": "X/Y Endstop PCB",
-            "alt": "Endstop pod for X/Y Endstop PCB"
-          },
-          "two-tone-rear-skirt.jpg": {
-            "title": "Two-tone Rear Skirt",
-            "alt": "Rear Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "power-inlet.jpg": {
-            "title": "Power Inlet",
-            "alt": "Power Inlet Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "piplate-skirt.jpg": {
-            "title": "PiPlate Skirt",
-            "alt": "PiPlate Skirt with both main and accent colours achieved with a filament swap"
-          },
-          "reinforced-gantry-mounts.jpg": {
-            "title": "Reinforced Gantry Mounts",
-            "alt": "Annex Engineering Reinforced Gantry Mounts"
-          },
-          "z-belts-prep.jpg": {
-            "title": "Z Belts Prep",
-            "alt": "Using Zip Ties to support the gantry whilst installing the belts"
-          },
-          "reinforced-gantry-mounts-installed.jpg": {
-            "title": "Reinforced Gantry Mounts Installed",
-            "alt": "Annex Enginnering Reinforced Gantry Mounts installed in the printer"
-          },
-          "z-belts-installed.jpg": {
-            "title": "Z Belts Installed",
-            "alt": "Z Belts installed in the printer"
-          },
-          "z-belt-clips.jpg": {
-            "title": "Z Belt Clips",
-            "alt": "Clips to tidy up the Z Belts, looks a little better than zip ties"
-          }
-        },
-        "voron-afterburner": {
-          "afterburner-hero.jpg": {
-            "alt": "Afterburner Toolhead Assembled",
-            "title": "Afterburner Hero"
-          },
-          "voron-design": {
-            "afterburner-assembled.jpg": {
-              "title": "AfterBurner Assembled",
-              "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron AfterBurner Assembled"
-            }
-          },
-          "clockwork-assembled.jpg": {
-            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
-            "title": "Clockwork Assembled"
-          },
-          "clockwork-installed.jpg": {
-            "alt": "Clockwork 1 extruder installed",
-            "title": "Clockwork Installed"
-          }
-        },
-        "voron-hardware": {
-          "voron-hardware-hero.jpg": {
-            "alt": "Board designed to add additional functionality to a Printer running Klipper firmware",
-            "title": "Voron Hardware Hero"
-          },
-          "afterburner-toolhead-pcb-rev-3.2.jpg": {
-            "title": "Afterburner Toolhead PCB (rev3.2)",
-            "caption": "",
-            "alt": "Bare Afterburner Toolhead PCB (rev3.2) PCB"
-          },
-          "afterburner-toolhead-pcb-ercf.jpg": {
-            "title": "Afterburner Toolhead PCB (ERCF)",
-            "caption": "",
-            "alt": "Bare Afterburner Toolhead PCB (ERCF) PCB"
-          },
-          "ercf-easy-brd.jpg": {
-            "title": "ERCF Easy BRD",
-            "caption": "",
-            "alt": "Bare ERCF Easy BRD PCB"
-          },
-          "microswitch-endstop.jpg": {
-            "title": "Microswitch Endstop",
-            "caption": "",
-            "alt": "Bare Microswitch Endstop PCB"
-          },
-          "microswitch-z-endstop.jpg": {
-            "title": "Microswitch Z Endstop",
-            "caption": "",
-            "alt": "Bare Microswitch Z Endstop PCB"
-          },
-          "nano-display.jpg": {
-            "title": "Nano Display",
-            "caption": "",
-            "alt": "Bare Nano Display PCB"
-          },
-          "pt100-stick.jpg": {
-            "title": "PT100 Stick",
-            "caption": "",
-            "alt": "Assembled LDO PT100 Stick"
-          },
-          "skr-mini-e3-v1.2-2.0-screen-adaptor.jpg": {
-            "title": "SKR Mini E3 V1.2/2.0 Screen Adaptor",
-            "caption": "",
-            "alt": "Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB"
-          },
-          "ercf-easy-brd-assembled.jpg": {
-            "title": "ERCF Easy BRD Assembled",
-            "caption": "",
-            "alt": "Fully Assembled ERCF Easy BRD 1.1"
-          },
-          "v0-umbilical.jpeg": {
-            "title": "V0 Umbilical",
-            "caption": "",
-            "alt": "Bare V0 Umbilical PCBs"
-          },
-          "v0-umbilical-assembled.jpg": {
-            "title": "V0 Umbilical Assembled",
-            "caption": "",
-            "alt": "Fully Assembled V0 Umbilical"
-          },
-          "carabiner.jpg": {
-            "title": "Carabiner",
-            "caption": "",
-            "alt": "Bare Carabiner PCB"
-          },
-          "klipper-expander.jpg": {
-            "alt": "Timmit99's Klipper Expander PCB",
-            "title": "Klipper Expander"
-          }
-        },
-        "voron-m4": {
-          "m4-hero.jpg": {
-            "title": "M4 Hero",
-            "caption": "Image © 2019 [Voron Design](https://www.vorondesign.com)",
-            "alt": "3D render of the Voron M4 Extruder Assembled"
-          }
-        },
-        "voron-stealthburner": {
-          "stealthburner-hero.jpg": {
-            "title": "StealthBurner Hero",
-            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-            "alt": "3D render of the Voron StealthBurner Toolhead"
-          },
-          "voron-design": {
-            "axdl345-mount.jpg": {
-              "title": "ADXL345 Mount",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner ADXL345 Mount"
-            },
-            "clockwork-2.jpg": {
-              "title": "ClockWork 2",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron ClockWork 2"
-            },
-            "stealthburner.jpg": {
-              "title": "StealthBurner",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner"
-            },
-            "tool-cartridge.jpg": {
-              "title": "Tool Cartridge",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner Tool Cartridge"
-            },
-            "x-carriage.jpg": {
-              "title": "X Carriage",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner X Carriage"
-            },
-            "stealthburner-assembled.jpg": {
-              "title": "Stealthburner Assembled",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "alt": "3D render of the Voron StealthBurner Assembled"
-            }
-          }
-        },
-        "enraged-rabbit-carrot-feeder-1.1": {
-          "enraged-rabbit-carrot-patch.jpg": {
-            "alt": "An assembled Enraged Rabbit Carrot Patch",
-            "title": "Enraged Rabbit Carrot Patch"
-          },
-          "enraged-rabbit-carrot-feeder-1.1-hero.jpg": {
-            "alt": "An assembled Enraged Rabbit Carrot Feeder V1.1",
-            "title": "Enraged Rabbit Carrot Feeder 1.1 Hero"
-          }
-        },
-        "enraged-rabbit-carrot-feeder-2.0": {
-          "enraged-rabbit-carrot-feeder-2.0-hero.jpg": {
-            "alt": "A box of bits to assemble an Enraged Rabbit Carrot Feeder",
-            "title": "Enraged Rabbit Carrot Feeder 2.0 Hero"
-          }
-        },
-        "marble-machine": {
-          "marble-machine-hero.jpg": {
-            "alt": "Base of the marble machine that has just finished printing",
-            "title": "Marble Machine Hero"
-          },
-          "marble-machine-base.jpg": {
-            "alt": "Electronics installed into the base of the marble machine",
-            "title": "Marble Machine Base"
-          },
-          "chain-marble-bucket.jpg": {
-            "alt": "Installing the Chain, Marble Buckets and Gears",
-            "title": "Chain Marble Bucket"
-          },
-          "marble-machine-assembled.jpg": {
-            "alt": "The Out of Marbles, marble machine fully assembled",
-            "title": "Marble Machine Assembled"
-          }
-        },
-        "knick-knacks": {
-          "vive-cable-clips.jpg": {
-            "alt": "Cable Clips to hold the cable out of the way for the Vive Headset",
-            "title": "Vive Cable Clips"
-          },
-          "vive-controller-protector-print.jpg": {
-            "alt": "Showing off the print quality of the Anet A8",
-            "title": "Vive Controller Protector Print"
-          },
-          "vive-controller-holder-complete.jpg": {
-            "alt": "Stand to hold the controllers for my VR Setup",
-            "title": "Vive Controller Holder Complete"
-          },
-          "vive-controller-protector.jpg": {
-            "alt": "Plastic protector to help stop damage from using controllers in VR",
-            "title": "Vive Controller Protector"
-          },
-          "vive-controller-holder-printing.jpg": {
-            "alt": "Printing the Vive Controller Holder",
-            "title": "Vive Controller Holder Printing"
-          },
-          "camera-battery-holder.jpg": {
-            "alt": "Box to hold 2 Camera Batteries and 2 SD Cards",
-            "title": "Camera Battery Holder"
-          },
-          "bullet-bill.jpg": {
-            "alt": "Bullet Bill Prop",
-            "title": "Bullet Bill"
-          },
-          "lego-man-arm.jpg": {
-            "alt": "Giant Lego Man Arm",
-            "title": "Lego Man Arm"
-          },
-          "lego-man-torso.jpg": {
-            "alt": "Comparison with an actual Lego man torso",
-            "title": "Lego Man Torso"
-          },
-          "lego-man-almost-complete.jpg": {
-            "alt": "Almost Completed Giant Lego Man",
-            "title": "Lego Man Almost Complete"
-          },
-          "lego-man-complete.jpg": {
-            "alt": "Adding the Head and Arms",
-            "title": "Lego Man Complete"
-          },
-          "knick-knacks-hero.jpg": {
-            "alt": "Printing a Giant Lego Man for my Lego Collection",
-            "title": "Knick Knacks Hero"
-          },
-          "benchy-wave.jpg": {
-            "alt": "Wave to display a benchy boat",
-            "title": "Benchy Wave"
-          },
-          "plane-kit.jpg": {
-            "alt": "Print-in-place aeroplane kit",
-            "title": "Plane Kit"
-          }
-        },
-        "cameras": {
-          "cameras-hero.jpg": {
-            "alt": "My collection of Cameras",
-            "title": "Cameras Hero"
-          },
-          "cosina-csl.jpg": {
-            "alt": "A Cosina CSL Film Camera",
-            "title": "Cosina CSL"
-          },
-          "cosina-csr.jpg": {
-            "alt": "A Cosina CSR Film Camera",
-            "title": "Cosina CSR"
-          },
-          "kodak-open.jpg": {
-            "alt": "No. 1 Pocket Kodak Jr ready to take pictures",
-            "title": "Kodak Open"
-          },
-          "kodak-closed.jpg": {
-            "alt": "No. 1 Pocket Kodak Jr folds up quite small",
-            "title": "Kodak Closed"
-          },
-          "box-brownie-open.jpg": {
-            "alt": "No. 2 Brownie Model F Open",
-            "title": "Box Brownie Open"
-          },
-          "box-brownie-closed.jpg": {
-            "alt": "No. 2 Brownie Model F is a little rough around the edges",
-            "title": "Box Brownie Closed"
-          },
-          "minolta-xg-m.jpg": {
-            "alt": "A great charity shop find",
-            "title": "Minolta XG-M"
-          },
-          "minolta-xg-m-on-film.jpg": {
-            "caption": "This photo was taken on my [Nikon F-801](#f-801)",
-            "alt": "Film photograph of my Minolta XG-M",
-            "title": "Minolta XG-M On Film"
-          },
-          "repaired-lens-scratched.jpg": {
-            "alt": "Deep scratches on the side of a lens",
-            "title": "Repaired Lens Scratched"
-          },
-          "nikon-cameras.jpg": {
-            "alt": "My Nikon cameras with some accessories",
-            "title": "Nikon Cameras"
-          },
-          "nikon-f-801.jpg": {
-            "alt": "A Nikon F-801 Film Camera",
-            "title": "Nikon F-801"
-          },
-          "nikon-f-801-on-film.jpg": {
-            "caption": "This photo was taken on my [Minolta XG-M](#xg-m)",
-            "alt": "Film photograph of my Nikon F-801",
-            "title": "Nikon F-801 On Film"
-          },
-          "nikon-d3100-lens-extended.jpg": {
-            "alt": "Nikon D3100 with a Tamaron lens fully extended",
-            "title": "Nikon D3100 Lens Extended"
-          },
-          "tripod.jpg": {
-            "alt": "Digital Camera on a Tripod",
-            "title": "Tripod"
-          },
-          "nikon-d7000-screen.jpg": {
-            "alt": "Screen on the top of a Nikon D7000",
-            "title": "Nikon D7000 Screen"
-          },
-          "nikon-d7000-back.jpg": {
-            "alt": "Screen on the back of a Nikon D7000",
-            "title": "Nikon D7000 Back"
-          },
-          "praktica-bc-1.jpg": {
-            "alt": "A Praktica BC 1 Film Camera",
-            "title": "Praktica BC 1"
-          },
-          "zenit-e.jpg": { "alt": "A Zenit-E Film Camera", "title": "Zenit-E" },
-          "industar-50-2.jpg": {
-            "alt": "An Industar-50-2 Lens",
-            "title": "Industar-50-2"
-          },
-          "lomochrome-film.jpg": {
-            "alt": "A roll of 35mm Film",
-            "title": "Lomochrome Film"
-          },
-          "chemicals.jpg": {
-            "alt": "Film developing chemicals",
-            "title": "Chemicals"
-          },
-          "developing.jpg": {
-            "alt": "Tools for developing Black and White film",
-            "title": "Developing"
-          },
-          "developed-film.jpg": {
-            "alt": "Developed film hanging up to dry",
-            "title": "Developed Film"
-          },
-          "kodak-film.jpg": {
-            "alt": "Some developed 35mm colour film",
-            "title": "Kodak Film"
+        "thinkcenter": {
+          "thinkcenter-hero.jpg": {
+            "alt": "My old \"Lenny\" server",
+            "title": "Thinkcenter Hero"
           }
         },
         "thinkpad": {
-          "thinkpad-hero.jpg": {
-            "alt": "My Thinkpad X220",
-            "title": "Thinkpad Hero"
-          },
-          "freenode-exhibitor.jpg": {
-            "alt": "My Exhibitor Lanyard from Freenode Live",
-            "title": "Freenode Exhibitor"
-          },
-          "upgrades.jpg": {
-            "alt": "Parts to upgrade my Thinkpad X220",
-            "title": "Upgrades"
-          },
-          "cracked.jpg": {
-            "alt": "Cracked plastics on a laptop",
-            "title": "Cracked"
-          },
-          "bluetooth.jpg": {
-            "alt": "The Bluetooth module is separate from the Wifi module",
-            "title": "Bluetooth"
-          },
-          "cable-routing.jpg": {
-            "alt": "The Cables are routed through the keyboard carrier",
-            "title": "Cable Routing"
-          },
-          "mainboard-screw-locations.jpg": {
-            "alt": "There are only a few screws holding the motherboard in",
-            "title": "Mainboard Screw Locations"
-          },
           "4g-modem.jpg": {
             "alt": "4G Modem installed in the machine",
             "title": "4G Modem"
-          },
-          "they-are-multiplying.jpg": {
-            "alt": "So good I brought it twice",
-            "title": "They Are Multiplying"
-          },
-          "generic-ssd.jpg": {
-            "alt": "A Generic SSD Module",
-            "title": "Generic SSD"
-          },
-          "crucial-ssd.jpg": {
-            "alt": "A Crucial SSD Module",
-            "title": "Crucial SSD"
-          },
-          "samsung-ssd.jpg": {
-            "alt": "A Samsung SSD Module",
-            "title": "Samsung SSD"
-          },
-          "stock-bios.jpg": {
-            "alt": "The Stock Thinkpad X220 BIOS screen",
-            "title": "Stock BIOS"
-          },
-          "flashing-tools.jpg": {
-            "alt": "Tools to flash the BIOS chip in the laptop",
-            "title": "Flashing Tools"
-          },
-          "raspberry-pi-connection.jpg": {
-            "alt": "Connecting a Raspberry Pi to Flash the BIOS",
-            "title": "Raspberry Pi Connection"
           },
           "bios-backup.jpg": {
             "alt": "Backing up the Stock BIOS",
@@ -1867,17 +1857,49 @@
             "alt": "Flashing Coreboot with SeaBIOS Payload",
             "title": "BIOS Flashing"
           },
-          "seabios.jpg": {
-            "alt": "SeaBIOS running on the laptop",
-            "title": "SeaBIOS"
+          "bluetooth-upgrade.jpg": {
+            "alt": "A Bluetooth 4.0 compatable card salvaged from a broken X230",
+            "title": "Bluetooth Upgrade"
+          },
+          "bluetooth.jpg": {
+            "alt": "The Bluetooth module is separate from the Wifi module",
+            "title": "Bluetooth"
+          },
+          "cable-routing.jpg": {
+            "alt": "The Cables are routed through the keyboard carrier",
+            "title": "Cable Routing"
+          },
+          "chromium-os-developer-build.jpg": {
+            "alt": "I compiled the OS myself from the original source code",
+            "title": "Chromium OS Developer Build"
           },
           "chromium-os.jpg": {
             "alt": "Chromium OS running on the X220",
             "title": "Chromium OS"
           },
-          "chromium-os-developer-build.jpg": {
-            "alt": "I compiled the OS myself from the original source code",
-            "title": "Chromium OS Developer Build"
+          "cracked.jpg": {
+            "alt": "Cracked plastics on a laptop",
+            "title": "Cracked"
+          },
+          "crucial-ssd.jpg": {
+            "alt": "A Crucial SSD Module",
+            "title": "Crucial SSD"
+          },
+          "flashing-tools.jpg": {
+            "alt": "Tools to flash the BIOS chip in the laptop",
+            "title": "Flashing Tools"
+          },
+          "freenode-exhibitor.jpg": {
+            "alt": "My Exhibitor Lanyard from Freenode Live",
+            "title": "Freenode Exhibitor"
+          },
+          "generic-ssd.jpg": {
+            "alt": "A Generic SSD Module",
+            "title": "Generic SSD"
+          },
+          "libreboot.jpg": {
+            "alt": "Libreboot running on the laptop",
+            "title": "Libreboot"
           },
           "linux-from-scratch.jpg": {
             "alt": "Linux From Scratch running on the X220",
@@ -1887,167 +1909,186 @@
             "alt": "Mac OS running on the X220",
             "title": "Mac OS"
           },
-          "ubuntu.jpg": {
-            "alt": "Ubuntu running on the X220",
-            "title": "Ubuntu"
+          "mainboard-screw-locations.jpg": {
+            "alt": "There are only a few screws holding the motherboard in",
+            "title": "Mainboard Screw Locations"
           },
-          "windows-11.jpg": {
-            "alt": "Windows 11 running on the X220",
-            "title": "Windows 11"
-          },
-          "bluetooth-upgrade.jpg": {
-            "alt": "A Bluetooth 4.0 compatable card salvaged from a broken X230",
-            "title": "Bluetooth Upgrade"
-          },
-          "libreboot.jpg": {
-            "alt": "Libreboot running on the laptop",
-            "title": "Libreboot"
+          "raspberry-pi-connection.jpg": {
+            "alt": "Connecting a Raspberry Pi to Flash the BIOS",
+            "title": "Raspberry Pi Connection"
           },
           "repairing-split-lid.jpg": {
             "alt": "Using Araldite to fix split lid of the laptop",
             "title": "Repairing Split Lid"
+          },
+          "samsung-ssd.jpg": {
+            "alt": "A Samsung SSD Module",
+            "title": "Samsung SSD"
+          },
+          "seabios.jpg": {
+            "alt": "SeaBIOS running on the laptop",
+            "title": "SeaBIOS"
+          },
+          "stock-bios.jpg": {
+            "alt": "The Stock Thinkpad X220 BIOS screen",
+            "title": "Stock BIOS"
+          },
+          "they-are-multiplying.jpg": {
+            "alt": "So good I brought it twice",
+            "title": "They Are Multiplying"
+          },
+          "thinkpad-hero.jpg": {
+            "alt": "My Thinkpad X220",
+            "title": "Thinkpad Hero"
+          },
+          "ubuntu.jpg": {
+            "alt": "Ubuntu running on the X220",
+            "title": "Ubuntu"
+          },
+          "upgrades.jpg": {
+            "alt": "Parts to upgrade my Thinkpad X220",
+            "title": "Upgrades"
+          },
+          "windows-11.jpg": {
+            "alt": "Windows 11 running on the X220",
+            "title": "Windows 11"
           }
         },
-        "nevermore-filter": {
-          "nevermore-filter-hero.jpg": {
-            "alt": "Parts to build a Nevermore Filter",
-            "title": "Nevermore Filter Hero"
+        "voron-afterburner": {
+          "afterburner-hero.jpg": {
+            "alt": "Afterburner Toolhead Assembled",
+            "title": "Afterburner Hero"
+          },
+          "clockwork-assembled.jpg": {
+            "alt": "ERCF Clockwork Extruder with Toolhead PCB",
+            "title": "Clockwork Assembled"
+          },
+          "clockwork-installed.jpg": {
+            "alt": "Clockwork 1 extruder installed",
+            "title": "Clockwork Installed"
+          },
+          "voron-design": {
+            "afterburner-assembled.jpg": {
+              "alt": "3D render of the Voron AfterBurner Assembled",
+              "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com)",
+              "title": "AfterBurner Assembled"
+            }
           }
         },
-        "horology": {
-          "watch-hero.jpg": {
-            "alt": "Assembled watch on Case Cushion",
-            "title": "Watch Hero"
+        "voron-hardware": {
+          "afterburner-toolhead-pcb-ercf.jpg": {
+            "alt": "Bare Afterburner Toolhead PCB (ERCF) PCB",
+            "caption": "",
+            "title": "Afterburner Toolhead PCB (ERCF)"
           },
-          "watch-parts.jpg": {
-            "alt": "A collection of tools for watchmaking",
-            "title": "Watch Parts"
+          "afterburner-toolhead-pcb-rev-3.2.jpg": {
+            "alt": "Bare Afterburner Toolhead PCB (rev3.2) PCB",
+            "caption": "",
+            "title": "Afterburner Toolhead PCB (rev3.2)"
           },
-          "clipping-dial.jpg": {
-            "alt": "Clipping the pegs off the back of the dial to fit the movement",
-            "title": "Clipping Dial"
+          "carabiner.jpg": {
+            "alt": "Bare Carabiner PCB",
+            "caption": "",
+            "title": "Carabiner"
           },
-          "dial-installed.jpg": {
-            "alt": "Installing the Dial onto the Movement",
-            "title": "Dial Installed"
+          "ercf-easy-brd-assembled.jpg": {
+            "alt": "Fully Assembled ERCF Easy BRD 1.1",
+            "caption": "",
+            "title": "ERCF Easy BRD Assembled"
           },
-          "hands-installed.jpg": {
-            "alt": "Installing the Hands onto the Dial",
-            "title": "Hands Installed"
+          "ercf-easy-brd.jpg": {
+            "alt": "Bare ERCF Easy BRD PCB",
+            "caption": "",
+            "title": "ERCF Easy BRD"
           },
-          "watch-complete.jpg": {
-            "alt": "The Completed Watch",
-            "title": "Watch Complete"
+          "klipper-expander.jpg": {
+            "alt": "Timmit99's Klipper Expander PCB",
+            "title": "Klipper Expander"
+          },
+          "microswitch-endstop.jpg": {
+            "alt": "Bare Microswitch Endstop PCB",
+            "caption": "",
+            "title": "Microswitch Endstop"
+          },
+          "microswitch-z-endstop.jpg": {
+            "alt": "Bare Microswitch Z Endstop PCB",
+            "caption": "",
+            "title": "Microswitch Z Endstop"
+          },
+          "nano-display.jpg": {
+            "alt": "Bare Nano Display PCB",
+            "caption": "",
+            "title": "Nano Display"
+          },
+          "pt100-stick.jpg": {
+            "alt": "Assembled LDO PT100 Stick",
+            "caption": "",
+            "title": "PT100 Stick"
+          },
+          "skr-mini-e3-v1.2-2.0-screen-adaptor.jpg": {
+            "alt": "Bare SKR Mini E3 V1.2/2.0 Screen Adaptor PCB",
+            "caption": "",
+            "title": "SKR Mini E3 V1.2/2.0 Screen Adaptor"
+          },
+          "v0-umbilical-assembled.jpg": {
+            "alt": "Fully Assembled V0 Umbilical",
+            "caption": "",
+            "title": "V0 Umbilical Assembled"
+          },
+          "v0-umbilical.jpeg": {
+            "alt": "Bare V0 Umbilical PCBs",
+            "caption": "",
+            "title": "V0 Umbilical"
+          },
+          "voron-hardware-hero.jpg": {
+            "alt": "Board designed to add additional functionality to a Printer running Klipper firmware",
+            "title": "Voron Hardware Hero"
           }
         },
-        "homelab": {
-          "homelab-hero.jpg": {
-            "alt": "The off bunch of machines I run my homelab from",
-            "title": "Homelab Hero"
-          },
-          "flight-tracker.jpg": {
-            "alt": "FlightAware setup for tracking aircraft",
-            "title": "Flight Tracker"
-          },
-          "pikvm.jpg": {
-            "title": "PiKVM",
-            "alt": "A Raspberry Pi powered KVM Switch"
-          },
-          "odroid-cloudshell2.jpg": {
-            "alt": "NAS based on an Odroid XU4",
-            "title": "Odroid CloudShell 2"
-          },
-          "raspberry-pi-2-cluster.jpg": {
-            "alt": "My original Raspberry Pi cluster",
-            "title": "Raspberry Pi 2 Cluster"
-          },
-          "raspberry-pi-3-cluster.jpg": {
-            "title": "Raspberry Pi 3 Cluster",
-            "alt": "Previous Raspberry Pi cluster for Docker Swarm"
-          },
-          "raspberry-pi-zero-cluster.jpg": {
-            "alt": "8086 Cluster Hat with 4 Raspberry Pi Zeros",
-            "title": "Raspberry Pi Zero Cluster"
-          },
-          "beat-saber.jpg": {
-            "title": "Beat Saber",
-            "alt": "Beat Saber in front of a green screen"
-          },
-          "gaming-pc.jpg": {
-            "title": "Gaming PC",
-            "alt": "My water cooled gaming PC"
-          },
-          "lighting.jpg": {
-            "title": "Lighting",
-            "alt": "Lighting and Camera setup to record myself in front of the green screen"
-          },
-          "vr-room-mk1.jpg": {
-            "title": "VR Room MK1",
-            "alt": "The first iteration of the VR Room"
-          },
-          "vr-room-mk2.jpeg": {
-            "title": "VR Room MK2",
-            "alt": "Getting a larger green screen to be able to record further away"
-          },
-          "vr-room-mk3.jpg": {
-            "title": "VR Room MK3",
-            "alt": "The final iteration of the VR room"
-          },
-          "mini-minirack.jpg": {
-            "title": "Mini Minirack",
-            "caption": "",
-            "alt": "Japanese \"Gatcha\" Mini Server Rack"
+        "voron-m4": {
+          "m4-hero.jpg": {
+            "alt": "3D render of the Voron M4 Extruder Assembled",
+            "caption": "Image © 2019 [Voron Design](https://www.vorondesign.com)",
+            "title": "M4 Hero"
           }
         },
-        "thinkcenter": {
-          "thinkcenter-hero.jpg": {
-            "alt": "My old \"Lenny\" server",
-            "title": "Thinkcenter Hero"
-          }
-        },
-        "printer-klipper-firmware": {
-          "klipper-firmware-hero.jpg": {
-            "title": "Klipper Firmware Hero",
-            "alt": "Klipper MOTD screenshot"
-          }
-        },
-        "corvus-atx": {
-          "corvus-hero.jpg": {
-            "title": "Corvus Hero",
-            "caption": "",
-            "alt": "LDO Kits to build a Corvus ATX PC Case"
+        "voron-stealthburner": {
+          "stealthburner-hero.jpg": {
+            "alt": "3D render of the Voron StealthBurner Toolhead",
+            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+            "title": "StealthBurner Hero"
           },
-          "frame.png": {
-            "title": "Frame",
-            "caption": "",
-            "alt": "3D render of the Corvus ATX Frame"
-          },
-          "feet.png": {
-            "title": "Feet",
-            "caption": "",
-            "alt": "3D render of the Corvus ATX Feet"
-          },
-          "electronics.png": {
-            "title": "Electronics",
-            "caption": "",
-            "alt": "3D render of the Corvus ATX Electronics"
-          },
-          "skirts.png": {
-            "title": "Skirts",
-            "caption": "",
-            "alt": "3D render of the Corvus ATX Skirts"
-          },
-          "panels.png": {
-            "title": "Panels",
-            "caption": "",
-            "alt": "3D render of the Corvus ATX Panels"
-          }
-        },
-        "brotherhood-of-steel": {
-          "brotherhood-of-steel-hero.jpg": {
-            "title": "Brotherhood of Steel Hero",
-            "caption": "Image © 2022 [Modiphius Entertainment](https://modiphius.net)",
-            "alt": "3D render of the Brotherhood of Steel Encampment"
+          "voron-design": {
+            "axdl345-mount.jpg": {
+              "alt": "3D render of the Voron StealthBurner ADXL345 Mount",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "ADXL345 Mount"
+            },
+            "clockwork-2.jpg": {
+              "alt": "3D render of the Voron ClockWork 2",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "ClockWork 2"
+            },
+            "stealthburner-assembled.jpg": {
+              "alt": "3D render of the Voron StealthBurner Assembled",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Stealthburner Assembled"
+            },
+            "stealthburner.jpg": {
+              "alt": "3D render of the Voron StealthBurner",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "StealthBurner"
+            },
+            "tool-cartridge.jpg": {
+              "alt": "3D render of the Voron StealthBurner Tool Cartridge",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "Tool Cartridge"
+            },
+            "x-carriage.jpg": {
+              "alt": "3D render of the Voron StealthBurner X Carriage",
+              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "title": "X Carriage"
+            }
           }
         }
       }

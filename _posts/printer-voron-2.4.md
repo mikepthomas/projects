@@ -14,6 +14,7 @@ related:
   - /projects/printer-klipper-firmware
 external:
   - https://www.vorondesign.com/voron2.4
+  - https://mods.vorondesign.com
 draft: false
 tags:
   - CoreXY
