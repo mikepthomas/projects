@@ -2736,4 +2736,15 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [YT March 2024]: https://www.youtube.com/watch?v=a7N0BMJVZmc
 [YT April 2024]: https://www.youtube.com/watch?v=y_6PEtwGq80
 [YT May 2024]: https://www.youtube.com/watch?v=Vg8Sq0_AWkI&t=71s
+[YT June/July 2024]: https://www.youtube.com/watch?v=IbG_ozrUjXE
+[YT August 2024]: https://www.youtube.com/watch?v=BGWxeQBBR_I
+[YT September 2024]: https://www.youtube.com/watch?v=lGIw_tEOoPs
+[YT November 2024]: https://www.youtube.com/watch?v=8xcFD2Yxx4A
 [YT January 2025]: https://www.youtube.com/watch?v=aysNZrbYihg&t=115s
+[YT February 2025]: https://www.youtube.com/watch?v=849sYmJpAeg
+[YT March 2025]: https://www.youtube.com/watch?v=ubBOWNlQ08M
+[YT April 2025]: https://www.youtube.com/watch?v=Jwg5VRTSo0I
+[YT May 2025]: https://www.youtube.com/watch?v=79YSEfmTHmo
+[YT June/July 2025]: https://www.youtube.com/watch?v=AooPLDdMA7c
+[YT September/October 2025]: https://www.youtube.com/watch?v=ZyjnOeRh090
+[YT November 2025]: https://www.youtube.com/watch?v=kjki_kdvvlI
