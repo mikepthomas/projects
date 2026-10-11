@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-11T09:41:17.182Z
+lastmod: 2026-10-11T10:11:12.374Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2607,6 +2607,34 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [The Ravager & The Mutt]: https://modiphius.net/products/fallout-miniatures-the-ravager-the-mutt
 [Warbands Quickstart Guide]: https://modiphius.net/products/fallout-wasteland-warfare-warbands-quickstart-pdf
 [Warbands Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-warband-starter-set
+
+### Campaign and Warband Sheets
+
+| Item               | Purchased | Digital                          |     Downloaded     | Released | Notes                                 |
+| ------------------ | :-------: | -------------------------------- | :----------------: | -------- | ------------------------------------- |
+| Campaign Journal   |           | [Free :pdf:][Campaign Journal]   | :heavy_check_mark: |          | [Campaign Journal (Printer Friendly)] |
+| Campaign Map Sheet |           | [Free :pdf:][Campaign Map Sheet] | :heavy_check_mark: |          |
+| Warband Roster     |           | [Free :pdf:][Warband Roster]     | :heavy_check_mark: |          | [Warband Roster (Printer Friendly)]   |
+
+[Campaign Map Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a4dab9ba-0754-49d3-a48e-f5cefcd7d33d/FWW2_Campaign-Map-Sheet.pdf
+[Campaign Journal]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/d76f93e4-b45d-497a-a484-03f1445eb645/FWW2-CampaignJournal-Digital-Fill.pdf
+[Campaign Journal (Printer Friendly)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ca5e8e54-3e44-4fd9-b00b-6d9d451ec258/FWW2-CampaignJournal-HomePrinter.pdf
+[Warband Roster]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/20c9a37d-91cf-4ab7-9630-52b3562304f7/FWW2_WarbandRoster_Digital_Fill_005c.pdf
+[Warband Roster (Printer Friendly)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/2000111c-5249-473b-be41-d9e8e999eaa0/FWW2_WarbandRoster_HomePrinter_005c.pdf
+
+### Game Aids
+
+| Item                  | Purchased | Digital                             |     Downloaded     | Released | Notes |
+| --------------------- | :-------: | ----------------------------------- | :----------------: | -------- | ----- |
+| Dice Conversion Sheet |           | [Free :pdf:][Dice Conversion Sheet] | :heavy_check_mark: |          |
+| Reference Sheets      |           | [Free :pdf:][Reference Sheets]      | :heavy_check_mark: |          |
+| Tokens Sheet A        |           | [Free :pdf:][Tokens Sheet A]        | :heavy_check_mark: |          |
+| Tokens Sheet B        |           | [Free :pdf:][Tokens Sheet B]        | :heavy_check_mark: |          |
+
+[Dice Conversion Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e63a4c13-c67b-41f5-b4f0-d49ddbb88b0c/Dice-Reference-Tables.pdf
+[Reference Sheets]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/6595e7c2-683c-4945-9f7a-06d042183a28/FWW-2e-Reference-Sheets.zip
+[Tokens Sheet A]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/b262d0de-276a-4031-8f36-beb688166b49/FWW2_Tokens_Sheet-A_Print-at-home_001w.pdf
+[Tokens Sheet B]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/79f52960-82c0-4bc1-97a3-71933a1e9ba7/FWW2_Tokens_Sheet-B_Print-at-home_001w_.pdf
 
 ### Rules
 
