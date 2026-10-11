@@ -1672,6 +1672,38 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [Cult of the Mothman: Followers]: https://modiphius.net/products/fallout-miniatures-cult-of-the-mothman-followers
 [Cult of the Mothman: Mothman Eclipse]: https://modiphius.net/products/fallout-miniatures-cult-of-the-mothman-mothman-eclipse
 
+#### The Crater and The Foundation
+
+| Item                              | Purchased | Digital | Downloaded | Released      | Notes |
+| --------------------------------- | :-------: | ------- | :--------: | ------------- | ----- |
+| [Raiders: Crater Warlords]        |    :x:    |         |            | [August 2024] |
+| [Survivors: Foundation Authority] |    :x:    |         |            | [August 2024] |
+
+[Raiders: Crater Warlords]: https://modiphius.net/products/fallout-miniatures-raiders-crater-warlords
+[Survivors: Foundation Authority]: https://modiphius.net/products/fallout-miniatures-survivors-foundation-authority
+
+#### Invasion!
+
+| Item                             | Purchased | Digital | Downloaded | Released         | Notes |
+| -------------------------------- | :-------: | ------- | :--------: | ---------------- | ----- |
+| [Unaligned: Legends of Vault 76] |    :x:    |         |            | [September 2024] |
+| [Zetans: Alien Invaders]         |    :x:    |         |            | [September 2024] |
+| [Zetans: Invaders from Beyond]   |    :x:    |         |            | [September 2024] |
+
+[Unaligned: Legends of Vault 76]: https://modiphius.net/products/fallout-miniatures-unaligned-legends-of-vault-76
+[Zetans: Alien Invaders]: https://modiphius.net/products/fallout-miniatures-zetans-alien-invaders
+[Zetans: Invaders from Beyond]: https://modiphius.net/products/fallout-miniatures-zetans-invaders-from-beyond
+
+#### Hungry Hills!
+
+| Item                         | Purchased | Digital | Downloaded | Released     | Notes     |
+| ---------------------------- | :-------: | ------- | :--------: | ------------ | --------- |
+| [Cryptids: Wendigo Colossus] |    :x:    |         |            | October 2024 | Legendary |
+| [Cryptids: Wendigo Pack]     |    :x:    |         |            | October 2024 |
+
+[Cryptids: Wendigo Colossus]: https://modiphius.net/products/fallout-miniatures-cryptids-wendigo-colossus
+[Cryptids: Wendigo Pack]: https://modiphius.net/products/fallout-miniatures-cryptids-wendigo-pack
+
 #### Catching Floaters
 
 | Item                     | Purchased | Digital | Downloaded | Released       | Notes |
