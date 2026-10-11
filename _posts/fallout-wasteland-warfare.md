@@ -1800,7 +1800,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | ----------------------------------- | :----------------: | -------------------------------------------------------------------------------------- | :----------------: | ---------------- | ----- |
 | [Children of Atom Rules]            |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1y_80STvk3Dm5WoyXyobQW3O6hrsvz-Bw) | :heavy_check_mark: | [September 2025] |
 | [Arcadia and the Harbormen Rules]   |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1slwR231N3w_MnwphTzjz_cwTD0DQ0BIb) | :heavy_check_mark: | October 2025     |
-| [Creatures of the Fog Rules]        |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: | November 2025    |
+| [Creatures of the Fog Rules]        |        :x:         | [Free :zip:](https://drive.google.com/drive/folders/1dzNmv6uWnLatgXzZGqa_lEUzSHkX8hsc) | :heavy_check_mark: | [November 2025]  |
 | [Longfellow and the Trappers Rules] | :heavy_check_mark: | [Free :zip:](https://drive.google.com/drive/folders/1dILLqdNn0DXGNs2l3q-cWHl3PTYhygSR) | :heavy_check_mark: | January 2026     |
 
 [Arcadia and the Harbormen Rules]: https://connect.forgefire.games/products/the-harbormen-and-arcadia-card-pack
@@ -1829,6 +1829,38 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [T-60 Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-t-60
 
 ### Miniatures
+
+#### Children of Atom
+
+| Item                           | Purchased | Digital | Downloaded | Released         | Notes |
+| ------------------------------ | :-------: | ------- | :--------: | ---------------- | ----- |
+| [Children of Atom: Choir]      |    :x:    |         |            | [September 2025] |
+| [Children of Atom: Priesthood] |    :x:    |         |            | [September 2025] |
+
+[Children of Atom: Choir]: https://modiphius.net/products/fallout-miniatures-children-of-atom-priesthood
+[Children of Atom: Priesthood]: https://modiphius.net/products/fallout-miniatures-children-of-atom-choir
+
+#### Arcadia and the Harbormen
+
+| Item                           | Purchased | Digital | Downloaded | Released     | Notes |
+| ------------------------------ | :-------: | ------- | :--------: | ------------ | ----- |
+| [Institute: Arcadia Renegades] |    :x:    |         |            | October 2025 |
+| [Survivors: Harbormen]         |    :x:    |         |            | October 2025 |
+
+[Institute: Arcadia Renegades]: https://modiphius.net/products/fallout-miniatures-institute-arcadia-renegades
+[Survivors: Harbormen]: https://modiphius.net/products/fallout-miniatures-survivors-harbormen
+
+#### Creatures of the Fog
+
+| Item                     | Purchased | Digital | Downloaded | Released        | Notes |
+| ------------------------ | :-------: | ------- | :--------: | --------------- | ----- |
+| [Creatures: Angler]      |    :x:    |         |            | [November 2025] |
+| [Creatures: Gulpers]     |    :x:    |         |            | [November 2025] |
+| [Creatures: Hermit Crab] |    :x:    |         |            | [November 2025] |
+
+[Creatures: Angler]: https://modiphius.net/products/fallout-miniatures-creatures-angler
+[Creatures: Gulpers]: https://modiphius.net/products/fallout-miniatures-creatures-gulpers
+[Creatures: Hermit Crab]: https://modiphius.net/products/fallout-miniatures-creatures-hermit-crab
 
 #### Longfellow and the Trappers
 
