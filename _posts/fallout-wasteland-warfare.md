@@ -60,7 +60,7 @@ A first look, pre-release playthrough with the publisher gives a good overview o
 
 > Videos © 2017 [Modiphius](https://www.youtube.com/@Modiphius)
 
-The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news?page=30) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
+The older [blogs on the Modiphius Website](https://modiphius.net/blogs/news?page=33) have become hard to navigate as you can no longer click through to some of the pages, I have compiled a list the development blogs below for ease of browsing.
 
 Alternatively check out the [old version on the Internet Archive](https://web.archive.org/web/20210916215739/https://www.modiphius.com/development-blog.html).
 
