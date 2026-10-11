@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-09T18:02:46.652Z
+lastmod: 2026-10-11T09:41:17.182Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -503,7 +503,7 @@ The [Scenic Bundle](https://modiphius.net/products/fallout-wasteland-warfare-sce
 | Item                  |     Purchased      | Digital                            |     Downloaded     | Released                           | Notes                                                                        |
 | --------------------- | :----------------: | ---------------------------------- | :----------------: | ---------------------------------- | ---------------------------------------------------------------------------- |
 | [Corvega Sedan]       |        :x:         | [Buy :zip:][Corvega Sedan STL]     | :heavy_check_mark: | April 2019                         | [Scenic Set Cards :pdf:] & [Corvega Atomic V-8 Terrain Tutorial]             |
-| [Crashed Vertibird]   |        :x:         | [Buy :zip:][Crashed Vertibird STL] | :heavy_check_mark: | [August 2019][DEVELOPMENT BLOG #9] |
+| [Crashed Vertibird]   | :heavy_check_mark: | [Buy :zip:][Crashed Vertibird STL] | :heavy_check_mark: | [August 2019][DEVELOPMENT BLOG #9] |
 | [Junk Barricades]     | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] |
 | [Military Barricades] | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | Similar items in the [Brotherhood of Steel Encampment](brotherhood-of-steel) |
 | [Turrets]             | :heavy_check_mark: |                                    |                    | [April 2019][DEVELOPMENT BLOG #13] | [Scenic Set Cards :pdf:]                                                     |
