@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-11T10:11:12.374Z
+lastmod: 2026-10-12T13:13:16.442Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1368,7 +1368,7 @@ Wave 7 introduces a new sub-faction of the `Raiders`, the `Forged` and new sub-f
 
 | Item                      |     Purchased      | Digital | Downloaded | Released        | Notes |
 | ------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
-| [Creatures: Bloatflies]   |        :x:         |         |            | [January 2023]  |
+| [Creatures: Bloatflies]   | :heavy_check_mark: |         |            | [January 2023]  |
 | [Creatures: Blood Bugs]   | :heavy_check_mark: |         |            | [November 2022] |
 | [Creatures: Radstag Herd] |        :x:         |         |            | [January 2023]  |
 | [Creatures: Stingwings]   |        :x:         |         |            | [November 2022] |
@@ -1674,10 +1674,10 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 #### The Crater and The Foundation
 
-| Item                              | Purchased | Digital | Downloaded | Released      | Notes |
-| --------------------------------- | :-------: | ------- | :--------: | ------------- | ----- |
-| [Raiders: Crater Warlords]        |    :x:    |         |            | [August 2024] |
-| [Survivors: Foundation Authority] |    :x:    |         |            | [August 2024] |
+| Item                              |     Purchased      | Digital | Downloaded | Released      | Notes |
+| --------------------------------- | :----------------: | ------- | :--------: | ------------- | ----- |
+| [Raiders: Crater Warlords]        | :heavy_check_mark: |         |            | [August 2024] |
+| [Survivors: Foundation Authority] | :heavy_check_mark: |         |            | [August 2024] |
 
 [Raiders: Crater Warlords]: https://modiphius.net/products/fallout-miniatures-raiders-crater-warlords
 [Survivors: Foundation Authority]: https://modiphius.net/products/fallout-miniatures-survivors-foundation-authority
