@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-12T13:13:16.442Z
+lastmod: 2026-10-13T11:36:21.125Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2228,11 +2228,19 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                          |     Downloaded     | Released   | Notes |
-| ------------- | :-------: | -------------------------------- | :----------------: | ---------- | ----- |
-| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: | April 2026 |
+| Item          | Purchased | Digital                          |     Downloaded     | Released      | Notes |
+| ------------- | :-------: | -------------------------------- | :----------------: | ------------- | ----- |
+| Errata (v1.0) |           | [Free :pdf:][2d20 Errata (v1.0)] | :heavy_check_mark: | February 2023 |
+| Errata (v2.0) |           |                                  |        :x:         |               |
+| Errata (v3.0) |           | [Free :pdf:][2d20 Errata (v3.0)] | :heavy_check_mark: | October 2025  |
+| Errata (v4.0) |           |                                  |        :x:         |               |
+| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: | April 2026    |
+| Errata (v6.0) |           | [Free :pdf:][2d20 Errata (v6.0)] | :heavy_check_mark: | August 2026   |
 
+[2d20 Errata (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ba8bab08-fb24-45d0-92c7-904a5ed89b58/Errata-Log_Feb2023.pdf
+[2d20 Errata (v3.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/45f082b4-bd3d-4c91-b374-29de37dc773e/Fallout-RPG-Errata-log-V3-2025.pdf
 [2d20 Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/bffb29d8-8456-4833-bb03-9973e880b4ce/Errata-log-V5-2026.pdf
+[2d20 Errata (v6.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/32e29163-fb1b-4159-96c5-5531a796eea8/Fallout-2d20-Errata-log-V6-2026.pdf
 
 ### Astoundingly Awesome Tales
 
@@ -2418,9 +2426,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item          | Purchased | Digital                              |     Downloaded     | Released                    | Notes |
 | ------------- | :-------: | ------------------------------------ | :----------------: | --------------------------- | ----- |
+| Errata (v1.0) |           |                                      |        :x:         |                             |
+| Errata (v2.0) |           |                                      | :heavy_check_mark: |                             |
+| Errata (v3.0) |           |                                      |        :x:         |                             |
 | Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)] | :heavy_check_mark: | [May 2026][Factions Errata] |
+| Errata (v5.0) |           | [Free :pdf:][Factions Errata (v5.0)] | :heavy_check_mark: | October 2026                |
 
 [Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
+[Factions Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/62b454f3-19a2-4459-8284-1231ee5b1ab3/Fallout-Factions-Errata-V5.pdf
 
 ### Get You By Lists
 
@@ -2463,6 +2476,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item                                |     Purchased      | Digital                                                   |     Downloaded     | Released                     | Notes                                                                            |
 | ----------------------------------- | :----------------: | --------------------------------------------------------- | :----------------: | ---------------------------- | -------------------------------------------------------------------------------- |
+| Battle for Nuka-World Errata (v2.0) |                    | [Free :pdf:][Battle for Nuka-World Errata (v2.0)]         | :heavy_check_mark: | October 2026                 |
 | [Battle for Nuka-World Starter Set] | :heavy_check_mark: |                                                           |                    | [July 2024]                  | [Blog: Getting Started With Plastic Miniatures][Factions Getting Started]        |
 | ┝ [Bottle and Cappy, All Fizzed Up] | :heavy_check_mark: | [Assembly Guide :pdf:][Bottle and Cappy Assembly Guide]   | :heavy_check_mark: | [June 2024]                  | Promo                                                                            |
 | ┝ [Tokens and Terrain Pack 1]       | :heavy_check_mark: | [Assembly Guide :pdf:][Tokens and Terrain Assembly Guide] | :heavy_check_mark: | [March 2025]                 | This will be replaced by [3D Printed Nuka World terrain](nuka-world)             |
@@ -2472,6 +2486,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Battle Map: Nuka-World]            | :heavy_check_mark: |                                                           |                    |                              | Neoprene mat to replace the paper one in the [Battle for Nuka-World Starter Set] |
 | Welcome to Nuka-World Quickstart    |                    | [Free :pdf:][Nuka-World Quickstart]                       | :heavy_check_mark: | [February 2024][PR 20/03/24] |
 
+[Battle for Nuka-World Errata (v2.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e44c3963-16a5-42d5-a24d-e1d3a576a1e5/Fallout-Factions-Battle-for-Nuka-World-Errata-V2.pdf
 [Battle for Nuka-World Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-nuka-world-starter-set
 [Battle Map: Nuka-World]: https://modiphius.net/products/fallout-factions-battle-map-nuka-world
 [Bottle and Cappy, All Fizzed Up]: https://modiphius.net/products/fallout-miniatures-bottle-and-cappy-all-fizzed-up-limited-run
