@@ -659,12 +659,13 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | ------------------------------------- | :----------------: | --------------------------------------------- | :----------------: | ---------------------------------------------- | ---------------------------- |
 | [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules :pdf:][Automatron Player Rules] | :heavy_check_mark: | [February 2020][Blog: Make Your Own Robot]     | [Blog: How To Automatron]    |
 | Caught in the Crossfire Campaign book |                    | [Buy :pdf:][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
-| Errata (v3.0)                         |                    |                                               | :heavy_check_mark: | [June 2019][DEVELOPMENT BLOG #27]              |
+| Errata (v3.0)                         |                    | [Read on Scribd :scribd:][Errata (v3.0)]      | :heavy_check_mark: | [July 2019][DEVELOPMENT BLOG #27]              |
 | [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                               |                    | [December 2019][Blog: Downloads Update]        | [Blog: How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
+[Errata (v3.0)]: https://www.scribd.com/document/785893717/foww-errata-faq-v3-0
 [Institute Wave Expansion Card Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
 ### Accessories
@@ -1526,10 +1527,11 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | ┝ Error! System Malfunction       |                    | [Free :pdf:][Error System Malfunction]         | :heavy_check_mark: | September 2023  |
 | ┝ Oh, a Hunting We Shall Go!      |                    | [Free :pdf:][Hunting We Shall Go]              | :heavy_check_mark: | October 2023    |
 | ┕ Cappy in a Haystack             |                    | [Free :pdf:][Cappy in a Haystack]              | :heavy_check_mark: | [November 2023] |
-| Errata (v9.0)                     |                    |                                                | :heavy_check_mark: | October 2023    |
+| Errata (v9.0)                     |                    | [Read on Scribd :scribd:][Errata (v9.0)]       | :heavy_check_mark: | October 2023    |
 | [Nuka-World Rules Expansion]      | :heavy_check_mark: | [Buy :pdf:][Nuka-World Rules Expansion PDF]    | :heavy_check_mark: | [October 2023]  |
 
 [Astoundingly Awesome Tales Vol. 2]: https://modiphius.net/products/fallout-wasteland-warfare-astoundingly-awesome-tales-vol-2-pdf
+[Errata (v9.0)]: https://www.scribd.com/document/723908189/FWW-Errata-FAQ-Card-Versions-v9-0-003LW
 [Error System Malfunction]: https://drive.google.com/file/d/1Xb5bNAYIrrHzpISBlVMvkQ79cEAdgPw9/preview
 [Hunting We Shall Go]: https://cdn.shopify.com/s/files/1/0225/4035/files/Oh_a_Hunting_We_Shall_Go_-_FWW_Scenario.pdf
 [Cappy in a Haystack]: https://cdn.shopify.com/s/files/1/0225/4035/files/Cappy_in_a_Haystack_-_FWW_Scenario_v2.pdf
@@ -2130,12 +2132,13 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                         |     Downloaded     | Released                                | Notes |
-| ------------- | :-------: | ------------------------------- | :----------------: | --------------------------------------- | ----- |
-| Errata (v1.0) |           |                                 | :heavy_check_mark: | June 2019                               |
-| Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)] | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
-| Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)] | :heavy_check_mark: | [November 2020]                         |
+| Item          | Purchased | Digital                                      |     Downloaded     | Released                                | Notes |
+| ------------- | :-------: | -------------------------------------------- | :----------------: | --------------------------------------- | ----- |
+| Errata (v1.0) |           | [Read on Scribd :scribd:][RPG Errata (v1.0)] | :heavy_check_mark: | June 2019                               |
+| Errata (v2.0) |           | [Free :pdf:][RPG Errata (v2.0)]              | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
+| Errata (v3.0) |           | [Free :pdf:][RPG Errata (v3.0)]              | :heavy_check_mark: | [November 2020]                         |
 
+[RPG Errata (v1.0)]: https://www.scribd.com/document/1033348984/Fallout-Wasteland-Warfare-RPG-Errata
 [RPG Errata (v2.0)]: https://web.archive.org/web/20191231140710/https://www.modiphius.com/uploads/1/4/0/6/14062642/fww_rpg_errata_faq_v.2.0.pdf
 [RPG Errata (v3.0)]: https://cdn.shopify.com/s/files/1/0225/4035/files/wave_5_rpg_errata_faq_advice_may17.pdf
 
@@ -2228,16 +2231,17 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                          |     Downloaded     | Released      | Notes |
-| ------------- | :-------: | -------------------------------- | :----------------: | ------------- | ----- |
-| Errata (v1.0) |           | [Free :pdf:][2d20 Errata (v1.0)] | :heavy_check_mark: | February 2023 |
-| Errata (v2.0) |           |                                  |        :x:         |               |
-| Errata (v3.0) |           | [Free :pdf:][2d20 Errata (v3.0)] | :heavy_check_mark: | October 2025  |
-| Errata (v4.0) |           |                                  |        :x:         |               |
-| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)] | :heavy_check_mark: | April 2026    |
-| Errata (v6.0) |           | [Free :pdf:][2d20 Errata (v6.0)] | :heavy_check_mark: | August 2026   |
+| Item          | Purchased | Digital                                  |     Downloaded     | Released       | Notes |
+| ------------- | :-------: | ---------------------------------------- | :----------------: | -------------- | ----- |
+| Errata (v1.0) |           | [Free :pdf:][2d20 Errata (v1.0)]         | :heavy_check_mark: | February 2023  |
+| Errata (v2.0) |           | [Read on Scribd :scribd:][Errata (v2.0)] | :heavy_check_mark: | September 2024 |
+| Errata (v3.0) |           | [Free :pdf:][2d20 Errata (v3.0)]         | :heavy_check_mark: | October 2025   |
+| Errata (v4.0) |           |                                          |        :x:         |                |
+| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)]         | :heavy_check_mark: | April 2026     |
+| Errata (v6.0) |           | [Free :pdf:][2d20 Errata (v6.0)]         | :heavy_check_mark: | August 2026    |
 
 [2d20 Errata (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ba8bab08-fb24-45d0-92c7-904a5ed89b58/Errata-Log_Feb2023.pdf
+[2d20 Errata (v2.0)]: https://www.scribd.com/document/768677609/Errata-Log-V2-2024
 [2d20 Errata (v3.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/45f082b4-bd3d-4c91-b374-29de37dc773e/Fallout-RPG-Errata-log-V3-2025.pdf
 [2d20 Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/bffb29d8-8456-4833-bb03-9973e880b4ce/Errata-log-V5-2026.pdf
 [2d20 Errata (v6.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/32e29163-fb1b-4159-96c5-5531a796eea8/Fallout-2d20-Errata-log-V6-2026.pdf
@@ -2424,14 +2428,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                              |     Downloaded     | Released                    | Notes |
-| ------------- | :-------: | ------------------------------------ | :----------------: | --------------------------- | ----- |
-| Errata (v1.0) |           |                                      |        :x:         |                             |
-| Errata (v2.0) |           |                                      | :heavy_check_mark: |                             |
-| Errata (v3.0) |           |                                      |        :x:         |                             |
-| Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)] | :heavy_check_mark: | [May 2026][Factions Errata] |
-| Errata (v5.0) |           | [Free :pdf:][Factions Errata (v5.0)] | :heavy_check_mark: | October 2026                |
+| Item          | Purchased | Digital                                           |     Downloaded     | Released                    | Notes |
+| ------------- | :-------: | ------------------------------------------------- | :----------------: | --------------------------- | ----- |
+| Errata (v1.0) |           |                                                   |        :x:         |                             |
+| Errata (v2.0) |           | [Read on Scribd :scribd:][Factions Errata (v2.0)] | :heavy_check_mark: |                             |
+| Errata (v3.0) |           |                                                   |        :x:         |                             |
+| Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)]              | :heavy_check_mark: | [May 2026][Factions Errata] |
+| Errata (v5.0) |           | [Free :pdf:][Factions Errata (v5.0)]              | :heavy_check_mark: | October 2026                |
 
+[Factions Errata (v2.0)]: https://www.scribd.com/document/925051005/Fallout-Factions-Errata-V2
 [Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
 [Factions Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/62b454f3-19a2-4459-8284-1231ee5b1ab3/Fallout-Factions-Errata-V5.pdf
 

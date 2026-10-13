@@ -62,13 +62,15 @@ export function getComponents() {
             if (typeof childNode === 'string')
               return reactStringReplace(
                 childNode,
-                /:(pdf|reddit|zip):/g,
+                /:(pdf|reddit|scribd|zip):/g,
                 (match) => {
                   switch (match) {
                     case 'pdf':
                       return <FontAwesomeIcon icon="file-pdf" />;
                     case 'reddit':
                       return <FontAwesomeIcon icon={['fab', 'reddit-alien']} />;
+                    case 'scribd':
+                      return <FontAwesomeIcon icon={['fab', 'scribd']} />;
                     case 'zip':
                       return <FontAwesomeIcon icon="file-zipper" />;
                   }

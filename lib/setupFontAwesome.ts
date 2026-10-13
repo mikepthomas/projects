@@ -31,6 +31,7 @@ import {
   faInstagram,
   faLinkedin,
   faRedditAlien,
+  faScribd,
   faXTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import { faFilePdf, faFileZipper } from '@fortawesome/free-regular-svg-icons';
@@ -74,6 +75,7 @@ export default function register() {
     faLinkedin,
     faMicrochip,
     faRedditAlien,
+    faScribd,
     faXTwitter,
     faUserGraduate,
     faWarehouse,
