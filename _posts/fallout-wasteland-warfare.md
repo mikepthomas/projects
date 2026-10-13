@@ -2431,8 +2431,8 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | Item          | Purchased | Digital                                           |     Downloaded     | Released                    | Notes |
 | ------------- | :-------: | ------------------------------------------------- | :----------------: | --------------------------- | ----- |
 | Errata (v1.0) |           |                                                   |        :x:         |                             |
-| Errata (v2.0) |           | [Read on Scribd :scribd:][Factions Errata (v2.0)] | :heavy_check_mark: |                             |
-| Errata (v3.0) |           |                                                   |        :x:         |                             |
+| Errata (v2.0) |           | [Read on Scribd :scribd:][Factions Errata (v2.0)] | :heavy_check_mark: | September 2025              |
+| Errata (v3.3) |           |                                                   | :heavy_check_mark: | March 2026                  |
 | Errata (v4.0) |           | [Free :pdf:][Factions Errata (v4.0)]              | :heavy_check_mark: | [May 2026][Factions Errata] |
 | Errata (v5.0) |           | [Free :pdf:][Factions Errata (v5.0)]              | :heavy_check_mark: | October 2026                |
 
