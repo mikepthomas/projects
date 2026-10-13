@@ -2231,14 +2231,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Errata
 
-| Item          | Purchased | Digital                                  |     Downloaded     | Released       | Notes |
-| ------------- | :-------: | ---------------------------------------- | :----------------: | -------------- | ----- |
-| Errata (v1.0) |           | [Free :pdf:][2d20 Errata (v1.0)]         | :heavy_check_mark: | February 2023  |
-| Errata (v2.0) |           | [Read on Scribd :scribd:][Errata (v2.0)] | :heavy_check_mark: | September 2024 |
-| Errata (v3.0) |           | [Free :pdf:][2d20 Errata (v3.0)]         | :heavy_check_mark: | October 2025   |
-| Errata (v4.0) |           |                                          |        :x:         |                |
-| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)]         | :heavy_check_mark: | April 2026     |
-| Errata (v6.0) |           | [Free :pdf:][2d20 Errata (v6.0)]         | :heavy_check_mark: | August 2026    |
+| Item          | Purchased | Digital                                       |     Downloaded     | Released       | Notes |
+| ------------- | :-------: | --------------------------------------------- | :----------------: | -------------- | ----- |
+| Errata (v1.0) |           | [Free :pdf:][2d20 Errata (v1.0)]              | :heavy_check_mark: | February 2023  |
+| Errata (v2.0) |           | [Read on Scribd :scribd:][2d20 Errata (v2.0)] | :heavy_check_mark: | September 2024 |
+| Errata (v3.0) |           | [Free :pdf:][2d20 Errata (v3.0)]              | :heavy_check_mark: | October 2025   |
+| Errata (v4.0) |           |                                               |        :x:         |                |
+| Errata (v5.0) |           | [Free :pdf:][2d20 Errata (v5.0)]              | :heavy_check_mark: | April 2026     |
+| Errata (v6.0) |           | [Free :pdf:][2d20 Errata (v6.0)]              | :heavy_check_mark: | August 2026    |
 
 [2d20 Errata (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ba8bab08-fb24-45d0-92c7-904a5ed89b58/Errata-Log_Feb2023.pdf
 [2d20 Errata (v2.0)]: https://www.scribd.com/document/768677609/Errata-Log-V2-2024
