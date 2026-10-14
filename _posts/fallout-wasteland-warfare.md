@@ -595,16 +595,16 @@ This scenario was designed for using the `Crashed Vertibird`.
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [AltWing][Crashed Vertibird STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Engine][Crashed Vertibird STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [NonHandedFin][Crashed Vertibird STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Prop][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [REVISEDMain][Crashed Vertibird STL]  |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Rubble][Crashed Vertibird STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Tail][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Wing][Crashed Vertibird STL]         |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes                                                                      |
+| --------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------------- |
+| ~[AltWing][Crashed Vertibird STL]~      |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Engine][Crashed Vertibird STL]~       |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[NonHandedFin][Crashed Vertibird STL]~ |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Prop][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[REVISEDMain][Crashed Vertibird STL]~  |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Rubble][Crashed Vertibird STL]~       |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Tail][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Wing][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
 
 ### Settlement Mode
 
