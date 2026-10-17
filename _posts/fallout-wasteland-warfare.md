@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-13T11:36:21.125Z
+lastmod: 2026-10-17T08:22:33.637Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2643,6 +2643,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 | 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                           |
 | 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?      |
 | 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?             |
+| 16/10/2026 | [Dev Blog #17]: How Do Chems & Consumables Work in Fallout: Wasteland Warfare? |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2660,6 +2661,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #14]: https://modiphius.net/blogs/news/dev-blog-14-what-is-battle-mode
 [Dev Blog #15]: https://modiphius.net/blogs/news/dev-blog-15-how-does-the-campaign-work-in-fallout-wasteland-warfare
 [Dev Blog #16]: https://modiphius.net/blogs/news/dev-diary-16-how-does-armor-work-in-fallout-wasteland-warfare
+[Dev Blog #17]: https://modiphius.net/blogs/news/dev-blog-17-how-do-chems-and-consumables-work-in-fallout-wasteland-warfare
 
 ## Items
 
