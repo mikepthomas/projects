@@ -278,6 +278,13 @@
             "title": "VCO Installed"
           }
         },
+        "fallout-wasteland-warfare": {
+          "fallout-wasteland-warfare-hero.jpg": {
+            "alt": "Fallout: Wasteland Warefare with the Roleplaying Game expansion",
+            "caption": "",
+            "title": "Fallout Wasteland Warfare Hero"
+          }
+        },
         "guitar": {
           "01-sourcing-parts.jpg": {
             "alt": "Sourcing Main Components",
@@ -1742,10 +1749,6 @@
           }
         },
         "red-rocket": {
-          "fallout-wasteland-warefare.jpg": {
-            "alt": "Fallout: Wasteland Warefare with the Roleplaying Game expansion",
-            "title": "Fallout: Wasteland Warefare"
-          },
           "floor.jpg": {
             "alt": "Red Rocket Floor",
             "title": "Floor"
@@ -1836,6 +1839,13 @@
           "solar-wifi-weather-station-hero.jpg": {
             "alt": "Some PCBs and sensors for the weather station",
             "title": "Solar Wifi Weather Station Hero"
+          }
+        },
+        "terrain": {
+          "terrain-hero.jpg": {
+            "alt": "MDF Terrain for Fallout Wasteland Warfare",
+            "caption": "",
+            "title": "Terrain Hero"
           }
         },
         "thinkcenter": {

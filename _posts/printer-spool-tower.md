@@ -8,8 +8,8 @@ description: Using Digital Taxidermy's Spool Tower creations to re-use empty Fil
 preview: /assets/blog/printer-filament/filament-hero.jpg
 slug: /projects/printer-spool-tower
 related:
-  - /projects/fallout-wasteland-warfare
   - /projects/printer-filament
+  - /projects/terrain
 draft: false
 tags:
   - Anet A8
@@ -23,6 +23,7 @@ keywords:
   - Digital Taxidermy
   - Filament
   - Roleplaying
+  - Terrain
 ---
 
 # Table of contents

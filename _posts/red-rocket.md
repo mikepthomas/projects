@@ -7,6 +7,8 @@ author: Mike Thomas
 description: How I built the Red Rocket Truck Stop from Fallout 4.
 preview: /assets/blog/red-rocket/red-rocket-hero.jpg
 slug: /projects/red-rocket
+related:
+  - /projects/terrain
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -15,6 +17,7 @@ categories:
   - 3D Printing
 keywords:
   - Red Rocket
+  - Terrain
 promoted: true
 ---
 

@@ -7,6 +7,8 @@ author: Mike Thomas
 description: Building a House in Sanctuary Hills for the Sole Survivor.
 preview: /assets/blog/sanctuary-hills/sanctuary-hills-house-hero.jpg
 slug: /projects/sanctuary-hills
+related:
+  - /projects/terrain
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -15,6 +17,7 @@ categories:
   - 3D Printing
 keywords:
   - Sanctuary
+  - Terrain
 ---
 
 > Image © 2020 [Modiphius Entertainment](https://www.modiphius.net)

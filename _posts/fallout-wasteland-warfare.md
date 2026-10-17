@@ -12,11 +12,7 @@ preview: /assets/blog/fallout-wasteland-warfare/fallout-wasteland-warfare-hero.j
 slug: /projects/fallout-wasteland-warfare
 related:
   - /projects/miniatures
-  - /projects/brotherhood-of-steel
-  - /projects/nuka-world
-  - /projects/red-rocket
-  - /projects/sanctuary-hills
-  - /projects/vault
+  - /projects/terrain
 external:
   - https://www.falloutwastelandwarfare.wiki
 draft: false
@@ -587,25 +583,6 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
-#### Raid the Crash Site
-
-This scenario was designed for using the `Crashed Vertibird`.
-
-![Crashed Vertibird](https://i.shgcdn.com/8700bca4-6717-4f2c-b286-77c32d6d5582/)
-
-> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes                                                                      |
-| --------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------------- |
-| ~[AltWing][Crashed Vertibird STL]~      |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Engine][Crashed Vertibird STL]~       |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[NonHandedFin][Crashed Vertibird STL]~ |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Prop][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[REVISEDMain][Crashed Vertibird STL]~  |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Rubble][Crashed Vertibird STL]~       |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Tail][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Wing][Crashed Vertibird STL]~         |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-
 ### Settlement Mode
 
 [Fallout: Wasteland Warfare - Settlement Mode Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd2D4Xy2ec74QOijAoBNm8nj)
@@ -979,39 +956,6 @@ I will use this to create my own version of [Sanctuary Hills](sanctuary-hills) f
 [Vestiges Resurgent 1]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf
 [Vestiges Resurgent 2]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf
 [Vestiges Resurgent 3]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf
-
-#### Automaton Assembly
-
-This scenario was designed for using the `Robot Work Bench`.
-
-![Robot Work Bench](https://modiphius.net/cdn/shop/products/RobotWorkbench_RGB-150dpi_1_1280x.jpg)
-
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [BackBase][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [ChainShaft][Robot Work Bench STL]    |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [HydraulicLift][Robot Work Bench STL] |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [MAINPAD][Robot Work Bench STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingLEFT][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingRIGHT][Robot Work Bench STL]     |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RobotArm][Robot Work Bench STL]      |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Workstation][Robot Work Bench STL]   |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-
-#### The Zetan Incident
-
-This scenario was designed for using the `Crashed UFO`.
-
-![Crashed UFO](https://modiphius.net/cdn/shop/products/CrashedUFO_RGB-150dpi_1_1280x.jpg)
-
-> Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
-
-| Item                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ----------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [Body][Crashed UFO STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Fin][Crashed UFO STL]  |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Tail][Crashed UFO STL] |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
 
 ## Wave 5 - New Vegas Expansion
 

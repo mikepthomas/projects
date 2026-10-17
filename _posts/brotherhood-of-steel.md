@@ -2,10 +2,13 @@
 title: Brotherhood of Steel Encampment
 heading: 3D Printing the Brotherhood of Steel Encampment
 date: 2026-04-14
+lastmod: 2026-07-16T10:48:16.643Z
 author: Mike Thomas
 description: 3D Printing the Brotherhood of Steel Encampment for Fallout Wasteland Warfare.
 preview: /assets/blog/brotherhood-of-steel/brotherhood-of-steel-hero.jpg
 slug: /projects/brotherhood-of-steel
+related:
+  - /projects/terrain
 draft: false
 tags:
   - Fallout Wasteland Warfare
@@ -15,7 +18,7 @@ categories:
   - Wargaming
 keywords:
   - Brotherhood of Steel
-lastmod: 2026-07-16T10:48:16.643Z
+  - Terrain
 ---
 
 > Image © 2022 [Modiphius Entertainment](https://modiphius.net)
@@ -290,6 +293,31 @@ Although the `Print at Home` terrain is designed to be printed on a Resin printe
 ![Brotherhood of Steel Encampment Jeep Rear](https://modiphius.net/cdn/shop/products/fallout-wasteland-warfare-print-at-home-brotherhood-of-steel-encampment-stl-fallout-wasteland-warfare-modiphius-entertainment-815158_1280x.jpg)
 
 > Image © 2022 [Modiphius Entertainment](https://www.modiphius.net)
+
+## Crashed Vertibird
+
+The `Crashed Vertibird` can be used in the following scenarios:
+
+- Paladin Danse's Vertibird Stand-Off
+- Raid the Crash Site
+
+![Crashed Vertibird](https://i.shgcdn.com/8700bca4-6717-4f2c-b286-77c32d6d5582/)
+
+> Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
+
+| Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes                                                                      |
+| --------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------------- |
+| ~[AltWing][Crashed Vertibird STL]~      |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Engine][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[NonHandedFin][Crashed Vertibird STL]~ |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Prop][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[REVISEDMain][Crashed Vertibird STL]~  |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Rubble][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Tail][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| ~[Wing][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+
+[Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird
+[Crashed Vertibird STL]: https://www.myminifactory.com/object/3d-print-crashed-vertibird-terrain-expansion-fallout-wasteland-warfare-141472
 
 ## Parked Vertibird
 
