@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-17T08:22:33.637Z
+lastmod: 2026-10-17T10:50:55.782Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2309,10 +2309,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Map Pack
 
-| Item                            | Purchased | Digital                     |     Downloaded     | Released       | Notes |
-| ------------------------------- | :-------: | --------------------------- | :----------------: | -------------- | ----- |
-| [Map Pack 1: Vault]             |    :x:    | [Buy :pdf:][Map Pack 1 PDF] | :heavy_check_mark: | September 2023 |
-| [Map Pack 2: Wasteland Locales] |    :x:    | [Buy :pdf:][Map Pack 2 PDF] | :heavy_check_mark: | [May 2024]     |
+| Item                            |     Purchased      | Digital                     |     Downloaded     | Released       | Notes |
+| ------------------------------- | :----------------: | --------------------------- | :----------------: | -------------- | ----- |
+| [Map Pack 1: Vault]             |        :x:         | [Buy :pdf:][Map Pack 1 PDF] | :heavy_check_mark: | September 2023 |
+| [Map Pack 2: Wasteland Locales] | :heavy_check_mark: | [Buy :pdf:][Map Pack 2 PDF] | :heavy_check_mark: | [May 2024]     |
 
 [Map Pack 1: Vault]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault
 [Map Pack 1 PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-map-pack-1-vault-pdf
