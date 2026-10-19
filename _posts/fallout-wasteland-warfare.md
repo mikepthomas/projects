@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-17T10:50:55.782Z
+lastmod: 2026-10-19T18:02:56.154Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2147,16 +2147,16 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Items
 
-| Item                           |     Purchased      | Digital                               |     Downloaded     | Released                             | Notes                                                              |
-| ------------------------------ | :----------------: | ------------------------------------- | :----------------: | ------------------------------------ | ------------------------------------------------------------------ |
+| Item                           |     Purchased      | Digital                               |     Downloaded     | Released                             | Notes                                                                                  |
+| ------------------------------ | :----------------: | ------------------------------------- | :----------------: | ------------------------------------ | -------------------------------------------------------------------------------------- |
 | [Core Rulebook]                | :heavy_check_mark: | [Buy :pdf:][Core Rulebook PDF]        | :heavy_check_mark: | [September 2021][YT September 2021]  |
 | [G.E.C.K. Special Edition Box] | :heavy_check_mark: |                                       |                    | September 2021                       |
-| ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | [September 2021][YT September 2021]  | Included in `G.E.C.K. Special Edition Box`                         |
-| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | [September 2021][YT September 2021]  | Included in `G.E.C.K. Special Edition Box`                         |
+| ┝ [Dice Set]                   | :heavy_check_mark: |                                       |                    | [September 2021][YT September 2021]  | Included in `G.E.C.K. Special Edition Box`                                             |
+| ┕ [Gamemaster's Toolkit]       | :heavy_check_mark: | [Buy :pdf:][Gamemaster's Toolkit PDF] | :heavy_check_mark: | [September 2021][YT September 2021]  | Included in `G.E.C.K. Special Edition Box`                                             |
 | [GM Screen + Booklet]          | :heavy_check_mark: | [Buy :pdf:][GM Screen PDF]            | :heavy_check_mark: | August 2023                          |
 | [Perk Cards 1]                 | :heavy_check_mark: |                                       |                    | [May 2022]                           |
-| [Perk Cards 2]                 | :heavy_check_mark: |                                       |                    | [April 2026]                         | Contains perks in the [Settler's Guide] and the [Wanderer's Guide] |
-| Quickstart Guide               |                    | [Free :pdf:][Quickstart Guide]        | :heavy_check_mark: | June 2022                            |
+| [Perk Cards 2]                 | :heavy_check_mark: |                                       |                    | [April 2026]                         | Contains perks in the [Settler's Guide] and the [Wanderer's Guide]                     |
+| Quickstart Guide               | :heavy_check_mark: | [Free :pdf:][Quickstart Guide]        | :heavy_check_mark: | June 2022                            | Physical version was available as part of [Free RPG Day 2025](https://freerpgday.com/) |
 | [Starter Set]                  | :heavy_check_mark: | [Buy :pdf:][Starter Set PDF]          | :heavy_check_mark: | [August 2022][2d20 Out of the Vault] |
 
 [Core Rulebook]: https://modiphius.net/products/falloutrpg_core-rulebook
