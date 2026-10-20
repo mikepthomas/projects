@@ -305,16 +305,16 @@ The `Crashed Vertibird` can be used in the following scenarios:
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes                                                                      |
-| --------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------------- |
-| ~[AltWing][Crashed Vertibird STL]~      |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Engine][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[NonHandedFin][Crashed Vertibird STL]~ |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Prop][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[REVISEDMain][Crashed Vertibird STL]~  |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Rubble][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Tail][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
-| ~[Wing][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin Printed set][Crashed Vertibird] |
+| Item                                    | Quantity | Material              | Time | Size | Weight | Cost | Printed | Notes                                                              |
+| --------------------------------------- | -------: | --------------------- | ---: | ---: | -----: | ---: | :-----: | ------------------------------------------------------------------ |
+| ~[AltWing][Crashed Vertibird STL]~      |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[Engine][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[NonHandedFin][Crashed Vertibird STL]~ |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[Prop][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[REVISEDMain][Crashed Vertibird STL]~  |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[Rubble][Crashed Vertibird STL]~       |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[Tail][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
+| ~[Wing][Crashed Vertibird STL]~         |      ~1~ | [Tinmorry PLA (Grey)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Crashed Vertibird] |
 
 [Crashed Vertibird]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-vertibird
 [Crashed Vertibird STL]: https://www.myminifactory.com/object/3d-print-crashed-vertibird-terrain-expansion-fallout-wasteland-warfare-141472

@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-19T18:02:56.154Z
+lastmod: 2026-10-20T11:36:38.415Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -909,10 +909,10 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item               | Purchased | Digital                           |     Downloaded     | Released                          | Notes |
-| ------------------ | :-------: | --------------------------------- | :----------------: | --------------------------------- | ----- |
-| [Crashed UFO]      |    :x:    | [Buy :zip:][Crashed UFO STL]      | :heavy_check_mark: | [March 2021][YT March 2021]       |
-| [Robot Work Bench] |    :x:    | [Buy :zip:][Robot Work Bench STL] | :heavy_check_mark: | [February 2021][YT February 2021] |
+| Item               |     Purchased      | Digital                           |     Downloaded     | Released                          | Notes |
+| ------------------ | :----------------: | --------------------------------- | :----------------: | --------------------------------- | ----- |
+| [Crashed UFO]      |        :x:         | [Buy :zip:][Crashed UFO STL]      | :heavy_check_mark: | [March 2021][YT March 2021]       |
+| [Robot Work Bench] | :heavy_check_mark: | [Buy :zip:][Robot Work Bench STL] | :heavy_check_mark: | [February 2021][YT February 2021] |
 
 [Crashed UFO]: https://modiphius.net/products/fallout-wasteland-warfare-crashed-ufo
 [Crashed UFO STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-crashed-ufo-stl

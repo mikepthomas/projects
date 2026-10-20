@@ -2,6 +2,7 @@
 title: Fallout Terrain
 heading: Building up a collection of Terrain for Fallout Wasteland Warfare
 date: 2026-10-15T11:29:24.271Z
+lastmod: 2026-10-20T11:38:48.165Z
 author: Mike Thomas
 description: List of 3rd party and Official Modiphius Terrain for playing Fallout Wasteland Warfare.
 preview: /assets/blog/terrain/terrain-hero.jpg
@@ -80,17 +81,18 @@ The `Robot Work Bench` can be used in the following scenarios:
 
 > Image © 2021 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [BackBase][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [ChainShaft][Robot Work Bench STL]    |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [HydraulicLift][Robot Work Bench STL] |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [MAINPAD][Robot Work Bench STL]       |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingLEFT][Robot Work Bench STL]      |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RingRIGHT][Robot Work Bench STL]     |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [RobotArm][Robot Work Bench STL]      |        2 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
-| [Workstation][Robot Work Bench STL]   |        1 | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   |
+| Item                                    | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes                                                             |
+| --------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----------------------------------------------------------------- |
+| ~[BackBase][Robot Work Bench STL]~      |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[ChainShaft][Robot Work Bench STL]~    |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[HydraulicLift][Robot Work Bench STL]~ |      ~2~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[MAINPAD][Robot Work Bench STL]~       |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[RingLEFT][Robot Work Bench STL]~      |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[RingRIGHT][Robot Work Bench STL]~     |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[RobotArm][Robot Work Bench STL]~      |      ~2~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
+| ~[Workstation][Robot Work Bench STL]~   |      ~1~ | [eSun ABS+ (Silver)] |      |      |        |      |   :x:   | Not required as I have the official [Resin set][Robot Work Bench] |
 
+[Robot Work Bench]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench
 [Robot Work Bench STL]: https://modiphius.net/products/fallout-wasteland-warfare-terrain-expansion-robot-workbench-stl
 
 # Sarissa Precision
