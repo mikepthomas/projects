@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-20T11:36:38.415Z
+lastmod: 2026-10-20T22:13:07.092Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -315,8 +315,8 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | SCP-003-111: Quest for Knowledge         |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                                       |
 | SCP-004-111: Radio Tower Takeover        |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
 | SCP-005-111: Flip's Revenge              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
-| SCP-006-111: Sanctuary Hills Sweep       | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
-| SCP-007-111: Psychotrip                  |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
+| SCP-006-111: Sanctuary Hills Sweep       | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
+| SCP-007-111: Psychotrip                  |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
 | SCP-008-111: The Jury Street Colossus    |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
 | SCP-009-111: Midwest Encounter           |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
 | SCP-010-111: Benny's Request             |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
@@ -670,10 +670,10 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 
 #### Brotherhood of Steel
 
-| Item                                                 | Purchased | Digital | Downloaded | Released       | Notes |
-| ---------------------------------------------------- | :-------: | ------- | :--------: | -------------- | ----- |
-| [Brotherhood of Steel: Elder Maxson & Captain Kells] |    :x:    |         |            | September 2020 |
-| [Brotherhood of Steel: Order of the Shield]          |    :x:    |         |            | September 2020 |
+| Item                                                 |     Purchased      | Digital | Downloaded | Released       | Notes |
+| ---------------------------------------------------- | :----------------: | ------- | :--------: | -------------- | ----- |
+| [Brotherhood of Steel: Elder Maxson & Captain Kells] | :heavy_check_mark: |         |            | September 2020 |
+| [Brotherhood of Steel: Order of the Shield]          | :heavy_check_mark: |         |            | September 2020 |
 
 [Brotherhood of Steel: Elder Maxson & Captain Kells]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-elder-maxson-and-captain-kells
 [Brotherhood of Steel: Order of the Shield]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-order-of-the-shield
@@ -867,13 +867,13 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 [The Mirelurk Bundle](https://modiphius.net/products/fallout-wasteland-warfare-wasteland-creatures-mirelurk-bundle) includes the following sets:
 
-| Item                                    | Purchased | Digital | Downloaded | Released                              | Notes                                            |
-| --------------------------------------- | :-------: | ------- | :--------: | ------------------------------------- | ------------------------------------------------ |
-| [Creatures: Fog Crawler]                |    :x:    |         |            | September 2020                        | [Legendary (Shipbreaker)][Into the Wasteland]    |
-| [Creatures: Mirelurks]                  |    :x:    |         |            | September 2020                        |                                                  |
-| [Creatures: Mirelurk Hatchlings & Eggs] |    :x:    |         |            | September 2020                        |                                                  |
-| [Creatures: Mirelurk Hunters]           |    :x:    |         |            | September 2020                        |                                                  |
-| [Creatures: Mirelurk Queen]             |    :x:    |         |            | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
+| Item                                    |     Purchased      | Digital | Downloaded | Released                              | Notes                                            |
+| --------------------------------------- | :----------------: | ------- | :--------: | ------------------------------------- | ------------------------------------------------ |
+| [Creatures: Fog Crawler]                | :heavy_check_mark: |         |            | September 2020                        | [Legendary (Shipbreaker)][Into the Wasteland]    |
+| [Creatures: Mirelurks]                  |        :x:         |         |            | September 2020                        |                                                  |
+| [Creatures: Mirelurk Hatchlings & Eggs] |        :x:         |         |            | September 2020                        |                                                  |
+| [Creatures: Mirelurk Hunters]           |        :x:         |         |            | September 2020                        |                                                  |
+| [Creatures: Mirelurk Queen]             |        :x:         |         |            | [September 2020][DEVELOPMENT BLOG #7] | [Legendary (Nukalurk Queen)][Into the Wasteland] |
 
 [Creatures: Fog Crawler]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-fog-crawler
 [Creatures: Mirelurks]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-mirelurk
@@ -1879,7 +1879,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | Item                         |     Purchased      | Digital                                                 |     Downloaded     | Released        | Notes                                  |
 | ---------------------------- | :----------------: | ------------------------------------------------------- | :----------------: | --------------- | -------------------------------------- |
 | [Hollywood Heroes]           | :heavy_check_mark: | [Assembly Guide :pdf:][Hollywood Heroes Assembly Guide] | :heavy_check_mark: | [March 2024]    | [Roleplaying Game NPC Pack](#npc-pack) |
-| [Hollywood Heroes (PVC Set)] |        :x:         |                                                         |                    | November 2025   | [Roleplaying Game NPC Pack](#npc-pack) |
+| [Hollywood Heroes (PVC Set)] | :heavy_check_mark: |                                                         |                    | November 2025   | [Roleplaying Game NPC Pack](#npc-pack) |
 | [Hollywood Icons]            | :heavy_check_mark: | [Assembly Guide :pdf:][Hollywood Icons Assembly Guide]  | :heavy_check_mark: | [November 2025] |
 
 [Hollywood Heroes]: https://modiphius.net/products/fallout-the-series-miniatures-set
