@@ -138,12 +138,30 @@ The `Robot Work Bench` can be used in the following scenarios:
 [Subway Entrance]: https://ttcombat.com/products/subway-entrance
 [Subway Entrance Assembly Guide]: https://cdn.shopify.com/s/files/1/0965/1274/files/DCS027_Subway_EntranceINST.pdf
 
+### Ruined Motel
+
+[How to Spice Up MDF Terrain for Fallout: Wasteland Warfare Video](https://www.youtube-nocookie.com/embed/_wMzbYXLUNc)
+
+> Video © 2023 [Crimson Oracle](https://www.youtube.com/@crimson_oracle)
+
 ## Resin
 
 | Item                    | Purchased | Digital | Downloaded | Released | Notes |
 | ----------------------- | :-------: | ------- | :--------: | -------- | ----- |
+| [Bathroom Accessories]  |    :x:    |         |            |          |
+| [Bedroom Accessories]   |    :x:    |         |            |          |
+| [Kitchen Accessories]   |    :x:    |         |            |          |
+| [Lounge Accessories]    |    :x:    |         |            |          |
+| [Sandbags]              |    :x:    |         |            |          |
 | [Scrapyard Accessories] |    :x:    |         |            |          |
+| [Vending Machines]      |    :x:    |         |            |          |
 
+[Bathroom Accessories]: https://ttcombat.com/products/wasteland-bathroom-accessories
+[Bedroom Accessories]: https://ttcombat.com/products/bedroom-accessories
+[Kitchen Accessories]: https://ttcombat.com/products/kitchen-accessories
+[Lounge Accessories]: https://ttcombat.com/products/lounge-accessories
+[Sandbags]: https://ttcombat.com/products/sandbags
 [Scrapyard Accessories]: https://ttcombat.com/products/scrapyard-accessories
+[Vending Machines]: https://ttcombat.com/products/vending-machines-1
 [Filament]: #
 [eSun ABS+ (Silver)]: printer-filament#esun-abs-silver
