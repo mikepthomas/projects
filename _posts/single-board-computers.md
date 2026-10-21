@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2026-10-04T09:57:29.452Z
+lastmod: 2026-10-19T12:36:52.360Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -1607,10 +1607,10 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi CM3+ rev 1.0
 
-| Item                      | Revision | RAM | Case                                                                                             | Power Supply | Storage   | OS                                  | Hostname | Notes                                                       |
-| ------------------------- | -------- | --- | ------------------------------------------------------------------------------------------------ | ------------ | --------- | ----------------------------------- | -------- | ----------------------------------------------------------- |
-| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB | [Compute Module I/O Board V3.0](https://www.raspberrypi.com/products/compute-module-io-board-v3) |              | 32GB eMMC | Raspberry Pi OS (64-bit) - Bookworm |          | With CMIO-DISPLAY V1.1 Adapter and CMIO-CAMERA V1.1 Adapter |
-| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB |                                                                                                  |              |           |                                     |          |
+| Item                      | Revision | RAM | Case | Power Supply | Storage   | OS                                  | Hostname | Notes |
+| ------------------------- | -------- | --- | ---- | ------------ | --------- | ----------------------------------- | -------- | ----- |
+| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB |      |              | 32GB eMMC | Raspberry Pi OS (64-bit) - Bookworm |          |
+| Raspberry Pi CM3+ rev 1.0 | a02100   | 1GB |      |              |           |                                     |          |
 
 #### Pinout
 
@@ -1739,6 +1739,12 @@ GPIO28-45 VREF  (41) (42)  GPIO28-45 VREF
 
 For further information, please refer to https://pinout.xyz/
 ```
+
+### Raspberry Pi CM4S
+
+| Item                 | Revision | RAM | Case                                                                                             | Power Supply | Storage   | OS                                | Hostname | Notes                                                       |
+| -------------------- | -------- | --- | ------------------------------------------------------------------------------------------------ | ------------ | --------- | --------------------------------- | -------- | ----------------------------------------------------------- |
+| Raspberry Pi CM4S R2 | a03150   | 1GB | [Compute Module I/O Board V3.0](https://www.raspberrypi.com/products/compute-module-io-board-v3) |              | 16GB eMMC | Raspberry Pi OS (64-bit) - Trixie |          | With CMIO-DISPLAY V1.1 Adapter and CMIO-CAMERA V1.1 Adapter |
 
 ### Raspberry Pi CM4 rev 1.0
 
