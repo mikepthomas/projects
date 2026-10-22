@@ -2,7 +2,7 @@
 title: Fallout Terrain
 heading: Building up a collection of Terrain for Fallout Wasteland Warfare
 date: 2026-10-15T11:29:24.271Z
-lastmod: 2026-10-20T11:38:48.165Z
+lastmod: 2026-10-22T16:26:28.302Z
 author: Mike Thomas
 description: List of 3rd party and Official Modiphius Terrain for playing Fallout Wasteland Warfare.
 preview: /assets/blog/terrain/terrain-hero.jpg
@@ -146,15 +146,15 @@ The `Robot Work Bench` can be used in the following scenarios:
 
 ## Resin
 
-| Item                    | Purchased | Digital | Downloaded | Released | Notes |
-| ----------------------- | :-------: | ------- | :--------: | -------- | ----- |
-| [Bathroom Accessories]  |    :x:    |         |            |          |
-| [Bedroom Accessories]   |    :x:    |         |            |          |
-| [Kitchen Accessories]   |    :x:    |         |            |          |
-| [Lounge Accessories]    |    :x:    |         |            |          |
-| [Sandbags]              |    :x:    |         |            |          |
-| [Scrapyard Accessories] |    :x:    |         |            |          |
-| [Vending Machines]      |    :x:    |         |            |          |
+| Item                    |     Purchased      | Digital | Downloaded | Released | Notes |
+| ----------------------- | :----------------: | ------- | :--------: | -------- | ----- |
+| [Bathroom Accessories]  | :heavy_check_mark: |         |            |          |
+| [Bedroom Accessories]   | :heavy_check_mark: |         |            |          |
+| [Kitchen Accessories]   | :heavy_check_mark: |         |            |          |
+| [Lounge Accessories]    | :heavy_check_mark: |         |            |          |
+| [Sandbags]              |        :x:         |         |            |          |
+| [Scrapyard Accessories] |        :x:         |         |            |          |
+| [Vending Machines]      |        :x:         |         |            |          |
 
 [Bathroom Accessories]: https://ttcombat.com/products/wasteland-bathroom-accessories
 [Bedroom Accessories]: https://ttcombat.com/products/bedroom-accessories
