@@ -2569,25 +2569,26 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Development
 
-| Date       | Blog                                                                           |
-| ---------- | ------------------------------------------------------------------------------ |
-| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                                              |
-| 02/04/2026 | [Dev Blog #2]: Ways To Play                                                    |
-| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                                           |
-| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?                                 |
-| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                                      |
-| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                                      |
-| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?                                   |
-| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?                         |
-| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition?                       |
-| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                          |
-| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                              |
-| 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare? |
-| 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                         |
-| 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                           |
-| 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?      |
-| 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?             |
-| 16/10/2026 | [Dev Blog #17]: How Do Chems & Consumables Work in Fallout: Wasteland Warfare? |
+| Date       | Blog                                                                            |
+| ---------- | ------------------------------------------------------------------------------- |
+| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                                               |
+| 02/04/2026 | [Dev Blog #2]: Ways To Play                                                     |
+| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                                            |
+| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?                                  |
+| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                                       |
+| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                                       |
+| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?                                    |
+| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?                          |
+| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition?                        |
+| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                           |
+| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                               |
+| 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare?  |
+| 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                          |
+| 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                            |
+| 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?       |
+| 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?              |
+| 16/10/2026 | [Dev Blog #17]: How Do Chems & Consumables Work in Fallout: Wasteland Warfare?  |
+| 23/10/2026 | [Dev Blog #18]: Model Profiles in the New Edition of Fallout: Wasteland Warfare |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2606,6 +2607,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #15]: https://modiphius.net/blogs/news/dev-blog-15-how-does-the-campaign-work-in-fallout-wasteland-warfare
 [Dev Blog #16]: https://modiphius.net/blogs/news/dev-diary-16-how-does-armor-work-in-fallout-wasteland-warfare
 [Dev Blog #17]: https://modiphius.net/blogs/news/dev-blog-17-how-do-chems-and-consumables-work-in-fallout-wasteland-warfare
+[Dev Blog #18]: https://modiphius.net/blogs/news/dev-blog-18-model-profiles-in-the-new-edition-of-fallout-wasteland-warfare
 
 ## Items
 
