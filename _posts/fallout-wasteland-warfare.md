@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-20T22:13:07.092Z
+lastmod: 2026-10-23T14:21:16.096Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -319,7 +319,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | SCP-007-111: Psychotrip                  | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
 | SCP-008-111: The Jury Street Colossus    |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
 | SCP-009-111: Midwest Encounter           |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
-| SCP-010-111: Benny's Request             |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
+| SCP-010-111: Benny's Request             | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
 | SCP-011-111: Atomic Sprint!              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Suiciders]                                  |
 
 ##### Big John’s Salvage Showdown
@@ -1207,12 +1207,12 @@ Wave 6 introduces new factions, the `Children of Atom`, `Gunners` and the `Railr
 
 #### Creatures
 
-| Item                                 | Purchased | Digital | Downloaded | Released         | Notes                                                   |
-| ------------------------------------ | :-------: | ------- | :--------: | ---------------- | ------------------------------------------------------- |
-| [Creatures: Brahmin Herd]            |    :x:    |         |            | [September 2022] |
-| [Creatures: Deathclaw Matriarch]     |    :x:    |         |            | [August 2022]    | Legendary                                               |
-| [Creatures: Mongrel Scavenging Pack] |    :x:    |         |            | [September 2022] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
-| [Creatures: Yao Guai Ambush]         |    :x:    |         |            | [August 2022]    |
+| Item                                 |     Purchased      | Digital | Downloaded | Released         | Notes                                                   |
+| ------------------------------------ | :----------------: | ------- | :--------: | ---------------- | ------------------------------------------------------- |
+| [Creatures: Brahmin Herd]            |        :x:         |         |            | [September 2022] |
+| [Creatures: Deathclaw Matriarch]     |        :x:         |         |            | [August 2022]    | Legendary                                               |
+| [Creatures: Mongrel Scavenging Pack] | :heavy_check_mark: |         |            | [September 2022] | [Legendary (Alpha Glowing Mongrel)][Into the Wasteland] |
+| [Creatures: Yao Guai Ambush]         |        :x:         |         |            | [August 2022]    |
 
 [Creatures: Brahmin Herd]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-brahmin-herd
 [Creatures: Deathclaw Matriarch]: https://modiphius.net/products/fallout-wasteland-warfare-creatures-deathclaw-matriarch
