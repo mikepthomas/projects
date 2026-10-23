@@ -2291,6 +2291,18 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Winter of Atom]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-book
 [Winter of Atom PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-winter-of-atom-pdf
 
+#### Winter of Atom
+
+[Fallout: The Roleplaying Game - Winter of Atom Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLmSnKSORKwb_KdY6V-yIRhrb9j7T1udSf)
+
+> Videos © 2023 [Modiphius Live](https://www.youtube.com/@ModiphiusLive)
+
+#### Royal Flush
+
+[Fallout - Sidetracked by Sidequests Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLmSnKSORKwb_RWMYj1XGHm0SLS56nL_4-)
+
+> Videos © 2025 [Modiphius Live](https://www.youtube.com/@ModiphiusLive)
+
 ### Setting Guide
 
 | Item                      | Purchased | Digital                                  | Downloaded | Released      | Notes |
