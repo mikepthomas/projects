@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-23T14:21:16.096Z
+lastmod: 2026-10-23T22:58:39.118Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2554,6 +2554,23 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 | Character Sheet |           | [Free :pdf:][Character Sheet] | :heavy_check_mark: |          |
 
 [Character Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c288b605-212d-4d61-a814-c739e634ff2e/Fallout-2d20_Solo-RPG-Wasteland-Wanderer-Appendix-4-fillable-forms.pdf
+
+# Fallout: Power Play
+
+`Fallout: Power Play` is a game where you choose a classic Faction and see if you can dominate the Wasteland!
+
+[How to Play Fallout: Power Play Video](https://www.youtube-nocookie.com/embed/28-lB8oKLkE)
+
+> Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
+
+| Item                     | Purchased | Digital                         | Downloaded | Released      | Notes |
+| ------------------------ | :-------: | ------------------------------- | :--------: | ------------- | ----- |
+| [Power Play]             |    :x:    | [Rules :pdf:][Power Play Rules] |    :x:     | November 2025 |
+| Power Play Errata (v1.0) |           | [Free :pdf:][Power Play Errata] |    :x:     | November 2025 |
+
+[Power Play]: https://modiphius.net/products/fallout-power-play
+[Power Play Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Power_Play_Card_Game_Rules.pdf
+[Power Play Errata]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/f85b6e0a-cd84-4087-bf17-ca36b72dc2f7/Fallout-Power-Play-FAQ-Errata-Document-v1-0.pdf
 
 # Fallout: Wasteland Warfare (Second Edition)
 
