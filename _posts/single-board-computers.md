@@ -2,7 +2,7 @@
 title: Single Board Computers
 heading: Single Board Computers and Microcontrollers
 date: 2023-06-26
-lastmod: 2026-10-19T12:36:52.360Z
+lastmod: 2026-10-24T11:31:32.083Z
 author: Mike Thomas
 description: This page lists all of the single board computers I own and is mainly for me to keep track of what I have and what I am currently using it for.
 preview: /assets/blog/single-board-computers/single-board-computers-hero.jpg
@@ -690,9 +690,10 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi 3A+ rev 1.0
 
-| Item                     | Revision | RAM   | Case               | Power Supply | Storage                 | OS           | Hostname | Notes |
-| ------------------------ | -------- | ----- | ------------------ | ------------ | ----------------------- | ------------ | -------- | ----- |
-| Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [AM8](printer-am8) |              | 64GB MicroSD (Integral) | [MainsailOS] | am8      | Boxed |
+| Item                     | Revision | RAM   | Case                            | Power Supply | Storage | OS  | Hostname | Notes |
+| ------------------------ | -------- | ----- | ------------------------------- | ------------ | ------- | --- | -------- | ----- |
+| Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [Official Raspberry Pi A+ Case] |              |         |     |          | Boxed |
+| Raspberry Pi 3A+ rev 1.0 | 9020e0   | 512MB | [Official Raspberry Pi A+ Case] |              |         |     |          | Boxed |
 
 #### Pinout
 
@@ -754,14 +755,14 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi 3B rev 1.2
 
-| Item                    | Revision | RAM | Case                                | Power Supply                               | Storage                      | OS                                                       | Hostname | Notes                                                                                     |
-| ----------------------- | -------- | --- | ----------------------------------- | ------------------------------------------ | ---------------------------- | -------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------- |
-| Raspberry Pi 3B rev 1.2 | a02082   | 1GB | [CanaKit Raspberry Pi Case (Black)] | iTrunk Raspberry Pi 3 Model B Power Supply | 32GB MicroSD (Sandisk Ultra) | Raspberry Pi OS with desktop (Legacy, 32-bit) - Bullseye | white    | Broken Wifi and Bluetooth                                                                 |
+| Item                    | Revision | RAM | Case                                | Power Supply                               | Storage                      | OS                                                       | Hostname | Notes                                                              |
+| ----------------------- | -------- | --- | ----------------------------------- | ------------------------------------------ | ---------------------------- | -------------------------------------------------------- | -------- | ------------------------------------------------------------------ |
+| Raspberry Pi 3B rev 1.2 | a02082   | 1GB | [CanaKit Raspberry Pi Case (Black)] | iTrunk Raspberry Pi 3 Model B Power Supply | 32GB MicroSD (Sandisk Ultra) | Raspberry Pi OS with desktop (Legacy, 32-bit) - Bullseye | white    | Broken Wifi and Bluetooth                                          |
 | Raspberry Pi 3B rev 1.2 | a02082   | 1GB | Waveshare Touch Screen Case         |                                            | 32GB MicroSD (Sandisk Ultra) |                                                          |          |
 | Raspberry Pi 3B rev 1.2 | a02082   | 1GB | [Flirc Aluminium Pi 3 Case]         | Element 14 Universal Power Supply (White)  | 32GB MicroSD (Sandisk Ultra) |                                                          |          |
 | Raspberry Pi 3B rev 1.2 | a02082   | 1GB | [Flirc Aluminium Pi 3 Case]         | Element 14 Universal Power Supply (White)  | 32GB MicroSD (Sandisk Ultra) |                                                          |          |
-| Raspberry Pi 3B rev 1.2 | a22082   | 1GB | [Sense Hat Case]                    | Element 14 Universal Power Supply (Black)  | 32GB MicroSD (Sandisk Ultra) |                                                          |          | With [Sense Hat](https://www.raspberrypi.com/documentation/accessories/sense-hat.html) V1 |
-| Raspberry Pi 3B rev 1.2 | a22082   | 1GB | [Cluster Hat Case]                  |                                            |                              |                                                          |          | With [8086.net Cluster Hat] v2.5 and [8086.net CDC Serial Adapter]                        |
+| Raspberry Pi 3B rev 1.2 | a22082   | 1GB | [Sense Hat Case]                    | Element 14 Universal Power Supply (Black)  | 32GB MicroSD (Sandisk Ultra) |                                                          |          | With [Sense Hat] V1                                                |
+| Raspberry Pi 3B rev 1.2 | a22082   | 1GB | [Cluster Hat Case]                  |                                            |                              |                                                          |          | With [8086.net Cluster Hat] v2.5 and [8086.net CDC Serial Adapter] |
 
 #### Pinout
 
@@ -897,9 +898,9 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi 400 rev 1.0
 
-| Item                     | Revision | RAM | Case | Power Supply                                   | Storage                     | OS                                               | Hostname | Notes                                   |
-| ------------------------ | -------- | --- | ---- | ---------------------------------------------- | --------------------------- | ------------------------------------------------ | -------- | --------------------------------------- |
-| Raspberry Pi 400 rev 1.0 | c03130   | 4GB |      | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye | pi400    | Boxed Desktop Kit with [DACBerry 400 S] |
+| Item                     | Revision | RAM | Case | Power Supply                                   | Storage                     | OS                                               | Hostname | Notes                                                            |
+| ------------------------ | -------- | --- | ---- | ---------------------------------------------- | --------------------------- | ------------------------------------------------ | -------- | ---------------------------------------------------------------- |
+| Raspberry Pi 400 rev 1.0 | c03130   | 4GB |      | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye | pi400    | Boxed Desktop Kit with [Monk Makes Air Quality for Raspberry Pi] |
 
 #### Pinout
 
@@ -1106,11 +1107,11 @@ For further information, please refer to https://pinout.xyz/
 
 ### Raspberry Pi 4B rev 1.4
 
-| Item                    | Revision | RAM | Case                                                                | Power Supply                                   | Storage                     | OS                                                     | Hostname | Notes                                                                                                    |
-| ----------------------- | -------- | --- | ------------------------------------------------------------------- | ---------------------------------------------- | --------------------------- | ------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
-| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Case Fan](https://www.raspberrypi.com/products/raspberry-pi-4-case-fan) |
-| Raspberry Pi 4B rev 1.4 | d03114   | 8GB | [Tecmojo 1U Rack Mount SBC Shelf]                                   | [Official Raspberry Pi 4 Power Supply] (White) | 128GB MicroSD (Integral)    | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL] | cbridge  | Boxed with [8086.net Cluster Hat] v2.4 and [8086.net CDC Serial Adapter]                                 |
+| Item                    | Revision | RAM | Case                                                                | Power Supply                                   | Storage                     | OS                                                     | Hostname | Notes                                                                    |
+| ----------------------- | -------- | --- | ------------------------------------------------------------------- | ---------------------------------------------- | --------------------------- | ------------------------------------------------------ | -------- | ------------------------------------------------------------------------ |
+| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Raspberry Pi 4 Case Fan]                |
+| Raspberry Pi 4B rev 1.4 | c03114   | 4GB | [Official Raspberry Pi 4 Case] (Red) or [Flirc Aluminium Pi 4 Case] | [Official Raspberry Pi 4 Power Supply] (White) | 16GB MicroSD (Sandisk Edge) | Raspberry Pi OS Full (Legacy, 32-bit) - Bullseye       |          | Boxed Desktop Kit with [Official Raspberry Pi 4 Case Fan]                |
+| Raspberry Pi 4B rev 1.4 | d03114   | 8GB | [Tecmojo 1U Rack Mount SBC Shelf]                                   | [Official Raspberry Pi 4 Power Supply] (White) | 128GB MicroSD (Integral)    | [Raspberry Pi OS Lite (64-bit) - Bookworm ClusterCTRL] | cbridge  | Boxed with [8086.net Cluster Hat] v2.4 and [8086.net CDC Serial Adapter] |
 
 #### Benchmarks
 
@@ -1187,7 +1188,7 @@ For further information, please refer to https://pinout.xyz/
 | ----------------------- | -------- | --- | ----------------------------------------------------- | ----------------------- | --------------------------- | --------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Raspberry Pi 4B rev 1.5 | a03115   | 1GB | [Voron 2.4](printer-voron-2.4)                        | [Mean Well RS-25-5 PSU] | 64GB MicroSD (Integral)     | [MainsailOS]                            | voron2    | With [Geekworm P165-B](https://wiki.geekworm.com/P165) Heatsink and [HighPi Pro 5V PWM Fan](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled) |
 | Raspberry Pi 4B rev 1.5 | b03115   | 2GB | [Geekworm KVM-A3](https://wiki.geekworm.com/PiKVM-A3) |                         | 32GB MicroSD (Sandisk Edge) | [PiKVM v3](https://pikvm.org/download/) | pikvm     |
-| Raspberry Pi 4B rev 1.5 | c03115   | 4GB | [Retroflag PiStation Case]                            |                         | 128GB MicroSD (Integral)    | [RetroPie]                              | pistation |
+| Raspberry Pi 4B rev 1.5 | c03115   | 4GB | [Retroflag PiStation Case + LCD]                      |                         | 128GB MicroSD (Integral)    | [RetroPie]                              | pistation |
 
 #### Pinout
 
@@ -2302,10 +2303,13 @@ For further information, please refer to https://pinout.xyz/
 [Adafruit RGB Negative LCD]: https://www.adafruit.com/product/1110 'Adafruit RGB Negative 16x2 LCD+Keypad Kit for Raspberry Pi'
 [DACBerry 400 S]: https://www.osaelectronics.com/learn/tutorials/dacberry-400-series-quick-start-guide 'DACBerry 400 Series Quick Start Guide'
 [FlightAware Pro Stick Plus]: https://thepihut.com/products/flightaware-pro-stick-plus-usb-sdr-ads-b-receiver 'FlightAware Pro Stick Plus (USB SDR ADS-B Receiver)'
+[Monk Makes Air Quality for Raspberry Pi]: https://monkmakes.com/pi_aq 'Monk Makes Air Quality Kit for Raspberry Pi'
+[Official Raspberry Pi 4 Case Fan]: https://www.raspberrypi.com/products/raspberry-pi-4-case-fan 'Raspberry Pi 4 Case Fan'
 [Official Raspberry Pi Active Cooler]: https://www.raspberrypi.com/products/active-cooler 'Raspberry Pi Active Cooler'
 [PiFace Digital]: https://www.raspberryconnect.com/projects/42-hardware-addons/124-piface-digital 'PiFace Digital'
 [Pimoroni Blinkt]: https://shop.pimoroni.com/products/blinkt 'Eight super-bright RGB LED indicators, ideal for adding visual notifications to your Raspberry Pi on their own or on a pHAT stacking header'
 [Pimoroni PiGlow]: https://shop.pimoroni.com/products/piglow 'The PiGlow is a small add on board for the Raspberry Pi that provides 18 individually controllable LEDs'
+[Sense Hat]: https://www.raspberrypi.com/documentation/accessories/sense-hat.html 'Raspberry Pi Sense HAT'
 [Cases]: #
 [Adafruit Pi Box]: https://www.adafruit.com/product/859 'Adafruit Pi Box - Enclosure for Raspberry Pi Model A or B'
 [CanaKit Raspberry Pi Case (Black)]: https://www.canakit.com/oneninedesign-pi-case.html 'Raspberry Pi 3 Case - Premium Black (Not Compatible with Pi 4)'
@@ -2315,18 +2319,19 @@ For further information, please refer to https://pinout.xyz/
 [Flirc Aluminium Pi 4 Case]: https://thepihut.com/products/flirc-raspberry-pi-4-case 'FLIRC Raspberry Pi 4 Case'
 [LDO Raspberry Pi Zero USB Expander PCB]: https://www.onetwo3d.co.uk/product/ldo-raspberry-pi-zero-usb-expander-pcb?wlr_ref=REF-ULH-QWV 'LDO Raspberry Pi Zero USB Expander PCB'
 [ModMyPi VESA-Pi+ Model A+ Case]: https://thepihut.com/blogs/raspberry-pi-tutorials/raspberry-pi-3-model-a-vesa-case-assembly-guide 'Raspberry Pi 3 Model A+ VESA Case Assembly Guide'
+[Official Raspberry Pi A+ Case]: https://www.raspberrypi.com/products/raspberry-pi-a-case 'Raspberry Pi A+ Case'
 [Official Raspberry Pi 4 Case]: https://www.raspberrypi.com/products/raspberry-pi-4-case 'Raspberry Pi 4 Case'
 [Official Raspberry Pi 5 Case]: https://www.raspberrypi.com/products/raspberry-pi-5-case 'Raspberry Pi Case for Raspberry Pi 5'
 [Official Raspberry Pi Zero Case]: https://www.raspberrypi.com/products/raspberry-pi-zero-case 'Raspberry Pi Zero Case'
 [pi-top\[4\] DIY Edition]: https://knowledgebase.pi-top.com/knowledge/diy-tech-spec 'pi-top[4] DIY Specification'
 [pi-top\[4\]]: https://knowledgebase.pi-top.com/knowledge/pi-top4-setup 'Getting started with the pi-top[4]'
 [pi-top Foundation Kit]: https://knowledgebase.pi-top.com/knowledge/foundation-kit 'Foundation Kit contents'
-[Retroflag Dream Case]: https://retroflag.com/dream-case.html
-[Retroflag GPi CASE 2W]: https://retroflag.com/gpi_case_2w.html
-[Retroflag MegaPi Case M]: https://retroflag.com/MEGAPi-CASE-M.html
-[Retroflag NESPi Case+]: https://retroflag.com/nespi-case-plus.html
-[Retroflag PiStation Case]: https://retroflag.com/pistation-case.html
-[Retroflag SuperPi Case J]: https://retroflag.com/SUPERPi-CASE-J.html
+[Retroflag Dream Case]: https://retroflag.com/dream-case.html 'Retroflag Dream Case'
+[Retroflag GPi CASE 2W]: https://retroflag.com/gpi_case_2w.html 'Retroflag GPi CASE 2W'
+[Retroflag MegaPi Case M]: https://retroflag.com/MEGAPi-CASE-M.html 'Retroflag MegaPi Case M'
+[Retroflag NESPi Case+]: https://retroflag.com/nespi-case-plus.html 'Retroflag NESPi Case+'
+[Retroflag PiStation Case + LCD]: https://retroflag.com/pistation-case.html 'Retroflag PiStation Case + LCD'
+[Retroflag SuperPi Case J]: https://retroflag.com/SUPERPi-CASE-J.html 'Retroflag SuperPi Case J'
 [Sense Hat Case]: https://thepihut.com/products/sense-hat-case-for-raspberry-pi-4 'Sense HAT Case for Raspberry Pi 4'
 [Tecmojo 1U Rack Mount SBC Shelf]: https://tecmojo.com/products/tecmojo-1u-rack-mount-sbc-shelf-3-94-depth-for-10-server-rack-network-cabinet 'Tecmojo 1U Rack Mount SBC Shelf 3.94" Depth for 10" Server Rack & Network Cabinet'
 [Operating Systems]: #
