@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-23T22:58:39.118Z
+lastmod: 2026-10-27T18:15:48.727Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -206,7 +206,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ----------------------------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
 | [Nuka Cola Girl]                          | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]         | Promo |
 | [Super Mutants: Behemoth]                 | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]  |
-| [Two Player Starter Set Resin Miniatures] |        :x:         |         |            | [April 2019][DEVELOPMENT BLOG #12] |
+| [Two Player Starter Set Resin Miniatures] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #12] |
 
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
 [Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
