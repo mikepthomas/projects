@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-27T18:15:48.727Z
+lastmod: 2026-10-28T16:40:22.390Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -277,7 +277,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | Item                       |     Purchased      | Digital | Downloaded | Released                                  | Notes |
 | -------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
 | [Super Mutants: Core Box]  | :heavy_check_mark: |         |            | April 2019                                |
-| [Super Mutants: Hammer]    |        :x:         |         |            | April 2019                                |
+| [Super Mutants: Hammer]    | :heavy_check_mark: |         |            | April 2019                                |
 | [Super Mutants: Suiciders] |        :x:         |         |            | [April 2019][Blog: Super Mutant Suicider] |
 
 [Super Mutants: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-core-box
@@ -314,7 +314,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | SCP-002-111: Big John’s Salvage Showdown | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]                                   |
 | SCP-003-111: Quest for Knowledge         |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                                       |
 | SCP-004-111: Radio Tower Takeover        |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
-| SCP-005-111: Flip's Revenge              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
+| SCP-005-111: Flip's Revenge              | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
 | SCP-006-111: Sanctuary Hills Sweep       | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
 | SCP-007-111: Psychotrip                  | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
 | SCP-008-111: The Jury Street Colossus    |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
