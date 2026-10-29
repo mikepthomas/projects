@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-28T16:40:22.390Z
+lastmod: 2026-10-29T22:46:53.773Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -223,8 +223,8 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Item                                                        |     Purchased      | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :----------------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
 | [Brotherhood of Steel: Core Box]                            | :heavy_check_mark: |         |            | April 2019 | Updated version in the [Battle for Boston Starter Set] |
-| [Brotherhood of Steel: Frontline Knights]                   |        :x:         |         |            | April 2019 |
-| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |        :x:         |         |            | April 2019 |
+| [Brotherhood of Steel: Frontline Knights]                   | :heavy_check_mark: |         |            | April 2019 |
+| [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] | :heavy_check_mark: |         |            | April 2019 |
 
 [Brotherhood of Steel: Core Box]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-core-box
 [Brotherhood of Steel: Frontline Knights]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-frontline-knights
@@ -313,12 +313,12 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 | SCP-001-111: Ad Victorium                | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf)          | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Core Box]                            |
 | SCP-002-111: Big John’s Salvage Showdown | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=3)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Core Box]                                   |
 | SCP-003-111: Quest for Knowledge         |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=5)   | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Core Box]                                       |
-| SCP-004-111: Radio Tower Takeover        |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
+| SCP-004-111: Radio Tower Takeover        | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=7)   | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Frontline Knights]                   |
 | SCP-005-111: Flip's Revenge              | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_1-5_download.pdf#page=9)   | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Hammer]                                     |
 | SCP-006-111: Sanctuary Hills Sweep       | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf)         | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Heroes of Sanctuary Hills]                      |
 | SCP-007-111: Psychotrip                  | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=3)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Boston Companions]                              |
 | SCP-008-111: The Jury Street Colossus    |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=5)  | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Behemoth]                                   |
-| SCP-009-111: Midwest Encounter           |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
+| SCP-009-111: Midwest Encounter           | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=7)  | :heavy_check_mark: | April 2019 | Scenario for [Brotherhood of Steel: Knight-Captain Cade & Paladin Danse] |
 | SCP-010-111: Benny's Request             | :heavy_check_mark: | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=9)  | :heavy_check_mark: | April 2019 | Scenario for [Survivors: Minutemen Posse]                                |
 | SCP-011-111: Atomic Sprint!              |        :x:         | [Free :pdf:](https://cdn.shopify.com/s/files/1/0225/4035/files/foww_box_scenarios_6-11_download.pdf#page=11) | :heavy_check_mark: | April 2019 | Scenario for [Super Mutants: Suiciders]                                  |
 
@@ -1400,11 +1400,11 @@ Wave 8 makes several updates for the `Brotherhood of Steel` and the `Enclave`.
 
 #### Brotherhood of Steel
 
-| Item                                     | Purchased | Digital | Downloaded | Released     | Notes |
-| ---------------------------------------- | :-------: | ------- | :--------: | ------------ | ----- |
-| [Brotherhood of Steel: Citadel Command]  |    :x:    |         |            | [May 2023]   |
-| [Brotherhood of Steel: Combat Patrol]    |    :x:    |         |            | [April 2023] |
-| [Brotherhood of Steel: T-45 Heavy Armor] |    :x:    |         |            | [April 2023] |
+| Item                                     |     Purchased      | Digital | Downloaded | Released     | Notes |
+| ---------------------------------------- | :----------------: | ------- | :--------: | ------------ | ----- |
+| [Brotherhood of Steel: Citadel Command]  |        :x:         |         |            | [May 2023]   |
+| [Brotherhood of Steel: Combat Patrol]    | :heavy_check_mark: |         |            | [April 2023] |
+| [Brotherhood of Steel: T-45 Heavy Armor] |        :x:         |         |            | [April 2023] |
 
 [Brotherhood of Steel: Citadel Command]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-citadel-command
 [Brotherhood of Steel: Combat Patrol]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-combat-patrol
