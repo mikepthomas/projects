@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-10-29T22:46:53.773Z
+lastmod: 2026-10-31T17:57:01.729Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2357,30 +2357,25 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                                  |     Purchased      | Digital                           |     Downloaded     | Released                        | Notes |
-| ------------------------------------- | :----------------: | --------------------------------- | :----------------: | ------------------------------- | ----- |
-| [Rulebook]                            | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]         | :heavy_check_mark: | [March 2025]                    |
-| ┕ [King of the Park]                  | :heavy_check_mark: |                                   |                    |                                 | Promo |
-| [Crew Folio]                          | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]       | :heavy_check_mark: | [January 2026]                  |
-| ┕ [Rogue Knight]                      | :heavy_check_mark: |                                   |                    | [May 2026]                      | Promo |
-| C.O.M.P. Kit (v1.0)                   |                    | [Free :pdf:][C.O.M.P. Kit (v1.0)] | :heavy_check_mark: | November 2024                   |
-| C.O.M.P. Kit (v2.0)                   |                    | [Free :pdf:][C.O.M.P. Kit (v2.0)] | :heavy_check_mark: | [May 2026][Factions COMP]       |
-| Fallout Factions - Organized Play Kit | :heavy_check_mark: |                                   |                    | [January 2025][YT January 2025] |
-| ┕ [RedEye]                            | :heavy_check_mark: |                                   |                    | [January 2025][YT January 2025] | Promo |
-| Spooktober Rules                      |                    | [Free :zip:][Spooktober Rules]    | :heavy_check_mark: | October 2024                    |
-| Spooktober 2 Rules                    |                    | [Free :pdf:][Spooktober 2 Rules]  | :heavy_check_mark: | October 2025                    |
+| Item                                   |     Purchased      | Digital                                              |     Downloaded     | Released       | Notes |
+| -------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | -------------- | ----- |
+| [Rulebook]                             | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]                            | :heavy_check_mark: | [March 2025]   |
+| ┕ [King of the Park]                   | :heavy_check_mark: |                                                      |                    |                | Promo |
+| [Crew Folio]                           | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]                          | :heavy_check_mark: | [January 2026] |
+| ┕ [Rogue Knight]                       | :heavy_check_mark: |                                                      |                    | [May 2026]     | Promo |
+| Reach Campaigns For Boston Crews       |                    | [Free :pdf:][Reach Campaigns For Boston Crews]       | :heavy_check_mark: | October 2026   |
+| Reach Campaign Crew Roster Game Sheet  |                    | [Free :pdf:][Reach Campaign Crew Roster Game Sheet]  | :heavy_check_mark: | March 2026     |
+| Reach Campaign Crew Roster Story Sheet |                    | [Free :pdf:][Reach Campaign Crew Roster Story Sheet] | :heavy_check_mark: | March 2026     |
 
-[C.O.M.P. Kit (V1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
-[C.O.M.P. Kit (v2.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a121fd18-f7ff-4040-9367-75d3e5538552/FF-COMPKit-2026-M2.pdf
 [Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
 [Crew Folio]: https://modiphius.net/products/fallout-factions-crew-folio
 [Crew Folio PDF]: https://modiphius.net/products/fallout-factions-crew-folio-pdf
 [King of the Park]: https://modiphius.net/products/fallout-miniatures-king-of-the-park-limited-run
-[RedEye]: https://modiphius.net/products/fallout-miniatures-redeye
+[Reach Campaigns For Boston Crews]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/4c5ffeac-71f4-476d-af7d-07a465045967/FF_Reach-Campaigns-for-Boston-Crews_003c.pdf
+[Reach Campaign Crew Roster Game Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/21cf4ae1-7538-4745-811e-9064035016e9/FF_Reach_Crew-Roster_Game_Sheet_Form_Fillable.pdf
+[Reach Campaign Crew Roster Story Sheet]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/c14e3a48-24e2-4230-a6d0-f7ef29cadbfa/FF_Reach_Crew-Roster_Story_Sheet_Form_Fillable.pdf
 [Rogue Knight]: https://modiphius.net/products/fallout-miniatures-the-rogue-knight
-[Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
-[Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
 
 ### Errata
 
@@ -2396,20 +2391,50 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Factions Errata (v4.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/094e4e02-cc99-471f-b9b8-5f2010a09aca/Fallout-Factions-Errata-V4.pdf
 [Factions Errata (v5.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/62b454f3-19a2-4459-8284-1231ee5b1ab3/Fallout-Factions-Errata-V5.pdf
 
+### C.O.M.P. Kit
+
+| Item                | Purchased | Digital                           |     Downloaded     | Released                  | Notes |
+| ------------------- | :-------: | --------------------------------- | :----------------: | ------------------------- | ----- |
+| C.O.M.P. Kit (v1.0) |           | [Free :pdf:][C.O.M.P. Kit (v1.0)] | :heavy_check_mark: | November 2024             |
+| C.O.M.P. Kit (v2.0) |           | [Free :pdf:][C.O.M.P. Kit (v2.0)] | :heavy_check_mark: | [May 2026][Factions COMP] |
+
+[C.O.M.P. Kit (V1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/64b826e6-5b63-4b69-8060-22a6c9cbc8d7/FF_C-O-M-P-Kit_edit_v2.pdf
+[C.O.M.P. Kit (v2.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a121fd18-f7ff-4040-9367-75d3e5538552/FF-COMPKit-2026-M2.pdf
+
 ### Get You By Lists
 
 | Item                        | Purchased | Digital                                   |     Downloaded     | Released                            | Notes |
 | --------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------------------------------- | ----- |
 | Brotherhood of Steel (v1.0) |           | [Free :pdf:][Brotherhood of Steel (v1.0)] | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
-| Gunners (v1.0)              |           |                                           | :heavy_check_mark: | [June 2024]                         |
+| Gunners (v1.0)              |           | [Read on Scribd :scribd:][Gunners (v1.0)] | :heavy_check_mark: | [June 2024]                         |
 | Super Mutants (v1.0)        |           | [Free :pdf:][Super Mutants (v1.0)]        | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wasteland Raiders (v1.0)    |           | [Free :pdf:][Wasteland Raiders (v1.0)]    | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 | Wastelanders (v1.0)         |           | [Free :pdf:][Wastelanders (v1.0)]         | :heavy_check_mark: | [March 2024][Factions Get You By 1] |
 
 [Brotherhood of Steel (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/5d71679b-a151-456a-b1d6-9ddbfa10b422/Brotherhood-of-Steel-Get-You-By-List-V1-0.pdf
+[Gunners (v1.0)]: https://www.scribd.com/document/925050728/Gunners-Get-You-by-List-V1-0
 [Super Mutants (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/39759e62-765c-4a49-81f4-c507cc7a60c4/Super-Mutants-Get-You-By-List-V1-0.pdf
 [Wasteland Raiders (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/348837a0-a761-4ffa-abee-5a4402a561ae/Wasteland-Raiders-Get-You-By-List-V1-0.pdf
 [Wastelanders (v1.0)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/3cff45f7-6f13-40d1-ad26-e563f14ddd1b/Wastelanders-Get-You-By-List-V1-0.pdf
+
+### Organized Play Kit
+
+| Item                                  |     Purchased      | Digital | Downloaded | Released                        | Notes |
+| ------------------------------------- | :----------------: | ------- | :--------: | ------------------------------- | ----- |
+| Fallout Factions - Organized Play Kit | :heavy_check_mark: |         |            | [January 2025][YT January 2025] |
+| ┕ [RedEye]                            | :heavy_check_mark: |         |            | [January 2025][YT January 2025] | Promo |
+
+[RedEye]: https://modiphius.net/products/fallout-miniatures-redeye
+
+### Spooktober
+
+| Item               | Purchased | Digital                          |     Downloaded     | Released     | Notes |
+| ------------------ | :-------: | -------------------------------- | :----------------: | ------------ | ----- |
+| Spooktober Rules   |           | [Free :zip:][Spooktober Rules]   | :heavy_check_mark: | October 2024 |
+| Spooktober 2 Rules |           | [Free :pdf:][Spooktober 2 Rules] | :heavy_check_mark: | October 2025 |
+
+[Spooktober Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/ee725bd5-e53f-438c-a3bf-8c38335d0aeb/Spooktober-Rules-PDF.zip
+[Spooktober 2 Rules]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/0fbf4c6d-f658-4691-a8d9-2dccd0dc565e/Spooktober2-M3.pdf
 
 ## Battle for Nuka-World
 
@@ -2465,6 +2490,14 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Tokens and Terrain Pack 1]: https://modiphius.net/products/fallout-factions-tokens-and-terrain-pack-1
 [Tokens and Terrain Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/a50587d2-84b5-431f-ba64-514fa0ea18d1/Fallout_-Factions-_Battle-For-Nuka-World_-Terrain-Construction-Guide.pdf
 
+### Crew Roster
+
+| Item                                                 | Purchased | Digital                                                            |     Downloaded     | Released      | Notes |
+| ---------------------------------------------------- | :-------: | ------------------------------------------------------------------ | :----------------: | ------------- | ----- |
+| Control Campaign Crew Roster (Battle for Nuka-World) |           | [Free :pdf:][Control Campaign Crew Roster (Battle for Nuka-World)] | :heavy_check_mark: | December 2023 |
+
+[Control Campaign Crew Roster (Battle for Nuka-World)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/68614e5b-0be1-45d8-bf54-30883e58d1fd/FFNW_Crew-Roster.pdf
+
 ## Battle for Boston
 
 ### Development
@@ -2487,7 +2520,7 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 
 | Item                                         |     Purchased      | Digital                                          |     Downloaded     | Released        | Notes                           |
 | -------------------------------------------- | :----------------: | ------------------------------------------------ | :----------------: | --------------- | ------------------------------- |
-| [Battle for Boston Starter Set]              | :heavy_check_mark: | [Quick Reference :pdf:][Boston Quick Reference]  | :heavy_check_mark: | [July 2026]     |
+| [Battle for Boston Starter Set]              | :heavy_check_mark: |                                                  |                    | [July 2026]     |
 | ┝ Battle for Boston Rulebook                 | :heavy_check_mark: | [Buy :pdf:][Battle for Boston Rulebook PDF]      | :heavy_check_mark: | September 2026  |
 | ┝ [Brotherhood of Steel: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][BoS Assembly Guide]       | :heavy_check_mark: | [August 2025]   | [Dice Set][BoS Dice Set]        |
 | ┝ [Institute: Core Box (Plastic)]            | :heavy_check_mark: | [Assembly Guide :pdf:][Institute Assembly Guide] | :heavy_check_mark: | [February 2026] | [Dice Set][Institute: Dice Set] |
@@ -2497,7 +2530,6 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 
 [Battle for Boston Starter Set]: https://modiphius.net/products/fallout-factions-battle-for-boston-starter-set-maccready
 [Battle for Boston Rulebook PDF]: https://modiphius.net/products/fallout-factions-battle-for-boston-rulebook-pdf
-[Boston Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
 [BoS Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e3478b5b-85f9-4f7e-93ae-457085df87c2/FO_Miniatures_BoSCoreSet_AssemblyGuide.pdf
 [BoS Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-brotherhood-of-steel
 [Brotherhood of Steel: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-brotherhood-of-steel-core-set-plastic
@@ -2510,6 +2542,18 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 [Railroad Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/eddfb6d9-ae57-4322-bacc-46b673d759da/FalloutFactions-RailroadCore-AssemblyGuide-Digital.pdf
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
+
+### Crew Roster
+
+| Item                                                         | Purchased | Digital                                                                    |     Downloaded     | Released   | Notes |
+| ------------------------------------------------------------ | :-------: | -------------------------------------------------------------------------- | :----------------: | ---------- | ----- |
+| Battle for Boston Crew Roster Quick Reference                |           | [Free :pdf:][Battle for Boston Crew Roster Quick Reference]                | :heavy_check_mark: | March 2026 |
+| Control Campaign Crew Roster Game Sheet (Battle for Boston)  |           | [Free :pdf:][Control Campaign Crew Roster Game Sheet (Battle for Boston)]  | :heavy_check_mark: | March 2026 |
+| Control Campaign Crew Roster Story Sheet (Battle for Boston) |           | [Free :pdf:][Control Campaign Crew Roster Story Sheet (Battle for Boston)] | :heavy_check_mark: | March 2023 |
+
+[Battle for Boston Crew Roster Quick Reference]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/1c831873-72ce-49a8-ae77-f2efa91ed391/FFBB_Crew-Roster_Reference-Sheet_jm.pdf
+[Control Campaign Crew Roster Game Sheet (Battle for Boston)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/92ce88eb-b507-4ec8-b8bf-1df27503a9d6/FF_Boston_Blank_Crew_Roster_Game_Sheet_Form_Fillable.pdf
+[Control Campaign Crew Roster Story Sheet (Battle for Boston)]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/7056dd55-7ff1-48c1-ab54-d51a445a8af6/FF_Boston_Blank_Crew_Roster_Story_Sheet_Form_Fillable.pdf
 
 ## Battle for Hoover Dam
 
@@ -2598,26 +2642,27 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 
 ## Development
 
-| Date       | Blog                                                                            |
-| ---------- | ------------------------------------------------------------------------------- |
-| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                                               |
-| 02/04/2026 | [Dev Blog #2]: Ways To Play                                                     |
-| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                                            |
-| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?                                  |
-| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                                       |
-| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                                       |
-| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?                                    |
-| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?                          |
-| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition?                        |
-| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                           |
-| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                               |
-| 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare?  |
-| 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                          |
-| 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                            |
-| 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?       |
-| 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?              |
-| 16/10/2026 | [Dev Blog #17]: How Do Chems & Consumables Work in Fallout: Wasteland Warfare?  |
-| 23/10/2026 | [Dev Blog #18]: Model Profiles in the New Edition of Fallout: Wasteland Warfare |
+| Date       | Blog                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------- |
+| 26/03/2026 | [Dev Blog #1]: Why Go Solo First?                                                     |
+| 02/04/2026 | [Dev Blog #2]: Ways To Play                                                           |
+| 09/04/2026 | [Dev Blog #3]: How Does Combat Work?                                                  |
+| 16/04/2026 | [Dev Blog #4]: How Do I Explore The Wasteland?                                        |
+| 07/05/2026 | [Dev Blog #5]: The New AI System (Part 1)                                             |
+| 21/05/2026 | [Dev Blog #6]: The New AI System (Part 2)                                             |
+| 24/07/2026 | [Dev Blog #7]: What Components Have Changed?                                          |
+| 07/08/2026 | [Dev Blog #8]: How Do Weapons Work In The New Edition?                                |
+| 14/08/2026 | [Dev Blog #9]: How Does Stealth Work In The New Edition?                              |
+| 21/08/2026 | [Dev Blog #10]: How Do Perks Work In The New Edition?                                 |
+| 28/08/2026 | [Dev Blog #11]: What Are Mods In The New Edition?                                     |
+| 03/09/2026 | [Dev Blog #12]: What Changes in the New Edition of Fallout: Wasteland Warfare?        |
+| 11/09/2026 | [Dev Blog #13]: How Do I Find New Gear For My Warband?                                |
+| 18/09/2026 | [Dev Blog #14]: What is Battle Mode?                                                  |
+| 25/09/2026 | [Dev Blog #15]: How Does the Campaign Work in Fallout: Wasteland Warfare?             |
+| 09/10/2026 | [Dev Blog #16]: How Does Armor Work in Fallout: Wasteland Warfare?                    |
+| 16/10/2026 | [Dev Blog #17]: How Do Chems & Consumables Work in Fallout: Wasteland Warfare?        |
+| 23/10/2026 | [Dev Blog #18]: Model Profiles in the New Edition of Fallout: Wasteland Warfare       |
+| 30/10/2026 | [Dev Blog #19]: How Do I Create a Warband For My Fallout: Wasteland Warfare Campaign? |
 
 [Dev Blog #1]: https://modiphius.net/blogs/news/dev-blog-1-why-go-solo-first
 [Dev Blog #2]: https://modiphius.net/blogs/news/dev-blog-2-ways-to-play
@@ -2637,6 +2682,7 @@ The new edition of Fallout: Wasteland Warfare is a `solo first experience`.
 [Dev Blog #16]: https://modiphius.net/blogs/news/dev-diary-16-how-does-armor-work-in-fallout-wasteland-warfare
 [Dev Blog #17]: https://modiphius.net/blogs/news/dev-blog-17-how-do-chems-and-consumables-work-in-fallout-wasteland-warfare
 [Dev Blog #18]: https://modiphius.net/blogs/news/dev-blog-18-model-profiles-in-the-new-edition-of-fallout-wasteland-warfare
+[Dev Blog #19]: https://modiphius.net/blogs/news/dev-blog-19-how-do-i-create-a-warband-for-my-fallout-wasteland-warfare-campaign
 
 ## Items
 
