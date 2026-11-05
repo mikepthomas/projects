@@ -117,7 +117,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | ┕ [Zetan]                | :heavy_check_mark: |                                  |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
-[Two Player Starter Set]: https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
+[Two Player Starter Set]: https://web.archive.org/web/20260201151728/https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
 [Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FalloutWastelandWarfareCard_Selection.pdf
 [Dice & Rulers]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Wasteland_Warfare_Dice_Reference_Sheet_1_page_d091f74d-cefc-498b-9d32-4163749e2eda.pdf
 [Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
