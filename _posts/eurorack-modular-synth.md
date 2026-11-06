@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2026-03-21T15:02:49.588Z
+lastmod: 2026-11-06T18:26:03.861Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -36,87 +36,6 @@ I wanted something that I could connect up to a computer via USB to use software
 | Item        | Quantity | Received | Notes                                                                                                         |
 | ----------- | -------: | -------: | ------------------------------------------------------------------------------------------------------------- |
 | KeyStep Pro |        1 |        1 | The Special Black Edition I purchased also came with 14 CV/Gate cables for connecting to the eurorack modules |
-
-# Eurorack Case
-
-I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) and any extra modules I make using from PCBs or [Prototype Kits](#prototyping).
-
-## Accessories
-
-### Sourcing Parts
-
-| Item                              | Quantity | Received | Notes                                           |
-| --------------------------------- | -------: | -------: | ----------------------------------------------- |
-| [Befaco Bananuts] (Black)         |       25 |       25 |
-| [Befaco Bananuts] (Red)           |       25 |       25 |
-| [Befaco Bananuts] (Wrench Tool)   |        1 |        1 |
-| [Befaco Knurlies]                 |      100 |      100 |
-| [Befaco Midi Cable]               |        1 |        1 | Type B                                          |
-| [Befaco Squid Cable]              |        1 |        1 |
-| [Erica Synths Blind Panels] (8HP) |        2 |        2 | Blank Aluminium                                 |
-| [Modular Synth Lab Blind Panels]  | Set of 7 | Set of 7 | Circuit Design                                  |
-| MH Eurorack Blind Panels (4HP)    |        3 |        3 | PCB, Free with [MH Eurorack Kits](#mh-eurorack) |
-| [Thonk Blind Panels] (2HP)        |        2 |        2 | 1 Aluminium and 1 PCB                           |
-
-[Befaco Bananuts]: https://www.befaco.org/bananuts
-[Befaco Knurlies]: https://www.befaco.org/knurlies
-[Befaco Midi Cable]: https://www.befaco.org/midi-cables
-[Befaco Squid Cable]: https://www.befaco.org/squid-cable-mult
-[Erica Synths Blind Panels]: https://www.ericasynths.lv/blind-panel
-[Modular Synth Lab Blind Panels]: https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis
-[Thonk Blind Panels]: https://www.thonk.co.uk/product-category/thonk-blank-panels
-
-## Power Supply
-
-### Sourcing Parts
-
-| Item                 | Quantity | Received | Notes       |
-| -------------------- | -------: | -------: | ----------- |
-| [Befaco Passive Bus] |        1 |        1 |
-| [Flying Bus Cable]   |        1 |        1 | 50cm Length |
-| [Mean Well RT65B]    |        1 |        1 |
-
-[Befaco Passive Bus]: https://www.befaco.org/passive-bus
-[Flying Bus Cable]: https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors
-[Mean Well RT65B]: https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b
-
-## SP1
-
-I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables][SP1 Case].
-
-[SP1 Case]: https://www.printables.com/model/203562/files
-[SP1Cap25 Resized]: https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl
-
-### Sourcing Parts
-
-| Item                       | Quantity | Received | Notes                         |
-| -------------------------- | -------: | -------: | ----------------------------- |
-| M3 Nylon Screws            |       40 |       42 | Nylon can prevent [Rack Rash] |
-| [M3 Threaded Strip (84HP)] |        6 |        6 | 4 for Case + 2 for Dust Cover |
-
-[M3 Threaded Strip (84HP)]: https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP
-[Rack Rash]: https://learningmodular.com/glossary/rack-rash
-
-### Printing Parts
-
-#### Case
-
-| Item                  | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes |
-| --------------------- | -------: | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
-| [SP110HPRC][SP1 Case] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1H25GM][SP1 Case]  |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP110HPLC][SP1 Case] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1H10C][SP1 Case]   |        2 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1H10 v6][SP1 Case] |        2 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-
-#### Dust Cover
-
-| Item                         | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes                                                                               |
-| ---------------------------- | -------: | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------- |
-| [SP1CapRC][SP1 Case]         |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1CapLC][SP1 Case]         |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1Cap10][SP1 Case]         |        4 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
-| [SP1Cap25][SP1Cap25 Resized] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself, extending SP1Cap10 |
 
 # Parts For Testing
 
@@ -2559,7 +2478,7 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 # Patching
 
-As I currently do not own the case for the [EDU DIY Drum System](#konstrukt-8--edu-diy-drum-system) I will re-order of the modules into a second [EDU DIY System](#mki-x-esedu-diy-system) case as follows:
+As I currently do not own the case for the [EDU DIY Drum System](#konstrukt-8--edu-diy-drum-system) I will re-arrange some of the modules into a second [EDU DIY System](#mki-x-esedu-diy-system) case as follows:
 
 - 10 HP [Noise/Sample & Hold (S&H)](#noisesample--hold-sh)
 - 10 HP [Bucket Brigade Delay (BBD)](#bucket-brigade-delay-bbd)
@@ -2579,6 +2498,93 @@ Once I have fully assembled the modules for both the [mki x es.EDU DIY System](#
 - 4 Drum Gates connecting to `Trigger` of the Drums modules (Bottom of diagram below)
 
 ![Modular Grid EDU DIY System](https://cdn.modulargrid.net/img/patches/modulargrid_129015.jpg 'mki x es.EDU example patch layout on Modular Grid')
+
+# Eurorack Case
+
+As I have outgrown the EDU DIY cases I plan on 3D Printing a case to house an [Oscilloscope Module](#oscilloscope) and any extra modules I make using from PCBs or [Prototype Kits](#prototyping).
+
+## Accessories
+
+### Sourcing Parts
+
+| Item                              | Quantity | Received | Notes                                           |
+| --------------------------------- | -------: | -------: | ----------------------------------------------- |
+| [Befaco Bananuts] (Black)         |       25 |       25 |
+| [Befaco Bananuts] (Red)           |       25 |       25 |
+| [Befaco Bananuts] (Wrench Tool)   |        1 |        1 |
+| [Befaco Knurlies]                 |      100 |      100 |
+| [Befaco Midi Cable]               |        1 |        1 | Type B                                          |
+| [Befaco Squid Cable]              |        1 |        1 |
+| [Erica Synths Blind Panels] (8HP) |        2 |        2 | Blank Aluminium                                 |
+| [Modular Synth Lab Blind Panels]  | Set of 7 | Set of 7 | Circuit Design                                  |
+| MH Eurorack Blind Panels (4HP)    |        3 |        3 | PCB, Free with [MH Eurorack Kits](#mh-eurorack) |
+| [Thonk Blind Panels] (2HP)        |        2 |        2 | 1 Aluminium and 1 PCB                           |
+
+[Befaco Bananuts]: https://www.befaco.org/bananuts
+[Befaco Knurlies]: https://www.befaco.org/knurlies
+[Befaco Midi Cable]: https://www.befaco.org/midi-cables
+[Befaco Squid Cable]: https://www.befaco.org/squid-cable-mult
+[Erica Synths Blind Panels]: https://www.ericasynths.lv/blind-panel
+[Modular Synth Lab Blind Panels]: https://modularsynthlab.com/product/eurorack-blind-panels-3u-complete-set-7-sizes-in-one-package-black-20hp-panel-gratis
+[Thonk Blind Panels]: https://www.thonk.co.uk/product-category/thonk-blank-panels
+
+## Power Supply
+
+### Sourcing Parts
+
+| Item                 | Quantity | Received | Notes       |
+| -------------------- | -------: | -------: | ----------- |
+| [Befaco Passive Bus] |        1 |        1 |
+| [Flying Bus Cable]   |        1 |        1 | 50cm Length |
+| [Mean Well RT65B]    |        1 |        1 |
+
+[Befaco Passive Bus]: https://www.befaco.org/passive-bus
+[Flying Bus Cable]: https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors
+[Mean Well RT65B]: https://modularsynthlab.com/product/eurorack-power-supply-mean-well-rt65b
+
+## SP1
+
+I have seen a 3D Printed Eurorack case that I would like to make called [The SP1 by Spillerphoto.com on Printables][SP1 Case].
+
+[SP1 Case]: https://www.printables.com/model/203562/files
+[SP1Cap25 Resized]: https://github.com/mikepthomas/3dprinting/blob/main/Designs/SP1%20Eurorack%20Case/SP1Cap25.stl
+
+### Sourcing Parts
+
+| Item                       | Quantity | Received | Notes                         |
+| -------------------------- | -------: | -------: | ----------------------------- |
+| M3 Nylon Screws            |       40 |       42 | Nylon can prevent [Rack Rash] |
+| [M3 Threaded Strip (84HP)] |        6 |        6 | 4 for Case + 2 for Dust Cover |
+
+[M3 Threaded Strip (84HP)]: https://modularsynthlab.com/product/eurorack-rails-m3-threaded-inserts/?attribute_size=84HP
+[Rack Rash]: https://learningmodular.com/glossary/rack-rash
+
+### Printing Parts
+
+#### Case
+
+| Item                  | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes |
+| --------------------- | -------: | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----- |
+| [SP110HPRC][SP1 Case] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1H25GM][SP1 Case]  |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP110HPLC][SP1 Case] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1H10C][SP1 Case]   |        2 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1H10 v6][SP1 Case] |        2 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+
+#### Dust Cover
+
+| Item                         | Quantity | Material                   | Time | Size | Weight | Cost | Printed | Notes                                                                               |
+| ---------------------------- | -------: | -------------------------- | ---- | ---- | ------ | ---- | :-----: | ----------------------------------------------------------------------------------- |
+| [SP1CapRC][SP1 Case]         |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1CapLC][SP1 Case]         |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1Cap10][SP1 Case]         |        4 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   |
+| [SP1Cap25][SP1Cap25 Resized] |        1 | [PolyLite PLA Pro (Black)] |      |      |        |      |   :x:   | This part doesn't exist on printables, I have created it myself, extending SP1Cap10 |
+
+## Eurorack Go
+
+I have purchased a [Behringer Eurorack Go](https://www.behringer.com/en/products/0720-AAA) case to consolidate all of the EDU DIY Modules from the 2 [mki x es.EDU DIY System](#mki-x-esedu-diy-system)s and [KONSTRUKT-8 // EDU DIY Drum System](#konstrukt-8--edu-diy-drum-system) into one place:
+
+![Modular Grid Eurorack Go](https://cdn.modulargrid.net/img/racks/modulargrid_3026652.jpg 'EDU DIY Modules in Eurorack Go Case')
 
 [Filament]: #
 [PolyLite PLA Pro (Black)]: printer-filament#polylite-pla-pro-black
