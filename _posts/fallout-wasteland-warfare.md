@@ -1907,11 +1907,14 @@ The AI Handbook gives more rules and advice for getting the most out of the AI f
 | Item                            | Purchased | Digital                                   |     Downloaded     | Released    | Notes |
 | ------------------------------- | :-------: | ----------------------------------------- | :----------------: | ----------- | ----- |
 | The Red Rocket Misunderstanding |           | [Free :pdf:][Red Rocket Misunderstanding] | :heavy_check_mark: | April 2018  |
-| The Missile                     |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
-| The Break-In                    |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
-| The Escaped Tech                |           | [Free :pdf:][AI Handbook v1.0]            | :heavy_check_mark: | August 2018 |
+| The Missile                     |           | [Free :pdf:][The Missile]                 | :heavy_check_mark: | August 2018 |
+| The Break-In                    |           | [Free :pdf:][The Break-In]                | :heavy_check_mark: | August 2018 |
+| The Escaped Tech                |           | [Free :pdf:][The Escaped Tech]            | :heavy_check_mark: | August 2018 |
 
 [Red Rocket Misunderstanding]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_scenario_red_rocket_misunderstanding_digital_final.pdf
+[The Missile]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf#page=5
+[The Break-In]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf#page=6
+[The Escaped Tech]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_ai_handbook_v.1.0_download.pdf#page=7
 
 #### The Red Rocket Misunderstanding
 
