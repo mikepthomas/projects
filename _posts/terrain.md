@@ -146,14 +146,14 @@ The `Robot Work Bench` can be used in the following scenarios:
 
 ## Resin
 
-| Item                    |     Purchased      | Digital | Downloaded | Released | Notes                 |
-| ----------------------- | :----------------: | ------- | :--------: | -------- | --------------------- |
+| Item                    |     Purchased      | Digital | Downloaded | Released | Notes                   |
+| ----------------------- | :----------------: | ------- | :--------: | -------- | ----------------------- |
 | [Bathroom Accessories]  | :heavy_check_mark: |         |            |          |
 | [Bedroom Accessories]   | :heavy_check_mark: |         |            |          |
 | [Kitchen Accessories]   | :heavy_check_mark: |         |            |          |
 | [Lounge Accessories]    | :heavy_check_mark: |         |            |          |
 | [Sandbags]              |        :x:         |         |            |          |
-| [Scrapyard Accessories] | :heavy_check_mark: |         |            |          | Damaged wheel Missing |
+| [Scrapyard Accessories] | :heavy_check_mark: |         |            |          | `Damaged wheel` missing |
 | [Vending Machines]      |        :x:         |         |            |          |
 
 [Bathroom Accessories]: https://ttcombat.com/products/wasteland-bathroom-accessories
