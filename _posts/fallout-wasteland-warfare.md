@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-11-08T12:37:22.544Z
+lastmod: 2026-11-09T18:57:22.986Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -1735,6 +1735,7 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 [August 2026]: https://modiphius.net/blogs/news/fallout-friday-august-28
 [September 2026]: https://modiphius.net/blogs/news/fallout-friday-september-4
 [October 2026]: https://modiphius.net/blogs/news/fallout-friday-october-2
+[November 2026]: https://modiphius.net/blogs/news/fallout-friday-november-6
 
 [Fallout: Miniatures Reveal - Wave 11: Far Harbour Video](https://www.youtube-nocookie.com/embed/EQTPKDAN_jY)
 
@@ -1763,8 +1764,8 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 | Nora Painter's Bust             |        :x:         |         |            | [June 2026]     |
 | [NCR Ranger Painter's Bust]     | :heavy_check_mark: |         |            | [December 2025] |
 | Paladin Danse Painter's Bust    |        :x:         |         |            | [June 2026]     |
-| [Piper Wright Painter's Bust]   |        :x:         |         |            | [October 2026]  |
-| [Preston Garvey Painter's Bust] |        :x:         |         |            | [October 2026]  |
+| [Piper Wright Painter's Bust]   |        :x:         |         |            | [November 2026] |
+| [Preston Garvey Painter's Bust] |        :x:         |         |            | [November 2026] |
 | [T-60 Painter's Bust]           | :heavy_check_mark: |         |            | [December 2025] |
 
 [Dogmeat Painter's Bust]: https://modiphius.net/products/fallout-painters-bust-dogmeat
@@ -2366,15 +2367,15 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ## Rules
 
-| Item                                   |     Purchased      | Digital                                              |     Downloaded     | Released       | Notes |
-| -------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | -------------- | ----- |
-| [Rulebook]                             | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]                            | :heavy_check_mark: | [March 2025]   |
-| ┕ [King of the Park]                   | :heavy_check_mark: |                                                      |                    |                | Promo |
-| [Crew Folio]                           | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]                          | :heavy_check_mark: | [January 2026] |
-| ┕ [Rogue Knight]                       | :heavy_check_mark: |                                                      |                    | [May 2026]     | Promo |
-| Reach Campaigns For Boston Crews       |                    | [Free :pdf:][Reach Campaigns For Boston Crews]       | :heavy_check_mark: | October 2026   |
-| Reach Campaign Crew Roster Game Sheet  |                    | [Free :pdf:][Reach Campaign Crew Roster Game Sheet]  | :heavy_check_mark: | March 2026     |
-| Reach Campaign Crew Roster Story Sheet |                    | [Free :pdf:][Reach Campaign Crew Roster Story Sheet] | :heavy_check_mark: | March 2026     |
+| Item                                   |     Purchased      | Digital                                              |     Downloaded     | Released        | Notes |
+| -------------------------------------- | :----------------: | ---------------------------------------------------- | :----------------: | --------------- | ----- |
+| [Rulebook]                             | :heavy_check_mark: | [Buy :pdf:][Rulebook PDF]                            | :heavy_check_mark: | [March 2025]    |
+| ┕ [King of the Park]                   | :heavy_check_mark: |                                                      |                    |                 | Promo |
+| [Crew Folio]                           | :heavy_check_mark: | [Buy :pdf:][Crew Folio PDF]                          | :heavy_check_mark: | [January 2026]  |
+| ┕ [Rogue Knight]                       | :heavy_check_mark: |                                                      |                    | [May 2026]      | Promo |
+| Reach Campaigns For Boston Crews       |                    | [Free :pdf:][Reach Campaigns For Boston Crews]       | :heavy_check_mark: | [November 2026] |
+| Reach Campaign Crew Roster Game Sheet  |                    | [Free :pdf:][Reach Campaign Crew Roster Game Sheet]  | :heavy_check_mark: | March 2026      |
+| Reach Campaign Crew Roster Story Sheet |                    | [Free :pdf:][Reach Campaign Crew Roster Story Sheet] | :heavy_check_mark: | March 2026      |
 
 [Rulebook]: https://modiphius.net/products/fallout-factions-core-rulebook
 [Rulebook PDF]: https://modiphius.net/products/fallout-factions-core-rulebook-pdf
