@@ -180,9 +180,11 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | Acrylic Rulers          |        :x:         |                                                   |                    | April 2019                         | Discontinued                                                                                                                                     |
 | [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                   |                    | April 2019                         | Contains stickers so that they can be used as in game tokens                                                                                     |
 | [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide :pdf:][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
+| ┕ [Red Rocket Play Mat] | :heavy_check_mark: |                                                   |                    | [April 2019][DEVELOPMENT BLOG #10] | included in `Red Rocket Scenic Set`                                                                                                              |
 
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
 [Red Rocket Assembly Guide]: https://cdn.shopify.com/s/files/1/0225/4035/files/red_rocket_build_updated.pdf
+[Red Rocket Play Mat]: https://web.archive.org/web/20220809224156/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-terrain-red-rocket-play-mat
 [Red Rocket Scenic Set]: https://web.archive.org/web/20220817140137/https://www.modiphius.net/products/copy-of-fallout-wasteland-warfare-product-template
 
 #### Caps Stash Tub
