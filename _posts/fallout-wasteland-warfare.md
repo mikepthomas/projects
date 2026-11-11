@@ -2568,6 +2568,18 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 [Railroad: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-railroad-core-box-plastic
 [Railroad: Dice Set]: https://modiphius.net/products/fallout-factions-dice-set-the-railroad
 
+### Legends of Boston
+
+| Item                 | Purchased | Digital                         |     Downloaded     | Released        | Notes |
+| -------------------- | :-------: | ------------------------------- | :----------------: | --------------- | ----- |
+| Legends of Boston    |           | [Free :pdf:][Legends of Boston] | :heavy_check_mark: | November 2026   |
+| [Hammer, Lvl 50]     |    :x:    |                                 |                    | [April 2026]    |
+| [Minutemen Officers] |    :x:    |                                 |                    | [February 2026] |
+
+[Legends of Boston]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/e9fdc86f-4c31-45a6-bdfa-bea79de8370f/FF_Legends-of-Boston_Digital_002c.pdf
+[Hammer, Lvl 50]: https://modiphius.net/products/fallout-miniatures-hammer-lvl-50
+[Minutemen Officers]: https://modiphius.net/products/fallout-miniatures-minutemen-officers
+
 ### Crew Roster
 
 | Item                                                         | Purchased | Digital                                                                    |     Downloaded     | Released   | Notes |
