@@ -113,7 +113,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | ┝ Errata (v1.0)          | :heavy_check_mark: |                                  |        :x:         | August 2018                       | Physical version included in `Two Player Starter Set`          |
 | ┝ Getting Acclimated     | :heavy_check_mark: | [Free :pdf:][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┝ Rules of Play          | :heavy_check_mark: | [Free :pdf:][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Campaign Book          | :heavy_check_mark: | [Buy :pdf:][Campaign Book]       | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| ┝ Campaign Handbook      | :heavy_check_mark: | [Buy :pdf:][Campaign Handbook]   | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
 | ┕ [Zetan]                | :heavy_check_mark: |                                  |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
@@ -122,7 +122,7 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 [Dice & Rulers]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Wasteland_Warfare_Dice_Reference_Sheet_1_page_d091f74d-cefc-498b-9d32-4163749e2eda.pdf
 [Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
 [Rules of Play]: https://drive.google.com/file/d/1mtsWLo4y4OmOzkMvggcsm_jYeaRqj9D7/preview
-[Campaign Book]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
+[Campaign Handbook]: https://modiphius.net/products/fallout-wasteland-warfare-campaign-book-pdf
 [Zetan]: https://modiphius.net/products/fallout-wasteland-warfare-zetan-miniature
 
 #### Getting Acclimated
@@ -574,6 +574,8 @@ Videos of Modiphius developers Ethan and Charlie (and Giles) playing these scena
 > Videos © 2019 [Modiphius](https://www.youtube.com/@Modiphius)
 
 #### Paladin Danse's Vertibird Stand-Off
+
+Based on the `Police Station Defense` scenario in the [Campaign Handbook].
 
 [Fallout: Wasteland Warfare - Paladin Danse's Vertibird Stand-Off Series](https://www.youtube-nocookie.com/embed/videoseries?list=PLE8gwC4Miwd0sUHVqxk_PwnrzBAmApkkT)
 
