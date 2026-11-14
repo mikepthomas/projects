@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-11-09T18:57:22.986Z
+lastmod: 2026-11-14T11:29:59.645Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2658,10 +2658,10 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 
 > Video © 2025 [Modiphius](https://www.youtube.com/@Modiphius)
 
-| Item                     | Purchased | Digital                         | Downloaded | Released      | Notes |
-| ------------------------ | :-------: | ------------------------------- | :--------: | ------------- | ----- |
-| [Power Play]             |    :x:    | [Rules :pdf:][Power Play Rules] |    :x:     | November 2025 |
-| Power Play Errata (v1.0) |           | [Free :pdf:][Power Play Errata] |    :x:     | November 2025 |
+| Item                     |     Purchased      | Digital                         |     Downloaded     | Released      | Notes |
+| ------------------------ | :----------------: | ------------------------------- | :----------------: | ------------- | ----- |
+| [Power Play]             | :heavy_check_mark: | [Rules :pdf:][Power Play Rules] | :heavy_check_mark: | November 2025 |
+| Power Play Errata (v1.0) |                    | [Free :pdf:][Power Play Errata] | :heavy_check_mark: | November 2025 |
 
 [Power Play]: https://modiphius.net/products/fallout-power-play
 [Power Play Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Power_Play_Card_Game_Rules.pdf
