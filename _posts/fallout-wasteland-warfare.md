@@ -633,16 +633,12 @@ Wave 3 expands on the base game, introducing the `Institute` faction, with new M
 | [Automatron Card Expansion Pack]      | :heavy_check_mark: | [Player Rules :pdf:][Automatron Player Rules] | :heavy_check_mark: | [February 2020][Blog: Make Your Own Robot]     | [Blog: How To Automatron]    |
 | Caught in the Crossfire Campaign book |                    | [Buy :pdf:][Caught in the Crossfire]          | :heavy_check_mark: | [February 2020][Blog: Caught In The Crossfire] |
 | Errata (v3.0)                         |                    | [Read on Scribd :scribd:][Errata (v3.0)]      | :heavy_check_mark: | [July 2019][DEVELOPMENT BLOG #27]              |
-| [Raiders Organised Play Kit]          | :heavy_check_mark: |                                               |                    | May 2021                                       |
-| [Institute Organised Play Kit]        | :heavy_check_mark: |                                               |                    | October 2020                                   |
 | [Institute Wave Expansion Card Pack]  | :heavy_check_mark: |                                               |                    | [December 2019][Blog: Downloads Update]        | [Blog: How To Use Institute] |
 
 [Automatron Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-the-automatron-card-expansion-pack
 [Automatron Player Rules]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_automatron_player_rules_v.1.0.pdf
 [Caught in the Crossfire]: https://modiphius.net/products/fallout-wasteland-warfare-caught-in-the-crossfire-campaign-book
 [Errata (v3.0)]: https://www.scribd.com/document/785893717/foww-errata-faq-v3-0
-[Raiders Organised Play Kit]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
-[Institute Organised Play Kit]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Institute Wave Expansion Card Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-institute-wave-card-expansion-pack
 
 ### Accessories
@@ -781,16 +777,6 @@ I will use elements from all of these to create my own version of [Vault 88](vau
 
 [Showdown in Synthtown]: https://cdn.shopify.com/s/files/1/0225/4035/files/foww_showdown_at_synthtown.pdf
 
-#### Organised Play
-
-| Item                                        |     Purchased      | Digital                        |     Downloaded     | Released       | Notes                                      |
-| ------------------------------------------- | :----------------: | ------------------------------ | :----------------: | -------------- | ------------------------------------------ |
-| OPP-001-11: The Battle For Saugus Ironworks |                    | [Free :pdf:][Saugus Ironworks] | :heavy_check_mark: | [January 2022] |
-| OPP-002-11: Raid the Crash Site             | :heavy_check_mark: |                                |                    | May 2021       | Included in [Raiders Organised Play Kit]   |
-| OPP-003-11: Teleporting Trouble             | :heavy_check_mark: |                                |                    | October 2020   | Included in [Institute Organised Play Kit] |
-
-[Saugus Ironworks]: https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf
-
 #### Cargo Ship Carnage
 
 [Fallout: Wasteland Warfare - Season 2 - Battle #0 - "Cargo Ship Carnage" Video](https://www.youtube-nocookie.com/embed/BHIkjYxj7sU)
@@ -822,12 +808,16 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 | [Denizens of the Wasteland Card Expansion Pack] | :heavy_check_mark: |                                     |                    | [November 2020]                         |
 | [Enclave Wave Card Expansion Pack]              | :heavy_check_mark: |                                     |                    | [November 2020]                         |
 | Errata (v4.0)                                   |                    | [Free :pdf:][Errata (v4.0)]         | :heavy_check_mark: | [December 2019][Blog: Downloads Update] |
+| [Raiders Organised Play Kit]                    | :heavy_check_mark: |                                     |                    | May 2021                                |
+| [Institute Organised Play Kit]                  | :heavy_check_mark: |                                     |                    | October 2020                            |
 | [Into the Wasteland]                            | :heavy_check_mark: | [Buy :pdf:][Into the Wasteland PDF] | :heavy_check_mark: | [November 2020]                         |
 | [Wave 1 Fundamentals Card Deck]                 | :heavy_check_mark: |                                     |                    | [November 2020]                         |
 
 [Denizens of the Wasteland Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-denizens-of-the-wasteland-card-expansion-pack
 [Enclave Wave Card Expansion Pack]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-enclave-wave-card-expansion-pack
 [Errata (v4.0)]: https://web.archive.org/web/20191231140709/https://www.modiphius.com/uploads/1/4/0/6/14062642/foww_rules_of_play_errata_faq_v4.0.pdf
+[Raiders Organised Play Kit]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-organised-play-kit
+[Institute Organised Play Kit]: https://modiphius.net/products/fallout-wasteland-warfare-institute-organised-play-kit
 [Into the Wasteland]: https://web.archive.org/web/20230121191038/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland
 [Into the Wasteland PDF]: https://web.archive.org/web/20201113170211/https://www.modiphius.net/products/fallout-wasteland-warfare-into-the-wasteland-pdf
 [Wave 1 Fundamentals Card Deck]: https://modiphius.net/products/fallout-wasteland-warfare-wave-1-fundamentals-card-deck
@@ -983,6 +973,16 @@ I will use this to create my own version of [Sanctuary Hills](sanctuary-hills) f
 [Vestiges Resurgent 1]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_1_001w.pdf
 [Vestiges Resurgent 2]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_2_001w.pdf
 [Vestiges Resurgent 3]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_The_Vestiges_Resurgent_Scenario_3_001w.pdf
+
+#### Organised Play
+
+| Item                                        |     Purchased      | Digital                        |     Downloaded     | Released       | Notes                                      |
+| ------------------------------------------- | :----------------: | ------------------------------ | :----------------: | -------------- | ------------------------------------------ |
+| OPP-001-11: The Battle For Saugus Ironworks |                    | [Free :pdf:][Saugus Ironworks] | :heavy_check_mark: | [January 2022] |
+| OPP-002-11: Raid the Crash Site             | :heavy_check_mark: |                                |                    | May 2021       | Included in [Raiders Organised Play Kit]   |
+| OPP-003-11: Teleporting Trouble             | :heavy_check_mark: |                                |                    | October 2020   | Included in [Institute Organised Play Kit] |
+
+[Saugus Ironworks]: https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf
 
 ## Wave 5 - New Vegas Expansion
 
