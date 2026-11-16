@@ -979,7 +979,7 @@ I will use this to create my own version of [Sanctuary Hills](sanctuary-hills) f
 | Item                                        |     Purchased      | Digital                        |     Downloaded     | Released       | Notes                                      |
 | ------------------------------------------- | :----------------: | ------------------------------ | :----------------: | -------------- | ------------------------------------------ |
 | OPP-001-11: The Battle For Saugus Ironworks |                    | [Free :pdf:][Saugus Ironworks] | :heavy_check_mark: | [January 2022] |
-| OPP-002-11: Raid the Crash Site             | :heavy_check_mark: |                                |                    | May 2021       | Included in [Raiders Organised Play Kit]   |
+| OPP-002-11: Raid the Crash Site             | :heavy_check_mark: |                                |                    | October 2020   | Included in [Raiders Organised Play Kit]   |
 | OPP-003-11: Teleporting Trouble             | :heavy_check_mark: |                                |                    | October 2020   | Included in [Institute Organised Play Kit] |
 
 [Saugus Ironworks]: https://cdn.shopify.com/s/files/1/0225/4035/files/Saugus_Ironworks_Book_US_Letter_Digital_001w.pdf
