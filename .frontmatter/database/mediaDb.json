@@ -2065,29 +2065,34 @@
         "voron-stealthburner": {
           "stealthburner-hero.jpg": {
             "alt": "3D render of the Voron Stealthburner Toolhead",
-            "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+            "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
             "title": "Stealthburner Hero"
           },
           "voron-design": {
             "axdl345-mount.jpg": {
               "alt": "3D render of the Voron Stealthburner ADXL345 Mount",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
               "title": "ADXL345 Mount"
             },
             "clockwork-2.jpg": {
               "alt": "3D render of the Voron ClockWork 2",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
               "title": "ClockWork 2"
             },
             "stealthburner-assembled.jpg": {
               "alt": "3D render of the Voron Stealthburner Assembled",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
               "title": "Stealthburner Assembled"
             },
             "stealthburner.jpg": {
               "alt": "3D render of the Voron Stealthburner",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
               "title": "Stealthburner"
+            },
+            "tool-cartridge.jpg": {
+              "alt": "3D render of the Voron Stealthburner Tool Cartridge",
+              "caption": "Image © 2026 [Voron Design](https://www.vorondesign.com)",
+              "title": "Tool Cartridge"
             },
             "x-carriage.jpg": {
               "alt": "3D render of the Voron Stealthburner X Carriage",
