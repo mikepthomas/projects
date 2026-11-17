@@ -1,10 +1,10 @@
 ---
-title: Voron AfterBurner
-heading: Assembling the Voron AfterBurner Toolhead
+title: Voron Afterburner
+heading: Assembling the Voron Afterburner Toolhead
 date: 2022-03-07
 lastmod: 2024-05-19T16:25:23.786Z
 author: Mike Thomas
-description: AfterBurner the toolhead for the Voron 1.8.
+description: Afterburner the toolhead for the Voron 1.8.
 preview: /assets/blog/voron-afterburner/afterburner-hero.jpg
 slug: /projects/voron-afterburner
 related:
@@ -89,7 +89,7 @@ keywords:
 
 # Printing Parts
 
-![3D render of the Voron AfterBurner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg)
+![3D render of the Voron Afterburner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg)
 
 > Image © 2021 [Voron Design](https://www.vorondesign.com)
 

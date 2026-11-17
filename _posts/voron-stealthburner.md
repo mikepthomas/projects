@@ -1,8 +1,8 @@
 ---
-title: Voron StealthBurner
-heading: Assembling the Voron StealthBurner Toolhead
+title: Voron Stealthburner
+heading: Assembling the Voron Stealthburner Toolhead
 date: 2024-05-16T13:21:45.217Z
-lastmod: 2024-06-05T16:33:58.369Z
+lastmod: 2026-11-17T21:23:28.141Z
 author: Mike Thomas
 description: Assembling the toolhead for the Voron 2.4.
 preview: /assets/blog/voron-stealthburner/stealthburner-hero.jpg
@@ -33,27 +33,25 @@ keywords:
 | Item                                     | Quantity | Received | Notes                                  |
 | ---------------------------------------- | -------: | -------: | -------------------------------------- |
 | ~Mounting screws for hotend (M2.5 / M3)~ |    ~2-4~ |          | Not required for V6 Toolhead           |
-| M3x8 SHCS                                |        2 |        2 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3xD5xL4 Heat Set                        |       17 |       17 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x8 SHCS                                |        6 |        6 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x6 FHCS                                |        3 |       51 |
 | M3x6 BHCS                                |        1 |        1 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x50 SHCS                               |        2 |       50 |
 | M3x30 SHCS                               |        1 |        1 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x25 SHCS                               |        6 |       30 |
-| M3x20 SHCS                               |        1 |        1 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3x16 SHCS                               |        2 |        2 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x20 SHCS                               |        2 |        2 | In LDO Voron V2.4 Premium Hardware Kit |
+| M3x16 SHCS                               |        4 |        4 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x12 SHCS                               |        2 |        2 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3x10 SHCS                               |        2 |        2 |
 | M3 Washer                                |        1 |        1 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3 Threaded Insert                       |       19 |       19 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3 Hexnut                                |        2 |        2 | In LDO Voron V2.4 Premium Hardware Kit |
 | Bondtech BMG Extruder Kit                |        1 |        1 |
 
 ## Misc
 
-| Misc                                 | Quantity | Received | Notes                                             |
-| ------------------------------------ | -------: | -------: | ------------------------------------------------- |
-| PTFE Tube 50mm (Trim to length)      |        1 |        1 |
-| ~6x3mm Magnet (Hall Effect Endstop)~ |      ~1~ |          | Not required as I will be using physical switches |
+| Misc                                          | Quantity | Received | Notes |
+| --------------------------------------------- | -------: | -------: | ----- |
+| PTFE Tube 50mm (Trim to length)               |        1 |        1 |
+| PTFE Collet 4.2mm ID 6mm OD or ECAS04 Fitting |        1 |        1 |
 
 ## Electronics
 
@@ -79,15 +77,38 @@ keywords:
 
 | Item                     | Quantity | Received | Notes                                                              |
 | ------------------------ | -------: | -------: | ------------------------------------------------------------------ |
+| M3xD5xL4 Heat Set        |        2 |        2 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
 | M3x12 SHCS               |        2 |        2 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
-| M3 Threaded Insert       |        2 |        2 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
 | M2x10 Self-Tapping Screw |        2 |        2 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
 | Harness for ADXL Sensor  |        1 |        1 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
 | ADXL345 Sensor Module    |        1 |        1 | in [LDO Input Shaper Kit](https://docs.ldomotors.com/en/adxl_tool) |
 
+## Filament Sensor
+
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------: | -------: | ----- |
+| M3x25 SHCS (ferrous)           |        1 |          |
+| AH3324Q-P-B Hall Effect Sensor |        1 |          |
+| 6x3mm N52 Magnet               |        1 |          |
+
+## Phoenix-style Umbilical Cable Anchor
+
+| Item         | Quantity | Received | Notes                                         |
+| ------------ | -------: | -------: | --------------------------------------------- |
+| ~M3x30 SHCS~ |      ~1~ |          | Not required as I will not be using umbilical |
+
+## Toolhead PCB
+
+| Item                       | Quantity | Received | Notes                                                                                                           |
+| -------------------------- | -------: | -------: | --------------------------------------------------------------------------------------------------------------- |
+| SB Compatible Toolhead PCB |        1 |        1 | [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+| M3xD5xL4 Heat Set          |        2 |        2 |
+| M3x8 SHCS                  |        2 |        2 |
+| Harness for Toolhead PCB   |        1 |        1 | [LDO Toolhead PCB](https://docs.ldomotors.com/en/voron/toolhead_harness#the-toolhead-pcb-stealthburner-version) |
+
 # Printing Parts
 
-![3D render of the Voron StealthBurner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg)
+![3D render of the Voron Stealthburner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
@@ -101,7 +122,7 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [SB_5015_Cutting_Tool_A](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_A.stl)                            |        1 |          |      |      |        |      |   :x:   |
 | [SB_5015_Cutting_Tool_B](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Tools/SB_5015_Cutting_Tool_B.stl)                            |        1 |          |      |      |        |      |   :x:   |
 
-## ClockWork 2
+## Clockwork 2.5
 
 ![3D render of the Voron ClockWork 2](/assets/blog/voron-stealthburner/voron-design/clockwork-2.jpg)
 
@@ -109,48 +130,133 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### :negative_squared_cross_mark: Guidler Arm
 
-| Item                                                                                                                                 | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [guidler_a](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_guidler_a.stl)         |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
-| [guidler_b](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_guidler_b.stl)         |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
-| [latch_shuttle](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_latch_shuttle.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+| Item                                                                                                                                   | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [guidler_a](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_guidler_a.stl)         |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+| [guidler_b](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_guidler_b.stl)         |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+| [latch_shuttle](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_latch_shuttle.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------: |
+| BMG Idler Assembly      |        1 |
+| BMG Thumbscrew Assembly |        1 |
+| M3x16 SHCS              |        1 |
+| M3xD5xL4 Heat Set       |        2 |
 
 ### :negative_squared_cross_mark: Motor Plate
 
-| Item                                                                                                                     | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| ------------------------------------------------------------------------------------------------------------------------ | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [motor_plate](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/motor_plate.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| Item                                                                                                                       | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [motor_plate](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/motor_plate.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item              | Quantity |
+| ----------------- | -------: |
+| M3xD5xL4 Heat Set |        7 |
+| MR85 Bearing      |        1 |
 
 ### :negative_squared_cross_mark: Main Body
 
-| Item                                                                                                                 | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [main_body](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/main_body.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| Item                                                                                                                                   | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes                              |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------------------------- |
+| ~[main_body_collet](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/main_body_collet.stl)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Not required, using ECAS04 version |
+| [main_body_ecas04](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/main_body_ecas04.stl)   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item                    | Quantity |
+| ----------------------- | -------: |
+| BMG Drive Gear Assembly |        1 |
+| ECAS04 Fitting          |        1 |
+| M3x25 SHCS              |        3 |
+| M3xD5xL4 Heat Set       |        3 |
+| MR85 Bearing            |        1 |
 
 ### :negative_squared_cross_mark: Latch
 
-| Item                                                                                                                 | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [latch](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/Direct_Drive/%5Ba%5D_latch.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+| Item                                                                                                                   | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| ---------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [latch](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_latch.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item       | Quantity |
+| ---------- | -------: |
+| M3x20 SHCS |        3 |
+
+### :negative_squared_cross_mark: Stepper Motor
+
+#### Parts Needed
+
+| Item                                         | Quantity |
+| -------------------------------------------- | -------: |
+| M3x8 SHCS                                    |        1 |
+| M3x30 SHCS                                   |        1 |
+| M3 Washer                                    |        1 |
+| NEMA14 36mm pancake Motor with 10 tooth gear |        1 |
 
 ### :negative_squared_cross_mark: Chain Anchor
 
-| Item                                                                                                                  | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes            |
-| --------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------- |
-| ~[chain_anchor](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/chain_anchor_3hole.stl)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | 3Hole Version    |
-| [chain_anchor_tilted](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_chain_anchor_tilted.stl)   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Nitehawk Version |
+| Item                                                                                                                                  | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes             |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----------------- |
+| ~[cable_anchor_umbilical](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/cable_anchor_umbilical.stl)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Umbilical Version |
+| ~[chain_anchor_2hole](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/chain_anchor_2hole.stl)~         |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | 2 Hole Version    |
+| ~[chain_anchor_3hole](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/chain_anchor_3hole.stl)~         |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | 3 Hole Version    |
+| [chain_anchor_tilted](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_chain_anchor_tilted.stl)                   |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Nitehawk Version  |
+
+| Item              | Quantity |
+| ----------------- | -------: |
+| M3x8 SHCS         |        1 |
+| M3x20 SHCS        |        1 |
+| M3xD5xL4 Heat Set |        4 |
+
+### :negative_squared_cross_mark: Toolhead PCB
+
+| Item                                                                                                                | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| ------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [pcb_spacer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/%5Ba%5D_pcb_spacer.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item             | Quantity |
+| ---------------- | -------: |
+| LDO Toolhead PCB |        1 |
+| M3x8 SHCS        |        2 |
 
 ### :negative_squared_cross_mark: Cable Cover
 
-| Item                                                                                                                | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes            |
-| ------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------- |
-| [pcb_spacer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/%5Ba%5D_pcb_spacer.stl)   |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
-| ~[cable_door](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2/cable_door_for_pcb.stl)~ |      ~1~ | [eSun ABS+ (Black)]  |      |      |        |      |   :x:   | For PCB          |
-| [captive_pcb_cover](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_captive_pcb_cover.stl)     |        1 | [eSun ABS+ (Black)]  |      |      |        |      |   :x:   | Nitehawk Version |
+| Item                                                                                                            | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes            |
+| --------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ---------------- |
+| ~[cable_cover](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/cable_cover.stl)~ |      ~1~ | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| [captive_pcb_cover](https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/STLs/cw2_captive_pcb_cover.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Nitehawk Version |
+
+#### Parts Needed
+
+| Item       | Quantity |
+| ---------- | -------: |
+| M3x6 BHCS  |        1 |
+| M3x16 SHCS |        1 |
+
+### Hall Effect Sensor
+
+| Item                                                                                                                                               | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [hall_effect_bracket](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_hall_effect_bracket.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+
+#### Parts Needed
+
+| Item                           | Quantity |
+| ------------------------------ | -------: |
+| M3x25 SHCS (ferrous)           |        1 |
+| AH3324Q-P-B Hall Effect Sensor |        1 |
+| 6x3mm N52 Magnet               |        1 |
 
 ## Tool Cartridge
 
-![3D render of the Voron StealthBurner Tool Cartridge](/assets/blog/voron-stealthburner/voron-design/tool-cartridge.jpg)
+![3D render of the Voron Stealthburner Tool Cartridge](/assets/blog/voron-stealthburner/voron-design/tool-cartridge.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
@@ -162,28 +268,54 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [printhead_v6_r6_rear_cw1](https://github.com/VoronDesign/Voron-Stealthburner/blob/cw1_compatible/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw1.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Clockwork 1 version |
 | [printhead_v6_r6_rear_cw2](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw2.stl)           |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | Clockwork 2 version |
 
-## StealthBurner
+#### Parts Needed
 
-![3D render of the Voron StealthBurner](/assets/blog/voron-stealthburner/voron-design/stealthburner.jpg)
+| Item              | Quantity |
+| ----------------- | -------: |
+| M3x16 SHCS        |        2 |
+| M3xD5xL4 Heat Set |        4 |
+| PTFE Tube 50mm    |        1 |
+| V6 Hotend         |        1 |
+
+## Stealthburner
+
+![3D render of the Voron Stealthburner](/assets/blog/voron-stealthburner/voron-design/stealthburner.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
-### :negative_squared_cross_mark: StealthBurner
+### :negative_squared_cross_mark: Stealthburner
 
 | Item                                                                                                                             | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
 | [main_body](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/%5Ba%5D_stealthburner_main_body.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
 
+#### Parts Needed
+
+| Item                     | Quantity |
+| ------------------------ | -------: |
+| 50x50x15 Centrifugal Fan |        1 |
+| 40x40x10 Axial Fan       |        1 |
+| M3x6 FHCS                |        2 |
+
 ### :negative_squared_cross_mark: LEDs
 
-| Item                                                                                                                                                                       | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------------------------------------- | ---: | ---: | -----: | ---: | :-----: | --------------------------------------------------------------------- |
-| ~[stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl)~ |      ~1~ | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |      |      |        |      |   :x:   | Rainbow Barf LED Version, Not required as I have a Resin Printed one. |
-| [led_carrier_rev2](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/led_carrier_rev2.stl)                                           |        1 | [eSun ABS+ (Black)]                                         |      |      |        |      |   :x:   | Rainbow Barf LED Version                                              |
+| Item                                                                                                                                                                       | Quantity | Material                                                    | Time | Size | Weight | Cost | Printed | Notes                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ----------------------------------------------------------- | ---: | ---: | -----: | ---: | :-----: | -------------------------------------------------------------------- |
+| ~[stealthburner_LED_carrier](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/%5Bo%5D_stealthburner_LED_carrier.stl)~                       |      ~1~ | [eSun ABS+ (Black)]                                         |      |      |        |      |   :x:   | Not required as I will be installing Rainbow Barf                    |
+| ~[stealthburner_LED_diffuser](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/%5Bc%5D_stealthburner_LED_diffuser.stl)~                     |      ~1~ | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |      |      |        |      |   :x:   | Not required as I will be installing Rainbow Barf                    |
+| ~[stealthburner_LED_diffuser-beta3](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/%5Bc%5D_stealthburner_LED_diffuser-beta3.stl)~ |      ~1~ | [BasicFil PET (Clear)](printer-filament#basicfil-pet-clear) |      |      |        |      |   :x:   | Rainbow Barf LED Version, Not required as I have a Resin Printed one |
+| [stealthburner_LED_diffuser_mask](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/%5Bo%5D_stealthburner_LED_diffuser_mask.stl)             |        1 | [eSun ABS+ (Black)]                                         |      |      |        |      |   :x:   |
+| [led_carrier_rev2](https://github.com/tanaes/whopping_Voron_mods/blob/main/LEDs/Rainbow_Barf_Logo_LED/STLs/led_carrier_rev2.stl)                                           |        1 | [eSun ABS+ (Black)]                                         |      |      |        |      |   :x:   | Rainbow Barf LED Version                                             |
+
+#### Parts Needed
+
+| Item                            | Quantity |
+| ------------------------------- | -------: |
+| Linneo Rainbow Barf LED Harness |        1 |
 
 ## ADXL345 Mount
 
-![3D render of the Voron StealthBurner ADXL345 Mount](/assets/blog/voron-stealthburner/voron-design/axdl345-mount.jpg)
+![3D render of the Voron Stealthburner ADXL345 Mount](/assets/blog/voron-stealthburner/voron-design/axdl345-mount.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
@@ -194,13 +326,21 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 | [adxl_mount](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_ldo_15mm_c_c.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   | For [LDO Input Shaper Kit](https://www.onetwo3d.co.uk/product/ldo-input-shaper-kit?wlr_ref=REF-ULH-QWV) |
 | [adxl_washer](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_washer_x2.stl)         |        2 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
 
+#### Parts Needed
+
+| Item                  | Quantity |
+| --------------------- | -------: |
+| ADXL345 Sensor Module |        1 |
+| M3x10 SHCS            |        2 |
+| M3x12 SHCS            |        2 |
+
 ## X Carriage
 
-![3D render of the Voron StealthBurner X Carriage](/assets/blog/voron-stealthburner/voron-design/x-carriage.jpg)
+![3D render of the Voron Stealthburner X Carriage](/assets/blog/voron-stealthburner/stealthburner-hero.jpg)
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
-The parts required to [mount the StealthBurner on Voron 2.4 can be found here](printer-voron-2.4#ab-belts).
+The parts required to [mount the Stealthburner on Voron 2.4 can be found here](printer-voron-2.4#ab-belts).
 
 [Filament]: #
 [eSun ABS+ (Black)]: printer-filament#esun-abs-black

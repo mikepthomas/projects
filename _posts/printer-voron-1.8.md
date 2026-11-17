@@ -621,19 +621,19 @@ The belts are routed in a layout that is known as [CoreXY](https://corexy.com/th
 | ------------------------------------------ | -------: |
 | GT2 Open Belt LL-2GT-6 (6mm wide) - 1890mm |        2 |
 
-## AfterBurner
+## Afterburner
 
-![3D render of the Voron AfterBurner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg 'AfterBurner Assembled')
+![3D render of the Voron Afterburner Assembled](/assets/blog/voron-afterburner/voron-design/afterburner-assembled.jpg 'Afterburner Assembled')
 
 > Image © 2021 [Voron Design](https://www.vorondesign.com/)
 
-I built the Afterburner toolhead but will eventually add the [StealthBurner Main Body](voron-stealthburner#stealthburner). However, I will keep the original Afterburner extruder, the Clockwork 1 rather than upgrade to Clockwork 2, There are a number of reasons for deciding this:
+I built the Afterburner toolhead but will eventually add the [Stealthburner Main Body](voron-stealthburner#stealthburner). However, I will keep the original Afterburner extruder, the Clockwork 1 rather than upgrade to Clockwork 2, There are a number of reasons for deciding this:
 
-1. I was planning on adding the [AB-BN By Badnoob](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) for a larger cooling fan, this was integrated into the design of the StealthBurner.
+1. I was planning on adding the [AB-BN By Badnoob](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) for a larger cooling fan, this was integrated into the design of the Stealthburner.
 2. I want to add the filament sensor for the [Enraged Rabbit Carrot Feeder](enraged-rabbit-carrot-feeder-1.1) which is not currently compatible with Clockwork 2.
 3. I want to add the [ERCF Afterburner Toolhead PCB](voron-afterburner#toolhead-pcb-1) which is also not currently compatible with Clockwork 2.
-4. The StealthBurner has an integrated mount for an [ADXL345 for Klipper Input Shaper](https://www.klipper3d.org/Measuring_Resonances.html).
-5. The StealthBurner also integrates some cool RGB LEDs (and who doesn't like a bit of RGB?).
+4. The Stealthburner has an integrated mount for an [ADXL345 for Klipper Input Shaper](https://www.klipper3d.org/Measuring_Resonances.html).
+5. The Stealthburner also integrates some cool RGB LEDs (and who doesn't like a bit of RGB?).
 
 [Assembly of the parts can be found on its own separate page](voron-afterburner).
 

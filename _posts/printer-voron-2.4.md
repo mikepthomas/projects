@@ -54,10 +54,10 @@ Fasteners are the parts needed to hold the 3D printed parts together and to the 
 | M3x8 SHCS                   |      173 |      190 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x6 FHCS                   |        8 |       51 |
 | M3x6 BHCS                   |       11 |       16 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3x50 SHCS                  |        2 |          | See [StealthBurner] BOM                |
+| M3x50 SHCS                  |        2 |          | See [Stealthburner] BOM                |
 | M3x40 SHCS                  |       30 |       33 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x30 SHCS                  |       25 |       35 | In LDO Voron V2.4 Premium Hardware Kit |
-| M3x25 SHCS                  |        6 |          | See [StealthBurner] BOM                |
+| M3x25 SHCS                  |        6 |          | See [Stealthburner] BOM                |
 | M3x20 SHCS                  |       22 |       30 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x16 SHCS                  |       20 |       23 | In LDO Voron V2.4 Premium Hardware Kit |
 | M3x12 SHCS                  |       41 |       44 | In LDO Voron V2.4 Premium Hardware Kit |
@@ -98,7 +98,7 @@ The Motion Components are Bearings, Gears, and Pulleys that the moving parts of 
 | GT2 20T Pulley (5mm ID 6mm W)              |    ~3~ 6 |        6 | In [LDO CNC AWD Kit]            |
 | GT2 16T Pulley (5mm ID 6mm W)              |        4 |        4 | In [Powge 2.4r2 Motion Kit]     |
 | F695 Bearing                               |  ~20~ 26 |       26 | In [LDO CNC AWD Kit]            |
-| BMG Extruder Components Kit                |        1 |          | See [StealthBurner] BOM         |
+| BMG Extruder Components Kit                |        1 |          | See [Stealthburner] BOM         |
 | 625 Bearing                                |       12 |       12 | In [Powge 2.4r2 Motion Kit]     |
 
 > [!NOTE]
@@ -129,7 +129,7 @@ These are all the Electrical components that make the Printer work such as Circu
 | Omron G3A-210B-DC5 SSR                                |        1 |        1 | [Omron G3NA-210B-UTU]                                                                |
 | Omron D2F-01L Micro Switch                            |        3 |       30 |
 | NEMA17 Motor 17HS19-2004S                             |        6 |        6 | 4 [LDO Speedy Power HT Motors] for A/B & 4 [LDO SwitchWire Motors] for Z             |
-| NEMA14 Motor 36STH20-1004AHG                          |        1 |          | See [StealthBurner] BOM                                                              |
+| NEMA14 Motor 36STH20-1004AHG                          |        1 |          | See [Stealthburner] BOM                                                              |
 | ~Mini 12864 Display~                                  |      ~1~ |          | I will be using a [BigTreeTech PITFT50] V2.0 Display instead                         |
 | Medium Blow Fuse 5x20mm 4A (220V mains)               |        2 |          | Comes with [Inlet Power Socket IEC320 C14]                                           |
 | Mean Well RS-25-5 PSU                                 |        1 |        1 |
@@ -142,8 +142,8 @@ These are all the Electrical components that make the Printer work such as Circu
 | C13 Power Cord                                        |        1 |        1 |
 | ~BAT85 Diode~                                         |      ~1~ |        7 | Not required with [LDO Nitehawk v2.0]                                                |
 | 60x60x20 Fan (24V)                                    |        3 |        2 | AFB0624HD Delta Fans, 1 Not required as I am building [Nevermore StealthMax] instead |
-| ~40x40x20 Centrifugal Fan (24V)~                      |      ~1~ |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
-| ~40x40x10 Axial Fan (24V)~                            |      ~1~ |          | Not required, for [AfterBurner], I am building [StealthBurner] instead               |
+| ~40x40x20 Centrifugal Fan (24V)~                      |      ~1~ |          | Not required, for [Afterburner], I am building [Stealthburner] instead               |
+| ~40x40x10 Axial Fan (24V)~                            |      ~1~ |          | Not required, for [Afterburner], I am building [Stealthburner] instead               |
 | Filament Sensor                                       |          |        2 | [BigTreeTech Smart Filament Sensor V2.0]                                             |
 
 [BigTreeTech PITFT50]: https://biqu.equipment/products/bigtreetech-pi-tft43-v2-0-screen-board 'BigTreeTech PITFT50 V2.0 Touch Screen for Raspberry Pi'
@@ -1282,13 +1282,13 @@ The manual says to install this earlier in the build. I have opted to leave it u
 
 ## Stealthburner
 
-![3D render of the Voron StealthBurner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg 'Stealthburner Assembled')
+![3D render of the Voron Stealthburner Assembled](/assets/blog/voron-stealthburner/voron-design/stealthburner-assembled.jpg 'Stealthburner Assembled')
 
 > Image © 2023 [Voron Design](https://www.vorondesign.com)
 
-The StealthBurner’s files are maintained separately in the [Voron Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner).
+The Stealthburner’s files are maintained separately in the [Voron Stealthburner repository](https://github.com/VoronDesign/Voron-Stealthburner).
 
-[Assembly of the parts can be found on its own separate page][StealthBurner].
+[Assembly of the parts can be found on its own separate page][Stealthburner].
 
 ## Skirts
 
@@ -1581,7 +1581,7 @@ I plan on printing the spool holder in accent colour as I have some black PTFE t
 [Lecso]: https://www.printables.com/@Lecso_113752
 [Vitalii3D]: https://www.printables.com/@Vitalii3D
 [Related Links]: #
-[AfterBurner]: voron-afterburner 'Assembling the Voron AfterBurner Toolhead'
-[StealthBurner]: voron-stealthburner 'Assembling the Voron StealthBurner Toolhead'
+[Afterburner]: voron-afterburner 'Assembling the Voron Afterburner Toolhead'
+[Stealthburner]: voron-stealthburner 'Assembling the Voron Stealthburner Toolhead'
 [Nevermore StealthMax]: nevermore-filter#nevermore-stealthmax 'Assembling a Nevermore Filter'
 [Voron 1.8]: printer-voron-1.8 'Building my first Voron printer'

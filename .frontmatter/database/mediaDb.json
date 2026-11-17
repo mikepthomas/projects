@@ -1979,9 +1979,9 @@
           },
           "voron-design": {
             "afterburner-assembled.jpg": {
-              "alt": "3D render of the Voron AfterBurner Assembled",
+              "alt": "3D render of the Voron Afterburner Assembled",
               "caption": "Image © 2021 [Voron Design](https://www.vorondesign.com)",
-              "title": "AfterBurner Assembled"
+              "title": "Afterburner Assembled"
             }
           }
         },
@@ -2064,13 +2064,13 @@
         },
         "voron-stealthburner": {
           "stealthburner-hero.jpg": {
-            "alt": "3D render of the Voron StealthBurner Toolhead",
+            "alt": "3D render of the Voron Stealthburner Toolhead",
             "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-            "title": "StealthBurner Hero"
+            "title": "Stealthburner Hero"
           },
           "voron-design": {
             "axdl345-mount.jpg": {
-              "alt": "3D render of the Voron StealthBurner ADXL345 Mount",
+              "alt": "3D render of the Voron Stealthburner ADXL345 Mount",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
               "title": "ADXL345 Mount"
             },
@@ -2080,22 +2080,17 @@
               "title": "ClockWork 2"
             },
             "stealthburner-assembled.jpg": {
-              "alt": "3D render of the Voron StealthBurner Assembled",
+              "alt": "3D render of the Voron Stealthburner Assembled",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
               "title": "Stealthburner Assembled"
             },
             "stealthburner.jpg": {
-              "alt": "3D render of the Voron StealthBurner",
+              "alt": "3D render of the Voron Stealthburner",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "title": "StealthBurner"
-            },
-            "tool-cartridge.jpg": {
-              "alt": "3D render of the Voron StealthBurner Tool Cartridge",
-              "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
-              "title": "Tool Cartridge"
+              "title": "Stealthburner"
             },
             "x-carriage.jpg": {
-              "alt": "3D render of the Voron StealthBurner X Carriage",
+              "alt": "3D render of the Voron Stealthburner X Carriage",
               "caption": "Image © 2023 [Voron Design](https://www.vorondesign.com)",
               "title": "X Carriage"
             }

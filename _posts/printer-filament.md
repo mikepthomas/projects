@@ -61,7 +61,7 @@ I usually print BasicFil PET with a hotend temperature of 240-245°C and a bed t
 
 ### BasicFil PET (Clear)
 
-This filament was originally brought to print the [StealthBurner][Stealthburner] LED Diffuser.
+This filament was originally brought to print the [Stealthburner][Stealthburner] LED Diffuser.
 
 |                            Color                             | Hotend Temp                  | Bed Temp | Filament Profile                                                                | Slicer Profile                                                                                                                            | Purchased From                                           | Avg Cost | KGs Purchased | Notes |
 | :----------------------------------------------------------: | ---------------------------- | -------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------: | ------------: | ----- |
@@ -461,7 +461,7 @@ When I started on my Voron printer project I needed some ABS and the eSun ABS+ c
 [Red Rocket]: red-rocket '3D Printing the Red Rocket Truck Stop'
 [Rook]: printer-rook '3D Printing the Rook, a cheap CoreXY 3D Printer'
 [Sanctuary Hills]: sanctuary-hills '3D Printing a Sanctuary Hills House from Fallout 4'
-[Stealthburner]: voron-stealthburner 'Assembling the Voron StealthBurner Toolhead'
+[Stealthburner]: voron-stealthburner 'Assembling the Voron Stealthburner Toolhead'
 [Vault]: vault '3D Printing a Vault-Tec Vault'
 [Voron 0.2]: printer-voron-0.2 'Assembling the smallest Voron printer'
 [Voron 1.8]: printer-voron-1.8 'Building my first Voron printer'
