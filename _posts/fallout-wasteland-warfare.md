@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-11-14T11:29:59.645Z
+lastmod: 2026-11-18T21:30:32.463Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2236,6 +2236,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 | [Issue No. 5 - Raider Base of Your Dreams][Astoundingly Awesome Tales 1-5] | :heavy_check_mark: |                                           |                    |                                   | Only available as bonus in physical book |
 | Issue No. 6 - Into the Abyss                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 6] | :heavy_check_mark: | August 2024                       |
 | Issue No. 7 - One Last Visit                                               |                    | [Buy :pdf:][Astoundingly Awesome Tales 7] | :heavy_check_mark: | July 2026                         |
+| Issue No. 8 - Governed by the G.O.A.T.                                     |                    | [Buy :pdf:][Astoundingly Awesome Tales 8] | :heavy_check_mark: | November 2026                     |
 
 [Astoundingly Awesome Tales 1-5]: https://modiphius.net/products/fallout-the-roleplaying-game-astoundingly-awesome-tales-1-4-bonus
 [Astoundingly Awesome Tales 1]: https://modiphius.net/products/fallout-the-roleplaying-game-orange-colored-sky-pdf
@@ -2244,6 +2245,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 [Astoundingly Awesome Tales 4]: https://modiphius.net/products/fallout-the-roleplaying-game-hunted-pdf
 [Astoundingly Awesome Tales 6]: https://modiphius.net/products/fallout-the-roleplaying-game-into-the-abyss-pdf
 [Astoundingly Awesome Tales 7]: https://modiphius.net/products/fallout-the-rpg-adventure-7-one-last-visit-pdf
+[Astoundingly Awesome Tales 8]: https://modiphius.net/products/fallout-the-roleplaying-game-governed-by-the-g-o-a-t-pdf
 
 ### Character Sheets
 
