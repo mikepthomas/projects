@@ -242,9 +242,9 @@ All printed parts will be printed in eSun ABS+. The Voron team recommends an inf
 
 ### Hall Effect Sensor
 
-| Item                                                                                                                                               | Quantity | Material            | Time | Size | Weight | Cost | Printed | Notes |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | ------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
-| [hall_effect_bracket](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_hall_effect_bracket.stl) |        1 | [eSun ABS+ (Black)] |      |      |        |      |   :x:   |
+| Item                                                                                                                                               | Quantity | Material             | Time | Size | Weight | Cost | Printed | Notes |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------: | -------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
+| [hall_effect_bracket](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/STLs/Clockwork2.5/Direct_Drive/%5Ba%5D_hall_effect_bracket.stl) |        1 | [eSun ABS+ (Purple)] |      |      |        |      |   :x:   |
 
 #### Parts Needed
 
