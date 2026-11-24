@@ -2,7 +2,7 @@
 title: Eurorack Modular Synth
 heading: Building a DIY Eurorack Modular Synth
 date: 2023-06-29
-lastmod: 2026-11-06T18:26:03.861Z
+lastmod: 2026-11-24T12:34:25.701Z
 author: Mike Thomas
 description: Building a Eurorack Modular Synthesizer from scratch.
 preview: /assets/blog/eurorack-modular-synth/eurorack-hero.jpg
@@ -1978,6 +1978,106 @@ Kit contains the `Quantity` needed for building 1 unit.
 ### :negative_squared_cross_mark: Assembly
 
 Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/media/COMPRESSOR_MANUAL.pdf) on the [Erica Synths Website](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-compressor)
+
+## Other Modules
+
+### Reverb
+
+Kit contains the `Quantity` needed for building 1 unit.
+
+#### PCB
+
+| Item                | Quantity | Received | Notes |
+| ------------------- | -------: | -------: | ----- |
+| EDUREV1C PCB        |        1 |        1 |
+| EDUREV1M PCB        |        1 |        1 |
+| EDUREV1 Front Panel |        1 |        1 |
+
+#### Capacitors
+
+| Item                           | Quantity | Received | Notes |
+| ------------------------------ | -------: | -------: | ----- |
+| Electrolytic Capacitor (47uF)  |        2 |        2 |
+| Electrolytic Capacitor (3.3uF) |        3 |        3 |
+| Film Capacitor (1uF)           |        2 |        2 |
+| Film Capacitor (220nF)         |        2 |        2 |
+| Film Capacitor (2.2nF)         |        2 |        2 |
+| Film Capacitor (1nF)           |        2 |        2 |
+| Film Capacitor (560pF)         |        1 |        1 |
+| Film Capacitor (470pF)         |        2 |        2 |
+| Film Capacitor (330pF)         |        1 |        1 |
+| Ceramic Capacitor (100nF)      |       16 |       16 |
+| Ceramic Capacitor (100pF)      |        2 |        2 |
+
+#### Diodes
+
+| Item                    | Quantity | Received | Notes |
+| ----------------------- | -------: | -------: | ----- |
+| Signal Diode (1N4148)   |        4 |        4 |
+| Schottky Diode (1N5819) |        2 |        2 |
+
+#### Integrated Circuits
+
+| Item                     | Quantity | Received | Notes |
+| ------------------------ | -------: | -------: | ----- |
+| 5V Regulator (78L05)     |        1 |        1 |
+| 8 Pin DIP Sockets        |        5 |        5 |
+| 14 Pin DIP Sockets       |        2 |        2 |
+| 2048-stage BBD (V3208)   |        2 |        2 |
+| BBD clock driver (V3102) |        2 |        2 |
+| Op Amp Dual (TL072)      |        1 |        1 |
+| Op Amp Quad (TL074)      |        2 |        2 |
+| Transistor NPN (BC548C)  |        6 |        6 |
+| Transistor PNP (BC558C)  |        1 |        1 |
+
+#### Potentiometers
+
+| Item                                | Quantity | Received | Notes |
+| ----------------------------------- | -------: | -------: | ----- |
+| PCB Mount Trim Potentiometer (2M)   |        2 |        2 |
+| PCB Mount Trim Potentiometer (100K) |        2 |        2 |
+| PCB Mount Trim Potentiometer (20K)  |        2 |        2 |
+| Vertical Alpha Potentiometer (B10K) |        1 |        1 |
+| Vertical Trim Potentiometer (B1M)   |        1 |        1 |
+| Vertical Trim Potentiometer (B100K) |        4 |        4 |
+
+#### Resistors
+
+| Item                       | Quantity | Received | Notes |
+| -------------------------- | -------: | -------: | ----- |
+| Metal Film resistor (1.5M) |        2 |        2 |
+| Metal Film resistor (1M)   |        2 |        2 |
+| Metal Film resistor (470K) |        1 |        1 |
+| Metal Film resistor (360K) |        1 |        1 |
+| Metal Film resistor (330K) |        1 |        1 |
+| Metal Film resistor (100K) |       23 |       23 |
+| Metal Film resistor (47K)  |        2 |        2 |
+| Metal Film resistor (39K)  |        1 |        1 |
+| Metal Film resistor (20K)  |        2 |        2 |
+| Metal Film resistor (10K)  |        8 |        8 |
+| Metal Film resistor (6.2K) |        2 |        2 |
+| Metal Film resistor (5.1K) |        1 |        1 |
+| Metal Film resistor (1K)   |        3 |        3 |
+| Metal Film resistor (330R) |        2 |        2 |
+| Metal Film resistor (10R)  |        2 |        2 |
+
+#### Misc
+
+| Item                  | Quantity | Received | Notes |
+| --------------------- | -------: | -------: | ----- |
+| Mono Audio Jack       |        5 |        5 |
+| 10 Pin Power Header   |        1 |        1 |
+| 10-16 pin Power Cable |        1 |        1 |
+
+### How It Works
+
+[Erica Synths x mki DIY Reverb Video](https://www.youtube-nocookie.com/embed/Nat7S3OKDV0)
+
+> Video © 2026 [Erica Synths](https://www.youtube.com/@EricaSynths)
+
+### :negative_squared_cross_mark: Assembly
+
+Assembly Instructions are available in the [User Manual](https://www.ericasynths.lv/service/file/download/product_id/1650/file_id/673) on the [Erica Synths Website](https://www.ericasynths.lv/edu-diy-reverb-3946)
 
 # Bleep Sound
 
