@@ -1983,6 +1983,10 @@ Assembly Instructions are available in the [User Manual](https://www.ericasynths
 
 ### Reverb
 
+[Erica Synths x mki DIY REVERB Video](https://www.youtube-nocookie.com/embed/OCbXke7oODc)
+
+> Video © 2026 [Erica Synths](https://www.youtube.com/@EricaSynths)
+
 Kit contains the `Quantity` needed for building 1 unit.
 
 #### PCB
@@ -2071,9 +2075,9 @@ Kit contains the `Quantity` needed for building 1 unit.
 
 ### How It Works
 
-[Erica Synths x mki DIY Reverb Video](https://www.youtube-nocookie.com/embed/Nat7S3OKDV0)
+[This analog circuit can sound like any room Video](https://www.youtube-nocookie.com/embed/Nat7S3OKDV0)
 
-> Video © 2026 [Erica Synths](https://www.youtube.com/@EricaSynths)
+> Video © 2026 [Moritz Klein](https://www.youtube.com/@MoritzKlein0)
 
 ### :negative_squared_cross_mark: Assembly
 
