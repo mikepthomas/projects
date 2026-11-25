@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-11-18T21:30:32.463Z
+lastmod: 2026-11-25T12:15:42.005Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -2278,10 +2278,10 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Guide Book
 
-| Item               | Purchased | Digital                           |     Downloaded     | Released        | Notes |
-| ------------------ | :-------: | --------------------------------- | :----------------: | --------------- | ----- |
-| [Settler's Guide]  |    :x:    | [Buy :pdf:][Settler's Guide PDF]  | :heavy_check_mark: | [October 2023]  |
-| [Wanderer's Guide] |    :x:    | [Buy :pdf:][Wanderer's Guide PDF] | :heavy_check_mark: | [February 2024] |
+| Item               |     Purchased      | Digital                           |     Downloaded     | Released        | Notes |
+| ------------------ | :----------------: | --------------------------------- | :----------------: | --------------- | ----- |
+| [Settler's Guide]  | :heavy_check_mark: | [Buy :pdf:][Settler's Guide PDF]  | :heavy_check_mark: | [October 2023]  |
+| [Wanderer's Guide] | :heavy_check_mark: | [Buy :pdf:][Wanderer's Guide PDF] | :heavy_check_mark: | [February 2024] |
 
 [Settler's Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-supplement
 [Settler's Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-settlers-guide-book-pdf
