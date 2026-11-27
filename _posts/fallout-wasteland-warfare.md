@@ -4,7 +4,7 @@ title: |
 heading: |
   Fallout: Wasteland Warfare and Fallout Factions
 date: 2025-09-29T22:27:55.601Z
-lastmod: 2026-11-25T12:15:42.005Z
+lastmod: 2026-11-27T11:32:35.379Z
 author: Mike Thomas
 description: |
   3D Printing parts to enhance the game Fallout: Wasteland Warfare and Fallout Factions by Modiphius
@@ -46,7 +46,7 @@ I have estimated these by sifting through the Modiphius [Blog Posts](https://mod
 
 ## Wave 1 - Starter Set
 
-Wave 1 introduces the game with the `Two Player Starter Set` which contains everything you need to learn how to play the game.
+Wave 1 introduces the game with the `Two-Player Starter Set` which contains everything you need to learn how to play the game.
 
 ### Development
 
@@ -107,17 +107,17 @@ A tick in the `Purchased` column means that I have the Physical item and the `Do
 | Item                     |     Purchased      | Digital                          |     Downloaded     | Released                          | Notes                                                          |
 | ------------------------ | :----------------: | -------------------------------- | :----------------: | --------------------------------- | -------------------------------------------------------------- |
 | [Settlement Deck]        | :heavy_check_mark: |                                  |                    | April 2019                        | Discontinued, but some cards are available in later card decks |
-| [Two Player Starter Set] | :heavy_check_mark: |                                  |                    | [April 2019][DEVELOPMENT BLOG #1] |
-| ┝ Cards                  | :heavy_check_mark: | [Free :pdf:][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Dice & Rulers          | :heavy_check_mark: | [Free :pdf:][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two Player Starter Set`          |
-| ┝ Errata (v1.0)          | :heavy_check_mark: |                                  |        :x:         | August 2018                       | Physical version included in `Two Player Starter Set`          |
-| ┝ Getting Acclimated     | :heavy_check_mark: | [Free :pdf:][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Rules of Play          | :heavy_check_mark: | [Free :pdf:][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
-| ┝ Campaign Handbook      | :heavy_check_mark: | [Buy :pdf:][Campaign Handbook]   | :heavy_check_mark: | April 2019                        | Physical version included in `Two Player Starter Set`          |
+| [Two-Player Starter Set] | :heavy_check_mark: |                                  |                    | [April 2019][DEVELOPMENT BLOG #1] |
+| ┝ Cards                  | :heavy_check_mark: | [Free :pdf:][Cards]              | :heavy_check_mark: | April 2019                        | Physical version included in `Two-Player Starter Set`          |
+| ┝ Dice & Rulers          | :heavy_check_mark: | [Free :pdf:][Dice & Rulers]      | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #3] | Physical version included in `Two-Player Starter Set`          |
+| ┝ Errata (v1.0)          | :heavy_check_mark: |                                  |        :x:         | August 2018                       | Physical version included in `Two-Player Starter Set`          |
+| ┝ Getting Acclimated     | :heavy_check_mark: | [Free :pdf:][Getting Acclimated] | :heavy_check_mark: | April 2019                        | Physical version included in `Two-Player Starter Set`          |
+| ┝ Rules of Play          | :heavy_check_mark: | [Free :pdf:][Rules of Play]      | :heavy_check_mark: | April 2019                        | Physical version included in `Two-Player Starter Set`          |
+| ┝ Campaign Handbook      | :heavy_check_mark: | [Buy :pdf:][Campaign Handbook]   | :heavy_check_mark: | April 2019                        | Physical version included in `Two-Player Starter Set`          |
 | ┕ [Zetan]                | :heavy_check_mark: |                                  |                    | [August 2019][PR 12/08/19]        | Promo                                                          |
 
 [Settlement Deck]: https://web.archive.org/web/20221021105441/https://www.modiphius.net/collections/fallout-wasteland-warfare/products/fallout-wasteland-warfare-accessories-settlement-deck
-[Two Player Starter Set]: https://web.archive.org/web/20260201151728/https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
+[Two-Player Starter Set]: https://web.archive.org/web/20260201151728/https://modiphius.net/products/fallout-wasteland-warfare-two-player-starter-set
 [Cards]: https://cdn.shopify.com/s/files/1/0225/4035/files/FalloutWastelandWarfareCard_Selection.pdf
 [Dice & Rulers]: https://cdn.shopify.com/s/files/1/0225/4035/files/Fallout_Wasteland_Warfare_Dice_Reference_Sheet_1_page_d091f74d-cefc-498b-9d32-4163749e2eda.pdf
 [Getting Acclimated]: https://cdn.shopify.com/s/files/1/0225/4035/files/FOWW_Getting_Acclimated_Digital_Final_v1.3.pdf
@@ -179,7 +179,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 | ----------------------- | :----------------: | ------------------------------------------------- | :----------------: | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Acrylic Rulers          |        :x:         |                                                   |                    | April 2019                         | Discontinued                                                                                                                                     |
 | [Nuka Cola Caps Set]    | :heavy_check_mark: |                                                   |                    | April 2019                         | Contains stickers so that they can be used as in game tokens                                                                                     |
-| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide :pdf:][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
+| [Red Rocket Scenic Set] | :heavy_check_mark: | [Assembly Guide :pdf:][Red Rocket Assembly Guide] | :heavy_check_mark: | [April 2019][DEVELOPMENT BLOG #10] | Contains Neoprene mat to replace the paper one in the `Two-Player Starter Set`, building will be replaced by [3D Printed Red Rocket](red-rocket) |
 | ┕ [Red Rocket Play Mat] | :heavy_check_mark: |                                                   |                    | [April 2019][DEVELOPMENT BLOG #10] | included in `Red Rocket Scenic Set`                                                                                                              |
 
 [Nuka Cola Caps Set]: https://modiphius.net/products/fallout-wasteland-warfare-accessories-custom-caps-set
@@ -204,15 +204,15 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 > Image © 2017 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                      |     Purchased      | Digital | Downloaded | Released                           | Notes |
-| ----------------------------------------- | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
-| [Nuka Cola Girl]                          | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]         | Promo |
-| [Super Mutants: Behemoth]                 | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]  |
-| [Two Player Starter Set Resin Miniatures] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #12] |
+| Item                                       |     Purchased      | Digital | Downloaded | Released                           | Notes |
+| ------------------------------------------ | :----------------: | ------- | :--------: | ---------------------------------- | ----- |
+| [Nuka Cola Girl]                           | :heavy_check_mark: |         |            | [August 2019][PR 12/08/19]         | Promo |
+| [Super Mutants: Behemoth]                  | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #8]  |
+| [Two-Player Starter Set: Resin Miniatures] | :heavy_check_mark: |         |            | [April 2019][DEVELOPMENT BLOG #12] |
 
 [Nuka Cola Girl]: https://modiphius.net/products/fallout-wasteland-warfare-nuka-cola-girl-miniature
 [Super Mutants: Behemoth]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-behemoth
-[Two Player Starter Set Resin Miniatures]: https://modiphius.net/products/copy-of-fallout-wasteland-warfare-two-player-starter-models-collectors-resin-set
+[Two-Player Starter Set: Resin Miniatures]: https://modiphius.net/products/copy-of-fallout-wasteland-warfare-two-player-starter-models-collectors-resin-set
 
 #### Brotherhood of Steel
 
@@ -220,7 +220,7 @@ This tutorial brings together all that we have learned so far by using a Hunting
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the main `Brotherhood of Steel` sets in addition to the [Two Player Starter Set].
+[The Brotherhood of Steel Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-starter-bundle) includes the main `Brotherhood of Steel` sets in addition to the [Two-Player Starter Set].
 
 | Item                                                        |     Purchased      | Digital | Downloaded | Released   | Notes                                                  |
 | ----------------------------------------------------------- | :----------------: | ------- | :--------: | ---------- | ------------------------------------------------------ |
@@ -274,7 +274,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main `Super Mutant` sets in addition to the [Two Player Starter Set].
+[The Super Mutants Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-starter-bundle) includes the main `Super Mutant` sets in addition to the [Two-Player Starter Set].
 
 | Item                       |     Purchased      | Digital | Downloaded | Released                                  | Notes |
 | -------------------------- | :----------------: | ------- | :--------: | ----------------------------------------- | ----- |
@@ -292,7 +292,7 @@ The [Robots: Core Box] contains the following in addition to [Robots: Sentry Bot
 
 > Image © 2019 [Modiphius Entertainment](https://www.modiphius.net)
 
-[The Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle) includes the main `Survivors` sets in addition to the [Two Player Starter Set].
+[The Survivors Starter Bundle](https://modiphius.net/products/fallout-wasteland-warfare-survivors-starter-bundle) includes the main `Survivors` sets in addition to the [Two-Player Starter Set].
 
 | Item                                   |     Purchased      | Digital | Downloaded | Released                          | Notes                                                             |
 | -------------------------------------- | :----------------: | ------- | :--------: | --------------------------------- | ----------------------------------------------------------------- |
@@ -833,7 +833,7 @@ Wave 4 expands on the base game, introducing the `Enclave` faction, with new Min
 
 #### Box Insert
 
-These are 3D Printable inserts that work similar to the [Folded Box Inserts] that fit inside the [Two Player Starter Set] box to help organise it's contents.
+These are 3D Printable inserts that work similar to the [Folded Box Inserts] that fit inside the [Two-Player Starter Set] box to help organise it's contents.
 
 | Item                                 | Quantity | Material               | Time | Size | Weight | Cost | Printed | Notes |
 | ------------------------------------ | -------: | ---------------------- | ---: | ---: | -----: | ---: | :-----: | ----- |
@@ -861,12 +861,12 @@ These are 3D Printable inserts that work similar to the [Folded Box Inserts] tha
 
 > Image © 2018 [Modiphius Entertainment](https://www.modiphius.net)
 
-| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                    | Notes |
-| ------------------------------------- | :----------------: | ----------------------- | :----------------: | --------------------------- | ----- |
-| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    | October 2020                |
+| Item                                  |     Purchased      | Digital                 |     Downloaded     | Released                    | Notes                                                         |
+| ------------------------------------- | :----------------: | ----------------------- | :----------------: | --------------------------- | ------------------------------------------------------------- |
+| [Brotherhood of Steel: Power Armor 1] | :heavy_check_mark: |                         |                    | October 2020                | Same as the one in [Two-Player Starter Set: Resin Miniatures] |
 | [Robots: Robobrain]                   | :heavy_check_mark: | [Robobrain Cards :pdf:] | :heavy_check_mark: | [April 2021][YT April 2021] |
-| [Super Mutant: Aviator]               |        :x:         |                         |                    | October 2020                |
-| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020]             | Promo |
+| [Super Mutant: Aviator]               |        :x:         |                         |                    | October 2020                | Same as the one in [Two-Player Starter Set: Resin Miniatures] |
+| [Survivors: Lorenzo Cabot]            | :heavy_check_mark: |                         |                    | [November 2020]             | Promo                                                         |
 | [Unaligned: T-45 Power Armour]        | :heavy_check_mark: |                         |                    | [December 2020]             |
 
 [Brotherhood of Steel: Power Armor 1]: https://modiphius.net/products/fallout-wasteland-warfare-brotherhood-of-steel-power-armor
@@ -1064,19 +1064,19 @@ In Wave 5, Modiphius changed the way they release content. In this Wave they rel
 
 #### Robots
 
-| Item                           | Purchased | Digital | Downloaded | Released         | Notes |
-| ------------------------------ | :-------: | ------- | :--------: | ---------------- | ----- |
-| [Robots: Securitron Enforcers] |    :x:    |         |            | [September 2021] |
+| Item                           |     Purchased      | Digital | Downloaded | Released         | Notes |
+| ------------------------------ | :----------------: | ------- | :--------: | ---------------- | ----- |
+| [Robots: Securitron Enforcers] | :heavy_check_mark: |         |            | [September 2021] |
 
 [Robots: Securitron Enforcers]: https://modiphius.net/products/fallout-wasteland-warfare-robots-securitron-enforcers
 
 #### Super Mutants
 
-| Item                              | Purchased | Digital | Downloaded | Released         | Notes |
-| --------------------------------- | :-------: | ------- | :--------: | ---------------- | ----- |
-| [Super Mutants: Marcus and Lily]  |    :x:    |         |            | [September 2021] |
-| [Super Mutants: Nightkin]         |    :x:    |         |            | [August 2021]    |
-| [Super Mutants: Tabitha and Raul] |    :x:    |         |            | [August 2021]    |
+| Item                              |     Purchased      | Digital | Downloaded | Released         | Notes |
+| --------------------------------- | :----------------: | ------- | :--------: | ---------------- | ----- |
+| [Super Mutants: Marcus and Lily]  | :heavy_check_mark: |         |            | [September 2021] |
+| [Super Mutants: Nightkin]         | :heavy_check_mark: |         |            | [August 2021]    |
+| [Super Mutants: Tabitha and Raul] | :heavy_check_mark: |         |            | [August 2021]    |
 
 [Super Mutants: Marcus and Lily]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-marcus-and-lily
 [Super Mutants: Nightkin]: https://modiphius.net/products/fallout-wasteland-warfare-super-mutants-nightkin
@@ -1531,13 +1531,13 @@ Wave 9 introduces 3 new sub-factions of the `Raiders`, `The Disciples`, `The Ope
 
 `The Disciples`, `The Operators`, and `The Pack` Core Boxes are listed as part of [Fallout Factions: Battle for Nuka-World](#battle-for-nuka-world).
 
-| Item                          | Purchased | Digital | Downloaded | Released        | Notes |
-| ----------------------------- | :-------: | ------- | :--------: | --------------- | ----- |
-| [Raiders: Disciples Leaders]  |    :x:    |         |            | [October 2023]  |
-| [Raiders: Operators Bosses]   |    :x:    |         |            | [October 2023]  |
-| [Raiders: Pack Top Dogs]      |    :x:    |         |            | [October 2023]  |
-| [Raiders: Park Overlords]     |    :x:    |         |            | [November 2023] |
-| [Raiders: Park Personalities] |    :x:    |         |            | [November 2023] |
+| Item                          |     Purchased      | Digital | Downloaded | Released        | Notes |
+| ----------------------------- | :----------------: | ------- | :--------: | --------------- | ----- |
+| [Raiders: Disciples Leaders]  | :heavy_check_mark: |         |            | [October 2023]  |
+| [Raiders: Operators Bosses]   | :heavy_check_mark: |         |            | [October 2023]  |
+| [Raiders: Pack Top Dogs]      | :heavy_check_mark: |         |            | [October 2023]  |
+| [Raiders: Park Overlords]     | :heavy_check_mark: |         |            | [November 2023] |
+| [Raiders: Park Personalities] | :heavy_check_mark: |         |            | [November 2023] |
 
 [Raiders: Disciples Leaders]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-disciples-leaders
 [Raiders: Operators Bosses]: https://modiphius.net/products/fallout-wasteland-warfare-raiders-operators-bosses
@@ -2320,7 +2320,7 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 | Item             |     Purchased      | Digital                         |     Downloaded     | Released                  | Notes |
 | ---------------- | :----------------: | ------------------------------- | :----------------: | ------------------------- | ----- |
-| [Royal Flush]    |        :x:         | [Buy :pdf:][Royal Flush PDF]    | :heavy_check_mark: | [January 2026]            |
+| [Royal Flush]    | :heavy_check_mark: | [Buy :pdf:][Royal Flush PDF]    | :heavy_check_mark: | [January 2026]            |
 | [Winter of Atom] | :heavy_check_mark: | [Buy :pdf:][Winter of Atom PDF] | :heavy_check_mark: | [July 2023][YT July 2023] |
 
 [Royal Flush]: https://modiphius.net/products/fallout-the-roleplaying-game-royal-flush
@@ -2342,9 +2342,9 @@ The [RPG Bundle](https://web.archive.org/web/20220725164428/https://www.modiphiu
 
 ### Setting Guide
 
-| Item                      | Purchased | Digital                                  | Downloaded | Released      | Notes |
-| ------------------------- | :-------: | ---------------------------------------- | :--------: | ------------- | ----- |
-| [New Vegas Setting Guide] |    :x:    | [Buy :pdf:][New Vegas Setting Guide PDF] |    :x:     | [August 2026] |
+| Item                      | Purchased | Digital                                  |     Downloaded     | Released      | Notes |
+| ------------------------- | :-------: | ---------------------------------------- | :----------------: | ------------- | ----- |
+| [New Vegas Setting Guide] |    :x:    | [Buy :pdf:][New Vegas Setting Guide PDF] | :heavy_check_mark: | [August 2026] |
 
 [New Vegas Setting Guide]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide
 [New Vegas Setting Guide PDF]: https://modiphius.net/products/fallout-the-roleplaying-game-new-vegas-setting-guide-pdf
@@ -2622,7 +2622,7 @@ The [Battle for Boston Complete Bundle](https://modiphius.net/products/fallout-f
 | ----------------------------------------- | :----------------: | ----------------------------------------------------------- | :----------------: | ---------------- | ----------------------------------------- |
 | [Super Mutants: Core Box (Plastic)]       |        :x:         | [Assembly Guide :pdf:][Super Mutants Assembly Guide]        | :heavy_check_mark: | [February 2026]  | [Dice Set][Super Mutants: Dice Set]       |
 | [Wasteland Raiders: Core Box (Plastic)]   | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Raiders: Assembly Guide]   | :heavy_check_mark: | [March 2025]     | [Dice Set][Wasteland Raiders: Dice Set]   |
-| [Wasteland Survivors: Core Box (Plastic)] |        :x:         | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
+| [Wasteland Survivors: Core Box (Plastic)] | :heavy_check_mark: | [Assembly Guide :pdf:][Wasteland Survivors: Assembly Guide] | :heavy_check_mark: | [September 2025] | [Dice Set][Wasteland Survivors: Dice Set] |
 
 [Super Mutants Assembly Guide]: https://files.elfsightcdn.com/d528e56f-0708-46dc-b0f6-17ea4ecf8183/90459297-8488-451f-a4b0-e40cdefa6efd/FalloutFactions-SuperMutantsCore-AssemblyGuide-Digital.pdf
 [Super Mutants: Core Box (Plastic)]: https://modiphius.net/products/fallout-miniatures-super-mutants-core-set-plastic
